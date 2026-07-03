@@ -1,0 +1,29 @@
+id: concept.sedentary_behavior
+type: Concept
+canonical_name: Sedentary Behavior
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.4'
+  section_title: Sedentary Behavior and Health
+  book_page: 83
+  pdf_page: 83
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: Any waking behavior characterized by an energy expenditure of ≤1.5 METs
+  while in a sitting, reclining, or lying posture (29).
+attributes:
+- energy expenditure ≤1.5 METs
+- sitting posture
+- reclining posture
+- lying posture
+purpose: []
+related_concepts: []

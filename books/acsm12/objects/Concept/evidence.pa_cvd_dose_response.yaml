@@ -1,0 +1,29 @@
+id: evidence.pa_cvd_dose_response
+type: Concept
+canonical_name: PA-CVD Dose-Response Evidence
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.3'
+  section_title: Public Health Perspective for Current Recommendations
+  book_page: 79
+  pdf_page: 79
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A meta-analysis of 23 sex-specific cohorts representing 1,325,004 person-years
+  of follow-up showed a strong inverse dose-response relationship between PA and risk
+  for CVD independent of baseline levels of PA or CRF.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.physical_activity

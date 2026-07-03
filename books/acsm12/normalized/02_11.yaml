@@ -1,0 +1,108 @@
+# ontology: knowledge-compiler/v1
+# Section: 2.11 — Medical History and CVD Risk Factor Assessment
+# Pages: 149–159
+
+---
+id: threshold.blood_pressure_classification
+type: Threshold
+canonical_name: Blood Pressure Classification
+semantic_type: Range
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Evaluation"
+  section: "2.11"
+  section_title: "Medical History and CVD Risk Factor Assessment"
+  book_page: 153
+  pdf_page: 153
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+metric: Blood Pressure
+range: 
+unit: mm Hg
+population: Adults
+condition: JNC Criteria
+numerical_value: []
+numerical_max: []
+comparison_operator: 
+extra: "Normal: SBP <120 / DBP <80 | Prehypertension: SBP 120-139 / DBP 80-89 | Stage 1 HTN: SBP 140-159 / DBP 90-99 | Stage 2 HTN: SBP ≥160 / DBP ≥100"
+
+---
+id: threshold.cvd_risk_factors
+type: Threshold
+canonical_name: CVD Risk Factor Thresholds
+semantic_type: Range
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Evaluation"
+  section: "2.11"
+  section_title: "Medical History and CVD Risk Factor Assessment"
+  book_page: 150
+  pdf_page: 150
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+metric: CVD Risk Factors
+range: 
+unit: 
+population: Adults
+condition: ACSM Risk Stratification
+numerical_value: []
+numerical_max: []
+comparison_operator: 
+extra: "Age: Men ≥45, Women ≥55 | Smoking: current or quit <6mo | Physical inactivity: not meeting PA guidelines | Obesity: BMI ≥30 or waist >102/88 cm | Hypertension: SBP ≥130/DBP ≥80 | Dyslipidemia: LDL ≥130 or HDL <40 | Prediabetes: FBG ≥100"
+
+---
+id: threshold.cholesterol_classification
+type: Threshold
+canonical_name: Cholesterol Classification
+semantic_type: Range
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Evaluation"
+  section: "2.11"
+  section_title: "Medical History and CVD Risk Factor Assessment"
+  book_page: 154
+  pdf_page: 154
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+metric: Cholesterol
+range: 
+unit: mg·dL⁻¹
+population: Adults
+condition: Lipid Panel
+numerical_value: []
+numerical_max: []
+comparison_operator: 
+extra: "LDL-C: Desirable <100, Above desirable 100-129, Borderline high 130-159, High 160-189, Very high ≥190 | HDL-C: Low <40 men/<50 women, High ≥60 | Triglycerides: Normal <150, Borderline 150-199, High 200-499, Very high ≥500"

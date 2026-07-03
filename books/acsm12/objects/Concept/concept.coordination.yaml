@@ -1,0 +1,29 @@
+id: concept.coordination
+type: Concept
+canonical_name: Coordination
+semantic_type: Entity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Physical Activity and Fitness Terminology
+  book_page: 70
+  pdf_page: 70
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.skill_related_physical_fitness
+definition: 'The ability to use the senses, such as sight and hearing, together with
+  body parts in performing tasks smoothly and accurately.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

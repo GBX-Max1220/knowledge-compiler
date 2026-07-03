@@ -1,0 +1,43 @@
+# ====================================================================
+# Schema: Procedure
+# ====================================================================
+# An ordered set of steps to accomplish a specific goal.
+# Examples: exercise testing protocol, test termination criteria.
+
+type: Procedure
+
+header:
+  id:               string      # e.g. "procedure.test_termination"
+  type:             Procedure
+  canonical_name:   string
+  semantic_type:    string      # "Protocol" | "Process"
+
+aliases:            string[]
+
+source:
+  book:             string
+  edition:          integer
+  chapter:          integer
+  chapter_title:    string
+  section:          string
+  section_title:    string
+  book_page:        integer
+  pdf_page:         integer
+
+provenance:
+  extraction:       string
+  normalization:    string
+  reviewed:         string
+
+evidence_level:     string
+
+relationships:      object[]
+  - predicate:      string
+    target:         string
+
+# --- Type-specific body ---
+goal:               string      # purpose of the procedure
+inputs:             string[]    # prerequisites / equipment / conditions
+outputs:            string[]    # expected results
+steps:              string[]    # ordered list of steps
+exceptions:         string[]    # special cases / when to stop

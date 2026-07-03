@@ -1,0 +1,42 @@
+# ====================================================================
+# Schema: Recommendation
+# ====================================================================
+# A guideline or recommendation with target population and dosage.
+
+type: Recommendation
+
+header:
+  id:               string      # e.g. "recommendation.pa_minimum"
+  type:             Recommendation
+  canonical_name:   string
+  semantic_type:    string      # "Guideline" | "Prescription"
+
+aliases:            string[]
+
+source:
+  book:             string
+  edition:          integer
+  chapter:          integer
+  chapter_title:    string
+  section:          string
+  section_title:    string
+  book_page:        integer
+  pdf_page:         integer
+
+provenance:
+  extraction:       string
+  normalization:    string
+  reviewed:         string
+
+evidence_level:     string
+
+relationships:      object[]
+  - predicate:      string
+    target:         string
+
+# --- Type-specific body ---
+population:           string    # target population
+goal:                 string    # purpose of the recommendation
+dosage:               string    # frequency / intensity / time / volume
+evidence_grade:        string    # A | B | C | D | E (as per source's system)
+evidence_reference:   string    # citation number / PMID

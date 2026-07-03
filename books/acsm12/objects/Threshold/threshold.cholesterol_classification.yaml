@@ -1,0 +1,32 @@
+id: threshold.cholesterol_classification
+type: Threshold
+canonical_name: Cholesterol Classification
+semantic_type: Range
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Evaluation
+  section: '2.11'
+  section_title: Medical History and CVD Risk Factor Assessment
+  book_page: 154
+  pdf_page: 154
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+metric: Cholesterol
+range: 'LDL: <100 Desirable, 100-129 Above desirable, 130-159 Borderline high, 160-189
+  High, ≥190 Very high'
+unit: mg·dL⁻¹
+population: Adults
+condition: Lipid Panel
+numerical_value: 100.0
+numerical_max: []
+comparison_operator: range
+extra: 'LDL-C: Desirable <100, Above desirable 100-129, Borderline high 130-159, High
+  160-189, Very high ≥190 | HDL-C: Low <40 men/<50 women, High ≥60 | Triglycerides:
+  Normal <150, Borderline 150-199, High 200-499, Very high ≥500'

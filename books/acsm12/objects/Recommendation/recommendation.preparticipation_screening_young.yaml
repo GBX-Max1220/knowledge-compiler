@@ -1,0 +1,26 @@
+id: recommendation.preparticipation_screening_young
+type: Recommendation
+canonical_name: Preparticipation Cardiovascular Screening for Young Athletes
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.9'
+  section_title: Sudden Cardiac Death Among Young Individuals
+  book_page: 91
+  pdf_page: 91
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+population: Young individuals (athletes)
+goal: Reduce risk of SCD incidence
+dosage: Preparticipation cardiovascular screening endorsed by the International Olympic
+  Committee and AHA.
+evidence_grade: null
+evidence_reference: (118-120)

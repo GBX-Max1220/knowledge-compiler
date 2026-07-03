@@ -1,0 +1,75 @@
+# ontology: knowledge-compiler/v1
+# Section: 3.19 — Modes of Testing
+# Pages: 206–218
+
+---
+id: procedure.ymca_cycle_protocol
+type: Procedure
+canonical_name: YMCA Submaximal Cycle Ergometer Protocol
+semantic_type: Protocol
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "3.19"
+  section_title: "Modes of Testing"
+  book_page: 214
+  pdf_page: 214
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+goal: Estimate VO2max from submaximal cycle ergometry
+inputs:
+  - cycle ergometer
+  - HR monitor
+  - BP cuff
+outputs:
+  - estimated VO2max
+steps:
+  - Set initial workload at 150 kg·m·min⁻¹ (25 W) for low fitness or 300 kg·m·min⁻¹ (50 W) for most adults
+  - Individual pedals at 50 rpm
+  - Monitor HR during each 3-minute stage
+  - If HR is below threshold, increase workload
+  - Continue for 2-4 stages until target HR is reached
+  - Plot HR vs work rate and extrapolate to age-predicted HRmax
+  - Estimate VO2max from extrapolated work rate
+exceptions: []
+
+---
+id: formula.cooper_12min_run
+type: Formula
+canonical_name: Cooper 12-Minute Run Test VO2max
+semantic_type: Equation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "3.19"
+  section_title: "Modes of Testing"
+  book_page: 215
+  pdf_page: 215
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+canonical_form: VO2max (mL·kg⁻¹·min⁻¹) = (distance in meters − 504.9) / 44.73
+variables:
+  - "{'name': 'distance', 'description': 'Distance covered in 12 minutes (meters)'}"
+limitations: Valid for healthy adults; requires maximal effort

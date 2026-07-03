@@ -1,0 +1,46 @@
+# ====================================================================
+# Schema: Threshold
+# ====================================================================
+# A cutoff or classification boundary with a metric and range.
+# Examples: Light (1.6–2.9 METs), Vigorous (≥6.0 METs)
+
+type: Threshold
+
+header:
+  id:               string      # e.g. "threshold.met.moderate"
+  type:             Threshold
+  canonical_name:   string      # e.g. "Moderate Intensity"
+  semantic_type:    string      # "Range" | "Cutoff"
+
+aliases:            string[]    # ONLY from original text
+
+source:
+  book:             string
+  edition:          integer
+  chapter:          integer
+  chapter_title:    string
+  section:          string
+  section_title:    string
+  book_page:        integer
+  pdf_page:         integer
+
+provenance:
+  extraction:       string
+  normalization:    string
+  reviewed:         string
+
+evidence_level:     string
+
+relationships:      object[]
+  - predicate:      string
+    target:         string
+
+# --- Type-specific body ---
+metric:               string    # measured quantity, e.g. "MET"
+range:                string    # human-readable range, e.g. "3.0–5.9"
+unit:                 string    # unit of measurement, e.g. "METs"
+population:           string    # applicable population, e.g. "Adults"
+condition:            string    # context, e.g. "Physical Activity Intensity Classification"
+numerical_value:      float     # lower bound (or exact value)
+numerical_max:        float     # upper bound (null if open-ended)
+comparison_operator:  string    # "range" | "≥" | "≤" | ">" | "<" | "="

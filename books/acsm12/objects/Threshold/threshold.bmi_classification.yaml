@@ -1,0 +1,31 @@
+id: threshold.bmi_classification
+type: Threshold
+canonical_name: BMI Classification
+semantic_type: Range
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '3.10'
+  section_title: Anthropometric Methods
+  book_page: 177
+  pdf_page: 177
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+metric: BMI
+range: <18.5 Underweight, 18.5-24.9 Normal, 25.0-29.9 Overweight, 30.0-34.9 Obese
+  I, 35.0-39.9 Obese II, ≥40.0 Obese III
+unit: kg·m⁻²
+population: Adults
+condition: WHO Classification
+numerical_value: 18.5
+numerical_max: []
+comparison_operator: range
+extra: 'Underweight: <18.5 | Normal: 18.5-24.9 | Overweight: 25.0-29.9 | Obese I:
+  30.0-34.9 | Obese II: 35.0-39.9 | Obese III: ≥40.0'

@@ -1,0 +1,37 @@
+id: procedure.test_termination
+type: Procedure
+canonical_name: Exercise Test Termination Criteria
+semantic_type: Protocol
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '3.18'
+  section_title: Test Termination Criteria
+  book_page: 206
+  pdf_page: 206
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+goal: Safely terminate a graded exercise test when indicated
+inputs:
+- exercise test in progress
+- vital signs monitoring
+outputs:
+- test termination decision
+steps:
+- 'Monitor for absolute indications: drop in SBP ≥10 mm Hg despite increased workload,
+  moderate-to-severe angina, CNS symptoms, signs of poor perfusion, sustained ventricular
+  tachycardia'
+- 'Monitor for relative indications: drop in SBP ≥10 mm Hg from baseline, ST or QRS
+  changes, arrhythmias, fatigue, shortness of breath, leg cramps, claudication, hypertensive
+  response'
+- Terminate test if any absolute indication appears
+- Consider termination for relative indications based on clinical judgment
+exceptions:
+- Clinical tests with ECG monitoring may have different criteria

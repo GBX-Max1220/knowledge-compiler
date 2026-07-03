@@ -1,0 +1,31 @@
+id: threshold.blood_pressure_classification
+type: Threshold
+canonical_name: Blood Pressure Classification
+semantic_type: Range
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Evaluation
+  section: '2.11'
+  section_title: Medical History and CVD Risk Factor Assessment
+  book_page: 153
+  pdf_page: 153
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+metric: Blood Pressure
+range: 'Normal: SBP<120/DBP<80, PreHTN: 120-139/80-89, Stage1: 140-159/90-99, Stage2:
+  ≥160/≥100'
+unit: mm Hg
+population: Adults
+condition: JNC Criteria
+numerical_value: 120.0
+numerical_max: []
+comparison_operator: range
+extra: 'Normal: SBP <120 / DBP <80 | Prehypertension: SBP 120-139 / DBP 80-89 | Stage
+  1 HTN: SBP 140-159 / DBP 90-99 | Stage 2 HTN: SBP ≥160 / DBP ≥100'

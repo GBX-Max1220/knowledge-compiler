@@ -1,0 +1,41 @@
+# ====================================================================
+# Schema: Contraindication
+# ====================================================================
+# A condition that prohibits or restricts an activity/procedure.
+
+type: Contraindication
+
+header:
+  id:               string
+  type:             Contraindication
+  canonical_name:   string
+  semantic_type:    string      # "Contraindication"
+
+aliases:            string[]
+
+source:
+  book:             string
+  edition:          integer
+  chapter:          integer
+  chapter_title:    string
+  section:          string
+  section_title:    string
+  book_page:        integer
+  pdf_page:         integer
+
+provenance:
+  extraction:       string
+  normalization:    string
+  reviewed:         string
+
+evidence_level:     string
+
+relationships:      object[]
+  - predicate:      string
+    target:         string
+
+# --- Type-specific body ---
+condition:          string      # the disqualifying condition
+category:           string      # "Absolute" | "Relative"
+details:            string      # explanatory text
+temporary:          boolean     # whether the contraindication is temporary

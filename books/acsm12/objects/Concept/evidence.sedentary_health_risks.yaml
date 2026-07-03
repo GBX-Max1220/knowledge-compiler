@@ -1,0 +1,27 @@
+id: evidence.sedentary_health_risks
+type: Concept
+canonical_name: Sedentary Behavior Health Risks
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.4'
+  section_title: Sedentary Behavior and Health
+  book_page: 83
+  pdf_page: 83
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: High levels of sedentary behavior are associated with increased risks
+  for incidence of diabetes, heart disease, and cancer as well as increased risks
+  for mortality from all causes, CVD, and cancer.
+attributes: []
+purpose: []
+related_concepts:
+- concept.sedentary_behavior

@@ -1,0 +1,75 @@
+registry:
+  1-Repetition Maximum Testing: procedure.one_rm_testing
+  ACSM Preparticipation Screening Logic: decision_rule.acsm_screening_algorithm
+  ACSM-AHA Primary Physical Activity Recommendation: recommendation.acsm_aha_primary_pa_2007
+  ACSM-AHA Strategies to Reduce Cardiac Event Risk: recommendation.acsm_aha_cardiac_event_prevention
+  Absolute SCD Risk During Vigorous PA: evidence.absolute_scd_risk_vigorous_pa
+  Agility: concept.agility
+  Any Intensity PA Provides Benefits for Inactive: recommendation.pa_any_intensity_benefits
+  BMI Classification: threshold.bmi_classification
+  Balance: concept.balance
+  Benefits of Regular Physical Activity: concept.benefits_regular_pa
+  Blood Pressure Classification: threshold.blood_pressure_classification
+  Body Composition: concept.body_composition
+  Body Density from Skinfolds (Jackson-Pollock): formula.body_density_skinfolds
+  Body Fat Percentage Norms for Men: threshold.body_fat_percent_men
+  Body Fat Percentage Norms for Women: threshold.body_fat_percent_women
+  Borg Rating of Perceived Exertion Scale: table.borg_rpe_scale
+  Bout Duration Requirement Elimination: recommendation.bout_duration_elimination_2018
+  CVD Risk Factor Thresholds: threshold.cvd_risk_factors
+  Cardiac Prodromal Symptoms: warning.cardiac_prodromal_symptoms
+  Cardiac Rehabilitation Complication Rates: evidence.cardiac_rehab_complication_rates
+  Cardiorespiratory Endurance: concept.cardiorespiratory_endurance
+  Cholesterol Classification: threshold.cholesterol_classification
+  Cooper 12-Minute Run Test VO2max: formula.cooper_12min_run
+  Coordination: concept.coordination
+  Exercise: concept.exercise
+  Exercise Test Termination Criteria: procedure.test_termination
+  Exercise Testing Cardiac Risk: evidence.exercise_testing_risk_summary
+  Exercise-Related Cardiovascular Event Risk: risk_factor.cardiovascular_event_exercise
+  Exercise-Related Musculoskeletal Injury Risk: risk_factor.msi_exercise
+  Flexibility: concept.flexibility
+  Habitual Inactivity and AMI Risk: evidence.habitual_inactivity_ami_risk
+  Health-Related Physical Fitness: concept.health_related_physical_fitness
+  Informed Consent Process: procedure.informed_consent
+  Inverse MSI-Fitness Relationship: evidence.inverse_msi_fitness
+  Light Intensity: threshold.met.light
+  MET: concept.met
+  MSI Prevalence: concept.msi_prevalence
+  MSI Risk by Activity Type: warning.msi_by_activity
+  MVPA Mitigation of Sedentary Mortality Risk: evidence.mvpa_mitigation_sedentary_mortality
+  Maximal Oxygen Uptake: concept.vo2max
+  Medical Clearance for Exercise: recommendation.medical_clearance_exercise
+  Moderate Intensity: threshold.met.moderate
+  Mortality Risk Without Emergency Management in Cardiac Rehab: warning.cardiac_rehab_mortality_without_emergency
+  Muscular Endurance: concept.muscular_endurance
+  Muscular Fitness: concept.muscular_fitness
+  Muscular Strength: concept.muscular_strength
+  Muscular Strength, Endurance, and Power: concept.muscular_strength_endurance_power
+  PA Beyond Minimum for Weight Management: recommendation.pa_weight_management
+  PA-CVD Dose-Response Evidence: evidence.pa_cvd_dose_response
+  PAR-Q+ Self-Guided Screening: procedure.parq_plus_screening
+  Percent Body Fat from Body Density (Siri): formula.percent_body_fat_siri
+  Physical Activity: concept.physical_activity
+  Physical Activity Guidelines for Americans Primary Recommendation: recommendation.pag_acsa_primary_2018
+  Physical Fitness: concept.physical_fitness
+  Power: concept.power
+  Preparticipation Cardiovascular Screening for Young Athletes: recommendation.preparticipation_screening_young
+  Reaction Time: concept.reaction_time
+  Resistance Training Health Benefits: evidence.resistance_training_benefits
+  Resting Blood Pressure Assessment: procedure.resting_blood_pressure
+  SCD Incidence in Young Athletes: evidence.scd_incidence_young_athletes
+  SCD/AMI Risk Ratios During Vigorous PA: evidence.scd_ami_risk_ratios
+  Sedentary Behavior: concept.sedentary_behavior
+  Sedentary Behavior Energy Expenditure: threshold.sedentary_met
+  Sedentary Behavior Health Risks: evidence.sedentary_health_risks
+  Signs and Symptoms of CV/Metabolic/Renal Disease: warning.signs_symptoms_cv_disease
+  Sit-and-Reach Test: procedure.sit_and_reach
+  Skill-Related Physical Fitness: concept.skill_related_physical_fitness
+  Speed: concept.speed
+  Transient SCD and AMI Risk During Vigorous PA: warning.scd_ami_vigorous_pa
+  Using the ACSM Preparticipation Screening Algorithm: procedure.acsm_screening_algorithm
+  Vigorous Intensity: threshold.met.vigorous
+  Waist Circumference Measurement: procedure.waist_circumference
+  Waist Circumference Risk Thresholds: threshold.waist_circumference
+  YMCA Submaximal Cycle Ergometer Protocol: procedure.ymca_cycle_protocol

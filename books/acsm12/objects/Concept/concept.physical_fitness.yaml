@@ -1,0 +1,31 @@
+id: concept.physical_fitness
+type: Concept
+canonical_name: Physical Fitness
+semantic_type: Entity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Physical Activity and Fitness Terminology
+  book_page: 70
+  pdf_page: 70
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A set of attributes or characteristics individuals have or achieve that
+  relate to their ability to perform PA and activities of daily living (7).
+
+  '
+attributes:
+- set of attributes
+- relates to PA performance
+- relates to daily living
+purpose: []
+related_concepts:
+- concept.health_related_physical_fitness

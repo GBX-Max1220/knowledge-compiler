@@ -1,0 +1,134 @@
+# ontology: knowledge-compiler/v1
+# Section: 1.4 — Sedentary Behavior and Health
+# Source: ACSM's Guidelines for Exercise Testing and Prescription, 12th Ed.
+# Pages: 82–84
+
+---
+id: concept.sedentary_behavior
+type: Concept
+canonical_name: Sedentary Behavior
+semantic_type: Activity
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.4"
+  section_title: "Sedentary Behavior and Health"
+  book_page: 83
+  pdf_page: 83
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: Any waking behavior characterized by an energy expenditure of ≤1.5 METs while in a sitting, reclining, or lying posture (29).
+attributes:
+  - energy expenditure ≤1.5 METs
+  - sitting posture
+  - reclining posture
+  - lying posture
+purpose:
+related_concepts:
+
+---
+id: threshold.sedentary_met
+type: Threshold
+canonical_name: Sedentary Behavior Energy Expenditure
+semantic_type: Range
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.4"
+  section_title: "Sedentary Behavior and Health"
+  book_page: 83
+  pdf_page: 83
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+metric: MET
+range: ≤1.5
+unit: METs
+population: Adults
+condition: Sedentary Behavior Classification
+numerical_value: 1.5
+numerical_max: None
+comparison_operator: ≤
+
+---
+id: evidence.sedentary_health_risks
+type: Concept
+canonical_name: Sedentary Behavior Health Risks
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.4"
+  section_title: "Sedentary Behavior and Health"
+  book_page: 83
+  pdf_page: 83
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: High levels of sedentary behavior are associated with increased risks for incidence of diabetes, heart disease, and cancer as well as increased risks for mortality from all causes, CVD, and cancer.
+attributes:
+purpose:
+related_concepts:
+  - concept.sedentary_behavior
+
+---
+id: evidence.mvpa_mitigation_sedentary_mortality
+type: Concept
+canonical_name: MVPA Mitigation of Sedentary Mortality Risk
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.4"
+  section_title: "Sedentary Behavior and Health"
+  book_page: 84
+  pdf_page: 84
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: High levels of MVPA (≥4.3 times the minimum recommended amount — about 60–75 min · d⁻¹ of moderate-intensity PA) appear to eliminate the mortality risk associated with high levels of sedentary behavior.
+attributes:
+purpose:
+related_concepts:
+  - concept.sedentary_behavior

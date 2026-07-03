@@ -1,0 +1,18 @@
+# Extraction: Section 2.4 — ACSM Preparticipation Screening Process
+# Pages: 131–135
+
+---
+TYPE: Decision Rule
+TITLE: ACSM Preparticipation Screening Algorithm Logic
+PAGE: 131
+SECTION: 2.4
+ORIGINAL: The screening algorithm classifies individuals who do or do not currently participate in regular PA. It uses signs and symptoms, disease history, current exercise participation, and desired exercise intensity to guide recommendations for preparticipation medical clearance.
+END
+---
+TYPE: Warning
+TITLE: Signs and Symptoms Suggestive of CV, Metabolic, or Renal Disease
+PAGE: 133–134
+SECTION: 2.4
+ORIGINAL: Signs/symptoms include: pain/discomfort in chest/neck/jaw/arms, shortness of breath at rest or mild exertion, dizziness or syncope, orthopnea or paroxysmal nocturnal dyspnea, ankle edema, palpitations or tachycardia, intermittent claudication, known heart murmur, unusual fatigue or shortness of breath with usual activities.
+SEVERITY: high
+END

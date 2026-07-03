@@ -1,0 +1,126 @@
+# ontology: knowledge-compiler/v1
+# Section: 1.10 — Exercise-Related Cardiac Events in Adults
+# Source: ACSM's Guidelines for Exercise Testing and Prescription, 12th Ed.
+# Pages: 93–95
+
+---
+id: warning.scd_ami_vigorous_pa
+type: Warning
+canonical_name: Transient SCD and AMI Risk During Vigorous PA
+semantic_type: Safety
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.10"
+  section_title: "Exercise-Related Cardiac Events in Adults"
+  book_page: 93
+  pdf_page: 93
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+condition: Vigorous-intensity physical activity, particularly in sedentary individuals with diagnosed or occult CVD
+signs:
+  - sudden cardiac death
+  - acute myocardial infarction
+action: Risk decreases with long-term compliance to an exercise regimen and increasing volumes of regular PA.
+severity: high
+
+---
+id: evidence.scd_ami_risk_ratios
+type: Concept
+canonical_name: SCD/AMI Risk Ratios During Vigorous PA
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.10"
+  section_title: "Exercise-Related Cardiac Events in Adults"
+  book_page: 94
+  pdf_page: 94
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: A meta-analysis reported a fivefold increased risk of SCD and a 3.5-fold increased risk of AMI during or shortly after vigorous-intensity PA.
+attributes:
+purpose:
+related_concepts:
+
+---
+id: evidence.habitual_inactivity_ami_risk
+type: Concept
+canonical_name: Habitual Inactivity and AMI Risk
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.10"
+  section_title: "Exercise-Related Cardiac Events in Adults"
+  book_page: 94
+  pdf_page: 94
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: The risk of AMI during or immediately following vigorous-intensity exercise was 50 times higher for the habitually inactive compared to individuals who exercised vigorously for 1-hour sessions ≥5 d · wk⁻¹.
+attributes:
+purpose:
+related_concepts:
+
+---
+id: evidence.absolute_scd_risk_vigorous_pa
+type: Concept
+canonical_name: Absolute SCD Risk During Vigorous PA
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.10"
+  section_title: "Exercise-Related Cardiac Events in Adults"
+  book_page: 95
+  pdf_page: 95
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: SCD occurs every 1.5 million episodes of vigorous PA in men and every 36.5 million episodes of MVPA in women. 1 death per 396,000 hours of jogging in 30- to 60-year-old men.
+attributes:
+purpose:
+related_concepts:

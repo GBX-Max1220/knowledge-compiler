@@ -1,0 +1,26 @@
+id: evidence.cardiac_rehab_complication_rates
+type: Concept
+canonical_name: Cardiac Rehabilitation Complication Rates
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.12'
+  section_title: Risks of Cardiac Events During Cardiac Rehabilitation
+  book_page: 98
+  pdf_page: 98
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Average rates: 1 cardiac arrest per 116,906 patient-hours, 1 AMI per
+  219,970 patient-hours, 1 fatality per 752,365 patient-hours, and 1 major complication
+  per 81,670 patient-hours.'
+attributes: []
+purpose: []
+related_concepts: []

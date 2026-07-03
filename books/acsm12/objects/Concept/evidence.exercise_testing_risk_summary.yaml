@@ -1,0 +1,25 @@
+id: evidence.exercise_testing_risk_summary
+type: Concept
+canonical_name: Exercise Testing Cardiac Risk
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.11'
+  section_title: Exercise Testing and the Risk of Cardiac Events
+  book_page: 96
+  pdf_page: 96
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: In a mixed population, the risk of exercise testing is low, with approximately
+  six cardiac events per 10,000 tests.
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,5748 @@
+book:
+  title: "ACSMs Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  total_pages: 1291
+
+chapters:
+- id: 1
+  title: "Benefits and Risks Associated With Physical Activity"
+  pdf_pages:
+    start: 69
+    end: 121
+  sections:
+    - id: "1.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 69
+        end: 69
+      estimated_complexity: 1
+      estimated_tokens: 257
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.2"
+      title: "Physical Activity and Fitness Terminology"
+      pdf_pages:
+        start: 69
+        end: 74
+      estimated_complexity: 3
+      estimated_tokens: 1961
+      contains:
+        definitions: yes
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.3"
+      title: "Public Health Perspective for Current Recommendations"
+      pdf_pages:
+        start: 75
+        end: 81
+      estimated_complexity: 4
+      estimated_tokens: 2388
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "1.4"
+      title: "Sedentary Behavior and Health"
+      pdf_pages:
+        start: 82
+        end: 84
+      estimated_complexity: 1
+      estimated_tokens: 1436
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.5"
+      title: "Health Benefits of Regular Physical Activity and Exercise"
+      pdf_pages:
+        start: 85
+        end: 86
+      estimated_complexity: 3
+      estimated_tokens: 883
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "1.6"
+      title: "Health Benefits of Improving Muscular Fitness"
+      pdf_pages:
+        start: 87
+        end: 87
+      estimated_complexity: 1
+      estimated_tokens: 439
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.7"
+      title: "Risks Associated With Physical Activity and Exercise"
+      pdf_pages:
+        start: 88
+        end: 88
+      estimated_complexity: 1
+      estimated_tokens: 428
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.8"
+      title: "Exercise-Related Musculoskeletal Injury"
+      pdf_pages:
+        start: 89
+        end: 89
+      estimated_complexity: 1
+      estimated_tokens: 421
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.9"
+      title: "Sudden Cardiac Death Among Young Individuals"
+      pdf_pages:
+        start: 90
+        end: 92
+      estimated_complexity: 2
+      estimated_tokens: 855
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.10"
+      title: "Exercise-Related Cardiac Events in Adults"
+      pdf_pages:
+        start: 93
+        end: 95
+      estimated_complexity: 2
+      estimated_tokens: 1184
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "1.11"
+      title: "Exercise Testing and the Risk of Cardiac Events"
+      pdf_pages:
+        start: 96
+        end: 97
+      estimated_complexity: 2
+      estimated_tokens: 470
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.12"
+      title: "Risks of Cardiac Events During Cardiac Rehabilitation"
+      pdf_pages:
+        start: 98
+        end: 99
+      estimated_complexity: 2
+      estimated_tokens: 566
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.13"
+      title: "Prevention of Exercise-Related Cardiac Events"
+      pdf_pages:
+        start: 100
+        end: 101
+      estimated_complexity: 2
+      estimated_tokens: 758
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.14"
+      title: "Online Resources"
+      pdf_pages:
+        start: 102
+        end: 102
+      estimated_complexity: 1
+      estimated_tokens: 363
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "1.15"
+      title: "References"
+      pdf_pages:
+        start: 102
+        end: 121
+      estimated_complexity: 2
+      estimated_tokens: 7907
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+- id: 2
+  title: "Preparticipation Evaluation"
+  pdf_pages:
+    start: 122
+    end: 167
+  sections:
+    - id: "2.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 122
+        end: 122
+      estimated_complexity: 1
+      estimated_tokens: 335
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "2.2"
+      title: "Informed Consent"
+      pdf_pages:
+        start: 123
+        end: 127
+      estimated_complexity: 3
+      estimated_tokens: 889
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "2.3"
+      title: "Exercise Preparticipation Health Screening"
+      pdf_pages:
+        start: 128
+        end: 130
+      estimated_complexity: 3
+      estimated_tokens: 1421
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: yes
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "2.4"
+      title: "American College of Sports Medicine Preparticipation Screening Process"
+      pdf_pages:
+        start: 131
+        end: 135
+      estimated_complexity: 4
+      estimated_tokens: 2028
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "2.5"
+      title: "American College of Sports Medicine Preparticipation Screening Algorithm"
+      pdf_pages:
+        start: 136
+        end: 138
+      estimated_complexity: 2
+      estimated_tokens: 263
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "2.6"
+      title: "Algorithm Components"
+      pdf_pages:
+        start: 139
+        end: 141
+      estimated_complexity: 4
+      estimated_tokens: 775
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: yes
+      status: pending
+    - id: "2.7"
+      title: "Using the Algorithm"
+      pdf_pages:
+        start: 142
+        end: 144
+      estimated_complexity: 3
+      estimated_tokens: 1494
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "2.8"
+      title: "Alternative Self-Guided Method"
+      pdf_pages:
+        start: 145
+        end: 145
+      estimated_complexity: 1
+      estimated_tokens: 234
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "2.9"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 146
+        end: 146
+      estimated_complexity: 2
+      estimated_tokens: 445
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "2.10"
+      title: "Risk Stratification for Individuals With Clinical Conditions and Medical Fitness Facilities"
+      pdf_pages:
+        start: 147
+        end: 148
+      estimated_complexity: 1
+      estimated_tokens: 914
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "2.11"
+      title: "Medical History and Cardiovascular Disease Risk Factor Assessment"
+      pdf_pages:
+        start: 149
+        end: 159
+      estimated_complexity: 5
+      estimated_tokens: 3942
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: yes
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "2.12"
+      title: "Additional Recommendations"
+      pdf_pages:
+        start: 160
+        end: 160
+      estimated_complexity: 1
+      estimated_tokens: 377
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "2.13"
+      title: "Online Resources"
+      pdf_pages:
+        start: 161
+        end: 161
+      estimated_complexity: 1
+      estimated_tokens: 448
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "2.14"
+      title: "References"
+      pdf_pages:
+        start: 162
+        end: 167
+      estimated_complexity: 2
+      estimated_tokens: 2408
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+- id: 3
+  title: "Health-Related Physical Fitness Testing and Interpretation"
+  pdf_pages:
+    start: 168
+    end: 271
+  sections:
+    - id: "3.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 168
+        end: 168
+      estimated_complexity: 1
+      estimated_tokens: 297
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.2"
+      title: "Purposes of Health-Related Physical Fitness Testing"
+      pdf_pages:
+        start: 168
+        end: 168
+      estimated_complexity: 1
+      estimated_tokens: 297
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.3"
+      title: "Basic Principles and Guidelines"
+      pdf_pages:
+        start: 169
+        end: 169
+      estimated_complexity: 1
+      estimated_tokens: 339
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.4"
+      title: "Pretest Instructions for Fitness Testing"
+      pdf_pages:
+        start: 169
+        end: 169
+      estimated_complexity: 1
+      estimated_tokens: 339
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.5"
+      title: "Organizing the Fitness Test"
+      pdf_pages:
+        start: 169
+        end: 169
+      estimated_complexity: 1
+      estimated_tokens: 339
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.6"
+      title: "Test Environment"
+      pdf_pages:
+        start: 170
+        end: 170
+      estimated_complexity: 1
+      estimated_tokens: 431
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.7"
+      title: "A Comprehensive Health Fitness Evaluation"
+      pdf_pages:
+        start: 171
+        end: 172
+      estimated_complexity: 1
+      estimated_tokens: 890
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.8"
+      title: "Measurement of Resting Heart Rate and Blood Pressure"
+      pdf_pages:
+        start: 173
+        end: 174
+      estimated_complexity: 1
+      estimated_tokens: 917
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.9"
+      title: "Body Composition"
+      pdf_pages:
+        start: 175
+        end: 175
+      estimated_complexity: 1
+      estimated_tokens: 395
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.10"
+      title: "Anthropometric Methods"
+      pdf_pages:
+        start: 176
+        end: 186
+      estimated_complexity: 3
+      estimated_tokens: 4633
+      contains:
+        definitions: yes
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.11"
+      title: "Densitometry"
+      pdf_pages:
+        start: 187
+        end: 191
+      estimated_complexity: 3
+      estimated_tokens: 1736
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.12"
+      title: "Other Techniques"
+      pdf_pages:
+        start: 192
+        end: 193
+      estimated_complexity: 1
+      estimated_tokens: 916
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.13"
+      title: "Body Composition Norms"
+      pdf_pages:
+        start: 194
+        end: 196
+      estimated_complexity: 2
+      estimated_tokens: 931
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.14"
+      title: "Cardiorespiratory Fitness"
+      pdf_pages:
+        start: 197
+        end: 197
+      estimated_complexity: 1
+      estimated_tokens: 290
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.15"
+      title: "The Concept of Maximal Oxygen Uptake"
+      pdf_pages:
+        start: 198
+        end: 200
+      estimated_complexity: 2
+      estimated_tokens: 1458
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.16"
+      title: "Maximal Versus Submaximal Exercise Testing"
+      pdf_pages:
+        start: 201
+        end: 201
+      estimated_complexity: 1
+      estimated_tokens: 437
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.17"
+      title: "Cardiorespiratory Fitness Test Sequence and Measures"
+      pdf_pages:
+        start: 202
+        end: 205
+      estimated_complexity: 4
+      estimated_tokens: 1581
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "3.18"
+      title: "Test Termination Criteria"
+      pdf_pages:
+        start: 206
+        end: 206
+      estimated_complexity: 2
+      estimated_tokens: 424
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.19"
+      title: "Modes of Testing"
+      pdf_pages:
+        start: 206
+        end: 218
+      estimated_complexity: 6
+      estimated_tokens: 4794
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: yes
+        figures: yes
+        thresholds: yes
+      status: pending
+    - id: "3.20"
+      title: "Submaximal Exercise Tests"
+      pdf_pages:
+        start: 219
+        end: 220
+      estimated_complexity: 3
+      estimated_tokens: 995
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "3.21"
+      title: "Interpretation of Results"
+      pdf_pages:
+        start: 221
+        end: 227
+      estimated_complexity: 5
+      estimated_tokens: 2314
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: yes
+      status: pending
+    - id: "3.22"
+      title: "Muscular Fitness"
+      pdf_pages:
+        start: 228
+        end: 228
+      estimated_complexity: 1
+      estimated_tokens: 394
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.23"
+      title: "Rationale"
+      pdf_pages:
+        start: 229
+        end: 229
+      estimated_complexity: 1
+      estimated_tokens: 397
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.24"
+      title: "Principles"
+      pdf_pages:
+        start: 229
+        end: 230
+      estimated_complexity: 1
+      estimated_tokens: 815
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.25"
+      title: "Muscular Strength"
+      pdf_pages:
+        start: 231
+        end: 236
+      estimated_complexity: 4
+      estimated_tokens: 1663
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "3.26"
+      title: "Muscular Endurance"
+      pdf_pages:
+        start: 237
+        end: 238
+      estimated_complexity: 2
+      estimated_tokens: 953
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.27"
+      title: "Muscular Power"
+      pdf_pages:
+        start: 239
+        end: 240
+      estimated_complexity: 2
+      estimated_tokens: 850
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.28"
+      title: "Flexibility"
+      pdf_pages:
+        start: 241
+        end: 244
+      estimated_complexity: 3
+      estimated_tokens: 1376
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.29"
+      title: "Balance"
+      pdf_pages:
+        start: 245
+        end: 247
+      estimated_complexity: 1
+      estimated_tokens: 1499
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.30"
+      title: "Online Resources"
+      pdf_pages:
+        start: 248
+        end: 248
+      estimated_complexity: 1
+      estimated_tokens: 429
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "3.31"
+      title: "References"
+      pdf_pages:
+        start: 249
+        end: 271
+      estimated_complexity: 3
+      estimated_tokens: 8981
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+- id: 4
+  title: "Clinical Exercise Testing and Interpretation"
+  pdf_pages:
+    start: 272
+    end: 331
+  sections:
+    - id: "4.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 272
+        end: 272
+      estimated_complexity: 1
+      estimated_tokens: 315
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.2"
+      title: "Indications for a Clinical Exercise Test"
+      pdf_pages:
+        start: 273
+        end: 276
+      estimated_complexity: 3
+      estimated_tokens: 1740
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.3"
+      title: "Conducting the Clinical Exercise Test"
+      pdf_pages:
+        start: 277
+        end: 278
+      estimated_complexity: 1
+      estimated_tokens: 812
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.4"
+      title: "Testing Staff"
+      pdf_pages:
+        start: 279
+        end: 281
+      estimated_complexity: 2
+      estimated_tokens: 1259
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.5"
+      title: "Testing Mode and Protocol"
+      pdf_pages:
+        start: 282
+        end: 284
+      estimated_complexity: 2
+      estimated_tokens: 826
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "4.6"
+      title: "Monitoring and Test Termination"
+      pdf_pages:
+        start: 285
+        end: 293
+      estimated_complexity: 5
+      estimated_tokens: 2865
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: yes
+      status: pending
+    - id: "4.7"
+      title: "Postexercise"
+      pdf_pages:
+        start: 294
+        end: 294
+      estimated_complexity: 1
+      estimated_tokens: 421
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.8"
+      title: "Safety"
+      pdf_pages:
+        start: 294
+        end: 294
+      estimated_complexity: 1
+      estimated_tokens: 421
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.9"
+      title: "Interpreting the Clinical Exercise Test"
+      pdf_pages:
+        start: 295
+        end: 295
+      estimated_complexity: 1
+      estimated_tokens: 391
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.10"
+      title: "Heart Rate Response"
+      pdf_pages:
+        start: 295
+        end: 296
+      estimated_complexity: 2
+      estimated_tokens: 878
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.11"
+      title: "Blood Pressure Response"
+      pdf_pages:
+        start: 297
+        end: 297
+      estimated_complexity: 1
+      estimated_tokens: 424
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.12"
+      title: "Rate-Pressure Product"
+      pdf_pages:
+        start: 298
+        end: 298
+      estimated_complexity: 2
+      estimated_tokens: 401
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "4.13"
+      title: "Electrocardiogram"
+      pdf_pages:
+        start: 298
+        end: 300
+      estimated_complexity: 2
+      estimated_tokens: 1149
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "4.14"
+      title: "Dysrhythmias"
+      pdf_pages:
+        start: 301
+        end: 301
+      estimated_complexity: 1
+      estimated_tokens: 405
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.15"
+      title: "Symptoms"
+      pdf_pages:
+        start: 302
+        end: 302
+      estimated_complexity: 1
+      estimated_tokens: 443
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.16"
+      title: "Exercise Capacity"
+      pdf_pages:
+        start: 302
+        end: 305
+      estimated_complexity: 3
+      estimated_tokens: 1752
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.17"
+      title: "Cardiopulmonary Exercise Testing"
+      pdf_pages:
+        start: 306
+        end: 308
+      estimated_complexity: 3
+      estimated_tokens: 1216
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "4.18"
+      title: "Gas Exchange Data Sampling"
+      pdf_pages:
+        start: 309
+        end: 309
+      estimated_complexity: 2
+      estimated_tokens: 401
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "4.19"
+      title: "Maximal Versus Peak Cardiorespiratory Stress"
+      pdf_pages:
+        start: 310
+        end: 310
+      estimated_complexity: 1
+      estimated_tokens: 400
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.20"
+      title: "Diagnostic Value of Exercise Testing for the Detection of Ischemic Heart Disease"
+      pdf_pages:
+        start: 311
+        end: 311
+      estimated_complexity: 2
+      estimated_tokens: 401
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.21"
+      title: "Sensitivity, Specificity, and Predictive Value"
+      pdf_pages:
+        start: 311
+        end: 313
+      estimated_complexity: 3
+      estimated_tokens: 1191
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "4.22"
+      title: "Clinical Exercise Test Data and Prognosis"
+      pdf_pages:
+        start: 314
+        end: 315
+      estimated_complexity: 3
+      estimated_tokens: 595
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "4.23"
+      title: "Clinical Exercise Tests With Imaging"
+      pdf_pages:
+        start: 316
+        end: 317
+      estimated_complexity: 2
+      estimated_tokens: 673
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "4.24"
+      title: "Field Walking Tests"
+      pdf_pages:
+        start: 318
+        end: 318
+      estimated_complexity: 1
+      estimated_tokens: 443
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.25"
+      title: "Online Resources"
+      pdf_pages:
+        start: 319
+        end: 319
+      estimated_complexity: 1
+      estimated_tokens: 422
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "4.26"
+      title: "References"
+      pdf_pages:
+        start: 320
+        end: 331
+      estimated_complexity: 3
+      estimated_tokens: 4611
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+- id: 5
+  title: "General Principles of Exercise Prescription"
+  pdf_pages:
+    start: 332
+    end: 427
+  sections:
+    - id: "5.1"
+      title: "An Introduction to the Principles of Exercise Prescription"
+      pdf_pages:
+        start: 333
+        end: 333
+      estimated_complexity: 1
+      estimated_tokens: 403
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.2"
+      title: "General Considerations for Exercise Prescription"
+      pdf_pages:
+        start: 334
+        end: 334
+      estimated_complexity: 1
+      estimated_tokens: 424
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.3"
+      title: "Components of the Exercise Training Session"
+      pdf_pages:
+        start: 335
+        end: 336
+      estimated_complexity: 1
+      estimated_tokens: 803
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.4"
+      title: "Sex Difference Considerations for Exercise Prescription and Training"
+      pdf_pages:
+        start: 337
+        end: 337
+      estimated_complexity: 1
+      estimated_tokens: 392
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.5"
+      title: "Sex Differences in Exercise Performance"
+      pdf_pages:
+        start: 337
+        end: 339
+      estimated_complexity: 2
+      estimated_tokens: 1089
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "5.6"
+      title: "Sex Differences in Response to Exercise Training"
+      pdf_pages:
+        start: 340
+        end: 340
+      estimated_complexity: 1
+      estimated_tokens: 394
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.7"
+      title: "Resistance Strength Training and High-Intensity Interval Training"
+      pdf_pages:
+        start: 340
+        end: 340
+      estimated_complexity: 1
+      estimated_tokens: 394
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.8"
+      title: "Cardiovascular and Aerobic Endurance Training"
+      pdf_pages:
+        start: 341
+        end: 341
+      estimated_complexity: 1
+      estimated_tokens: 451
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.9"
+      title: "Sex Differences in Body Weight Responses to Aerobic Exercise Training"
+      pdf_pages:
+        start: 342
+        end: 342
+      estimated_complexity: 2
+      estimated_tokens: 450
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "5.10"
+      title: "Other Sex-Based Special Considerations"
+      pdf_pages:
+        start: 343
+        end: 343
+      estimated_complexity: 1
+      estimated_tokens: 426
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.11"
+      title: "Cardiorespiratory Fitness"
+      pdf_pages:
+        start: 344
+        end: 345
+      estimated_complexity: 2
+      estimated_tokens: 904
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.12"
+      title: "Frequency of Aerobic Exercise"
+      pdf_pages:
+        start: 346
+        end: 346
+      estimated_complexity: 1
+      estimated_tokens: 316
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.13"
+      title: "Intensity of Aerobic Exercise"
+      pdf_pages:
+        start: 347
+        end: 356
+      estimated_complexity: 4
+      estimated_tokens: 4372
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "5.14"
+      title: "Time (Duration) of Aerobic Exercise"
+      pdf_pages:
+        start: 357
+        end: 357
+      estimated_complexity: 1
+      estimated_tokens: 421
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.15"
+      title: "Type (Mode)"
+      pdf_pages:
+        start: 357
+        end: 359
+      estimated_complexity: 2
+      estimated_tokens: 1205
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.16"
+      title: "Volume (Quantity) of Aerobic Exercise"
+      pdf_pages:
+        start: 360
+        end: 361
+      estimated_complexity: 1
+      estimated_tokens: 1016
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.17"
+      title: "Progression of Aerobic Exercise"
+      pdf_pages:
+        start: 362
+        end: 362
+      estimated_complexity: 2
+      estimated_tokens: 472
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "5.18"
+      title: "Resistance Training"
+      pdf_pages:
+        start: 363
+        end: 363
+      estimated_complexity: 1
+      estimated_tokens: 422
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.19"
+      title: "Frequency of Resistance Training Exercise"
+      pdf_pages:
+        start: 364
+        end: 366
+      estimated_complexity: 2
+      estimated_tokens: 1241
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.20"
+      title: "Intensity of Resistance Training Exercise"
+      pdf_pages:
+        start: 367
+        end: 370
+      estimated_complexity: 4
+      estimated_tokens: 1672
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "5.21"
+      title: "Time (Rest Periods of Resistance Training Exercises)"
+      pdf_pages:
+        start: 371
+        end: 371
+      estimated_complexity: 2
+      estimated_tokens: 428
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.22"
+      title: "Types of Resistance Training Exercises"
+      pdf_pages:
+        start: 372
+        end: 375
+      estimated_complexity: 3
+      estimated_tokens: 1370
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.23"
+      title: "Volume of Resistance Training Exercise"
+      pdf_pages:
+        start: 376
+        end: 379
+      estimated_complexity: 3
+      estimated_tokens: 1274
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.24"
+      title: "Progression of Resistance Training Exercise"
+      pdf_pages:
+        start: 380
+        end: 383
+      estimated_complexity: 2
+      estimated_tokens: 1889
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.25"
+      title: "Flexibility"
+      pdf_pages:
+        start: 384
+        end: 389
+      estimated_complexity: 3
+      estimated_tokens: 2800
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.26"
+      title: "Types of Flexibility Exercises"
+      pdf_pages:
+        start: 390
+        end: 390
+      estimated_complexity: 1
+      estimated_tokens: 424
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.27"
+      title: "Volume of Flexibility Exercise (Time, Repetitions, and Frequency)"
+      pdf_pages:
+        start: 390
+        end: 391
+      estimated_complexity: 2
+      estimated_tokens: 943
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.28"
+      title: "Alternatives to Stretching to Increase ROM"
+      pdf_pages:
+        start: 392
+        end: 393
+      estimated_complexity: 2
+      estimated_tokens: 782
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.29"
+      title: "Future Directions"
+      pdf_pages:
+        start: 394
+        end: 394
+      estimated_complexity: 1
+      estimated_tokens: 429
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "5.30"
+      title: "References"
+      pdf_pages:
+        start: 395
+        end: 427
+      estimated_complexity: 3
+      estimated_tokens: 12979
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+- id: 6
+  title: "Exercise Prescription for Healthy Populations With Special Considerations"
+  pdf_pages:
+    start: 428
+    end: 523
+  sections:
+    - id: "6.1"
+      title: "Children and Adolescents"
+      pdf_pages:
+        start: 428
+        end: 430
+      estimated_complexity: 1
+      estimated_tokens: 1262
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.2"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 431
+        end: 432
+      estimated_complexity: 2
+      estimated_tokens: 650
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.3"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 433
+        end: 436
+      estimated_complexity: 2
+      estimated_tokens: 1539
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.4"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 437
+        end: 437
+      estimated_complexity: 1
+      estimated_tokens: 438
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.5"
+      title: "Online Resources"
+      pdf_pages:
+        start: 438
+        end: 438
+      estimated_complexity: 1
+      estimated_tokens: 408
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.6"
+      title: "Pregnancy"
+      pdf_pages:
+        start: 439
+        end: 439
+      estimated_complexity: 1
+      estimated_tokens: 475
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.7"
+      title: "Health Screening"
+      pdf_pages:
+        start: 440
+        end: 442
+      estimated_complexity: 2
+      estimated_tokens: 274
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "6.8"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 443
+        end: 444
+      estimated_complexity: 2
+      estimated_tokens: 923
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.9"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 445
+        end: 451
+      estimated_complexity: 3
+      estimated_tokens: 2581
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.10"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 452
+        end: 452
+      estimated_complexity: 1
+      estimated_tokens: 397
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.11"
+      title: "Online Resources"
+      pdf_pages:
+        start: 453
+        end: 453
+      estimated_complexity: 1
+      estimated_tokens: 414
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.12"
+      title: "Low Back Pain"
+      pdf_pages:
+        start: 454
+        end: 457
+      estimated_complexity: 2
+      estimated_tokens: 1702
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.13"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 458
+        end: 459
+      estimated_complexity: 1
+      estimated_tokens: 901
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.14"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 460
+        end: 460
+      estimated_complexity: 1
+      estimated_tokens: 409
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.15"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 461
+        end: 462
+      estimated_complexity: 1
+      estimated_tokens: 878
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.16"
+      title: "Online Resources"
+      pdf_pages:
+        start: 463
+        end: 463
+      estimated_complexity: 1
+      estimated_tokens: 399
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.17"
+      title: "Older Adults"
+      pdf_pages:
+        start: 464
+        end: 468
+      estimated_complexity: 5
+      estimated_tokens: 1529
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: yes
+      status: pending
+    - id: "6.18"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 469
+        end: 476
+      estimated_complexity: 5
+      estimated_tokens: 2951
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: yes
+      status: pending
+    - id: "6.19"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 477
+        end: 481
+      estimated_complexity: 3
+      estimated_tokens: 2159
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.20"
+      title: "Special Considerations for Exercise Programming"
+      pdf_pages:
+        start: 482
+        end: 483
+      estimated_complexity: 1
+      estimated_tokens: 780
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.21"
+      title: "Online Resources"
+      pdf_pages:
+        start: 484
+        end: 484
+      estimated_complexity: 2
+      estimated_tokens: 387
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.22"
+      title: "Transgender and Gender Diverse Individuals"
+      pdf_pages:
+        start: 484
+        end: 486
+      estimated_complexity: 2
+      estimated_tokens: 1268
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.23"
+      title: "Medical Interventions"
+      pdf_pages:
+        start: 487
+        end: 487
+      estimated_complexity: 1
+      estimated_tokens: 446
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.24"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 488
+        end: 488
+      estimated_complexity: 2
+      estimated_tokens: 430
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.25"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 488
+        end: 488
+      estimated_complexity: 2
+      estimated_tokens: 430
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.26"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 489
+        end: 489
+      estimated_complexity: 1
+      estimated_tokens: 391
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.27"
+      title: "Online Resources"
+      pdf_pages:
+        start: 490
+        end: 490
+      estimated_complexity: 1
+      estimated_tokens: 320
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "6.28"
+      title: "References"
+      pdf_pages:
+        start: 490
+        end: 523
+      estimated_complexity: 2
+      estimated_tokens: 13450
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+- id: 7
+  title: "Environmental Considerations for Exercise Prescription"
+  pdf_pages:
+    start: 524
+    end: 573
+  sections:
+    - id: "7.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 524
+        end: 524
+      estimated_complexity: 1
+      estimated_tokens: 250
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.2"
+      title: "Exercise in High-Altitude Environments"
+      pdf_pages:
+        start: 524
+        end: 526
+      estimated_complexity: 2
+      estimated_tokens: 1078
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.3"
+      title: "Altitude Acclimatization"
+      pdf_pages:
+        start: 527
+        end: 528
+      estimated_complexity: 2
+      estimated_tokens: 957
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "7.4"
+      title: "Rapid Ascent"
+      pdf_pages:
+        start: 529
+        end: 529
+      estimated_complexity: 1
+      estimated_tokens: 431
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.5"
+      title: "Assessing Individual Altitude Acclimatization Status"
+      pdf_pages:
+        start: 530
+        end: 531
+      estimated_complexity: 2
+      estimated_tokens: 924
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "7.6"
+      title: "Medical Considerations: Altitude Illnesses and Preexisting Conditions"
+      pdf_pages:
+        start: 532
+        end: 533
+      estimated_complexity: 1
+      estimated_tokens: 928
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.7"
+      title: "Prevention and Treatment of Altitude Sickness"
+      pdf_pages:
+        start: 534
+        end: 534
+      estimated_complexity: 1
+      estimated_tokens: 458
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.8"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 535
+        end: 535
+      estimated_complexity: 1
+      estimated_tokens: 448
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.9"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 536
+        end: 536
+      estimated_complexity: 1
+      estimated_tokens: 452
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.10"
+      title: "Organizational Planning"
+      pdf_pages:
+        start: 537
+        end: 537
+      estimated_complexity: 1
+      estimated_tokens: 397
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.11"
+      title: "Exercise in Cold Environments"
+      pdf_pages:
+        start: 538
+        end: 539
+      estimated_complexity: 2
+      estimated_tokens: 730
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.12"
+      title: "Medical Considerations: Cold Injuries"
+      pdf_pages:
+        start: 540
+        end: 542
+      estimated_complexity: 2
+      estimated_tokens: 1060
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "7.13"
+      title: "Cardiac and Respiratory Considerations"
+      pdf_pages:
+        start: 543
+        end: 545
+      estimated_complexity: 1
+      estimated_tokens: 1422
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.14"
+      title: "Clothing Considerations"
+      pdf_pages:
+        start: 546
+        end: 546
+      estimated_complexity: 1
+      estimated_tokens: 365
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.15"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 547
+        end: 547
+      estimated_complexity: 1
+      estimated_tokens: 390
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.16"
+      title: "Exercise in Hot Environments"
+      pdf_pages:
+        start: 548
+        end: 550
+      estimated_complexity: 1
+      estimated_tokens: 1382
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.17"
+      title: "Mitigating Risk"
+      pdf_pages:
+        start: 551
+        end: 555
+      estimated_complexity: 3
+      estimated_tokens: 1370
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "7.18"
+      title: "Medical Considerations: Exertional Heat Illnesses"
+      pdf_pages:
+        start: 556
+        end: 559
+      estimated_complexity: 3
+      estimated_tokens: 1730
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.19"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 560
+        end: 560
+      estimated_complexity: 1
+      estimated_tokens: 449
+      contains:
+        definitions: yes
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.20"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 561
+        end: 563
+      estimated_complexity: 1
+      estimated_tokens: 1270
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "7.21"
+      title: "References"
+      pdf_pages:
+        start: 564
+        end: 573
+      estimated_complexity: 3
+      estimated_tokens: 3845
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+- id: 8
+  title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  pdf_pages:
+    start: 574
+    end: 706
+  sections:
+    - id: "8.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 574
+        end: 574
+      estimated_complexity: 1
+      estimated_tokens: 244
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.2"
+      title: "Coronary Heart Disease"
+      pdf_pages:
+        start: 574
+        end: 574
+      estimated_complexity: 1
+      estimated_tokens: 244
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.3"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 575
+        end: 575
+      estimated_complexity: 1
+      estimated_tokens: 427
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.4"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 575
+        end: 575
+      estimated_complexity: 1
+      estimated_tokens: 427
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.5"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 576
+        end: 580
+      estimated_complexity: 3
+      estimated_tokens: 1830
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "8.6"
+      title: "Cardiac Rehabilitation"
+      pdf_pages:
+        start: 581
+        end: 581
+      estimated_complexity: 1
+      estimated_tokens: 307
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.7"
+      title: "Inpatient Cardiac Rehabilitation"
+      pdf_pages:
+        start: 581
+        end: 585
+      estimated_complexity: 4
+      estimated_tokens: 1928
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.8"
+      title: "Outpatient Cardiac Rehabilitation"
+      pdf_pages:
+        start: 586
+        end: 588
+      estimated_complexity: 1
+      estimated_tokens: 1302
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.9"
+      title: "Continuous Electrocardiographic Monitoring"
+      pdf_pages:
+        start: 589
+        end: 589
+      estimated_complexity: 1
+      estimated_tokens: 343
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.10"
+      title: "Individuals With History of Spontaneous Coronary Artery Dissection"
+      pdf_pages:
+        start: 589
+        end: 589
+      estimated_complexity: 1
+      estimated_tokens: 343
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.11"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 590
+        end: 590
+      estimated_complexity: 1
+      estimated_tokens: 443
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.12"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 591
+        end: 591
+      estimated_complexity: 1
+      estimated_tokens: 397
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.13"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 591
+        end: 591
+      estimated_complexity: 1
+      estimated_tokens: 397
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.14"
+      title: "Chronic Heart Failure"
+      pdf_pages:
+        start: 592
+        end: 592
+      estimated_complexity: 1
+      estimated_tokens: 399
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.15"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 593
+        end: 593
+      estimated_complexity: 1
+      estimated_tokens: 396
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.16"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 594
+        end: 594
+      estimated_complexity: 1
+      estimated_tokens: 420
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.17"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 594
+        end: 594
+      estimated_complexity: 1
+      estimated_tokens: 420
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.18"
+      title: "Left Ventricular Assist Device"
+      pdf_pages:
+        start: 595
+        end: 595
+      estimated_complexity: 1
+      estimated_tokens: 414
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.19"
+      title: "Heart Transplantation"
+      pdf_pages:
+        start: 596
+        end: 596
+      estimated_complexity: 1
+      estimated_tokens: 404
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.20"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 597
+        end: 597
+      estimated_complexity: 1
+      estimated_tokens: 381
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.21"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 597
+        end: 597
+      estimated_complexity: 1
+      estimated_tokens: 381
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.22"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 598
+        end: 599
+      estimated_complexity: 1
+      estimated_tokens: 608
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.23"
+      title: "Sternotomy"
+      pdf_pages:
+        start: 600
+        end: 600
+      estimated_complexity: 1
+      estimated_tokens: 341
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.24"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 601
+        end: 601
+      estimated_complexity: 1
+      estimated_tokens: 435
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.25"
+      title: "Pacemaker and Implantable Cardioverter Defibrillator"
+      pdf_pages:
+        start: 602
+        end: 603
+      estimated_complexity: 1
+      estimated_tokens: 792
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.26"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 604
+        end: 604
+      estimated_complexity: 2
+      estimated_tokens: 433
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "8.27"
+      title: "Peripheral Arterial Disease"
+      pdf_pages:
+        start: 605
+        end: 606
+      estimated_complexity: 2
+      estimated_tokens: 653
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.28"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 607
+        end: 607
+      estimated_complexity: 3
+      estimated_tokens: 235
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "8.29"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 608
+        end: 609
+      estimated_complexity: 2
+      estimated_tokens: 867
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "8.30"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 610
+        end: 611
+      estimated_complexity: 2
+      estimated_tokens: 618
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "8.31"
+      title: "Postural Orthostatic Tachycardia Syndrome"
+      pdf_pages:
+        start: 612
+        end: 612
+      estimated_complexity: 1
+      estimated_tokens: 391
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.32"
+      title: "Preexercise Assessment"
+      pdf_pages:
+        start: 613
+        end: 613
+      estimated_complexity: 2
+      estimated_tokens: 265
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.33"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 614
+        end: 614
+      estimated_complexity: 2
+      estimated_tokens: 361
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.34"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 615
+        end: 616
+      estimated_complexity: 2
+      estimated_tokens: 691
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.35"
+      title: "Pediatric Cardiac Rehabilitation"
+      pdf_pages:
+        start: 617
+        end: 620
+      estimated_complexity: 2
+      estimated_tokens: 1380
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.36"
+      title: "Individuals With a Cerebrovascular Accident (Stroke)"
+      pdf_pages:
+        start: 621
+        end: 621
+      estimated_complexity: 1
+      estimated_tokens: 454
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.37"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 622
+        end: 622
+      estimated_complexity: 1
+      estimated_tokens: 417
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.38"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 623
+        end: 623
+      estimated_complexity: 1
+      estimated_tokens: 435
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.39"
+      title: "Exercise Training Considerations"
+      pdf_pages:
+        start: 624
+        end: 625
+      estimated_complexity: 1
+      estimated_tokens: 569
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.40"
+      title: "Other Considerations"
+      pdf_pages:
+        start: 626
+        end: 626
+      estimated_complexity: 1
+      estimated_tokens: 376
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.41"
+      title: "Exercise Training for Return to Work"
+      pdf_pages:
+        start: 626
+        end: 626
+      estimated_complexity: 1
+      estimated_tokens: 376
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.42"
+      title: "Pulmonary Diseases"
+      pdf_pages:
+        start: 627
+        end: 627
+      estimated_complexity: 1
+      estimated_tokens: 463
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.43"
+      title: "Asthma"
+      pdf_pages:
+        start: 628
+        end: 634
+      estimated_complexity: 3
+      estimated_tokens: 2792
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "8.44"
+      title: "Chronic Obstructive Pulmonary Disease"
+      pdf_pages:
+        start: 635
+        end: 646
+      estimated_complexity: 6
+      estimated_tokens: 4458
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: yes
+        figures: yes
+        thresholds: yes
+      status: pending
+    - id: "8.45"
+      title: "Exercise Training for Pulmonary Diseases Other Than Chronic Obstructive Pulmonary Disease"
+      pdf_pages:
+        start: 647
+        end: 659
+      estimated_complexity: 3
+      estimated_tokens: 5461
+      contains:
+        definitions: yes
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.46"
+      title: "Respiratory Muscle Testing and Training"
+      pdf_pages:
+        start: 660
+        end: 664
+      estimated_complexity: 4
+      estimated_tokens: 1790
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "8.47"
+      title: "Online Resources"
+      pdf_pages:
+        start: 665
+        end: 665
+      estimated_complexity: 1
+      estimated_tokens: 308
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "8.48"
+      title: "References"
+      pdf_pages:
+        start: 665
+        end: 706
+      estimated_complexity: 3
+      estimated_tokens: 16730
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+- id: 9
+  title: "Exercise Prescription for Individuals With Metabolic Disease and Cardiovascular Disease Risk Factors"
+  pdf_pages:
+    start: 707
+    end: 783
+  sections:
+    - id: "9.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 707
+        end: 707
+      estimated_complexity: 1
+      estimated_tokens: 230
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.2"
+      title: "Diabetes Mellitus"
+      pdf_pages:
+        start: 707
+        end: 710
+      estimated_complexity: 3
+      estimated_tokens: 1566
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.3"
+      title: "Benefits of Regular Physical Activity for Diabetes"
+      pdf_pages:
+        start: 711
+        end: 711
+      estimated_complexity: 1
+      estimated_tokens: 460
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.4"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 712
+        end: 712
+      estimated_complexity: 1
+      estimated_tokens: 382
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.5"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 713
+        end: 718
+      estimated_complexity: 2
+      estimated_tokens: 2375
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.6"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 719
+        end: 723
+      estimated_complexity: 2
+      estimated_tokens: 2090
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.7"
+      title: "Online Resources"
+      pdf_pages:
+        start: 724
+        end: 724
+      estimated_complexity: 1
+      estimated_tokens: 388
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.8"
+      title: "Dyslipidemia"
+      pdf_pages:
+        start: 725
+        end: 726
+      estimated_complexity: 2
+      estimated_tokens: 934
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.9"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 727
+        end: 727
+      estimated_complexity: 1
+      estimated_tokens: 384
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.10"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 727
+        end: 728
+      estimated_complexity: 1
+      estimated_tokens: 669
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.11"
+      title: "Special Consideration"
+      pdf_pages:
+        start: 729
+        end: 729
+      estimated_complexity: 1
+      estimated_tokens: 308
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.12"
+      title: "Online Resources"
+      pdf_pages:
+        start: 729
+        end: 729
+      estimated_complexity: 1
+      estimated_tokens: 308
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.13"
+      title: "Hypertension"
+      pdf_pages:
+        start: 729
+        end: 731
+      estimated_complexity: 2
+      estimated_tokens: 1241
+      contains:
+        definitions: yes
+        recommendations: yes
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.14"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 732
+        end: 732
+      estimated_complexity: 1
+      estimated_tokens: 446
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.15"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 733
+        end: 737
+      estimated_complexity: 2
+      estimated_tokens: 1951
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.16"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 738
+        end: 738
+      estimated_complexity: 1
+      estimated_tokens: 430
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.17"
+      title: "Online Resources"
+      pdf_pages:
+        start: 739
+        end: 739
+      estimated_complexity: 1
+      estimated_tokens: 384
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.18"
+      title: "Overweight and Obesity"
+      pdf_pages:
+        start: 740
+        end: 742
+      estimated_complexity: 1
+      estimated_tokens: 1401
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.19"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 743
+        end: 743
+      estimated_complexity: 1
+      estimated_tokens: 411
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.20"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 744
+        end: 745
+      estimated_complexity: 1
+      estimated_tokens: 678
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.21"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 746
+        end: 747
+      estimated_complexity: 1
+      estimated_tokens: 859
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.22"
+      title: "Bariatric Surgery"
+      pdf_pages:
+        start: 748
+        end: 748
+      estimated_complexity: 1
+      estimated_tokens: 425
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.23"
+      title: "Online Resources"
+      pdf_pages:
+        start: 749
+        end: 749
+      estimated_complexity: 1
+      estimated_tokens: 368
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.24"
+      title: "Metabolic Syndrome"
+      pdf_pages:
+        start: 749
+        end: 751
+      estimated_complexity: 2
+      estimated_tokens: 1105
+      contains:
+        definitions: yes
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.25"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 752
+        end: 752
+      estimated_complexity: 1
+      estimated_tokens: 488
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.26"
+      title: "Exercise Prescription/Special Considerations"
+      pdf_pages:
+        start: 753
+        end: 754
+      estimated_complexity: 1
+      estimated_tokens: 894
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.27"
+      title: "Online Resources"
+      pdf_pages:
+        start: 755
+        end: 755
+      estimated_complexity: 1
+      estimated_tokens: 336
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.28"
+      title: "Metabolic Dysfunction-Associated Steatotic Liver Disease"
+      pdf_pages:
+        start: 755
+        end: 756
+      estimated_complexity: 1
+      estimated_tokens: 803
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.29"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 757
+        end: 757
+      estimated_complexity: 1
+      estimated_tokens: 437
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.30"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 758
+        end: 759
+      estimated_complexity: 1
+      estimated_tokens: 623
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.31"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 760
+        end: 760
+      estimated_complexity: 1
+      estimated_tokens: 278
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "9.32"
+      title: "References"
+      pdf_pages:
+        start: 761
+        end: 783
+      estimated_complexity: 2
+      estimated_tokens: 9190
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+- id: 10
+  title: "Exercise Testing and Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  pdf_pages:
+    start: 784
+    end: 960
+  sections:
+    - id: "10.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 784
+        end: 784
+      estimated_complexity: 1
+      estimated_tokens: 265
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.2"
+      title: "Arthritis"
+      pdf_pages:
+        start: 785
+        end: 786
+      estimated_complexity: 1
+      estimated_tokens: 919
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.3"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 787
+        end: 787
+      estimated_complexity: 1
+      estimated_tokens: 431
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.4"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 788
+        end: 791
+      estimated_complexity: 3
+      estimated_tokens: 1445
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "10.5"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 792
+        end: 793
+      estimated_complexity: 1
+      estimated_tokens: 782
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.6"
+      title: "Online Resources"
+      pdf_pages:
+        start: 794
+        end: 794
+      estimated_complexity: 1
+      estimated_tokens: 337
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.7"
+      title: "Cancer"
+      pdf_pages:
+        start: 794
+        end: 794
+      estimated_complexity: 1
+      estimated_tokens: 337
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.8"
+      title: "Overview of Importance of Physical Activity in Cancer Survivors"
+      pdf_pages:
+        start: 795
+        end: 796
+      estimated_complexity: 1
+      estimated_tokens: 893
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.9"
+      title: "Preparticipation Evaluation"
+      pdf_pages:
+        start: 797
+        end: 802
+      estimated_complexity: 5
+      estimated_tokens: 2169
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "10.10"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 803
+        end: 811
+      estimated_complexity: 3
+      estimated_tokens: 3087
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.11"
+      title: "Summary"
+      pdf_pages:
+        start: 812
+        end: 812
+      estimated_complexity: 1
+      estimated_tokens: 381
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.12"
+      title: "Online Resources"
+      pdf_pages:
+        start: 813
+        end: 813
+      estimated_complexity: 1
+      estimated_tokens: 310
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.13"
+      title: "Fibromyalgia"
+      pdf_pages:
+        start: 813
+        end: 817
+      estimated_complexity: 3
+      estimated_tokens: 1680
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.14"
+      title: "Pharmacological Treatment Options"
+      pdf_pages:
+        start: 818
+        end: 820
+      estimated_complexity: 3
+      estimated_tokens: 1117
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "10.15"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 821
+        end: 823
+      estimated_complexity: 1
+      estimated_tokens: 1258
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.16"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 824
+        end: 829
+      estimated_complexity: 3
+      estimated_tokens: 2234
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "10.17"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 830
+        end: 830
+      estimated_complexity: 1
+      estimated_tokens: 419
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.18"
+      title: "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
+      pdf_pages:
+        start: 831
+        end: 831
+      estimated_complexity: 1
+      estimated_tokens: 334
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.19"
+      title: "Background"
+      pdf_pages:
+        start: 831
+        end: 834
+      estimated_complexity: 3
+      estimated_tokens: 1335
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.20"
+      title: "Diagnosis and Comorbidities"
+      pdf_pages:
+        start: 835
+        end: 835
+      estimated_complexity: 2
+      estimated_tokens: 351
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "10.21"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 836
+        end: 837
+      estimated_complexity: 2
+      estimated_tokens: 922
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "10.22"
+      title: "Pacing"
+      pdf_pages:
+        start: 838
+        end: 838
+      estimated_complexity: 2
+      estimated_tokens: 412
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "10.23"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 839
+        end: 839
+      estimated_complexity: 1
+      estimated_tokens: 450
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.24"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 840
+        end: 842
+      estimated_complexity: 1
+      estimated_tokens: 872
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.25"
+      title: "Summary"
+      pdf_pages:
+        start: 843
+        end: 843
+      estimated_complexity: 1
+      estimated_tokens: 252
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.26"
+      title: "Online Resources"
+      pdf_pages:
+        start: 843
+        end: 843
+      estimated_complexity: 1
+      estimated_tokens: 252
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.27"
+      title: "Human Immunodeficiency Virus"
+      pdf_pages:
+        start: 844
+        end: 844
+      estimated_complexity: 1
+      estimated_tokens: 470
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.28"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 845
+        end: 845
+      estimated_complexity: 2
+      estimated_tokens: 451
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "10.29"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 846
+        end: 849
+      estimated_complexity: 3
+      estimated_tokens: 1457
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "10.30"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 850
+        end: 850
+      estimated_complexity: 1
+      estimated_tokens: 330
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.31"
+      title: "Online Resources"
+      pdf_pages:
+        start: 850
+        end: 850
+      estimated_complexity: 1
+      estimated_tokens: 330
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.32"
+      title: "Kidney Disease"
+      pdf_pages:
+        start: 850
+        end: 851
+      estimated_complexity: 2
+      estimated_tokens: 700
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "10.33"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 852
+        end: 854
+      estimated_complexity: 2
+      estimated_tokens: 993
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "10.34"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 855
+        end: 858
+      estimated_complexity: 2
+      estimated_tokens: 1296
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.35"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 859
+        end: 860
+      estimated_complexity: 1
+      estimated_tokens: 731
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.36"
+      title: "Online Resources"
+      pdf_pages:
+        start: 861
+        end: 861
+      estimated_complexity: 1
+      estimated_tokens: 337
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.37"
+      title: "Multiple Sclerosis"
+      pdf_pages:
+        start: 862
+        end: 867
+      estimated_complexity: 3
+      estimated_tokens: 2373
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.38"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 868
+        end: 868
+      estimated_complexity: 1
+      estimated_tokens: 398
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.39"
+      title: "Exercise Testing Considerations"
+      pdf_pages:
+        start: 868
+        end: 869
+      estimated_complexity: 1
+      estimated_tokens: 831
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.40"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 870
+        end: 872
+      estimated_complexity: 2
+      estimated_tokens: 864
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "10.41"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 873
+        end: 873
+      estimated_complexity: 1
+      estimated_tokens: 397
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.42"
+      title: "Online Resources"
+      pdf_pages:
+        start: 874
+        end: 874
+      estimated_complexity: 1
+      estimated_tokens: 381
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.43"
+      title: "Osteoporosis"
+      pdf_pages:
+        start: 874
+        end: 874
+      estimated_complexity: 1
+      estimated_tokens: 381
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.44"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 875
+        end: 875
+      estimated_complexity: 1
+      estimated_tokens: 431
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.45"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 876
+        end: 876
+      estimated_complexity: 1
+      estimated_tokens: 401
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.46"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 876
+        end: 878
+      estimated_complexity: 1
+      estimated_tokens: 1042
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.47"
+      title: "Online Resources"
+      pdf_pages:
+        start: 879
+        end: 879
+      estimated_complexity: 1
+      estimated_tokens: 400
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.48"
+      title: "Spinal Cord Injury"
+      pdf_pages:
+        start: 880
+        end: 881
+      estimated_complexity: 1
+      estimated_tokens: 918
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.49"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 882
+        end: 885
+      estimated_complexity: 2
+      estimated_tokens: 1745
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.50"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 886
+        end: 894
+      estimated_complexity: 2
+      estimated_tokens: 3831
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.51"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 895
+        end: 898
+      estimated_complexity: 2
+      estimated_tokens: 1673
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.52"
+      title: "Online Resources"
+      pdf_pages:
+        start: 899
+        end: 899
+      estimated_complexity: 1
+      estimated_tokens: 399
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.53"
+      title: "Multiple Chronic Diseases and Health Conditions"
+      pdf_pages:
+        start: 900
+        end: 900
+      estimated_complexity: 1
+      estimated_tokens: 395
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.54"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 900
+        end: 900
+      estimated_complexity: 1
+      estimated_tokens: 395
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.55"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 901
+        end: 901
+      estimated_complexity: 1
+      estimated_tokens: 386
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.56"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 901
+        end: 901
+      estimated_complexity: 1
+      estimated_tokens: 386
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "10.57"
+      title: "References"
+      pdf_pages:
+        start: 902
+        end: 960
+      estimated_complexity: 2
+      estimated_tokens: 23593
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+- id: 11
+  title: "Neurologic Diseases, Conditions, and Disorders"
+  pdf_pages:
+    start: 961
+    end: 1105
+  sections:
+    - id: "11.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 961
+        end: 962
+      estimated_complexity: 1
+      estimated_tokens: 789
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.2"
+      title: "Anxiety and Depression"
+      pdf_pages:
+        start: 963
+        end: 963
+      estimated_complexity: 1
+      estimated_tokens: 449
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.3"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 964
+        end: 964
+      estimated_complexity: 1
+      estimated_tokens: 421
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.4"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 965
+        end: 966
+      estimated_complexity: 1
+      estimated_tokens: 849
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.5"
+      title: "Exercise Considerations"
+      pdf_pages:
+        start: 967
+        end: 970
+      estimated_complexity: 3
+      estimated_tokens: 1154
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.6"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 971
+        end: 971
+      estimated_complexity: 1
+      estimated_tokens: 333
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.7"
+      title: "Future Directions"
+      pdf_pages:
+        start: 972
+        end: 972
+      estimated_complexity: 1
+      estimated_tokens: 326
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.8"
+      title: "Online Resources"
+      pdf_pages:
+        start: 972
+        end: 972
+      estimated_complexity: 1
+      estimated_tokens: 326
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.9"
+      title: "Anxiety"
+      pdf_pages:
+        start: 972
+        end: 972
+      estimated_complexity: 1
+      estimated_tokens: 326
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.10"
+      title: "Depression"
+      pdf_pages:
+        start: 973
+        end: 973
+      estimated_complexity: 1
+      estimated_tokens: 286
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.11"
+      title: "Attention-Deficit/Hyperactivity Disorder"
+      pdf_pages:
+        start: 973
+        end: 975
+      estimated_complexity: 1
+      estimated_tokens: 1225
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.12"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 976
+        end: 976
+      estimated_complexity: 1
+      estimated_tokens: 415
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.13"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 976
+        end: 977
+      estimated_complexity: 1
+      estimated_tokens: 813
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.14"
+      title: "Future Directions"
+      pdf_pages:
+        start: 978
+        end: 978
+      estimated_complexity: 1
+      estimated_tokens: 418
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.15"
+      title: "Online Resources"
+      pdf_pages:
+        start: 979
+        end: 979
+      estimated_complexity: 1
+      estimated_tokens: 314
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.16"
+      title: "Autism Spectrum Disorder"
+      pdf_pages:
+        start: 980
+        end: 980
+      estimated_complexity: 1
+      estimated_tokens: 475
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.17"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 981
+        end: 984
+      estimated_complexity: 3
+      estimated_tokens: 1373
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.18"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 985
+        end: 986
+      estimated_complexity: 2
+      estimated_tokens: 828
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.19"
+      title: "Exercise Training Considerations"
+      pdf_pages:
+        start: 987
+        end: 987
+      estimated_complexity: 2
+      estimated_tokens: 355
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.20"
+      title: "Future Directions"
+      pdf_pages:
+        start: 988
+        end: 988
+      estimated_complexity: 2
+      estimated_tokens: 324
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.21"
+      title: "Online Resources"
+      pdf_pages:
+        start: 989
+        end: 989
+      estimated_complexity: 1
+      estimated_tokens: 369
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.22"
+      title: "Intellectual Disability and Down Syndrome"
+      pdf_pages:
+        start: 990
+        end: 991
+      estimated_complexity: 1
+      estimated_tokens: 945
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.23"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 992
+        end: 998
+      estimated_complexity: 3
+      estimated_tokens: 2824
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.24"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 999
+        end: 1001
+      estimated_complexity: 1
+      estimated_tokens: 1029
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.25"
+      title: "Special Considerations for Individuals With Intellectual Disability"
+      pdf_pages:
+        start: 1002
+        end: 1004
+      estimated_complexity: 1
+      estimated_tokens: 1376
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.26"
+      title: "Special Considerations for Individuals With Down Syndrome"
+      pdf_pages:
+        start: 1005
+        end: 1005
+      estimated_complexity: 1
+      estimated_tokens: 436
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.27"
+      title: "Future Directions"
+      pdf_pages:
+        start: 1006
+        end: 1006
+      estimated_complexity: 1
+      estimated_tokens: 440
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.28"
+      title: "Online Resources"
+      pdf_pages:
+        start: 1007
+        end: 1007
+      estimated_complexity: 1
+      estimated_tokens: 390
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.29"
+      title: "Cerebral Palsy"
+      pdf_pages:
+        start: 1008
+        end: 1010
+      estimated_complexity: 2
+      estimated_tokens: 1441
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.30"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 1011
+        end: 1014
+      estimated_complexity: 3
+      estimated_tokens: 1562
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.31"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 1015
+        end: 1017
+      estimated_complexity: 2
+      estimated_tokens: 1276
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "11.32"
+      title: "Future Directions"
+      pdf_pages:
+        start: 1018
+        end: 1018
+      estimated_complexity: 1
+      estimated_tokens: 441
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.33"
+      title: "Online Resources"
+      pdf_pages:
+        start: 1019
+        end: 1019
+      estimated_complexity: 1
+      estimated_tokens: 364
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.34"
+      title: "Alzheimer's Disease"
+      pdf_pages:
+        start: 1019
+        end: 1022
+      estimated_complexity: 2
+      estimated_tokens: 1811
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.35"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 1023
+        end: 1023
+      estimated_complexity: 2
+      estimated_tokens: 457
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: yes
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.36"
+      title: "Exercise Prescription"
+      pdf_pages:
+        start: 1024
+        end: 1027
+      estimated_complexity: 3
+      estimated_tokens: 1475
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "11.37"
+      title: "Future Directions"
+      pdf_pages:
+        start: 1028
+        end: 1028
+      estimated_complexity: 1
+      estimated_tokens: 373
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.38"
+      title: "Online Resources"
+      pdf_pages:
+        start: 1028
+        end: 1028
+      estimated_complexity: 1
+      estimated_tokens: 373
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.39"
+      title: "Parkinson's Disease"
+      pdf_pages:
+        start: 1029
+        end: 1036
+      estimated_complexity: 3
+      estimated_tokens: 3052
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.40"
+      title: "Exercise Testing"
+      pdf_pages:
+        start: 1037
+        end: 1041
+      estimated_complexity: 3
+      estimated_tokens: 2388
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "11.41"
+      title: "Exercise Programming"
+      pdf_pages:
+        start: 1042
+        end: 1047
+      estimated_complexity: 2
+      estimated_tokens: 2270
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.42"
+      title: "Special Considerations"
+      pdf_pages:
+        start: 1048
+        end: 1050
+      estimated_complexity: 1
+      estimated_tokens: 1209
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.43"
+      title: "Future Directions"
+      pdf_pages:
+        start: 1051
+        end: 1051
+      estimated_complexity: 1
+      estimated_tokens: 307
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.44"
+      title: "Online Resources"
+      pdf_pages:
+        start: 1052
+        end: 1052
+      estimated_complexity: 1
+      estimated_tokens: 408
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "11.45"
+      title: "References"
+      pdf_pages:
+        start: 1053
+        end: 1105
+      estimated_complexity: 2
+      estimated_tokens: 21693
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+- id: 12
+  title: "Behavior-Based Strategy to Promote Physical Activity and Exercise"
+  pdf_pages:
+    start: 1106
+    end: 1246
+  sections:
+    - id: "12.1"
+      title: "Introduction"
+      pdf_pages:
+        start: 1106
+        end: 1107
+      estimated_complexity: 2
+      estimated_tokens: 658
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.2"
+      title: "Theoretical Foundations for Understanding Exercise Behavior"
+      pdf_pages:
+        start: 1108
+        end: 1108
+      estimated_complexity: 1
+      estimated_tokens: 384
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.3"
+      title: "Social Cognitive Theory"
+      pdf_pages:
+        start: 1108
+        end: 1108
+      estimated_complexity: 1
+      estimated_tokens: 384
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.4"
+      title: "Transtheoretical Model"
+      pdf_pages:
+        start: 1109
+        end: 1113
+      estimated_complexity: 3
+      estimated_tokens: 1530
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.5"
+      title: "Health Belief Model"
+      pdf_pages:
+        start: 1114
+        end: 1115
+      estimated_complexity: 2
+      estimated_tokens: 570
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.6"
+      title: "Social Ecological Models"
+      pdf_pages:
+        start: 1116
+        end: 1119
+      estimated_complexity: 3
+      estimated_tokens: 1075
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.7"
+      title: "Self-Determination Theory"
+      pdf_pages:
+        start: 1120
+        end: 1120
+      estimated_complexity: 2
+      estimated_tokens: 362
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.8"
+      title: "Theory of Planned Behavior"
+      pdf_pages:
+        start: 1121
+        end: 1121
+      estimated_complexity: 2
+      estimated_tokens: 390
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.9"
+      title: "Dual-Processing Theories"
+      pdf_pages:
+        start: 1122
+        end: 1123
+      estimated_complexity: 1
+      estimated_tokens: 953
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.10"
+      title: "Relevant Targets to Promote Physical Activity Behavior Change"
+      pdf_pages:
+        start: 1124
+        end: 1124
+      estimated_complexity: 2
+      estimated_tokens: 218
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "12.11"
+      title: "Self-Efficacy"
+      pdf_pages:
+        start: 1125
+        end: 1128
+      estimated_complexity: 3
+      estimated_tokens: 1150
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.12"
+      title: "Outcome Expectations and Expectancies"
+      pdf_pages:
+        start: 1129
+        end: 1129
+      estimated_complexity: 1
+      estimated_tokens: 387
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.13"
+      title: "Self-Regulation"
+      pdf_pages:
+        start: 1130
+        end: 1130
+      estimated_complexity: 1
+      estimated_tokens: 435
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.14"
+      title: "Autonomy"
+      pdf_pages:
+        start: 1131
+        end: 1131
+      estimated_complexity: 1
+      estimated_tokens: 380
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.15"
+      title: "Goal Setting"
+      pdf_pages:
+        start: 1131
+        end: 1132
+      estimated_complexity: 1
+      estimated_tokens: 782
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.16"
+      title: "Intention"
+      pdf_pages:
+        start: 1133
+        end: 1133
+      estimated_complexity: 2
+      estimated_tokens: 423
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.17"
+      title: "Barriers and Problem Solving"
+      pdf_pages:
+        start: 1134
+        end: 1136
+      estimated_complexity: 2
+      estimated_tokens: 1053
+      contains:
+        definitions: no
+        recommendations: yes
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.18"
+      title: "Social Support"
+      pdf_pages:
+        start: 1137
+        end: 1137
+      estimated_complexity: 2
+      estimated_tokens: 345
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.19"
+      title: "Affect"
+      pdf_pages:
+        start: 1138
+        end: 1139
+      estimated_complexity: 2
+      estimated_tokens: 898
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: yes
+      status: pending
+    - id: "12.20"
+      title: "Motivation and Reinforcement"
+      pdf_pages:
+        start: 1140
+        end: 1141
+      estimated_complexity: 2
+      estimated_tokens: 913
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.21"
+      title: "Relapse Prevention"
+      pdf_pages:
+        start: 1142
+        end: 1142
+      estimated_complexity: 1
+      estimated_tokens: 448
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.22"
+      title: "Population Considerations"
+      pdf_pages:
+        start: 1143
+        end: 1143
+      estimated_complexity: 1
+      estimated_tokens: 384
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.23"
+      title: "Age and Lifespan"
+      pdf_pages:
+        start: 1143
+        end: 1144
+      estimated_complexity: 1
+      estimated_tokens: 848
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.24"
+      title: "Medical Status and Health Conditions"
+      pdf_pages:
+        start: 1145
+        end: 1147
+      estimated_complexity: 1
+      estimated_tokens: 1352
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.25"
+      title: "Cultural Diversity"
+      pdf_pages:
+        start: 1148
+        end: 1148
+      estimated_complexity: 1
+      estimated_tokens: 430
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.26"
+      title: "Group Exercise Behavioral Dynamics"
+      pdf_pages:
+        start: 1149
+        end: 1149
+      estimated_complexity: 1
+      estimated_tokens: 434
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.27"
+      title: "Client-Centered Conversations and Motivational Interviewing"
+      pdf_pages:
+        start: 1150
+        end: 1150
+      estimated_complexity: 1
+      estimated_tokens: 362
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.28"
+      title: "The Role of Client-Centered Counseling"
+      pdf_pages:
+        start: 1151
+        end: 1151
+      estimated_complexity: 1
+      estimated_tokens: 431
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.29"
+      title: "Motivational Interviewing"
+      pdf_pages:
+        start: 1152
+        end: 1157
+      estimated_complexity: 3
+      estimated_tokens: 2301
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.30"
+      title: "Online Resources"
+      pdf_pages:
+        start: 1158
+        end: 1158
+      estimated_complexity: 1
+      estimated_tokens: 339
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: no
+        figures: no
+        thresholds: no
+      status: pending
+    - id: "12.31"
+      title: "References"
+      pdf_pages:
+        start: 1158
+        end: 1246
+      estimated_complexity: 4
+      estimated_tokens: 20932
+      contains:
+        definitions: no
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: no
+      status: pending

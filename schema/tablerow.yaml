@@ -1,0 +1,48 @@
+# ====================================================================
+# Schema: TableRow
+# ====================================================================
+# One row extracted from a table. Uses a flexible 'fields' map
+# so different table structures don't require separate schemas.
+
+type: TableRow
+
+header:
+  id:               string      # e.g. "table_row.basketball_game"
+  type:             TableRow
+  canonical_name:   string      # e.g. "Basketball game — Vigorous"
+  semantic_type:    string      # "TableRow"
+
+aliases:            string[]
+
+source:
+  book:             string
+  edition:          integer
+  chapter:          integer
+  chapter_title:    string
+  section:          string
+  section_title:    string
+  book_page:        integer
+  pdf_page:         integer
+
+provenance:
+  extraction:       string
+  normalization:    string
+  reviewed:         string
+
+evidence_level:     string
+
+relationships:      object[]
+  - predicate:      string
+    target:         string
+
+# --- Type-specific body ---
+table_ref:          string      # e.g. "Table 1.1"
+table_title:        string      # full table title
+row_index:          integer     # 1-based row number
+fields:             object      # map of field_name → { value, type }
+  # example:
+  # activity:        { value: "Basketball game", type: "string" }
+  # MET:             { value: 8.0, type: "float" }
+  # intensity:       { value: "Vigorous", type: "enum" }
+  # speed:           { value: "", type: "string" }
+  # conditions:      { value: "", type: "string" }

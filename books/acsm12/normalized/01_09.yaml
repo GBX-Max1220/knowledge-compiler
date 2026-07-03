@@ -1,0 +1,65 @@
+# ontology: knowledge-compiler/v1
+# Section: 1.9 — Sudden Cardiac Death Among Young Individuals
+# Source: ACSM's Guidelines for Exercise Testing and Prescription, 12th Ed.
+# Pages: 90–92
+
+---
+id: evidence.scd_incidence_young_athletes
+type: Concept
+canonical_name: SCD Incidence in Young Athletes
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.9"
+  section_title: "Sudden Cardiac Death Among Young Individuals"
+  book_page: 90
+  pdf_page: 90
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: "Annual risk of exercise-related death among high school and college athletes: 1:133,000 men and 1:769,000 women. More recent data (1980-2011): all-cause sudden death 1:62,439 men and 1:523,093 women; SCD at 1:121,691 men and 1:787,392 women."
+attributes:
+purpose:
+related_concepts:
+
+---
+id: recommendation.preparticipation_screening_young
+type: Recommendation
+canonical_name: Preparticipation Cardiovascular Screening for Young Athletes
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: "1.9"
+  section_title: "Sudden Cardiac Death Among Young Individuals"
+  book_page: 91
+  pdf_page: 91
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+population: Young individuals (athletes)
+goal: Reduce risk of SCD incidence
+dosage: Preparticipation cardiovascular screening endorsed by the International Olympic Committee and AHA.
+evidence_grade: 
+evidence_reference: (118-120)

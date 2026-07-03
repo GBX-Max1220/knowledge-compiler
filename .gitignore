@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+*.env.local
+compiler.yaml
+
+# Large binary
+books/acsm12/source/*.pdf
+
+# Pipeline artifacts (regenerated on build)
+books/acsm12/.queue/
+books/acsm12/.prompts/
+
+# Session artifacts
+.reasonix/
+
+# OS
+.DS_Store
+Thumbs.db

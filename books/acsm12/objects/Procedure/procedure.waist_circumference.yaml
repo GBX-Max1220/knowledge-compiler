@@ -1,0 +1,32 @@
+id: procedure.waist_circumference
+type: Procedure
+canonical_name: Waist Circumference Measurement
+semantic_type: Protocol
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '3.10'
+  section_title: Anthropometric Methods
+  book_page: 180
+  pdf_page: 180
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+goal: Measure waist circumference for disease risk assessment
+inputs:
+- flexible inelastic tape measure
+outputs:
+- waist circumference measurement
+steps:
+- Locate the iliac crest
+- Place tape measure around the abdomen at the level of the iliac crest
+- Ensure tape is placed on skin surface without compressing tissues
+- Take measurement at the end of a normal expiration
+- Record measurement to nearest 0.1 cm or 0.5 in
+exceptions: []

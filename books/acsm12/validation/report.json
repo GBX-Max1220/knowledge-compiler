@@ -1,0 +1,87 @@
+{
+  "book": "acsm12",
+  "timestamp": "2026-07-04T03:43:16.013151",
+  "objects": 49,
+  "edges": 23,
+  "types": {
+    "Concept": 34,
+    "Recommendation": 7,
+    "Threshold": 4,
+    "Warning": 4
+  },
+  "total_issues": 11,
+  "by_layer": {
+    "1_syntax": {
+      "passed": 49,
+      "failed": 0
+    },
+    "2_schema": {
+      "passed": 49,
+      "failed": 11
+    },
+    "3_ontology": {
+      "passed": 53,
+      "failed": 0
+    },
+    "4_graph": {
+      "passed": 1,
+      "failed": 0
+    },
+    "5_semantic": {
+      "passed": 49,
+      "failed": 0
+    }
+  },
+  "issues": {
+    "1_syntax": [],
+    "2_schema": [
+      {
+        "severity": "error",
+        "message": "evidence.absolute_scd_risk_vigorous_pa: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.cardiac_rehab_complication_rates: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.exercise_testing_risk_summary: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.habitual_inactivity_ami_risk: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.inverse_msi_fitness: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.mvpa_mitigation_sedentary_mortality: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.pa_cvd_dose_response: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.resistance_training_benefits: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.scd_ami_risk_ratios: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.scd_incidence_young_athletes: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      },
+      {
+        "severity": "error",
+        "message": "evidence.sedentary_health_risks: semantic_type 'Evidence' not in allowed list ['Activity', 'Entity', 'Property']"
+      }
+    ],
+    "3_ontology": [],
+    "4_graph": [],
+    "5_semantic": []
+  }
+}

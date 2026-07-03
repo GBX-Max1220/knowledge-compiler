@@ -1,0 +1,33 @@
+# ontology: knowledge-compiler/v1
+# Section: 3.15 — Concept of Maximal Oxygen Uptake
+# Pages: 198–200
+
+---
+id: concept.vo2max
+type: Concept
+canonical_name: Maximal Oxygen Uptake
+semantic_type: Entity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "3.15"
+  section_title: "Concept of Maximal Oxygen Uptake"
+  book_page: 198
+  pdf_page: 198
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: VO2max is the greatest rate at which oxygen can be consumed during exhaustive exercise. It is considered the best measure of cardiorespiratory fitness and is recognized by the AHA as a clinical vital sign.
+attributes: []
+purpose: []
+related_concepts: []

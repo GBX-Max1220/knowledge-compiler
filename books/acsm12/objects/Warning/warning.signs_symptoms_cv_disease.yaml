@@ -1,0 +1,34 @@
+id: warning.signs_symptoms_cv_disease
+type: Warning
+canonical_name: Signs and Symptoms of CV/Metabolic/Renal Disease
+semantic_type: Safety
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Evaluation
+  section: '2.4'
+  section_title: ACSM Preparticipation Screening Process
+  book_page: 133
+  pdf_page: 133
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+condition: Undiagnosed or known CV, metabolic, or renal disease
+signs:
+- Pain or discomfort in chest/neck/jaw/arms
+- Shortness of breath at rest or mild exertion
+- Dizziness or syncope
+- Orthopnea or paroxysmal nocturnal dyspnea
+- Ankle edema
+- Palpitations or tachycardia
+- Intermittent claudication
+- Known heart murmur
+- Unusual fatigue or shortness of breath with usual activities
+action: Individuals with these signs/symptoms should seek medical evaluation before
+  initiating exercise.
+severity: high

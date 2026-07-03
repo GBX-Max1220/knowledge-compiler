@@ -1,0 +1,41 @@
+# ====================================================================
+# Schema: Concept
+# ====================================================================
+# A defined term or concept extracted from a textbook.
+# Represents a domain concept with definition, attributes, and purpose.
+
+type: Concept
+
+header:
+  id:               string      # e.g. "concept.exercise"
+  type:             Concept
+  canonical_name:   string      # e.g. "Exercise"
+  semantic_type:    string      # "Activity" | "Entity" | "Property" | ...
+  aliases:          string[]    # ONLY from original text — requires page evidence
+
+source:
+  book:             string
+  edition:          integer
+  chapter:          integer
+  chapter_title:    string
+  section:          string      # e.g. "1.2"
+  section_title:    string
+  book_page:        integer     # page number as printed in the book
+  pdf_page:         integer     # actual PDF page number
+
+provenance:
+  extraction:       string      # engine version, e.g. "reasonix-code-v1"
+  normalization:    string
+  reviewed:         string      # "human" | "auto"
+
+evidence_level:     string      # A | B | C | D | E | I — only when explicitly stated
+
+relationships:      object[]
+  - predicate:      string      # is_a | part_of | used_for | has_attribute | ...
+    target:         string      # target object ID
+
+# --- Type-specific body ---
+definition:         string      # the definition text, verbatim
+attributes:         string[]    # key characteristics extracted from definition
+purpose:            string[]    # purpose/goal of the concept
+related_concepts:   string[]    # IDs of related (non-parent) concepts

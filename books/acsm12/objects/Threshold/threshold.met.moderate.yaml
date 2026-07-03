@@ -1,0 +1,34 @@
+id: threshold.met.moderate
+type: Threshold
+canonical_name: Moderate Intensity
+semantic_type: Range
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Physical Activity and Fitness Terminology
+  book_page: 71
+  pdf_page: 71
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.met.light
+- predicate: adjacent_to
+  target: threshold.met.vigorous
+- predicate: applies_to
+  target: concept.physical_activity
+metric: MET
+range: 3.0–5.9
+unit: METs
+population: Adults
+condition: Physical Activity Intensity Classification
+numerical_value: 3.0
+numerical_max: 5.9
+comparison_operator: range

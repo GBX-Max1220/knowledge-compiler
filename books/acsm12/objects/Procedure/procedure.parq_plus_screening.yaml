@@ -1,0 +1,31 @@
+id: procedure.parq_plus_screening
+type: Procedure
+canonical_name: PAR-Q+ Self-Guided Screening
+semantic_type: Protocol
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Evaluation
+  section: '2.9'
+  section_title: Exercise Testing
+  book_page: 146
+  pdf_page: 146
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+goal: Self-guided exercise preparticipation health screening
+inputs:
+- PAR-Q+ questionnaire
+outputs:
+- screening result
+steps:
+- Individual completes the PAR-Q+ questionnaire
+- Review responses for any 'yes' answers
+- Follow up with individual to ensure all questions are understood
+- Use results to guide exercise clearance recommendations
+exceptions: []

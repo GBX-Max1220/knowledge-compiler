@@ -1,0 +1,568 @@
+$ python scripts/batch_process.py --book acsm12 --stages decomposed validated 2>&1
+[exit 0]
+[03:42:42] [INFO ] Pipeline stages: decomposed → validated
+[03:42:42] [INFO ] Total sections to process: 378
+[03:42:42] [INFO ] ============================================================
+[03:42:42] [STAT ] Section 1.1 (01_01) — status: pending
+[03:42:42] [INFO ]   Stage: decomposed
+[03:42:42] [ERROR]   Cannot decompose: 1.1 — normalized file missing
+[03:42:42] [INFO ]   Stage: validated
+[03:42:42] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:42] [INFO ] ============================================================
+[03:42:42] [STAT ] Section 1.2 (01_02) — status: pending
+[03:42:42] [INFO ]   Stage: decomposed
+[03:42:42] [DONE ]   Decomposed: 1.2 → 20 objects
+[03:42:42] [INFO ]   Stage: validated
+[03:42:42] [DONE ]   Validation: 20 objects, 0 errors
+[03:42:42] [INFO ] ============================================================
+[03:42:42] [STAT ] Section 1.3 (01_03) — status: pending
+[03:42:42] [INFO ]   Stage: decomposed
+[03:42:42] [DONE ]   Decomposed: 1.3 → 6 objects
+[03:42:42] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 6 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.4 (01_04) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Decomposed: 1.4 → 4 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 4 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.5 (01_05) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Decomposed: 1.5 → 1 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 1 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.6 (01_06) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Decomposed: 1.6 → 2 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 2 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.7 (01_07) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Decomposed: 1.7 → 2 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 2 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.8 (01_08) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Decomposed: 1.8 → 3 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 3 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.9 (01_09) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Decomposed: 1.9 → 2 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 2 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.10 (01_10) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Decomposed: 1.10 → 4 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 4 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.11 (01_11) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Decomposed: 1.11 → 1 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 1 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.12 (01_12) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Registry updated (2 entries from 1.12)
+[03:42:43] [DONE ]   Decomposed: 1.12 → 2 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:43] [DONE ]   Validation: 2 objects, 0 errors
+[03:42:43] [INFO ] ============================================================
+[03:42:43] [STAT ] Section 1.13 (01_13) — status: pending
+[03:42:43] [INFO ]   Stage: decomposed
+[03:42:43] [DONE ]   Registry updated (2 entries from 1.13)
+[03:42:43] [DONE ]   Decomposed: 1.13 → 2 objects
+[03:42:43] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 2 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 1.14 (01_14) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [WARN ]   No objects to decompose in 1.14
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 1.15 (01_15) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [WARN ]   No objects to decompose in 1.15
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.1 (02_01) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.1 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.2 (02_02) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.2 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.3 (02_03) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.3 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.4 (02_04) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.4 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.5 (02_05) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.5 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.6 (02_06) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.6 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.7 (02_07) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.7 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.8 (02_08) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.8 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.9 (02_09) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.9 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.10 (02_10) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.10 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.11 (02_11) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.11 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:44] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:44] [INFO ] ============================================================
+[03:42:44] [STAT ] Section 2.12 (02_12) — status: pending
+[03:42:44] [INFO ]   Stage: decomposed
+[03:42:44] [ERROR]   Cannot decompose: 2.12 — normalized file missing
+[03:42:44] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 2.13 (02_13) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 2.13 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 2.14 (02_14) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 2.14 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.1 (03_01) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.1 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.2 (03_02) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.2 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.3 (03_03) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.3 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.4 (03_04) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.4 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.5 (03_05) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.5 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.6 (03_06) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.6 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.7 (03_07) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.7 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.8 (03_08) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.8 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.9 (03_09) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.9 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.10 (03_10) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.10 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:45] [INFO ] ============================================================
+[03:42:45] [STAT ] Section 3.11 (03_11) — status: pending
+[03:42:45] [INFO ]   Stage: decomposed
+[03:42:45] [ERROR]   Cannot decompose: 3.11 — normalized file missing
+[03:42:45] [INFO ]   Stage: validated
+[03:42:45] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.12 (03_12) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.12 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.13 (03_13) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.13 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.14 (03_14) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.14 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.15 (03_15) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.15 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.16 (03_16) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.16 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.17 (03_17) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.17 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.18 (03_18) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.18 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.19 (03_19) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.19 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.20 (03_20) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.20 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.21 (03_21) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.21 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.22 (03_22) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.22 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.23 (03_23) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.23 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.24 (03_24) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.24 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:46] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:46] [INFO ] ============================================================
+[03:42:46] [STAT ] Section 3.25 (03_25) — status: pending
+[03:42:46] [INFO ]   Stage: decomposed
+[03:42:46] [ERROR]   Cannot decompose: 3.25 — normalized file missing
+[03:42:46] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 3.26 (03_26) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 3.26 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 3.27 (03_27) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 3.27 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 3.28 (03_28) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 3.28 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 3.29 (03_29) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 3.29 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 3.30 (03_30) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 3.30 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 3.31 (03_31) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 3.31 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 4.1 (04_01) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 4.1 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 4.2 (04_02) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 4.2 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 4.3 (04_03) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 4.3 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 4.4 (04_04) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 4.4 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 4.5 (04_05) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 4.5 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 4.6 (04_06) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 4.6 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 4.7 (04_07) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 4.7 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:47] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:47] [INFO ] ============================================================
+[03:42:47] [STAT ] Section 4.8 (04_08) — status: pending
+[03:42:47] [INFO ]   Stage: decomposed
+[03:42:47] [ERROR]   Cannot decompose: 4.8 — normalized file missing
+[03:42:47] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.9 (04_09) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.9 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.10 (04_10) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.10 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.11 (04_11) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.11 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.12 (04_12) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.12 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.13 (04_13) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.13 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.14 (04_14) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.14 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.15 (04_15) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.15 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.16 (04_16) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.16 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.17 (04_17) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.17 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.18 (04_18) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.18 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.19 (04_19) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.19 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.20 (04_20) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.20 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:48] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:48] [INFO ] ============================================================
+[03:42:48] [STAT ] Section 4.21 (04_21) — status: pending
+[03:42:48] [INFO ]   Stage: decomposed
+[03:42:48] [ERROR]   Cannot decompose: 4.21 — normalized file missing
+[03:42:48] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 4.22 (04_22) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 4.22 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 4.23 (04_23) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 4.23 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 4.24 (04_24) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 4.24 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 4.25 (04_25) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 4.25 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 4.26 (04_26) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 4.26 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 5.1 (05_01) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 5.1 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 5.2 (05_02) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 5.2 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 5.3 (05_03) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 5.3 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 5.4 (05_04) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 5.4 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 5.5 (05_05) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 5.5 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 5.6 (05_06) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 5.6 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 5.7 (05_07) — status: pending
+[03:42:49] [INFO ]   Stage: decomposed
+[03:42:49] [ERROR]   Cannot decompose: 5.7 — normalized file missing
+[03:42:49] [INFO ]   Stage: validated
+[03:42:49] [DONE ]   Validation: 0 objects, 0 errors
+[03:42:49] [INFO ] ============================================================
+[03:42:49] [STAT ] Section 5.8 (05_08) — status: pen
+
+[… truncated 98278 chars …]

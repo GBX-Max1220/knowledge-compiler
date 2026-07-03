@@ -1,0 +1,29 @@
+id: evidence.resistance_training_benefits
+type: Concept
+canonical_name: Resistance Training Health Benefits
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.6'
+  section_title: Health Benefits of Improving Muscular Fitness
+  book_page: 87
+  pdf_page: 87
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: Resistance training is associated with significantly better cardiometabolic
+  risk profiles, lower risk of all-cause mortality, fewer CVD events, lower risk of
+  developing physical function limitations, and lower risk for nonfatal disease. Benefits
+  include improvements in body composition, blood glucose levels, insulin sensitivity,
+  and blood pressure in individuals with mild or moderate hypertension.
+attributes: []
+purpose: []
+related_concepts:
+- concept.muscular_fitness

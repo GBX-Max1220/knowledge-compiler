@@ -1,0 +1,31 @@
+# Extraction: Section 3.19 — Modes of Testing
+# Pages: 206–218
+
+---
+TYPE: Procedure
+TITLE: YMCA Submaximal Cycle Ergometer Protocol
+PAGE: 214
+SECTION: 3.19
+ORIGINAL: A multistage submaximal cycle ergometer test using two to four 3-minute stages. The initial workload is 150 kg·m·min⁻¹ (25 W) for those with low fitness or 300 kg·m·min⁻¹ (50 W) for most adults. Resistance is increased based on HR response.
+END
+---
+TYPE: Formula
+TITLE: Cooper 12-Minute Run Test VO2max Estimation
+PAGE: 215
+SECTION: 3.19
+ORIGINAL: VO2max (mL·kg⁻¹·min⁻¹) = (distance covered in meters − 504.9) / 44.73.
+END
+---
+TYPE: Formula
+TITLE: 1.5-Mile Run/Walk Test VO2max Estimation
+PAGE: 215
+SECTION: 3.19
+ORIGINAL: VO2max (mL·kg⁻¹·min⁻¹) = 3.5 + 483 / (1.5 mile time in minutes).
+END
+---
+TYPE: Table
+TITLE: Table 3.7 — Summary of Common Step Tests
+PAGE: 217
+SECTION: 3.19
+ORIGINAL: Åstrand-Rhyming: Healthy adults, Females 33 cm/Males 40 cm step height, 22.5 steps·min⁻¹, 5 min. Webb: Young adults, 33 cm step height, 22.5 steps·min⁻¹ starting, increases by 5 steps·min⁻¹ every minute.
+END

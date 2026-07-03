@@ -1,0 +1,80 @@
+# Extraction: Section 1.3 — Public Health Perspective for Current Recommendations
+# Source: ACSM's Guidelines for Exercise Testing and Prescription, 12th Ed.
+# Pages: 75–81
+
+---
+TYPE: Recommendation
+TITLE: ACSM-AHA Primary Physical Activity Recommendation (2007)
+PAGE: 75–76
+SECTION: 1.3
+ORIGINAL: All healthy adults aged 18–65 years should participate in moderate-intensity aerobic PA for a minimum of 30 minutes on 5 d · wk⁻¹ or vigorous-intensity aerobic activity for a minimum of 20 minutes on 3 d · wk⁻¹. Combinations of moderate- and vigorous-intensity exercise can be performed to meet this recommendation. Moderate-intensity aerobic activity can be accumulated to total 30 minutes by performing bouts, each lasting ≥10 minutes. Every adult should perform activities that maintain or increase muscular strength and endurance for a minimum of 2 d · wk⁻¹.
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+END
+
+---
+TYPE: Recommendation
+TITLE: 2018 Physical Activity Guidelines for Americans — Primary Recommendation
+PAGE: 78
+SECTION: 1.3
+ORIGINAL: Adults should move more and sit less throughout the day. Some physical activity is better than none. Adults who sit less and do any amount of moderate-to-vigorous physical activity gain some health benefits. For substantial health benefits, adults should do at least 150–300 min · wk⁻¹ of moderate-intensity or 75–150 min · wk⁻¹ of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity. Preferably, aerobic activity should be spread throughout the week. Additional health benefits are gained by engaging in physical activity beyond the equivalent of 300 minutes of moderate-intensity physical activity a week. Adults should also do muscle strengthening activities of moderate or greater intensity and that involve all major muscle groups on 2 or more d · wk⁻¹, as these activities provide additional health benefits.
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+END
+
+---
+TYPE: Recommendation
+TITLE: Bout Duration Elimination (2018 Guidelines Change)
+PAGE: 78
+SECTION: 1.3
+ORIGINAL: Elimination of the previous requirement that aerobic activities must occur in bouts of at least 10 minutes in duration to elicit significant health benefits. There is now overwhelming evidence indicating that bouts of PA less than 10 minutes in duration are also associated with favorable outcomes for a variety of health-related indicators.
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+END
+
+---
+TYPE: Recommendation
+TITLE: PA Beyond Minimum for Weight Management
+PAGE: 79
+SECTION: 1.3
+ORIGINAL: PA beyond the minimum recommendations combined with proper nutrition is likely needed for many individuals to manage and/or prevent weight gain and obesity.
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+END
+
+---
+TYPE: Evidence
+TITLE: Dose-Response Relationship Between PA and CVD
+PAGE: 79
+SECTION: 1.3
+ORIGINAL: A meta-analysis of 23 sex-specific cohorts representing 1,325,004 person-years of follow-up showed a strong inverse dose-response relationship between PA and risk for CVD independent of baseline levels of PA or CRF.
+RELATIONSHIPS:
+  - references: Figure 1.1
+END
+
+---
+TYPE: Figure
+TITLE: Figure 1.1 — Dose-Response Curve for CVD Risk
+PAGE: 80
+SECTION: 1.3
+ORIGINAL: Estimated dose-response curve for the relative risk of atherosclerotic cardiovascular disease by sample percentages of fitness and physical activity. Studies weighted by individual-years of experience.
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+END
+
+---
+TYPE: Table
+TITLE: Table 1.2 — Evidence for Dose-Response Relationship Between Physical Activity and Health Outcomes in Adults
+PAGE: 80–81
+SECTION: 1.3
+ORIGINAL: See chunk file for full table content.
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+END
+---

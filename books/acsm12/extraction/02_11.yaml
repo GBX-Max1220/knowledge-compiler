@@ -1,0 +1,31 @@
+# Extraction: Section 2.11 — Medical History and CVD Risk Factor Assessment
+# Pages: 149–159
+
+---
+TYPE: Threshold
+TITLE: Blood Pressure Classification (JNC Criteria)
+PAGE: 153
+SECTION: 2.11
+ORIGINAL: Normal: SBP <120 mm Hg and DBP <80 mm Hg. Prehypertension: SBP 120–139 or DBP 80–89. Hypertension Stage 1: SBP 140–159 or DBP 90–99. Hypertension Stage 2: SBP ≥160 or DBP ≥100.
+END
+---
+TYPE: Threshold
+TITLE: Cholesterol Classification
+PAGE: 154
+SECTION: 2.11
+ORIGINAL: Total Cholesterol: Desirable <200, Borderline high 200–239, High ≥240 mg·dL⁻¹. LDL-C: Desirable <100, Above desirable 100–129, Borderline high 130–159, High 160–189, Very high ≥190 mg·dL⁻¹. HDL-C: Low <40 (men) or <50 (women), High ≥60 mg·dL⁻¹ (negative risk factor). Triglycerides: Normal <150, Borderline high 150–199, High 200–499, Very high ≥500 mg·dL⁻¹.
+END
+---
+TYPE: Threshold
+TITLE: CVD Risk Factor Thresholds
+PAGE: 150
+SECTION: 2.11
+ORIGINAL: Age: Men ≥45 yr, Women ≥55 yr. Family history: MI, coronary revascularization, or sudden death in first-degree male relative <55 yr or female relative <65 yr. Cigarette smoking: current or quit within 6 months. Physical inactivity: not meeting minimum PA recommendations. Obesity: BMI ≥30 kg·m⁻² or waist girth >102 cm men/>88 cm women. Hypertension: SBP ≥130 and/or DBP ≥80 mm Hg or on antihypertensive medication. Dyslipidemia: LDL-C ≥130 or HDL-C <40 mg·dL⁻¹ or on lipid-lowering medication. Prediabetes: FBG ≥100 mg·dL⁻¹ but <126 mg·dL⁻¹ or HbA1c ≥5.7% but <6.5%.
+END
+---
+TYPE: Definition
+TITLE: Negative Risk Factor (HDL-C)
+PAGE: 151
+SECTION: 2.11
+ORIGINAL: High HDL-C ≥60 mg·dL⁻¹ is considered a negative risk factor. For individuals having high HDL ≥60 mg·dL⁻¹, one positive risk factor is subtracted from the total count.
+END
