@@ -20,7 +20,7 @@ OBJECTS = os.path.join(ROOT, "books", "acsm12", "objects")
 def load(oid, type_dir):
     path = os.path.join(OBJECTS, type_dir, f"{oid}.yaml")
     if os.path.exists(path):
-        with open(path) as f:
+        with open(path, encoding="utf-8") as f:
             return yaml.safe_load(f)
     return None
 
