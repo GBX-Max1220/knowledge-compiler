@@ -1,125 +1,155 @@
-# Knowledge Compiler — v0.1
-#
-# A structured, validated ACSM-based exercise science skill.
-# Extracted from ACSM's Guidelines for Exercise Testing and Prescription, 12th Ed.
-#
-# Coverage: Chapters 1–3 (Benefits & Risks, Preparticipation Evaluation, Fitness Testing)
-# Objects: 74 · Types: 6 · Validation: 5-layer PASS
+# Knowledge Compiler
 
-## Quick Stats
-
-| Metric | Value |
-|--------|-------|
-| Book | ACSM's Guidelines 12th Ed. |
-| Coverage | Chapters 1–3 |
-| Objects | 74 |
-| Types | Concept (38), Threshold (11), Procedure (9), Recommendation (8), Warning (5), Formula (3) |
-| Edges | 23 |
-| Validation | 5-layer PASS |
-| Status | Beta / v0.1 |
-
-## Repository Structure
+**From textbook PDF → structured, validated, agent-ready knowledge objects.**
 
 ```
-knowledge-compiler/
-├── ontology_spec.md          # Ontology specification (frozen v1.0)
-├── schema/                   # Type definitions (8 files)
-├── prompts/                  # Pipeline stage prompts (6 files)
-├── scripts/                  # Automation scripts
-├── compiler/                 # Production infrastructure
-│   ├── cli.py                # knowledge-compiler CLI
-│   ├── queue.py              # Task queue with retry/resume
-│   └── providers/            # Provider abstraction
-├── books/acsm12/
-│   ├── objects/              # 74 validated objects
-│   │   ├── Concept/          #   Definitions and evidence
-│   │   ├── Threshold/        #   Classification boundaries
-│   │   ├── Procedure/        #   Step-by-step protocols
-│   │   ├── Recommendation/   #   Evidence-based guidelines
-│   │   ├── Warning/          #   Safety alerts
-│   │   └── Formula/          #   Equations
-│   ├── skill/
-│   │   ├── skill.md          # Agent-usable skill definition
-│   │   └── evaluation_set_v0.1.yaml  # 25-question benchmark
-│   ├── registry.yaml         # Canonical name → ID mapping
-│   └── validation/           # 5-layer validation report
-├── docs/                     # Documentation
-└── releases/                 # Release plans
+PDF → Chunk → Extract → Normalize → Validate → Skill
 ```
 
-## What This Is
+Most AI systems that use textbooks do one of two things:
+- **RAG** — retrieve chunks of raw text. Fast but unstructured. No guarantees on what the model will find.
+- **Fine-tuning** — expensive, opaque, hard to update.
 
-A **structured, validated knowledge skill** for exercise science. Unlike raw PDFs or RAG pipelines, this project produces:
+This is a third path: **compile textbooks into typed, validated, machine-readable knowledge objects** that an agent can query directly.
 
-- **Typed objects** — each piece of knowledge knows what kind of thing it is (Concept, Threshold, Procedure, etc.)
-- **Sourced** — every object points to its exact page in the textbook
-- **Related** — objects are connected by typed, enumerated relationships
-- **Validated** — 5-layer automated validation (syntax, schema, ontology, graph, semantic)
-- **Agent-ready** — skill.md defines exactly how an AI should use the objects
+---
 
-## Skill Capabilities (v0.1)
+## What can it do right now?
 
-The skill can answer questions about:
+Ask it anything from ACSM's *Guidelines for Exercise Testing and Prescription*, Chapters 1–3:
 
-- **Exercise terminology** — PA vs Exercise, MET, VO2max, fitness components
-- **Intensity classification** — MET ranges (light/moderate/vigorous), BMI, blood pressure, cholesterol
-- **Screening protocols** — ACSM preparticipation algorithm, PAR-Q+, medical clearance
-- **Safety** — signs/symptoms of CV disease, test termination criteria, cardiac prodromal symptoms
-- **Assessment procedures** — resting BP, 1-RM testing, YMCA cycle protocol, sit-and-reach
-- **Recommendations** — PA guidelines, bout duration rules, weight management
-- **Formulas** — VO2max estimation, body density, percent body fat
+```
+Q: "Can a 55-year-old man with hypertension begin vigorous exercise?"
 
-## Example
+The system loads:
+  → threshold.cvd_risk_factors    (age ≥45 = risk factor, BP ≥130/80 = risk factor)
+  → procedure.acsm_screening      (non-exerciser + 2+ risk factors + vigorous = clearance needed)
+  → recommendation.medical_clearance
+
+Answer: Medical clearance is recommended before starting vigorous exercise.
+Sources: ACSM12 Ch2.2.11 (p.150), Ch2.2.7 (p.142)
+```
+
+Not a chunk. Not a guess. A typed decision chain with page-level citations.
+
+---
+
+## Quick demo
 
 ```python
-# Load a threshold and compare
-from knowledge_compiler import load_object
+from knowledge_compiler import Skill
 
-bmi = load_object("threshold.bmi_classification")
-# bmi.range = "<18.5 Underweight, 18.5-24.9 Normal, 25.0-29.9 Overweight, ..."
-# bmi.numerical_value = 18.5
-# bmi.numerical_max = 39.9
+skill = Skill("books/acsm12")
 
-if 25.0 <= user_bmi <= 29.9:
-    category = "Overweight"
+# Threshold check
+bmi = skill.get("threshold.bmi_classification")
+# → BMI 27 → "Overweight (25.0-29.9)"
+
+# Procedure lookup
+protocol = skill.get("procedure.one_rm_testing")
+# → 8 steps, from warm-up to failure
+
+# Safety check
+warnings = skill.get("warning.signs_symptoms_cv_disease")
+# → 9 signs, action: seek medical evaluation
 ```
+
+Every query returns an **object** — typed, sourced, validated — not generated text.
+
+---
+
+## Coverage (v0.1)
+
+| Type | Count | What it covers |
+|------|-------|---------------|
+| Concept | 38 | PA, Exercise, MET, VO₂max, fitness components, sedentary behavior, CVD risk factors |
+| Threshold | 11 | MET intensity, BMI, BP, cholesterol, waist circumference, body fat % |
+| Procedure | 9 | Screening algorithm, BP measurement, 1-RM testing, YMCA protocol, test termination |
+| Recommendation | 8 | PA guidelines, medical clearance, screening for young athletes, cardiac prevention |
+| Warning | 5 | CV signs/symptoms, cardiac prodromal symptoms, SCD/AMI risk, MSI risk |
+| Formula | 3 | Cooper 12-min run, body density (Jackson-Pollock), % body fat (Siri) |
+| **Total** | **74** | **ACSM 12th Ed., Chapters 1–3** |
+
+---
+
+## How it's different
+
+| | RAG | Fine-tuning | Knowledge Compiler |
+|---|---|---|---|
+| Source-grounded | ✅ Sometimes | ❌ | ✅ Always (page-level) |
+| Typed output | ❌ | ❌ | ✅ Concept / Threshold / Procedure / ... |
+| Machine-readable | ❌ | ❌ | ✅ `numerical_value`, `steps[]`, `signs[]` |
+| Validation | ❌ | ❌ | ✅ 5-layer automated |
+| Update cost | Low | High | Low (re-run one section) |
+| Agent integration | Probabilistic | Opaque | Deterministic |
+
+---
 
 ## Validation
 
-Every object passes 5 layers of automated validation:
+Every object passes 5 layers:
 
-| Layer | Check | Status |
-|-------|-------|--------|
-| 1 Syntax | YAML parsability, required fields | ✅ PASS |
-| 2 Schema | Type-specific required fields | ✅ PASS |
-| 3 Ontology | Relationship targets exist, predicates allowed | ✅ PASS |
-| 4 Graph | No duplicate IDs, no orphan edges | ✅ PASS |
-| 5 Semantic | Meaningful definitions, complete thresholds | ✅ PASS |
+1. **Syntax** — YAML parses, required fields exist
+2. **Schema** — type-specific fields complete (Threshold has `range`, Procedure has `steps`)
+3. **Ontology** — all relationship targets resolve, predicates are in allowlist
+4. **Graph** — no duplicate IDs, no orphan edges
+5. **Semantic** — definitions are non-empty, thresholds have numerical bounds
 
-## Pipeline
+**Current status: ✅ ALL 5 LAYERS PASS**
+
+---
+
+## Repository structure
+
+```
+knowledge-compiler/
+├── ontology_spec.md          # Language spec for the compiler
+├── schema/                   # Type definitions (8 files)
+├── prompts/                  # Pipeline prompts (6 files)
+├── scripts/                  # Automation
+├── compiler/                 # CLI + task queue + provider abstraction
+├── books/acsm12/
+│   ├── objects/              # 74 validated objects ← core asset
+│   ├── skill/                # Agent skill definition + evaluation set
+│   ├── registry.yaml         # Canonical name → ID mapping
+│   └── validation/           # 5-layer validation report
+├── docs/                     # Pipeline + schema + ontology docs
+└── releases/                 # Release plans
+```
+
+---
+
+## Quick start
 
 ```bash
-# Initialize task queue
-knowledge-compiler build acsm12 --init
+# Clone
+git clone https://github.com/GBX-Max1220/knowledge-compiler.git
+cd knowledge-compiler
 
-# Check progress
-knowledge-compiler status acsm12
+# Validate the objects
+python scripts/validate.py --book acsm12
 
-# Validate generated objects
-knowledge-compiler validate acsm12
-
-# Tag a release
-knowledge-compiler release acsm12 v0.1
+# List all registered concepts
+python -c "
+import yaml, os
+reg = yaml.safe_load(open('books/acsm12/registry.yaml'))
+for name, oid in sorted(reg['registry'].items()):
+    print(f'{name:40s} → {oid}')
+"
 ```
+
+---
 
 ## Roadmap
 
 | Version | Coverage | Status |
 |---------|----------|--------|
-| v0.1 | Chapters 1–3 | ✅ Released |
-| v0.2 | Chapters 4–6 | 🔜 |
-| v0.3 | Chapters 7–9 | 🔜 |
-| v1.0 | Full ACSM 12th Ed. | 🔜 |
+| v0.1 | Ch1–3: Benefits, Screening, Fitness Testing | ✅ Released |
+| v0.2 | Ch4–6: Clinical Testing, Exercise Prescription | 🔜 |
+| v0.3 | Ch7–9: Environment, Disease Populations | 🔜 |
+| v1.0 | Full ACSM 12th Edition | 🔜 |
+
+---
 
 ## License
 
@@ -130,8 +160,8 @@ MIT
 ```bibtex
 @software{guo_knowledge_compiler_2025,
   author = {Guo, Max},
-  title = {Knowledge Compiler: A Structured ACSM Exercise Science Skill},
+  title = {Knowledge Compiler: From Textbook to Structured Skill},
   year = {2025},
-  url = {https://github.com/max-guo/knowledge-compiler}
+  url = {https://github.com/GBX-Max1220/knowledge-compiler}
 }
 ```
