@@ -1,6 +1,6 @@
 id: threshold.cardiorespiratory_fitness_classification
 type: Threshold
-canonical_name: Cardiorespiratory Fitness Classification Categories
+canonical_name: Cardiorespiratory Fitness Classification Categories (Threshold)
 semantic_type: Classification
 aliases: []
 source:

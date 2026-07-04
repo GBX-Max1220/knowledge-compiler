@@ -1,14 +1,28 @@
 id: concept.concurrent_training
 type: Concept
 canonical_name: Concurrent Training
-semantic_type: Concept
+semantic_type: Training Method
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 21
-  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
-    Training
-  section: '21'
-  section_title: Special Issues Related to Aerobic Endurance Training
-  book_page: 1553
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 220
+  pdf_page: 220
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In comparison, concurrent training refers to the simultaneous training
+  of both anaerobic resistance training and aerobic endurance training at multiple
+  times within the same period, often within the same training session or day.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

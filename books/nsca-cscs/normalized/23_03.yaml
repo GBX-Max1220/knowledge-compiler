@@ -1,0 +1,378 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.mechanotransduction
+type: Concept
+canonical_name: Mechanotransduction
+semantic_type: Biological Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1649
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Mechanotransduction occurs when tissues are subject to overload, which communicates a mechanical message from the extracellular to intracellular region of the tissue. This mechanical message upregulates the cellular DNA, which in turn stimulates collagen synthesis (44).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.neuromuscular_control
+type: Concept
+canonical_name: Neuromuscular Control
+semantic_type: Physiological Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1650
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Neuromuscular control is the ability of muscles to respond to sensory feedback to maintain joint stability (85).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.proprioception
+type: Concept
+canonical_name: Proprioception
+semantic_type: Sensory Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1650
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.neuromuscular_control
+definition: >
+  This sensory information is referred to as proprioception and occurs in response to receptors in the skin, muscles, tendons, ligaments, and the joint capsule. Proprioception contributes to the conscious and unconscious efferent control of posture, balance, stability, and sense of position (85).
+attributes: []
+purpose:
+  - conscious efferent control of posture
+  - conscious efferent control of balance
+  - conscious efferent control of stability
+  - conscious efferent control of sense of position
+  - unconscious efferent control of posture
+  - unconscious efferent control of balance
+  - unconscious efferent control of stability
+  - unconscious efferent control of sense of position
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.arthrogenic_inhibition
+type: Concept
+canonical_name: Arthrogenic Inhibition
+semantic_type: Physiological Response
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1650
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Arthrogenic inhibition occurs from swelling within the joint that causes a reflex inhibition of the alpha motor neuron responsible for muscle activation (22).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.closed_kinetic_chain_exercise
+type: Concept
+canonical_name: Closed Kinetic Chain Exercise
+semantic_type: Exercise Modality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1654
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A closed kinetic chain exercise is one in which the terminal joint meets with considerable resistance that prohibits or restrains its free motion (88); that is, the distal joint segment is stationary (e.g., fixed to the ground).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.open_kinetic_chain_exercise
+type: Concept
+canonical_name: Open Kinetic Chain Exercise
+semantic_type: Exercise Modality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1656
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An open kinetic chain exercise uses a combination of successively arranged joints in which the terminal joint is free to move; open kinetic chain exercises allow for greater concentration on an isolated joint or muscle (2).
+attributes: []
+purpose:
+  - allow for greater concentration on an isolated joint or muscle
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.return_to_play_decision_criteria
+type: Recommendation
+canonical_name: Return-to-Play Decision Criteria
+semantic_type: Clinical Decision
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1651
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: >
+  Return-to-play or activity decisions should be based on an understanding of normal tissue healing time frames as well as a criteria-based progression with predetermined objectives. These objectives usually include measures of range of motion and strength, functional testing, and patient-reported function using established patient-reported outcome forms (1, 57, 100).
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rehabilitation_exercise_specificity
+type: Recommendation
+canonical_name: Rehabilitation Exercise Specificity
+semantic_type: Clinical Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1652
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: >
+  Ultimately, as with other aspects of strength and conditioning, rehabilitation and reconditioning exercises must be functional and must mimic activity demands—that is, reflect specificity.
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.risk_of_overactivity_during_maturation_remodeling_phase
+type: Warning
+canonical_name: Risk of Overactivity During Maturation–Remodeling Phase
+semantic_type: Clinical Warning
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1651
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  The athlete can be tempted to do too much too soon, which may further damage the injured tissues. It is important to remember that, while there may be less pain with activity at this point, the injured tissues have not fully healed and require further attention to achieve complete recovery (figure 23.3).
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.inflammatory_response_phase
+type: Concept
+canonical_name: Inflammatory Response Phase
+semantic_type: Healing Phase
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1658
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.rehabilitation_and_reconditioning_goals_and_strategies
+definition: >
+  Inflammatory Response Phase: Prevention of new tissue disruption and prolonged inflammation with the use of relative rest and passive modalities. Maintenance of function of the cardiorespiratory and surrounding neuromusculoskeletal systems. No active exercise for the injured area.
+attributes:
+  - relative rest
+  - passive modalities
+purpose:
+  - prevention of new tissue disruption
+  - prevention of prolonged inflammation
+  - maintenance of function of the cardiorespiratory systems
+  - maintenance of function of the surrounding neuromusculoskeletal systems
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fibroblastic_repair_phase
+type: Concept
+canonical_name: Fibroblastic Repair Phase
+semantic_type: Healing Phase
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1658
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.rehabilitation_and_reconditioning_goals_and_strategies
+definition: >
+  Fibroblastic Repair Phase: Prevention of excessive muscle atrophy and joint deterioration of the injured area. Maintenance of function of the neuromusculoskeletal and cardiorespiratory systems. Possible exercise options: submaximal isometric, isokinetic, and isotonic exercise; balance and proprioceptive training activities.
+attributes:
+  - submaximal isometric exercise
+  - submaximal isokinetic exercise
+  - submaximal isotonic exercise
+  - balance training activities
+  - proprioceptive training activities
+purpose:
+  - prevention of excessive muscle atrophy of the injured area
+  - prevention of joint deterioration of the injured area
+  - maintenance of function of the neuromusculoskeletal systems
+  - maintenance of function of the cardiorespiratory systems
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maturation_remodeling_phase
+type: Concept
+canonical_name: Maturation–Remodeling Phase
+semantic_type: Healing Phase
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: ""
+  section: "23.3"
+  section_title: "Tissue Healing"
+  book_page: 1658
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.rehabilitation_and_reconditioning_goals_and_strategies
+definition: >
+  Maturation–Remodeling Phase: Optimization of tissue function. Progressive loading of the neuromusculoskeletal and cardiorespiratory systems as indicated. Possible exercise options: joint angle–specific strengthening, velocity-specific muscle activity, closed and open kinetic chain exercises, proprioceptive training activities.
+attributes:
+  - joint angle–specific strengthening
+  - velocity-specific muscle activity
+  - closed kinetic chain exercises
+  - open kinetic chain exercises
+  - proprioceptive training activities
+purpose:
+  - optimization of tissue function
+  - progressive loading of the neuromusculoskeletal systems as indicated
+  - progressive loading of the cardiorespiratory systems as indicated
+related_concepts: []

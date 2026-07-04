@@ -1,6 +1,6 @@
 id: threshold.resting_blood_lactate
 type: Threshold
-canonical_name: Normal Resting Blood Lactate Concentration
+canonical_name: Normal Resting Blood Lactate Concentration (Threshold)
 semantic_type: Physiological Range
 aliases: []
 source:

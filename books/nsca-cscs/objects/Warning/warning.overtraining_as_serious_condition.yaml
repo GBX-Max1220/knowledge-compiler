@@ -1,6 +1,6 @@
 id: warning.overtraining_as_serious_condition
 type: Warning
-canonical_name: Overtraining as a Serious Condition
+canonical_name: Overtraining as a Serious Condition (Warning)
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription

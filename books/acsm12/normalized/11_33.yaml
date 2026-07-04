@@ -1,0 +1,34 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.placeholder
+type: Concept
+canonical_name: Placeholder
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: ""
+  section: ""
+  section_title: ""
+  book_page: null
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: ""
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

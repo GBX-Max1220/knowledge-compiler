@@ -1,19 +1,16 @@
 id: concept.lactate_threshold
 type: Concept
 canonical_name: Lactate Threshold
-semantic_type: Physiological_Measure
-aliases:
-- LT
+semantic_type: PhysiologicalVariable
+aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 21
-  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
-    Training
-  section: '21'
-  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
-    Training
-  book_page: 1517
+  chapter: 6
+  chapter_title: Aerobic Endurance Training Adaptations
+  section: '6.2'
+  section_title: Aerobic Endurance Training Adaptations
+  book_page: 356
   pdf_page: null
 provenance:
   extraction: reasonix-code-v1
@@ -21,10 +18,9 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'Lactate threshold is that speed of movement or percentage of V̇O2max
-  at which a specific blood lactate concentration is observed (i.e., 4 mmol/L of blood)
-  or the point at which blood lactate concentration begins to increase above resting
-  levels (136).
+definition: 'Aerobic training increases the absolute lactate threshold, allowing the
+  highly trained individual to work at both a higher relative and absolute percentage
+  of his or her V̇O2max than a less-trained individual.
 
   '
 attributes: []

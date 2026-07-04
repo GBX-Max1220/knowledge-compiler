@@ -1,17 +1,17 @@
 id: concept.flexibility
 type: Concept
 canonical_name: Flexibility
-semantic_type: Concept
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
   chapter: 1
   chapter_title: Benefits and Risks Associated With Physical Activity
-  section: '1.1'
-  section_title: Health-Related Physical Fitness Components
-  book_page: 1
-  pdf_page: null
+  section: '1.2'
+  section_title: Physical Activity and Fitness Terminology
+  book_page: 70
+  pdf_page: 70
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
@@ -20,7 +20,9 @@ evidence_level: ''
 relationships:
 - predicate: part_of
   target: concept.health_related_physical_fitness
-definition: ''
+definition: 'The range of motion available at a joint.
+
+  '
 attributes: []
 purpose: []
 related_concepts: []

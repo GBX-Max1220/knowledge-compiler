@@ -550,6 +550,7 @@ registry:
   General Exercise Recommendations and Associated Signs and Symptoms of Exercising During Pregnancy Third Trimester: table_row.general_exercise_recommendations_and_associated_signs_and_symptoms_of_exercising_during_pregnancy_third_trimester
   General Guidelines for Alternative Modes and Nontraditional Implement Exercises: recommendation.general_guidelines_for_alternative_modes_and_nontraditional_implement_exercises
   General Preparatory Phase: concept.general_preparatory_phase
+  General Training Frequency Recommendation for Novice Athletes: recommendation.general_training_frequency_novice
   Girth Measurements Procedure: procedure.girth_measurements
   Gluconeogenesis: concept.gluconeogenesis
   Glute Bridge: procedure.glute_bridge
@@ -579,6 +580,7 @@ registry:
   Growth Hormone (GH) Isoforms: concept.growth_hormone_isoforms
   Growth Hormone (GH) — Production and Isoforms: concept.growth_hormone_production_and_isoforms
   Guided Discovery: concept.guided_discovery
+  Guideline for Scheduling Rest Days Between Sessions: recommendation.guideline_scheduling_rest_days
   Guidelines for Aerobic Endurance Testing in the Heat: recommendation.aerobic_endurance_testing_heat
   Guidelines for Goal Setting: recommendation.guidelines_for_goal_setting
   H-zone: concept.h_zone
@@ -1106,6 +1108,8 @@ registry:
   Pure-Part Training: concept.pure_part_training
   Purkinje Fibers: concept.purkinje_fibers
   Push Press — Starting Position: procedure.push_press_starting_position
+  Push-Pull Total Body Routine 3 Times Per Week: table_row.push_pull_total_body_3x_week
+  Push-Pull Total Body Routine 4 Times Per Week: table_row.push_pull_total_body_4x_week
   QCT Shows Increases in Cortical Bone Density After Resistance Training in Older Women: evidence.qct_cortical_bone_density_resistance_training_older_women
   Quadriceps and Hamstring Activation on Unstable Surface: evidence.quadriceps_and_hamstring_activation_on_unstable_surface
   Quadruped Reach and Rotate: procedure.quadruped_reach_and_rotate
@@ -1156,6 +1160,13 @@ registry:
   Resistance Band — Tension Difference Between Equal Bands: threshold.resistance_band_tension_difference_between_equal_bands
   Resistance Exercise: concept.resistance_exercise
   Resistance Phase: concept.resistance_phase
+  Resistance Training Frequency Based on Training Status - Advanced: table_row.resistance_training_frequency_advanced
+  Resistance Training Frequency Based on Training Status - Beginner: table_row.resistance_training_frequency_beginner
+  Resistance Training Frequency Based on Training Status - Intermediate: table_row.resistance_training_frequency_intermediate
+  Resistance Training Frequency In-Season: table_row.resistance_training_frequency_in_season
+  Resistance Training Frequency Off-Season: table_row.resistance_training_frequency_off_season
+  Resistance Training Frequency Postseason: table_row.resistance_training_frequency_postseason
+  Resistance Training Frequency Preseason: table_row.resistance_training_frequency_preseason
   Resistance Training Injury Rate in Collegiate Football: evidence.resistance_training_injury_rate_collegiate_football
   Resistance Training Injury Time Loss: evidence.resistance_training_injury_time_loss
   Resistance Training Intensity for Older Adults: recommendation.resistance_training_intensity_older_adults
@@ -1277,6 +1288,9 @@ registry:
   Speed Skater Lunge: procedure.speed_skater_lunge
   Spinal Twist (Pretzel) (Lower Back Stretch): procedure.spinal_twist_pretzel_lower_back_stretch
   Split Routine: concept.split_routine
+  Split Routine Chest Back 6 Times Per Week: table_row.split_routine_chest_back_6x_week
+  Split Routine Chest Shoulders Triceps 5 Times Per Week: table_row.split_routine_chest_shoulders_triceps_5x_week
+  Split Routine Lower Upper 4 Times Per Week: table_row.split_routine_lower_upper_4x_week
   Sport Drink Composition for Prolonged Activity in Hot Weather: recommendation.sport_drink_composition.hot_weather
   Sport Kettlebell: concept.sport_kettlebell
   Sport Psychology: concept.sport_psychology

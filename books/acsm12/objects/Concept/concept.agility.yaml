@@ -1,7 +1,7 @@
 id: concept.agility
 type: Concept
 canonical_name: Agility
-semantic_type: Attribute
+semantic_type: Entity
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription

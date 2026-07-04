@@ -1,0 +1,30 @@
+id: table_row.resistance_training_frequency_beginner
+type: TableRow
+canonical_name: Resistance Training Frequency Based on Training Status - Beginner
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training
+  section: '18.3'
+  section_title: 'Step 3: Training Frequency'
+  book_page: 1212
+  pdf_page: 1212
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_id: Table 18.4
+table_title: Resistance Training Frequency Based on Training Status
+row_data:
+  training_status: Beginner
+  frequency_guidelines_sessions_per_week: 2-3
+  notes: ''
+citations:
+- citation_text: Data from Graves et al. (1988); Häkkinen et al. (1988); Hoffman et
+    al. (1990).
+  reference_number: ''

@@ -1,0 +1,595 @@
+TYPE
+Definition
+
+TITLE
+Altitude Classification
+
+PAGE
+1557
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Altitude is classified into several categories, ranging from sea level (>500 m [1,640 ft]) to low (>500-2,000 m [1,640-6,562 ft]), moderate (>2,000-3,000 m [6,562-9,843 ft]), high (>3,000-5,500 m [6,562-18,045 ft]), and extreme (>5,500 m [>18,045 ft]) (39).
+
+CHILDREN
+Sea Level Altitude, Low Altitude, Moderate Altitude, High Altitude, Extreme Altitude
+
+RELATIONSHIPS
+None
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Sea Level Altitude
+
+PAGE
+1557
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+>500 m [1,640 ft]
+
+PARENT
+Altitude Classification
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Low Altitude
+
+PAGE
+1557
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+>500-2,000 m [1,640-6,562 ft]
+
+PARENT
+Altitude Classification
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Moderate Altitude
+
+PAGE
+1557
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+>2,000-3,000 m [6,562-9,843 ft]
+
+PARENT
+Altitude Classification
+
+END
+
+TYPE
+Threshold
+
+TITLE
+High Altitude
+
+PAGE
+1557
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+>3,000-5,500 m [6,562-18,045 ft]
+
+PARENT
+Altitude Classification
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Extreme Altitude
+
+PAGE
+1557
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+>5,500 m [>18,045 ft]
+
+PARENT
+Altitude Classification
+
+END
+
+TYPE
+Definition
+
+TITLE
+Live High, Train Low (LHTL)
+
+PAGE
+1558
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Live high, train low (LHTL) is a method commonly used by athletes seeking to benefit from altitude training. LHTL requires individuals to live at moderate altitudes, between 2,000 meters and 3,000 meters (6,562-9,843 ft), and train at or near sea level (66).
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Training Sequence Priority
+
+PAGE
+1556
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+As a general guide, however, the training sequence should be varied throughout the phases of the training year and reflect the highest priority (e.g., maximizing strength or improving aerobic endurance) for each training cycle; the most important training goal should be trained first within a given workout while the athlete is fresh (125).
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Heat Acclimation for Competition
+
+PAGE
+1559
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+To avoid these negative effects, athletes are advised to acclimatize prior to competition in warm to hot conditions.
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Heat Acclimation Protocol Duration for Long-Duration Events
+
+PAGE
+1559-1560
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+It is recommended that athletes participating in long-duration or multiday events as well as those of a lesser training status undertake longer protocols to ensure appropriate levels of heat adaptation (107).
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Heat Exposure Duration for Acclimation
+
+PAGE
+1560
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+To achieve this, it is generally recommended that athletes aim for 60 minutes of heat exposure (108) and a maximum of 90 minutes, although 120 minutes has been shown to be effective (115, 144).
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Passive Heat Exposure Duration
+
+PAGE
+1561
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+However, to be successful, it is recommended that the heat stimulus be applied for a duration of 30 minutes per session, ideally on consecutive days, when possible to maximize heat acclimation adaptations (61).
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Practice Heat Event
+
+PAGE
+1561
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+To determine individual athlete adaptation and decay rates, heat acclimatization protocols should be practiced months before competition in the heat (9), and athletes should also undertake a practice heat event in similar conditions to those they expect to perform in on competition day (9).
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Wet-Bulb Globe Temperature for Heat Acclimation
+
+PAGE
+1561
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+It is recommended that the environment have a wet-bulb globe temperature >30 °C (>86 °F) to provide the necessary stress to elicit heat adaptations in core body temperature as well as induce a higher sweat response (28).
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Wet-Bulb Globe Temperature Threshold for Heat Acclimation
+
+PAGE
+1561
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+>30 °C (>86 °F)
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Safety Precautions for Heat Acclimation Protocols
+
+PAGE
+1560-1561
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+For example, always begin well hydrated, maintain hydration, ensure cooling equipment is available (e.g., cold-water immersion bath or ice vests), and signs and symptoms of exertional heat illness should be well known to athletes and staff and be posted.
+
+END
+
+TYPE
+Warning
+
+TITLE
+Risk of Exertional Heat Illness
+
+PAGE
+1560
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Due to the added risk that hot environments can pose for athletes during training, several safety precautions should be implemented when working with heat acclimation protocols.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Heat Acclimation Protocol Classification
+
+PAGE
+1559
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Heat acclimation protocols are typically classified as short (<7 days), medium (8-14 days), or long term (>15 days) (50).
+
+CHILDREN
+Short-Term Heat Acclimation, Medium-Term Heat Acclimation, Long-Term Heat Acclimation
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Short-Term Heat Acclimation
+
+PAGE
+1559
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+<7 days
+
+PARENT
+Heat Acclimation Protocol Classification
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Medium-Term Heat Acclimation
+
+PAGE
+1559
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+8-14 days
+
+PARENT
+Heat Acclimation Protocol Classification
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Long-Term Heat Acclimation
+
+PAGE
+1559
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+>15 days
+
+PARENT
+Heat Acclimation Protocol Classification
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Concurrent Training Effects on V̇O2max in Trained vs. Untrained Athletes
+
+PAGE
+1557
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+For example, a systematic review and meta-analysis found that following a concurrent training program, trained or highly trained aerobic endurance athletes did not demonstrate any impairments to improvements in V̇O2max; however, untrained individuals did (65).
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Heat Adaptation Timeline
+
+PAGE
+1559
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Even though the majority (~75%) of heat adaptations occur within the first four to six days of heat exposure (e.g., heart rate and core temperature adaptations) (101), it may take seven or more days for the remainder of the adaptations to take place (e.g., enhanced core body temperature, cardiovascular, sudomotor, and sweat rate adaptations) (28, 81, 101, 108).
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Twice-Daily vs. Once-Daily Heat Exposure
+
+PAGE
+1560
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+It is important to note that twice-daily heat exposure is no more effective than once-daily for physiological, perceptual, or performance adaptations (141).
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Hypoxic Dose Requirement for Altitude Training Benefit
+
+PAGE
+1558
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+In order to experience a benefit from this type of training, it has been reported that an athlete must receive a hypoxic dose of training ≥12 hours per day for a minimum of three weeks at moderate altitude (approximately 2,100-2,500 m [6,890-8,202 ft]) (66, 145).
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Treadmill Exercise
+
+PAGE
+1563
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Starting Position
+Begin by attaching the security clip to the clothing where it will not interfere with the action of the lower or upper limbs.
+Straddle the belt by placing the feet on the right and left platform.
+Read the instructions on the console of the treadmill to gain an understanding of how to adjust the speed and incline of the specific treadmill being used.
+Turn on the machine and adjust the speed of the belt so it is at the desired warm-up speed.
+Movement Phase
+While holding the handrails, allow one leg to swing freely, and using a pawing action, strike the treadmill with the mid-foot.
+Once comfortable with the speed of the belt, begin walking or running on the treadmill.
+Run or walk, keeping toward the front portion of the machine while remaining in the center of the treadmill deck.
+Release the hands from the handrails and adjust the speed and incline until the desired training level is attained.
+Avoid holding on to the console or front handrails or leaning backward while walking or running.
+Keep the head up and eyes focused forward to avoid looking down at the console for extended periods of time.
+Ending Position
+Reduce the speed of the treadmill and perform a 3- to 5-minute cooldown to prevent blood pooling in the lower extremities and improve venous return to the heart.
+Step onto the platforms on either side of the belt and turn the machine off.
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Stationary Bike Exercise
+
+PAGE
+1564-1565
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Starting Position
+Begin by adjusting the seat height so the knee of the extended leg is slightly flexed (25-30 degrees) at the bottom of the pedal stroke.
+The foot of the down leg should be flat and parallel to the floor with the balls of the feet in contact with the pedals.
+Adjust the seat so the knee is over the center of the pedal on the extended leg and the hips do not rock back and forth during pedaling.
+While maintaining a neutral spine position, lean slightly forward at the hips.
+Adjust the handlebars so that when the arms are extended at a downward angle the elbows are slightly flexed. Ideally, the lower arm and torso will form an angle of approximately 90 degrees.
+Movement Phase
+Begin pedaling while keeping the balls of the feet in contact with the pedals throughout the duration of the exercise.
+Maintain a neutral spine posture and do not round the shoulders.
+With bullhorn handlebars, a variety of hand positions may be used. These include
+pronated, palms-facing-downward grip, allowing a more upright posture;
+neutral palms-facing grip on the sides of the handlebars, encouraging a greater forward lean; and
+racing position, with the forearms resting on the handlebars, creating maximum forward lean.
+Ending Position
+Slow down until the pedals have come to a complete stop, and then step off the bike.
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Rowing Machine Exercise
+
+PAGE
+1566-1567
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Starting Position (Start)
+Keep the back upright, not rounded, with a slight forward lean from the hips.
+Hold the head upright while looking straight ahead.
+Extend the arms in front of the body and grab the rower handle while flexing the hips and knees until the shins are approximately vertical.
+Movement Phase (Drive)
+Extend the knees first followed by the hips before using the arms to pull the handle toward the abdomen just below the rib cage. As the knees near their end range of motion, tilt the upper body backward by extending the hips before pulling with the arms to complete the movement.
+Adjust the air vent to increase (more air admitted) or decrease (less air admitted) the resistance provided.
+Ending Position (Finish)
+The knees should be fully extended with the torso leaning slightly backward.
+Arms are flexed at the elbows and the handle is at the abdomen just below the rib cage.
+Recovery is the movement from the finish position back to the start in the reverse order of drive phase events—that is, extension of the arms first before flexion at the hips (to move the upper body forward), then flexion of the knees back to the start position.
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Stair Stepper Exercise
+
+PAGE
+1568-1569
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Starting Position
+Hold the handrails while stepping forward onto the pedals.
+Place the whole foot in contact with each pedal.
+Movement Phase
+Begin stepping, using the handrails for support.
+While maintaining an upright posture and with the legs providing the force, take deep (4- to 8-in. [10-20 cm]) steps.
+Keep the hips level and centered on the machine to avoid swaying from side to side or step to step.
+Do not allow the steps to contact the floor or the upper-limit stop of the machine. The heel typically comes off the pedal as the foot is raised but should make contact again with the pedal when pressing down.
+Continue to hold the handrails lightly while looking straight ahead, keeping an upright posture with the shoulders squared and relaxed, the torso over the hips, the knees aligned with the feet, and toes pointed forward.
+Ending Position
+Hold the handrails while stepping backward off the pedals.
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Elliptical Trainer Exercise
+
+PAGE
+1570
+
+SECTION
+21.3 — High-Intensity Interval Training
+
+ORIGINAL TEXT
+Starting Position
+Facing the center console of the elliptical, place one foot on each pedal.
+While standing upright and looking forward, grasp the handrails with the torso upright and evenly balanced directly over the hips, head held high, and shoulders relaxed (but not rounded).
+Movement Phase
+Begin pedaling forward, moving the arms and legs in a reciprocating fashion.
+The feet should remain in full contact with the pedals throughout the duration of the exercise unless the design of the
+
+END

@@ -6,23 +6,25 @@ aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 19
-  chapter_title: Program Design and Technique for Plyometric Training
-  section: '19'
-  section_title: Program Design and Technique for Plyometric Training
-  book_page: 1279
-  pdf_page: null
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 314
+  pdf_page: 314
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'Plyometrics is a form of resistance training and thus must follow the
-  principles of progressive overload, which is the systematic increase in training
-  frequency, volume, and intensity in various combinations.
+definition: 'Because bone responds favorably to mechanical forces, the principle of
+  progressive overload —progressively placing greater than normal demands on the exercising
+  musculature—applies when one is training to increase bone mass (66, 170).
 
   '
-attributes: []
-purpose: []
+attributes:
+- progressively_placing_greater_than_normal_demands
+purpose:
+- increase bone mass
 related_concepts: []

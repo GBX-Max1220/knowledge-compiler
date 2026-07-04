@@ -1,25 +1,28 @@
 id: concept.mobility
 type: Concept
 canonical_name: Mobility
-semantic_type: Property
+semantic_type: Physical_Quality
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 20
-  chapter_title: Program Design and Technique for Speed and Agility Training
-  section: '20'
-  section_title: Program Design and Technique for Speed and Agility Training
-  book_page: 1431
-  pdf_page: null
+  chapter: 15
+  chapter_title: Mobility Training
+  section: '15.2'
+  section_title: Mobility Training
+  book_page: 873
+  pdf_page: 873
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'Mobility is the freedom of an athlete''s limb to move through a desired
-  range of motion
+definition: 'Effective mobility requires the integration of aspects such as balance
+  coordination, postural control coordination, and perception (19). In this way, mobility
+  automatically frames flexibility as a dynamic quality, with the athlete required
+  to demonstrate control, coordination, and force through any demonstrated ROM, essentially
+  being analogous to dynamic flexibility.
 
   '
 attributes: []

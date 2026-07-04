@@ -1,6 +1,6 @@
 id: threshold.severe_fatigue_blood_lactate_concentration
 type: Threshold
-canonical_name: Severe Fatigue Blood Lactate Concentration
+canonical_name: Severe Fatigue Blood Lactate Concentration (Threshold)
 semantic_type: PhysiologicalThreshold
 aliases: []
 source:

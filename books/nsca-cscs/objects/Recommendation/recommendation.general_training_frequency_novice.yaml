@@ -1,0 +1,31 @@
+id: recommendation.general_training_frequency_novice
+type: Recommendation
+canonical_name: General Training Frequency Recommendation for Novice Athletes
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training
+  section: '18.3'
+  section_title: 'Step 3: Training Frequency'
+  book_page: 1211
+  pdf_page: 1211
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Traditionally, three workouts per week are recommended for many
+  athletes, because the intervening days allow sufficient recovery between sessions.
+
+  '
+rationale: the intervening days allow sufficient recovery between sessions
+target_population: many athletes
+conditions: []
+strength: ''
+citations:
+- citation_text: ''
+  reference_number: ''

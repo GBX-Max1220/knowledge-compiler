@@ -1,16 +1,16 @@
 id: concept.speed
 type: Concept
 canonical_name: Speed
-semantic_type: Skill
+semantic_type: Physical Fitness Component
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 20
-  chapter_title: Program Design and Technique for Speed and Agility Training
-  section: '20'
-  section_title: Program Design and Technique for Speed and Agility Training
-  book_page: 1398
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Athletic Performance
+  section: '14.1'
+  section_title: Measuring Parameters of Athletic Performance
+  book_page: 770
   pdf_page: null
 provenance:
   extraction: reasonix-code-v1
@@ -18,7 +18,8 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The skills and abilities needed to achieve high movement velocities
+definition: 'Speed is movement distance per unit of time and is typically quantified
+  as the time taken to cover a fixed distance.
 
   '
 attributes: []

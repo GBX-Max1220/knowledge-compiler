@@ -1,28 +1,30 @@
 id: concept.interval_training
 type: Concept
 canonical_name: Interval Training
-semantic_type: Training_Method
+semantic_type: TrainingMethod
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 21
-  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
-    Training
-  section: '21'
-  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
-    Training
-  book_page: 1540
-  pdf_page: null
+  chapter: 3
+  chapter_title: Bioenergetic Limiting Factors
+  section: '3.4'
+  section_title: Bioenergetic Limiting Factors
+  book_page: 216
+  pdf_page: 216
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'Interval training involves exercise at intensities close to V̇O2max.
+definition: 'Interval training is a method that emphasizes bioenergetic adaptations
+  for a more efficient energy transfer within the metabolic pathways by using predetermined
+  intervals of exercise and rest periods (i.e., work-to-rest ratios).
 
   '
 attributes: []
-purpose: []
+purpose:
+- emphasize bioenergetic adaptations for a more efficient energy transfer within the
+  metabolic pathways
 related_concepts: []

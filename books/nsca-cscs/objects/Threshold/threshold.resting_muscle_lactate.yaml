@@ -1,6 +1,6 @@
 id: threshold.resting_muscle_lactate
 type: Threshold
-canonical_name: Normal Resting Muscle Lactate Concentration
+canonical_name: Normal Resting Muscle Lactate Concentration (Threshold)
 semantic_type: Physiological Range
 aliases: []
 source:

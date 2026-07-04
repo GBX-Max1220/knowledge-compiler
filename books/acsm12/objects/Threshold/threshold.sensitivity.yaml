@@ -1,6 +1,6 @@
 id: threshold.sensitivity
 type: Threshold
-canonical_name: Sensitivity
+canonical_name: Sensitivity (Threshold)
 semantic_type: Metric
 aliases: []
 source:

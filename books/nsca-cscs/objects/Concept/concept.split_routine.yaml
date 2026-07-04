@@ -1,17 +1,17 @@
 id: concept.split_routine
 type: Concept
 canonical_name: Split Routine
-semantic_type: Training Method
+semantic_type: Concept
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
   chapter: 18
-  chapter_title: Program Design for Resistance Training
-  section: '18.1'
-  section_title: Program Design for Resistance Training
-  book_page: 1212
-  pdf_page: 1212
+  chapter_title: Resistance Training
+  section: '18.3'
+  section_title: 'Step 3: Training Frequency'
+  book_page: 1213
+  pdf_page: 1213
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
@@ -24,5 +24,6 @@ definition: 'More highly resistance-trained (intermediate or advanced) athletes 
 
   '
 attributes: []
-purpose: []
+purpose:
+- augment their training
 related_concepts: []

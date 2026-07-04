@@ -1,16 +1,16 @@
 id: concept.power
 type: Concept
 canonical_name: Power
-semantic_type: Concept
+semantic_type: PhysicalQuantity
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 19
-  chapter_title: Program Design and Technique for Plyometric Training
-  section: '19'
-  section_title: Program Design and Technique for Plyometric Training
-  book_page: 1261
+  chapter: 2
+  chapter_title: Human Strength and Power
+  section: '2.3'
+  section_title: Human Strength and Power
+  book_page: 130
   pdf_page: null
 provenance:
   extraction: reasonix-code-v1
@@ -18,7 +18,8 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The term used to define this force–velocity relationship is power.
+definition: 'Finally, power refers to how quickly work is performed. In its simplest
+  form, power is the amount of work divided by the time over which the force is applied.
 
   '
 attributes: []

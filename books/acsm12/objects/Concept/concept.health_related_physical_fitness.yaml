@@ -1,24 +1,24 @@
 id: concept.health_related_physical_fitness
 type: Concept
 canonical_name: Health-Related Physical Fitness
-semantic_type: Concept
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
   chapter: 1
   chapter_title: Benefits and Risks Associated With Physical Activity
-  section: '1.1'
-  section_title: Health-Related Physical Fitness Components
-  book_page: 1
-  pdf_page: null
+  section: '1.2'
+  section_title: Physical Activity and Fitness Terminology
+  book_page: 70
+  pdf_page: 70
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'Health-related physical fitness components.
+definition: 'Components of physical fitness that have a relationship with good health.
 
   '
 attributes:

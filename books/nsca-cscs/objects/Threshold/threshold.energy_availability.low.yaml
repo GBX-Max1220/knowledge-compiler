@@ -1,6 +1,6 @@
 id: threshold.energy_availability.low
 type: Threshold
-canonical_name: Low Energy Availability
+canonical_name: Low Energy Availability (Threshold)
 semantic_type: Threshold
 aliases: []
 source:

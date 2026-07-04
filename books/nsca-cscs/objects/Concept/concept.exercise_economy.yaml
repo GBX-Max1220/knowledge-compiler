@@ -1,18 +1,16 @@
 id: concept.exercise_economy
 type: Concept
 canonical_name: Exercise Economy
-semantic_type: Physiological_Measure
+semantic_type: PhysiologicalVariable
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 21
-  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
-    Training
-  section: '21'
-  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
-    Training
-  book_page: 1518
+  chapter: 6
+  chapter_title: Aerobic Endurance Training Adaptations
+  section: '6.2'
+  section_title: Aerobic Endurance Training Adaptations
+  book_page: 356
   pdf_page: null
 provenance:
   extraction: reasonix-code-v1
@@ -20,8 +18,9 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'A measure of the energy cost of activity at a given exercise velocity
-  is referred to as exercise economy.
+definition: 'The economy of exercise is mostly a function of biomechanics and technique,
+  which are influenced by the athlete''s metabolic, cardiovascular, and neuromuscular
+  efficiency and training (7).
 
   '
 attributes: []

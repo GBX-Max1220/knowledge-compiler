@@ -1,8 +1,9 @@
 id: concept.skill_related_physical_fitness
 type: Concept
 canonical_name: Skill-Related Physical Fitness
-semantic_type: Attribute
-aliases: []
+semantic_type: Entity
+aliases:
+- Skill-Related Physical Fitness Components
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
@@ -18,18 +19,18 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships:
-- predicate: is_a
+- predicate: part_of
   target: concept.physical_fitness
-definition: 'Components of physical fitness that have a relationship with enhanced
-  sports performance.
+definition: 'Components of physical fitness related to skill, including agility, coordination,
+  balance, power, reaction time, and speed.
 
   '
 attributes:
 - agility
-- balance
 - coordination
-- speed
+- balance
 - power
 - reaction time
+- speed
 purpose: []
 related_concepts: []

@@ -1,0 +1,11 @@
+id: concept.resistance_training_strategy
+type: Concept
+canonical_name: Resistance Training Strategy
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Resistance Training Strategy is a concept in strength and conditioning.

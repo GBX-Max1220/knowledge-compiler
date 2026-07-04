@@ -1,17 +1,16 @@
 id: concept.tapering
 type: Concept
 canonical_name: Tapering
-semantic_type: Concept
+semantic_type: Activity
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 21
-  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
-    Training
-  section: '21'
-  section_title: Special Issues Related to Aerobic Endurance Training
-  book_page: 1552
+  chapter: 6
+  chapter_title: ''
+  section: '6.4'
+  section_title: Detraining
+  book_page: 379
   pdf_page: null
 provenance:
   extraction: reasonix-code-v1
@@ -19,10 +18,15 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'Tapering involves the systematic reduction of training duration and intensity,
-  combined with an increased emphasis on technique work and nutritional intervention.
+definition: 'Tapering is the planned reduction of volume of training (usually in duration
+  and frequency but not intensity) that occurs before an athletic competition or a
+  planned recovery microcycle.
 
   '
-attributes: []
-purpose: []
+attributes:
+- planned
+- reduction_of_volume
+purpose:
+- before an athletic competition
+- before a planned recovery microcycle
 related_concepts: []

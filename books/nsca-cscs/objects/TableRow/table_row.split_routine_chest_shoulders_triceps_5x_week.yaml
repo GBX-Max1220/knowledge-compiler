@@ -1,0 +1,31 @@
+id: table_row.split_routine_chest_shoulders_triceps_5x_week
+type: TableRow
+canonical_name: Split Routine Chest Shoulders Triceps 5 Times Per Week
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training
+  section: '18.3'
+  section_title: 'Step 3: Training Frequency'
+  book_page: 1213
+  pdf_page: 1213
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_id: Table 18.6
+table_title: Examples of Common Split Routines
+row_data:
+  training_day: 1 Chest, shoulders, triceps, 2 Lower body, 3 Back, trapezius, biceps
+  body_parts_or_muscle_groups_trained: Chest, shoulders, triceps, Lower body, Back,
+    trapezius, biceps
+  sample_training_week: Rest, Chest, shoulders, triceps, Lower body, Back, trapezius,
+    biceps, Rest, Chest, shoulders, triceps, Lower body
+  resulting_training_frequency: 5 times per week
+  notes: ''
+citations: []

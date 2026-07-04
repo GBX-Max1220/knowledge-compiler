@@ -1,0 +1,674 @@
+TYPE
+Definition
+
+TITLE
+Extensive Endurance Training
+
+PAGE
+1536-1538
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Many aerobic endurance coaches and athletes over the years have used the term long, slow distance (LSD) or high-volume training to reflect training for a long period of time at a slow pace. However, this term can give the wrong impression of what an athlete is actually trying to achieve—that is, to extend their aerobic endurance capabilities, not just exercise slowly for a long duration. Hence, the term extensive endurance training is a more appropriate term and the one used in this text.
+
+PARENT
+Types of Aerobic Endurance Training Programs
+
+CHILDREN
+Extensive Endurance Training — Intensity Threshold
+Extensive Endurance Training — Duration Threshold
+
+RELATIONSHIPS
+is_subtype_of: Types of Aerobic Endurance Training Programs
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Extensive Endurance Training — Intensity Threshold
+
+PAGE
+1536
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+≤65% of V̇O2max
+
+PARENT
+Extensive Endurance Training
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Extensive Endurance Training — Duration Threshold
+
+PAGE
+1536-1537
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+the training distance should be greater than race distance, or the duration should be at least as long as 30 minutes to 2 hours
+
+PARENT
+Extensive Endurance Training
+
+END
+
+TYPE
+Definition
+
+TITLE
+Pace/Tempo Training
+
+PAGE
+1539
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Pace/tempo training employs an intensity at or slightly higher than race competition intensity. The intensity corresponds approximately to the maximal lactate steady state; therefore, this type of training is also often called threshold training or aerobic–anaerobic interval training.
+
+PARENT
+Types of Aerobic Endurance Training Programs
+
+CHILDREN
+Steady Pace/Tempo Training
+Intermittent Pace/Tempo Training
+
+RELATIONSHIPS
+is_subtype_of: Types of Aerobic Endurance Training Programs
+
+END
+
+TYPE
+Definition
+
+TITLE
+Steady Pace/Tempo Training
+
+PAGE
+1539
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Steady pace/tempo training is continuous training conducted at an intensity equal to the maximal lactate steady state for durations of approximately 20 to 30 minutes.
+
+PARENT
+Pace/Tempo Training
+
+END
+
+TYPE
+Definition
+
+TITLE
+Intermittent Pace/Tempo Training
+
+PAGE
+1539
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Intermittent pace/tempo training is also referred to as tempo intervals, cruise intervals, or threshold training. During intermittent pace/tempo training, the intensity is the same as for a steady-threshold workout, but the training session consists of a series of shorter intervals with brief recovery periods between work intervals.
+
+PARENT
+Pace/Tempo Training
+
+END
+
+TYPE
+Definition
+
+TITLE
+Interval Training
+
+PAGE
+1540
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Interval training involves exercise at intensities close to V̇O2max.
+
+PARENT
+Types of Aerobic Endurance Training Programs
+
+RELATIONSHIPS
+is_subtype_of: Types of Aerobic Endurance Training Programs
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Interval Training — Work Bout Duration
+
+PAGE
+1540
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+The work intervals should last between 3 and 5 minutes, although they can be as short as 30 seconds.
+
+PARENT
+Interval Training
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Interval Training — Work-to-Rest Ratio
+
+PAGE
+1540
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+The rest intervals for 3- to 5-minute work intervals should be equal to the work interval, thereby keeping the work-to-rest ratio (W:R) at 1:1.
+
+PARENT
+Interval Training
+
+END
+
+TYPE
+Definition
+
+TITLE
+High-Intensity Interval Training (HIIT)
+
+PAGE
+1540
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+High-intensity interval training (HIIT) is a form of training that uses repeated high-intensity exercise bouts above MLSS or critical V̇O2 interspersed with brief recovery periods.
+
+PARENT
+Types of Aerobic Endurance Training Programs
+
+RELATIONSHIPS
+is_subtype_of: Types of Aerobic Endurance Training Programs
+
+END
+
+TYPE
+Definition
+
+TITLE
+Tabata Training
+
+PAGE
+1540
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+This methodology requires athletes to train at an intensity high enough to result in exhaustion after 7 to 8 repetitions of 20 seconds of work with 10 seconds rest between exercise periods.
+
+PARENT
+High-Intensity Interval Training (HIIT)
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+HIIT — Optimal Stimulus for V̇O2max
+
+PAGE
+1541
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+According to Buchheit and Laursen (22), for an optimal stimulus it is necessary for athletes to spend a total of several minutes within the HIIT session above 90% of the V̇O2max.
+
+PARENT
+High-Intensity Interval Training (HIIT)
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+HIIT — Work-to-Rest Ratio for Long-Interval HIIT
+
+PAGE
+1541
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+An example of an appropriate work-to-rest ratio for long-interval HIIT training is ≥2 to 3 minutes at or above 90% V̇O2max, with ≤2 minutes of passive or low-intensity active recovery.
+
+PARENT
+High-Intensity Interval Training (HIIT)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Fartlek Training
+
+PAGE
+1541
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Fartlek training (the word Fartlek originates from the Swedish term for speed play) is a combination of several of the previously mentioned types of training.
+
+PARENT
+Types of Aerobic Endurance Training Programs
+
+RELATIONSHIPS
+is_subtype_of: Types of Aerobic Endurance Training Programs
+
+END
+
+TYPE
+Definition
+
+TITLE
+Cross-Training
+
+PAGE
+1551
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Cross-training is a mode of training that can be used to maintain general conditioning in athletes during periods of reduced training due to injury or during recovery from a training cycle.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Detraining
+
+PAGE
+1551
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Detraining occurs when the athlete reduces the training duration or intensity or stops training altogether due to a break in the training program, injury, or illness.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Tapering
+
+PAGE
+1552
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Tapering is an important component of the training program as aerobic endurance athletes prepare for major competition. Tapering involves the systematic reduction of training duration and intensity, combined with an increased emphasis on technique work and nutritional intervention.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Tapering — Duration
+
+PAGE
+1552
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+a typical tapering period may last between 7 and 28 days
+
+PARENT
+Tapering
+
+END
+
+TYPE
+Definition
+
+TITLE
+Linear Taper
+
+PAGE
+1552
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+The linear taper is characterized by a gradual decrease in the overall daily training volume throughout the duration of the taper.
+
+PARENT
+Tapering
+
+END
+
+TYPE
+Definition
+
+TITLE
+Step Taper
+
+PAGE
+1552
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+a step taper is typified by an abrupt and considerable reduction (normally ≥50%) in training volume that is maintained throughout the duration of the taper without fluctuation.
+
+PARENT
+Tapering
+
+END
+
+TYPE
+Definition
+
+TITLE
+Progressive Taper
+
+PAGE
+1552-1553
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+The progressive taper uses a combination of the linear and step tapering models. This model is associated with a rapid 10% to 15% immediate reduction in training volume, with smaller, more gradual reductions in volume at each tier.
+
+PARENT
+Tapering
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Off-Season Training Volume Increase — General Guideline
+
+PAGE
+1544
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+it is typically recommended that intermediate and advanced athletes should not increase their training duration or volume more than 5% to 10% per week.
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Off-Season Training Volume Increase — Beginner Exception
+
+PAGE
+1544-1545
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+for beginner athletes who start with a very low training volume, it may be safe and logical to increase by more than 10%.
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+In-Season Training — Pre-Competition Recovery
+
+PAGE
+1549
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+Low-intensity and short-duration training days should precede scheduled competitions so that the athlete is fully recovered and rested.
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Concurrent Training — Resistance Training Frequency
+
+PAGE
+1555
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+a common finding of concurrent training research for improving aerobic endurance performance is the use of heavy resistance training or plyometric training by athletes two or three times per week
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Concurrent Training — Load and Volume
+
+PAGE
+1555
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+keep the loads high (e.g., ≥90% of 1RM or ≤4RM) but the weekly volume low
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Concurrent Training — Strength Maintenance
+
+PAGE
+1555
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+strength developed during a preparatory phase has been found to be maintained for up to 12 weeks with just one resistance training session per week thereafter
+
+END
+
+TYPE
+Table
+
+TITLE
+Table 21.4 — Types of Aerobic Endurance Training
+
+PAGE
+1536
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+TABLE 21.4  Types of Aerobic Endurance Training
+Training type | Frequency per week* | Duration (work bout portion) | Intensity
+Extensive endurance | 1-2 | Race distance or longer (~30-120 min) | ≤65% of V̇O2max
+Pace/tempo | 1-2 | ~20-30 min | At the LT; at or slightly above race pace
+Interval | 1-2 | 3-5 min (with a work:rest ratio of 1:1) | Close to V̇O2max
+High-intensity interval training | 1 | 30-90 s (with a work:rest ratio of 1:5) | Greater than V̇O2max
+Fartlek | 1 | ~20-60 min | Varies between LSD and pace/tempo training intensities
+
+END
+
+TYPE
+Table
+
+TITLE
+Table 21.5 — Sport Season Objectives and Program Design Assignments
+
+PAGE
+1543
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+TABLE 21.5  Sport Season Objectives and Program Design Assignments
+Sport season | Objective | Frequency per week | Duration or volume | Intensity
+BEGINNER ATHLETE
+Off-season (base training) | Develop sound conditioning base | 3-4 | Moderate to long | Low to moderate
+Preseason | Improve factors important to aerobic endurance performance | 3-5 | Moderate to long | Low to high
+In-season (competition) | Maintain factors important to aerobic endurance performance | 3-5 (training and racing) | Short (training) Moderate (race) | High (training) Low or high (racing)
+Postseason (active rest) | Recovery from competitive season | 2-3 | Short | Low
+ADVANCED ATHLETE
+Off-season (base training) | Develop sound conditioning base | 5-6 | Long | Low to moderate
+Preseason | Improve factors important to aerobic endurance performance | 6-7 | Moderate to long | Moderate to high
+In-season (competition) | Maintain factors important to aerobic endurance performance and increase goal race pace endurance | 5-6 (training and racing) | Short (training) Race distance | Low (training) High (racing)
+Postseason (active rest) | Recovery from competitive season | 3-5 | Short | Low
+
+END
+
+TYPE
+Evidence
+
+TITLE
+HIIT Benefits for Aerobic Endurance Performance
+
+PAGE
+1540
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+HIIT has been shown to provide a number of benefits to aerobic endurance performance in recreational to well-trained athletes (53, 92, 137). Research has shown that HIIT may result in increases in V̇O2max in beginner (137) and trained athletes (92); however, in well-trained athletes the results are less clear (97). The observed improvements may be, at least in part, the result of increases in mitochondrial biogenesis and function contributing to increased aerobic metabolism (67, 79). HIIT has also been associated with improvements in LT (48, 92) and exercise economy (48, 53), which have both been strongly associated with aerobic endurance performance.
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Concurrent Training Improves Aerobic Endurance Performance
+
+PAGE
+1553
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+numerous research investigations (25, 32, 45, 82, 84, 109, 114, 119, 127, 135), meta-analyses, and systematic review articles (1, 4, 10, 11, 17, 31, 37, 38, 65, 80, 89, 116, 143) have demonstrated that it can also improve performance (e.g., time trial, middle- and long-distance) across a number of aerobic endurance disciplines including running, cycling, cross-country skiing, and swimming, and performance-related variables such as strength, power, running economy, and maximal sprint speed.
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Resistance Training Improves Running Economy
+
+PAGE
+1553
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+a systematic review found that resistance training not only improved running performance from distances of 1,500 meters (0.9 mile) to 10,000 meters (6.2 miles) but also improved muscular strength and power factors as well as running economy (1).
+
+END
+
+TYPE
+Warning
+
+TITLE
+HIIT — Risk of Injury with Insufficient Rest
+
+PAGE
+1541
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+If the relief intervals are too short, the athlete will be unable to put forth a quality effort on subsequent exercise bouts and also will be at a greater risk for injury.
+
+END
+
+TYPE
+Warning
+
+TITLE
+Rapid Increase in Training Duration — Risk of Performance Decrease
+
+PAGE
+1545
+
+SECTION
+21.2 — Metabolic Conditioning
+
+ORIGINAL TEXT
+increasing training duration too much too quickly can actually lead to decreases in aerobic endurance performance (75).
+
+END
+
+TYPE
+NONE

@@ -1,6 +1,6 @@
 id: threshold.specificity
 type: Threshold
-canonical_name: Specificity
+canonical_name: Specificity (Threshold)
 semantic_type: Metric
 aliases: []
 source:

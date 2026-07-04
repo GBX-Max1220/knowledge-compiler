@@ -1,0 +1,570 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.said_principle
+type: Concept
+canonical_name: SAID Principle
+semantic_type: Principle
+aliases:
+  - Specific Adaptation to Imposed Demands
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1660
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  According to the specific adaptation to imposed demands (SAID) principle, the system will adapt to the demands placed on it. Therefore, the goal of training (specific adaptation) should dictate the design of the resistance training program (imposed demands).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.rhabdomyolysis
+type: Concept
+canonical_name: Rhabdomyolysis
+semantic_type: Condition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1668
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Rhabdomyolysis is characterized by the breakdown of skeletal muscle tissue, leading to the release of myoglobin into the bloodstream. Myoglobin can pose a risk to kidney function, potentially causing kidney damage or failure if left untreated.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.resistance_training_program_design_for_rehabilitation
+type: Recommendation
+canonical_name: Resistance Training Program Design for Rehabilitation
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1659
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  The area in which strength and conditioning professionals can best contribute to the rehabilitation and reconditioning process is the provision of resistance and aerobic training programs designed for the injured athlete. Their experience in prescribing exercise for uninjured athletes gives strength and conditioning professionals the ability to properly adapt training programs for those recovering from injury.
+
+rationale: []
+
+target_audience:
+  - strength and conditioning professionals
+
+application_context: "rehabilitation and reconditioning process"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.application_of_training_principles_to_rehabilitation
+type: Recommendation
+canonical_name: Application of Training Principles to Rehabilitation
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1659
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Although protocols do exist for exercise prescription following injury, many do not incorporate sport-specific program design variables; the same principles used to design resistance and aerobic training programs for uninjured athletes should be applied during rehabilitation and reconditioning.
+
+rationale: []
+
+target_audience: []
+
+application_context: "rehabilitation and reconditioning"
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.delorme_resistance_training_program
+type: Procedure
+canonical_name: DeLorme Resistance Training Program
+semantic_type: null
+aliases:
+  - DeLorme's program
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1659
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+steps:
+  - order: 1
+    description: "Perform initial set of 10 repetitions of 50% of the athlete's 10-repetition maximum (10RM)."
+  - order: 2
+    description: "Perform second set of 10 repetitions of 75% of the athlete's 10RM."
+  - order: 3
+    description: "Perform final set of 10 repetitions of 100% of the athlete's 10RM."
+
+citations:
+  - "16"
+  - "17"
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.oxford_resistance_training_system
+type: Procedure
+canonical_name: Oxford Resistance Training System
+semantic_type: null
+aliases:
+  - Oxford system
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1659
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_reverse_of
+    target: procedure.delorme_resistance_training_program
+
+steps:
+  - order: 1
+    description: "Perform first set of 10 repetitions of 100% of the athlete's 10RM."
+  - order: 2
+    description: "Perform second set of 10 repetitions of 75% of the athlete's 10RM."
+  - order: 3
+    description: "Perform third set of 10 repetitions of 50% of the athlete's 10RM."
+
+citations:
+  - "104"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.oxford_system_warm_up_requirement
+type: Warning
+canonical_name: Oxford System Warm-Up Requirement
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1659
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  Unlike the DeLorme system, which has a built-in warm-up from progressive increases in resistance, the Oxford system begins with heavy resistance. Thus, a non-fatiguing warm-up set should be considered.
+
+severity: "informational"
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.knights_daily_adjustable_progressive_resistive_exercise_system
+type: Procedure
+canonical_name: Knight's Daily Adjustable Progressive Resistive Exercise (DAPRE) System
+semantic_type: null
+aliases:
+  - DAPRE system
+  - daily adjustable progressive resistive exercise system
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1659
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+steps:
+  - order: 1
+    description: "Perform first set of 10 repetitions of 50% of the estimated 6RM."
+  - order: 2
+    description: "Perform second set of 6 repetitions of 75% of the estimated 6RM."
+  - order: 3
+    description: "Perform third set of the maximum number of repetitions of 100% of the estimated 6RM."
+  - order: 4
+    description: "Perform fourth set with resistance adjusted based on the number of repetitions performed during the third set (see table 23.2)."
+
+citations:
+  - "47"
+  - "16"
+  - "17"
+  - "104"
+  - "48"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.dapre_resistance_adjustments_0_2
+type: TableRow
+canonical_name: DAPRE Resistance Adjustments 0-2 Repetitions
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1660
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_reference: "Table 23.2"
+row_data:
+  repetitions_performed_during_set_3: "0-2"
+  adjusted_resistance_for_set_4: "Subtract 5-10 lb (2.3-4.5 kg) and repeat the set"
+  resistance_for_next_exercise_session: "—"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.dapre_resistance_adjustments_3_4
+type: TableRow
+canonical_name: DAPRE Resistance Adjustments 3-4 Repetitions
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1660
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_reference: "Table 23.2"
+row_data:
+  repetitions_performed_during_set_3: "3-4"
+  adjusted_resistance_for_set_4: "Same resistance or subtract 5 lb (2.3 kg)"
+  resistance_for_next_exercise_session: "Same resistance"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.dapre_resistance_adjustments_5_7
+type: TableRow
+canonical_name: DAPRE Resistance Adjustments 5-7 Repetitions
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1660
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_reference: "Table 23.2"
+row_data:
+  repetitions_performed_during_set_3: "5-7"
+  adjusted_resistance_for_set_4: "Same resistance"
+  resistance_for_next_exercise_session: "Add 5-10 lb (2.3-4.5 kg)"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.dapre_resistance_adjustments_8_12
+type: TableRow
+canonical_name: DAPRE Resistance Adjustments 8-12 Repetitions
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1660
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_reference: "Table 23.2"
+row_data:
+  repetitions_performed_during_set_3: "8-12"
+  adjusted_resistance_for_set_4: "Add 5-10 lb (2.3-4.5 kg)"
+  resistance_for_next_exercise_session: "Add 5-15 lb (2.3-6.8 kg)"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.dapre_resistance_adjustments_13_plus
+type: TableRow
+canonical_name: DAPRE Resistance Adjustments 13+ Repetitions
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1660
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_reference: "Table 23.2"
+row_data:
+  repetitions_performed_during_set_3: "13+"
+  adjusted_resistance_for_set_4: "Add 10-15 lb (4.5-6.8 kg)"
+  resistance_for_next_exercise_session: "Add 10-20 lb (4.5-9.1 kg)"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.sport_specific_rehabilitation_program_design
+type: Recommendation
+canonical_name: Sport-Specific Rehabilitation Program Design
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1660
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  For example, during the remodeling phase of an injured marathoner's patellofemoral rehabilitation, his or her quadriceps muscles should be trained with an emphasis on muscular endurance. Therefore, the athlete should perform many repetitions of the rehabilitation exercises to prepare the muscles for the demands of long-distance running. Conversely, a weightlifting athlete rehabilitating from the same injury requires fewer repetitions of high-intensity rehabilitation and reconditioning exercises during the later portions of the remodeling phase to prepare the muscles for the power demands of this sport.
+
+rationale: []
+
+target_audience: []
+
+application_context: "rehabilitation and reconditioning"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.patellofemoral_rehabilitation_inflammatory_response_marathon_runner
+type: TableRow
+canonical_name: Patellofemoral Rehabilitation Inflammatory Response Phase Marathon Runner
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1662
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_reference: "Table 23.3"
+row_data:
+  phase_of_healing: "Inflammatory response phase"
+  design_variable: "Goals and exercises"
+  athlete_marathon_runner: "None that require quadriceps activity—relative rest of this area needed to reduce inflammation; Maintenance of muscular strength and endurance of adjacent areas (i.e., hip extensors, knee flexors, and plantar flexors); Maintenance of cardiovascular fitness"
+  athlete_weightlifter: "None that require quadriceps activity—relative rest of this area needed to reduce inflammation; Maintenance of muscular strength and power of adjacent areas (i.e., hip extensors, knee flexors, and plantar flexors); Maintenance of upper body muscular strength and power"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.patellofemoral_rehabilitation_fibroblastic_repair_goals
+type: TableRow
+canonical_name: Patellofemoral Rehabilitation Fibroblastic Repair Phase Goals
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Rehabilitation and Reconditioning"
+  section: "23.4"
+  section_title: "Rehabilitation Goals"
+  book_page: 1662
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_reference: "Table 23.3"
+row_data:
+  phase_of_healing

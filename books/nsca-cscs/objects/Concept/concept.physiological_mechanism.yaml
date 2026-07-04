@@ -1,0 +1,11 @@
+id: concept.physiological_mechanism
+type: Concept
+canonical_name: Physiological Mechanism
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Physiological Mechanism is a concept in strength and conditioning.

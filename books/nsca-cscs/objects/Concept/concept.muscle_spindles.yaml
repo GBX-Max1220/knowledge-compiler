@@ -1,28 +1,54 @@
 id: concept.muscle_spindles
 type: Concept
 canonical_name: Muscle Spindles
-semantic_type: AnatomicalStructure
+semantic_type: Anatomical Structure
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 19
-  chapter_title: Program Design and Technique for Plyometric Training
-  section: '19'
-  section_title: Program Design and Technique for Plyometric Training
-  book_page: 1263
-  pdf_page: null
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Proprioception
+  book_page: 65
+  pdf_page: 65
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
-relationships: []
-definition: 'Muscle spindles are proprioceptive organs that are sensitive to the rate
-  and magnitude of a stretch; when a quick stretch is detected, muscular activity
-  reflexively increases (31, 49).
+relationships:
+- predicate: part_of
+  target: concept.proprioception
+definition: 'Muscle spindles are proprioceptors that consist of several modified muscle
+  fibers enclosed in a sheath of connective tissue (figure 1.10). These modified fibers,
+  called intrafusal fibers, run parallel to the normal, or extrafusal, fibers. Muscle
+  spindles provide information concerning muscle length and the rate of change in
+  length. When the muscle lengthens, spindles are stretched. This deformation activates
+  the sensory neuron of the spindle, which sends an impulse to the spinal cord, where
+  it synapses (connects) with motor neurons. This results in the activation of motor
+  neurons that innervate the same muscle. Spindles thus indicate the degree to which
+  the muscle must be activated in order to overcome a given resistance. As a load
+  increases, the muscle is stretched to a greater extent, and engagement of muscle
+  spindles results in greater activation of the muscle. Muscles that perform precise
+  movements have many spindles per unit of mass to help ensure exact control of their
+  contractile activity. A simple example of muscle spindle activity is the knee jerk
+  reflex. Tapping on the tendon of the knee extensor muscle group below the patella
+  stretches the muscle spindle fibers. This causes activation of extrafusal muscle
+  fibers in the same muscle. A knee jerk occurs as these fibers actively shorten.
+  This, in turn, shortens the intrafusal fibers and causes their discharge to cease.
 
   '
-attributes: []
-purpose: []
-related_concepts: []
+attributes:
+- proprioceptors
+- consists of several modified muscle fibers
+- enclosed in a sheath of connective tissue
+- contains intrafusal fibers
+- runs parallel to extrafusal fibers
+- provides information concerning muscle length
+- provides information concerning rate of change in length
+purpose:
+- indicate degree of muscle activation needed to overcome resistance
+- ensure exact control of contractile activity in precise movements
+related_concepts:
+- concept.golgi_tendon_organs
