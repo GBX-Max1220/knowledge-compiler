@@ -1,0 +1,209 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.risk.low
+type: Threshold
+canonical_name: Low Risk
+semantic_type: Risk Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Health Screening"
+  section: "2.6"
+  section_title: "Algorithm Components"
+  book_page: 139
+  pdf_page: 139
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.risk.moderate
+
+definition: >
+  Asymptomatic individuals with ≤1 risk factor.
+
+attributes:
+  - asymptomatic
+  - risk_factor_count: "≤1"
+
+purpose:
+  - classify risk for medical examination and exercise testing
+
+related_concepts:
+  - concept.risk_classification
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.risk.moderate
+type: Threshold
+canonical_name: Moderate Risk
+semantic_type: Risk Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Health Screening"
+  section: "2.6"
+  section_title: "Algorithm Components"
+  book_page: 139
+  pdf_page: 139
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.risk.low
+  - predicate: adjacent_to
+    target: threshold.risk.high
+
+definition: >
+  Asymptomatic individuals with ≥2 risk factors.
+
+attributes:
+  - asymptomatic
+  - risk_factor_count: "≥2"
+
+purpose:
+  - classify risk for medical examination and exercise testing
+
+related_concepts:
+  - concept.risk_classification
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.risk.high
+type: Threshold
+canonical_name: High Risk
+semantic_type: Risk Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Health Screening"
+  section: "2.6"
+  section_title: "Algorithm Components"
+  book_page: 139
+  pdf_page: 139
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.risk.moderate
+
+definition: >
+  Individuals with known cardiovascular, pulmonary, or renal disease, or with signs/symptoms suggestive of these diseases.
+
+attributes:
+  - known_cardiovascular_disease
+  - known_pulmonary_disease
+  - known_renal_disease
+  - signs_symptoms_suggestive_of_disease
+
+purpose:
+  - classify risk for medical examination and exercise testing
+
+related_concepts:
+  - concept.risk_classification
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.risk_classification_table_2_3
+type: TableRow
+canonical_name: Risk Classification Table 2.3
+semantic_type: Reference Table
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Health Screening"
+  section: "2.6"
+  section_title: "Algorithm Components"
+  book_page: 139
+  pdf_page: 139
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 2.3: Risk Classification for Medical Examination and Exercise Testing
+
+attributes: []
+
+purpose:
+  - provide risk classification criteria for medical examination and exercise testing
+
+related_concepts:
+  - threshold.risk.low
+  - threshold.risk.moderate
+  - threshold.risk.high
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.preparticipation_health_screening_algorithm
+type: Figure
+canonical_name: Preparticipation Health Screening Algorithm
+semantic_type: Algorithm
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Health Screening"
+  section: "2.6"
+  section_title: "Algorithm Components"
+  book_page: 139
+  pdf_page: 139
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 2.1: Preparticipation Health Screening Algorithm
+
+attributes: []
+
+purpose:
+  - guide preparticipation health screening decisions
+
+related_concepts:
+  - threshold.risk.low
+  - threshold.risk.moderate
+  - threshold.risk.high

@@ -1,7 +1,7 @@
 id: concept.physical_fitness
 type: Concept
 canonical_name: Physical Fitness
-semantic_type: Entity
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
@@ -19,13 +19,9 @@ provenance:
 evidence_level: ''
 relationships: []
 definition: 'A set of attributes or characteristics individuals have or achieve that
-  relate to their ability to perform PA and activities of daily living (7).
+  relate to their ability to perform physical activity.
 
   '
-attributes:
-- set of attributes
-- relates to PA performance
-- relates to daily living
+attributes: []
 purpose: []
-related_concepts:
-- concept.health_related_physical_fitness
+related_concepts: []

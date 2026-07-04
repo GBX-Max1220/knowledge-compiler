@@ -1,0 +1,35 @@
+id: threshold.risk.high
+type: Threshold
+canonical_name: High Risk
+semantic_type: Risk Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Health Screening
+  section: '2.6'
+  section_title: Algorithm Components
+  book_page: 139
+  pdf_page: 139
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.risk.moderate
+definition: 'Individuals with known cardiovascular, pulmonary, or renal disease, or
+  with signs/symptoms suggestive of these diseases.
+
+  '
+attributes:
+- known_cardiovascular_disease
+- known_pulmonary_disease
+- known_renal_disease
+- signs_symptoms_suggestive_of_disease
+purpose:
+- classify risk for medical examination and exercise testing
+related_concepts:
+- concept.risk_classification

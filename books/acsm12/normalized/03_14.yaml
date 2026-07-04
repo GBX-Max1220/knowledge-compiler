@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.cardiorespiratory_fitness
+type: Concept
+canonical_name: Cardiorespiratory Fitness
+semantic_type: Physiological Capacity
+aliases:
+  - CRF
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.14"
+  section_title: "Cardiorespiratory Fitness"
+  book_page: 197
+  pdf_page: 197
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Cardiorespiratory fitness (CRF) reflects the ability of the circulatory and respiratory systems to supply oxygen to the body during sustained physical activity.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

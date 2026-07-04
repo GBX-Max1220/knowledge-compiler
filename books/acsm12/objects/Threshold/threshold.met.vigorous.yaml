@@ -1,7 +1,7 @@
 id: threshold.met.vigorous
 type: Threshold
-canonical_name: Vigorous Intensity
-semantic_type: Range
+canonical_name: Vigorous-Intensity MET Threshold
+semantic_type: Physiological
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
@@ -10,8 +10,8 @@ source:
   chapter_title: Benefits and Risks Associated With Physical Activity
   section: '1.2'
   section_title: Physical Activity and Fitness Terminology
-  book_page: 71
-  pdf_page: 71
+  book_page: 70
+  pdf_page: 70
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
@@ -20,13 +20,12 @@ evidence_level: ''
 relationships:
 - predicate: adjacent_to
   target: threshold.met.moderate
-- predicate: applies_to
-  target: concept.physical_activity
-metric: MET
-range: ≥6.0
+definition: 'Vigorous-intensity PA is defined as ≥6.0 METs.
+
+  '
+value: '6.0'
 unit: METs
-population: Adults
-condition: Physical Activity Intensity Classification
-numerical_value: 6.0
-numerical_max: null
-comparison_operator: ≥
+operator: '>='
+context: PA intensity classification
+related_concepts:
+- concept.physical_activity

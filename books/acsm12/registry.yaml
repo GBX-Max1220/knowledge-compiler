@@ -5,71 +5,145 @@ registry:
   ACSM-AHA Strategies to Reduce Cardiac Event Risk: recommendation.acsm_aha_cardiac_event_prevention
   Absolute SCD Risk During Vigorous PA: evidence.absolute_scd_risk_vigorous_pa
   Agility: concept.agility
+  Alternative Self-Guided Method for Preparticipation Evaluation: procedure.alternative_self_guided_method_for_preparticipation_evaluation
+  American College of Sports Medicine Preparticipation Screening Algorithm: figure.acsm_preparticipation_screening_algorithm
   Any Intensity PA Provides Benefits for Inactive: recommendation.pa_any_intensity_benefits
   BMI Classification: threshold.bmi_classification
   Balance: concept.balance
+  Basic Principles and Guidelines: concept.basic_principles_and_guidelines
   Benefits of Regular Physical Activity: concept.benefits_regular_pa
+  Bicep Curl Test: table_row.bicep_curl_test
   Blood Pressure Classification: threshold.blood_pressure_classification
   Body Composition: concept.body_composition
+  Body Composition Classification Categories: table_row.body_composition_classification
+  Body Composition Classification Thresholds: threshold.body_composition_classification
   Body Density from Skinfolds (Jackson-Pollock): formula.body_density_skinfolds
   Body Fat Percentage Norms for Men: threshold.body_fat_percent_men
   Body Fat Percentage Norms for Women: threshold.body_fat_percent_women
   Borg Rating of Perceived Exertion Scale: table.borg_rpe_scale
   Bout Duration Requirement Elimination: recommendation.bout_duration_elimination_2018
+  Bridge Test: table_row.bridge_test
   CVD Risk Factor Thresholds: threshold.cvd_risk_factors
+  Calf Raise Test: table_row.calf_raise_test
   Cardiac Prodromal Symptoms: warning.cardiac_prodromal_symptoms
   Cardiac Rehabilitation Complication Rates: evidence.cardiac_rehab_complication_rates
   Cardiorespiratory Endurance: concept.cardiorespiratory_endurance
+  Cardiorespiratory Fitness: concept.cardiorespiratory_fitness
+  Cardiorespiratory Fitness Classification Categories: table_row.cardiorespiratory_fitness_classification
   Cholesterol Classification: threshold.cholesterol_classification
+  Comprehensive Health Fitness Evaluation: concept.comprehensive_health_fitness_evaluation
   Cooper 12-Minute Run Test VO2max: formula.cooper_12min_run
   Coordination: concept.coordination
+  Curl-Up Test: table_row.curl_up_test
+  Dip Test: table_row.dip_test
+  Example of Cardiorespiratory Fitness Classification: figure.cardiorespiratory_fitness_classification_example
+  Excellent Fitness Classification: threshold.excellent_fitness_classification
   Exercise: concept.exercise
   Exercise Test Termination Criteria: procedure.test_termination
   Exercise Testing Cardiac Risk: evidence.exercise_testing_risk_summary
   Exercise-Related Cardiovascular Event Risk: risk_factor.cardiovascular_event_exercise
   Exercise-Related Musculoskeletal Injury Risk: risk_factor.msi_exercise
+  Fair Fitness Classification: threshold.fair_fitness_classification
+  Fair Muscular Strength: threshold.fair_muscular_strength
   Flexibility: concept.flexibility
+  Good Fitness Classification: threshold.good_fitness_classification
   Habitual Inactivity and AMI Risk: evidence.habitual_inactivity_ami_risk
   Health-Related Physical Fitness: concept.health_related_physical_fitness
+  Healthy Body Composition: threshold.healthy_body_composition
+  Heel Raise Test: table_row.heel_raise_test
+  High Risk: threshold.risk.high
+  Hip Abduction Test: table_row.hip_abduction_test
+  Hip Adduction Test: table_row.hip_adduction_test
+  Hip Extension Test: table_row.hip_extension_test
   Informed Consent Process: procedure.informed_consent
+  Introduction: concept.introduction
   Inverse MSI-Fitness Relationship: evidence.inverse_msi_fitness
+  Leg Curl Test: table_row.leg_curl_test
+  Leg Extension Test: table_row.leg_extension_test
+  Leg Raise Test: table_row.leg_raise_test
   Light Intensity: threshold.met.light
+  Light-Intensity MET Threshold: threshold.met.light
+  Light-Intensity PA MET Threshold: threshold.met.light
+  Low Risk: threshold.risk.low
+  Lunge Test: table_row.lunge_test
   MET: concept.met
   MSI Prevalence: concept.msi_prevalence
   MSI Risk by Activity Type: warning.msi_by_activity
   MVPA Mitigation of Sedentary Mortality Risk: evidence.mvpa_mitigation_sedentary_mortality
+  Margaria-Kalamen Stair Climb Test Reference Value: table_row.margaria_kalamen_stair_climb_test_reference
+  Maximal Exercise Testing: concept.maximal_exercise_testing
   Maximal Oxygen Uptake: concept.vo2max
   Medical Clearance for Exercise: recommendation.medical_clearance_exercise
   Moderate Intensity: threshold.met.moderate
+  Moderate Risk: threshold.risk.moderate
+  Moderate-Intensity MET Threshold: threshold.met.moderate
+  Moderate-Intensity PA MET Threshold: threshold.met.moderate
   Mortality Risk Without Emergency Management in Cardiac Rehab: warning.cardiac_rehab_mortality_without_emergency
   Muscular Endurance: concept.muscular_endurance
   Muscular Fitness: concept.muscular_fitness
+  Muscular Power: concept.muscular_power
   Muscular Strength: concept.muscular_strength
+  Muscular Strength Classification Thresholds: threshold.muscular_strength_classification
   Muscular Strength, Endurance, and Power: concept.muscular_strength_endurance_power
+  Obese Body Composition: threshold.obese_body_composition
+  Organizing the Fitness Test: procedure.organizing_the_fitness_test
+  Other Techniques for Health-Related Physical Fitness Testing: concept.other_techniques_for_health_related_physical_fitness_testing
+  Overfat Body Composition: threshold.overfat_body_composition
   PA Beyond Minimum for Weight Management: recommendation.pa_weight_management
   PA-CVD Dose-Response Evidence: evidence.pa_cvd_dose_response
   PAR-Q+ Self-Guided Screening: procedure.parq_plus_screening
   Percent Body Fat from Body Density (Siri): formula.percent_body_fat_siri
+  Percentile-Based Fitness Classification Thresholds: threshold.percentile_based_fitness_classification
   Physical Activity: concept.physical_activity
   Physical Activity Guidelines for Americans Primary Recommendation: recommendation.pag_acsa_primary_2018
   Physical Fitness: concept.physical_fitness
+  Placeholder: concept.placeholder
+  Plank Test: table_row.plank_test
+  Poor Fitness Classification: threshold.poor_fitness_classification
+  Poor Muscular Strength: threshold.poor_muscular_strength
   Power: concept.power
+  Power Formula: formula.power
   Preparticipation Cardiovascular Screening for Young Athletes: recommendation.preparticipation_screening_young
+  Preparticipation Health Screening Algorithm: figure.preparticipation_health_screening_algorithm
+  Pretest Instructions for Fitness Testing: procedure.pretest_instructions_for_fitness_testing
+  Principles of Health-Related Physical Fitness Testing: concept.principles_of_health_related_physical_fitness_testing
+  Pull-Up Test: table_row.pull_up_test
+  Purposes of Health-Related Physical Fitness Testing: concept.purposes_of_health_related_physical_fitness_testing
+  Push-Up Test: table_row.push_up_test
+  Rationale: concept.rationale
   Reaction Time: concept.reaction_time
   Resistance Training Health Benefits: evidence.resistance_training_benefits
   Resting Blood Pressure Assessment: procedure.resting_blood_pressure
+  Risk Classification Table 2.3: table_row.risk_classification_table_2_3
+  Risk Stratification for Individuals With Clinical Conditions and Medical Fitness Facilities: concept.risk_stratification_for_individuals_with_clinical_conditions_and_medical_fitness_facilities
+  Row Test: table_row.row_test
   SCD Incidence in Young Athletes: evidence.scd_incidence_young_athletes
   SCD/AMI Risk Ratios During Vigorous PA: evidence.scd_ami_risk_ratios
   Sedentary Behavior: concept.sedentary_behavior
   Sedentary Behavior Energy Expenditure: threshold.sedentary_met
   Sedentary Behavior Health Risks: evidence.sedentary_health_risks
+  Shoulder Press Test: table_row.shoulder_press_test
+  Side Plank Test: table_row.side_plank_test
   Signs and Symptoms of CV/Metabolic/Renal Disease: warning.signs_symptoms_cv_disease
   Sit-and-Reach Test: procedure.sit_and_reach
   Skill-Related Physical Fitness: concept.skill_related_physical_fitness
   Speed: concept.speed
+  Squat Test: table_row.squat_test
+  Submaximal Exercise Test Protocol Selection and Conduct: procedure.submaximal_exercise_test_protocol_selection_and_conduct
+  Submaximal Exercise Testing: concept.submaximal_exercise_testing
+  Superior Fitness Classification: threshold.superior_fitness_classification
+  Toe Raise Test: table_row.toe_raise_test
   Transient SCD and AMI Risk During Vigorous PA: warning.scd_ami_vigorous_pa
+  Triceps Extension Test: table_row.triceps_extension_test
+  Trunk Lift Test: table_row.trunk_lift_test
+  Underfat Body Composition: threshold.underfat_body_composition
   Using the ACSM Preparticipation Screening Algorithm: procedure.acsm_screening_algorithm
+  Vertical Jump Reference Value: table_row.vertical_jump_reference
+  Very Poor Fitness Classification: threshold.very_poor_fitness_classification
   Vigorous Intensity: threshold.met.vigorous
+  Vigorous-Intensity MET Threshold: threshold.met.vigorous
+  Vigorous-Intensity PA MET Threshold: threshold.met.vigorous
   Waist Circumference Measurement: procedure.waist_circumference
   Waist Circumference Risk Thresholds: threshold.waist_circumference
+  Wingate Anaerobic Test Reference Value: table_row.wingate_anaerobic_test_reference
   YMCA Submaximal Cycle Ergometer Protocol: procedure.ymca_cycle_protocol

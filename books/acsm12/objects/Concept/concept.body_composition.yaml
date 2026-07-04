@@ -1,7 +1,7 @@
 id: concept.body_composition
 type: Concept
 canonical_name: Body Composition
-semantic_type: Entity
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription

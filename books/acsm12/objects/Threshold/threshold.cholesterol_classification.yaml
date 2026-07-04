@@ -19,14 +19,13 @@ provenance:
 evidence_level: ''
 relationships: []
 metric: Cholesterol
-range: 'LDL: <100 Desirable, 100-129 Above desirable, 130-159 Borderline high, 160-189
-  High, ≥190 Very high'
+range: null
 unit: mg·dL⁻¹
 population: Adults
 condition: Lipid Panel
-numerical_value: 100.0
+numerical_value: []
 numerical_max: []
-comparison_operator: range
+comparison_operator: null
 extra: 'LDL-C: Desirable <100, Above desirable 100-129, Borderline high 130-159, High
   160-189, Very high ≥190 | HDL-C: Low <40 men/<50 women, High ≥60 | Triglycerides:
   Normal <150, Borderline 150-199, High 200-499, Very high ≥500'

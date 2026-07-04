@@ -1,0 +1,29 @@
+id: concept.muscular_power
+type: Concept
+canonical_name: Muscular Power
+semantic_type: Physiological Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.27'
+  section_title: Muscular Power
+  book_page: 239
+  pdf_page: 239
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Muscular power is defined as the ability to produce force rapidly. It
+  is the product of force and velocity and is expressed as power = (force × distance)
+  / time.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- formula.power

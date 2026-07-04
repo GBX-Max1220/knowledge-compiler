@@ -19,13 +19,13 @@ provenance:
 evidence_level: ''
 relationships: []
 metric: CVD Risk Factors
-range: Age≥45M/55F, Smoking, Inactivity, BMI≥30, BP≥130/80, LDL≥130, FBG≥100
+range: null
 unit: null
 population: Adults
 condition: ACSM Risk Stratification
-numerical_value: 0.0
+numerical_value: []
 numerical_max: []
-comparison_operator: ''
+comparison_operator: null
 extra: 'Age: Men ≥45, Women ≥55 | Smoking: current or quit <6mo | Physical inactivity:
   not meeting PA guidelines | Obesity: BMI ≥30 or waist >102/88 cm | Hypertension:
   SBP ≥130/DBP ≥80 | Dyslipidemia: LDL ≥130 or HDL <40 | Prediabetes: FBG ≥100'

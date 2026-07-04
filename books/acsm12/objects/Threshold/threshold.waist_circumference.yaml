@@ -19,12 +19,12 @@ provenance:
 evidence_level: ''
 relationships: []
 metric: Waist Circumference
-range: 'Men: >102 cm increased risk, Women: >88 cm increased risk'
+range: null
 unit: cm
 population: Adults
 condition: Disease Risk
-numerical_value: 88.0
+numerical_value: []
 numerical_max: []
-comparison_operator: '>'
+comparison_operator: null
 extra: 'Increased risk: Men >102 cm (>40 in), Women >88 cm (>35 in) | Asian: Men ≥90
   cm, Women ≥80 cm'

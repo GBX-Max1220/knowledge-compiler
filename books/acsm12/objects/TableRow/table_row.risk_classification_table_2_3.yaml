@@ -1,0 +1,30 @@
+id: table_row.risk_classification_table_2_3
+type: TableRow
+canonical_name: Risk Classification Table 2.3
+semantic_type: Reference Table
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Health Screening
+  section: '2.6'
+  section_title: Algorithm Components
+  book_page: 139
+  pdf_page: 139
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Table 2.3: Risk Classification for Medical Examination and Exercise Testing
+
+  '
+attributes: []
+purpose:
+- provide risk classification criteria for medical examination and exercise testing
+related_concepts:
+- threshold.risk.low
+- threshold.risk.moderate
+- threshold.risk.high

@@ -1,7 +1,7 @@
 id: concept.muscular_endurance
 type: Concept
 canonical_name: Muscular Endurance
-semantic_type: Entity
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
@@ -20,7 +20,7 @@ evidence_level: ''
 relationships:
 - predicate: part_of
   target: concept.health_related_physical_fitness
-definition: 'The ability of muscle to continue to perform without fatigue.
+definition: 'The ability of a muscle to continue to perform without fatigue.
 
   '
 attributes: []

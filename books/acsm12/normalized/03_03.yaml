@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.basic_principles_and_guidelines
+type: Concept
+canonical_name: Basic Principles and Guidelines
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.3"
+  section_title: "Basic Principles and Guidelines"
+  book_page: 169
+  pdf_page: 169
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This section contains no labelable content (definitions, recommendations, procedures, thresholds, warnings, contraindications, risk factors, evidence, formulas, figures, tables, or decision rules).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

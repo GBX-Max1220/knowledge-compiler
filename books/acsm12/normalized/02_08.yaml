@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.alternative_self_guided_method_for_preparticipation_evaluation
+type: Procedure
+canonical_name: Alternative Self-Guided Method for Preparticipation Evaluation
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Health Screening"
+  section: "2.8"
+  section_title: "Alternative Self-Guided Method"
+  book_page: 145
+  pdf_page: 145
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Alternative Self-Guided Method for Preparticipation Evaluation.
+
+attributes: []
+
+purpose:
+  - preparticipation evaluation
+
+related_concepts: []

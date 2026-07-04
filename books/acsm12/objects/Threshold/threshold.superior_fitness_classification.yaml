@@ -1,0 +1,28 @@
+id: threshold.superior_fitness_classification
+type: Threshold
+canonical_name: Superior Fitness Classification
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Interpretation of Results
+  section: '3.21'
+  section_title: Interpretation of Results
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.excellent_fitness_classification
+definition: 'Superior (≥ 95th percentile)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

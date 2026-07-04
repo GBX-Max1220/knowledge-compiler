@@ -1,7 +1,7 @@
 id: concept.flexibility
 type: Concept
 canonical_name: Flexibility
-semantic_type: Entity
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription

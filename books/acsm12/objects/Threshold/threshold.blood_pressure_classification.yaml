@@ -19,13 +19,12 @@ provenance:
 evidence_level: ''
 relationships: []
 metric: Blood Pressure
-range: 'Normal: SBP<120/DBP<80, PreHTN: 120-139/80-89, Stage1: 140-159/90-99, Stage2:
-  ≥160/≥100'
+range: null
 unit: mm Hg
 population: Adults
 condition: JNC Criteria
-numerical_value: 120.0
+numerical_value: []
 numerical_max: []
-comparison_operator: range
+comparison_operator: null
 extra: 'Normal: SBP <120 / DBP <80 | Prehypertension: SBP 120-139 / DBP 80-89 | Stage
   1 HTN: SBP 140-159 / DBP 90-99 | Stage 2 HTN: SBP ≥160 / DBP ≥100'

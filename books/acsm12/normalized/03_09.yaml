@@ -1,0 +1,37 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.body_composition
+type: Concept
+canonical_name: Body Composition
+semantic_type: Physiological Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.9"
+  section_title: "Body Composition"
+  book_page: 175
+  pdf_page: 175
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+
+definition: >
+  Body composition is a component of health-related fitness.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

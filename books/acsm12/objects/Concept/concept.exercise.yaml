@@ -21,8 +21,7 @@ relationships:
 - predicate: is_a
   target: concept.physical_activity
 definition: 'A type of PA consisting of planned, structured, and repetitive bodily
-  movement done to improve and/or maintain one or more components of physical fitness
-  (7).
+  movement done to improve and/or maintain one or more components of physical fitness.
 
   '
 attributes:

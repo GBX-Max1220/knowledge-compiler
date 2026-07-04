@@ -19,12 +19,12 @@ provenance:
 evidence_level: ''
 relationships: []
 metric: Body Fat Percentage
-range: Essential 2-5%, Athletes 6-13%, Fitness 14-17%, Average 18-24%, Obese ≥25%
+range: null
 unit: '%'
 population: Men
 condition: ACSM Classification
-numerical_value: 6.0
+numerical_value: []
 numerical_max: []
-comparison_operator: range
+comparison_operator: null
 extra: 'Essential: 2-5% | Athletes: 6-13% | Fitness: 14-17% | Average: 18-24% | Obese:
   ≥25%'
