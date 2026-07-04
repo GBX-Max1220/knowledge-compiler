@@ -1,0 +1,34 @@
+id: concept.sarcoplasm
+type: Concept
+canonical_name: Sarcoplasm
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 43
+  pdf_page: 43
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.muscle_fiber
+definition: 'The cytoplasm of a muscle fiber, an aqueous medium through which the
+  exchange of ions (sodium, potassium, calcium) and metabolites (ADP, ATP, inorganic
+  phosphate) occur to and from different organelles.
+
+  '
+attributes: []
+purpose:
+- facilitate exchange of ions and metabolites
+related_concepts:
+- concept.myofibril
+- concept.sarcoplasmic_reticulum
+- concept.mitochondria

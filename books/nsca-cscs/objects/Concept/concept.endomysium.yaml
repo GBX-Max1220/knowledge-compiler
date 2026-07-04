@@ -1,0 +1,30 @@
+id: concept.endomysium
+type: Concept
+canonical_name: Endomysium
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.skeletal_muscle
+definition: 'Connective tissue surrounding each individual muscle fiber, which is
+  encircled by and is contiguous with the muscle fiber membrane, or sarcolemma.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.sarcolemma

@@ -124,6 +124,11 @@ Allowed `semantic_type` values:
 | `Entity` | Concept | Physical Fitness, Body Composition |
 | `Property` | Concept | Intensity, Duration, Frequency |
 | `Evidence` | Concept | Absolute SCD Risk, PA-CVD Dose-Response |
+| `AnatomicalStructure` | Concept | Skeletal System, Sarcomere, Vertebra |
+| `AnatomicalSystem` | Concept | Musculoskeletal System, Cardiovascular System |
+| `PhysiologicalProcess` | Concept | Action Potential, Crossbridge Cycling |
+| `Protein` | Concept | Myosin, Actin, Troponin |
+| `Theory` | Concept | Sliding-Filament Theory |
 | `Range` | Threshold | Light, Moderate, Vigorous |
 | `Guideline` | Recommendation | PA Minimum, Exercise Prescription |
 | `Protocol` | Procedure | Exercise Test, Screening Process |

@@ -1,0 +1,255 @@
+{
+  "book": "nsca-cscs",
+  "timestamp": "2026-07-04T20:44:25.838996",
+  "objects": 41,
+  "edges": 38,
+  "types": {
+    "Concept": 41
+  },
+  "total_issues": 53,
+  "by_layer": {
+    "1_syntax": {
+      "passed": 41,
+      "failed": 0
+    },
+    "2_schema": {
+      "passed": 41,
+      "failed": 42
+    },
+    "3_ontology": {
+      "passed": 41,
+      "failed": 2
+    },
+    "4_graph": {
+      "passed": 1,
+      "failed": 2
+    },
+    "5_semantic": {
+      "passed": 41,
+      "failed": 7
+    }
+  },
+  "issues": {
+    "1_syntax": [],
+    "2_schema": [
+      {
+        "severity": "error",
+        "message": "concept.actin: semantic_type 'Protein' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.action_potential: semantic_type 'PhysiologicalProcess' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.appendicular_skeleton: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.axial_skeleton: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.a_band: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.biaxial_joint: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.cartilaginous_joint: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.cervical_vertebra: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.coccygeal_vertebra: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.crossbridge: required field 'definition' is empty for type Concept"
+      },
+      {
+        "severity": "error",
+        "message": "concept.crossbridge: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.endomysium: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.epimysium: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.fasciculus: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.fibrous_joint: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.h_zone: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.i_band: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.joint: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.lumbar_vertebra: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.motor_unit: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.multiaxial_joint: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.muscle_fiber: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.myofibril: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.myosin: semantic_type 'Protein' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.m_line: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.neuromuscular_junction: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.perimysium: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.periosteum: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.sacral_vertebra: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.sarcolemma: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.sarcomere: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.sarcoplasm: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.sarcoplasmic_reticulum: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.skeletal_muscle: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.skeletal_system: semantic_type 'AnatomicalSystem' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.sliding_filament_theory: semantic_type 'Theory' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.synovial_joint: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.tendon: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.thoracic_vertebra: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.uniaxial_joint: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.vertebral_column: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      },
+      {
+        "severity": "error",
+        "message": "concept.z_line: semantic_type 'AnatomicalStructure' not in allowed list ['Activity', 'Entity', 'Property', 'Evidence']"
+      }
+    ],
+    "3_ontology": [
+      {
+        "severity": "error",
+        "message": "concept.skeletal_muscle.part_of → concept.musculoskeletal_system: target file not found"
+      },
+      {
+        "severity": "error",
+        "message": "concept.skeletal_system.part_of → concept.musculoskeletal_system: target file not found"
+      }
+    ],
+    "4_graph": [
+      {
+        "severity": "warn",
+        "message": "concept.skeletal_muscle.part_of → concept.musculoskeletal_system: unresolved (may be cross-source)"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.skeletal_system.part_of → concept.musculoskeletal_system: unresolved (may be cross-source)"
+      }
+    ],
+    "5_semantic": [
+      {
+        "severity": "error",
+        "message": "concept.cervical_vertebra: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.coccygeal_vertebra: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.crossbridge: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.fasciculus: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.lumbar_vertebra: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.sacral_vertebra: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.thoracic_vertebra: Concept definition is empty or too short"
+      }
+    ]
+  }
+}

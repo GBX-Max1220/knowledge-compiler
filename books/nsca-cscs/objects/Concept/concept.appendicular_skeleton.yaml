@@ -1,0 +1,41 @@
+id: concept.appendicular_skeleton
+type: Concept
+canonical_name: Appendicular Skeleton
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 39
+  pdf_page: 39
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.skeletal_system
+definition: 'The part of the skeleton including the shoulder (or pectoral) girdle
+  (left and right scapula and clavicle); bones of the arms, wrists, and hands (left
+  and right humerus, radius, ulna, carpals, metacarpals, and phalanges); the pelvic
+  girdle (left and right coxal or innominate bones); and the bones of the legs, ankles,
+  and feet (left and right femur, patella, tibia, fibula, tarsals, metatarsals, and
+  phalanges).
+
+  '
+attributes:
+- shoulder girdle
+- bones of arms
+- bones of wrists
+- bones of hands
+- pelvic girdle
+- bones of legs
+- bones of ankles
+- bones of feet
+purpose: []
+related_concepts: []

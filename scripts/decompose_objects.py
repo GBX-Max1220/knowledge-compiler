@@ -13,6 +13,7 @@ Usage:
 
 import os
 import sys
+sys.stdout.reconfigure(encoding='utf-8')
 import yaml
 import re
 from pathlib import Path

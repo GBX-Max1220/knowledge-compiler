@@ -1,0 +1,110 @@
+{
+  "questions": [
+    {
+      "id": "q01",
+      "question": "What's the difference between physical activity and exercise?",
+      "expected_answer": "Exercise is a subset of physical activity — it is planned, structured, and repetitive. Physical activity is any bodily movement produced by skeletal muscles that results in energy expenditure.",
+      "actual_answer": "Based solely on the textbook excerpts, physical activity (PA) is defined as any bodily movement produced by the contraction of skeletal muscles that results in an increase in caloric requirements over resting energy expenditure. Exercise, on the other hand, is a type of PA consisting of planned, structured, and repetitive bodily movement done to improve and/or maintain one or more components of physical fitness.",
+      "type": "Concept",
+      "accuracy": 1.0,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q02",
+      "question": "What does MET measure and what is 1 MET equivalent to?",
+      "expected_answer": "MET (Metabolic Equivalent) measures the energy cost of physical activities. 1 MET is the energy expended at rest, approximately 3.5 mL.kg-1.min-1 of oxygen consumption.",
+      "actual_answer": "Based solely on the provided textbook excerpts, MET is an index of energy expenditure (EE). The excerpts do not state what 1 MET is equivalent to.",
+      "type": "Concept",
+      "accuracy": 0.15,
+      "citation_correctness": 0,
+      "faithfulness": 0
+    },
+    {
+      "id": "q03",
+      "question": "How do cardiorespiratory endurance and muscular fitness differ?",
+      "expected_answer": "Cardiorespiratory endurance is the ability of the circulatory and respiratory systems to supply oxygen during sustained physical activity. Muscular fitness refers to the ability of muscles to generate force (strength) and sustain repeated contractions (endurance).",
+      "actual_answer": "Based solely on the provided textbook excerpts, cardiorespiratory fitness (CRF) is assessed by tests like the \"1-mi walk/run and progressive aerobic cardiovascular endurance run [PACER],\" while muscular fitness is assessed by tests like the \"curl-up test, trunk lift test, pull-ups, and push-up test.\" The excerpts do not provide a direct comparison of how they differ in definition or physiological function beyond listing these different assessment methods.",
+      "type": "Concept",
+      "accuracy": 0.21,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q04",
+      "question": "I weigh 85kg and my height is 1.77m. My BMI is about 27 — what category does this fall into?",
+      "expected_answer": "BMI 27 falls into the Overweight category (25.0-29.9). It is also classified as a CVD risk factor threshold (BMI >= 25.0).",
+      "actual_answer": "Based solely on the textbook excerpts, a BMI of 27 kg·m⁻² falls into the \"overweight\" category, as the text states that a BMI ≥25 kg·m⁻² classifies an individual as overweight.",
+      "type": "Threshold",
+      "accuracy": 0.45,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q05",
+      "question": "A patient's resting blood pressure is 145/95 mmHg. How is this classified?",
+      "expected_answer": "This is classified as hypertension (BP >=130/80). It counts as one CVD risk factor.",
+      "actual_answer": "Based solely on the textbook excerpts, a resting blood pressure of 145/95 mmHg is classified as \"not controlled\" according to the ACC/AHA guidelines (resting SBP ≥ 130 mm Hg and/or DBP ≥ 80 mm Hg). The excerpts do not provide a specific classification name (e.g., Stage 1 or Stage 2 hypertension) beyond stating it is uncontrolled.",
+      "type": "Threshold",
+      "accuracy": 0.4,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q06",
+      "question": "Walking at 3 METs, jogging at 6 METs, and running at 9 METs. What intensity categories do these fall into?",
+      "expected_answer": "Moderate intensity is 3.0-5.9 METs. Vigorous is >=6.0 METs. So 3 METs = moderate, 6 and 9 METs = vigorous.",
+      "actual_answer": "Based solely on the provided textbook excerpts, there is not enough information to determine the intensity categories for walking at 3 METs, jogging at 6 METs, and running at 9 METs. The excerpts mention a brisk pace of \"3 METs/>100 steps · min−1\" as a threshold for moderate-intensity PA, but they do not provide the MET ranges or thresholds for moderate, vigorous, or other intensity categories.",
+      "type": "Threshold",
+      "accuracy": 0.67,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q07",
+      "question": "A 55-year-old man with hypertension has not exercised regularly in years and wants to start jogging. What steps should he take before beginning?",
+      "expected_answer": "He has CVD risk factors (age >=45, hypertension). As a currently inactive person with 2+ risk factors wanting vigorous exercise, the screening algorithm recommends medical clearance before starting.",
+      "actual_answer": "Based solely on the provided textbook excerpts, there is not enough information to answer the question. The excerpts discuss exercise recommendations for hypertension and obesity, but do not specify steps a 55-year-old man with hypertension who has been inactive should take before beginning to jog.",
+      "type": "Procedure",
+      "accuracy": 0.12,
+      "citation_correctness": 0,
+      "faithfulness": 0
+    },
+    {
+      "id": "q08",
+      "question": "How do you safely measure someones maximum strength in a gym setting?",
+      "expected_answer": "Familiarization, warm up, start at ~50-70% of perceived capacity, attempt with proper form, rest 3-5 min, increase weight, stop at failure, record last successful weight. Complete within 4 trials.",
+      "actual_answer": "Based solely on the textbook excerpts, to safely measure someone's maximum strength (1-RM) in a gym setting, you should follow these steps:\n\n1.  **Familiarization:** Testing should be completed only after the individual has participated in familiarization/practice sessions.\n2.  **Warm-up:** The individual should warm up by completing a number of submaximal repetitions of the specific exercise.\n3.  **Determine the 1-RM within four trials** with rest periods of 3 to 5 minutes between trials.\n4.  **Select an initial weight** that is within the individual’s perceived capacity (~50%–70% of capacity).\n5.  **Progressively increase resistance** by 5%–10% for upper body or 10%–20% for lower body exercise from the previous successful attempt until the individual cannot complete the selected repetition(s); all repetitions should be performed at the same speed of movement and range of motion.\n6.  **Record the final weight lifted successfully** as the absolute 1-RM.",
+      "type": "Procedure",
+      "accuracy": 0.56,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q09",
+      "question": "What physical symptoms during exercise should prompt someone to stop and seek medical evaluation?",
+      "expected_answer": "Pain or discomfort in chest/neck/jaw/arms, shortness of breath, dizziness or syncope, palpitations, leg pain, unusual fatigue, swelling.",
+      "actual_answer": "Based solely on the provided textbook excerpts, the text mentions that physically active individuals should know the nature of cardiac prodromal symptoms (e.g., excessive, unusual fatigue and pain in the chest and/or upper back) and seek prompt medical care if such symptoms develop.",
+      "type": "Warning",
+      "accuracy": 0.11,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q10",
+      "question": "How common are serious cardiac events during physical activity?",
+      "expected_answer": "SCD occurs every 1.5 million episodes of vigorous PA in men and every 36.5 million episodes of MVPA in women. Habitual PA reduces overall risk.",
+      "actual_answer": "Based solely on the textbook excerpts, the incidence of serious cardiac events during physical activity is very low. The text states that \"the risk of SCD and AMI is very low in apparently healthy individuals performing moderate-intensity PA\" and that \"because of the low incidence of cardiac events related to vigorous-intensity exercise, it is very difficult to test the effectiveness of strategies to reduce the occurrence of these events.\" Specific rates for young athletes include an annual risk of exercise-related death among high school and college athletes at 1:133,000 men and 1:769,000 women, with more recent data showing 1:62,439 men and 1:523,093 women.",
+      "type": "Warning",
+      "accuracy": 0.18,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    }
+  ],
+  "summary": {
+    "condition": "rag_minilm",
+    "accuracy_avg": 0.385,
+    "citation_correctness_avg": 0.0,
+    "faithfulness_avg": 0.8
+  }
+}

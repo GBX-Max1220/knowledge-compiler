@@ -1,0 +1,110 @@
+{
+  "questions": [
+    {
+      "id": "q01",
+      "question": "What's the difference between physical activity and exercise?",
+      "expected_answer": "Exercise is a subset of physical activity — it is planned, structured, and repetitive. Physical activity is any bodily movement produced by skeletal muscles that results in energy expenditure.",
+      "actual_answer": "**Physical activity** is any bodily movement produced by skeletal muscles that results in energy expenditure (e.g., walking to the bus, gardening, housework).  \n\n**Exercise** is a subset of physical activity that is planned, structured, repetitive, and purposeful, with the objective of improving or maintaining physical fitness (e.g., running, weightlifting, aerobics class).  \n\nIn short: all exercise is physical activity, but not all physical activity is exercise.",
+      "type": "Concept",
+      "accuracy": 1.0,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q02",
+      "question": "What does MET measure and what is 1 MET equivalent to?",
+      "expected_answer": "MET (Metabolic Equivalent) measures the energy cost of physical activities. 1 MET is the energy expended at rest, approximately 3.5 mL.kg-1.min-1 of oxygen consumption.",
+      "actual_answer": "MET measures the metabolic equivalent of a task, which is the rate of energy expenditure during physical activity. 1 MET is equivalent to the resting metabolic rate, approximately 3.5 mL of oxygen per kilogram of body weight per minute (3.5 mL O₂/kg/min).",
+      "type": "Concept",
+      "accuracy": 0.55,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q03",
+      "question": "How do cardiorespiratory endurance and muscular fitness differ?",
+      "expected_answer": "Cardiorespiratory endurance is the ability of the circulatory and respiratory systems to supply oxygen during sustained physical activity. Muscular fitness refers to the ability of muscles to generate force (strength) and sustain repeated contractions (endurance).",
+      "actual_answer": "Cardiorespiratory endurance measures the ability of the heart, lungs, and circulatory system to supply oxygen during sustained activity (e.g., running, cycling). Muscular fitness refers to the strength, endurance, and power of specific muscles or muscle groups (e.g., lifting, pushing). The key difference is systemic oxygen delivery versus local muscle capacity.",
+      "type": "Concept",
+      "accuracy": 0.75,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q04",
+      "question": "I weigh 85kg and my height is 1.77m. My BMI is about 27 — what category does this fall into?",
+      "expected_answer": "BMI 27 falls into the Overweight category (25.0-29.9). It is also classified as a CVD risk factor threshold (BMI >= 25.0).",
+      "actual_answer": "Based on standard BMI classifications, a BMI of 27 falls into the **Overweight** category (25.0–29.9).",
+      "type": "Threshold",
+      "accuracy": 0.45,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q05",
+      "question": "A patient's resting blood pressure is 145/95 mmHg. How is this classified?",
+      "expected_answer": "This is classified as hypertension (BP >=130/80). It counts as one CVD risk factor.",
+      "actual_answer": "This is classified as **Stage 1 Hypertension** (per ACC/AHA guidelines: systolic 130–139 or diastolic 80–89 is Stage 1; 140+ or 90+ is Stage 2).  \nBy the older JNC 7 criteria, it would be **Stage 2 Hypertension**.",
+      "type": "Threshold",
+      "accuracy": 0.48,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q06",
+      "question": "Walking at 3 METs, jogging at 6 METs, and running at 9 METs. What intensity categories do these fall into?",
+      "expected_answer": "Moderate intensity is 3.0-5.9 METs. Vigorous is >=6.0 METs. So 3 METs = moderate, 6 and 9 METs = vigorous.",
+      "actual_answer": "Based on standard exercise science classifications:\n\n- **Walking at 3 METs**: Moderate intensity (3 to <6 METs)  \n- **Jogging at 6 METs**: Vigorous intensity (≥6 METs)  \n- **Running at 9 METs**: Vigorous intensity (≥6 METs)",
+      "type": "Threshold",
+      "accuracy": 0.4,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q07",
+      "question": "A 55-year-old man with hypertension has not exercised regularly in years and wants to start jogging. What steps should he take before beginning?",
+      "expected_answer": "He has CVD risk factors (age >=45, hypertension). As a currently inactive person with 2+ risk factors wanting vigorous exercise, the screening algorithm recommends medical clearance before starting.",
+      "actual_answer": "Before beginning a jogging program, he should:\n\n1. **Obtain medical clearance** from his physician, given his age, hypertension, and prolonged inactivity.\n2. **Ensure blood pressure is well-controlled** (typically <130/80 mmHg) and medications are optimized.\n3. **Start with a walking program** (e.g., 20–30 minutes, 3–5 days/week) for 2–4 weeks to build baseline fitness.\n4. **Incorporate a proper warm-up** (5–10 minutes of dynamic stretching and light walking) and cool-down.\n5. **Use a gradual progression** (e.g., walk-jog intervals) to reduce injury risk.\n6. **Monitor intensity** via the talk test or perceived exertion, avoiding maximal effort.\n7. **Check blood pressure before and after exercise** initially to ensure safe response.",
+      "type": "Procedure",
+      "accuracy": 0.21,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q08",
+      "question": "How do you safely measure someones maximum strength in a gym setting?",
+      "expected_answer": "Familiarization, warm up, start at ~50-70% of perceived capacity, attempt with proper form, rest 3-5 min, increase weight, stop at failure, record last successful weight. Complete within 4 trials.",
+      "actual_answer": "To safely measure maximum strength (1-repetition maximum or 1RM) in a gym setting, use a **submaximal prediction test** rather than a true maximal lift. The standard protocol is:\n\n1.  **Warm-up:** 5–10 minutes of light cardio and dynamic stretching, followed by specific warm-up sets (e.g., 5–10 reps at 50% of estimated max, then 3–5 reps at 70%).\n2.  **Submaximal Load:** Perform 3–5 repetitions with a heavy but manageable weight (approximately 85–90% of estimated 1RM) using proper form.\n3.  **Prediction Formula:** Use the **Epley** or **Brzycki** formula to estimate 1RM from the submaximal reps (e.g., Epley: 1RM = weight × [1 + (0.0333 × reps)]).\n4.  **Safety:** Always have a spotter for barbell lifts, use a power rack with safety pins for squats/bench, and stop immediately if form breaks down or pain occurs.\n\n**Alternative:** For higher safety (e.g., beginners, elderly), use a **3–5RM test** (max weight for 3–5 clean reps) and convert to estimated 1RM via the same formulas. Never test 1RM without proper warm-up, spotters, and prior experience with the lift.",
+      "type": "Procedure",
+      "accuracy": 0.07,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q09",
+      "question": "What physical symptoms during exercise should prompt someone to stop and seek medical evaluation?",
+      "expected_answer": "Pain or discomfort in chest/neck/jaw/arms, shortness of breath, dizziness or syncope, palpitations, leg pain, unusual fatigue, swelling.",
+      "actual_answer": "Based on standard exercise science knowledge, stop and seek medical evaluation if you experience:\n\n- Chest pain, pressure, or discomfort (especially radiating to arm, jaw, or back)\n- Severe shortness of breath (out of proportion to effort)\n- Dizziness, lightheadedness, or fainting\n- Irregular, racing, or pounding heart rate (palpitations)\n- Nausea or vomiting during or after exercise\n- Sudden, severe headache\n- Extreme muscle weakness or sudden loss of coordination\n- Sharp, sudden joint or muscle pain (possible injury)",
+      "type": "Warning",
+      "accuracy": 0.44,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    },
+    {
+      "id": "q10",
+      "question": "How common are serious cardiac events during physical activity?",
+      "expected_answer": "SCD occurs every 1.5 million episodes of vigorous PA in men and every 36.5 million episodes of MVPA in women. Habitual PA reduces overall risk.",
+      "actual_answer": "Serious cardiac events (e.g., sudden cardiac arrest, heart attack) during physical activity are **rare**, particularly in healthy individuals. The absolute risk is estimated at **0.5 to 2 events per 100,000 person-hours of exercise**. However, the risk is transiently elevated during and immediately after vigorous exertion compared to rest, especially in individuals with underlying, often undiagnosed, cardiovascular disease.",
+      "type": "Warning",
+      "accuracy": 0.09,
+      "citation_correctness": 0,
+      "faithfulness": 1
+    }
+  ],
+  "summary": {
+    "condition": "raw_llm",
+    "accuracy_avg": 0.44400000000000006,
+    "citation_correctness_avg": 0.0,
+    "faithfulness_avg": 1.0
+  }
+}

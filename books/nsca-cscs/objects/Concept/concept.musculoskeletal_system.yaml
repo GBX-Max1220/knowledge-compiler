@@ -1,0 +1,39 @@
+id: concept.musculoskeletal_system
+type: Concept
+canonical_name: Musculoskeletal System
+semantic_type: AnatomicalSystem
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1.1'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 39
+  pdf_page: 39
+provenance:
+  extraction: deepseek-chat
+  generation: deepseek-chat
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_part
+  target: concept.skeletal_system
+- predicate: has_part
+  target: concept.skeletal_muscle
+definition: The musculoskeletal system consists of bones, joints, muscles, and tendons
+  configured to allow the great variety of movements characteristic of human activity.
+attributes:
+- bones
+- joints
+- muscles
+- tendons
+purpose:
+- provide leverage
+- support body
+- enable movement
+- protect internal organs
+related_concepts:
+- concept.skeletal_system
+- concept.skeletal_muscle

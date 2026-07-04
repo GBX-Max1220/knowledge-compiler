@@ -23,6 +23,7 @@ PRICING = {
     "gpt-4o": {"input": 0.0025, "output": 0.01},
     "gpt-4o-mini": {"input": 0.00015, "output": 0.0006},
     "gpt-4-turbo": {"input": 0.01, "output": 0.03},
+    "deepseek-chat": {"input": 0.00014, "output": 0.00028},
     "default": {"input": 0.003, "output": 0.015},
 }
 
@@ -34,7 +35,10 @@ class OpenAIProvider(Provider):
         self._config = config
         api_key = config.api_key or os.environ.get("OPENAI_API_KEY", "")
         if HAS_OPENAI:
-            self._client = openai.OpenAI(api_key=api_key)
+            kwargs = {"api_key": api_key}
+            if config.endpoint:
+                kwargs["base_url"] = config.endpoint
+            self._client = openai.OpenAI(**kwargs)
         self._has_client = HAS_OPENAI and bool(api_key)
 
     @property

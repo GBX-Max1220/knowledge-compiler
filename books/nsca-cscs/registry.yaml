@@ -1,0 +1,42 @@
+registry:
+  A-band: concept.a_band
+  Actin: concept.actin
+  Action Potential: concept.action_potential
+  Appendicular Skeleton: concept.appendicular_skeleton
+  Axial Skeleton: concept.axial_skeleton
+  Biaxial Joint: concept.biaxial_joint
+  Cartilaginous Joint: concept.cartilaginous_joint
+  Cervical Vertebra: concept.cervical_vertebra
+  Coccygeal Vertebra: concept.coccygeal_vertebra
+  Crossbridge: concept.crossbridge
+  Endomysium: concept.endomysium
+  Epimysium: concept.epimysium
+  Fasciculus: concept.fasciculus
+  Fibrous Joint: concept.fibrous_joint
+  H-zone: concept.h_zone
+  I-band: concept.i_band
+  Joint: concept.joint
+  Lumbar Vertebra: concept.lumbar_vertebra
+  M-line: concept.m_line
+  Motor Unit: concept.motor_unit
+  Multiaxial Joint: concept.multiaxial_joint
+  Muscle Fiber: concept.muscle_fiber
+  Myofibril: concept.myofibril
+  Myosin: concept.myosin
+  Neuromuscular Junction: concept.neuromuscular_junction
+  Perimysium: concept.perimysium
+  Periosteum: concept.periosteum
+  Sacral Vertebra: concept.sacral_vertebra
+  Sarcolemma: concept.sarcolemma
+  Sarcomere: concept.sarcomere
+  Sarcoplasm: concept.sarcoplasm
+  Sarcoplasmic Reticulum: concept.sarcoplasmic_reticulum
+  Skeletal Muscle: concept.skeletal_muscle
+  Skeletal System: concept.skeletal_system
+  Sliding-Filament Theory: concept.sliding_filament_theory
+  Synovial Joint: concept.synovial_joint
+  Tendon: concept.tendon
+  Thoracic Vertebra: concept.thoracic_vertebra
+  Uniaxial Joint: concept.uniaxial_joint
+  Vertebral Column: concept.vertebral_column
+  Z-line: concept.z_line

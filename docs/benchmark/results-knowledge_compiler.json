@@ -1,0 +1,110 @@
+{
+  "questions": [
+    {
+      "id": "q01",
+      "question": "What's the difference between physical activity and exercise?",
+      "expected_answer": "Exercise is a subset of physical activity — it is planned, structured, and repetitive. Physical activity is any bodily movement produced by skeletal muscles that results in energy expenditure.",
+      "actual_answer": "Any bodily movement produced by the contraction of skeletal muscles that results in an increase in caloric requirements over resting energy expenditure (7) A type of PA consisting of planned, structured, and repetitive bodily movement done to improve and/or maintain one or more components of physical fitness (7)",
+      "type": "Concept",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q02",
+      "question": "What does MET measure and what is 1 MET equivalent to?",
+      "expected_answer": "MET (Metabolic Equivalent) measures the energy cost of physical activities. 1 MET is the energy expended at rest, approximately 3.5 mL.kg-1.min-1 of oxygen consumption.",
+      "actual_answer": "A practical, convenient, and standardized method for quantifying the intensity of various behaviors and activities. One MET is equivalent to resting metabolic rate (~3.5 mL · kg⁻¹ · min⁻¹) or the amount of oxygen consumed while sitting at rest Range: ≤1.5 METs",
+      "type": "Concept",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q03",
+      "question": "How do cardiorespiratory endurance and muscular fitness differ?",
+      "expected_answer": "Cardiorespiratory endurance is the ability of the circulatory and respiratory systems to supply oxygen during sustained physical activity. Muscular fitness refers to the ability of muscles to generate force (strength) and sustain repeated contractions (endurance).",
+      "actual_answer": "The ability of the circulatory and respiratory system to supply oxygen during sustained physical activity The ability of muscle to exert force The ability of muscle to continue to perform without fatigue",
+      "type": "Concept",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q04",
+      "question": "I weigh 85kg and my height is 1.77m. My BMI is about 27 — what category does this fall into?",
+      "expected_answer": "BMI 27 falls into the Overweight category (25.0-29.9). It is also classified as a CVD risk factor threshold (BMI >= 25.0).",
+      "actual_answer": "Range: <18.5 Underweight, 18.5-24.9 Normal, 25.0-29.9 Overweight, 30.0-34.9 Obese I, 35.0-39.9 Obese II, ≥40.0 Obese III kg·m⁻² Range: Age≥45M/55F, Smoking, Inactivity, BMI≥30, BP≥130/80, LDL≥130, FBG≥100 None",
+      "type": "Threshold",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q05",
+      "question": "A patient's resting blood pressure is 145/95 mmHg. How is this classified?",
+      "expected_answer": "This is classified as hypertension (BP >=130/80). It counts as one CVD risk factor.",
+      "actual_answer": "Range: Normal: SBP<120/DBP<80, PreHTN: 120-139/80-89, Stage1: 140-159/90-99, Stage2: ≥160/≥100 mm Hg Range: Age≥45M/55F, Smoking, Inactivity, BMI≥30, BP≥130/80, LDL≥130, FBG≥100 None",
+      "type": "Threshold",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q06",
+      "question": "Walking at 3 METs, jogging at 6 METs, and running at 9 METs. What intensity categories do these fall into?",
+      "expected_answer": "Moderate intensity is 3.0-5.9 METs. Vigorous is >=6.0 METs. So 3 METs = moderate, 6 and 9 METs = vigorous.",
+      "actual_answer": "Range: 1.6–2.9 METs Range: 3.0–5.9 METs Range: ≥6.0 METs",
+      "type": "Threshold",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q07",
+      "question": "A 55-year-old man with hypertension has not exercised regularly in years and wants to start jogging. What steps should he take before beginning?",
+      "expected_answer": "He has CVD risk factors (age >=45, hypertension). As a currently inactive person with 2+ risk factors wanting vigorous exercise, the screening algorithm recommends medical clearance before starting.",
+      "actual_answer": "Steps: Classify individual as currently exercising regularly or not; Assess for known CV, metabolic, or renal disease; Assess for signs or symptoms suggestive of disease Screen using the ACSM preparticipation health screening algorithm. Refer for medical clearance if indicated",
+      "type": "Procedure",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q08",
+      "question": "How do you safely measure someones maximum strength in a gym setting?",
+      "expected_answer": "Familiarization, warm up, start at ~50-70% of perceived capacity, attempt with proper form, rest 3-5 min, increase weight, stop at failure, record last successful weight. Complete within 4 trials.",
+      "actual_answer": "Steps: Complete familiarization/practice sessions before testing; Warm up with submaximal repetitions of the exercise; Select initial weight at ~50-70% of perceived capacity",
+      "type": "Procedure",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q09",
+      "question": "What physical symptoms during exercise should prompt someone to stop and seek medical evaluation?",
+      "expected_answer": "Pain or discomfort in chest/neck/jaw/arms, shortness of breath, dizziness or syncope, palpitations, leg pain, unusual fatigue, swelling.",
+      "actual_answer": "Signs: Pain or discomfort in chest/neck/jaw/arms; Shortness of breath at rest or mild exertion; Dizziness or syncope Action: Individuals with these signs/symptoms should seek medical evaluation before initiating exercise.",
+      "type": "Warning",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    },
+    {
+      "id": "q10",
+      "question": "How common are serious cardiac events during physical activity?",
+      "expected_answer": "SCD occurs every 1.5 million episodes of vigorous PA in men and every 36.5 million episodes of MVPA in women. Habitual PA reduces overall risk.",
+      "actual_answer": "SCD occurs every 1.5 million episodes of vigorous PA in men and every 36.5 million episodes of MVPA in women. 1 death per 396,000 hours of jogging in 30- to 60-year-old men Signs: sudden cardiac death; acute myocardial infarction Action: Risk decreases with long-term compliance to an exercise regimen and increasing volumes of regular PA.",
+      "type": "Warning",
+      "accuracy": 1.0,
+      "citation_correctness": 1,
+      "faithfulness": 1
+    }
+  ],
+  "summary": {
+    "condition": "knowledge_compiler",
+    "accuracy_avg": 1.0,
+    "citation_correctness_avg": 1.0,
+    "faithfulness_avg": 1.0
+  }
+}

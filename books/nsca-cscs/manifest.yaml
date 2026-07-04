@@ -1,0 +1,62 @@
+# NSCA-CSCS Pilot — Chapter 1 Manifest
+
+> For Phase 1 Pilot: process Chapter 1 sections to verify schema/prompt compatibility.
+> Full book manifest will be generated after Pilot passes.
+
+book:
+  title: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  total_pages: 1876
+
+chapters:
+- id: 1
+  title: "Structure and Function of Body Systems"
+  pdf_pages:
+    start: 38
+    end: 103
+  sections:
+    - id: "1.1"
+      title: "Introduction and Musculoskeletal System"
+      pdf_pages:
+        start: 38
+        end: 55
+      estimated_complexity: 3
+      estimated_tokens: 2000
+      contains:
+        definitions: yes
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "1.2"
+      title: "Neuromuscular System"
+      pdf_pages:
+        start: 56
+        end: 65
+      estimated_complexity: 3
+      estimated_tokens: 1500
+      contains:
+        definitions: yes
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: no
+      status: pending
+    - id: "1.3"
+      title: "Cardiovascular System"
+      pdf_pages:
+        start: 66
+        end: 80
+      estimated_complexity: 3
+      estimated_tokens: 2000
+      contains:
+        definitions: yes
+        recommendations: no
+        procedures: no
+        tables: yes
+        figures: yes
+        thresholds: no
+      status: pending

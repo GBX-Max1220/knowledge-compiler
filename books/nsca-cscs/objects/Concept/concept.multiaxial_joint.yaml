@@ -1,0 +1,29 @@
+id: concept.multiaxial_joint
+type: Concept
+canonical_name: Multiaxial Joint
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 41
+  pdf_page: 41
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.joint
+definition: 'Joints that allow movement about all three perpendicular axes that define
+  space, including the shoulder and hip ball-and-socket joints.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

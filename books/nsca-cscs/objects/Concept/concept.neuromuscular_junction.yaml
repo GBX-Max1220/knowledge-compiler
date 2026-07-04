@@ -1,0 +1,32 @@
+id: concept.neuromuscular_junction
+type: Concept
+canonical_name: Neuromuscular Junction
+semantic_type: AnatomicalStructure
+aliases:
+- motor end plate
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 43
+  pdf_page: 43
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.motor_unit
+definition: 'The junction between a motor neuron (nerve cell) and the muscle fibers
+  it innervates. Each muscle cell has only one neuromuscular junction, although a
+  single motor neuron innervates many muscle fibers, sometimes hundreds or even thousands.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.motor_neuron

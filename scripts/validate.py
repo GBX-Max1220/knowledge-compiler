@@ -18,6 +18,9 @@ Usage:
     python scripts/validate.py --book acsm12 --json validation/report.json
 """
 
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
+
 import argparse
 import json
 import os
@@ -48,7 +51,9 @@ SCHEMA_TYPES = {
 }
 
 SEMANTIC_TYPES = {
-    "Concept": ["Activity", "Entity", "Property", "Evidence"],
+    "Concept": ["Activity", "Entity", "Property", "Evidence",
+                "AnatomicalStructure", "AnatomicalSystem",
+                "PhysiologicalProcess", "Protein", "Theory"],
     "Threshold": ["Range", "Cutoff"],
     "TableRow": ["TableRow"],
     "Procedure": ["Protocol", "Process"],
