@@ -1,17 +1,17 @@
 id: concept.motor_unit
 type: Concept
 canonical_name: Motor Unit
-semantic_type: AnatomicalStructure
+semantic_type: Anatomical Structure
 aliases: []
 source:
   book: Essentials of Strength Training and Conditioning
   edition: 5
   chapter: 1
   chapter_title: Structure and Function of Body Systems
-  section: '01.01'
-  section_title: Introduction and Musculoskeletal System
-  book_page: 43
-  pdf_page: 43
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 56
+  pdf_page: 56
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
@@ -19,13 +19,16 @@ provenance:
 evidence_level: ''
 relationships:
 - predicate: part_of
-  target: concept.skeletal_muscle
-definition: 'A motor neuron and the muscle fibers it innervates. All the muscle fibers
-  of a motor unit contract together when they are stimulated by the motor neuron.
+  target: concept.neuromuscular_system
+definition: 'An integrated structure where a motor neuron generally has numerous terminal
+  branches at the end of its axon, allowing for several muscle fibers to be innervated.
 
   '
-attributes: []
+attributes:
+- slow-twitch
+- fast-twitch/fatigue-resistant
+- fast-twitch/fatigable
 purpose: []
 related_concepts:
+- concept.muscle_fiber
 - concept.motor_neuron
-- concept.neuromuscular_junction

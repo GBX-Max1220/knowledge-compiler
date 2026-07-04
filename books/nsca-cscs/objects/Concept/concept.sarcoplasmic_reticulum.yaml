@@ -1,34 +1,29 @@
 id: concept.sarcoplasmic_reticulum
 type: Concept
 canonical_name: Sarcoplasmic Reticulum
-semantic_type: AnatomicalStructure
+semantic_type: Anatomical Structure
 aliases: []
 source:
   book: Essentials of Strength Training and Conditioning
   edition: 5
   chapter: 1
   chapter_title: Structure and Function of Body Systems
-  section: '01.01'
-  section_title: Introduction and Musculoskeletal System
-  book_page: 50
-  pdf_page: 50
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 56
+  pdf_page: 56
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
-relationships:
-- predicate: part_of
-  target: concept.muscle_fiber
-definition: 'An intricate system of tubules that encases each myofibril, which terminates
-  as vesicles in the vicinity of the Z-lines. Calcium ions are stored in the sarcoplasmic
-  reticulum, and muscle activation leads to the release of these calcium stores to
-  facilitate muscular contraction.
+relationships: []
+definition: 'A structure that releases calcium, catalyzed by action potentials continuing
+  down T-tubules.
 
   '
 attributes: []
-purpose:
-- store calcium ions
-- release calcium ions to facilitate muscular contraction
+purpose: []
 related_concepts:
-- concept.calcium_ion
+- concept.t_tubule
+- concept.calcium

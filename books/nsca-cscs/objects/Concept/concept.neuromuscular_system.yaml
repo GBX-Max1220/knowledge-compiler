@@ -1,7 +1,7 @@
-id: concept.sarcolemma
+id: concept.neuromuscular_system
 type: Concept
-canonical_name: Sarcolemma
-semantic_type: Anatomical Structure
+canonical_name: Neuromuscular System
+semantic_type: Anatomical System
 aliases: []
 source:
   book: Essentials of Strength Training and Conditioning
@@ -18,11 +18,13 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+definition: 'Muscle fibers are innervated by motor neurons that transmit impulses
+  in the form of electrochemical signals from the spinal cord to the muscle.
 
   '
 attributes: []
 purpose: []
 related_concepts:
+- concept.motor_unit
 - concept.muscle_fiber
-- concept.acetylcholine_receptor
+- concept.motor_neuron

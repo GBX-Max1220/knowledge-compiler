@@ -1,7 +1,7 @@
-id: concept.sarcolemma
+id: concept.type_i_muscle_fiber
 type: Concept
-canonical_name: Sarcolemma
-semantic_type: Anatomical Structure
+canonical_name: Type I Muscle Fiber
+semantic_type: Cell
 aliases: []
 source:
   book: Essentials of Strength Training and Conditioning
@@ -10,19 +10,22 @@ source:
   chapter_title: Structure and Function of Body Systems
   section: '01.02'
   section_title: Neuromuscular System
-  book_page: 56
-  pdf_page: 56
+  book_page: 58
+  pdf_page: 58
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
-relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+relationships:
+- predicate: is_a
+  target: concept.slow_twitch_muscle_fiber
+definition: 'A type of muscle fiber classified by histochemical staining for myosin
+  ATPase content, also known as slow-twitch.
 
   '
 attributes: []
 purpose: []
 related_concepts:
-- concept.muscle_fiber
-- concept.acetylcholine_receptor
+- concept.type_iia_muscle_fiber
+- concept.type_iix_muscle_fiber

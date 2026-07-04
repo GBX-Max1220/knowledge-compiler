@@ -1,6 +1,6 @@
-id: concept.sarcolemma
+id: concept.t_tubule
 type: Concept
-canonical_name: Sarcolemma
+canonical_name: T-tubule
 semantic_type: Anatomical Structure
 aliases: []
 source:
@@ -18,11 +18,12 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+definition: 'Structures that action potentials continue down to eventually catalyze
+  the release of calcium from the sarcoplasmic reticulum.
 
   '
 attributes: []
 purpose: []
 related_concepts:
-- concept.muscle_fiber
-- concept.acetylcholine_receptor
+- concept.sarcoplasmic_reticulum
+- concept.action_potential

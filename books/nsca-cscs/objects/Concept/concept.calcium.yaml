@@ -1,7 +1,7 @@
-id: concept.sarcolemma
+id: concept.calcium
 type: Concept
-canonical_name: Sarcolemma
-semantic_type: Anatomical Structure
+canonical_name: Calcium
+semantic_type: Molecule
 aliases: []
 source:
   book: Essentials of Strength Training and Conditioning
@@ -18,11 +18,12 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+definition: 'A molecule released from the sarcoplasmic reticulum that allows for actin-myosin
+  crossbridging to occur.
 
   '
 attributes: []
 purpose: []
 related_concepts:
-- concept.muscle_fiber
-- concept.acetylcholine_receptor
+- concept.sarcoplasmic_reticulum
+- concept.actin_myosin_crossbridge

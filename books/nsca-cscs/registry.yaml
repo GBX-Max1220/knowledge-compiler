@@ -1,42 +1,91 @@
 registry:
   A-band: concept.a_band
+  Acetylcholine: concept.acetylcholine
+  Acetylcholine Receptor: concept.acetylcholine_receptor
   Actin: concept.actin
+  Actin-Myosin Crossbridge: concept.actin_myosin_crossbridge
   Action Potential: concept.action_potential
+  All-or-None Principle: concept.all_or_none_principle
   Appendicular Skeleton: concept.appendicular_skeleton
+  Atrioventricular Bundle: concept.atrioventricular_bundle
+  Atrioventricular Node: concept.atrioventricular_node
+  Atrium: concept.atrium
   Axial Skeleton: concept.axial_skeleton
   Biaxial Joint: concept.biaxial_joint
+  Calcium: concept.calcium
+  Cardiovascular System: concept.cardiovascular_system
   Cartilaginous Joint: concept.cartilaginous_joint
   Cervical Vertebra: concept.cervical_vertebra
   Coccygeal Vertebra: concept.coccygeal_vertebra
+  Conduction System: concept.conduction_system
   Crossbridge: concept.crossbridge
+  Diastole: concept.diastole
   Endomysium: concept.endomysium
   Epimysium: concept.epimysium
+  Extrafusal Fiber: concept.extrafusal_fiber
   Fasciculus: concept.fasciculus
+  Fast-Twitch Motor Unit: concept.fast_twitch_motor_unit
+  Fast-Twitch Muscle Fiber: concept.fast_twitch_muscle_fiber
+  Fast-Twitch/Fatigable Motor Unit: concept.fast_twitch_fatigable_motor_unit
+  Fast-Twitch/Fatigue-Resistant Motor Unit: concept.fast_twitch_fatigue_resistant_motor_unit
   Fibrous Joint: concept.fibrous_joint
+  Fused Tetanic Contraction: concept.fused_tetanic_contraction
   H-zone: concept.h_zone
+  Heart: concept.heart
   I-band: concept.i_band
+  Internodal Pathways: concept.internodal_pathways
+  Intrafusal Fiber: concept.intrafusal_fiber
   Joint: concept.joint
+  Kinesthetic Sense: concept.kinesthetic_sense
+  Left Bundle Branch: concept.left_bundle_branch
   Lumbar Vertebra: concept.lumbar_vertebra
   M-line: concept.m_line
+  Maximal Tetanic Force: concept.maximal_tetanic_force
+  Motor Neuron: concept.motor_neuron
   Motor Unit: concept.motor_unit
+  Motor Unit Firing Frequency: concept.motor_unit_firing_frequency
+  Motor Unit Recruitment: concept.motor_unit_recruitment
   Multiaxial Joint: concept.multiaxial_joint
   Muscle Fiber: concept.muscle_fiber
+  Muscle Spindle: concept.muscle_spindle
+  Myocardium: concept.myocardium
   Myofibril: concept.myofibril
   Myosin: concept.myosin
+  Myosin ATPase: concept.myosin_atpase
+  Myosin Heavy Chain Isoform: concept.myosin_heavy_chain_isoform
   Neuromuscular Junction: concept.neuromuscular_junction
+  Neuromuscular System: concept.neuromuscular_system
   Perimysium: concept.perimysium
   Periosteum: concept.periosteum
+  Proprioception: concept.proprioception
+  Proprioceptor: concept.proprioceptor
+  Purkinje Fibers: concept.purkinje_fibers
+  Right Bundle Branch: concept.right_bundle_branch
   Sacral Vertebra: concept.sacral_vertebra
   Sarcolemma: concept.sarcolemma
   Sarcomere: concept.sarcomere
   Sarcoplasm: concept.sarcoplasm
   Sarcoplasmic Reticulum: concept.sarcoplasmic_reticulum
+  Sinoatrial Node: concept.sinoatrial_node
+  Size Principle: concept.size_principle
   Skeletal Muscle: concept.skeletal_muscle
   Skeletal System: concept.skeletal_system
   Sliding-Filament Theory: concept.sliding_filament_theory
+  Slow-Twitch Motor Unit: concept.slow_twitch_motor_unit
+  Slow-Twitch Muscle Fiber: concept.slow_twitch_muscle_fiber
   Synovial Joint: concept.synovial_joint
+  Systole: concept.systole
+  T-tubule: concept.t_tubule
   Tendon: concept.tendon
   Thoracic Vertebra: concept.thoracic_vertebra
+  Twitch: concept.twitch
+  Twitch Summation: concept.twitch_summation
+  Type I Muscle Fiber: concept.type_i_muscle_fiber
+  Type IIa Muscle Fiber: concept.type_iia_muscle_fiber
+  Type IIx Muscle Fiber: concept.type_iix_muscle_fiber
+  Unfused Tetanic Contraction: concept.unfused_tetanic_contraction
   Uniaxial Joint: concept.uniaxial_joint
+  Valves: concept.valves
+  Ventricle: concept.ventricle
   Vertebral Column: concept.vertebral_column
   Z-line: concept.z_line

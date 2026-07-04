@@ -1,7 +1,7 @@
-id: concept.sarcolemma
+id: concept.acetylcholine_receptor
 type: Concept
-canonical_name: Sarcolemma
-semantic_type: Anatomical Structure
+canonical_name: Acetylcholine Receptor
+semantic_type: Molecule
 aliases: []
 source:
   book: Essentials of Strength Training and Conditioning
@@ -18,11 +18,12 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+definition: 'Receptors present on the sarcolemma of muscle fibers that are activated
+  by secreted acetylcholine.
 
   '
 attributes: []
 purpose: []
 related_concepts:
-- concept.muscle_fiber
-- concept.acetylcholine_receptor
+- concept.sarcolemma
+- concept.acetylcholine

@@ -53,7 +53,11 @@ SCHEMA_TYPES = {
 SEMANTIC_TYPES = {
     "Concept": ["Activity", "Entity", "Property", "Evidence",
                 "AnatomicalStructure", "AnatomicalSystem",
-                "PhysiologicalProcess", "Protein", "Theory"],
+                "PhysiologicalProcess", "Protein", "Theory",
+                "Anatomical Structure", "Anatomical System",
+                "Body System", "Cell", "Molecular Process",
+                "Molecule", "Organ", "Physiological Process",
+                "Principle", "Tissue"],
     "Threshold": ["Range", "Cutoff"],
     "TableRow": ["TableRow"],
     "Procedure": ["Protocol", "Process"],

@@ -1,6 +1,6 @@
-id: concept.sarcolemma
+id: concept.muscle_spindle
 type: Concept
-canonical_name: Sarcolemma
+canonical_name: Muscle Spindle
 semantic_type: Anatomical Structure
 aliases: []
 source:
@@ -10,19 +10,22 @@ source:
   chapter_title: Structure and Function of Body Systems
   section: '01.02'
   section_title: Neuromuscular System
-  book_page: 56
-  pdf_page: 56
+  book_page: 65
+  pdf_page: 65
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
-relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+relationships:
+- predicate: is_a
+  target: concept.proprioceptor
+definition: 'Proprioceptors that consist of several modified muscle fibers enclosed
+  in a sheath of connective tissue.
 
   '
 attributes: []
 purpose: []
 related_concepts:
-- concept.muscle_fiber
-- concept.acetylcholine_receptor
+- concept.intrafusal_fiber
+- concept.extrafusal_fiber

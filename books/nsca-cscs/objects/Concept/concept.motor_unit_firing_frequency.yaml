@@ -1,7 +1,7 @@
-id: concept.sarcolemma
+id: concept.motor_unit_firing_frequency
 type: Concept
-canonical_name: Sarcolemma
-semantic_type: Anatomical Structure
+canonical_name: Motor Unit Firing Frequency
+semantic_type: Physiological Process
 aliases: []
 source:
   book: Essentials of Strength Training and Conditioning
@@ -10,19 +10,20 @@ source:
   chapter_title: Structure and Function of Body Systems
   section: '01.02'
   section_title: Neuromuscular System
-  book_page: 56
-  pdf_page: 56
+  book_page: 62
+  pdf_page: 62
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+definition: 'The frequency at which motor units are activated; one method of grading
+  muscular force.
 
   '
 attributes: []
 purpose: []
 related_concepts:
-- concept.muscle_fiber
-- concept.acetylcholine_receptor
+- concept.motor_unit
+- concept.motor_unit_recruitment

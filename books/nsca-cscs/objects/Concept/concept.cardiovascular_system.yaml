@@ -1,0 +1,45 @@
+id: concept.cardiovascular_system
+type: Concept
+canonical_name: Cardiovascular System
+semantic_type: Body System
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.03'
+  section_title: Cardiovascular System
+  book_page: 67
+  pdf_page: 67
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The primary roles of the cardiovascular system are to transport nutrients
+  and remove waste and by-products while assisting with maintaining the environment
+  for all the body’s functions. The cardiovascular system plays key roles in the regulation
+  of the body’s acid–base system, fluids, and temperature, as well as a variety of
+  other physiological functions.
+
+  '
+attributes:
+- transport_nutrients
+- remove_waste
+- maintain_environment
+- regulate_acid_base
+- regulate_fluids
+- regulate_temperature
+purpose:
+- transport nutrients
+- remove waste and by-products
+- maintain environment for body functions
+- regulate acid-base system
+- regulate fluids
+- regulate temperature
+related_concepts:
+- concept.heart
+- concept.blood_vessels
+- concept.blood

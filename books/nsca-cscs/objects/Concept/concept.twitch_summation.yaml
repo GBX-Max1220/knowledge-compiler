@@ -1,6 +1,6 @@
-id: concept.action_potential
+id: concept.twitch_summation
 type: Concept
-canonical_name: Action Potential
+canonical_name: Twitch Summation
 semantic_type: Physiological Process
 aliases: []
 source:
@@ -10,20 +10,21 @@ source:
   chapter_title: Structure and Function of Body Systems
   section: '01.02'
   section_title: Neuromuscular System
-  book_page: 56
-  pdf_page: 56
+  book_page: 57
+  pdf_page: 57
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'An electrochemical signal that travels along a motor neuron from the
-  cell body to the nerve terminal.
+definition: 'If a second twitch is elicited from the motor neuron before the innervated
+  muscle fibers completely relax, forces generated from the two twitches summate,
+  resulting in a greater force relative to that which is produced by a single twitch.
 
   '
 attributes: []
 purpose: []
 related_concepts:
-- concept.motor_neuron
-- concept.neuromuscular_junction
+- concept.twitch
+- concept.motor_unit

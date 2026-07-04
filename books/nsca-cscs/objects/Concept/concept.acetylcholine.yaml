@@ -1,7 +1,7 @@
-id: concept.sarcolemma
+id: concept.acetylcholine
 type: Concept
-canonical_name: Sarcolemma
-semantic_type: Anatomical Structure
+canonical_name: Acetylcholine
+semantic_type: Molecule
 aliases: []
 source:
   book: Essentials of Strength Training and Conditioning
@@ -18,11 +18,11 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+definition: 'A neurotransmitter that is secreted at each of the neuromuscular junctions
+  contained within the motor unit.
 
   '
 attributes: []
 purpose: []
 related_concepts:
-- concept.muscle_fiber
-- concept.acetylcholine_receptor
+- concept.neuromuscular_junction
