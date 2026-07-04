@@ -159,7 +159,7 @@ def validate_syntax(report, objects):
             continue
         
         # Source must have required fields
-        src = doc.get("source", {})
+        src = doc.get("source", {}) or {}
         for sf in ["book", "chapter", "section", "book_page"]:
             if not src.get(sf):
                 report.add_issue("1_syntax", f"{doc['id']}: missing source.{sf}")
@@ -181,7 +181,7 @@ def validate_schema(report, objects):
         for field in schema["required"]:
             val = doc.get(field)
             if val is None or (isinstance(val, (list, dict)) and len(val) == 0):
-                report.add_issue("2_schema", f"{doc['id']}: required field '{field}' is empty for type {obj_type}",
+                report.add_issue("2_schema", f"{doc.get('id', '?')}: required field '{field}' is empty for type {obj_type}",
                     severity="warn")
         
         # Validate semantic_type
@@ -470,7 +470,9 @@ def main():
     args = parser.parse_args()
     
     base_dir = os.getcwd()
-    book_dir = os.path.join(base_dir, "books", args.book)
+    book_dir = os.path.join(base_dir, "sources", "books", args.book)
+    if not os.path.exists(book_dir):
+        book_dir = os.path.join(base_dir, "books", args.book)
     
     if not os.path.exists(book_dir):
         print(f"ERROR: Book directory not found: {book_dir}")

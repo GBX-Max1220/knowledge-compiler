@@ -363,7 +363,9 @@ def main():
     args = parser.parse_args()
     
     base_dir = os.getcwd()
-    book_dir = os.path.join(base_dir, "books", args.book)
+    book_dir = os.path.join(base_dir, "sources", "books", args.book)
+    if not os.path.exists(book_dir):
+        book_dir = os.path.join(base_dir, "books", args.book)
     manifest_path = os.path.join(book_dir, "manifest.yaml")
     
     if not os.path.exists(manifest_path):

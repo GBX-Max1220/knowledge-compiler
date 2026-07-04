@@ -93,6 +93,10 @@ Every query returns an **object** — typed, sourced, validated — not generate
 | Formula | 3 | Cooper 12-min run, body density (Jackson-Pollock), % body fat (Siri) |
 | **Total** | **74** | **ACSM 12th Ed., Chapters 1–3** |
 
+> **Benchmark note:** Phase 0 results (10 questions) have a confidence interval width of ~30pp due to small sample size.
+> Results show a large effect size (KC 100% vs RAG 38%), but individual question-level variation is high.
+> Phase 2 (25 questions, cross-book) has improved statistical reliability.
+
 > **Scope note:** v0.1 is validated on ACSM 12th Ed., Chapters 1–3. The ontology and pipeline are designed to be domain-agnostic, but cross-domain generalization (e.g., chemistry, law) has not yet been tested.
 
 ---
@@ -131,6 +135,9 @@ Knowledge Compiler is a **complement to RAG, not a replacement**. The typed obje
 ## Validation
 
 Every object passes 5 layers. Validation is **deterministic and fully automated** — no LLM judges, no probabilistic scoring.
+
+> **Auto-review rate: 100%** — All objects are structurally validated but content accuracy has not been manually reviewed.
+> v0.2 target: Introduce spot-check sampling for content correctness.
 
 > 📖 See [`docs/knowledge-ir.md`](docs/knowledge-ir.md) for the formal definition of Knowledge IR.
 
@@ -177,21 +184,25 @@ python demo.py
 
 # Validate the objects
 python scripts/validate.py --book acsm12
+    python scripts/validate.py --book nsca-cscs
+
+Then query the Skill API:
+
+```python
+from knowledge_compiler import Skill
+
+skill = Skill("sources/books/acsm12")
 
 # List all registered concepts
-python -c "
-import yaml, os
-reg = yaml.safe_load(open('books/acsm12/registry.yaml'))
-for name, oid in sorted(reg['registry'].items()):
-    print(f'{name:40s} → {oid}')
-"
+for name in sorted(skill.registry):
+    print(f"{name:40s} → {skill.registry[name]}")
 ```
 
 ### Running the full pipeline
 
 The pipeline stages (chunk, extract, normalize) use an AI provider to generate objects from textbook content. Two options:
 
-- **Reasonix CLI** — default provider. Install separately as `reasonix` and run `python scripts/run_queue.py books/acsm12`
+- **Reasonix CLI** — default provider. Install separately as `reasonix` and run `python scripts/run_queue.py nsca-cscs`
 - **OpenAI** — set `OPENAI_API_KEY` and pass `--provider openai` to the compiler
 
 ---

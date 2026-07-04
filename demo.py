@@ -14,7 +14,7 @@ import sys
 import yaml
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-OBJECTS = os.path.join(ROOT, "books", "acsm12", "objects")
+OBJECTS = os.path.join(ROOT, "sources", "books", "acsm12", "objects")
 
 
 def load(oid, type_dir):

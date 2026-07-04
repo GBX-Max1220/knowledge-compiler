@@ -119,7 +119,9 @@ def main():
     
     book = sys.argv[1]
     stage = sys.argv[2]
-    book_dir = os.path.join(BASE, "books", book)
+    book_dir = os.path.join(BASE, "sources", "books", book)
+    if not os.path.exists(book_dir):
+        book_dir = os.path.join(BASE, "books", book)
     
     from compiler.queue import TaskQueue
     queue = TaskQueue(book_dir)

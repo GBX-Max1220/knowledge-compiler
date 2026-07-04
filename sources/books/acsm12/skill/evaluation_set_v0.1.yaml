@@ -1,0 +1,197 @@
+# Evaluation Set v0.1 — ACSM Exercise Science Assistant
+
+> 25 questions covering Concept, Threshold, Procedure, Recommendation, Warning, and Formula types.
+> Expected answers are grounded in the 74 objects from Chapters 1-3.
+
+## Section A: Concept Definitions (Q1-Q5)
+
+### Q1
+**Question:** What is the difference between physical activity and exercise?
+**Type:** Concept
+**Object:** `concept.physical_activity`, `concept.exercise`
+**Expected:** PA is any bodily movement produced by skeletal muscle contraction increasing caloric expenditure. Exercise is a subset of PA that is planned, structured, and repetitive, done to improve/maintain physical fitness.
+
+### Q2
+**Question:** What is a MET and how is it defined?
+**Type:** Concept
+**Object:** `concept.met`
+**Expected:** One MET is equivalent to resting metabolic rate (~3.5 mL·kg⁻¹·min⁻¹) or the amount of oxygen consumed while sitting at rest.
+
+### Q3
+**Question:** What are the health-related components of physical fitness?
+**Type:** Concept
+**Object:** `concept.health_related_physical_fitness`
+**Expected:** Cardiorespiratory endurance, body composition, muscular strength, muscular endurance, and flexibility.
+
+### Q4
+**Question:** What is sedentary behavior?
+**Type:** Concept
+**Object:** `concept.sedentary_behavior`
+**Expected:** Any waking behavior characterized by an energy expenditure of ≤1.5 METs while in a sitting, reclining, or lying posture.
+
+### Q5
+**Question:** What is VO2max?
+**Type:** Concept
+**Object:** `concept.vo2max`
+**Expected:** The greatest rate at which oxygen can be consumed during exhaustive exercise; the best measure of cardiorespiratory fitness; recognized by AHA as a clinical vital sign.
+
+---
+
+## Section B: Threshold Classification (Q6-Q10)
+
+### Q6
+**Question:** If someone has a BMI of 27, how is this classified?
+**Type:** Threshold
+**Object:** `threshold.bmi_classification`
+**Expected:** Overweight (25.0-29.9 kg·m⁻²).
+
+### Q7
+**Question:** A client's blood pressure is 145/95 mm Hg. How is this classified?
+**Type:** Threshold
+**Object:** `threshold.blood_pressure_classification`
+**Expected:** Hypertension Stage 1 (SBP 140-159 or DBP 90-99).
+
+### Q8
+**Question:** Walking at 3.0 METs — what intensity category does this fall into?
+**Type:** Threshold
+**Object:** `threshold.met.moderate`
+**Expected:** Moderate intensity (3.0-5.9 METs).
+
+### Q9
+**Question:** A male client has a waist circumference of 105 cm. What is the disease risk?
+**Type:** Threshold
+**Object:** `threshold.waist_circumference`
+**Expected:** Increased disease risk (>102 cm for men).
+
+### Q10
+**Question:** What are the ACSM body fat percentage ranges for a female athlete?
+**Type:** Threshold
+**Object:** `threshold.body_fat_percent_women`
+**Expected:** Athletes: 14-20%.
+
+---
+
+## Section C: Procedure Knowledge (Q11-Q15)
+
+### Q11
+**Question:** How do you measure resting blood pressure?
+**Type:** Procedure
+**Object:** `procedure.resting_blood_pressure`
+**Expected:** 10-step procedure: seated quietly 5 min, no smoking/caffeine 30 min prior, appropriate cuff size, SBP at first Korotkoff sound, DBP at disappearance.
+
+### Q12
+**Question:** What are the absolute indications for terminating an exercise test?
+**Type:** Procedure
+**Object:** `procedure.test_termination`
+**Expected:** Drop in SBP ≥10 mm Hg despite increased workload, moderate-to-severe angina, CNS symptoms, signs of poor perfusion, sustained ventricular tachycardia.
+
+### Q13
+**Question:** How do you determine a 1-RM?
+**Type:** Procedure
+**Object:** `procedure.one_rm_testing`
+**Expected:** Familiarization session, warm-up, initial weight at 50-70% perceived capacity, 4 trials max with 3-5 min rest between, progressively increase until failure.
+
+### Q14
+**Question:** What is the YMCA cycle ergometer protocol?
+**Type:** Procedure
+**Object:** `procedure.ymca_cycle_protocol`
+**Expected:** Multistage submaximal test using 2-4 three-minute stages. Initial workload 150 kg·m·min⁻¹ (25W) or 300 kg·m·min⁻¹ (50W), increase based on HR response.
+
+### Q15
+**Question:** How does the ACSM screening algorithm work?
+**Type:** Procedure
+**Object:** `procedure.acsm_screening_algorithm`
+**Expected:** Classify by current PA participation, assess for known disease, assess for signs/symptoms, determine desired exercise intensity, determine medical clearance need.
+
+---
+
+## Section D: Recommendation Knowledge (Q16-Q19)
+
+### Q16
+**Question:** What is the current aerobic PA recommendation for adults?
+**Type:** Recommendation
+**Object:** `recommendation.pag_acsa_primary_2018`
+**Expected:** At least 150-300 min·wk⁻¹ moderate-intensity OR 75-150 min·wk⁻¹ vigorous-intensity aerobic PA, spread throughout the week. Additional benefits beyond 300 min·wk⁻¹. Muscle strengthening ≥2 d·wk⁻¹.
+
+### Q17
+**Question:** Is the 10-minute bout requirement still in effect?
+**Type:** Recommendation
+**Object:** `recommendation.bout_duration_elimination_2018`
+**Expected:** No. The 2018 guidelines eliminated the ≥10-minute bout requirement. Bouts of any duration count.
+
+### Q18
+**Question:** Who needs medical clearance before starting exercise?
+**Type:** Recommendation
+**Object:** `recommendation.medical_clearance_exercise`
+**Expected:** Individuals who require medical clearance based on the ACSM screening algorithm — those with known disease, signs/symptoms, or risk factors combined with desired vigorous activity.
+
+### Q19
+**Question:** What is the ACSM recommendation for young athletes regarding SCD prevention?
+**Type:** Recommendation
+**Object:** `recommendation.preparticipation_screening_young`
+**Expected:** Preparticipation cardiovascular screening endorsed by IOC and AHA to reduce SCD risk.
+
+---
+
+## Section E: Warning Recognition (Q20-Q22)
+
+### Q20
+**Question:** What signs and symptoms suggest possible CV disease that should stop exercise?
+**Type:** Warning
+**Object:** `warning.signs_symptoms_cv_disease`
+**Expected:** Chest pain/discomfort, shortness of breath, dizziness/syncope, orthopnea, ankle edema, palpitations, intermittent claudication, heart murmur, unusual fatigue.
+
+### Q21
+**Question:** A client says they feel unusual chest discomfort during exercise. What should they do?
+**Type:** Warning
+**Object:** `warning.signs_symptoms_cv_disease`, `warning.cardiac_prodromal_symptoms`
+**Expected:** Stop exercise immediately and seek prompt medical care. This is a cardiac prodromal symptom.
+
+### Q22
+**Question:** What is the risk of vigorous exercise for a habitually inactive person?
+**Type:** Warning
+**Object:** `warning.scd_ami_vigorous_pa`
+**Expected:** Acute and transient increase in SCD and AMI risk during and ~1 hour after vigorous PA. Risk is 50x higher for habitually inactive vs. those who exercise vigorously ≥5 d·wk⁻¹.
+
+---
+
+## Section F: Formula Application (Q23-Q24)
+
+### Q23
+**Question:** How do you estimate VO2max from the Cooper 12-minute run test?
+**Type:** Formula
+**Object:** `formula.cooper_12min_run`
+**Expected:** VO2max (mL·kg⁻¹·min⁻¹) = (distance in meters − 504.9) / 44.73
+
+### Q24
+**Question:** What is the Siri formula for percent body fat?
+**Type:** Formula
+**Object:** `formula.percent_body_fat_siri`
+**Expected:** % body fat = (495 / body density) − 450
+
+---
+
+## Section G: Clinical Scenarios (Q25)
+
+### Q25
+**Scenario:** A 52-year-old male wants to start a vigorous exercise program. He has a BMI of 32, smokes, and has a family history of heart disease. He reports no current symptoms. What does the ACSM screening algorithm recommend?
+**Type:** Multi-object (Threshold + Procedure + Recommendation)
+**Objects:** `threshold.cvd_risk_factors`, `procedure.acsm_screening_algorithm`, `recommendation.medical_clearance_exercise`
+**Expected:** He does not currently participate in regular exercise. He has no known CV/metabolic/renal disease. He has no signs/symptoms. He has multiple CVD risk factors (age ≥45, BMI ≥30, smoker, family history). Desired intensity is vigorous. The algorithm recommends medical clearance before starting vigorous exercise.
+
+---
+
+## Scoring Rubric
+
+| Question Type | Max Points | Criteria |
+|--------------|------------|----------|
+| Concept (Q1-5) | 2 each | 1 for correct definition, 1 for source citation |
+| Threshold (Q6-10) | 2 each | 1 for correct category, 1 for numerical range |
+| Procedure (Q11-15) | 3 each | 1 for goal, 1 for key steps, 1 for source |
+| Recommendation (Q16-19) | 3 each | 1 for population, 1 for dosage, 1 for source |
+| Warning (Q20-22) | 3 each | 1 for condition, 1 for signs, 1 for action |
+| Formula (Q23-24) | 2 each | 1 for correct formula, 1 for variables |
+| Scenario (Q25) | 5 | 1 per correct factor identified + correct recommendation |
+
+**Total:** 65 points
+**Pass threshold:** 45/65 (70%)

@@ -33,8 +33,8 @@ def decompose_file(normalized_path, base_dir):
     source = parts[1]
     section_id = Path(parts[-1]).stem  # e.g. "01_02"
     
-    objects_dir = os.path.join(base_dir, "books", source, "objects")
-    registry_path = os.path.join(base_dir, "books", source, "registry.yaml")
+    objects_dir = os.path.join(base_dir, "sources", "books", source, "objects")
+    registry_path = os.path.join(base_dir, "sources", "books", source, "registry.yaml")
     
     # Read normalized file
     with open(normalized_path, "r", encoding="utf-8") as f:

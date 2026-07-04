@@ -28,7 +28,10 @@ BASE_DIR = os.getcwd()
 
 def load_book_config(book: str) -> dict:
     """Load book configuration from books/{book}/compiler.yaml or manifest.yaml."""
-    manifest_path = os.path.join(BASE_DIR, "books", book, "manifest.yaml")
+    manifest_path = os.path.join(BASE_DIR, "sources", "books", book, "manifest.yaml")
+    if not os.path.exists(manifest_path):
+        # Fallback to legacy books/ path
+        manifest_path = os.path.join(BASE_DIR, "books", book, "manifest.yaml")
     if not os.path.exists(manifest_path):
         print(f"ERROR: Book not found at books/{book}/")
         sys.exit(1)
@@ -55,7 +58,11 @@ def cmd_build(args):
     """Build command: queue tasks and prepare for execution."""
     manifest = load_book_config(args.book)
     sections = get_sections(manifest)
-    book_dir = os.path.join(BASE_DIR, "books", args.book)
+    book_dir = os.path.join(BASE_DIR, "sources", "books", args.book)
+    if not os.path.exists(book_dir):
+        book_dir = os.path.join(BASE_DIR, "sources", "books", args.book)
+    if not os.path.exists(book_dir):
+        book_dir = os.path.join(BASE_DIR, "books", args.book)
     queue = TaskQueue(book_dir)
 
     if args.init:
@@ -122,9 +129,11 @@ def cmd_build(args):
 
 def cmd_status(args):
     """Show queue status."""
-    book_dir = os.path.join(BASE_DIR, "books", args.book)
+    book_dir = os.path.join(BASE_DIR, "sources", "books", args.book)
     if not os.path.exists(book_dir):
-        print(f"Book not found: books/{args.book}")
+        book_dir = os.path.join(BASE_DIR, "books", args.book)
+    if not os.path.exists(book_dir):
+        print(f"Book not found: sources/books/{args.book}")
         sys.exit(1)
     
     queue = TaskQueue(book_dir)
@@ -133,7 +142,9 @@ def cmd_status(args):
 
 def cmd_retry(args):
     """Retry failed tasks."""
-    book_dir = os.path.join(BASE_DIR, "books", args.book)
+    book_dir = os.path.join(BASE_DIR, "sources", "books", args.book)
+    if not os.path.exists(book_dir):
+        book_dir = os.path.join(BASE_DIR, "books", args.book)
     queue = TaskQueue(book_dir)
     count = queue.retry_failed(args.stage)
     print(f"Reset {count} failed tasks to pending.")
@@ -142,9 +153,11 @@ def cmd_retry(args):
 
 def cmd_validate(args):
     """Run validation and print report."""
-    book_dir = os.path.join(BASE_DIR, "books", args.book)
+    book_dir = os.path.join(BASE_DIR, "sources", "books", args.book)
     if not os.path.exists(book_dir):
-        print(f"Book not found: books/{args.book}")
+        book_dir = os.path.join(BASE_DIR, "books", args.book)
+    if not os.path.exists(book_dir):
+        print(f"Book not found: sources/books/{args.book}")
         sys.exit(1)
     
     report = run_validation(book_dir)
@@ -163,7 +176,9 @@ def cmd_validate(args):
 
 def cmd_release(args):
     """Tag a release for a book."""
-    book_dir = os.path.join(BASE_DIR, "books", args.book)
+    book_dir = os.path.join(BASE_DIR, "sources", "books", args.book)
+    if not os.path.exists(book_dir):
+        book_dir = os.path.join(BASE_DIR, "books", args.book)
     version = args.version
     
     release_dir = os.path.join(book_dir, "releases", version)
