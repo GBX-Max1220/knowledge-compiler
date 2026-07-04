@@ -1,0 +1,385 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.upper_body_plyometric_drills
+type: Procedure
+canonical_name: Upper Body Plyometric Drills — Exercise Descriptions
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1311
+  pdf_page: 1311
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Upper Body Plyometric Drills — Exercise Descriptions.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.cycled_split_squat_jump
+type: Procedure
+canonical_name: Cycled Split Squat Jump
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1311
+  pdf_page: 1311
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: procedure.upper_body_plyometric_drills
+
+definition: >
+  Intensity level: Medium. Direction: Vertical. Starting position: Get into a lunge position with one leg forward (hip and knee joints flexed approximately 90 degrees) and the other behind the midline of the body. Arm action: Double arm or none. Preparatory movement: Begin with a countermovement. Upward movement: Explosively jump up, using the arms to assist as needed. While off the ground, switch the position of the legs. Maximum height and power should be emphasized. Downward movement: Dorsiflex the ankle of the lead landing leg in preparation for an active flat-foot landing. When landing, maintain the lunge position (opposite leg forward) and immediately repeat the jump. Be sure not to absorb ground reaction force and sink too deep into the lunge, because the SSC may not be able to effectively contribute to subsequent jumps.
+
+attributes:
+  - intensity_level: Medium
+  - direction: Vertical
+  - starting_position: lunge position with one leg forward (hip and knee joints flexed approximately 90 degrees) and the other behind the midline of the body
+  - arm_action: Double arm or none
+  - preparatory_movement: countermovement
+  - upward_movement: Explosively jump up, using the arms to assist as needed. While off the ground, switch the position of the legs. Maximum height and power should be emphasized.
+  - downward_movement: Dorsiflex the ankle of the lead landing leg in preparation for an active flat-foot landing. When landing, maintain the lunge position (opposite leg forward) and immediately repeat the jump. Be sure not to absorb ground reaction force and sink too deep into the lunge, because the SSC may not be able to effectively contribute to subsequent jumps.
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.tuck_hop
+type: Procedure
+canonical_name: Tuck Hop
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1312
+  pdf_page: 1312
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: procedure.upper_body_plyometric_drills
+
+definition: >
+  Intensity level: High. Direction: Vertical. Starting position: Get into a comfortable, upright stance on one foot. The non-hopping leg is held in a stationary position with the knee flexed during the exercise. Arm action: Double arm. Preparatory movement: Begin with a countermovement. Upward movement: Explosively hop up. Pull the knee of the hopping leg to the chest, grasp the knee with both hands, and release before landing. Downward movement: Dorsiflex the ankles in preparation for an active flat-foot landing. Land in the starting position, and immediately repeat the jump using the same leg. Complete a set, then repeat with the opposite leg after a brief rest.
+
+attributes:
+  - intensity_level: High
+  - direction: Vertical
+  - starting_position: comfortable, upright stance on one foot. The non-hopping leg is held in a stationary position with the knee flexed during the exercise
+  - arm_action: Double arm
+  - preparatory_movement: countermovement
+  - upward_movement: Explosively hop up. Pull the knee of the hopping leg to the chest, grasp the knee with both hands, and release before landing
+  - downward_movement: Dorsiflex the ankles in preparation for an active flat-foot landing. Land in the starting position, and immediately repeat the jump using the same leg. Complete a set, then repeat with the opposite leg after a brief rest
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.pike_jump
+type: Procedure
+canonical_name: Pike Jump
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1313
+  pdf_page: 1313
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: procedure.upper_body_plyometric_drills
+
+definition: >
+  Intensity level: Medium. Direction: Vertical. Starting position: Get into a comfortable, upright stance with feet hip-width apart. Arm action: Double arm. Preparatory movement: Begin with a countermovement. Upward movement: Explosively jump up. Keeping the legs straight and together, try to lift them to the front and try to touch the toes with the hands. Downward movement: Land in the starting position, and immediately repeat the jump.
+
+attributes:
+  - intensity_level: Medium
+  - direction: Vertical
+  - starting_position: comfortable, upright stance with feet hip-width apart
+  - arm_action: Double arm
+  - preparatory_movement: countermovement
+  - upward_movement: Explosively jump up. Keeping the legs straight and together, try to lift them to the front and try to touch the toes with the hands
+  - downward_movement: Land in the starting position, and immediately repeat the jump
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.vertical_jump
+type: Procedure
+canonical_name: Vertical Jump
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1314
+  pdf_page: 1314
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: procedure.upper_body_plyometric_drills
+
+definition: >
+  Intensity level: Low. Direction: Vertical. Starting position: Get into a comfortable, upright stance with feet hip-width apart. Arm action: Double arm. Preparatory movement: Begin with a countermovement. Upward movement: Explosively jump up, using both arms to assist, and reach for a target. Downward movement: Dorsiflex the ankles in preparation for an active flat-foot landing. (Note: The second photo does not yet show the feet in the ideal position for landing, because the athlete is still rising.) Land in the starting position, and immediately repeat the action for repetitions.
+
+attributes:
+  - intensity_level: Low
+  - direction: Vertical
+  - starting_position: comfortable, upright stance with feet hip-width apart
+  - arm_action: Double arm
+  - preparatory_movement: countermovement
+  - upward_movement: Explosively jump up, using both arms to assist, and reach for a target
+  - downward_movement: Dorsiflex the ankles in preparation for an active flat-foot landing. (Note: The second photo does not yet show the feet in the ideal position for landing, because the athlete is still rising.) Land in the starting position, and immediately repeat the action for repetitions
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.vertical_hop
+type: Procedure
+canonical_name: Vertical Hop
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1316
+  pdf_page: 1316
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: procedure.upper_body_plyometric_drills
+
+definition: >
+  Intensity level: Medium. Direction: Vertical. Starting position: Get into a comfortable, upright stance on one foot. The non-jumping leg is held in a stationary position with the knee flexed. Arm action: Double arm. Preparatory movement: Begin with a countermovement on the hopping leg. Bring the other leg behind the body. Upward movement: Explosively hop up, driving the non-hopping leg forward and up to assist momentum. Use both arms to assist, and reach for a target. Downward movement: Dorsiflex the ankle in preparation for an active flat-foot landing. Land in the starting position, and immediately repeat the action for repetitions. Repeat with the opposite leg after a brief rest.
+
+attributes:
+  - intensity_level: Medium
+  - direction: Vertical
+  - starting_position: comfortable, upright stance on one foot. The non-jumping leg is held in a stationary position with the knee flexed
+  - arm_action: Double arm
+  - preparatory_movement: countermovement on the hopping leg. Bring the other leg behind the body
+  - upward_movement: Explosively hop up, driving the non-hopping leg forward and up to assist momentum. Use both arms to assist, and reach for a target
+  - downward_movement: Dorsiflex the ankle in preparation for an active flat-foot landing. Land in the starting position, and immediately repeat the action for repetitions. Repeat with the opposite leg after a brief rest
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.jump_over_barrier
+type: Procedure
+canonical_name: Jump Over Barrier
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1317
+  pdf_page: 1317
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: procedure.upper_body_plyometric_drills
+
+definition: >
+  Intensity level: Medium. Direction: Horizontal and vertical. Equipment: A barrier such as a cone or hurdle. Starting position: Get into a comfortable, upright stance with feet hip-width apart. Arm action: Double arm. Preparatory movement: Begin with a countermovement. Upward movement: Take off with a full triple extension of hips, knees, and ankles. (Note: The second photo should show the athlete in a tall position to demonstrate full triple extension after takeoff. It also does not yet show the feet in the correct position for landing.) Jump over the barrier with both legs, maximizing the height of the center of mass and using only sufficient hip and knee flexion to clear the barrier. Keep the knees and feet together without lateral deviation. Downward movement: Dorsiflex the ankles in preparation for a stable flat-foot landing. Land in the starting position and reset. Repeat until the set is complete. Note: The height of the barrier should be progressively increased (e.g., from a cone to a hurdle to a higher hurdle) as the athlete adapts to the intensity of the drill.
+
+attributes:
+  - intensity_level: Medium
+  - direction: Horizontal and vertical
+  - equipment: A barrier such as a cone or hurdle
+  - starting_position: comfortable, upright stance with feet hip-width apart
+  - arm_action: Double arm
+  - preparatory_movement: countermovement
+  - upward_movement: Take off with a full triple extension of hips, knees, and ankles. (Note: The second photo should show the athlete in a tall position to demonstrate full triple extension after takeoff. It also does not yet show the feet in the correct position for landing.) Jump over the barrier with both legs, maximizing the height of the center of mass and using only sufficient hip and knee flexion to clear the barrier. Keep the knees and feet together without lateral deviation
+  - downward_movement: Dorsiflex the ankles in preparation for a stable flat-foot landing. Land in the starting position and reset. Repeat until the set is complete
+  - note: The height of the barrier should be progressively increased (e.g., from a cone to a hurdle to a higher hurdle) as the athlete adapts to the intensity of the drill
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.standing_long_jump
+type: Procedure
+canonical_name: Standing Long Jump
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1318
+  pdf_page: 1318
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: procedure.upper_body_plyometric_drills
+
+definition: >
+  Intensity level: Low. Direction: Horizontal. Starting position: Get into a comfortable, upright stance with feet hip-width apart. Arm action: Double arm. Preparatory movement: Begin with a countermovement. Upward movement: Explosively jump forward and up, using both arms to assist, with a goal of achieving maximal horizontal distance. Downward movement: Dorsiflex the ankles in preparation for an active flat-foot landing. Land on both feet. Allow recovery time between jumps. Note: This is typically a single ballistic effort, with several repetitions in a set. However, it can be done as multiple jumps in sequence. Care should be taken so that the forward momentum of the athlete does not cause overrotation in the sagittal plane. Coach the athlete to jump up and out; otherwise the tendency is for too much horizontal momentum for the athlete to control.
+
+attributes:
+  - intensity_level: Low
+  - direction: Horizontal
+  - starting_position: comfortable, upright stance with feet hip-width apart
+  - arm_action: Double arm
+  - preparatory_movement: countermovement
+  - upward_movement: Explosively jump forward and up, using both arms to assist, with a goal of achieving maximal horizontal distance
+  - downward_movement: Dorsiflex the ankles in preparation for an active flat-foot landing. Land on both feet. Allow recovery time between jumps
+  - note: This is typically a single ballistic effort, with several repetitions in a set. However, it can be done as multiple jumps in sequence. Care should be taken so that the forward momentum of the athlete does not cause overrotation in the sagittal plane. Coach the athlete to jump up and out; otherwise the tendency is for too much horizontal momentum for the athlete to control
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.multiple_horizontal_low_hurdle_jump
+type: Procedure
+canonical_name: Multiple Horizontal Low Hurdle Jump
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Upper Body Plyometric Drills"
+  section: "19.3"
+  section_title: "Upper Body Plyometric Drills"
+  book_page: 1320
+  pdf_page: 1320
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: procedure.upper_body_plyometric_drills
+
+definition: >
+  Intensity level: Medium. Direction: Horizontal and vertical. Starting position: Get into a comfortable upright stance with feet hip-width apart. Arm action: Double arm. Preparatory movement: Begin with a countermovement. Upward movement: Jump as far forward as possible and over the first barrier. Coach the athlete to jump "upward and outward" and "get as tall as possible over the hurdle" rather than tuck jump to clear and not extend the body fully. Downward movement: Dorsiflex the ankles in preparation for an active flat-foot landing. Land in the starting position, and immediately repeat the jump, optimizing ground contact time to control impulse production. Note: A low hurdle height should encourage low flight time and lower ground contact time. The exercise can be

@@ -1,0 +1,514 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.rest_period
+type: Concept
+canonical_name: Rest Period
+semantic_type: Concept
+aliases:
+  - inter-set rest
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1252
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The time dedicated to recovery between sets and exercises.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_period_strength
+type: Recommendation
+canonical_name: Rest Period Length Based on Training Goal — Strength
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1253
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: recommendation.rest_period_length
+  - predicate: used_for
+    target: concept.strength
+recommendation_text: "Strength 2-5 min"
+rationale: ""
+supporting_evidence: []
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_period_power
+type: Recommendation
+canonical_name: Rest Period Length Based on Training Goal — Power
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1253
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: recommendation.rest_period_length
+  - predicate: used_for
+    target: concept.power
+recommendation_text: "Power (single- and multiple-effort event) 2-5 min"
+rationale: ""
+supporting_evidence: []
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_period_hypertrophy
+type: Recommendation
+canonical_name: Rest Period Length Based on Training Goal — Hypertrophy
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1253
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: recommendation.rest_period_length
+  - predicate: used_for
+    target: concept.hypertrophy
+recommendation_text: "Hypertrophy 2-3 min for multijoint exercises; 60-90 s for single-joint exercises"
+rationale: ""
+supporting_evidence: []
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_period_muscular_endurance
+type: Recommendation
+canonical_name: Rest Period Length Based on Training Goal — Muscular Endurance
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1253
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: recommendation.rest_period_length
+  - predicate: used_for
+    target: concept.muscular_endurance
+recommendation_text: "Muscular endurance ≤30 s"
+rationale: ""
+supporting_evidence: []
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_period_allocation
+type: Recommendation
+canonical_name: Rest Period Assignment Based on Relative Load and Muscle Mass
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1252
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  It is important that the strength and conditioning professional allocate rest periods based on the relative load lifted and the amount of muscle mass involved in each exercise.
+rationale: ""
+supporting_evidence: []
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.longer_rest_heavier_loads
+type: Recommendation
+canonical_name: Longer Rest Periods for Heavier Loads
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1252
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  The amount of rest between sets is strongly related to load; the heavier the loads lifted, the longer the rest periods the athlete will need between sets to safely and successfully complete the prescribed subsequent sets and to promote higher quality training.
+rationale: ""
+supporting_evidence: []
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.longer_initial_rest_poorly_conditioned
+type: Recommendation
+canonical_name: Longer Initial Rest Periods for Poorly Conditioned Athletes
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1252
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  If the athlete is not in good physical condition, rest periods initially may need to be longer than typically assigned.
+rationale: ""
+supporting_evidence: []
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_periods_strength_power
+type: Recommendation
+canonical_name: Rest Periods for Strength and Power Training
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1254
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: used_for
+    target: concept.strength
+  - predicate: used_for
+    target: concept.power
+recommendation_text: >
+  Common guidelines for rest period length range 2 to 5 minutes (50, 162, 163) because these rest periods have been shown to permit greater volumes of work (194), allow for the use of heavier loads (193), and result in greater maximal strength and power adaptations (38, 136) compared to shorter rest intervals.
+rationale: ""
+supporting_evidence:
+  - reference: "50"
+  - reference: "162"
+  - reference: "163"
+  - reference: "194"
+  - reference: "193"
+  - reference: "38"
+  - reference: "136"
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_periods_hypertrophy_training
+type: Recommendation
+canonical_name: Rest Periods for Hypertrophy Training
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1254
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: used_for
+    target: concept.hypertrophy
+recommendation_text: >
+  While rest periods for hypertrophy are typically 1.5 minutes or less, longer rest periods (i.e., 3 min) have been shown to produced greater increases in muscle hypertrophy compared to those that were shorter (i.e., 1 min) (145).
+rationale: ""
+supporting_evidence:
+  - reference: "145"
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_periods_muscular_endurance_training
+type: Recommendation
+canonical_name: Rest Periods for Muscular Endurance Training
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1255
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: used_for
+    target: concept.muscular_endurance
+recommendation_text: >
+  A muscular endurance training program has very short rest periods, often less than 30 seconds.
+rationale: ""
+supporting_evidence: []
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rest_period_strength
+type: TableRow
+canonical_name: Rest Period Length Assignments Based on the Training Goal — Strength
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1253
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.rest_period_length_assignments
+table_id: "18.15"
+table_title: "Rest Period Length Assignments Based on the Training Goal"
+row_data:
+  training_goal: "Strength"
+  rest_period_length: "2-5 min"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rest_period_power
+type: TableRow
+canonical_name: Rest Period Length Assignments Based on the Training Goal — Power
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1253
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.rest_period_length_assignments
+table_id: "18.15"
+table_title: "Rest Period Length Assignments Based on the Training Goal"
+row_data:
+  training_goal: "Power (single- and multiple-effort event)"
+  rest_period_length: "2-5 min"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rest_period_hypertrophy
+type: TableRow
+canonical_name: Rest Period Length Assignments Based on the Training Goal — Hypertrophy
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1253
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.rest_period_length_assignments
+table_id: "18.15"
+table_title: "Rest Period Length Assignments Based on the Training Goal"
+row_data:
+  training_goal: "Hypertrophy"
+  rest_period_length: "2-3 min for multijoint exercises; 60-90 s for single-joint exercises"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rest_period_muscular_endurance
+type: TableRow
+canonical_name: Rest Period Length Assignments Based on the Training Goal — Muscular Endurance
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1253
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.rest_period_length_assignments
+table_id: "18.15"
+table_title: "Rest Period Length Assignments Based on the Training Goal"
+row_data:
+  training_goal: "Muscular endurance"
+  rest_period_length: "≤30 s"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.three_minutes_rest_superior_back_squat
+type: Evidence
+canonical_name: Three Minutes Rest Superior to 30 Seconds for Back Squat Strength Gains
+semantic_type: Evidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1254
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: supports
+    target: recommendation.rest_periods_strength_power
+evidence_text: >
+  Robinson and colleagues (136) observed that, in the back squat exercise, 3 minutes of inter-set rest resulted in greater strength gains than a 30-second rest period.
+citations:
+  - reference: "136"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.longer_rest_periods_greater_hypertrophy
+type: Evidence
+canonical_name: Longer Rest Periods (3 min) Produce Greater Hypertrophy Than Shorter (1 min)
+semantic_type: Evidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.7"
+  section_title: "Step 7: Rest Periods"
+  book_page: 1254
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: supports
+    target: recommendation.rest_periods_hypertrophy_training
+evidence_text: >
+  longer rest periods (i.e., 3 min) have been shown to produced greater increases in muscle hypertrophy compared to those that were shorter (i.e., 1 min) (145).
+citations:
+  - reference: "145"

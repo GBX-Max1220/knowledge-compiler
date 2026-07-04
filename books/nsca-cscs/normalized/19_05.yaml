@@ -1,0 +1,420 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.two_hand_overhead_throw
+type: Procedure
+canonical_name: Two-Hand Overhead Throw
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1371
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric exercise involving a two-hand overhead throw of a medicine or plyometric ball against a wall or to a partner.
+
+attributes:
+  - intensity_level: Low
+  - direction: Forward and down
+  - equipment: Medicine or plyometric ball weighing 8 to 20 pounds (4-9 kg); wall or partner
+  - starting_position: Get into a comfortable, upright stance with feet hip-width apart; face the wall or partner approximately 10 feet (3 m) away. Raise the ball overhead.
+  - preparatory_movement: Begin with a countermovement (i.e., cock the arms by moving them slightly backward before the throw).
+  - arm_action: Using both arms, throw the ball to the wall or partner, keeping the elbows extended. When the wall or partner returns the ball, catch the ball and immediately repeat the throw. The partners can also bounce the ball on the ground between them for a downward movement and a catch on the rebound.
+  - common_errors:
+      - Arching the back in the start position, increasing lumbar spine involvement (rather than hip flexion) in the throwing action
+      - Not coordinating or sequencing downward throwing action so the optimal horizontal distance is not achieved
+
+purpose:
+  - Improve upper body power
+  - Improve coordination
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.rotational_throw
+type: Procedure
+canonical_name: Rotational Throw
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1372
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric exercise involving a rotational throw of a medicine or plyometric ball against a wall, initiated with a hip drive.
+
+attributes:
+  - intensity_level: Low
+  - direction: Forward through frontal plane
+  - equipment: Medicine or plyometric ball weighing 8 to 35 pounds (4-16 kg); wall
+  - starting_position: Start in a lunge stance. The front leg (with the hip, knee, and ankle aligned) should face the wall approximately 3 to 6 feet (1-2 m) away. The rear leg should be externally rotated at the hip so that the foot is flat on the ground and pointing approximately parallel to the wall. Hold the ball at waist height in front of the body.
+  - preparatory_movement: Begin with a countermovement so that the ball is brought back outside of the hip furthest from the wall and the weight is shifted to this hip. (A countermovement for plyometric throws requires cocking the arms—that is, moving the arms slightly backward before the actual throw.)
+  - arm_action: Initiate the movement with a rotational drive of the hips that continues through the trunk, bringing the ball across the body so that it gains momentum. Using both arms, complete the rotational arc of the ball so that it is released and thrown against the wall as it passes the front hip. Catch the rebound, and immediately repeat the movement.
+  - notes:
+      - This exercise can be made more of a hip-initiated movement by shifting the weight onto the rear foot and abducting the hip (frontal plane) to bring weight onto the rear foot; this variation may benefit baseball pitchers seeking more leg-driven throwing action.
+      - Golfers may find it beneficial to rotate the hip in the transverse plane (not move in the frontal plane).
+      - Both variations enable the rear hip to initiate the action and accelerate the trunk rotation.
+  - common_errors:
+      - Rotating from the lumbar spine and trunk rather than shifting weight to facilitate the hip drive
+      - Over-relying on the upper body to throw the ball compared to using the lower body and hip rotation to enable a speed multiplication effect through the trunk to achieve greater impulse on the ball
+
+purpose:
+  - Improve rotational power
+  - Improve hip-driven movement
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.single_arm_throw
+type: Procedure
+canonical_name: Single-Arm Throw
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1374
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric exercise involving a single-arm throw of a medicine or plyometric ball against a wall or to a partner.
+
+attributes:
+  - intensity_level: Medium
+  - direction: Forward
+  - equipment: Medicine or plyometric ball weighing 1 to 5 pounds (0.5-2.3 kg); wall or partner
+  - starting_position: Get into a comfortable, upright stance with feet hip-width apart; face the wall or partner approximately 10 feet (3 m) away. Raise the ball in one hand to a position of 90 degrees of shoulder abduction and 90 degrees of elbow flexion, with the arm rotated so the forearm is perpendicular to the ground.
+  - preparatory_movement: Begin with a countermovement (i.e., cock the arm by moving it slightly backward before the throw).
+  - arm_action: Using one arm, throw the ball to the wall or partner. When the wall or partner returns the ball, catch the ball and return to the starting position, allow the shoulder to externally rotate slightly, and immediately repeat the throw.
+  - notes:
+      - This drill may also be performed using a natural throwing motion.
+      - Performing the action from a half-kneeling position may help isolate the upper body action of the throwing motion.
+  - common_errors:
+      - Not achieving a stable throwing position due to lack of thoracic mobility and overcompensations through lumbar spine flexion
+      - Not throwing from the shoulder but rotating through the trunk (lumbar spine); this is likely to occur when the ball is too heavy for the athlete
+
+purpose:
+  - Improve upper body power
+  - Improve shoulder stability
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.power_drop
+type: Procedure
+canonical_name: Power Drop
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric exercise where an athlete lies supine and catches a medicine ball dropped by a partner from a box, then immediately throws it back.
+
+attributes:
+  - intensity_level: High
+  - direction: Upward
+  - equipment: Medicine or plyometric ball weighing 5 to 40 pounds (2-18 kg); partner; plyometric box 12 to 42 inches (30-107 cm) high
+  - starting_position: Lie supine on the ground with elbows extended and both shoulders in approximately 90 degrees of flexion; the head should be near the base of the box. The partner should be on the box with the medicine ball held above the athlete's arms.
+  - preparatory_movement: None
+  - arm_action: When the partner drops the ball, catch it using both arms and immediately throw the ball back up to the partner.
+  - common_errors:
+      - Catching the ball too high and absorbing the impact force, increasing the amortization phase
+      - Releasing the medicine ball too early, reducing the potential vertical impulse to the ball
+
+purpose:
+  - Improve upper body power
+  - Improve reactive strength
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.half_kneeling_overhead_medicine_ball_throw_for_distance
+type: Procedure
+canonical_name: Half-Kneeling Overhead Medicine Ball Throw for Distance
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1378
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric exercise performed from a half-kneeling position, involving an overhead throw of a medicine ball against a wall or to a partner.
+
+attributes:
+  - intensity_level: Low
+  - direction: Forward
+  - equipment: Medicine or plyometric ball weighing 5 to 30 pounds (2-14 kg); wall or partner
+  - starting_position: Start in a half-kneeling position, with the kneeling knee directly under the hip of the supporting leg and the hip and knee of the stance leg flexed to approximately 90 degrees with the hip, knee, and toe aligned. The trunk should be upright, facing the wall or partner approximately 10 feet (3 m) away (not shown). Raise the ball above the head with the elbows extended.
+  - preparatory_movement: Begin with a countermovement in the trunk as well as the arms, cocking the arms (i.e., moving the arms slightly backward, from the shoulder, before the actual throw).
+  - arm_action: Using both arms, throw the ball to the wall or partner by flexing the trunk and extending the shoulders, maintaining a straight arm position. When the wall or partner returns the ball, return to the starting position, and immediately repeat the movement.
+  - common_errors:
+      - Overextending the trunk in the start position, detrimentally increasing the involvement of the lumbar spine
+      - Producing a cross-body throwing motion (either from not having the ball directly overhead or by finishing with the hands toward one hip); this produces trunk rotation, which may increase the distance but changes the exercise from an isolated sagittal plane movement
+
+purpose:
+  - Improve upper body power
+  - Improve trunk flexion power
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.single_arm_reverse_throw
+type: Procedure
+canonical_name: Single-Arm Reverse Throw
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1380
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric exercise performed from a tall-kneeling position, involving a single-arm catch and reverse throw of a medicine ball thrown by a partner.
+
+attributes:
+  - intensity_level: Low
+  - direction: Backward
+  - equipment: Small medicine or plyometric ball weighing 2 to 30 pounds (1-14 kg); partner
+  - starting_position: Start in a tall-kneeling position, with the kneeling knee directly under the hip and the trunk upright, facing away from a partner who is standing approximately 1 to 2 feet (30-61 cm) behind the athlete. The partner starts with the ball. The athlete starts with the throwing arm raised above the head with the elbow extended.
+  - preparatory_movement: The partner throws the ball over the athlete's head so that its trajectory takes it an arm's length in front of the athlete, traveling toward the opposite knee to the raised arm.
+  - arm_action: The athlete tracks the ball in a diagonal pattern with the throwing arm and catches it with an overhand grip before it hits the ground. Once caught, the athlete keeps the elbow extended while flexing the shoulder in the diagonal pattern, moving to a release point where the ball is thrown back to the partner when the elbow is fully extended. Immediately repeat the movement.
+  - notes:
+      - Because this exercise trains smaller muscle groups involved in scapular control, large increases in implement weight can make a big difference to the intensity of the action.
+  - common_errors:
+      - Using compensatory muscle recruitments to control the shoulder and throw the ball, compromising the objective of the drill
+      - Not catching the ball with sufficient arm extension to challenge the deceleration–reacceleration moments through the rotator cuff as a dynamic shoulder stabilizer
+
+purpose:
+  - Improve scapular control
+  - Improve shoulder stability
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.viking_throw_for_height
+type: Procedure
+canonical_name: Viking Throw for Height
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1383
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric exercise involving a deep squat countermovement followed by a vertical throw of a medicine ball using triple extension.
+
+attributes:
+  - intensity_level: Low
+  - direction: Vertical
+  - equipment: Medicine or plyometric ball weighing 10 to 50 pounds (5-23 kg)
+  - starting_position: Start in an upright stance with the medicine ball held in straight arms in front of the middle of the body.
+  - preparatory_movement: Initiate a countermovement by performing a deep and rapid squat action, keeping the ball held in straight arms.
+  - arm_action: From the base of the counter movement, perform a rapid triple extension of the hips, knees, and ankles to drive the ball vertically. As the body rises, continue the upward momentum of the ball so that it is released and thrown as high as possible at the top of the triple extension.
+  - common_errors:
+      - Not optimizing leg extension and transferring power to the upper body, reducing the impulse to the medicine ball
+      - Releasing the ball too early (before full leg and trunk extension and shoulder flexion), reducing the impulse to the medicine ball
+
+purpose:
+  - Improve total body power
+  - Improve triple extension
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.medicine_ball_slam_from_single_leg_balance
+type: Procedure
+canonical_name: Medicine Ball Slam from Single-Leg Balance
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1384
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric exercise performed from a single-leg Romanian deadlift position, involving a downward slam of a medicine ball.
+
+attributes:
+  - intensity_level: Low
+  - direction: Downward
+  - equipment: Medicine or plyometric ball weighing 10 to 30 pounds (5-14 kg)
+  - starting_position: Start in a single leg Romanian deadlift position, with the trunk parallel to the ground and the hips hinged and level with one leg extended straight behind the body. The stance foot should be flat on the ground with weight distributed toward the heel. The shoulders should be flexed so the straight arms are holding the medicine ball level with the head.
+  - preparatory_movement: Initiate a small countermovement by flexing the shoulders.
+  - arm_action: Keeping the arms straight, slam the ball directly down into the ground, maintaining a stable trunk and hip position. Catch the rebound and repeat the movement, then repeat on the contralateral leg.
+  - notes:
+      - With the shoulder position, small increases in load can make a big impact on drill intensity.
+      - This drill also can be adapted to a chest-dominant pattern by starting with the ball held at the chest and slammed into the ground from there.
+  - common_errors:
+      - Not achieving a stable and balanced position at the hips to form a stable platform from which to throw the ball
+      - Hyperextending into the lumbar spine to achieve sufficient power to throw the ball to the ground rather than throwing from the shoulder
+
+purpose:
+  - Improve total body power
+  - Improve balance and stability
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.depth_push_up
+type: Procedure
+canonical_name: Depth Push-Up
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Integration"
+  section: "19.5"
+  section_title: "Program Integration"
+  book_page: 1386
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A plyometric push-up exercise where the hands start on a medicine ball, drop to the ground, and then explosively push up to return to the ball.
+
+attributes:
+  - intensity_level: Medium
