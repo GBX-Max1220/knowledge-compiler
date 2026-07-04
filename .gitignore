@@ -14,6 +14,7 @@ venv/
 # Large binary
 books/acsm12/source/*.pdf
 books/nsca-cscs/source/*.pdf
+sources/books/*/source/*.pdf
 
 # Build artifacts (regenerated on demand)
 data/
@@ -21,6 +22,8 @@ data/
 # Pipeline artifacts (regenerated on build)
 books/acsm12/.queue/
 books/acsm12/.prompts/
+sources/books/*/.queue/
+sources/books/*/.prompts/
 
 # Session artifacts
 .reasonix/
