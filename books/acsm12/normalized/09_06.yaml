@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.special_considerations
+type: Concept
+canonical_name: Special Considerations
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Special Considerations"
+  section: "9.6"
+  section_title: "Special Considerations"
+  book_page: 719
+  pdf_page: 719
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This section contains no labelable content (definitions, recommendations, procedures, thresholds, warnings, contraindications, risk factors, evidence, formulas, figures, tables, or decision rules) as defined by the allowed labels.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

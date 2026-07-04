@@ -1,6 +1,6 @@
 id: table_row.cardiorespiratory_fitness_classification
 type: TableRow
-canonical_name: Cardiorespiratory Fitness Classification (Table)
+canonical_name: Cardiorespiratory Fitness Classification Categories
 semantic_type: Classification
 aliases: []
 source:

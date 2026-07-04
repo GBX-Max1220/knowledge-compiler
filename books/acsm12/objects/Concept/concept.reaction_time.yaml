@@ -1,7 +1,7 @@
 id: concept.reaction_time
 type: Concept
 canonical_name: Reaction Time
-semantic_type: Entity
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
@@ -10,8 +10,8 @@ source:
   chapter_title: Benefits and Risks Associated With Physical Activity
   section: '1.2'
   section_title: Physical Activity and Fitness Terminology
-  book_page: 71
-  pdf_page: 71
+  book_page: 70
+  pdf_page: 70
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1

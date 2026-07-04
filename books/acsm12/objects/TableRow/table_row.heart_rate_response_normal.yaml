@@ -1,0 +1,32 @@
+id: table_row.heart_rate_response_normal
+type: TableRow
+canonical_name: Heart Rate Response Normal
+semantic_type: Clinical Finding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.10'
+  section_title: Heart Rate Response
+  book_page: 295
+  pdf_page: 295
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.heart_rate_response_during_exercise_testing
+definition: 'Normal heart rate response during exercise testing.
+
+  '
+attributes:
+- heart_rate_increases_linearly_with_workload
+- heart_rate_response_appropriate_for_given_workload
+- heart_rate_returns_to_baseline_rapidly_after_exercise
+purpose: []
+related_concepts:
+- concept.heart_rate_response_during_exercise_testing

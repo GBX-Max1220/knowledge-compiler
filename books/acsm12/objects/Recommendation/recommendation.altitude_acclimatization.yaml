@@ -1,0 +1,29 @@
+id: recommendation.altitude_acclimatization
+type: Recommendation
+canonical_name: Altitude Acclimatization Recommendation
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.6'
+  section_title: 'Medical Considerations: Altitude Illnesses and Preexisting Conditions'
+  book_page: 532
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Gradual ascent is recommended to allow for acclimatization; above 2,500
+  m, ascent should be limited to an increase in sleeping altitude of no more than
+  500 m per day.
+
+  '
+attributes: []
+purpose:
+- allow for acclimatization
+related_concepts: []

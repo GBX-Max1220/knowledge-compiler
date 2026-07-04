@@ -1,0 +1,31 @@
+id: procedure.sternotomy_precautions_and_progression
+type: Procedure
+canonical_name: Sternotomy Precautions and Progression
+semantic_type: Clinical Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.23'
+  section_title: Sternotomy
+  book_page: 600
+  pdf_page: 600
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Sternal precautions are typically recommended for 6–8 wk after surgery
+  to allow for bone and soft tissue healing. These precautions include no pushing
+  or pulling with the upper extremities, no lifting >10 lb (4.5 kg), and no reaching
+  behind the back. After the sternum is healed, the patient can gradually progress
+  to upper-body resistance training.
+
+  '
+attributes: []
+purpose:
+- allow for bone and soft tissue healing after sternotomy
+related_concepts: []

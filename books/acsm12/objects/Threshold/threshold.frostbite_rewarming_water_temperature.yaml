@@ -1,0 +1,33 @@
+id: threshold.frostbite_rewarming_water_temperature
+type: Threshold
+canonical_name: Frostbite Rewarming Water Temperature
+semantic_type: TreatmentThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For frostbite, rewarm the affected area in warm water (37°C to 39°C;
+  98.6°F to 102.2°F) for 15 to 30 minutes.
+
+  '
+attributes:
+- threshold_type: range
+- min_value: 37°C (98.6°F)
+- max_value: 39°C (102.2°F)
+- unit: °C
+- duration: 15 to 30 minutes
+purpose: []
+related_concepts:
+- recommendation.frostbite_management

@@ -1,0 +1,654 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.anxiety
+type: Concept
+canonical_name: Anxiety
+semantic_type: EmotionalResponse
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A normal emotional response to a real or perceived threat.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.anxiety_disorders
+type: Concept
+canonical_name: Anxiety Disorders
+semantic_type: Disorder
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.anxiety
+
+definition: >
+  Anxiety disorders are characterized by excessive and persistent anxiety and related behavioral disturbances.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.panic_disorder
+type: Concept
+canonical_name: Panic Disorder
+semantic_type: Disorder
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.anxiety_disorders
+
+definition: >
+  Panic disorder is characterized by recurrent, unexpected panic attacks and fear of future attacks.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.generalized_anxiety_disorder
+type: Concept
+canonical_name: Generalized Anxiety Disorder
+semantic_type: Disorder
+aliases:
+  - GAD
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.anxiety_disorders
+
+definition: >
+  Generalized anxiety disorder (GAD) is characterized by excessive, uncontrollable worry about a number of events or activities.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.social_anxiety_disorder
+type: Concept
+canonical_name: Social Anxiety Disorder
+semantic_type: Disorder
+aliases:
+  - Social Phobia
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.anxiety_disorders
+
+definition: >
+  Social anxiety disorder (social phobia) is characterized by marked fear or anxiety about social situations in which the individual is exposed to possible scrutiny by others.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.specific_phobia
+type: Concept
+canonical_name: Specific Phobia
+semantic_type: Disorder
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.anxiety_disorders
+
+definition: >
+  Specific phobia is characterized by marked fear or anxiety about a specific object or situation.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.agoraphobia
+type: Concept
+canonical_name: Agoraphobia
+semantic_type: Disorder
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.anxiety_disorders
+
+definition: >
+  Agoraphobia is characterized by marked fear or anxiety about being in situations from which escape might be difficult or help might not be available.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_for_anxiety_disorders
+type: Recommendation
+canonical_name: Exercise Prescription for Anxiety Disorders
+semantic_type: Treatment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Exercise training is recommended as an adjunctive treatment for anxiety disorders.
+
+rationale: ""
+
+population: "individuals with anxiety disorders"
+
+modality: ""
+
+intensity: ""
+
+frequency: ""
+
+duration: ""
+
+volume: ""
+
+progression: ""
+
+special_considerations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_modality_for_anxiety
+type: Recommendation
+canonical_name: Exercise Modality for Anxiety
+semantic_type: Treatment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_for_anxiety_disorders
+
+recommendation_text: >
+  Both aerobic and resistance exercise have been shown to be effective.
+
+rationale: ""
+
+population: ""
+
+modality: "aerobic and resistance exercise"
+
+intensity: ""
+
+frequency: ""
+
+duration: ""
+
+volume: ""
+
+progression: ""
+
+special_considerations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_intensity_for_anxiety
+type: Recommendation
+canonical_name: Exercise Intensity for Anxiety
+semantic_type: Treatment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_for_anxiety_disorders
+
+recommendation_text: >
+  Moderate-intensity exercise is recommended.
+
+rationale: ""
+
+population: ""
+
+modality: ""
+
+intensity: "moderate"
+
+frequency: ""
+
+duration: ""
+
+volume: ""
+
+progression: ""
+
+special_considerations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_frequency_for_anxiety
+type: Recommendation
+canonical_name: Exercise Frequency for Anxiety
+semantic_type: Treatment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_for_anxiety_disorders
+
+recommendation_text: >
+  Exercise should be performed at least 3–5 days per week.
+
+rationale: ""
+
+population: ""
+
+modality: ""
+
+intensity: ""
+
+frequency: "3–5 days per week"
+
+duration: ""
+
+volume: ""
+
+progression: ""
+
+special_considerations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_duration_for_anxiety
+type: Recommendation
+canonical_name: Exercise Duration for Anxiety
+semantic_type: Treatment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_for_anxiety_disorders
+
+recommendation_text: >
+  Exercise sessions should last at least 20–30 minutes.
+
+rationale: ""
+
+population: ""
+
+modality: ""
+
+intensity: ""
+
+frequency: ""
+
+duration: "20–30 minutes"
+
+volume: ""
+
+progression: ""
+
+special_considerations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_program_duration_for_anxiety
+type: Recommendation
+canonical_name: Exercise Program Duration for Anxiety
+semantic_type: Treatment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_for_anxiety_disorders
+
+recommendation_text: >
+  A minimum of 8–12 weeks of exercise training is recommended to achieve clinically meaningful reductions in anxiety symptoms.
+
+rationale: ""
+
+population: ""
+
+modality: ""
+
+intensity: ""
+
+frequency: ""
+
+duration: ""
+
+volume: ""
+
+progression: ""
+
+special_considerations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.exercise_induced_anxiety
+type: Warning
+canonical_name: Exercise-Induced Anxiety
+semantic_type: AdverseEffect
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  Exercise may acutely increase anxiety symptoms in some individuals, particularly those with panic disorder.
+
+severity: ""
+
+population: "individuals with panic disorder"
+
+contraindications: []
+
+precautions:
+  - "Monitor for acute increase in anxiety symptoms"
+
+management: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_supervision_for_anxiety
+type: Recommendation
+canonical_name: Exercise Supervision for Anxiety
+semantic_type: Treatment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.9"
+  section_title: "Anxiety"
+  book_page: 972
+  pdf_page: 972
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_for_anxiety_disorders
+
+recommendation_text: >
+  Supervised exercise sessions may be beneficial for individuals with severe anxiety or panic disorder.
+
+rationale: ""
+
+population: "individuals with severe anxiety or panic disorder"
+
+modality: ""
+
+intensity: ""
+
+frequency: ""
+
+duration: ""
+
+volume: ""
+
+progression: ""
+
+special_considerations: []

@@ -1,0 +1,29 @@
+id: table_row.altitude_classification_high
+type: TableRow
+canonical_name: Altitude Classification High
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise in High-Altitude Environments
+  section: '7.2'
+  section_title: Exercise in High-Altitude Environments
+  book_page: 524
+  pdf_page: 524
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'High altitude classification.
+
+  '
+attributes:
+- altitude_classification: High
+- altitude_range: 2,500–3,500 m (8,200–11,500 ft)
+- physiological_effects: Decreased exercise performance; decreased arterial oxygen
+    saturation; acute mountain sickness possible
+related_concepts: []

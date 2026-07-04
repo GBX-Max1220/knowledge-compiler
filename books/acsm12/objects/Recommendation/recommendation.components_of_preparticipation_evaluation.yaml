@@ -1,0 +1,27 @@
+id: recommendation.components_of_preparticipation_evaluation
+type: Recommendation
+canonical_name: Components of Preparticipation Evaluation
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Preparticipation Health Screening and Risk Stratification
+  section: '10.9'
+  section_title: Preparticipation Evaluation
+  book_page: 797
+  pdf_page: 797
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The preparticipation evaluation should include a medical history, physical
+  examination, and, when indicated, diagnostic testing.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

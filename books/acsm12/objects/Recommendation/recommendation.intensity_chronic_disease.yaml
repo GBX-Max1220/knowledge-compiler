@@ -1,0 +1,42 @@
+id: recommendation.intensity_chronic_disease
+type: Recommendation
+canonical_name: Intensity of Exercise for Chronic Disease Populations
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Exercise Prescription for Individuals with Chronic Diseases and Health
+    Conditions
+  section: '10.34'
+  section_title: Exercise Prescription
+  book_page: 855
+  pdf_page: 855
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_chronic_diseases
+definition: 'Moderate-intensity aerobic exercise (40%–59% of heart rate reserve [HRR]
+  or oxygen uptake reserve [VO2R]; 64%–76% of HRmax; rating of perceived exertion
+  [RPE] 12–13 on the Borg 6–20 scale) is recommended for most individuals with chronic
+  diseases and health conditions. For those who are deconditioned or have significant
+  comorbidities, light-intensity exercise (30%–39% HRR or VO2R; 57%–63% HRmax; RPE
+  9–11) may be more appropriate initially.
+
+  '
+attributes:
+- moderate_intensity
+- light_intensity
+purpose:
+- guide intensity of aerobic exercise for chronic disease populations
+related_concepts:
+- concept.heart_rate_reserve
+- concept.oxygen_uptake_reserve
+- concept.maximum_heart_rate
+- concept.rating_of_perceived_exertion
+- concept.borg_scale

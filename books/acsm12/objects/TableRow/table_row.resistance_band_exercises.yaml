@@ -1,0 +1,38 @@
+id: table_row.resistance_band_exercises
+type: TableRow
+canonical_name: Resistance Band Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Resistance band exercises are resistance training exercises performed
+  using elastic bands or tubing that provide variable resistance throughout the range
+  of motion. The resistance increases as the band is stretched further.
+
+  '
+attributes:
+- variable_resistance
+- elastic_resistance
+- portable
+purpose:
+- provide progressive resistance training
+- improve muscular strength and endurance
+- offer portable training option
+related_concepts:
+- concept.resistance_training
+- concept.machine_exercises
+- concept.free_weight_exercises
+- concept.body_weight_exercises

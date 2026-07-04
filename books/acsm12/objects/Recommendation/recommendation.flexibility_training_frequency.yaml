@@ -1,0 +1,27 @@
+id: recommendation.flexibility_training_frequency
+type: Recommendation
+canonical_name: Flexibility Training Frequency
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.25'
+  section_title: Flexibility
+  book_page: 384
+  pdf_page: 384
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Flexibility training should be performed on at least 2–3 d·wk−1, with
+  daily training being most effective.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

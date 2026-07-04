@@ -1,0 +1,31 @@
+id: recommendation.volume_older_frail_adults
+type: Recommendation
+canonical_name: Volume Recommendation for Older or Frail Adults
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.23'
+  section_title: Volume of Resistance Training Exercise
+  book_page: 376
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'For older or frail adults, a single set of 10–15 repetitions
+  may be sufficient to improve muscular fitness.
+
+  '
+population: older or frail adults
+parameters:
+  sets: '1'
+  repetitions: 10–15
+purpose:
+- improve muscular fitness
+related_concepts: []

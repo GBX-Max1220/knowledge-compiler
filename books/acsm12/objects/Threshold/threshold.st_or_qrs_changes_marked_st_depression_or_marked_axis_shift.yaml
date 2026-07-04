@@ -1,0 +1,34 @@
+id: threshold.st_or_qrs_changes_marked_st_depression_or_marked_axis_shift
+type: Threshold
+canonical_name: ST Depression Threshold for Test Termination
+semantic_type: ECG Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Classification
+  section: '4.6'
+  section_title: Monitoring and Test Termination
+  book_page: 285
+  pdf_page: 285
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: threshold.absolute_indications_for_terminating_exercise_testing
+definition: 'ST or QRS changes such as marked ST depression (>2 mm of horizontal or
+  downsloping ST-segment depression) or marked axis shift
+
+  '
+attributes:
+- ST depression >2 mm
+- horizontal ST-segment depression
+- downsloping ST-segment depression
+- marked axis shift
+purpose:
+- terminate exercise testing
+related_concepts: []

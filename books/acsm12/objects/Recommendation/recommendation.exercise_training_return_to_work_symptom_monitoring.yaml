@@ -1,0 +1,27 @@
+id: recommendation.exercise_training_return_to_work_symptom_monitoring
+type: Recommendation
+canonical_name: Exercise Training for Return to Work — Symptom Monitoring
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.41'
+  section_title: Exercise Training for Return to Work
+  book_page: 626
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Patients should be instructed to monitor for symptoms such as chest pain,
+  shortness of breath, dizziness, or palpitations.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

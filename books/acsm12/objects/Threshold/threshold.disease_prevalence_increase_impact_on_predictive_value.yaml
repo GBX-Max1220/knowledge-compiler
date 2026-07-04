@@ -1,0 +1,31 @@
+id: threshold.disease_prevalence_increase_impact_on_predictive_value
+type: Threshold
+canonical_name: Disease Prevalence Increase Impact on Predictive Value
+semantic_type: Relationship
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.21'
+  section_title: Sensitivity, Specificity, and Predictive Value
+  book_page: 312
+  pdf_page: 312
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.disease_prevalence_decrease_impact_on_predictive_value
+definition: 'As disease prevalence increases, the positive predictive value increases
+  and the negative predictive value decreases.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.positive_predictive_value
+- concept.negative_predictive_value

@@ -1,0 +1,30 @@
+id: threshold.duke_treadmill_score_low_risk
+type: Threshold
+canonical_name: Duke Treadmill Score Low Risk
+semantic_type: Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Clinical Exercise Test Data and Prognosis
+  section: '4.22'
+  section_title: Clinical Exercise Test Data and Prognosis
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.duke_treadmill_score_moderate_risk
+definition: 'Patients are stratified into low-risk (DTS ≥5), moderate-risk (DTS –10
+  to 4), and high-risk (DTS ≤–11) categories.
+
+  '
+value: ≥5
+unit: DTS
+condition: low-risk
+interpretation: low-risk

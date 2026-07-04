@@ -1,0 +1,34 @@
+id: threshold.met.older_adult_vigorous
+type: Threshold
+canonical_name: Vigorous Intensity MET Threshold for Older Adults
+semantic_type: MET Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '6.17'
+  section_title: Older Adults
+  book_page: 464
+  pdf_page: 464
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.met.older_adult_moderate
+definition: 'For older adults, vigorous intensity physical activity is classified
+  as ≥6.0 METs.
+
+  '
+attributes:
+- vigorous intensity
+- MET threshold: ≥6.0
+purpose:
+- classify physical activity intensity for older adults
+related_concepts:
+- concept.older_adult
+- concept.met

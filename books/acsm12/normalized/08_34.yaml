@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.contraindications_exercise_training_cardiovascular_pulmonary_diseases
+type: TableRow
+canonical_name: Contraindications to Exercise Training in Patients with Cardiovascular and Pulmonary Diseases
+semantic_type: Table
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Patients with Cardiovascular and Pulmonary Diseases"
+  section: "8.34"
+  section_title: "Special Considerations"
+  book_page: 615
+  pdf_page: 615
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 8.6 Contraindications to Exercise Training in Patients with Cardiovascular and Pulmonary Diseases
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

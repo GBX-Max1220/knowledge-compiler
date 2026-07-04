@@ -1,0 +1,28 @@
+id: threshold.exercise_intensity_very_light
+type: Threshold
+canonical_name: Classification of Exercise Intensity — Very Light
+semantic_type: Intensity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Testing
+  section: '8.28'
+  section_title: Exercise Testing
+  book_page: 607
+  pdf_page: 607
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.exercise_intensity_light
+definition: 'Very light: <30% HRR/VO2R
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

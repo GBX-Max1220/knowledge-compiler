@@ -1,0 +1,41 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_prescription_in_environmental_conditions
+type: Concept
+canonical_name: Exercise Prescription in Environmental Conditions
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription"
+  section: "7.19"
+  section_title: "Exercise Prescription"
+  book_page: 560
+  pdf_page: 560
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.exercise_prescription
+
+definition: >
+  Exercise prescription for individuals exercising in environmental extremes (e.g., heat, cold, altitude, air pollution) should follow the general principles outlined in Chapter 7, with modifications to account for the specific environmental stressor.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.heat
+  - concept.cold
+  - concept.altitude
+  - concept.air_pollution

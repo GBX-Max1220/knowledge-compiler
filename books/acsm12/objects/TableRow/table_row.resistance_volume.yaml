@@ -1,0 +1,33 @@
+id: table_row.resistance_volume
+type: TableRow
+canonical_name: Resistance Volume
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Exercise Prescription
+  section: '6.19'
+  section_title: Exercise Prescription
+  book_page: 477
+  pdf_page: 477
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For resistance exercise training, the general recommendation for volume
+  is 2–4 sets per exercise, with 8–12 repetitions for muscular strength and 15–25
+  repetitions for muscular endurance.
+
+  '
+attributes:
+- volume
+- resistance
+purpose:
+- guide exercise prescription
+related_concepts:
+- concept.muscular_strength
+- concept.muscular_endurance

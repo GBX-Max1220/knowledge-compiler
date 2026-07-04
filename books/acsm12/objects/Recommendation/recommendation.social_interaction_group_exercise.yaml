@@ -1,0 +1,27 @@
+id: recommendation.social_interaction_group_exercise
+type: Recommendation
+canonical_name: Social Interaction and Group Exercise
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Incorporate social interaction and group activities when possible, as
+  these can enhance motivation and enjoyment.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

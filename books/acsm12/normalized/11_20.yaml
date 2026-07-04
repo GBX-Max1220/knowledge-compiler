@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.neurologic_disease_1
+type: TableRow
+canonical_name: "Table 11.1 Row 1"
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Neurologic Disorders"
+  section: "11.20"
+  section_title: "Future Directions"
+  book_page: 988
+  pdf_page: 988
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 11.1 — Common Neurologic Diseases, Conditions, and Disorders. This table lists common neurologic diseases, conditions, and disorders. Specific row data is not provided in the extraction.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

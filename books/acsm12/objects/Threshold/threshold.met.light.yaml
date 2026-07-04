@@ -1,7 +1,7 @@
 id: threshold.met.light
 type: Threshold
-canonical_name: Light-Intensity MET Threshold
-semantic_type: Physiological
+canonical_name: Light-Intensity PA (MET)
+semantic_type: Threshold
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
@@ -10,8 +10,8 @@ source:
   chapter_title: Benefits and Risks Associated With Physical Activity
   section: '1.2'
   section_title: Physical Activity and Fitness Terminology
-  book_page: 70
-  pdf_page: 70
+  book_page: 2
+  pdf_page: null
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
@@ -20,12 +20,11 @@ evidence_level: ''
 relationships:
 - predicate: adjacent_to
   target: threshold.met.moderate
-definition: 'Light-intensity PA is defined as 1.6–2.9 METs.
-
-  '
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+threshold_type: MET
 value: 1.6–2.9
 unit: METs
-operator: range
-context: PA intensity classification
-related_concepts:
-- concept.physical_activity
+comparison: range

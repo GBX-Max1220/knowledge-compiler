@@ -1,0 +1,38 @@
+id: table_row.neurologic_disease_general_considerations
+type: TableRow
+canonical_name: Neurologic Disease General Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Special Populations
+  section: '11.19'
+  section_title: Exercise Training Considerations for Neurologic Diseases
+  book_page: 987
+  pdf_page: 987
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'General exercise training considerations for neurologic diseases, including
+  common modifications and precautions applicable across multiple conditions.
+
+  '
+attributes:
+- disease: General Neurologic Disease
+- considerations: Individualized exercise prescription based on disease severity and
+    progression; monitor for fatigue, balance impairment, and fall risk; consider
+    medication timing and side effects; adapt environment for safety
+- recommendations: Aerobic exercise 3-5 days/week; resistance training 2-3 days/week;
+    flexibility and balance training; gradual progression; multidisciplinary approach
+    including physical therapy
+purpose:
+- guide exercise prescription for neurologic diseases
+- ensure safe and effective exercise training across conditions
+related_concepts:
+- concept.neurologic_disease
+- concept.exercise_prescription

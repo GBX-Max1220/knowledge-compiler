@@ -1,0 +1,27 @@
+id: warning.risk_of_hypothermia_from_wet_clothing
+type: Warning
+canonical_name: Risk of Hypothermia from Wet Clothing
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.14'
+  section_title: Clothing Considerations
+  book_page: 546
+  pdf_page: 546
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Wet clothing significantly increases heat loss and can increase the risk
+  of hypothermia.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,27 @@
+id: recommendation.medical_history_review
+type: Recommendation
+canonical_name: Medical History Review
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Preparticipation Health Screening and Risk Stratification
+  section: '10.9'
+  section_title: Preparticipation Evaluation
+  book_page: 797
+  pdf_page: 797
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A thorough medical history should be obtained, including review of current
+  symptoms, past medical history, family history, medication use, and lifestyle habits.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

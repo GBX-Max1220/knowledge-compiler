@@ -1,0 +1,31 @@
+id: concept.true_negative
+type: Concept
+canonical_name: True Negative
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.21'
+  section_title: Sensitivity, Specificity, and Predictive Value
+  book_page: 311
+  pdf_page: 311
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.test_outcome
+definition: 'Individuals without the disease who have a negative test result.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.true_positive
+- concept.false_positive
+- concept.false_negative

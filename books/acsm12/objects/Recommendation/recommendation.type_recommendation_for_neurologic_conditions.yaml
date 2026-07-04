@@ -1,0 +1,62 @@
+id: recommendation.type_recommendation_for_neurologic_conditions
+type: Recommendation
+canonical_name: Type Recommendation for Neurologic Conditions
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Individuals with Neurologic Diseases
+  section: '11.4'
+  section_title: Exercise Prescription
+  book_page: 965
+  pdf_page: 965
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_for_individuals_with_neurologic_diseases
+definition: 'Aerobic exercise: large muscle group activities (e.g., walking, cycling,
+  arm ergometry, aquatic exercise). Resistance exercise: free weights, weight machines,
+  resistance bands, or body-weight exercises. Flexibility exercise: static, dynamic,
+  or proprioceptive neuromuscular facilitation (PNF) stretching. Neuromotor exercise:
+  balance, agility, coordination, and gait training; tai chi; yoga; dance.
+
+  '
+attributes:
+- aerobic exercise: large muscle group activities
+- aerobic exercise examples: walking, cycling, arm ergometry, aquatic exercise
+- resistance exercise: free weights, weight machines, resistance bands, body-weight
+    exercises
+- flexibility exercise: static, dynamic, PNF stretching
+- neuromotor exercise: balance, agility, coordination, gait training
+- neuromotor exercise examples: tai chi, yoga, dance
+purpose:
+- specify type of exercise for individuals with neurologic conditions
+related_concepts:
+- concept.aerobic_exercise
+- concept.resistance_exercise
+- concept.flexibility_exercise
+- concept.neuromotor_exercise
+- concept.walking
+- concept.cycling
+- concept.arm_ergometry
+- concept.aquatic_exercise
+- concept.free_weights
+- concept.weight_machines
+- concept.resistance_bands
+- concept.body_weight_exercises
+- concept.static_stretching
+- concept.dynamic_stretching
+- concept.proprioceptive_neuromuscular_facilitation
+- concept.balance_training
+- concept.agility_training
+- concept.coordination_training
+- concept.gait_training
+- concept.tai_chi
+- concept.yoga
+- concept.dance

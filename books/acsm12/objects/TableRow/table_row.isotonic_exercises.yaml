@@ -1,0 +1,38 @@
+id: table_row.isotonic_exercises
+type: TableRow
+canonical_name: Isotonic Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Isotonic exercises are resistance training exercises in which the muscle
+  contracts and changes length while moving a constant load through a range of motion.
+  This includes both concentric (muscle shortening) and eccentric (muscle lengthening)
+  contractions.
+
+  '
+attributes:
+- constant_load
+- joint_movement
+- concentric_and_eccentric_contractions
+purpose:
+- improve muscular strength and power
+- enhance muscular endurance
+- develop functional movement patterns
+related_concepts:
+- concept.resistance_training
+- concept.isometric_exercises
+- concept.isokinetic_exercises

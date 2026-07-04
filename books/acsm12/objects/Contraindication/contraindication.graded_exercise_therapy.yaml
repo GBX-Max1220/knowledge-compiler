@@ -1,0 +1,32 @@
+id: contraindication.graded_exercise_therapy
+type: Contraindication
+canonical_name: Contraindication to Graded Exercise Therapy
+semantic_type: Clinical Contraindication
+aliases:
+- GET
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Clinical Considerations for Special Populations
+  section: '10.18'
+  section_title: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+  book_page: 831
+  pdf_page: 831
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: contraindicated_for
+  target: concept.myalgic_encephalomyelitis_chronic_fatigue_syndrome
+contraindication_text: 'Graded exercise therapy (GET), which involves systematically
+  increasing physical activity over time, is contraindicated in ME/CFS as it has been
+  shown to cause harm in this population.
+
+  '
+contraindicated_therapy: Graded exercise therapy (GET)
+reason: has been shown to cause harm in this population
+affected_population:
+- individuals with ME/CFS

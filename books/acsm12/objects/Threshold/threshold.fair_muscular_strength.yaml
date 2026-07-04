@@ -4,8 +4,8 @@ canonical_name: Fair Muscular Strength
 semantic_type: Classification
 aliases: []
 source:
-  book: ACSM Guidelines for Exercise Testing and Prescription
+  book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 3
-  section: '3.21'
-  book_page: 221
+  chapter: 1
+  section: '1.1'
+  book_page: 1

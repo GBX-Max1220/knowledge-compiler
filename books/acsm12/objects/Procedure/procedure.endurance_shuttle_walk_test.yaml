@@ -1,0 +1,40 @@
+id: procedure.endurance_shuttle_walk_test
+type: Procedure
+canonical_name: Endurance Shuttle Walk Test
+semantic_type: Assessment
+aliases:
+- ESWT
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.24'
+  section_title: Field Walking Tests
+  book_page: 318
+  pdf_page: 318
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: procedure.field_walking_test
+- predicate: based_on
+  target: procedure.incremental_shuttle_walk_test
+definition: 'The endurance shuttle walk test (ESWT) is a constant-paced test performed
+  at a predetermined percentage of the patient''s maximal performance on the ISWT.
+  The test measures the duration of walking at that intensity. The ESWT is used to
+  assess the effects of therapeutic interventions, particularly in patients with COPD.
+
+  '
+attributes:
+- constant-paced
+- intensity: predetermined percentage of maximal performance on ISWT
+purpose:
+- assess effects of therapeutic interventions
+- assess effects of therapeutic interventions in patients with COPD
+related_concepts:
+- concept.chronic_obstructive_pulmonary_disease
+- concept.copd

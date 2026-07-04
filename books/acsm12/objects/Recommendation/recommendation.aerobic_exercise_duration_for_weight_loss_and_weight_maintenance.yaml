@@ -1,0 +1,29 @@
+id: recommendation.aerobic_exercise_duration_for_weight_loss_and_weight_maintenance
+type: Recommendation
+canonical_name: Aerobic Exercise Duration for Weight Loss and Weight Maintenance
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.14'
+  section_title: Time (Duration) of Aerobic Exercise
+  book_page: 357
+  pdf_page: 357
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For weight loss and weight maintenance, longer durations of aerobic exercise
+  (i.e., >60 min·d−1) may be necessary.
+
+  '
+attributes: []
+purpose:
+- weight loss
+- weight maintenance
+related_concepts: []

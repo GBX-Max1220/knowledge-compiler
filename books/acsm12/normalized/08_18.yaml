@@ -1,0 +1,40 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.left_ventricular_assist_device
+type: Concept
+canonical_name: Left Ventricular Assist Device
+semantic_type: Device
+aliases:
+  - LVAD
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.18"
+  section_title: "Left Ventricular Assist Device"
+  book_page: 595
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A left ventricular assist device (LVAD) is a mechanical pump that is surgically implanted to support the function of a failing left ventricle.
+
+attributes: []
+
+purpose:
+  - bridge to transplant
+  - bridge to recovery
+  - destination therapy for patients with end-stage heart failure who are not candidates for heart transplantation
+
+related_concepts: []
+---

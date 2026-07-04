@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: figure.algorithm_for_prevention_and_treatment_of_heat_related_illness_during_exercise
+type: Figure
+canonical_name: Algorithm for the prevention and treatment of heat-related illness during exercise
+semantic_type: Algorithm
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: ""
+  section: "7.17"
+  section_title: "Mitigating Risk"
+  book_page: 551
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Algorithm for the prevention and treatment of heat-related illness during exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

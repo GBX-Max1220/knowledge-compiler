@@ -1,149 +1,696 @@
 registry:
   1-Repetition Maximum Testing: procedure.one_rm_testing
+  6-Minute Walk Test: procedure.6_minute_walk_test
+  ACSM Flexibility Recommendations for Healthy Adults: table_row.acsm_flexibility_recommendations
   ACSM Preparticipation Screening Logic: decision_rule.acsm_screening_algorithm
   ACSM-AHA Primary Physical Activity Recommendation: recommendation.acsm_aha_primary_pa_2007
   ACSM-AHA Strategies to Reduce Cardiac Event Risk: recommendation.acsm_aha_cardiac_event_prevention
+  Absolute Indications for Terminating Exercise Testing: threshold.absolute_indications_for_terminating_exercise_testing
+  Absolute Neutrophil Count Threshold for Exercise Avoidance in Cancer Survivors: threshold.absolute_neutrophil_count_exercise_avoidance_cancer_survivors
   Absolute SCD Risk During Vigorous PA: evidence.absolute_scd_risk_vigorous_pa
+  Acclimatized: threshold.acclimatized
+  Accommodations for Sensory Sensitivities: recommendation.accommodations_sensory_sensitivities
+  Advanced Resistance Training Frequency: table_row.advanced_resistance_training_frequency
+  Aerobic Exercise Duration Recommendation: recommendation.aerobic_exercise_duration
+  Aerobic Exercise Duration for Weight Loss and Weight Maintenance: recommendation.aerobic_exercise_duration_for_weight_loss_and_weight_maintenance
+  Aerobic Exercise Frequency for Cancer Survivors: recommendation.aerobic_exercise_frequency_cancer_survivors
+  Aerobic Exercise Intensity for Chronic Heart Failure: recommendation.aerobic_exercise_intensity_for_chronic_heart_failure
+  Aerobic Exercise Progression Rate Based on Fitness Level: threshold.aerobic_exercise_progression_rate_based_on_fitness_level
+  Aerobic Exercise Progression Rate for Higher Fitness Individuals: threshold.aerobic_exercise_progression_rate_for_higher_fitness_individuals
+  Aerobic Exercise Progression Rate for Low-to-Moderate Fitness Individuals: threshold.aerobic_exercise_progression_rate_for_low_to_moderate_fitness_individuals
+  Aerobic Exercise Time for Cancer Survivors: recommendation.aerobic_exercise_time_cancer_survivors
+  Aerobic Exercise Type for Cancer Survivors: recommendation.aerobic_exercise_type_cancer_survivors
+  Age Threshold for Older Adult Classification: threshold.age.older_adult
   Agility: concept.agility
+  Agoraphobia: concept.agoraphobia
+  Algorithm for Exercise Testing and Prescription for Individuals with Chronic Diseases and Health Conditions: figure.algorithm_exercise_testing_prescription_chronic_diseases
+  Algorithm for Exercise Testing and Prescription in COPD: concept.algorithm_for_exercise_testing_and_prescription_in_copd
+  Algorithm for the prevention and treatment of heat-related illness during exercise: figure.algorithm_for_prevention_and_treatment_of_heat_related_illness_during_exercise
   Alternative Self-Guided Method for Preparticipation Evaluation: procedure.alternative_self_guided_method_for_preparticipation_evaluation
+  Altitude Acclimatization 2300m: threshold.altitude_acclimatization_2300m
+  Altitude Acclimatization 4300m: threshold.altitude_acclimatization_4300m
+  Altitude Acclimatization Recommendation: recommendation.altitude_acclimatization
+  Altitude Acclimatization Status Categories: threshold.altitude_acclimatization_status_categories
+  Altitude Classification Extreme: table_row.altitude_classification_extreme
+  Altitude Classification High: table_row.altitude_classification_high
+  Altitude Classification Very High: table_row.altitude_classification_very_high
+  Altitude Illness Warning: warning.altitude_illness
+  Altitude Sickness Prevention and Treatment Warning: warning.altitude_sickness_prevention_and_treatment
+  Altitude Threshold for Illness Risk: threshold.altitude_illness_risk
+  Alzheimer's Disease Testing: table_row.alzheimers_disease_testing
   American College of Sports Medicine Preparticipation Screening Algorithm: figure.acsm_preparticipation_screening_algorithm
+  Angina Severity Threshold for Exercise Termination: threshold.angina_severity_exercise_termination
+  Anxiety: concept.anxiety
+  Anxiety Disorders: concept.anxiety_disorders
   Any Intensity PA Provides Benefits for Inactive: recommendation.pa_any_intensity_benefits
+  Arrhythmias Other Than Sustained Ventricular Tachycardia: threshold.arrhythmias_other_than_sustained_ventricular_tachycardia
+  Arthritis: concept.arthritis
+  Asthma Severity Classification — Intermittent: threshold.asthma_severity_intermittent
+  Asthma Severity Classification — Mild Persistent: threshold.asthma_severity_mild_persistent
+  Asthma Severity Classification — Moderate Persistent: threshold.asthma_severity_moderate_persistent
+  Asthma Severity Classification — Severe Persistent: threshold.asthma_severity_severe_persistent
+  Autism Spectrum Disorder: concept.autism_spectrum_disorder
+  Avoid Alcohol and Tobacco During Cold Exposure: recommendation.avoid_alcohol_and_tobacco_during_cold_exposure
   BMI Classification: threshold.bmi_classification
   Balance: concept.balance
+  Ballistic Stretching Warning: warning.ballistic_stretching
+  Bariatric Surgery: concept.bariatric_surgery
   Basic Principles and Guidelines: concept.basic_principles_and_guidelines
+  Beginner Resistance Training Frequency: table_row.beginner_resistance_training_frequency
   Benefits of Regular Physical Activity: concept.benefits_regular_pa
+  Benefits of Regular Physical Activity for Diabetes: recommendation.benefits_of_regular_physical_activity_for_diabetes
   Bicep Curl Test: table_row.bicep_curl_test
+  Blood Glucose Threshold for Exercise in Diabetes: threshold.blood_glucose_exercise_diabetes
   Blood Pressure Classification: threshold.blood_pressure_classification
+  Blood Pressure Response: concept.blood_pressure_response
+  Blood Pressure Threshold for Antihypertensive Medication Initiation in CKD or Diabetes: threshold.blood_pressure.antihypertensive_initiation_ckd_diabetes
+  Blood Pressure Threshold for Antihypertensive Medication Initiation in Older Adults Without CKD or Diabetes: threshold.blood_pressure.antihypertensive_initiation_older_adults
+  Blood Pressure Threshold for Exercise in Hypertension: threshold.blood_pressure_exercise_hypertension
+  Blood Pressure Threshold for Exercise in Peripheral Artery Disease: threshold.blood_pressure_exercise_peripheral_artery_disease
+  Blood Pressure Thresholds for Exercise Termination: threshold.blood_pressure_exercise_termination
   Body Composition: concept.body_composition
   Body Composition Classification Categories: table_row.body_composition_classification
   Body Composition Classification Thresholds: threshold.body_composition_classification
   Body Density from Skinfolds (Jackson-Pollock): formula.body_density_skinfolds
   Body Fat Percentage Norms for Men: threshold.body_fat_percent_men
   Body Fat Percentage Norms for Women: threshold.body_fat_percent_women
+  Body Weight Exercises: table_row.body_weight_exercises
+  Body composition: concept.body_composition
   Borg Rating of Perceived Exertion Scale: table.borg_rpe_scale
   Bout Duration Requirement Elimination: recommendation.bout_duration_elimination_2018
   Bridge Test: table_row.bridge_test
   CVD Risk Factor Thresholds: threshold.cvd_risk_factors
+  Calculating Negative Predictive Value: procedure.calculating_negative_predictive_value
+  Calculating Positive Predictive Value: procedure.calculating_positive_predictive_value
+  Calculating Sensitivity: procedure.calculating_sensitivity
+  Calculating Specificity: procedure.calculating_specificity
   Calf Raise Test: table_row.calf_raise_test
+  Cancer: concept.cancer
   Cardiac Prodromal Symptoms: warning.cardiac_prodromal_symptoms
   Cardiac Rehabilitation Complication Rates: evidence.cardiac_rehab_complication_rates
+  Cardiac and Respiratory Considerations: concept.cardiac_and_respiratory_considerations
   Cardiorespiratory Endurance: concept.cardiorespiratory_endurance
   Cardiorespiratory Fitness: concept.cardiorespiratory_fitness
+  Cardiorespiratory Fitness Category for Adults: table_row.cardiorespiratory_fitness_category_adult
   Cardiorespiratory Fitness Classification Categories: table_row.cardiorespiratory_fitness_classification
+  Cardiorespiratory Frequency: table_row.cardiorespiratory_frequency
+  Cardiorespiratory Intensity: table_row.cardiorespiratory_intensity
+  Cardiorespiratory Progression: table_row.cardiorespiratory_progression
+  Cardiorespiratory Time: table_row.cardiorespiratory_time
+  Cardiorespiratory Type: table_row.cardiorespiratory_type
+  Cardiorespiratory Volume: table_row.cardiorespiratory_volume
+  Cardiorespiratory endurance: concept.cardiorespiratory_endurance
+  Cardiovascular Autonomic Neuropathy Considerations: warning.cardiovascular_autonomic_neuropathy_considerations
+  Cerebrovascular Accident: concept.cerebrovascular_accident
+  Chilblains Risk Factors: warning.chilblains_risk_factors
   Cholesterol Classification: threshold.cholesterol_classification
+  Chronotropic Incompetence: threshold.chronotropic_incompetence
+  Classification of Aerobic Exercise Intensity Using %HRR or %VO2R: threshold.aerobic_intensity_hrr_v02r
+  Classification of Aerobic Exercise Intensity Using %HRmax: threshold.aerobic_intensity_hr_max
+  Classification of Aerobic Exercise Intensity Using METs: threshold.aerobic_intensity_mets
+  Classification of Exercise Intensity Based on HRR and VO2R: table_row.classification_exercise_intensity_hrr_vo2r
+  Classification of Exercise Intensity — Light: threshold.exercise_intensity_light
+  Classification of Exercise Intensity — Moderate: threshold.exercise_intensity_moderate
+  Classification of Exercise Intensity — Near-Maximal to Maximal: threshold.exercise_intensity_near_maximal_maximal
+  Classification of Exercise Intensity — Very Light: threshold.exercise_intensity_very_light
+  Classification of Exercise Intensity — Vigorous: threshold.exercise_intensity_vigorous
+  Classification of Physical Activity Intensity: table_row.physical_activity_intensity_classification
+  Clinical Exercise Test Data and Prognosis: procedure.clinical_exercise_test_data_and_prognosis
+  Clinical Exercise Testing: concept.clinical_exercise_testing
+  Clinical Exercise Tests With Imaging: figure.clinical_exercise_tests_with_imaging
+  Clothing Considerations for Exercise in Cold: recommendation.clothing_considerations_for_exercise_in_cold
+  Clothing Considerations for Exercise in Heat: recommendation.clothing_considerations_for_exercise_in_heat
+  Clothing Considerations for Exercise in Rain or Wind: recommendation.clothing_considerations_for_exercise_in_rain_or_wind
+  Collaboration with Healthcare Providers: recommendation.collaboration_healthcare_providers
+  Comparison of Stretching and Alternative Modalities for Increasing ROM: table_row.stretching_vs_alternatives_rom
+  Components of Preparticipation Evaluation: recommendation.components_of_preparticipation_evaluation
+  Components of the Exercise Training Session: procedure.components_of_the_exercise_training_session
   Comprehensive Health Fitness Evaluation: concept.comprehensive_health_fitness_evaluation
+  Conducting the Clinical Exercise Test: procedure.conducting_the_clinical_exercise_test
+  Considerations for Exercise Testing and Prescription for Transgender and Gender Diverse Individuals Row 1: table_row.considerations_for_exercise_testing_and_prescription_for_transgender_and_gender_diverse_individuals_1
+  Continuous ECG Monitoring During Exercise Testing: recommendation.continuous_ecg_monitoring_during_exercise_testing
+  Contraindication for Exercise in Extreme Cold: warning.contraindication_for_exercise_in_extreme_cold
+  Contraindication to Exercise in Hypertensive Crisis: contraindication.exercise_in_hypertensive_crisis
+  Contraindication to Graded Exercise Therapy: contraindication.graded_exercise_therapy
+  Contraindications to Exercise Training in Patients with Cardiovascular and Pulmonary Diseases: table_row.contraindications_exercise_training_cardiovascular_pulmonary_diseases
   Cooper 12-Minute Run Test VO2max: formula.cooper_12min_run
   Coordination: concept.coordination
+  Coronary Heart Disease: concept.coronary_heart_disease
+  Criteria for Clinical Diagnosis of the Metabolic Syndrome: table_row.criteria_for_clinical_diagnosis_of_the_metabolic_syndrome
   Curl-Up Test: table_row.curl_up_test
+  Delayed Heart Rate Response and Risk of Overexertion in Heart Transplant Recipients: warning.delayed_heart_rate_response_heart_transplant
+  Depression: concept.depression
+  Diagnostic Testing Indications: recommendation.diagnostic_testing_indications
+  Diagnostic Thresholds for Metabolic Syndrome: threshold.diagnostic_thresholds_for_metabolic_syndrome
+  Diagnostic Value of Exercise Testing for the Detection of Ischemic Heart Disease: procedure.exercise_testing_diagnostic_ischemic_heart_disease
   Dip Test: table_row.dip_test
+  Disease Prevalence Decrease Impact on Predictive Value: threshold.disease_prevalence_decrease_impact_on_predictive_value
+  Disease Prevalence Increase Impact on Predictive Value: threshold.disease_prevalence_increase_impact_on_predictive_value
+  Down Syndrome: concept.down_syndrome
+  Duke Treadmill Score Calculation: formula.duke_treadmill_score
+  Duke Treadmill Score High Risk: threshold.duke_treadmill_score_high_risk
+  Duke Treadmill Score Low Risk: threshold.duke_treadmill_score_low_risk
+  Duke Treadmill Score Moderate Risk: threshold.duke_treadmill_score_moderate_risk
+  Dynamic Stretching Before Activity Recommendation: recommendation.dynamic_stretching_before_activity
+  Dyspnea Rating Threshold for Exercise Intensity in COPD: threshold.dyspnea_rating_for_exercise_intensity_in_copd
+  Dyspnea Threshold for Exercise Termination: threshold.dyspnea_exercise_termination
+  Dysrhythmias During Exercise Testing: warning.dysrhythmias_during_exercise_testing
+  ECG Augmented Unipolar Limb Leads: threshold.ecg_augmented_unipolar_limb_leads
+  ECG Precordial Leads: threshold.ecg_precordial_leads
+  ECG Standard Limb Leads: threshold.ecg_standard_limb_leads
+  Elevated Blood Pressure Threshold (Metabolic Syndrome): threshold.elevated_blood_pressure_metabolic_syndrome
+  Elevated Blood Pressure Threshold for Metabolic Syndrome: threshold.elevated_blood_pressure_for_metabolic_syndrome
+  Elevated Fasting Glucose Threshold (Metabolic Syndrome): threshold.elevated_fasting_glucose_metabolic_syndrome
+  Elevated Fasting Glucose Threshold for Metabolic Syndrome: threshold.elevated_fasting_glucose_for_metabolic_syndrome
+  Elevated Triglycerides Threshold (Metabolic Syndrome): threshold.elevated_triglycerides_metabolic_syndrome
+  Elevated Triglycerides Threshold for Metabolic Syndrome: threshold.elevated_triglycerides_for_metabolic_syndrome
+  Elevated Waist Circumference (Metabolic Syndrome Criterion): concept.elevated_waist_circumference_metabolic_syndrome_criterion
+  Elevated Waist Circumference Threshold for Metabolic Syndrome: threshold.elevated_waist_circumference_for_metabolic_syndrome
+  Emergency Preparedness and Resuscitation Equipment: recommendation.emergency_preparedness_and_resuscitation_equipment
+  Endurance Shuttle Walk Test: procedure.endurance_shuttle_walk_test
+  Evidence for Exercise Lowering Blood Pressure: evidence.exercise_lowering_blood_pressure
+  Evidence on Single vs. Multiple Sets: evidence.single_vs_multiple_sets
+  Exaggerated Systolic Blood Pressure Response Thresholds Men: threshold.exaggerated_systolic_blood_pressure_response_men
+  Exaggerated Systolic Blood Pressure Response Thresholds Women: threshold.exaggerated_systolic_blood_pressure_response_women
   Example of Cardiorespiratory Fitness Classification: figure.cardiorespiratory_fitness_classification_example
   Excellent Fitness Classification: threshold.excellent_fitness_classification
   Exercise: concept.exercise
+  Exercise Avoidance in Cold Wind Chill: threshold.exercise_avoidance_in_cold_wind_chill
+  Exercise Capacity: concept.exercise_capacity
+  Exercise Capacity Prognostic Thresholds: threshold.exercise_capacity_prognostic
+  Exercise Capacity Prognostic Thresholds High: threshold.exercise_capacity_prognostic.high
+  Exercise Caution for Uncontrolled Hypertension: warning.exercise_caution_for_uncontrolled_hypertension
+  Exercise Duration for Anxiety: recommendation.exercise_duration_for_anxiety
+  Exercise Frequency for Anxiety: recommendation.exercise_frequency_for_anxiety
+  Exercise Intensity Guidance Using RPE for Heart Transplant Recipients: recommendation.rpe_intensity_heart_transplant
+  Exercise Intensity Monitoring for Neurologic Diseases: recommendation.exercise_intensity_monitoring_for_neurologic_diseases
+  Exercise Intensity for Anxiety: recommendation.exercise_intensity_for_anxiety
+  Exercise Intensity for Heart Transplant Recipients: threshold.exercise_intensity_heart_transplant
+  Exercise Intensity for Patients with Aortic Aneurysm: threshold.exercise_intensity_aortic_aneurysm
+  Exercise Intensity for Patients with Chronic Heart Failure: threshold.exercise_intensity_chronic_heart_failure
+  Exercise Intensity for Patients with Chronic Kidney Disease: threshold.exercise_intensity_chronic_kidney_disease
+  Exercise Intensity for Patients with Congenital Heart Disease: threshold.exercise_intensity_congenital_heart_disease
+  Exercise Intensity for Patients with Diabetes: threshold.exercise_intensity_diabetes
+  Exercise Intensity for Patients with Dyslipidemia: threshold.exercise_intensity_dyslipidemia
+  Exercise Intensity for Patients with Hypertension: threshold.exercise_intensity_hypertension
+  Exercise Intensity for Patients with Implantable Cardioverter Defibrillators (ICDs): threshold.exercise_intensity_icd
+  Exercise Intensity for Patients with Left Ventricular Assist Devices (LVADs): threshold.exercise_intensity_lvad
+  Exercise Intensity for Patients with Marfan Syndrome: threshold.exercise_intensity_marfan_syndrome
+  Exercise Intensity for Patients with Metabolic Syndrome: threshold.exercise_intensity_metabolic_syndrome
+  Exercise Intensity for Patients with Obesity: threshold.exercise_intensity_obesity
+  Exercise Intensity for Patients with Osteoarthritis: threshold.exercise_intensity_osteoarthritis
+  Exercise Intensity for Patients with Osteoporosis: threshold.exercise_intensity_osteoporosis
+  Exercise Intensity for Patients with Peripheral Artery Disease (PAD): threshold.exercise_intensity_pad
+  Exercise Intensity for Patients with Pulmonary Hypertension: threshold.exercise_intensity_pulmonary_hypertension
+  Exercise Intensity for Patients with Valvular Heart Disease: threshold.exercise_intensity_valvular_heart_disease
+  Exercise Modality for Anxiety: recommendation.exercise_modality_for_anxiety
+  Exercise Precautions for Cancer Survivors: warning.exercise_precautions_cancer_survivors
+  Exercise Precautions for Neurologic Diseases: recommendation.exercise_precautions_for_neurologic_diseases
+  Exercise Prescription: concept.exercise_prescription
+  Exercise Prescription Considerations for Intellectual Disability: recommendation.exercise_prescription_considerations_intellectual_disability
+  Exercise Prescription Considerations for Populations with Other Chronic Diseases and Health Conditions: figure.exercise_prescription_considerations_chronic_diseases
+  Exercise Prescription Guidelines for Individuals with Cardiovascular and Pulmonary Diseases: table_row.exercise_prescription_guidelines_cvd_pulmonary
+  Exercise Prescription Principles: concept.exercise_prescription_principles
+  Exercise Prescription for Anxiety Disorders: recommendation.exercise_prescription_for_anxiety_disorders
+  Exercise Prescription for COPD: table_row.exercise_prescription_for_copd
+  Exercise Prescription for Cancer Survivors: recommendation.exercise_prescription_cancer_survivors
+  Exercise Prescription for Chronic Heart Failure: recommendation.exercise_prescription_for_chronic_heart_failure
+  Exercise Prescription for Chronic Obstructive Pulmonary Disease: procedure.exercise_prescription_for_chronic_obstructive_pulmonary_disease
+  Exercise Prescription for Healthy Populations With Special Considerations: table_row.exercise_prescription_healthy_populations_special_considerations
+  Exercise Prescription for Heart Transplant Recipients — General Guidelines: recommendation.exercise_prescription_heart_transplant
+  Exercise Prescription for Hypertension — Aerobic Exercise: recommendation.aerobic_exercise_for_hypertension
+  Exercise Prescription for Hypertension — Resistance Exercise: recommendation.resistance_exercise_for_hypertension
+  Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases: concept.exercise_prescription_for_individuals_with_cardiovascular_and_pulmonary_diseases
+  Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases — General Principles: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+  Exercise Prescription for Individuals With Peripheral Arterial Disease - Row 1: table_row.pad_exercise_prescription_1
+  Exercise Prescription for Individuals with Chronic Diseases and Health Conditions: recommendation.exercise_prescription_chronic_diseases
+  Exercise Prescription for Individuals with Neurologic Diseases: recommendation.exercise_prescription_for_individuals_with_neurologic_diseases
+  Exercise Prescription for ME/CFS: recommendation.exercise_prescription_for_mecfs
+  Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions: figure.exercise_prescription_for_populations_with_other_chronic_diseases_and_health_conditions
+  Exercise Prescription in Environmental Conditions: concept.exercise_prescription_in_environmental_conditions
+  Exercise Prescription — Frequency: recommendation.exercise_prescription_frequency
+  Exercise Prescription — Intensity: recommendation.exercise_prescription_intensity
+  Exercise Prescription — Resistance Training: recommendation.exercise_prescription_resistance_training
+  Exercise Prescription — Safety Considerations: warning.exercise_prescription_safety_considerations
+  Exercise Prescription — Time: recommendation.exercise_prescription_time
+  Exercise Prescription — Type: recommendation.exercise_prescription_type
+  Exercise Prescription — Warm-up and Cool-down: recommendation.exercise_prescription_warm_up_cool_down
+  Exercise Program Components for Neurologic Diseases: recommendation.exercise_program_components_for_neurologic_diseases
+  Exercise Program Duration for Anxiety: recommendation.exercise_program_duration_for_anxiety
+  Exercise Progression for Neurologic Diseases: recommendation.exercise_progression_for_neurologic_diseases
+  Exercise Recommendations for Low Back Pain: recommendation.exercise_for_low_back_pain
+  Exercise Risks in Neurologic Diseases: warning.exercise_risks_in_neurologic_diseases
+  Exercise Session Duration and Frequency for Chronic Heart Failure: recommendation.exercise_session_duration_and_frequency_for_chronic_heart_failure
+  Exercise Supervision for Anxiety: recommendation.exercise_supervision_for_anxiety
+  Exercise Termination Criteria for Neurologic Diseases: recommendation.exercise_termination_criteria_for_neurologic_diseases
   Exercise Test Termination Criteria: procedure.test_termination
+  Exercise Testing: table_row.exercise_testing
+  Exercise Testing Before Unsupervised Exercise: recommendation.exercise_testing_before_unsupervised_exercise
   Exercise Testing Cardiac Risk: evidence.exercise_testing_risk_summary
+  Exercise Testing Considerations: concept.exercise_testing_considerations
+  Exercise Testing Considerations for Neurologic Diseases: recommendation.exercise_testing_considerations_for_neurologic_diseases
+  Exercise Testing Contraindication Thresholds for Chronic Disease Populations: threshold.exercise_testing_contraindication_chronic_disease
+  Exercise Testing Recommendations for Individuals with Intellectual Disability: recommendation.exercise_testing_individuals_with_intellectual_disability
+  Exercise Testing Threshold for Individuals with Chronic Kidney Disease: threshold.exercise_testing_chronic_kidney_disease
+  Exercise Testing and Prescription Considerations for Individuals With Chronic Kidney Disease: table_row.exercise_testing_prescription_ckd_1
+  Exercise Testing and Prescription Considerations for Individuals With Kidney Disease: figure.exercise_testing_prescription_considerations_kidney_disease
+  Exercise Timing and Insulin Adjustment: recommendation.exercise_timing_and_insulin_adjustment
+  Exercise Training for Return to Work — Communication with Employer: recommendation.exercise_training_return_to_work_communication_with_employer
+  Exercise Training for Return to Work — General Recommendation: recommendation.exercise_training_return_to_work_general
+  Exercise Training for Return to Work — Gradual Progression: recommendation.exercise_training_return_to_work_gradual_progression
+  Exercise Training for Return to Work — Heart Rate and Blood Pressure Monitoring: recommendation.exercise_training_return_to_work_heart_rate_blood_pressure_monitoring
+  Exercise Training for Return to Work — Job-Specific Simulation: recommendation.exercise_training_return_to_work_job_specific_simulation
+  Exercise Training for Return to Work — MET Level Target: recommendation.exercise_training_return_to_work_met_level_target
+  Exercise Training for Return to Work — Safety Monitoring: recommendation.exercise_training_return_to_work_safety_monitoring
+  Exercise Training for Return to Work — Symptom Monitoring: recommendation.exercise_training_return_to_work_symptom_monitoring
+  Exercise Training for Return to Work — Work Hardening Program: recommendation.exercise_training_return_to_work_work_hardening_program
+  Exercise-Induced Anxiety: warning.exercise_induced_anxiety
   Exercise-Related Cardiovascular Event Risk: risk_factor.cardiovascular_event_exercise
   Exercise-Related Musculoskeletal Injury Risk: risk_factor.msi_exercise
+  External Pacing: concept.external_pacing
+  FEV1 Threshold for Inhaled Corticosteroid Initiation in COPD: threshold.fev1.inhaled_corticosteroid_initiation_copd
+  FEV1 Threshold for Long-Acting Bronchodilator Initiation in COPD: threshold.fev1.long_acting_bronchodilator_initiation_copd
+  FITT-VP Overload Principle: table_row.fitt_vp_overload
+  FITT-VP Principle as Framework for Exercise Prescription: recommendation.fitt_vp_principle_as_framework_for_exercise_prescription
   Fair Fitness Classification: threshold.fair_fitness_classification
   Fair Muscular Strength: threshold.fair_muscular_strength
+  Fall Prevention During Exercise: recommendation.fall_prevention_during_exercise
+  Fall Prevention Strategies for Neurologic Diseases: recommendation.fall_prevention_strategies_for_neurologic_diseases
+  False Negative: concept.false_negative
+  False Positive: concept.false_positive
+  Familiarization with Testing Environment: recommendation.familiarization_testing_environment
+  Fibromyalgia: table_row.fibromyalgia
+  Figure 4.5 — Prognostic Variables from Clinical Exercise Test: figure.figure_4_5_prognostic_variables
+  Figure 6.3 — Exercise Testing and Prescription Algorithm for Older Adults: figure.exercise_testing_prescription_algorithm_older_adults
+  Figure 8.1 — Exercise Prescription Algorithm: concept.figure_8_1_exercise_prescription_algorithm
   Flexibility: concept.flexibility
+  Flexibility Exercise Prescription for Adults: table_row.flexibility_exercise_prescription_adults
+  Flexibility Exercise Prescription for Individuals with Spinal Cord Injury: table_row.flexibility_exercise_prescription_spinal_cord_injury
+  Flexibility Exercise Prescription for Older Adults: table_row.flexibility_exercise_prescription_older_adults
+  Flexibility Exercise for Cancer Survivors: recommendation.flexibility_exercise_cancer_survivors
+  Flexibility Frequency: table_row.flexibility_frequency
+  Flexibility Intensity: table_row.flexibility_intensity
+  Flexibility Progression: table_row.flexibility_progression
+  Flexibility Time: table_row.flexibility_time
+  Flexibility Training Frequency: recommendation.flexibility_training_frequency
+  Flexibility Type: table_row.flexibility_type
+  Flexibility Volume: table_row.flexibility_volume
+  Free Weight Exercises: table_row.free_weight_exercises
+  Frequency Recommendation for Neurologic Conditions: recommendation.frequency_recommendation_for_neurologic_conditions
+  Frequency of Aerobic Exercise: recommendation.frequency_of_aerobic_exercise
+  Frequency of Exercise for Chronic Disease Populations: recommendation.frequency_chronic_disease
+  Frostbite Management: recommendation.frostbite_management
+  Frostbite Rewarming Water Temperature: threshold.frostbite_rewarming_water_temperature
+  Frostbite Risk Factors: warning.frostbite_risk_factors
+  Fully Acclimatized: threshold.fully_acclimatized
+  Future Directions: concept.future_directions
+  GFR Threshold for Caution with Metformin: threshold.gfr.metformin_caution
+  GFR Threshold for Metformin Contraindication: threshold.gfr.metformin_contraindication
+  Gas Exchange Data Sampling Interval: threshold.gas_exchange_data_sampling_interval
+  General Exercise Prescription Recommendations for Healthy Populations: recommendation.general_exercise_prescription_recommendations_for_healthy_populations
+  General Exercise Recommendations for Healthy Populations: recommendation.general_exercise_recommendations_for_healthy_populations
+  General Exercise Recommendations for Individuals With Diabetes Mellitus: table_row.general_exercise_recommendations_diabetes_1
+  General Exercise Recommendations for Neurologic Diseases: recommendation.general_exercise_recommendations_for_neurologic_diseases
+  General Flexibility Recommendations: recommendation.general_flexibility
+  General Recommendation for Aerobic Exercise Intensity: recommendation.aerobic_exercise_intensity_general
+  General Recommendation for Multiple Chronic Diseases and Health Conditions: recommendation.general_recommendation_for_multiple_chronic_diseases_and_health_conditions
+  General Volume Recommendation for Resistance Training: recommendation.general_volume_resistance_training
+  Generalized Anxiety Disorder: concept.generalized_anxiety_disorder
   Good Fitness Classification: threshold.good_fitness_classification
+  Gradual Progression of Exercise Intensity: recommendation.gradual_progression_exercise_intensity
   Habitual Inactivity and AMI Risk: evidence.habitual_inactivity_ami_risk
+  Hard Resistance Training Intensity: threshold.resistance_training_intensity.hard
+  HbA1c Threshold for Additional Antihyperglycemic Therapy: threshold.hba1c.additional_antihyperglycemic_therapy
+  HbA1c Threshold for Metformin Initiation: threshold.hba1c.metformin_initiation
+  Health Screening Flow Chart: figure.health_screening_flow_chart
   Health-Related Physical Fitness: concept.health_related_physical_fitness
   Healthy Body Composition: threshold.healthy_body_composition
+  Heart Rate Monitoring for Pacemaker Patients: threshold.heart_rate_monitoring_pacemaker_patients
+  Heart Rate Recovery: threshold.heart_rate_recovery
+  Heart Rate Recovery Abnormal Threshold: threshold.heart_rate_recovery_abnormal
+  Heart Rate Reserve (HRR) Intensity Ranges: threshold.hrr_intensity_range
+  Heart Rate Reserve (HRR) Method for Exercise Prescription: threshold.hrr_method
+  Heart Rate Response Abnormal: table_row.heart_rate_response_abnormal
+  Heart Rate Response Clinical Significance: table_row.heart_rate_response_clinical_significance
+  Heart Rate Response Normal: table_row.heart_rate_response_normal
+  Heart Rate Threshold for Exercise in Atrial Fibrillation: threshold.heart_rate_exercise_atrial_fibrillation
+  Heart Rate Threshold for Exercise in Heart Failure: threshold.heart_rate_exercise_heart_failure
+  Heart Rate Thresholds for Exercise Termination: threshold.heart_rate_exercise_termination
+  Heart Transplantation: concept.heart_transplantation
   Heel Raise Test: table_row.heel_raise_test
+  Hemoglobin Threshold for Exercise Avoidance in Cancer Survivors: threshold.hemoglobin_exercise_avoidance_cancer_survivors
   High Risk: threshold.risk.high
+  High-Intensity Interval Training: concept.high_intensity_interval_training
   Hip Abduction Test: table_row.hip_abduction_test
   Hip Adduction Test: table_row.hip_adduction_test
   Hip Extension Test: table_row.hip_extension_test
+  Hydration and Nutrition for Cold Injury Prevention: recommendation.hydration_and_nutrition_for_cold_injury_prevention
+  Hydration and Temperature Regulation: recommendation.hydration_temperature_regulation
+  Hyperglycemia and Ketosis Risk: warning.hyperglycemia_and_ketosis_risk
+  Hypertension: concept.hypertension
+  Hypertension as a Cardiovascular Risk Factor: risk_factor.hypertension_as_cardiovascular_risk_factor
+  Hypertensive Response Thresholds for Test Termination: threshold.hypertensive_response_systolic_blood_pressure_250_mm_hg_diastolic_115_mm_hg
+  Hypoglycemia Risk During Exercise: warning.hypoglycemia_risk_during_exercise
+  Hypothermia Core Temperature: threshold.hypothermia_core_temperature
+  Hypothermia Risk Factors: warning.hypothermia_risk_factors
+  Inclusion of Caregivers or Support Staff: recommendation.inclusion_caregivers_support_staff
+  Increasing Nervous System Symptoms: threshold.increasing_nervous_system_symptoms
+  Incremental Shuttle Walk Test: procedure.incremental_shuttle_walk_test
   Informed Consent Process: procedure.informed_consent
+  Intellectual Disability: concept.intellectual_disability
+  Intensity Recommendation for Neurologic Conditions: recommendation.intensity_recommendation_for_neurologic_conditions
+  Intensity of Exercise for Chronic Disease Populations: recommendation.intensity_chronic_disease
+  Intermediate Resistance Training Frequency: table_row.intermediate_resistance_training_frequency
+  Internal Pacing: concept.internal_pacing
   Introduction: concept.introduction
   Inverse MSI-Fitness Relationship: evidence.inverse_msi_fitness
+  Isokinetic Exercises: table_row.isokinetic_exercises
+  Isometric Exercises: table_row.isometric_exercises
+  Isotonic Exercises: table_row.isotonic_exercises
+  Kettlebell Exercises: table_row.kettlebell_exercises
+  LDL Cholesterol Threshold for Statin Therapy Initiation: threshold.ldl_cholesterol.statin_therapy_initiation
+  LDL Cholesterol Threshold for Statin Therapy in Diabetes: threshold.ldl_cholesterol.statin_therapy_diabetes
+  LDL-C Borderline High: table_row.ldl_borderline_high
+  LDL-C High: table_row.ldl_high
+  LDL-C Near Optimal/Above Desirable: table_row.ldl_near_optimal
+  LDL-C Optimal/Desirable: table_row.ldl_optimal_desirable
+  LDL-C Very High: table_row.ldl_very_high
+  Layered Clothing for Cold Injury Prevention: recommendation.layered_clothing_for_cold_injury_prevention
+  Left Ventricular Assist Device: concept.left_ventricular_assist_device
   Leg Curl Test: table_row.leg_curl_test
   Leg Extension Test: table_row.leg_extension_test
   Leg Raise Test: table_row.leg_raise_test
   Light Intensity: threshold.met.light
+  Light Intensity MET Range: threshold.met.light
+  Light Intensity MET Range for Older Adults: threshold.met.older_adult_light
+  Light Intensity Using %HRR or %VO2R: threshold.aerobic_intensity_hrr_v02r_light
+  Light Intensity Using %HRmax: threshold.aerobic_intensity_hr_max_light
+  Light Resistance Training Intensity: threshold.resistance_training_intensity.light
   Light-Intensity MET Threshold: threshold.met.light
+  Light-Intensity METs: threshold.met.light
+  Light-Intensity PA (MET): threshold.met.light
+  Light-Intensity PA (METs): threshold.met.light
   Light-Intensity PA MET Threshold: threshold.met.light
+  Low Rate-Pressure Product: threshold.rate_pressure_product_low
   Low Risk: threshold.risk.low
   Lunge Test: table_row.lunge_test
   MET: concept.met
+  MET Range for Light Intensity: threshold.met.light
+  MET Range for Moderate Intensity: threshold.met.moderate
+  MET Range for Vigorous Intensity: threshold.met.vigorous
+  MS Aerobic Frequency: table_row.ms_aerobic_frequency
+  MS Aerobic Intensity: table_row.ms_aerobic_intensity
+  MS Aerobic Time: table_row.ms_aerobic_time
+  MS Aerobic Type: table_row.ms_aerobic_type
+  MS Progression: table_row.ms_progression
+  MS Resistance Frequency: table_row.ms_resistance_frequency
+  MS Special Considerations: table_row.ms_special_considerations
   MSI Prevalence: concept.msi_prevalence
   MSI Risk by Activity Type: warning.msi_by_activity
   MVPA Mitigation of Sedentary Mortality Risk: evidence.mvpa_mitigation_sedentary_mortality
+  Machine Exercises: table_row.machine_exercises
   Margaria-Kalamen Stair Climb Test Reference Value: table_row.margaria_kalamen_stair_climb_test_reference
+  Maximal Cardiorespiratory Stress: concept.maximal_cardiorespiratory_stress
   Maximal Exercise Testing: concept.maximal_exercise_testing
+  Maximal Expiratory Pressure Threshold for Respiratory Muscle Weakness: threshold.mep.respiratory_muscle_weakness
+  Maximal Inspiratory Pressure Threshold for Respiratory Muscle Weakness: threshold.mip.respiratory_muscle_weakness
   Maximal Oxygen Uptake: concept.vo2max
   Medical Clearance for Exercise: recommendation.medical_clearance_exercise
+  Medical Clearance for Exercise Testing: recommendation.medical_clearance_for_exercise_testing
+  Medical History Review: recommendation.medical_history_review
+  Medication Review for Individuals with Intellectual Disability: recommendation.medication_review_intellectual_disability
+  Medicine Ball Exercises: table_row.medicine_ball_exercises
+  Metabolic Syndrome: concept.metabolic_syndrome
+  Metabolic Syndrome Diagnosis Criteria: decision_rule.metabolic_syndrome_diagnosis_criteria
+  Metformin Contraindication in Severe Renal Impairment: contraindication.metformin_severe_renal_impairment
+  Minimum Aerobic Exercise Duration for Health Benefits: recommendation.minimum_aerobic_exercise_duration_for_health_benefits
   Moderate Intensity: threshold.met.moderate
+  Moderate Intensity MET Range: threshold.met.moderate
+  Moderate Intensity MET Range for Older Adults: threshold.met.older_adult_moderate
+  Moderate Intensity Using %HRR or %VO2R: threshold.aerobic_intensity_hrr_v02r_moderate
+  Moderate Intensity Using %HRmax: threshold.aerobic_intensity_hr_max_moderate
+  Moderate Resistance Training Intensity: threshold.resistance_training_intensity.moderate
   Moderate Risk: threshold.risk.moderate
+  Moderate-Intensity Aerobic Exercise for Cancer Survivors: threshold.aerobic_exercise_intensity_moderate_cancer_survivors
   Moderate-Intensity MET Threshold: threshold.met.moderate
+  Moderate-Intensity METs: threshold.met.moderate
+  Moderate-Intensity PA (MET): threshold.met.moderate
+  Moderate-Intensity PA (METs): threshold.met.moderate
   Moderate-Intensity PA MET Threshold: threshold.met.moderate
+  Moderate-to-Severe Angina: threshold.moderate_to_severe_angina
   Mortality Risk Without Emergency Management in Cardiac Rehab: warning.cardiac_rehab_mortality_without_emergency
+  Motivation and Encouragement During Testing: recommendation.motivation_encouragement_during_testing
+  Multiple Sclerosis Exercise Considerations: table_row.multiple_sclerosis_exercise_considerations
+  Multiple Sclerosis Testing: table_row.multiple_sclerosis_testing
   Muscular Endurance: concept.muscular_endurance
   Muscular Fitness: concept.muscular_fitness
   Muscular Power: concept.muscular_power
   Muscular Strength: concept.muscular_strength
   Muscular Strength Classification Thresholds: threshold.muscular_strength_classification
   Muscular Strength, Endurance, and Power: concept.muscular_strength_endurance_power
+  Muscular endurance: concept.muscular_endurance
+  Muscular strength: concept.muscular_strength
+  Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: concept.myalgic_encephalomyelitis_chronic_fatigue_syndrome
+  Near-Maximal Resistance Training Intensity: threshold.resistance_training_intensity.near_maximal
+  Near-Maximal to Maximal Intensity Using %HRR or %VO2R: threshold.aerobic_intensity_hrr_v02r_near_maximal
+  Near-Maximal to Maximal Intensity Using %HRmax: threshold.aerobic_intensity_hr_max_near_maximal
+  Negative Predictive Value: concept.negative_predictive_value
+  Nephropathy and Exercise Intensity: warning.nephropathy_and_exercise_intensity
+  Neurologic Disease Exercise Prescription Row 1: table_row.neurologic_disease_exercise_prescription_1
+  Neurologic Disease General Exercise Considerations: table_row.neurologic_disease_general_considerations
+  Neurologic Disease Testing Consideration 1: table_row.neurologic_disease_testing_consideration_1
   Obese Body Composition: threshold.obese_body_composition
+  Older Adults Stretching Duration Recommendation: recommendation.older_adults_stretching_duration
+  Online Resources: concept.online_resources
+  Online Resources for Exercise Prescription: table_row.online_resources_for_exercise_prescription
+  Organizational Planning: concept.organizational_planning
   Organizing the Fitness Test: procedure.organizing_the_fitness_test
+  Osteoporosis: concept.osteoporosis
+  Other Considerations: concept.other_considerations
+  Other Sex-Based Special Considerations: concept.other_sex_based_special_considerations
   Other Techniques for Health-Related Physical Fitness Testing: concept.other_techniques_for_health_related_physical_fitness_testing
+  Outpatient Cardiac Rehabilitation: concept.outpatient_cardiac_rehabilitation
   Overfat Body Composition: threshold.overfat_body_composition
+  Oxygen Saturation Threshold for Exercise Safety in COPD: threshold.oxygen_saturation_for_exercise_safety_in_copd
+  Oxygen Saturation Threshold for Exercise Termination: threshold.oxygen_saturation_exercise_termination
+  Oxygen Saturation Threshold for Exercise in COPD: threshold.oxygen_saturation_exercise_copd
+  P Wave Amplitude: threshold.p_wave_amplitude
+  P Wave Duration: threshold.p_wave_duration
   PA Beyond Minimum for Weight Management: recommendation.pa_weight_management
   PA-CVD Dose-Response Evidence: evidence.pa_cvd_dose_response
   PAR-Q+ Self-Guided Screening: procedure.parq_plus_screening
+  PNF Stretching Recommendation: recommendation.pnf_stretching
+  PR Interval Duration: threshold.pr_interval_duration
+  Pacing: concept.pacing
+  Panic Disorder: concept.panic_disorder
+  Parkinson's Disease Exercise Considerations: table_row.parkinsons_disease_exercise_considerations
+  Parkinson's Disease Testing: table_row.parkinsons_disease_testing
+  Partially Acclimatized: threshold.partially_acclimatized
+  Peak Cardiorespiratory Stress: concept.peak_cardiorespiratory_stress
+  Pediatric Cardiac Rehabilitation: concept.pediatric_cardiac_rehabilitation
   Percent Body Fat from Body Density (Siri): formula.percent_body_fat_siri
   Percentile-Based Fitness Classification Thresholds: threshold.percentile_based_fitness_classification
+  Peripheral Neuropathy and Weight-Bearing Exercise: recommendation.peripheral_neuropathy_and_weight_bearing_exercise
   Physical Activity: concept.physical_activity
   Physical Activity Guidelines for Americans Primary Recommendation: recommendation.pag_acsa_primary_2018
+  Physical Activity in Cancer Survivors: concept.physical_activity_in_cancer_survivors
+  Physical Examination: recommendation.physical_examination
   Physical Fitness: concept.physical_fitness
+  Physician Supervision Requirements for Exercise Testing: recommendation.physician_supervision_requirements_for_exercise_testing
   Placeholder: concept.placeholder
   Plank Test: table_row.plank_test
+  Platelet Count Threshold for Exercise Avoidance in Cancer Survivors: threshold.platelet_count_exercise_avoidance_cancer_survivors
+  Plyometric Exercises: table_row.plyometric_exercises
   Poor Fitness Classification: threshold.poor_fitness_classification
   Poor Muscular Strength: threshold.poor_muscular_strength
+  Positive Predictive Value: concept.positive_predictive_value
+  Positive Reinforcement for Exercise Adherence: recommendation.positive_reinforcement_exercise_adherence
+  Postexercise Monitoring and Recovery: procedure.postexercise_monitoring_and_recovery
+  Postexertional Malaise: concept.postexertional_malaise
   Power: concept.power
   Power Formula: formula.power
+  Pre-Exercise Testing Considerations for Intellectual Disability: recommendation.pre_exercise_testing_considerations_intellectual_disability
+  Predictive Value: concept.predictive_value
+  Preexercise Assessment Components: table_row.preexercise_assessment_components
+  Preexisting Conditions Contraindication for High Altitude: contraindication.preexisting_conditions_high_altitude
+  Preexisting Conditions and Altitude Warning: warning.preexisting_conditions_altitude
   Preparticipation Cardiovascular Screening for Young Athletes: recommendation.preparticipation_screening_young
+  Preparticipation Evaluation for Individuals with Chronic Diseases: recommendation.preparticipation_evaluation_for_individuals_with_chronic_diseases
   Preparticipation Health Screening Algorithm: figure.preparticipation_health_screening_algorithm
+  Preparticipation Health Screening Recommendations: table_row.preparticipation_health_screening_recommendations
   Pretest Instructions for Fitness Testing: procedure.pretest_instructions_for_fitness_testing
   Principles of Health-Related Physical Fitness Testing: concept.principles_of_health_related_physical_fitness_testing
+  Progression of Resistance Training Exercise: procedure.progression_of_resistance_training_exercise
   Pull-Up Test: table_row.pull_up_test
   Purposes of Health-Related Physical Fitness Testing: concept.purposes_of_health_related_physical_fitness_testing
   Push-Up Test: table_row.push_up_test
+  QRS Complex Duration: threshold.qrs_complex_duration
+  QTc Interval Men: threshold.qtc_interval_men
+  QTc Interval Women: threshold.qtc_interval_women
+  Qualifications for Exercise Testing Personnel: table_row.qualifications_for_exercise_testing_personnel
+  Rapid Ascent: concept.rapid_ascent
+  Rate-Pressure Product Peak: threshold.rate_pressure_product_peak
+  Rate-Pressure Product Resting: threshold.rate_pressure_product_resting
+  Rating of Perceived Exertion (RPE) as Alternative to Heart Rate: threshold.rpe_alternative_heart_rate
   Rationale: concept.rationale
   Reaction Time: concept.reaction_time
+  Reduced HDL Cholesterol Threshold for Metabolic Syndrome: threshold.reduced_hdl_cholesterol_for_metabolic_syndrome
+  Reduced HDL-C Threshold (Metabolic Syndrome): threshold.reduced_hdl_c_metabolic_syndrome
+  Reevaluation Frequency: recommendation.reevaluation_frequency
+  References for Chapter 7: table_row.references_chapter_7_1
+  Regular Reassessment of Exercise Program: recommendation.regular_reassessment_exercise_program
+  Relative Indications for Terminating Exercise Testing: threshold.relative_indications_for_terminating_exercise_testing
+  Repetition Range for Muscular Endurance: threshold.repetition_range_muscular_endurance
+  Repetition Range for Muscular Hypertrophy: threshold.repetition_range_muscular_hypertrophy
+  Repetition Range for Muscular Strength: threshold.repetition_range_muscular_strength
+  Resistance Band Exercises: table_row.resistance_band_exercises
+  Resistance Exercise Frequency for Cancer Survivors: recommendation.resistance_exercise_frequency_cancer_survivors
+  Resistance Exercise Intensity for Cancer Survivors: recommendation.resistance_exercise_intensity_cancer_survivors
+  Resistance Exercise Type for Cancer Survivors: recommendation.resistance_exercise_type_cancer_survivors
+  Resistance Frequency: table_row.resistance_frequency
+  Resistance Intensity: table_row.resistance_intensity
+  Resistance Progression: table_row.resistance_progression
+  Resistance Strength Training: concept.resistance_strength_training
+  Resistance Time: table_row.resistance_time
   Resistance Training Health Benefits: evidence.resistance_training_benefits
+  Resistance Training Intensity Classification by Repetition Maximum (RM): threshold.resistance_training_intensity_classification
+  Resistance Training Intensity for Chronic Heart Failure: recommendation.resistance_training_intensity_for_chronic_heart_failure
+  Resistance Training Progression Model: table_row.resistance_training_progression_model
+  Resistance Type: table_row.resistance_type
+  Resistance Volume: table_row.resistance_volume
+  Respiratory Muscle Training Prescription: table_row.respiratory_muscle_training_prescription
+  Rest Periods Muscular Endurance: table_row.rest_periods_muscular_endurance
+  Rest Periods Muscular Hypertrophy: table_row.rest_periods_muscular_hypertrophy
+  Rest Periods Muscular Power: table_row.rest_periods_muscular_power
+  Rest Periods Muscular Strength: table_row.rest_periods_muscular_strength
   Resting Blood Pressure Assessment: procedure.resting_blood_pressure
+  Resting Heart Rate Range for Heart Transplant Recipients: threshold.resting_heart_rate_heart_transplant
+  Retinopathy and Exercise Precautions: warning.retinopathy_and_exercise_precautions
+  Rewarming for Hypothermia: recommendation.rewarming_for_hypothermia
   Risk Classification Table 2.3: table_row.risk_classification_table_2_3
+  Risk Factors for Altitude Illness: concept.risk_factors_altitude_illness
   Risk Stratification for Individuals With Clinical Conditions and Medical Fitness Facilities: concept.risk_stratification_for_individuals_with_clinical_conditions_and_medical_fitness_facilities
+  Risk of Hypothermia from Wet Clothing: warning.risk_of_hypothermia_from_wet_clothing
+  Risk of Lactic Acidosis with Metformin: warning.lactic_acidosis_metformin
+  Risk of Worsening Symptoms with Exercise: warning.risk_of_worsening_symptoms_with_exercise
   Row Test: table_row.row_test
   SCD Incidence in Young Athletes: evidence.scd_incidence_young_athletes
   SCD/AMI Risk Ratios During Vigorous PA: evidence.scd_ami_risk_ratios
+  ST Depression Threshold for Test Termination: threshold.st_or_qrs_changes_marked_st_depression_or_marked_axis_shift
+  ST Elevation Threshold for Test Termination: threshold.st_elevation_1_mm_in_leads_without_diagnostic_q_waves
+  ST Segment Depression: threshold.st_segment_depression
+  ST Segment Depression Ischemia: threshold.st_segment_depression_ischemia
+  ST Segment Elevation Abnormal: threshold.st_segment_elevation_abnormal
+  ST Segment Elevation Limb Leads: threshold.st_segment_elevation_limb_leads
+  ST Segment Elevation Precordial Leads: threshold.st_segment_elevation_precordial_leads
+  ST or QRS Changes Excessive ST Depression or Marked Axis Shift: threshold.st_or_qrs_changes_excessive_st_depression_or_marked_axis_shift
+  ST-Segment Depression Threshold for Exercise Termination: threshold.st_segment_depression_exercise_termination
+  Safety Monitoring During Exercise: recommendation.safety_monitoring_during_exercise
+  Safety Precautions for Exercise Testing: warning.safety_precautions_for_exercise_testing
+  Screening for Cardiovascular Risk Factors: recommendation.screening_for_cardiovascular_risk_factors
   Sedentary Behavior: concept.sedentary_behavior
   Sedentary Behavior Energy Expenditure: threshold.sedentary_met
   Sedentary Behavior Health Risks: evidence.sedentary_health_risks
+  Sensitivity: threshold.sensitivity
+  Severe Aortic Stenosis — Peak Systolic Pressure Gradient Threshold: threshold.severe_aortic_stenosis_peak_systolic_pressure_gradient
+  Severe Aortic Stenosis — Valve Area Threshold: threshold.severe_aortic_stenosis_valve_area
+  Sex Difference Considerations: concept.sex_difference_considerations
+  Sex Differences in Body Weight Responses to Aerobic Exercise Training: figure.sex_differences_in_body_weight_responses_to_aerobic_exercise_training
+  Sex Differences in Exercise Performance: figure.sex_differences_in_exercise_performance
   Shoulder Press Test: table_row.shoulder_press_test
   Side Plank Test: table_row.side_plank_test
   Signs and Symptoms of CV/Metabolic/Renal Disease: warning.signs_symptoms_cv_disease
+  Signs and Symptoms of Frostbite: warning.signs_and_symptoms_of_frostbite
+  Signs and Symptoms of Hypothermia: warning.signs_and_symptoms_of_hypothermia
+  Signs of Poor Perfusion: threshold.signs_of_poor_perfusion
   Sit-and-Reach Test: procedure.sit_and_reach
   Skill-Related Physical Fitness: concept.skill_related_physical_fitness
+  Social Anxiety Disorder: concept.social_anxiety_disorder
+  Social Interaction and Group Exercise: recommendation.social_interaction_group_exercise
+  Special Consideration: concept.special_consideration
+  Special Considerations: concept.special_considerations
+  Special Considerations for Exercise Prescription in Chronic Disease Populations: recommendation.special_considerations_chronic_disease
+  Special Considerations for Exercise in Individuals with Diabetes: warning.special_considerations_exercise_diabetes_foot_care
+  Specific Phobia: concept.specific_phobia
+  Specificity: threshold.specificity
   Speed: concept.speed
+  Spinal Cord Injury Exercise Considerations: table_row.spinal_cord_injury_exercise_considerations
+  Spinal Cord Injury Testing: table_row.spinal_cord_injury_testing
+  Spontaneous Coronary Artery Dissection: concept.spontaneous_coronary_artery_dissection
   Squat Test: table_row.squat_test
+  Staffing Ratios for Exercise Testing: recommendation.staffing_ratios_for_exercise_testing
+  Stage 1 Hypertension Threshold: threshold.stage_1_hypertension
+  Stage 2 Hypertension Threshold: threshold.stage_2_hypertension
+  Stages of Hypertension: concept.stages_of_hypertension
+  Static Stretching Duration Recommendation: recommendation.static_stretching_duration
+  Sternotomy Precautions and Progression: procedure.sternotomy_precautions_and_progression
+  Stretching After Exercise Recommendation: recommendation.stretching_after_exercise
+  Stretching Intensity Recommendation: recommendation.stretching_intensity
+  Stroke Exercise Considerations: table_row.stroke_exercise_considerations
+  Stroke Testing: table_row.stroke_testing
+  Structured and Predictable Exercise Routines: recommendation.structured_predictable_exercise_routines
+  Subject's Request to Stop: threshold.subjects_request_to_stop
   Submaximal Exercise Test Protocol Selection and Conduct: procedure.submaximal_exercise_test_protocol_selection_and_conduct
   Submaximal Exercise Testing: concept.submaximal_exercise_testing
   Superior Fitness Classification: threshold.superior_fitness_classification
+  Suspension Training Exercises: table_row.suspension_training_exercises
+  Sustained Ventricular Tachycardia: threshold.sustained_ventricular_tachycardia
+  Systolic Blood Pressure Drop Threshold for Test Termination (with ischemia): threshold.drop_in_systolic_blood_pressure_of_10_mm_hg_from_baseline_with_ischemia
+  Systolic Blood Pressure Drop Threshold for Test Termination (without ischemia): threshold.drop_in_systolic_blood_pressure_of_10_mm_hg_from_baseline_without_ischemia
+  T Wave Morphology: threshold.t_wave_morphology
+  Table 11.1 Row 1: table_row.neurologic_disease_1
+  Table 6.6 — Physical Activity Recommendations for Older Adults: table.physical_activity_recommendations_older_adults
+  Table 9.6 — Classification and Management of Blood Pressure for Adults: table_row.classification_and_management_of_blood_pressure_for_adults
+  Technical Difficulties Monitoring ECG or Systolic Blood Pressure: threshold.technical_difficulties_monitoring_ecg_or_systolic_blood_pressure
+  Temperature Threshold for Exercise Avoidance in Cancer Survivors: threshold.temperature_exercise_avoidance_cancer_survivors
+  Test Selection for Individuals with Intellectual Disability: recommendation.test_selection_individuals_intellectual_disability
+  Time (Duration) of Exercise for Chronic Disease Populations: recommendation.duration_chronic_disease
+  Time Recommendation for Neurologic Conditions: recommendation.time_recommendation_for_neurologic_conditions
   Toe Raise Test: table_row.toe_raise_test
+  Total Stretching Time Per Exercise: recommendation.total_stretching_time_per_exercise
   Transient SCD and AMI Risk During Vigorous PA: warning.scd_ami_vigorous_pa
+  Traumatic Brain Injury Exercise Considerations: table_row.traumatic_brain_injury_exercise_considerations
+  Traumatic Brain Injury Testing: table_row.traumatic_brain_injury_testing
+  Treadmill and Cycle Ergometer Protocols: figure.treadmill_and_cycle_ergometer_protocols
+  Trench Foot Risk Factors: warning.trench_foot_risk_factors
+  Trench Foot Temperature Range: threshold.trench_foot_temperature_range
   Triceps Extension Test: table_row.triceps_extension_test
+  True Negative: concept.true_negative
+  True Positive: concept.true_positive
   Trunk Lift Test: table_row.trunk_lift_test
+  Type Recommendation for Neurologic Conditions: recommendation.type_recommendation_for_neurologic_conditions
+  Type of Exercise for Chronic Disease Populations: recommendation.type_chronic_disease
+  Unacclimatized: threshold.unacclimatized
   Underfat Body Composition: threshold.underfat_body_composition
+  Use of Simple and Concrete Instructions: recommendation.simple_concrete_instructions
   Using the ACSM Preparticipation Screening Algorithm: procedure.acsm_screening_algorithm
   Vertical Jump Reference Value: table_row.vertical_jump_reference
+  Very Hard Resistance Training Intensity: threshold.resistance_training_intensity.very_hard
+  Very Light Intensity Using %HRR or %VO2R: threshold.aerobic_intensity_hrr_v02r_very_light
+  Very Light Intensity Using %HRmax: threshold.aerobic_intensity_hr_max_very_light
+  Very Light Resistance Training Intensity: threshold.resistance_training_intensity.very_light
   Very Poor Fitness Classification: threshold.very_poor_fitness_classification
   Vigorous Intensity: threshold.met.vigorous
+  Vigorous Intensity MET Threshold: threshold.met.vigorous
+  Vigorous Intensity MET Threshold for Older Adults: threshold.met.older_adult_vigorous
+  Vigorous Intensity Using %HRR or %VO2R: threshold.aerobic_intensity_hrr_v02r_vigorous
+  Vigorous Intensity Using %HRmax: threshold.aerobic_intensity_hr_max_vigorous
+  Vigorous-Intensity Aerobic Exercise for Cancer Survivors: threshold.aerobic_exercise_intensity_vigorous_cancer_survivors
   Vigorous-Intensity MET Threshold: threshold.met.vigorous
+  Vigorous-Intensity METs: threshold.met.vigorous
+  Vigorous-Intensity PA (MET): threshold.met.vigorous
+  Vigorous-Intensity PA (METs): threshold.met.vigorous
   Vigorous-Intensity PA MET Threshold: threshold.met.vigorous
+  Visual Aids for Exercise Instruction: recommendation.visual_aids_exercise_instruction
+  Volume Progression Recommendation: recommendation.volume_progression
+  Volume Recommendation for Older or Frail Adults: recommendation.volume_older_frail_adults
+  Volume and Progression Recommendation for Neurologic Conditions: recommendation.volume_and_progression_recommendation_for_neurologic_conditions
+  Volume and Progression of Exercise for Chronic Disease Populations: recommendation.volume_progression_chronic_disease
+  Volume of Resistance Training: concept.volume_of_resistance_training
   Waist Circumference Measurement: procedure.waist_circumference
   Waist Circumference Risk Thresholds: threshold.waist_circumference
+  Warm-Up Before Stretching Recommendation: recommendation.warm_up_before_stretching
+  Warning Against Excessive Volume: warning.excessive_volume_resistance_training
+  Wind Chill Temperature Index Row 1: table_row.wind_chill_temperature_index_1
   Wingate Anaerobic Test Reference Value: table_row.wingate_anaerobic_test_reference
   YMCA Submaximal Cycle Ergometer Protocol: procedure.ymca_cycle_protocol

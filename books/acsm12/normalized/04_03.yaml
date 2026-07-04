@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.conducting_the_clinical_exercise_test
+type: Procedure
+canonical_name: Conducting the Clinical Exercise Test
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Clinical Exercise Testing and Interpretation"
+  section: "4.3"
+  section_title: "Conducting the Clinical Exercise Test"
+  book_page: 277
+  pdf_page: 277
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The procedure for conducting a clinical exercise test.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

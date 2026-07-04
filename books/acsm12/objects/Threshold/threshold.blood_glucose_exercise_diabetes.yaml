@@ -1,0 +1,28 @@
+id: threshold.blood_glucose_exercise_diabetes
+type: Threshold
+canonical_name: Blood Glucose Threshold for Exercise in Diabetes
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Special Considerations
+  section: '8.5'
+  section_title: Special Considerations
+  book_page: 577
+  pdf_page: 577
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'BG <70 mg·dL⁻¹ or >250 mg·dL⁻¹ with ketones
+
+  '
+attributes:
+- blood_glucose
+purpose:
+- exercise in diabetes
+related_concepts: []

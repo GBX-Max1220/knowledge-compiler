@@ -1,0 +1,31 @@
+id: recommendation.exercise_prescription_warm_up_cool_down
+type: Recommendation
+canonical_name: Exercise Prescription — Warm-up and Cool-down
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Prescription for Individuals With Cardiovascular and Pulmonary
+    Diseases
+  section: '8.29'
+  section_title: Exercise Prescription
+  book_page: 608
+  pdf_page: 608
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+definition: 'A warm-up period of 5 to 10 minutes of low-intensity aerobic activity
+  and stretching, and a cool-down period of 5 to 10 minutes of gradually decreasing
+  intensity, should be included in each exercise session.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

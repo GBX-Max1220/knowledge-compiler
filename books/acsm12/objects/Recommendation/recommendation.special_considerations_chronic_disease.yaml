@@ -1,0 +1,45 @@
+id: recommendation.special_considerations_chronic_disease
+type: Recommendation
+canonical_name: Special Considerations for Exercise Prescription in Chronic Disease
+  Populations
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Exercise Prescription for Individuals with Chronic Diseases and Health
+    Conditions
+  section: '10.34'
+  section_title: Exercise Prescription
+  book_page: 855
+  pdf_page: 855
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_chronic_diseases
+definition: 'Special considerations for exercise prescription in individuals with
+  chronic diseases and health conditions include: (a) monitoring for signs and symptoms
+  of exercise intolerance (e.g., chest pain, dizziness, excessive dyspnea); (b) adjusting
+  the prescription based on medication effects (e.g., beta-blockers may blunt heart
+  rate response); (c) ensuring proper warm-up and cool-down periods; and (d) avoiding
+  exercise during acute illness or exacerbation of the chronic condition.
+
+  '
+attributes:
+- monitoring_exercise_intolerance
+- adjusting_for_medications
+- warm_up
+- cool_down
+- avoiding_during_acute_illness
+purpose:
+- provide special considerations for exercise prescription in chronic disease populations
+related_concepts:
+- concept.exercise_intolerance
+- concept.beta_blockers
+- concept.acute_illness
+- concept.chronic_condition_exacerbation

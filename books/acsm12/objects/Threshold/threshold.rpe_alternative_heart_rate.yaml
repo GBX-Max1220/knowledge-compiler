@@ -1,0 +1,29 @@
+id: threshold.rpe_alternative_heart_rate
+type: Threshold
+canonical_name: Rating of Perceived Exertion (RPE) as Alternative to Heart Rate
+semantic_type: Clinical Consideration
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Special Considerations
+  section: '8.26'
+  section_title: Special Considerations
+  book_page: 604
+  pdf_page: 604
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: threshold.heart_rate_monitoring_pacemaker_patients
+definition: 'Thus, the use of rating of perceived exertion (RPE) may be a more appropriate
+  method for monitoring exercise intensity in these patients.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

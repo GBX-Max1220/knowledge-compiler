@@ -1,0 +1,34 @@
+id: recommendation.emergency_preparedness_and_resuscitation_equipment
+type: Recommendation
+canonical_name: Emergency Preparedness and Resuscitation Equipment
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Stratification
+  section: '4.4'
+  section_title: Testing Staff
+  book_page: 279
+  pdf_page: 279
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'All personnel involved in exercise testing should be trained in cardiopulmonary
+  resuscitation (CPR) and the use of an automated external defibrillator (AED). Advanced
+  cardiac life support (ACLS) training is recommended for physicians and other health
+  care professionals who supervise exercise testing. Emergency equipment, including
+  a defibrillator, should be immediately available in the exercise testing area.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.cardiopulmonary_resuscitation
+- concept.automated_external_defibrillator
+- concept.advanced_cardiac_life_support
+- concept.defibrillator

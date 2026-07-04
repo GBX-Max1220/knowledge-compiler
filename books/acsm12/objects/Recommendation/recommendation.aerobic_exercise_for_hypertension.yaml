@@ -1,0 +1,33 @@
+id: recommendation.aerobic_exercise_for_hypertension
+type: Recommendation
+canonical_name: Exercise Prescription for Hypertension — Aerobic Exercise
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.13'
+  section_title: Hypertension
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.hypertension
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: 'Aerobic exercise is recommended as the primary modality for
+  individuals with hypertension. The recommended frequency is most days, preferably
+  daily, for a total of at least 30 min·d−1 of moderate-intensity exercise (e.g.,
+  40%–60% of VO2R or HRR, RPE 11–13 on the 6–20 Borg scale). Accumulation of exercise
+  in multiple bouts of at least 10 min is acceptable.
+
+  '

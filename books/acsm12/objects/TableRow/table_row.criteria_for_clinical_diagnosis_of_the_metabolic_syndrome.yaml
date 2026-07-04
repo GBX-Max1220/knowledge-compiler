@@ -1,0 +1,28 @@
+id: table_row.criteria_for_clinical_diagnosis_of_the_metabolic_syndrome
+type: TableRow
+canonical_name: Criteria for Clinical Diagnosis of the Metabolic Syndrome
+semantic_type: ReferenceTable
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.24'
+  section_title: Metabolic Syndrome
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Table 9.7 Criteria for Clinical Diagnosis of the Metabolic Syndrome
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.metabolic_syndrome
+- decision_rule.metabolic_syndrome_diagnosis_criteria

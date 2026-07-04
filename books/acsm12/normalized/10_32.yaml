@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: figure.exercise_testing_prescription_considerations_kidney_disease
+type: Figure
+canonical_name: Exercise Testing and Prescription Considerations for Individuals With Kidney Disease
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.32"
+  section_title: "Kidney Disease"
+  book_page: 850
+  pdf_page: 850
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 10.5 — Exercise Testing and Prescription Considerations for Individuals With Kidney Disease
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

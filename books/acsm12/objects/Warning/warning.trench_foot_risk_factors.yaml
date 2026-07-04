@@ -1,0 +1,31 @@
+id: warning.trench_foot_risk_factors
+type: Warning
+canonical_name: Trench Foot Risk Factors
+semantic_type: MedicalCondition
+aliases:
+- Immersion Foot
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Trench foot, or immersion foot, results from prolonged exposure to cold
+  and wet conditions, typically between 0°C and 10°C (32°F to 50°F). It can occur
+  even when temperatures are above freezing.
+
+  '
+attributes:
+- temperature_range: 0°C to 10°C (32°F to 50°F)
+purpose: []
+related_concepts:
+- threshold.trench_foot_temperature_range

@@ -1,0 +1,496 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.machine_exercises
+type: TableRow
+canonical_name: Machine Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Machine exercises are resistance training exercises performed using specialized equipment such as weight stack machines, plate-loaded machines, or pneumatic/hydraulic devices. These exercises typically guide the movement pattern through a fixed range of motion.
+
+attributes:
+  - guided_movement_pattern
+  - fixed_range_of_motion
+  - uses_specialized_equipment
+
+purpose:
+  - provide controlled resistance training
+  - isolate specific muscle groups
+
+related_concepts:
+  - concept.resistance_training
+  - concept.free_weight_exercises
+  - concept.body_weight_exercises
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.free_weight_exercises
+type: TableRow
+canonical_name: Free Weight Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Free weight exercises are resistance training exercises performed using barbells, dumbbells, kettlebells, or other handheld weights that are not constrained by a machine. These exercises require the lifter to control the movement path and stabilize the weight throughout the range of motion.
+
+attributes:
+  - unconstrained_movement_path
+  - requires_stabilization
+  - uses_handheld_weights
+
+purpose:
+  - develop functional strength
+  - improve coordination and balance
+  - train multiple muscle groups simultaneously
+
+related_concepts:
+  - concept.resistance_training
+  - concept.machine_exercises
+  - concept.body_weight_exercises
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.body_weight_exercises
+type: TableRow
+canonical_name: Body Weight Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Body weight exercises are resistance training exercises that use the individual's own body weight as the resistance. Examples include push-ups, pull-ups, squats, lunges, and planks. These exercises require no or minimal equipment and can be performed anywhere.
+
+attributes:
+  - uses_body_weight_as_resistance
+  - minimal_equipment_required
+  - portable
+
+purpose:
+  - develop functional strength
+  - improve muscular endurance
+  - provide accessible training option
+
+related_concepts:
+  - concept.resistance_training
+  - concept.machine_exercises
+  - concept.free_weight_exercises
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_band_exercises
+type: TableRow
+canonical_name: Resistance Band Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Resistance band exercises are resistance training exercises performed using elastic bands or tubing that provide variable resistance throughout the range of motion. The resistance increases as the band is stretched further.
+
+attributes:
+  - variable_resistance
+  - elastic_resistance
+  - portable
+
+purpose:
+  - provide progressive resistance training
+  - improve muscular strength and endurance
+  - offer portable training option
+
+related_concepts:
+  - concept.resistance_training
+  - concept.machine_exercises
+  - concept.free_weight_exercises
+  - concept.body_weight_exercises
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.suspension_training_exercises
+type: TableRow
+canonical_name: Suspension Training Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Suspension training exercises are resistance training exercises performed using straps or ropes suspended from an anchor point. The user's body weight provides the resistance, and instability is introduced by the suspension system, requiring greater core activation and stabilization.
+
+attributes:
+  - uses_body_weight_as_resistance
+  - introduces_instability
+  - requires_core_activation
+  - uses_suspension_system
+
+purpose:
+  - develop core strength and stability
+  - improve balance and coordination
+  - provide full-body training stimulus
+
+related_concepts:
+  - concept.resistance_training
+  - concept.body_weight_exercises
+  - concept.core_stability
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.isometric_exercises
+type: TableRow
+canonical_name: Isometric Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Isometric exercises are resistance training exercises in which the muscle contracts without changing length and no visible joint movement occurs. The muscle is activated against an immovable object or by holding a static position.
+
+attributes:
+  - no_joint_movement
+  - static_muscle_contraction
+  - muscle_length_unchanged
+
+purpose:
+  - improve muscular strength at specific joint angles
+  - enhance muscular endurance
+  - provide low-impact training option
+
+related_concepts:
+  - concept.resistance_training
+  - concept.isotonic_exercises
+  - concept.isokinetic_exercises
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.isotonic_exercises
+type: TableRow
+canonical_name: Isotonic Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Isotonic exercises are resistance training exercises in which the muscle contracts and changes length while moving a constant load through a range of motion. This includes both concentric (muscle shortening) and eccentric (muscle lengthening) contractions.
+
+attributes:
+  - constant_load
+  - joint_movement
+  - concentric_and_eccentric_contractions
+
+purpose:
+  - improve muscular strength and power
+  - enhance muscular endurance
+  - develop functional movement patterns
+
+related_concepts:
+  - concept.resistance_training
+  - concept.isometric_exercises
+  - concept.isokinetic_exercises
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.isokinetic_exercises
+type: TableRow
+canonical_name: Isokinetic Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Isokinetic exercises are resistance training exercises performed on specialized equipment that controls the speed of movement throughout the range of motion. The resistance accommodates to match the force applied by the user, allowing maximal muscle activation at every point in the range of motion.
+
+attributes:
+  - controlled_speed
+  - accommodating_resistance
+  - maximal_muscle_activation_throughout_range_of_motion
+  - uses_specialized_equipment
+
+purpose:
+  - assess and train muscular strength at specific speeds
+  - provide safe rehabilitation environment
+  - measure muscle performance objectively
+
+related_concepts:
+  - concept.resistance_training
+  - concept.isometric_exercises
+  - concept.isotonic_exercises
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_exercises
+type: TableRow
+canonical_name: Plyometric Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Plyometric exercises are explosive resistance training exercises that involve rapid stretching of a muscle (eccentric phase) followed immediately by a forceful contraction (concentric phase). This stretch-shortening cycle enhances power output. Examples include box jumps, depth jumps, and medicine ball throws.
+
+attributes:
+  - explosive_movements
+  - stretch_shortening_cycle
+  - rapid_eccentric_to_concentric_transition
+
+purpose:
+  - develop muscular power
+  - improve athletic performance
+  - enhance reactive ability
+
+related_concepts:
+  - concept.resistance_training
+  - concept.power_training
+  - concept.stretch_shortening_cycle
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.medicine_ball_exercises
+type: TableRow
+canonical_name: Medicine Ball Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Medicine ball exercises are resistance training exercises performed using weighted balls of various sizes and weights. These exercises can involve throwing, catching, twisting, and rotational movements, making them effective for developing power, coordination, and core strength.
+
+attributes:
+  - uses_weighted_balls
+  - involves_throwing_and_catching
+  - rotational_movements
+
+purpose:
+  - develop power and explosiveness
+  - improve coordination and balance
+  - enhance core strength and stability
+
+related_concepts:
+  - concept.resistance_training
+  - concept.plyometric_exercises
+  - concept.core_strength
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.kettlebell_exercises
+type: TableRow
+canonical_name: Kettlebell Exercises
+semantic_type: Exercise Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.22"
+  section_title: "Types of Resistance Training Exercises"
+  book_page: 372
+  pdf_page: 372
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Kettlebell exercises are resistance training exercises performed using a cast-iron weight with a handle. The offset center of mass creates unique training demands, requiring greater stabilization and coordination. Common exercises include swings, cleans, snatches, and Turkish get-ups.
+
+attributes:
+  - offset_center_of_mass
+  - requires_stabilization
+  - uses_handle_weight
+
+purpose:
+  - develop functional strength and power
+  - improve cardiovascular endurance
+  - enhance grip strength and coordination
+
+related_concepts:
+  - concept.resistance_training
+  - concept.free_weight_exercises
+  - concept.functional_training

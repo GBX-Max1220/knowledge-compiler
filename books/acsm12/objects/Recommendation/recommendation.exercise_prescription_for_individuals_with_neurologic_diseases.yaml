@@ -1,0 +1,48 @@
+id: recommendation.exercise_prescription_for_individuals_with_neurologic_diseases
+type: Recommendation
+canonical_name: Exercise Prescription for Individuals with Neurologic Diseases
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Individuals with Neurologic Diseases
+  section: '11.4'
+  section_title: Exercise Prescription
+  book_page: 965
+  pdf_page: 965
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.neurologic_diseases
+definition: 'For individuals with neurologic diseases, the exercise prescription should
+  follow the FITT-VP principle (frequency, intensity, time, type, volume, and progression)
+  with modifications based on the specific disease, severity of symptoms, and individual
+  capabilities. The general recommendations for apparently healthy adults should be
+  used as a starting point, with adjustments made as necessary to accommodate the
+  individual''s functional limitations, safety concerns, and therapeutic goals.
+
+  '
+attributes:
+- FITT-VP principle
+- modifications based on specific disease
+- modifications based on severity of symptoms
+- modifications based on individual capabilities
+- starting point: general recommendations for apparently healthy adults
+- adjustments for functional limitations
+- adjustments for safety concerns
+- adjustments for therapeutic goals
+purpose:
+- provide exercise prescription for individuals with neurologic diseases
+related_concepts:
+- concept.neurologic_diseases
+- concept.fitt_vp_principle
+- concept.aerobic_exercise
+- concept.resistance_exercise
+- concept.flexibility_exercise
+- concept.neuromotor_exercise

@@ -1,7 +1,7 @@
 id: concept.coordination
 type: Concept
 canonical_name: Coordination
-semantic_type: Entity
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
@@ -21,7 +21,7 @@ relationships:
 - predicate: part_of
   target: concept.skill_related_physical_fitness
 definition: 'The ability to use the senses, such as sight and hearing, together with
-  body parts in performing tasks smoothly and accurately.
+  body parts in performing motor tasks smoothly and accurately.
 
   '
 attributes: []

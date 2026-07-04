@@ -1,0 +1,26 @@
+id: figure.sex_differences_in_exercise_performance
+type: Figure
+canonical_name: Sex Differences in Exercise Performance
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Sex Differences in Exercise Performance
+  book_page: 337
+  pdf_page: 337
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A figure illustrating sex differences in exercise performance.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

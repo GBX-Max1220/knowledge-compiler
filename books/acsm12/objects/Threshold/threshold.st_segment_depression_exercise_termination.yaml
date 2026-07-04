@@ -1,0 +1,28 @@
+id: threshold.st_segment_depression_exercise_termination
+type: Threshold
+canonical_name: ST-Segment Depression Threshold for Exercise Termination
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Special Considerations
+  section: '8.5'
+  section_title: Special Considerations
+  book_page: 576
+  pdf_page: 576
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: '≥2 mm horizontal or downsloping ST-segment depression
+
+  '
+attributes:
+- st_segment_depression
+purpose:
+- exercise termination
+related_concepts: []

@@ -1,0 +1,27 @@
+id: recommendation.inclusion_caregivers_support_staff
+type: Recommendation
+canonical_name: Inclusion of Caregivers or Support Staff
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Whenever possible, include a caregiver or support staff member who is
+  familiar with the individual to assist with communication and behavior management.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

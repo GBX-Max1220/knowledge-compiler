@@ -1,0 +1,195 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.asthma_severity_intermittent
+type: Threshold
+canonical_name: Asthma Severity Classification — Intermittent
+semantic_type: ClinicalClassification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "8.43"
+  section_title: "Asthma"
+  book_page: 628
+  pdf_page: 628
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.asthma_severity_classification
+  - predicate: adjacent_to
+    target: threshold.asthma_severity_mild_persistent
+
+definition: >
+  Intermittent: Symptoms ≤2 days·wk⁻¹, nighttime awakenings ≤2×·mo⁻¹, SABA use ≤2 days·wk⁻¹, no interference with normal activity, FEV₁ ≥80% predicted, FEV₁/FVC normal
+
+attributes:
+  - symptom_frequency: "≤2 days·wk⁻¹"
+  - nighttime_awakenings: "≤2×·mo⁻¹"
+  - saba_use: "≤2 days·wk⁻¹"
+  - activity_limitation: "no interference with normal activity"
+  - fev1: "≥80% predicted"
+  - fev1_fvc: "normal"
+
+purpose:
+  - classify asthma severity
+
+related_concepts:
+  - concept.asthma
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.asthma_severity_mild_persistent
+type: Threshold
+canonical_name: Asthma Severity Classification — Mild Persistent
+semantic_type: ClinicalClassification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "8.43"
+  section_title: "Asthma"
+  book_page: 628
+  pdf_page: 628
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.asthma_severity_classification
+  - predicate: adjacent_to
+    target: threshold.asthma_severity_intermittent
+  - predicate: adjacent_to
+    target: threshold.asthma_severity_moderate_persistent
+
+definition: >
+  Mild persistent: Symptoms >2 days·wk⁻¹ but not daily, nighttime awakenings 3–4×·mo⁻¹, SABA use >2 days·wk⁻¹ but not daily, minor limitation of normal activity, FEV₁ ≥80% predicted, FEV₁/FVC normal
+
+attributes:
+  - symptom_frequency: ">2 days·wk⁻¹ but not daily"
+  - nighttime_awakenings: "3–4×·mo⁻¹"
+  - saba_use: ">2 days·wk⁻¹ but not daily"
+  - activity_limitation: "minor limitation of normal activity"
+  - fev1: "≥80% predicted"
+  - fev1_fvc: "normal"
+
+purpose:
+  - classify asthma severity
+
+related_concepts:
+  - concept.asthma
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.asthma_severity_moderate_persistent
+type: Threshold
+canonical_name: Asthma Severity Classification — Moderate Persistent
+semantic_type: ClinicalClassification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "8.43"
+  section_title: "Asthma"
+  book_page: 628
+  pdf_page: 628
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.asthma_severity_classification
+  - predicate: adjacent_to
+    target: threshold.asthma_severity_mild_persistent
+  - predicate: adjacent_to
+    target: threshold.asthma_severity_severe_persistent
+
+definition: >
+  Moderate persistent: Daily symptoms, nighttime awakenings >1×·wk⁻¹ but not nightly, daily SABA use, some limitation of normal activity, FEV₁ 60%–80% predicted, FEV₁/FVC reduced 5%
+
+attributes:
+  - symptom_frequency: "Daily"
+  - nighttime_awakenings: ">1×·wk⁻¹ but not nightly"
+  - saba_use: "daily"
+  - activity_limitation: "some limitation of normal activity"
+  - fev1: "60%–80% predicted"
+  - fev1_fvc: "reduced 5%"
+
+purpose:
+  - classify asthma severity
+
+related_concepts:
+  - concept.asthma
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.asthma_severity_severe_persistent
+type: Threshold
+canonical_name: Asthma Severity Classification — Severe Persistent
+semantic_type: ClinicalClassification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "8.43"
+  section_title: "Asthma"
+  book_page: 628
+  pdf_page: 628
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.asthma_severity_classification
+  - predicate: adjacent_to
+    target: threshold.asthma_severity_moderate_persistent
+
+definition: >
+  Severe persistent: Symptoms throughout the day, nighttime awakenings often 7×·wk⁻¹, SABA use several times per day, extremely limited normal activity, FEV₁ <60% predicted, FEV₁/FVC reduced >5%
+
+attributes:
+  - symptom_frequency: "throughout the day"
+  - nighttime_awakenings: "often 7×·wk⁻¹"
+  - saba_use: "several times per day"
+  - activity_limitation: "extremely limited normal activity"
+  - fev1: "<60% predicted"
+  - fev1_fvc: "reduced >5%"
+
+purpose:
+  - classify asthma severity
+
+related_concepts:
+  - concept.asthma

@@ -1,0 +1,31 @@
+id: contraindication.exercise_in_hypertensive_crisis
+type: Contraindication
+canonical_name: Contraindication to Exercise in Hypertensive Crisis
+semantic_type: MedicalContraindication
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.13'
+  section_title: Hypertension
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.hypertension
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+contraindication_text: 'Exercise is contraindicated in individuals with hypertensive
+  crisis (SBP > 180 mm Hg and/or DBP > 120 mm Hg).
+
+  '
+condition: hypertensive crisis (SBP > 180 mm Hg and/or DBP > 120 mm Hg)

@@ -1,0 +1,33 @@
+id: recommendation.duration_chronic_disease
+type: Recommendation
+canonical_name: Time (Duration) of Exercise for Chronic Disease Populations
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Exercise Prescription for Individuals with Chronic Diseases and Health
+    Conditions
+  section: '10.34'
+  section_title: Exercise Prescription
+  book_page: 855
+  pdf_page: 855
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_chronic_diseases
+definition: 'A target of 30–60 min·d−1 of accumulated aerobic exercise is recommended.
+  For those unable to sustain 30 min of continuous exercise, multiple shorter bouts
+  (e.g., 10–15 min) throughout the day are recommended.
+
+  '
+attributes:
+- accumulated_aerobic_exercise
+purpose:
+- guide duration of aerobic exercise for chronic disease populations
+related_concepts: []

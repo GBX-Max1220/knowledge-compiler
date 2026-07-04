@@ -1,0 +1,43 @@
+id: recommendation.time_recommendation_for_neurologic_conditions
+type: Recommendation
+canonical_name: Time Recommendation for Neurologic Conditions
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Individuals with Neurologic Diseases
+  section: '11.4'
+  section_title: Exercise Prescription
+  book_page: 965
+  pdf_page: 965
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_for_individuals_with_neurologic_diseases
+definition: 'Aerobic exercise: 20–60 min·d⁻¹ (or multiple bouts of 10–15 min if continuous
+  exercise is not tolerated). Resistance exercise: 1–3 sets of 8–15 repetitions for
+  each major muscle group. Flexibility exercise: hold each stretch for 30–60 s; perform
+  2–4 repetitions per stretch. Neuromotor exercise: 20–30 min·d⁻¹.
+
+  '
+attributes:
+- aerobic exercise: 20–60 min·d⁻¹
+- aerobic exercise alternative: multiple bouts of 10–15 min if continuous exercise
+    not tolerated
+- resistance exercise: 1–3 sets of 8–15 repetitions for each major muscle group
+- flexibility exercise: hold each stretch for 30–60 s
+- flexibility exercise: 2–4 repetitions per stretch
+- neuromotor exercise: 20–30 min·d⁻¹
+purpose:
+- specify time of exercise for individuals with neurologic conditions
+related_concepts:
+- concept.aerobic_exercise
+- concept.resistance_exercise
+- concept.flexibility_exercise
+- concept.neuromotor_exercise

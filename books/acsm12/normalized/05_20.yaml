@@ -1,0 +1,236 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_training_intensity_classification
+type: Threshold
+canonical_name: Resistance Training Intensity Classification by Repetition Maximum (RM)
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.20"
+  section_title: "Intensity of Resistance Training Exercise"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: classifies
+    target: concept.resistance_training_intensity
+definition: >
+  The RM continuum is a classification system that categorizes the intensity of resistance exercise based on the number of repetitions that can be performed before fatigue.
+attributes:
+  - very_light
+  - light
+  - moderate
+  - hard
+  - very_hard
+  - near_maximal
+purpose: []
+related_concepts:
+  - concept.one_repetition_maximum
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_training_intensity.very_light
+type: Threshold
+canonical_name: Very Light Resistance Training Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.20"
+  section_title: "Intensity of Resistance Training Exercise"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.light
+  - predicate: part_of
+    target: threshold.resistance_training_intensity_classification
+definition: >
+  very light (e.g., 20–30 RM)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_training_intensity.light
+type: Threshold
+canonical_name: Light Resistance Training Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.20"
+  section_title: "Intensity of Resistance Training Exercise"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.very_light
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.moderate
+  - predicate: part_of
+    target: threshold.resistance_training_intensity_classification
+definition: >
+  light (e.g., 15–20 RM)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_training_intensity.moderate
+type: Threshold
+canonical_name: Moderate Resistance Training Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.20"
+  section_title: "Intensity of Resistance Training Exercise"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.light
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.hard
+  - predicate: part_of
+    target: threshold.resistance_training_intensity_classification
+definition: >
+  moderate (e.g., 10–15 RM)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_training_intensity.hard
+type: Threshold
+canonical_name: Hard Resistance Training Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.20"
+  section_title: "Intensity of Resistance Training Exercise"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.moderate
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.very_hard
+  - predicate: part_of
+    target: threshold.resistance_training_intensity_classification
+definition: >
+  hard (e.g., 6–10 RM)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_training_intensity.very_hard
+type: Threshold
+canonical_name: Very Hard Resistance Training Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.20"
+  section_title: "Intensity of Resistance Training Exercise"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.hard
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.near_maximal
+  - predicate: part_of
+    target: threshold.resistance_training_intensity_classification
+definition: >
+  very hard (e.g., 3–6 RM)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_training_intensity.near_maximal
+type: Threshold
+canonical_name: Near-Maximal Resistance Training Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.20"
+  section_title: "Intensity of Resistance Training Exercise"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.resistance_training_intensity.very_hard
+  - predicate: part_of
+    target: threshold.resistance_training_intensity_classification
+definition: >
+  near-maximal (e.g., 1–3 RM)
+attributes: []
+purpose: []
+related_concepts: []

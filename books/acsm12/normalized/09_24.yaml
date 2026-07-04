@@ -1,0 +1,259 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.metabolic_syndrome
+type: Concept
+canonical_name: Metabolic Syndrome
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.24"
+  section_title: "Metabolic Syndrome"
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Metabolic syndrome is a cluster of risk factors that are associated with an increased risk for CVD and type 2 diabetes mellitus (T2DM). The metabolic syndrome is diagnosed when three or more of the following risk factors are present: elevated waist circumference (population- and country-specific definitions), elevated triglycerides (≥150 mg·dL−1 [1.7 mmol·L−1]), reduced HDL-C (<40 mg·dL−1 [1.0 mmol·L−1] in males; <50 mg·dL−1 [1.3 mmol·L−1] in females), elevated blood pressure (systolic ≥130 and/or diastolic ≥85 mm Hg), and elevated fasting glucose (≥100 mg·dL−1 [5.6 mmol·L−1]).
+attributes:
+  - cluster of risk factors
+purpose: []
+related_concepts:
+  - concept.elevated_waist_circumference_metabolic_syndrome_criterion
+  - concept.elevated_triglycerides_threshold_metabolic_syndrome
+  - concept.reduced_hdl_c_threshold_metabolic_syndrome
+  - concept.elevated_blood_pressure_threshold_metabolic_syndrome
+  - concept.elevated_fasting_glucose_threshold_metabolic_syndrome
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.elevated_waist_circumference_metabolic_syndrome_criterion
+type: Concept
+canonical_name: Elevated Waist Circumference (Metabolic Syndrome Criterion)
+semantic_type: ClinicalCriterion
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.24"
+  section_title: "Metabolic Syndrome"
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.metabolic_syndrome
+definition: >
+  elevated waist circumference (population- and country-specific definitions)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.elevated_triglycerides_metabolic_syndrome
+type: Threshold
+canonical_name: Elevated Triglycerides Threshold (Metabolic Syndrome)
+semantic_type: LaboratoryThreshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.24"
+  section_title: "Metabolic Syndrome"
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.metabolic_syndrome
+definition: >
+  elevated triglycerides (≥150 mg·dL−1 [1.7 mmol·L−1])
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: "≥150 mg·dL−1 [1.7 mmol·L−1]"
+unit: "mg·dL−1"
+comparison_operator: "≥"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.reduced_hdl_c_metabolic_syndrome
+type: Threshold
+canonical_name: Reduced HDL-C Threshold (Metabolic Syndrome)
+semantic_type: LaboratoryThreshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.24"
+  section_title: "Metabolic Syndrome"
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.metabolic_syndrome
+definition: >
+  reduced HDL-C (<40 mg·dL−1 [1.0 mmol·L−1] in males; <50 mg·dL−1 [1.3 mmol·L−1] in females)
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: "<40 mg·dL−1 [1.0 mmol·L−1] in males; <50 mg·dL−1 [1.3 mmol·L−1] in females"
+unit: "mg·dL−1"
+comparison_operator: "<"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.elevated_blood_pressure_metabolic_syndrome
+type: Threshold
+canonical_name: Elevated Blood Pressure Threshold (Metabolic Syndrome)
+semantic_type: VitalSignThreshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.24"
+  section_title: "Metabolic Syndrome"
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.metabolic_syndrome
+definition: >
+  elevated blood pressure (systolic ≥130 and/or diastolic ≥85 mm Hg)
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: "systolic ≥130 and/or diastolic ≥85 mm Hg"
+unit: "mm Hg"
+comparison_operator: "≥"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.elevated_fasting_glucose_metabolic_syndrome
+type: Threshold
+canonical_name: Elevated Fasting Glucose Threshold (Metabolic Syndrome)
+semantic_type: LaboratoryThreshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.24"
+  section_title: "Metabolic Syndrome"
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.metabolic_syndrome
+definition: >
+  elevated fasting glucose (≥100 mg·dL−1 [5.6 mmol·L−1])
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: "≥100 mg·dL−1 [5.6 mmol·L−1]"
+unit: "mg·dL−1"
+comparison_operator: "≥"
+---
+# ontology: knowledge-compiler/v1
+
+id: decision_rule.metabolic_syndrome_diagnosis_criteria
+type: DecisionRule
+canonical_name: Metabolic Syndrome Diagnosis Criteria
+semantic_type: DiagnosticCriteria
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.24"
+  section_title: "Metabolic Syndrome"
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The metabolic syndrome is diagnosed when three or more of the following risk factors are present: elevated waist circumference (population- and country-specific definitions), elevated triglycerides (≥150 mg·dL−1 [1.7 mmol·L−1]), reduced HDL-C (<40 mg·dL−1 [1.0 mmol·L−1] in males; <50 mg·dL−1 [1.3 mmol·L−1] in females), elevated blood pressure (systolic ≥130 and/or diastolic ≥85 mm Hg), and elevated fasting glucose (≥100 mg·dL−1 [5.6 mmol·L−1]).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.metabolic_syndrome
+  - concept.elevated_waist_circumference_metabolic_syndrome_criterion
+  - threshold.elevated_triglycerides_metabolic_syndrome
+  - threshold.reduced_hdl_c_metabolic_syndrome
+  - threshold.elevated_blood_pressure_metabolic_syndrome
+  - threshold.elevated_fasting_glucose_metabolic_syndrome
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.criteria_for_clinical_diagnosis_of_the_metabolic_syndrome
+type: TableRow
+canonical_name: Criteria for Clinical Diagnosis of the Metabolic Syndrome
+semantic_type: ReferenceTable
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.24"
+  section_title: "Metabolic Syndrome"
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Table 9.7 Criteria for Clinical Diagnosis of the Metabolic Syndrome
+attributes: []
+purpose: []
+related_concepts:
+  - concept.metabolic_syndrome
+  - decision_rule.metabolic_syndrome_diagnosis_criteria

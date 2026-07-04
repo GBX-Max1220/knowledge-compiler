@@ -1,0 +1,46 @@
+
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise
+type: Concept
+canonical_name: Exercise
+semantic_type: Activity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.physical_activity
+
+definition: >
+  A type of PA consisting of planned, structured, and
+  repetitive bodily movement done to improve and/or
+  maintain one or more components of physical fitness.
+
+attributes:
+  - planned
+  - structured
+  - repetitive
+
+purpose:
+  - improve physical fitness
+  - maintain physical fitness
+
+related_concepts:
+  - concept.physical_fitness

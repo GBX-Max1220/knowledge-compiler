@@ -1,0 +1,31 @@
+id: evidence.exercise_lowering_blood_pressure
+type: Evidence
+canonical_name: Evidence for Exercise Lowering Blood Pressure
+semantic_type: ClinicalEvidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.13'
+  section_title: Hypertension
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: A
+relationships:
+- predicate: supports
+  target: recommendation.aerobic_exercise_for_hypertension
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+evidence_text: 'Regular aerobic exercise lowers resting SBP and DBP by approximately
+  5–7 mm Hg and 4–6 mm Hg, respectively, in individuals with hypertension (Evidence
+  Category A).
+
+  '

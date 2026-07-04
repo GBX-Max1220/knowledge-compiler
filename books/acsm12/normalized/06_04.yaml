@@ -1,0 +1,279 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.health_related_physical_fitness
+type: Concept
+canonical_name: Health-Related Physical Fitness
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.1"
+  section_title: "Health-Related Physical Fitness Components"
+  book_page: 1
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Health-related physical fitness components.
+attributes:
+  - cardiorespiratory endurance
+  - body composition
+  - muscular strength
+  - muscular endurance
+  - flexibility
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cardiorespiratory_endurance
+type: Concept
+canonical_name: Cardiorespiratory Endurance
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.1"
+  section_title: "Health-Related Physical Fitness Components"
+  book_page: 1
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.body_composition
+type: Concept
+canonical_name: Body Composition
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.1"
+  section_title: "Health-Related Physical Fitness Components"
+  book_page: 1
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscular_strength
+type: Concept
+canonical_name: Muscular Strength
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.1"
+  section_title: "Health-Related Physical Fitness Components"
+  book_page: 1
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscular_endurance
+type: Concept
+canonical_name: Muscular Endurance
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.1"
+  section_title: "Health-Related Physical Fitness Components"
+  book_page: 1
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.flexibility
+type: Concept
+canonical_name: Flexibility
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.1"
+  section_title: "Health-Related Physical Fitness Components"
+  book_page: 1
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.light
+type: Threshold
+canonical_name: Light-Intensity MET Threshold
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity Intensity Classification"
+  book_page: 2
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.moderate
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+threshold_type: MET
+value: "1.6–2.9"
+unit: METs
+operator: range
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.moderate
+type: Threshold
+canonical_name: Moderate-Intensity MET Threshold
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity Intensity Classification"
+  book_page: 2
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.light
+  - predicate: adjacent_to
+    target: threshold.met.vigorous
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+threshold_type: MET
+value: "3.0–5.9"
+unit: METs
+operator: range
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.vigorous
+type: Threshold
+canonical_name: Vigorous-Intensity MET Threshold
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity Intensity Classification"
+  book_page: 2
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.moderate
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+threshold_type: MET
+value: "≥6.0"
+unit: METs
+operator: greater_than_or_equal
+---

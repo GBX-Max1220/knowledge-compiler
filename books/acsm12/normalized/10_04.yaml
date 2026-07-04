@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: figure.exercise_prescription_considerations_chronic_diseases
+type: Figure
+canonical_name: Exercise Prescription Considerations for Populations with Other Chronic Diseases and Health Conditions
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.4"
+  section_title: "Exercise Prescription"
+  book_page: 788
+  pdf_page: 788
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 10.4 — Exercise prescription considerations for populations with other chronic diseases and health conditions.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

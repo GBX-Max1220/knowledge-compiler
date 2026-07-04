@@ -1,0 +1,29 @@
+id: concept.stages_of_hypertension
+type: Concept
+canonical_name: Stages of Hypertension
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.13'
+  section_title: Hypertension
+  book_page: 729
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.hypertension
+definition: 'Stages of hypertension are defined as follows: Stage 1: SBP 130–139 mm
+  Hg or DBP 80–89 mm Hg; Stage 2: SBP ≥ 140 mm Hg or DBP ≥ 90 mm Hg.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

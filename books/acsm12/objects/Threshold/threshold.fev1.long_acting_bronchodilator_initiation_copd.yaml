@@ -1,0 +1,36 @@
+id: threshold.fev1.long_acting_bronchodilator_initiation_copd
+type: Threshold
+canonical_name: FEV1 Threshold for Long-Acting Bronchodilator Initiation in COPD
+semantic_type: ClinicalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Pharmacological Treatment Options
+  section: '10.14'
+  section_title: Pharmacological Treatment Options
+  book_page: 820
+  pdf_page: 820
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.fev1.inhaled_corticosteroid_initiation_copd
+definition: 'Long-acting bronchodilators (LABA or LAMA) are recommended as first-line
+  therapy for patients with COPD who have FEV1 <60% predicted and persistent symptoms.
+
+  '
+attributes:
+- fev1: <60
+- unit: '% predicted'
+- condition: persistent symptoms
+purpose:
+- initiate long-acting bronchodilator therapy
+related_concepts:
+- concept.copd
+- concept.laba
+- concept.lama

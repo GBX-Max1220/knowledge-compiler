@@ -1,0 +1,41 @@
+id: recommendation.exercise_prescription_for_chronic_heart_failure
+type: Recommendation
+canonical_name: Exercise Prescription for Chronic Heart Failure
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.14'
+  section_title: Chronic Heart Failure
+  book_page: 592
+  pdf_page: 592
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: recommendation.exercise_prescription
+definition: 'Exercise training is recommended for patients with chronic heart failure
+  (HF) who are stable and have no contraindications to exercise. The exercise prescription
+  should include aerobic and resistance training. Aerobic exercise should be performed
+  at an intensity of 40%–70% of heart rate reserve (HRR) or 40%–70% of peak oxygen
+  uptake (VO2peak). Resistance training should be performed at an intensity of 40%–60%
+  of one-repetition maximum (1-RM). Exercise sessions should last 20–60 minutes, 3–5
+  days per week.
+
+  '
+attributes: []
+purpose:
+- treat chronic heart failure
+related_concepts:
+- concept.chronic_heart_failure
+- concept.aerobic_exercise
+- concept.resistance_training
+- concept.heart_rate_reserve
+- concept.peak_oxygen_uptake
+- concept.one_repetition_maximum

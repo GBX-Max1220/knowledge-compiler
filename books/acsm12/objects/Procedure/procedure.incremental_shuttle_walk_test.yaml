@@ -1,0 +1,41 @@
+id: procedure.incremental_shuttle_walk_test
+type: Procedure
+canonical_name: Incremental Shuttle Walk Test
+semantic_type: Assessment
+aliases:
+- ISWT
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.24'
+  section_title: Field Walking Tests
+  book_page: 318
+  pdf_page: 318
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: procedure.field_walking_test
+definition: 'The incremental shuttle walk test (ISWT) is a maximal, externally paced
+  test that requires the patient to walk at increasing speeds around a 10-m course.
+  The speed is dictated by an audio signal. The test ends when the patient is unable
+  to maintain the required speed or becomes too breathless or fatigued to continue.
+  The ISWT is used to assess functional capacity and to evaluate the effects of therapeutic
+  interventions.
+
+  '
+attributes:
+- maximal
+- externally paced
+- course_length: 10 meters
+- pacing_method: audio signal
+purpose:
+- assess functional capacity
+- evaluate effects of therapeutic interventions
+related_concepts:
+- concept.functional_capacity

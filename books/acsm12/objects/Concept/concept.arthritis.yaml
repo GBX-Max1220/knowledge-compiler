@@ -1,0 +1,27 @@
+id: concept.arthritis
+type: Concept
+canonical_name: Arthritis
+semantic_type: Disease
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.2'
+  section_title: Arthritis
+  book_page: 785
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A general term for a group of more than 100 diseases that involve inflammation
+  of the joints or surrounding tissue.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

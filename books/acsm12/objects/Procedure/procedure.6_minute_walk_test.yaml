@@ -1,0 +1,44 @@
+id: procedure.6_minute_walk_test
+type: Procedure
+canonical_name: 6-Minute Walk Test
+semantic_type: Assessment
+aliases:
+- 6MWT
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.24'
+  section_title: Field Walking Tests
+  book_page: 318
+  pdf_page: 318
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: procedure.field_walking_test
+definition: 'The 6-min walk test (6MWT) is a self-paced test of the distance a person
+  can walk in 6 min. The 6MWT is performed on a flat, hard surface, and the patient
+  is instructed to cover as much distance as possible in 6 min. The patient may slow
+  down or stop as needed. Standardized instructions and encouragement are provided.
+  The 6MWT is a measure of functional capacity and is used to assess the response
+  to therapeutic interventions and to predict morbidity and mortality in patients
+  with cardiopulmonary disease.
+
+  '
+attributes:
+- self-paced
+- duration: 6 minutes
+- surface: flat, hard
+purpose:
+- measure functional capacity
+- assess response to therapeutic interventions
+- predict morbidity in patients with cardiopulmonary disease
+- predict mortality in patients with cardiopulmonary disease
+related_concepts:
+- concept.functional_capacity
+- concept.cardiopulmonary_disease

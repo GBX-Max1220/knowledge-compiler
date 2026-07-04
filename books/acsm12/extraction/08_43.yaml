@@ -1,0 +1,95 @@
+TYPE
+Threshold
+
+TITLE
+Asthma Severity Classification — Intermittent
+
+PAGE
+628
+
+SECTION
+8.43 — Asthma
+
+ORIGINAL TEXT
+Intermittent: Symptoms ≤2 days·wk⁻¹, nighttime awakenings ≤2×·mo⁻¹, SABA use ≤2 days·wk⁻¹, no interference with normal activity, FEV₁ ≥80% predicted, FEV₁/FVC normal
+
+PARENT
+Asthma Severity Classification
+
+CHILDREN
+
+RELATIONSHIPS
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Asthma Severity Classification — Mild Persistent
+
+PAGE
+628
+
+SECTION
+8.43 — Asthma
+
+ORIGINAL TEXT
+Mild persistent: Symptoms >2 days·wk⁻¹ but not daily, nighttime awakenings 3–4×·mo⁻¹, SABA use >2 days·wk⁻¹ but not daily, minor limitation of normal activity, FEV₁ ≥80% predicted, FEV₁/FVC normal
+
+PARENT
+Asthma Severity Classification
+
+CHILDREN
+
+RELATIONSHIPS
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Asthma Severity Classification — Moderate Persistent
+
+PAGE
+628
+
+SECTION
+8.43 — Asthma
+
+ORIGINAL TEXT
+Moderate persistent: Daily symptoms, nighttime awakenings >1×·wk⁻¹ but not nightly, daily SABA use, some limitation of normal activity, FEV₁ 60%–80% predicted, FEV₁/FVC reduced 5%
+
+PARENT
+Asthma Severity Classification
+
+CHILDREN
+
+RELATIONSHIPS
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Asthma Severity Classification — Severe Persistent
+
+PAGE
+628
+
+SECTION
+8.43 — Asthma
+
+ORIGINAL TEXT
+Severe persistent: Symptoms throughout the day, nighttime awakenings often 7×·wk⁻¹, SABA use several times per day, extremely limited normal activity, FEV₁ <60% predicted, FEV₁/FVC reduced >5%
+
+PARENT
+Asthma Severity Classification
+
+CHILDREN
+
+RELATIONSHIPS
+
+END

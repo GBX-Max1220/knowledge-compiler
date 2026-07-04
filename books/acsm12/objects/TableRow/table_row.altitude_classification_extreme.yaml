@@ -1,0 +1,30 @@
+id: table_row.altitude_classification_extreme
+type: TableRow
+canonical_name: Altitude Classification Extreme
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise in High-Altitude Environments
+  section: '7.2'
+  section_title: Exercise in High-Altitude Environments
+  book_page: 524
+  pdf_page: 524
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Extreme altitude classification.
+
+  '
+attributes:
+- altitude_classification: Extreme
+- altitude_range: '>5,500 m (>18,000 ft)'
+- physiological_effects: Profound hypoxemia; progressive deterioration of physiologic
+    function; severe acute mountain sickness and high-altitude pulmonary edema; high-altitude
+    cerebral edema possible
+related_concepts: []

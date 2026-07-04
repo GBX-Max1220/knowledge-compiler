@@ -1,0 +1,35 @@
+id: threshold.altitude_acclimatization_status_categories
+type: Threshold
+canonical_name: Altitude Acclimatization Status Categories
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.5'
+  section_title: Assessing Individual Altitude Acclimatization Status
+  book_page: 530
+  pdf_page: 530
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: threshold.unacclimatized
+- predicate: has_attribute
+  target: threshold.partially_acclimatized
+- predicate: has_attribute
+  target: threshold.acclimatized
+- predicate: has_attribute
+  target: threshold.fully_acclimatized
+definition: 'Categories of altitude acclimatization status based on days spent at
+  altitude.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

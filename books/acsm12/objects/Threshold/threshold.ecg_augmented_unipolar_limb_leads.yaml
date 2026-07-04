@@ -1,0 +1,28 @@
+id: threshold.ecg_augmented_unipolar_limb_leads
+type: Threshold
+canonical_name: ECG Augmented Unipolar Limb Leads
+semantic_type: Electrode Placement
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Electrocardiogram
+  section: '4.13'
+  section_title: Electrocardiogram
+  book_page: 298
+  pdf_page: 298
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Augmented unipolar limb leads (aVR, aVL, aVF) measure the electrical
+  potential at one limb relative to the average of the other two limbs: aVR: right
+  arm (+); aVL: left arm (+); aVF: left leg (+).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

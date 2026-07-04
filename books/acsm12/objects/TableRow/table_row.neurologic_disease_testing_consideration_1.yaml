@@ -1,0 +1,30 @@
+id: table_row.neurologic_disease_testing_consideration_1
+type: TableRow
+canonical_name: Neurologic Disease Testing Consideration 1
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Testing
+  section: '11.23'
+  section_title: Exercise Testing
+  book_page: 992
+  pdf_page: 992
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Placeholder row for Table 11.3: Exercise Testing Considerations for Neurologic
+  Diseases, Conditions, and Disorders. The original table text was not provided in
+  the extraction chunk.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.neurologic_disease
+- concept.exercise_testing

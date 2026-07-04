@@ -1,0 +1,33 @@
+id: table_row.rest_periods_muscular_power
+type: TableRow
+canonical_name: Rest Periods Muscular Power
+semantic_type: Rest Period
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.21'
+  section_title: Time (Rest Periods of Resistance Training Exercises)
+  book_page: 371
+  pdf_page: 371
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: table.rest_periods_between_sets_and_exercises
+definition: 'For the goal of muscular power, the rest period between sets and exercises
+  is 2–5 minutes.
+
+  '
+attributes:
+  goal: Muscular power
+  rest_period: 2–5 min
+purpose:
+- muscular power
+related_concepts:
+- concept.muscular_power

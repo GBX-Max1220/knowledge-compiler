@@ -1,0 +1,77 @@
+TYPE
+Threshold
+
+TITLE
+Exercise Testing Contraindication Thresholds for Chronic Disease Populations
+
+PAGE
+845
+
+SECTION
+10.28 — Exercise Testing
+
+ORIGINAL TEXT
+Exercise testing is contraindicated for persons with severe aortic stenosis (peak systolic pressure gradient >50 mm Hg with normal cardiac output or a valve area <0.75 cm²), acute myocarditis or pericarditis, suspected or known dissecting aneurysm, acute systemic infection, or recent significant change in the resting ECG suggesting ischemia or other acute cardiac event.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Severe Aortic Stenosis — Peak Systolic Pressure Gradient Threshold
+
+PAGE
+845
+
+SECTION
+10.28 — Exercise Testing
+
+ORIGINAL TEXT
+peak systolic pressure gradient >50 mm Hg with normal cardiac output
+
+PARENT
+Exercise Testing Contraindication Thresholds for Chronic Disease Populations
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Severe Aortic Stenosis — Valve Area Threshold
+
+PAGE
+845
+
+SECTION
+10.28 — Exercise Testing
+
+ORIGINAL TEXT
+valve area <0.75 cm²
+
+PARENT
+Exercise Testing Contraindication Thresholds for Chronic Disease Populations
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END

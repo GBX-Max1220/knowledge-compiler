@@ -1,0 +1,103 @@
+TYPE
+Threshold
+
+TITLE
+Altitude Acclimatization Status Categories
+
+PAGE
+530–531
+
+SECTION
+7.5 — Assessing Individual Altitude Acclimatization Status
+
+ORIGINAL TEXT
+Altitude Acclimatization Status Categories:
+• Unacclimatized: <2 days at altitude
+• Partially Acclimatized: 2–7 days at altitude
+• Acclimatized: 8–14 days at altitude
+• Fully Acclimatized: >14 days at altitude
+
+CHILDREN
+Unacclimatized, Partially Acclimatized, Acclimatized, Fully Acclimatized
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Unacclimatized
+
+PAGE
+530–531
+
+SECTION
+7.5 — Assessing Individual Altitude Acclimatization Status
+
+ORIGINAL TEXT
+Unacclimatized: <2 days at altitude
+
+PARENT
+Altitude Acclimatization Status Categories
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Partially Acclimatized
+
+PAGE
+530–531
+
+SECTION
+7.5 — Assessing Individual Altitude Acclimatization Status
+
+ORIGINAL TEXT
+Partially Acclimatized: 2–7 days at altitude
+
+PARENT
+Altitude Acclimatization Status Categories
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Acclimatized
+
+PAGE
+530–531
+
+SECTION
+7.5 — Assessing Individual Altitude Acclimatization Status
+
+ORIGINAL TEXT
+Acclimatized: 8–14 days at altitude
+
+PARENT
+Altitude Acclimatization Status Categories
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Fully Acclimatized
+
+PAGE
+530–531
+
+SECTION
+7.5 — Assessing Individual Altitude Acclimatization Status
+
+ORIGINAL TEXT
+Fully Acclimatized: >14 days at altitude
+
+PARENT
+Altitude Acclimatization Status Categories
+
+END

@@ -1,0 +1,35 @@
+id: threshold.aerobic_intensity_hrr_v02r_moderate
+type: Threshold
+canonical_name: Moderate Intensity Using %HRR or %VO2R
+semantic_type: Intensity Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Clinical Exercise Testing and Prescription
+  section: '5.13'
+  section_title: Intensity of Aerobic Exercise
+  book_page: 347
+  pdf_page: 347
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.aerobic_intensity_hrr_v02r_light
+- predicate: adjacent_to
+  target: threshold.aerobic_intensity_hrr_v02r_vigorous
+definition: 'Moderate: 40%–59% HRR or VO2R.
+
+  '
+attributes: []
+purpose:
+- classify aerobic exercise intensity
+related_concepts:
+- concept.heart_rate_reserve
+- concept.vo2_reserve
+range: 40%–59%
+unit: '%HRR or %VO2R'

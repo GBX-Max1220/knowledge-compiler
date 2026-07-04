@@ -1,0 +1,30 @@
+id: recommendation.pnf_stretching
+type: Recommendation
+canonical_name: PNF Stretching Recommendation
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.25'
+  section_title: Flexibility
+  book_page: 387
+  pdf_page: 387
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Proprioceptive neuromuscular facilitation (PNF) stretching, which involves
+  a combination of passive stretching and isometric contractions, is recommended as
+  an effective method for increasing range of motion. A 3–6 s low-intensity (20%–75%
+  of maximal voluntary contraction) isometric contraction followed by a 10–30 s passive
+  stretch is recommended for PNF stretching.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

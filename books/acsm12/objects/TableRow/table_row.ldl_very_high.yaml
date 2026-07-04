@@ -1,0 +1,35 @@
+id: table_row.ldl_very_high
+type: TableRow
+canonical_name: LDL-C Very High
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Dyslipidemia
+  section: '9.8'
+  section_title: Dyslipidemia
+  book_page: 726
+  pdf_page: 726
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: table_row.ldl_high
+definition: 'Classification of LDL-C, Non–HDL-C, and Apo B levels as Very High.
+
+  '
+attributes:
+- ldl_c: ≥190 mg·dL⁻¹
+- non_hdl_c: ≥220 mg·dL⁻¹
+- apo_b: ≥150 mg·dL⁻¹
+- classification: Very High
+purpose: []
+related_concepts:
+- concept.ldl_cholesterol
+- concept.non_hdl_cholesterol
+- concept.apolipoprotein_b

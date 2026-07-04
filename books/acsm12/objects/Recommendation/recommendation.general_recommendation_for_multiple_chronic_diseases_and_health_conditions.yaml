@@ -1,0 +1,28 @@
+id: recommendation.general_recommendation_for_multiple_chronic_diseases_and_health_conditions
+type: Recommendation
+canonical_name: General Recommendation for Multiple Chronic Diseases and Health Conditions
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.53'
+  section_title: Multiple Chronic Diseases and Health Conditions
+  book_page: 900
+  pdf_page: 900
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Given the high prevalence of multiple chronic diseases and health conditions,
+  it is recommended that health and fitness professionals consider the totality of
+  the individual''s health status when developing an exercise prescription.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

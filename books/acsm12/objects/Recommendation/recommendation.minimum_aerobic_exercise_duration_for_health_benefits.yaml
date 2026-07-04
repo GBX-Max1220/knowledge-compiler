@@ -1,0 +1,28 @@
+id: recommendation.minimum_aerobic_exercise_duration_for_health_benefits
+type: Recommendation
+canonical_name: Minimum Aerobic Exercise Duration for Health Benefits
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.14'
+  section_title: Time (Duration) of Aerobic Exercise
+  book_page: 357
+  pdf_page: 357
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Exercise bouts of ≥10 min are recommended to achieve the health benefits
+  associated with aerobic exercise.
+
+  '
+attributes: []
+purpose:
+- achieve the health benefits associated with aerobic exercise
+related_concepts: []

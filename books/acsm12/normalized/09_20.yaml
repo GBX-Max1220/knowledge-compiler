@@ -1,0 +1,27 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_prescription
+type: Concept
+canonical_name: Exercise Prescription
+semantic_type: Procedure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.20"
+  section_title: "Exercise Prescription"
+  book_page: 744
+  pdf_page: 744
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+---

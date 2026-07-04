@@ -1,0 +1,35 @@
+id: evidence.single_vs_multiple_sets
+type: Evidence
+canonical_name: Evidence on Single vs. Multiple Sets
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.23'
+  section_title: Volume of Resistance Training Exercise
+  book_page: 376
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+evidence_text: 'Research indicates that multiple sets (2–4) are superior to a single
+  set for improving muscular strength and hypertrophy in trained individuals, although
+  single sets may be adequate for untrained individuals (ACSM, 2009).
+
+  '
+citations:
+- ACSM, 2009
+findings:
+- multiple sets (2–4) are superior to a single set for improving muscular strength
+  and hypertrophy in trained individuals
+- single sets may be adequate for untrained individuals
+population: trained individuals, untrained individuals
+related_concepts:
+- concept.muscular_strength
+- concept.muscular_hypertrophy

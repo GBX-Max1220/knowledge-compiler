@@ -1,0 +1,24 @@
+id: concept.online_resources
+type: Concept
+canonical_name: Online Resources
+semantic_type: Resource
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.8'
+  section_title: Online Resources
+  book_page: 972
+  pdf_page: 972
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []

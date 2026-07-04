@@ -1,0 +1,29 @@
+id: recommendation.general_exercise_recommendations_for_neurologic_diseases
+type: Recommendation
+canonical_name: General Exercise Recommendations for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise for Special Populations
+  section: '11.5'
+  section_title: Exercise Considerations
+  book_page: 967
+  pdf_page: 967
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'General recommendations for exercise for individuals with neurologic
+  diseases are similar to those for the general population: 150 min·wk−1 of moderate-intensity
+  aerobic activity, 2 d·wk−1 of resistance training, and flexibility exercises at
+  least 2 d·wk−1.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

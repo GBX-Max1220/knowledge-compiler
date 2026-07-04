@@ -1,0 +1,30 @@
+id: recommendation.exercise_prescription_type
+type: Recommendation
+canonical_name: Exercise Prescription — Type
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Prescription for Individuals With Cardiovascular and Pulmonary
+    Diseases
+  section: '8.29'
+  section_title: Exercise Prescription
+  book_page: 608
+  pdf_page: 608
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+definition: 'Type: Large muscle group activities such as walking, cycling, and swimming
+  are recommended.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

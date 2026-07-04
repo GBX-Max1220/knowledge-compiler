@@ -1,0 +1,34 @@
+id: contraindication.metformin_severe_renal_impairment
+type: Contraindication
+canonical_name: Metformin Contraindication in Severe Renal Impairment
+semantic_type: DrugContraindication
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Pharmacological Treatment Options
+  section: '10.14'
+  section_title: Pharmacological Treatment Options
+  book_page: 819
+  pdf_page: 819
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_threshold
+  target: threshold.gfr.metformin_contraindication
+definition: 'Metformin is contraindicated when estimated glomerular filtration rate
+  (eGFR) falls below 30 mL/min/1.73 m².
+
+  '
+attributes:
+- drug: metformin
+- condition: severe_renal_impairment
+purpose:
+- prevent metformin use
+related_concepts:
+- concept.metformin
+- concept.severe_renal_impairment

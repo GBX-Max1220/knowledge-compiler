@@ -1,0 +1,24 @@
+id: table_row.physical_activity_intensity_classification
+type: TableRow
+canonical_name: Classification of Physical Activity Intensity
+semantic_type: Table
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.15'
+  section_title: Type (Mode)
+  book_page: 357
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: Table 5.6 Classification of Physical Activity Intensity
+attributes: []
+purpose: []
+related_concepts: []

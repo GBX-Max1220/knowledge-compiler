@@ -1,0 +1,458 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_cancer_survivors
+type: Recommendation
+canonical_name: Exercise Prescription for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The exercise prescription for cancer survivors should follow the FITT-VP principle (frequency, intensity, time, type, volume, and progression) as outlined in Chapter 7.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.fitt_vp_principle
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.aerobic_exercise_frequency_cancer_survivors
+type: Recommendation
+canonical_name: Aerobic Exercise Frequency for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_cancer_survivors
+definition: >
+  Aerobic exercise: Frequency: ≥3–5 d·wk−1.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.aerobic_exercise_intensity_moderate_cancer_survivors
+type: Threshold
+canonical_name: Moderate-Intensity Aerobic Exercise for Cancer Survivors
+semantic_type: Physiological
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.aerobic_exercise_intensity_vigorous_cancer_survivors
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "40%–59% HRR or V̇O2R; 64%–76% HRmax; RPE 12–13 on the 6–20 scale"
+unit: ""
+condition: "moderate-intensity"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.aerobic_exercise_intensity_vigorous_cancer_survivors
+type: Threshold
+canonical_name: Vigorous-Intensity Aerobic Exercise for Cancer Survivors
+semantic_type: Physiological
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.aerobic_exercise_intensity_moderate_cancer_survivors
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "60%–89% HRR or V̇O2R; 77%–95% HRmax; RPE 14–17 on the 6–20 scale"
+unit: ""
+condition: "vigorous-intensity"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.aerobic_exercise_time_cancer_survivors
+type: Recommendation
+canonical_name: Aerobic Exercise Time for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_cancer_survivors
+definition: >
+  Time: ≥30 min·d−1 of moderate-intensity aerobic activity, or ≥15 min·d−1 of vigorous-intensity aerobic activity, or a combination of moderate- and vigorous-intensity activity to achieve ≥500–1,000 MET·min·wk−1.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.aerobic_exercise_type_cancer_survivors
+type: Recommendation
+canonical_name: Aerobic Exercise Type for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_cancer_survivors
+definition: >
+  Type: Aerobic exercise using large muscle groups (e.g., walking, cycling, swimming, rowing, elliptical training).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.resistance_exercise_frequency_cancer_survivors
+type: Recommendation
+canonical_name: Resistance Exercise Frequency for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_cancer_survivors
+definition: >
+  Resistance exercise: Frequency: ≥2 d·wk−1.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.resistance_exercise_intensity_cancer_survivors
+type: Recommendation
+canonical_name: Resistance Exercise Intensity for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_cancer_survivors
+definition: >
+  Intensity: 60%–70% 1-RM for upper body and 60%–80% 1-RM for lower body.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.resistance_exercise_type_cancer_survivors
+type: Recommendation
+canonical_name: Resistance Exercise Type for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_cancer_survivors
+definition: >
+  Type: Resistance exercise using major muscle groups (e.g., chest press, shoulder press, biceps curl, triceps extension, leg press, leg extension, leg curl, seated row, lat pulldown).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.flexibility_exercise_cancer_survivors
+type: Recommendation
+canonical_name: Flexibility Exercise for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_cancer_survivors
+definition: >
+  Flexibility exercise: Frequency: ≥2 d·wk−1. Intensity: Stretch to the point of feeling tightness or slight discomfort. Time: 10–30 s per stretch; 2–4 repetitions per stretch. Type: Static, dynamic, and/or PNF stretching of major muscle groups.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.exercise_precautions_cancer_survivors
+type: Warning
+canonical_name: Exercise Precautions for Cancer Survivors
+semantic_type: Safety
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Special considerations: Avoid exercise if hemoglobin <8.0 g·dL−1. Avoid exercise if platelet count <50,000·μL−1. Avoid exercise if absolute neutrophil count <0.5 × 109·L−1. Avoid exercise if temperature >100°F (38°C). Avoid exercise if severe fatigue, anemia, or ataxia. Avoid exercise if uncontrolled pain. Avoid exercise if uncontrolled nausea or vomiting. Avoid exercise if uncontrolled dyspnea. Avoid exercise if uncontrolled cardiac conditions (e.g., unstable angina, uncontrolled arrhythmias, uncontrolled heart failure). Avoid exercise if uncontrolled metabolic conditions (e.g., uncontrolled diabetes, uncontrolled thyroid disease). Avoid exercise if uncontrolled orthopedic conditions (e.g., acute fracture, acute tendonitis, acute bursitis). Avoid exercise if uncontrolled psychiatric conditions (e.g., severe depression, severe anxiety, severe cognitive impairment). Avoid exercise if uncontrolled infection. Avoid exercise if uncontrolled electrolyte abnormalities. Avoid exercise if uncontrolled dehydration. Avoid exercise if uncontrolled malnutrition. Avoid exercise if uncontrolled cachexia. Avoid exercise if uncontrolled lymphedema.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hemoglobin_exercise_avoidance_cancer_survivors
+type: Threshold
+canonical_name: Hemoglobin Threshold for Exercise Avoidance in Cancer Survivors
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: warning.exercise_precautions_cancer_survivors
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<8.0"
+unit: "g·dL−1"
+condition: "Avoid exercise"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.platelet_count_exercise_avoidance_cancer_survivors
+type: Threshold
+canonical_name: Platelet Count Threshold for Exercise Avoidance in Cancer Survivors
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: warning.exercise_precautions_cancer_survivors
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<50,000"
+unit: "μL−1"
+condition: "Avoid exercise"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.absolute_neutrophil_count_exercise_avoidance_cancer_survivors
+type: Threshold
+canonical_name: Absolute Neutrophil Count Threshold for Exercise Avoidance in Cancer Survivors
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: warning.exercise_precautions_cancer_survivors
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<0.5 × 109"
+unit: "L−1"
+condition: "Avoid exercise"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.temperature_exercise_avoidance_cancer_survivors
+type: Threshold
+canonical_name: Temperature Threshold for Exercise Avoidance in Cancer Survivors
+semantic_type: Vital Sign
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.29"
+  section_title: "Exercise Prescription"
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: warning.exercise_precautions_cancer_survivors
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: ">100°F (38°C)"
+unit: ""
+condition: "Avoid exercise"

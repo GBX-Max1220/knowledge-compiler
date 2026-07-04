@@ -1,0 +1,34 @@
+id: contraindication.preexisting_conditions_high_altitude
+type: Contraindication
+canonical_name: Preexisting Conditions Contraindication for High Altitude
+semantic_type: Contraindication
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.6'
+  section_title: 'Medical Considerations: Altitude Illnesses and Preexisting Conditions'
+  book_page: 532
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Individuals with preexisting medical conditions (e.g., cardiovascular
+  disease, pulmonary disease, sickle cell trait, pregnancy) may be at increased risk
+  for complications at altitude and should consult a physician before traveling to
+  high altitude.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.cardiovascular_disease
+- concept.pulmonary_disease
+- concept.sickle_cell_trait
+- concept.pregnancy
+contraindication_for: concept.high_altitude_travel

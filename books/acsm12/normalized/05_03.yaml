@@ -1,0 +1,48 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.components_of_the_exercise_training_session
+type: Procedure
+canonical_name: Components of the Exercise Training Session
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Components of the Exercise Training Session"
+  book_page: 335
+  pdf_page: 335
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: concept.warm_up
+  - predicate: has_attribute
+    target: concept.conditioning
+  - predicate: has_attribute
+    target: concept.cool_down
+  - predicate: has_attribute
+    target: concept.stretching
+
+definition: >
+  The exercise training session is composed of several components: warm-up, conditioning (aerobic, resistance, flexibility, and/or sport-specific), cool-down, and stretching.
+
+attributes:
+  - warm-up
+  - conditioning
+  - cool-down
+  - stretching
+
+purpose: []
+
+related_concepts: []
+---

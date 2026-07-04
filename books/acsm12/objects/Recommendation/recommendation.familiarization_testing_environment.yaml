@@ -1,0 +1,27 @@
+id: recommendation.familiarization_testing_environment
+type: Recommendation
+canonical_name: Familiarization with Testing Environment
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Familiarization with the testing environment and equipment is essential
+  for obtaining valid and reliable test results in individuals with ID.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

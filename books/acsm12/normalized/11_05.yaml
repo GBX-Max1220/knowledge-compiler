@@ -1,0 +1,323 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.general_exercise_recommendations_for_neurologic_diseases
+type: Recommendation
+canonical_name: General Exercise Recommendations for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  General recommendations for exercise for individuals with neurologic diseases are similar to those for the general population: 150 min·wk−1 of moderate-intensity aerobic activity, 2 d·wk−1 of resistance training, and flexibility exercises at least 2 d·wk−1.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_precautions_for_neurologic_diseases
+type: Recommendation
+canonical_name: Exercise Precautions for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  However, because of the unique challenges associated with each disease, exercise programs should be individualized and may require modifications to the mode, intensity, duration, and frequency of exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_testing_considerations_for_neurologic_diseases
+type: Recommendation
+canonical_name: Exercise Testing Considerations for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise testing may be indicated for some individuals with neurologic diseases to evaluate the safety of exercise participation, to determine the appropriate exercise prescription, and to assess the effectiveness of the exercise program.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_program_components_for_neurologic_diseases
+type: Recommendation
+canonical_name: Exercise Program Components for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The exercise program should include aerobic, resistance, and flexibility exercises, as well as neuromotor exercises (e.g., balance, agility, and coordination) as appropriate.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_intensity_monitoring_for_neurologic_diseases
+type: Recommendation
+canonical_name: Exercise Intensity Monitoring for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The use of rating of perceived exertion (RPE) may be more appropriate than heart rate for monitoring exercise intensity in individuals with neurologic diseases because of potential alterations in heart rate response to exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_progression_for_neurologic_diseases
+type: Recommendation
+canonical_name: Exercise Progression for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Progression of the exercise program should be gradual and based on the individual's tolerance and response to exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_termination_criteria_for_neurologic_diseases
+type: Recommendation
+canonical_name: Exercise Termination Criteria for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise should be terminated if the individual experiences chest pain, dizziness, severe shortness of breath, or other symptoms that suggest an adverse response to exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.exercise_risks_in_neurologic_diseases
+type: Warning
+canonical_name: Exercise Risks in Neurologic Diseases
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with neurologic diseases may be at increased risk for falls, injuries, and other adverse events during exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.fall_prevention_strategies_for_neurologic_diseases
+type: Recommendation
+canonical_name: Fall Prevention Strategies for Neurologic Diseases
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise for Special Populations"
+  section: "11.5"
+  section_title: "Exercise Considerations"
+  book_page: 967
+  pdf_page: 967
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Therefore, appropriate precautions should be taken to ensure safety, including the use of assistive devices, supervision, and modifications to the exercise environment.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

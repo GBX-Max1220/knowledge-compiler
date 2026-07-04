@@ -1,0 +1,35 @@
+id: threshold.drop_in_systolic_blood_pressure_of_10_mm_hg_from_baseline_without_ischemia
+type: Threshold
+canonical_name: Systolic Blood Pressure Drop Threshold for Test Termination (without
+  ischemia)
+semantic_type: Vital Sign Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Classification
+  section: '4.6'
+  section_title: Monitoring and Test Termination
+  book_page: 285
+  pdf_page: 285
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: threshold.relative_indications_for_terminating_exercise_testing
+definition: 'Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood
+  pressure despite an increase in workload, in the absence of other evidence of ischemia
+
+  '
+attributes:
+- drop in systolic blood pressure ≥10 mm Hg
+- from baseline systolic blood pressure
+- despite an increase in workload
+- in the absence of other evidence of ischemia
+purpose:
+- terminate exercise testing
+related_concepts: []

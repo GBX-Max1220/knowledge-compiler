@@ -1,0 +1,71 @@
+id: procedure.clinical_exercise_test_data_and_prognosis
+type: Procedure
+canonical_name: Clinical Exercise Test Data and Prognosis
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Clinical Exercise Test Data and Prognosis
+  section: '4.22'
+  section_title: Clinical Exercise Test Data and Prognosis
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.exercise_capacity
+- predicate: has_attribute
+  target: concept.hemodynamic_responses
+- predicate: has_attribute
+  target: concept.electrocardiographic_changes
+- predicate: has_attribute
+  target: concept.symptom_development
+- predicate: used_for
+  target: concept.prognosis
+- predicate: used_for
+  target: concept.patient_management
+definition: 'The clinical exercise test provides valuable diagnostic and prognostic
+  information. The data collected during the test should be systematically reviewed
+  and interpreted to guide patient management. Key variables to assess include exercise
+  capacity, hemodynamic responses, electrocardiographic changes, and symptom development.
+  Exercise capacity, often expressed in metabolic equivalents (METs), is one of the
+  strongest predictors of prognosis. A low exercise capacity (<5 METs) is associated
+  with a worse prognosis, whereas a high exercise capacity (>10 METs) generally indicates
+  a favorable prognosis. The Duke Treadmill Score (DTS) is a commonly used prognostic
+  tool that incorporates exercise time, ST-segment deviation, and anginal symptoms
+  during the test. The DTS is calculated as: exercise time (minutes) – (5 × ST-segment
+  deviation [mm]) – (4 × angina index). The angina index is 0 for no angina, 1 for
+  nonlimiting angina, and 2 for exercise-limiting angina. Patients are stratified
+  into low-risk (DTS ≥5), moderate-risk (DTS –10 to 4), and high-risk (DTS ≤–11) categories.
+  Heart rate recovery (HRR) at 1 min postexercise is also a significant prognostic
+  indicator; a value ≤12 beats·min⁻¹ is considered abnormal and is associated with
+  increased mortality. Chronotropic incompetence, defined as failure to achieve 85%
+  of age-predicted maximal heart rate, is another marker of poor prognosis. Blood
+  pressure responses, including an exaggerated systolic BP response (≥210 mm Hg in
+  men or ≥190 mm Hg in women) or a hypotensive response during exercise, also carry
+  prognostic significance. The presence of exercise-induced ventricular arrhythmias,
+  particularly frequent or complex forms, is associated with an increased risk of
+  cardiovascular events. Figure 4.5 provides a summary of the prognostic variables
+  derived from the clinical exercise test.
+
+  '
+attributes:
+- exercise capacity
+- hemodynamic responses
+- electrocardiographic changes
+- symptom development
+purpose:
+- provide diagnostic information
+- provide prognostic information
+- guide patient management
+related_concepts:
+- concept.duke_treadmill_score
+- concept.heart_rate_recovery
+- concept.chronotropic_incompetence
+- concept.exercise_induced_ventricular_arrhythmias

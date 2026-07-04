@@ -1,0 +1,26 @@
+id: table_row.qualifications_for_exercise_testing_personnel
+type: TableRow
+canonical_name: Qualifications for Exercise Testing Personnel
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Stratification
+  section: '4.4'
+  section_title: Testing Staff
+  book_page: 279
+  pdf_page: 279
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Table 4.2 Recommended Qualifications for Exercise Testing Personnel
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_prescription_principles
+type: Concept
+canonical_name: Exercise Prescription Principles
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.1"
+  section_title: "An Introduction to the Principles of Exercise Prescription"
+  book_page: 333
+  pdf_page: 333
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  An introduction to the principles of exercise prescription.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

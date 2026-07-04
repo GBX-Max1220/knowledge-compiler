@@ -1,0 +1,34 @@
+id: table_row.ms_aerobic_type
+type: TableRow
+canonical_name: MS Aerobic Type
+semantic_type: Exercise Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Exercise Testing and Prescription for Multiple Sclerosis
+  section: '10.37'
+  section_title: Multiple Sclerosis
+  book_page: 862
+  pdf_page: 862
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For individuals with Multiple Sclerosis, aerobic exercise type should
+  focus on large muscle group activities.
+
+  '
+attributes:
+- exercise_type: aerobic
+- focus: large muscle group activities
+purpose:
+- improve cardiorespiratory fitness
+- manage MS symptoms
+related_concepts:
+- concept.multiple_sclerosis
+- concept.aerobic_exercise
+- concept.large_muscle_group_activities

@@ -1,0 +1,26 @@
+id: recommendation.static_stretching_duration
+type: Recommendation
+canonical_name: Static Stretching Duration Recommendation
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.25'
+  section_title: Flexibility
+  book_page: 384
+  pdf_page: 384
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For most adults, holding a static stretch for 10–30 s is recommended.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

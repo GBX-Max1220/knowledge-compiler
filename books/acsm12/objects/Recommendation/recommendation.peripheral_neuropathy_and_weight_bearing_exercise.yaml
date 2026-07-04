@@ -1,0 +1,28 @@
+id: recommendation.peripheral_neuropathy_and_weight_bearing_exercise
+type: Recommendation
+canonical_name: Peripheral Neuropathy and Weight-Bearing Exercise
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Exercise Prescription for Special Populations
+  section: '9.21'
+  section_title: Special Considerations
+  book_page: 746
+  pdf_page: 746
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Individuals with peripheral neuropathy and loss of protective sensation
+  should avoid prolonged weight-bearing exercise and consider non-weight-bearing activities
+  such as swimming, cycling, or arm ergometry.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

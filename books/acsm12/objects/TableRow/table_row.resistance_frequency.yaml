@@ -1,0 +1,33 @@
+id: table_row.resistance_frequency
+type: TableRow
+canonical_name: Resistance Frequency
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Exercise Prescription
+  section: '6.19'
+  section_title: Exercise Prescription
+  book_page: 477
+  pdf_page: 477
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For resistance exercise training, the general recommendation for frequency
+  is 2–3 days per week for each major muscle group, with at least 48 hours separating
+  training sessions for the same muscle group.
+
+  '
+attributes:
+- frequency
+- resistance
+purpose:
+- guide exercise prescription
+related_concepts:
+- concept.muscular_strength
+- concept.muscular_endurance

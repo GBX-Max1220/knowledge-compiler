@@ -1,0 +1,38 @@
+id: table_row.traumatic_brain_injury_exercise_considerations
+type: TableRow
+canonical_name: Traumatic Brain Injury Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Special Populations
+  section: '11.19'
+  section_title: Exercise Training Considerations for Neurologic Diseases
+  book_page: 987
+  pdf_page: 987
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Exercise training considerations for Traumatic Brain Injury, including
+  specific modifications and precautions for exercise prescription in this neurologic
+  condition.
+
+  '
+attributes:
+- disease: Traumatic Brain Injury
+- considerations: Cognitive impairments may affect learning and adherence; balance
+    and coordination deficits; fatigue; behavioral or emotional changes; seizure risk
+- recommendations: Aerobic exercise 3-5 days/week at moderate intensity; resistance
+    training 2-3 days/week; balance and coordination training; flexibility exercises;
+    structured and repetitive instructions; monitor for signs of overexertion
+purpose:
+- guide exercise prescription for Traumatic Brain Injury
+- ensure safe and effective exercise training
+related_concepts:
+- concept.traumatic_brain_injury
+- concept.exercise_prescription

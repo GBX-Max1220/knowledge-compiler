@@ -1,25 +1,26 @@
 id: concept.balance
 type: Concept
 canonical_name: Balance
-semantic_type: Ability
+semantic_type: Attribute
 aliases: []
 source:
   book: ACSM's Guidelines for Exercise Testing and Prescription
   edition: 12
-  chapter: 3
-  chapter_title: ''
-  section: '3.29'
-  section_title: Balance
-  book_page: 245
-  pdf_page: null
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Physical Activity and Fitness Terminology
+  book_page: 70
+  pdf_page: 70
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
-relationships: []
-definition: 'Balance is the ability to maintain the body''s center of gravity over
-  its base of support.
+relationships:
+- predicate: part_of
+  target: concept.skill_related_physical_fitness
+definition: 'The maintenance of equilibrium while stationary or moving.
 
   '
 attributes: []

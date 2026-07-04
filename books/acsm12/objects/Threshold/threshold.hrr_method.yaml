@@ -1,0 +1,27 @@
+id: threshold.hrr_method
+type: Threshold
+canonical_name: Heart Rate Reserve (HRR) Method for Exercise Prescription
+semantic_type: Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Testing
+  section: '8.28'
+  section_title: Exercise Testing
+  book_page: 607
+  pdf_page: 607
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The HRR method is used to prescribe exercise intensity using the formula:
+  THR = (HRmax − HRrest) × % intensity + HRrest.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

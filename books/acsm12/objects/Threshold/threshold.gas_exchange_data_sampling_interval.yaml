@@ -1,0 +1,30 @@
+id: threshold.gas_exchange_data_sampling_interval
+type: Threshold
+canonical_name: Gas Exchange Data Sampling Interval
+semantic_type: TimeInterval
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.18'
+  section_title: Gas Exchange Data Sampling
+  book_page: 309
+  pdf_page: 309
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Gas exchange data are typically sampled on a breath-by-breath basis and
+  then averaged over a specified time interval (e.g., 15, 20, 30, or 60 seconds).
+
+  '
+attributes:
+- breath-by-breath sampling
+- averaging interval
+purpose:
+- specify time interval for averaging gas exchange data
+related_concepts: []

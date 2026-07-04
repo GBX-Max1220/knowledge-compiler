@@ -1,0 +1,27 @@
+id: recommendation.preparticipation_evaluation_for_individuals_with_chronic_diseases
+type: Recommendation
+canonical_name: Preparticipation Evaluation for Individuals with Chronic Diseases
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Preparticipation Health Screening and Risk Stratification
+  section: '10.9'
+  section_title: Preparticipation Evaluation
+  book_page: 797
+  pdf_page: 797
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A preparticipation evaluation is recommended for all individuals with
+  chronic diseases or health conditions before beginning an exercise program.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

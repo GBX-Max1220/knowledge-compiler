@@ -1,0 +1,40 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.exercise_prescription_guidelines_cvd_pulmonary
+type: TableRow
+canonical_name: Exercise Prescription Guidelines for Individuals with Cardiovascular and Pulmonary Diseases
+semantic_type: Table
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription"
+  section: "8.33"
+  section_title: "Exercise Prescription"
+  book_page: 614
+  pdf_page: 614
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 8.6 provides exercise prescription guidelines for individuals with cardiovascular and pulmonary diseases.
+
+attributes: []
+
+purpose:
+  - guide exercise prescription for individuals with cardiovascular and pulmonary diseases
+
+related_concepts:
+  - concept.exercise_prescription
+  - concept.cardiovascular_disease
+  - concept.pulmonary_disease
+---

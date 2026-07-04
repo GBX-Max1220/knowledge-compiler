@@ -1,0 +1,27 @@
+id: recommendation.collaboration_healthcare_providers
+type: Recommendation
+canonical_name: Collaboration with Healthcare Providers
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Collaborate with healthcare providers, including physicians, physical
+  therapists, and occupational therapists, to develop comprehensive exercise programs.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.other_sex_based_special_considerations
+type: Concept
+canonical_name: Other Sex-Based Special Considerations
+semantic_type: Topic
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.10"
+  section_title: "Other Sex-Based Special Considerations"
+  book_page: 343
+  pdf_page: 343
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This section contains no labelable content (definitions, recommendations, procedures, thresholds, warnings, contraindications, risk factors, evidence, formulas, figures, tables, or decision rules) as determined by the allowed labels.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

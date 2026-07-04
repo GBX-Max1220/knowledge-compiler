@@ -1,0 +1,38 @@
+# ontology: knowledge-compiler/v1
+
+id: warning.dysrhythmias_during_exercise_testing
+type: Warning
+canonical_name: Dysrhythmias During Exercise Testing
+semantic_type: Clinical Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "4.14"
+  section_title: "Dysrhythmias"
+  book_page: 301
+  pdf_page: 301
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Dysrhythmias may be induced by exercise, particularly in patients with known or suspected CVD. The development of dysrhythmias during exercise testing may be a sign of underlying heart disease, electrolyte abnormalities, or drug toxicity. The exercise test should be terminated if the dysrhythmia results in hemodynamic compromise or if ventricular tachycardia develops.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.exercise_testing
+  - concept.cardiovascular_disease
+  - concept.ventricular_tachycardia

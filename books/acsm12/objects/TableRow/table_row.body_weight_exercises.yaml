@@ -1,0 +1,38 @@
+id: table_row.body_weight_exercises
+type: TableRow
+canonical_name: Body Weight Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Body weight exercises are resistance training exercises that use the
+  individual''s own body weight as the resistance. Examples include push-ups, pull-ups,
+  squats, lunges, and planks. These exercises require no or minimal equipment and
+  can be performed anywhere.
+
+  '
+attributes:
+- uses_body_weight_as_resistance
+- minimal_equipment_required
+- portable
+purpose:
+- develop functional strength
+- improve muscular endurance
+- provide accessible training option
+related_concepts:
+- concept.resistance_training
+- concept.machine_exercises
+- concept.free_weight_exercises

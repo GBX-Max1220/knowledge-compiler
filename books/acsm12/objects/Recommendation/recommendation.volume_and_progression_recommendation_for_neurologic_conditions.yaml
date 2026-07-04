@@ -1,0 +1,48 @@
+id: recommendation.volume_and_progression_recommendation_for_neurologic_conditions
+type: Recommendation
+canonical_name: Volume and Progression Recommendation for Neurologic Conditions
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Individuals with Neurologic Diseases
+  section: '11.4'
+  section_title: Exercise Prescription
+  book_page: 966
+  pdf_page: 966
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_for_individuals_with_neurologic_diseases
+definition: 'Volume: a weekly total of ≥500–1,000 MET-min·wk⁻¹ is recommended. Progression:
+  gradual increases in frequency, intensity, time, or type should be made based on
+  individual tolerance and response to exercise. Progression should be slower and
+  more conservative in individuals with significant impairments or comorbidities.
+
+  '
+attributes:
+- volume: ≥500–1,000 MET-min·wk⁻¹
+- progression: gradual increases in frequency, intensity, time, or type
+- progression based on individual tolerance and response to exercise
+- progression slower and more conservative in individuals with significant impairments
+  or comorbidities
+purpose:
+- specify volume and progression of exercise for individuals with neurologic conditions
+related_concepts:
+- concept.met_minutes
+- concept.exercise_volume
+- concept.exercise_progression
+- concept.exercise_frequency
+- concept.exercise_intensity
+- concept.exercise_time
+- concept.exercise_type
+- concept.individual_tolerance
+- concept.individual_response_to_exercise
+- concept.significant_impairments
+- concept.comorbidities

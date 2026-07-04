@@ -1,0 +1,50 @@
+id: recommendation.intensity_recommendation_for_neurologic_conditions
+type: Recommendation
+canonical_name: Intensity Recommendation for Neurologic Conditions
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Individuals with Neurologic Diseases
+  section: '11.4'
+  section_title: Exercise Prescription
+  book_page: 965
+  pdf_page: 965
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_for_individuals_with_neurologic_diseases
+definition: 'Aerobic exercise: 40%–80% of heart rate reserve (HRR) or oxygen uptake
+  reserve (VO₂R); 11–16 on the Borg Rating of Perceived Exertion (RPE) scale (6–20
+  scale); or 3–6 on the Borg Category-Ratio (CR-10) scale. Resistance exercise: 40%–70%
+  of one-repetition maximum (1-RM) for upper body; 50%–80% of 1-RM for lower body.
+  Flexibility exercise: stretch to the point of tightness or slight discomfort. Neuromotor
+  exercise: not applicable.
+
+  '
+attributes:
+- aerobic exercise: 40%–80% of HRR or VO₂R
+- aerobic exercise: 11–16 on Borg RPE scale (6–20 scale)
+- aerobic exercise: 3–6 on Borg CR-10 scale
+- resistance exercise upper body: 40%–70% of 1-RM
+- resistance exercise lower body: 50%–80% of 1-RM
+- flexibility exercise: stretch to point of tightness or slight discomfort
+- neuromotor exercise: not applicable
+purpose:
+- specify intensity of exercise for individuals with neurologic conditions
+related_concepts:
+- concept.aerobic_exercise
+- concept.resistance_exercise
+- concept.flexibility_exercise
+- concept.neuromotor_exercise
+- concept.heart_rate_reserve
+- concept.oxygen_uptake_reserve
+- concept.borg_rating_of_perceived_exertion
+- concept.borg_category_ratio_scale
+- concept.one_repetition_maximum

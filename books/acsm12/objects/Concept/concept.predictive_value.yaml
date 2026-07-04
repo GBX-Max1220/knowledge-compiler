@@ -1,0 +1,31 @@
+id: concept.predictive_value
+type: Concept
+canonical_name: Predictive Value
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.21'
+  section_title: Sensitivity, Specificity, and Predictive Value
+  book_page: 311
+  pdf_page: 311
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.test_performance_metric
+definition: 'The likelihood that a given test result correctly identifies an individual
+  as having or not having the disease.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.positive_predictive_value
+- concept.negative_predictive_value

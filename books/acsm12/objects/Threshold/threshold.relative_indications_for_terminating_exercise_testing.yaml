@@ -1,0 +1,41 @@
+id: threshold.relative_indications_for_terminating_exercise_testing
+type: Threshold
+canonical_name: Relative Indications for Terminating Exercise Testing
+semantic_type: Clinical Decision Rule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Classification
+  section: '4.6'
+  section_title: Monitoring and Test Termination
+  book_page: 285
+  pdf_page: 285
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: threshold.drop_in_systolic_blood_pressure_of_10_mm_hg_from_baseline_without_ischemia
+- predicate: has_attribute
+  target: threshold.st_or_qrs_changes_excessive_st_depression_or_marked_axis_shift
+- predicate: has_attribute
+  target: threshold.arrhythmias_other_than_sustained_ventricular_tachycardia
+- predicate: has_attribute
+  target: threshold.fatigue_shortness_of_breath_wheezing_leg_cramps_or_claudication
+- predicate: has_attribute
+  target: threshold.development_of_bundle_branch_block
+- predicate: has_attribute
+  target: threshold.increasing_chest_pain
+- predicate: has_attribute
+  target: threshold.hypertensive_response_systolic_blood_pressure_250_mm_hg_diastolic_115_mm_hg
+definition: 'Relative Indications for Terminating Exercise Testing
+
+  '
+attributes: []
+purpose:
+- terminate exercise testing
+related_concepts: []

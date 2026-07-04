@@ -1,0 +1,34 @@
+id: recommendation.clothing_considerations_for_exercise_in_cold
+type: Recommendation
+canonical_name: Clothing Considerations for Exercise in Cold
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.14'
+  section_title: Clothing Considerations
+  book_page: 546
+  pdf_page: 546
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In the cold, clothing should be worn in layers to trap warm air and provide
+  insulation. The layer next to the skin should be made of a material that wicks moisture
+  away from the skin (e.g., polypropylene) rather than cotton, which retains moisture
+  and can increase heat loss.
+
+  '
+attributes:
+- layered
+- moisture_wicking_material_next_to_skin
+purpose:
+- trap warm air
+- provide insulation
+- wick moisture away from the skin
+related_concepts: []

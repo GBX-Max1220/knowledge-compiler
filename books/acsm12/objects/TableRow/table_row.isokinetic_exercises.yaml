@@ -1,0 +1,39 @@
+id: table_row.isokinetic_exercises
+type: TableRow
+canonical_name: Isokinetic Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Isokinetic exercises are resistance training exercises performed on specialized
+  equipment that controls the speed of movement throughout the range of motion. The
+  resistance accommodates to match the force applied by the user, allowing maximal
+  muscle activation at every point in the range of motion.
+
+  '
+attributes:
+- controlled_speed
+- accommodating_resistance
+- maximal_muscle_activation_throughout_range_of_motion
+- uses_specialized_equipment
+purpose:
+- assess and train muscular strength at specific speeds
+- provide safe rehabilitation environment
+- measure muscle performance objectively
+related_concepts:
+- concept.resistance_training
+- concept.isometric_exercises
+- concept.isotonic_exercises

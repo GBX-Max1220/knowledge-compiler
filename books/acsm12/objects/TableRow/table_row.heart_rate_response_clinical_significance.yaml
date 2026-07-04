@@ -1,0 +1,45 @@
+id: table_row.heart_rate_response_clinical_significance
+type: TableRow
+canonical_name: Heart Rate Response Clinical Significance
+semantic_type: Clinical Significance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.10'
+  section_title: Heart Rate Response
+  book_page: 296
+  pdf_page: 296
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.heart_rate_response_during_exercise_testing
+definition: 'Clinical significance of abnormal heart rate responses during exercise
+  testing.
+
+  '
+attributes:
+- chronotropic_incompetence_associated_with_increased_cardiovascular_mortality
+- excessive_heart_rate_response_may_indicate_deconditioning
+- excessive_heart_rate_response_may_indicate_anemia
+- excessive_heart_rate_response_may_indicate_hyperthyroidism
+- excessive_heart_rate_response_may_indicate_left_ventricular_dysfunction
+- delayed_heart_rate_recovery_associated_with_increased_mortality
+- reduced_heart_rate_variability_associated_with_autonomic_dysfunction
+- reduced_heart_rate_variability_associated_with_increased_mortality
+purpose: []
+related_concepts:
+- concept.chronotropic_incompetence
+- concept.delayed_heart_rate_recovery
+- concept.reduced_heart_rate_variability
+- concept.deconditioning
+- concept.anemia
+- concept.hyperthyroidism
+- concept.left_ventricular_dysfunction
+- concept.autonomic_dysfunction

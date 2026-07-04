@@ -1,0 +1,35 @@
+id: threshold.fev1.inhaled_corticosteroid_initiation_copd
+type: Threshold
+canonical_name: FEV1 Threshold for Inhaled Corticosteroid Initiation in COPD
+semantic_type: ClinicalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Pharmacological Treatment Options
+  section: '10.14'
+  section_title: Pharmacological Treatment Options
+  book_page: 820
+  pdf_page: 820
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.fev1.long_acting_bronchodilator_initiation_copd
+definition: 'Inhaled corticosteroids are recommended for patients with COPD who have
+  FEV1 <50% predicted and frequent exacerbations.
+
+  '
+attributes:
+- fev1: <50
+- unit: '% predicted'
+- condition: frequent exacerbations
+purpose:
+- initiate inhaled corticosteroid therapy
+related_concepts:
+- concept.copd
+- concept.inhaled_corticosteroid

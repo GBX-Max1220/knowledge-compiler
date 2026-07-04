@@ -1,0 +1,27 @@
+id: recommendation.avoid_alcohol_and_tobacco_during_cold_exposure
+type: Recommendation
+canonical_name: Avoid Alcohol and Tobacco During Cold Exposure
+semantic_type: PreventionStrategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Avoid alcohol and tobacco use during cold exposure, as alcohol impairs
+  thermoregulation and judgment, and tobacco reduces peripheral blood flow.
+
+  '
+attributes: []
+purpose:
+- prevent cold injuries

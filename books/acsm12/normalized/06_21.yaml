@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.online_resources_for_exercise_prescription
+type: TableRow
+canonical_name: Online Resources for Exercise Prescription
+semantic_type: Resource
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.21"
+  section_title: "Online Resources"
+  book_page: 484
+  pdf_page: 484
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 6.5 Online Resources for Exercise Prescription
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

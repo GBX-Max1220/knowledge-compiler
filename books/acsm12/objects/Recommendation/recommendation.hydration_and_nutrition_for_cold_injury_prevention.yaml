@@ -1,0 +1,28 @@
+id: recommendation.hydration_and_nutrition_for_cold_injury_prevention
+type: Recommendation
+canonical_name: Hydration and Nutrition for Cold Injury Prevention
+semantic_type: PreventionStrategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Maintain adequate hydration and nutrition during cold exposure to help
+  preserve core temperature and prevent hypothermia.
+
+  '
+attributes: []
+purpose:
+- preserve core temperature
+- prevent hypothermia

@@ -1,0 +1,26 @@
+id: threshold.hrr_intensity_range
+type: Threshold
+canonical_name: Heart Rate Reserve (HRR) Intensity Ranges
+semantic_type: Range
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Testing
+  section: '8.28'
+  section_title: Exercise Testing
+  book_page: 607
+  pdf_page: 607
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For most individuals, the recommended intensity range is 40%–80% of HRR.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

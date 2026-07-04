@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.cerebrovascular_accident
+type: Concept
+canonical_name: Cerebrovascular Accident
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Chronic Diseases and Health Conditions"
+  section: "8.36"
+  section_title: "Individuals With a Cerebrovascular Accident (Stroke)"
+  book_page: 621
+  pdf_page: 621
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: ""
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

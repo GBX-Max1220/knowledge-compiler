@@ -1,0 +1,337 @@
+TYPE
+Threshold
+
+TITLE
+ECG Electrode Placement — Standard Limb Leads
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+Standard limb leads (I, II, III) are bipolar leads that measure the electrical potential difference between two electrodes placed on the limbs: Lead I: right arm (−) to left arm (+); Lead II: right arm (−) to left leg (+); Lead III: left arm (−) to left leg (+).
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+ECG Electrode Placement — Augmented Unipolar Limb Leads
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+Augmented unipolar limb leads (aVR, aVL, aVF) measure the electrical potential at one limb relative to the average of the other two limbs: aVR: right arm (+); aVL: left arm (+); aVF: left leg (+).
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+ECG Electrode Placement — Precordial Leads
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+Precordial (chest) leads (V1–V6) are unipolar leads that measure the electrical potential at six specific positions on the chest relative to the Wilson central terminal: V1: 4th intercostal space at the right sternal border; V2: 4th intercostal space at the left sternal border; V3: midway between V2 and V4; V4: 5th intercostal space at the midclavicular line; V5: anterior axillary line at the same horizontal level as V4; V6: midaxillary line at the same horizontal level as V4 and V5.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Normal ECG Waveform — P Wave
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+P wave: normal duration <0.12 sec; normal amplitude <0.25 mV in leads II and III.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Normal ECG Waveform — PR Interval
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+PR interval: normal duration 0.12–0.20 sec.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Normal ECG Waveform — QRS Complex
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+QRS complex: normal duration <0.12 sec; normal amplitude varies by lead.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Normal ECG Waveform — ST Segment
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+ST segment: normally isoelectric; elevation <1 mm in limb leads and <2 mm in precordial leads; depression <0.5 mm.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Normal ECG Waveform — T Wave
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+T wave: normally upright in leads I, II, and V3–V6; inverted in aVR; variable in III, aVL, aVF, V1, and V2.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Normal ECG Waveform — QT Interval
+
+PAGE
+298
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+QT interval: normal duration varies with heart rate; corrected QT (QTc) <0.44 sec for men and <0.46 sec for women.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise ECG — ST Segment Depression Criteria for Ischemia
+
+PAGE
+299
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+A positive test for ischemia is defined as ≥1 mm (0.1 mV) of horizontal or downsloping ST-segment depression measured 60–80 msec after the J point in three consecutive beats.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise ECG — ST Segment Elevation Criteria
+
+PAGE
+299
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+ST-segment elevation ≥1 mm (0.1 mV) in leads without pathological Q waves (excluding aVR) is considered abnormal and may indicate transmural ischemia or prior myocardial infarction with dyskinesis.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise ECG — Heart Rate Recovery Threshold
+
+PAGE
+300
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+An abnormal heart rate recovery is defined as a decrease of ≤12 beats/min from peak exercise to 1 min postexercise.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise ECG — Chronotropic Incompetence Threshold
+
+PAGE
+300
+
+SECTION
+4.13 — Electrocardiogram
+
+ORIGINAL TEXT
+Chronotropic incompetence is defined as failure to achieve ≥85% of the age-predicted maximal heart rate (APMHR) at peak exercise.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END

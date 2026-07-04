@@ -1,0 +1,38 @@
+id: table_row.free_weight_exercises
+type: TableRow
+canonical_name: Free Weight Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Free weight exercises are resistance training exercises performed using
+  barbells, dumbbells, kettlebells, or other handheld weights that are not constrained
+  by a machine. These exercises require the lifter to control the movement path and
+  stabilize the weight throughout the range of motion.
+
+  '
+attributes:
+- unconstrained_movement_path
+- requires_stabilization
+- uses_handheld_weights
+purpose:
+- develop functional strength
+- improve coordination and balance
+- train multiple muscle groups simultaneously
+related_concepts:
+- concept.resistance_training
+- concept.machine_exercises
+- concept.body_weight_exercises

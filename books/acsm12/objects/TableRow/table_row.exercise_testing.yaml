@@ -1,0 +1,27 @@
+id: table_row.exercise_testing
+type: TableRow
+canonical_name: Exercise Testing
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: ''
+  section: '6.24'
+  section_title: Exercise Testing
+  book_page: 488
+  pdf_page: 488
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Table 6.1 — Exercise Testing. The verbatim content of this table was
+  not provided in the extraction.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

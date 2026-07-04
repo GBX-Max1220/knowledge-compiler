@@ -1,0 +1,44 @@
+id: threshold.diagnostic_thresholds_for_metabolic_syndrome
+type: Threshold
+canonical_name: Diagnostic Thresholds for Metabolic Syndrome
+semantic_type: Diagnostic Criteria
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Diagnosis and Comorbidities
+  section: '10.20'
+  section_title: Diagnosis and Comorbidities
+  book_page: 835
+  pdf_page: 835
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: threshold.elevated_waist_circumference_for_metabolic_syndrome
+- predicate: has_attribute
+  target: threshold.elevated_triglycerides_for_metabolic_syndrome
+- predicate: has_attribute
+  target: threshold.reduced_hdl_cholesterol_for_metabolic_syndrome
+- predicate: has_attribute
+  target: threshold.elevated_blood_pressure_for_metabolic_syndrome
+- predicate: has_attribute
+  target: threshold.elevated_fasting_glucose_for_metabolic_syndrome
+definition: 'The diagnosis of metabolic syndrome is made when three or more of the
+  following risk factors are present: elevated waist circumference (≥102 cm [≥40 in]
+  in men and ≥88 cm [≥35 in] in women), elevated triglycerides (≥150 mg·dL⁻¹ [1.7
+  mmol·L⁻¹]), reduced HDL cholesterol (<40 mg·dL⁻¹ [1.0 mmol·L⁻¹] in men and <50 mg·dL⁻¹
+  [1.3 mmol·L⁻¹] in women), elevated blood pressure (systolic ≥130 mm Hg and/or diastolic
+  ≥85 mm Hg), and elevated fasting glucose (≥100 mg·dL⁻¹).
+
+  '
+attributes:
+- three_or_more_risk_factors
+purpose:
+- diagnose metabolic syndrome
+related_concepts:
+- concept.metabolic_syndrome

@@ -1,0 +1,39 @@
+id: table_row.suspension_training_exercises
+type: TableRow
+canonical_name: Suspension Training Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Suspension training exercises are resistance training exercises performed
+  using straps or ropes suspended from an anchor point. The user''s body weight provides
+  the resistance, and instability is introduced by the suspension system, requiring
+  greater core activation and stabilization.
+
+  '
+attributes:
+- uses_body_weight_as_resistance
+- introduces_instability
+- requires_core_activation
+- uses_suspension_system
+purpose:
+- develop core strength and stability
+- improve balance and coordination
+- provide full-body training stimulus
+related_concepts:
+- concept.resistance_training
+- concept.body_weight_exercises
+- concept.core_stability

@@ -1,0 +1,28 @@
+id: figure.algorithm_exercise_testing_prescription_chronic_diseases
+type: Figure
+canonical_name: Algorithm for Exercise Testing and Prescription for Individuals with
+  Chronic Diseases and Health Conditions
+semantic_type: Algorithm
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.33'
+  section_title: Exercise Testing
+  book_page: 852
+  pdf_page: 852
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+description: 'Figure 10.1 provides an algorithm for exercise testing and prescription
+  for individuals with chronic diseases and health conditions.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

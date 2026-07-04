@@ -1,0 +1,34 @@
+id: table_row.cardiorespiratory_time
+type: TableRow
+canonical_name: Cardiorespiratory Time
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Exercise Prescription
+  section: '6.19'
+  section_title: Exercise Prescription
+  book_page: 477
+  pdf_page: 477
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For cardiorespiratory exercise training, the general recommendation for
+  time (duration) is 30–60 minutes per day of moderate-intensity exercise, or 20–60
+  minutes per day of vigorous-intensity exercise, or a combination of moderate and
+  vigorous exercise to achieve a total of 150–300 minutes per week of moderate-intensity
+  or 75–150 minutes per week of vigorous-intensity aerobic physical activity.
+
+  '
+attributes:
+- time
+- cardiorespiratory
+purpose:
+- guide exercise prescription
+related_concepts:
+- concept.cardiorespiratory_endurance

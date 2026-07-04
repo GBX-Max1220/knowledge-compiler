@@ -1,0 +1,311 @@
+TYPE
+Threshold
+
+TITLE
+Blood Pressure Thresholds for Exercise Termination
+
+PAGE
+576
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+SBP >250 mm Hg or DBP >115 mm Hg
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Heart Rate Thresholds for Exercise Termination
+
+PAGE
+576
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+HR >120 bpm (if on beta-blockers) or >85% age-predicted HRmax
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Oxygen Saturation Threshold for Exercise Termination
+
+PAGE
+576
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+SpO2 <85%
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+ST-Segment Depression Threshold for Exercise Termination
+
+PAGE
+576
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+≥2 mm horizontal or downsloping ST-segment depression
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Angina Severity Threshold for Exercise Termination
+
+PAGE
+576
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+Moderate to severe angina (3+ on 0–4 scale)
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Dyspnea Threshold for Exercise Termination
+
+PAGE
+576
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+Severe dyspnea (5+ on 0–10 Borg scale)
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Blood Glucose Threshold for Exercise in Diabetes
+
+PAGE
+577
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+BG <70 mg·dL⁻¹ or >250 mg·dL⁻¹ with ketones
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Blood Pressure Threshold for Exercise in Hypertension
+
+PAGE
+577
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+Resting SBP >200 mm Hg or DBP >110 mm Hg
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Heart Rate Threshold for Exercise in Atrial Fibrillation
+
+PAGE
+578
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+Resting HR >100 bpm
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Oxygen Saturation Threshold for Exercise in COPD
+
+PAGE
+579
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+SpO2 <88% at rest or during exercise
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Blood Pressure Threshold for Exercise in Peripheral Artery Disease
+
+PAGE
+579
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+Resting SBP >180 mm Hg or DBP >100 mm Hg
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Heart Rate Threshold for Exercise in Heart Failure
+
+PAGE
+580
+
+SECTION
+8.5 — Special Considerations
+
+ORIGINAL TEXT
+Resting HR >100 bpm or HR >120 bpm during exercise
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END

@@ -1,0 +1,32 @@
+id: recommendation.clothing_considerations_for_exercise_in_heat
+type: Recommendation
+canonical_name: Clothing Considerations for Exercise in Heat
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.14'
+  section_title: Clothing Considerations
+  book_page: 546
+  pdf_page: 546
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Clothing can significantly influence the ability to thermoregulate during
+  exercise in the heat. Clothing that is lightweight, loose fitting, and light colored
+  is recommended to facilitate heat loss during exercise in the heat.
+
+  '
+attributes:
+- lightweight
+- loose_fitting
+- light_colored
+purpose:
+- facilitate heat loss during exercise in the heat
+related_concepts: []
