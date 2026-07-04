@@ -1,0 +1,28 @@
+id: concept.myplate
+type: Concept
+canonical_name: MyPlate
+semantic_type: Food Guidance System
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'MyPlate, a food guidance system created by the U.S. Department of Agriculture
+  in 2011 and based on the Dietary Guidelines for Americans to help consumers make
+  better food choices (100).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

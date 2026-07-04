@@ -1,0 +1,30 @@
+id: concept.stress_fractures
+type: Concept
+canonical_name: Stress Fractures
+semantic_type: Injury
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The adaptive response of bone ensures that forces do not exceed a critical
+  level that increases the risk of stress fractures (microfractures in bone due to
+  structural fatigue).
+
+  '
+attributes:
+- microfractures
+- structural_fatigue
+purpose: []
+related_concepts: []

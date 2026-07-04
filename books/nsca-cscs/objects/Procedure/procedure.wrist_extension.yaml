@@ -1,0 +1,41 @@
+id: procedure.wrist_extension
+type: Procedure
+canonical_name: Wrist Extension
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Special Populations
+  section: '16.2'
+  section_title: Machine Exercises
+  book_page: 1003
+  pdf_page: 1003
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Starting Position Sit on the end of a bench. Grasp the bar with a closed,
+  pronated grip about hip- to shoulder-width apart. Position the feet and legs parallel
+  to each other with the toes pointing straight ahead. Lean the torso forward and
+  place the elbows and forearms on the top of the thighs. Move the wrists forward
+  until they are slightly beyond the patellae. Keep a closed grip on the bar but allow
+  the wrists to flex toward the floor. Upward Movement Phase Raise the bar by extending
+  the wrists. Extend the wrists as far as possible without moving the elbows or forearms.
+  Do not jerk the body backward or swing the bar upward. Downward Movement Phase Allow
+  the wrists to slowly flex back to the starting position. Keep the torso and arms
+  in the same position. Maintain a closed grip.
+
+  '
+attributes:
+- closed_pronated_grip
+- seated_position
+- forearm_supported
+purpose:
+- strengthen wrist extensors
+related_concepts:
+- concept.barbell
+- concept.bench

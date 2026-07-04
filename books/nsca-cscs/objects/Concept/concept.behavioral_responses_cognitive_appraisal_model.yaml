@@ -1,0 +1,40 @@
+id: concept.behavioral_responses_cognitive_appraisal_model
+type: Concept
+canonical_name: Behavioral Responses (Cognitive Appraisal Model)
+semantic_type: Response
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 519
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.cognitive_appraisal_model
+definition: 'Behavioral Responses: Adherence to rehabilitation. Does the athlete demonstrate
+  consistency and commitment to the active process? Use of psychological skills. Are
+  techniques such as goal setting, imagery, and visualization integrated to improve
+  their recovery timeline? Effort and intensity. How does the athlete''s level of
+  motivation change over time? Malingering. Does the athlete exacerbate pain or readiness
+  levels to avoid future responsibilities or changes in their timeline? Risk-taking.
+  Does the athlete engage in activities that have not yet been cleared for participation?
+  Do they avoid certain activities because they feel they are not yet ready to perform?
+
+  '
+attributes:
+- adherence to rehabilitation
+- use of psychological skills
+- effort and intensity
+- malingering
+- risk-taking
+purpose: []
+related_concepts: []

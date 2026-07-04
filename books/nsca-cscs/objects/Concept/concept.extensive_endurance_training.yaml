@@ -1,0 +1,29 @@
+id: concept.extensive_endurance_training
+type: Concept
+canonical_name: Extensive Endurance Training
+semantic_type: Training_Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  book_page: 1537
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'the term extensive endurance training is a more appropriate term and
+  the one used in this text.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,34 @@
+id: concept.protein_digestibility_corrected_amino_acid_score
+type: Concept
+canonical_name: Protein Digestibility Corrected Amino Acid Score (PDCAAS)
+semantic_type: Metric
+aliases:
+- PDCAAS
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 550
+  pdf_page: 550
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Measures of protein quality, such as the protein digestibility corrected
+  amino acid score (PDCAAS), take protein digestibility (or bioavailability) into
+  account as well as a protein''s ability to provide the essential amino acids necessary
+  for the synthesis of body proteins and other metabolites.
+
+  '
+attributes: []
+purpose:
+- measure protein quality
+- take protein digestibility (or bioavailability) into account
+- account for a protein's ability to provide the essential amino acids necessary for
+  the synthesis of body proteins and other metabolites
+related_concepts: []

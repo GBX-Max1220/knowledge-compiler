@@ -1,0 +1,27 @@
+id: concept.preparatory_period
+type: Concept
+canonical_name: Preparatory Period
+semantic_type: TrainingPeriod
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1594
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In outlining a periodized training plan, the starting point is usually
+  the preparatory period.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

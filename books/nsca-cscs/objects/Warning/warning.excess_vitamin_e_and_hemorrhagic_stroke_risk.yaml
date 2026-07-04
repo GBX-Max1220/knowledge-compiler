@@ -1,0 +1,31 @@
+id: warning.excess_vitamin_e_and_hemorrhagic_stroke_risk
+type: Warning
+canonical_name: Excess Vitamin E and Hemorrhagic Stroke Risk
+semantic_type: Risk
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Vitamin E acts as an anticoagulant and therefore thins the blood. Regular
+  intake of excessive amounts of vitamin E can lead to high serum vitamin E levels,
+  which is associated with increased risk of hemorrhagic stroke, particularly in individuals
+  on blood thinners (125).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.vitamin_e
+- concept.hemorrhagic_stroke

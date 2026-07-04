@@ -1,0 +1,17 @@
+id: threshold.resistance_band_substitution_percentage_for_back_squat
+type: Threshold
+canonical_name: Resistance Band — Substitution Percentage for Back Squat
+semantic_type: Load Substitution
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1107
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1

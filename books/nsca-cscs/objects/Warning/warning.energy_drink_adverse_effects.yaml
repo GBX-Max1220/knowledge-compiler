@@ -1,0 +1,51 @@
+id: warning.energy_drink_adverse_effects
+type: Warning
+canonical_name: Energy Drink Adverse Effects
+semantic_type: Adverse Effect
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 722
+  pdf_page: 722
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.excessive_caffeine_intake
+- predicate: has_attribute
+  target: concept.mixing_energy_drinks_with_alcohol
+- predicate: has_attribute
+  target: concept.caffeine_overdose
+definition: 'The safety issues surrounding energy drink consumption appear related
+  to excessive caffeine intake (187) and the detrimental effects of mixing energy
+  drinks with alcohol (187). The mixing of energy drinks with alcohol is more prevalent
+  in certain social contexts and is not a common practice for those consuming energy
+  drinks before a workout to enhance work capacity or to facilitate faster training
+  adaptations. Due to the presence of caffeine in most energy drinks, the same potential
+  adverse effects that exist for caffeine also exist for energy drinks. However, most
+  energy drinks contain only moderate amounts of caffeine, typically less than 300
+  milligrams (187). Even though energy drinks typically contain low to moderate doses
+  of caffeine, one should recognize that it is possible to overdose on caffeine through
+  the consumption of energy drinks (116). While there is some information related
+  to the side effects of excess caffeine ingestion, energy drinks contain other ingredients
+  and stimulants. Currently, it is unknown whether inclusion of other stimulants in
+  energy drinks may increase or decrease the threshold for experiencing side effects.
+  Therefore, more research is needed to determine the long-term effects of habitual
+  intake of energy drinks before definitive conclusions can be drawn.
+
+  '
+attributes:
+- excessive_caffeine_intake
+- mixing_energy_drinks_with_alcohol
+- caffeine_overdose
+purpose: []
+related_concepts:
+- warning.caffeine_adverse_effects

@@ -1,0 +1,27 @@
+id: concept.contraindication
+type: Concept
+canonical_name: Contraindication
+semantic_type: Medical Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1635
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A contraindication is an activity or practice that is inadvisable or
+  prohibited due to the given injury.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

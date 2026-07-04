@@ -1,0 +1,29 @@
+id: concept.preactivation
+type: Concept
+canonical_name: Preactivation
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 421
+  pdf_page: 421
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Muscle activity before (preactivation) and immediately following (cocontraction)
+  contact with the ground is an important mediator of braking and dynamic stabilization
+  in both young and old individuals.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.cocontraction

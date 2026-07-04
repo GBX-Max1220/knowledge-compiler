@@ -1,0 +1,35 @@
+id: recommendation.general_guidelines_for_alternative_modes_and_nontraditional_implement_exercises
+type: Recommendation
+canonical_name: General Guidelines for Alternative Modes and Nontraditional Implement
+  Exercises
+semantic_type: Exercise Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1092
+  pdf_page: 1092
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Ensure proper body alignment via selection of a stable body
+  position. If the exercise is a freestanding ground-based exercise, place the feet
+  slightly wider than shoulder width and keep them flat on the ground. Use the appropriate
+  grip for the exercise based on the type of exercise (see chapter 16 for more detail).
+  Exhale during the concentric portion of the exercise and inhale during the eccentric
+  phase. With heavy loads (80% of maximal voluntary contraction or greater) or with
+  lighter loads performed to failure, the Valsalva maneuver may be a useful technique
+  for maintaining spinal stability.
+
+  '
+rationale: []
+conditions: []

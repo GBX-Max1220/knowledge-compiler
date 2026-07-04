@@ -1,0 +1,30 @@
+id: concept.low_energy_availability
+type: Concept
+canonical_name: Low Energy Availability
+semantic_type: Condition
+aliases:
+- LEA
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.relative_energy_deficiency_in_sport
+definition: 'LEA is quantified by energy availability (EA), calculated as energy intake
+  minus exercise energy expenditure, relative to fat-free mass (FFM).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

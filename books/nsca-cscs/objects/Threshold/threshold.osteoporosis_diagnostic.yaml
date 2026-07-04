@@ -1,0 +1,33 @@
+id: threshold.osteoporosis_diagnostic
+type: Threshold
+canonical_name: Osteoporosis Diagnostic Threshold
+semantic_type: DiagnosticThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.3'
+  section_title: Conclusion
+  book_page: 436
+  pdf_page: 436
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Osteoporosis is deemed to be present when an individual''s bone mineral
+  density is 2.5 standard deviations (SD) or more below the average of the young adult
+  mean.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.osteoporosis
+threshold_value: 2.5 SD
+operator: '>='
+unit: standard deviations
+comparison: below the average of the young adult mean

@@ -1,0 +1,639 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.five_point_body_contact_position
+type: Concept
+canonical_name: Five-Point Body Contact Position
+semantic_type: Position
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Stable Body and Limb Positioning"
+  book_page: 951
+  pdf_page: 951
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The athlete should position the body to achieve a five-point body contact position:
+  1. Head is placed firmly on the bench or back pad.
+  2. Shoulders and upper back are placed firmly and evenly on the bench or back pad.
+  3. Buttocks are placed evenly on the bench or seat.
+  4. Right foot is flat on the floor.
+  5. Left foot is flat on the floor.
+
+attributes:
+  - head placed firmly on bench or back pad
+  - shoulders and upper back placed firmly and evenly on bench or back pad
+  - buttocks placed evenly on bench or seat
+  - right foot flat on floor
+  - left foot flat on floor
+
+purpose:
+  - achieve stable body position
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sticking_point
+type: Concept
+canonical_name: Sticking Point
+semantic_type: MovementPhase
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Breathing Considerations"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The most strenuous movement of a repetition—typically soon after the transition from the eccentric phase to the concentric phase—is referred to as the sticking point.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.valsalva_maneuver
+type: Concept
+canonical_name: Valsalva Maneuver
+semantic_type: BreathingTechnique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Breathing Considerations"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The Valsalva maneuver involves expiring against a closed glottis, which, when combined with contracting the abdomen and rib cage muscles, creates rigid compartments of fluid in the lower torso and air in the upper torso (i.e., the "fluid ball").
+
+attributes: []
+
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.spotter
+type: Concept
+canonical_name: Spotter
+semantic_type: Role
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Spotting Free Weight Exercises"
+  book_page: 955
+  pdf_page: 955
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A spotter is someone who assists in the execution of an exercise to help protect the athlete from injury.
+
+attributes: []
+
+purpose:
+  - assist in execution of exercise
+  - protect athlete from injury
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.liftoff
+type: Concept
+canonical_name: Liftoff
+semantic_type: Action
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Communication Between Athlete and Spotter"
+  book_page: 959
+  pdf_page: 959
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The term liftoff refers to moving the bar from the upright supports to a position in which the athlete can begin the exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.breathing_strategy_resistance_training
+type: Recommendation
+canonical_name: Breathing Strategy for Most Resistance Training Exercises
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Breathing Considerations"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Strength and conditioning professionals should typically instruct athletes to exhale through the sticking point and to inhale during the less stressful phase of the repetition.
+
+target_audience:
+  - strength and conditioning professionals
+
+action:
+  - instruct athletes to exhale through the sticking point
+  - instruct athletes to inhale during the less stressful phase of the repetition
+
+context:
+  - most resistance training exercises
+
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.valsalva_maneuver_experienced_athletes
+type: Recommendation
+canonical_name: Valsalva Maneuver Recommendation for Experienced Athletes
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Breathing Considerations"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  For experienced resistance-trained athletes performing structural exercises (those that load the vertebral column and therefore place stress on it) with high loads, the Valsalva maneuver can be helpful for maintaining proper vertebral alignment and support.
+
+target_audience:
+  - experienced resistance-trained athletes
+
+action:
+  - use Valsalva maneuver
+
+context:
+  - performing structural exercises with high loads
+
+rationale:
+  - maintaining proper vertebral alignment and support
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.side_effects_valsalva_maneuver
+type: Warning
+canonical_name: Side Effects of Valsalva Maneuver
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Breathing Considerations"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  Be aware, however, that the resulting increase in intra-abdominal pressure has potentially detrimental side effects, such as dizziness, disorientation, excessively high blood pressure, and blackouts.
+
+severity: moderate
+
+risk_factors:
+  - increase in intra-abdominal pressure
+
+side_effects:
+  - dizziness
+  - disorientation
+  - excessively high blood pressure
+  - blackouts
+
+context:
+  - Valsalva maneuver
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.weight_belt_use
+type: Recommendation
+canonical_name: Weight Belt Use Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Weight Belts"
+  book_page: 954
+  pdf_page: 954
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  It is recommended that a weight belt be worn for exercises that place stress on the lower back and during sets that use near-maximal or maximal loads.
+
+target_audience: []
+
+action:
+  - wear a weight belt
+
+context:
+  - exercises that place stress on the lower back
+  - sets that use near-maximal or maximal loads
+
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.weight_belt_non_use
+type: Recommendation
+canonical_name: Weight Belt Non-Use Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Weight Belts"
+  book_page: 954
+  pdf_page: 954
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  No weight belt is needed for exercises that do not stress the lower back (e.g., biceps curl or lat pulldown) or for exercises that do stress the lower back (e.g., back squat or deadlift) but involve the use of light loads.
+
+target_audience: []
+
+action:
+  - do not wear a weight belt
+
+context:
+  - exercises that do not stress the lower back
+  - exercises that stress the lower back but involve light loads
+
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.spotting_free_weight_exercises
+type: Recommendation
+canonical_name: Spotting Recommendation for Free Weight Exercises
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Types of Exercises Performed and Equipment Involved"
+  book_page: 956
+  pdf_page: 956
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  With the exception of power exercises, free weight exercises performed with a bar moving over the head, positioned on the back, racked on the front of the shoulders, or passing over the face typically require one or more spotters.
+
+target_audience: []
+
+action:
+  - use one or more spotters
+
+context:
+  - free weight exercises performed with a bar moving over the head
+  - free weight exercises performed with a bar positioned on the back
+  - free weight exercises performed with a bar racked on the front of the shoulders
+  - free weight exercises performed with a bar passing over the face
+
+exceptions:
+  - power exercises
+
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.do_not_spot_power_exercises
+type: Recommendation
+canonical_name: Do Not Spot Power Exercises
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Do Not Spot Power Exercises"
+  book_page: 957
+  pdf_page: 957
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Whereas spotting is recommended in the types of exercises previously described, it is not advised in power exercises.
+
+target_audience: []
+
+action:
+  - do not spot
+
+context:
+  - power exercises
+
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.dumbbell_spotting_location
+type: Recommendation
+canonical_name: Dumbbell Spotting Location Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Spotting Over-the-Face Exercises"
+  book_page: 957
+  pdf_page: 957
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Spotting at the forearms near the wrists (figure 16.3b) is a safer technique.
+
+target_audience: []
+
+action:
+  - spot at the forearms near the wrists
+
+context:
+  - over-the-face exercises
+
+rationale:
+  - safer technique
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.liftoff_communication
+type: Recommendation
+canonical_name: Liftoff Communication Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Use of a Liftoff"
+  book_page: 959
+  pdf_page: 959
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  If a liftoff is needed or requested, the athlete and spotter need to agree in advance on a verbal signal (e.g., the command "up" or "I will give it to you on the count of three").
+
+target_audience:
+  - athlete
+  - spotter
+
+action:
+  - agree in advance on a verbal signal
+
+context:
+  - liftoff is needed or requested
+
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.liftoff_procedure
+type: Procedure
+canonical_name: Liftoff Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Use of a Liftoff"
+  book_page: 959
+  pdf_page: 959
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+procedure_text: >
+  Typically, the athlete signals that he or she is ready; the spotter says, "One, two, three," and on "three" the bar is moved into position.
+
+steps:
+  - step_number: 1
+    description: "The athlete signals that he or she is ready."
+  - step_number: 2
+    description: "The spotter says, 'One, two, three.'"
+  - step_number: 3
+    description: "On 'three,' the bar is moved into position."
+
+purpose:
+  - move the bar into position for the athlete to begin the exercise
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.breath_holding_duration
+type: Recommendation
+canonical_name: Breath-Holding Duration Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16"
+  section_title: "Breathing Considerations"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  This is why the breath-holding phase is—and should be—quite transient, only about 1 to 2 seconds (at most).
+
+target_audience: []
+
+action:
+  - limit breath-holding phase to 1 to 2 seconds at most
+
+context: []
+
+rationale: []

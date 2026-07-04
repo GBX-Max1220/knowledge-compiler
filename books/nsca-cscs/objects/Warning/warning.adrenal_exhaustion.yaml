@@ -1,0 +1,30 @@
+id: warning.adrenal_exhaustion
+type: Warning
+canonical_name: Adrenal Exhaustion
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine Responses to Resistance Exercise and Training
+  section: 'Chapter 4: Endocrine Responses to Resistance Exercise and Training — Catecholamines
+    and Their Role in Resistance Exercise and Training'
+  section_title: Catecholamines and Their Role in Resistance Exercise and Training
+  book_page: 271
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: 'Continuous high stress without varied training can lead to delayed
+  recovery and, eventually, adrenal exhaustion, reducing the adrenal medulla''s ability
+  to secrete catecholamines effectively.
+
+  '

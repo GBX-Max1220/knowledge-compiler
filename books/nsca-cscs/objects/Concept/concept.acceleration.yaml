@@ -1,0 +1,27 @@
+id: concept.acceleration
+type: Concept
+canonical_name: Acceleration
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1402
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Acceleration refers to the rate at which an object''s velocity changes
+  over time.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

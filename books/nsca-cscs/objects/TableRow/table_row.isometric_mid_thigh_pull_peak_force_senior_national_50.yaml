@@ -1,0 +1,11 @@
+id: table_row.isometric_mid_thigh_pull_peak_force_senior_national_50
+type: TableRow
+canonical_name: Isometric Mid-Thigh Pull Peak Force - Senior National 50th Percentile
+semantic_type: NormativeData
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38

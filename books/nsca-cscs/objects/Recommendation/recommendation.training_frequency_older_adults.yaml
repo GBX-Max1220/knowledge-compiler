@@ -1,0 +1,30 @@
+id: recommendation.training_frequency_older_adults
+type: Recommendation
+canonical_name: Training Frequency for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 432
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A training frequency of two or three sessions per week is recommended,
+  at least during the initial adaptation period.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_details:
+  frequency: 2-3 sessions per week
+  period: initial adaptation period

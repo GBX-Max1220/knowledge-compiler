@@ -1,0 +1,35 @@
+id: concept.core
+type: Concept
+canonical_name: Core
+semantic_type: Body Region
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1095
+  pdf_page: 1095
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.anatomical_core
+definition: 'The term core is commonly used in the popular media and in some training
+  journals (13) to refer to the trunk or, more specifically, the lumbopelvic region
+  of the body (151).
+
+  '
+attributes:
+- trunk
+- lumbopelvic_region
+purpose: []
+related_concepts:
+- concept.anatomical_core

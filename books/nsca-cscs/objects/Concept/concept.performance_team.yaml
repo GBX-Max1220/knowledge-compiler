@@ -1,0 +1,28 @@
+id: concept.performance_team
+type: Concept
+canonical_name: Performance Team
+semantic_type: Concept
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1779
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The performance team concept —that is, the use of individuals with specific
+  areas of expertise as resources—can be applied in the creation of a strength and
+  conditioning program that works toward meeting the preceding objectives.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,34 @@
+id: concept.testosterone_transport_and_mechanism_of_action
+type: Concept
+canonical_name: Testosterone Transport and Mechanism of Action
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System in Resistance Training
+  section: '4.3'
+  section_title: Endocrine System in Resistance Training
+  book_page: 253
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.testosterones_role_in_muscle_adaptation
+definition: 'After secretion from the primary production sites, the testes in men
+  and the ovaries and adrenal cortex in women, testosterone is carried to target tissues
+  by binding proteins, primarily sex hormone–binding globulin and albumin. At the
+  target site, testosterone dissociates from these proteins and crosses the cell membrane
+  to bind to intracellular androgen receptors, directly influencing DNA transcription.
+  Testosterone also binds to membrane receptors, enabling rapid intracellular effects
+  like calcium release (21, 131).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

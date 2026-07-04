@@ -1,0 +1,327 @@
+TYPE
+Definition
+
+TITLE
+Validity
+
+PAGE
+736
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Validity refers to the degree to which a test or test item measures what it is supposed to measure and is one of the most important characteristics of testing (2, 25).
+
+PARENT
+Evaluation of Test Quality
+
+CHILDREN
+Construct Validity, Face Validity, Content Validity, Criterion Validity
+
+RELATIONSHIPS
+is_a: Evaluation of Test Quality
+
+END
+
+TYPE
+Definition
+
+TITLE
+Construct Validity
+
+PAGE
+736-737
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Construct validity is the ability of a test to represent the underlying construct (the theory developed to organize and explain some aspects of existing knowledge and observations). Construct validity refers to overall validity, or the extent to which the test actually measures what it was designed to measure (24).
+
+PARENT
+Validity
+
+CHILDREN
+Convergent Validity, Discriminant Validity
+
+RELATIONSHIPS
+is_a: Validity
+
+END
+
+TYPE
+Definition
+
+TITLE
+Convergent Validity
+
+PAGE
+737
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Convergent validity is evidenced by high positive correlations between results of the test being assessed and those of the recognized measure of the construct (the "gold standard").
+
+PARENT
+Construct Validity
+
+RELATIONSHIPS
+is_a: Construct Validity
+
+END
+
+TYPE
+Definition
+
+TITLE
+Discriminant Validity
+
+PAGE
+737
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Discriminant validity is the ability of a test to distinguish between two different constructs and is evidenced by a low correlation between the results of the test and those of tests of a different construct (2).
+
+PARENT
+Construct Validity
+
+RELATIONSHIPS
+is_a: Construct Validity
+
+END
+
+TYPE
+Definition
+
+TITLE
+Face Validity
+
+PAGE
+737
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Face validity is the appearance to the athlete and other casual observers that the test measures what it is purported to measure.
+
+PARENT
+Validity
+
+RELATIONSHIPS
+is_a: Validity
+
+END
+
+TYPE
+Definition
+
+TITLE
+Content Validity
+
+PAGE
+738
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Content validity is the assessment by experts that the testing covers all relevant subtopics or component abilities in appropriate proportions (1).
+
+PARENT
+Validity
+
+RELATIONSHIPS
+is_a: Validity
+
+END
+
+TYPE
+Definition
+
+TITLE
+Criterion Validity
+
+PAGE
+738
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Criterion validity is the extent to which test scores are associated with some other measure of the same ability.
+
+PARENT
+Validity
+
+CHILDREN
+Concurrent Validity, Predictive Validity
+
+RELATIONSHIPS
+is_a: Validity
+
+END
+
+TYPE
+Definition
+
+TITLE
+Concurrent Validity
+
+PAGE
+738
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Concurrent validity is the extent to which test scores are associated with those of other accepted tests that measure the same ability.
+
+PARENT
+Criterion Validity
+
+RELATIONSHIPS
+is_a: Criterion Validity
+
+END
+
+TYPE
+Definition
+
+TITLE
+Predictive Validity
+
+PAGE
+738
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Predictive validity is the extent to which the test score corresponds with future behavior or performance.
+
+PARENT
+Criterion Validity
+
+RELATIONSHIPS
+is_a: Criterion Validity
+
+END
+
+TYPE
+Definition
+
+TITLE
+Reliability
+
+PAGE
+739
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Reliability is a measure of the degree of consistency or repeatability of a test (2, 8).
+
+PARENT
+Evaluation of Test Quality
+
+CHILDREN
+Intrasubject Variability, Interrater Reliability, Intrarater Variability
+
+RELATIONSHIPS
+is_a: Evaluation of Test Quality
+
+END
+
+TYPE
+Definition
+
+TITLE
+Intrasubject Variability
+
+PAGE
+740
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Intrasubject variability is a lack of consistent performance by the person being tested.
+
+PARENT
+Reliability
+
+RELATIONSHIPS
+is_a: Reliability
+
+END
+
+TYPE
+Definition
+
+TITLE
+Interrater Reliability
+
+PAGE
+740
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Interrater reliability, also referred to as objectivity or interrater agreement (2), is the degree to which different raters agree in their test results over time or on repeated occasions; it is a measure of consistency.
+
+PARENT
+Reliability
+
+RELATIONSHIPS
+is_a: Reliability
+
+END
+
+TYPE
+Definition
+
+TITLE
+Intrarater Variability
+
+PAGE
+741-742
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Intrarater variability is the lack of consistent scores by a given tester.
+
+PARENT
+Reliability
+
+RELATIONSHIPS
+is_a: Reliability
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 13.1 — A proposed framework for the scientific process of physical test selection
+
+PAGE
+741
+
+SECTION
+13.2 — Testing Terminology
+
+ORIGINAL TEXT
+Figure 13.1 A proposed framework for the scientific process of physical test selection.
+
+END

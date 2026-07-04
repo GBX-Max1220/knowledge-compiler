@@ -1,0 +1,30 @@
+id: recommendation.care_in_prescribing_aerobic_endurance_training_for_anaerobic_sports
+type: Recommendation
+canonical_name: Care in Prescribing Aerobic Endurance Training for Anaerobic Sports
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 222
+  pdf_page: 222
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Although oxidative metabolism is important for increased postexercise
+  V̇O2, lactate removal, and PCr restoration from heavy anaerobic exercise (e.g.,
+  resistance training and sprint training) (135), care must be used in prescribing
+  aerobic endurance training for anaerobic sports.
+
+  '
+target_population:
+- anaerobic sports athletes
+condition: []
+citations:
+- '135'

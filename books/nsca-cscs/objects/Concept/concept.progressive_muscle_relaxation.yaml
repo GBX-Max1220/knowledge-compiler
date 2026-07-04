@@ -1,0 +1,30 @@
+id: concept.progressive_muscle_relaxation
+type: Concept
+canonical_name: Progressive Muscle Relaxation
+semantic_type: Technique
+aliases:
+- PMR
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: 'Energy Management: Arousal and Anxiety'
+  section: '9.3'
+  section_title: 'Energy Management: Arousal and Anxiety'
+  book_page: 491
+  pdf_page: 491
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Progressive muscle relaxation is a technique by which psychological and
+  physical arousal are self-regulated through the control of skeletal muscle tension.
+
+  '
+attributes: []
+purpose:
+- self-regulate psychological arousal
+- self-regulate physical arousal
+related_concepts: []

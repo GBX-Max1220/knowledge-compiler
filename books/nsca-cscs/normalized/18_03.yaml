@@ -1,0 +1,592 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.training_frequency
+type: Concept
+canonical_name: Training Frequency
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1211
+  pdf_page: 1211
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Training frequency refers to the number of training sessions completed in a given time period. For a resistance training program, a common time period is one week.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.general_training_frequency_novice
+type: Recommendation
+canonical_name: General Training Frequency Recommendation for Novice Athletes
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1211
+  pdf_page: 1211
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Traditionally, three workouts per week are recommended for many athletes, because the intervening days allow sufficient recovery between sessions.
+
+rationale: "the intervening days allow sufficient recovery between sessions"
+
+target_population: "many athletes"
+
+conditions: []
+
+strength: ""
+
+citations:
+  - citation_text: ""
+    reference_number: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.guideline_scheduling_rest_days
+type: Recommendation
+canonical_name: Guideline for Scheduling Rest Days Between Sessions
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1211
+  pdf_page: 1211
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  The general guideline is to schedule training sessions to include at least one rest or recovery day—but not more than three—between sessions that stress the same muscle groups (77); however, this may also depend on the intensity of the prescribed exercises.
+
+rationale: ""
+
+target_population: ""
+
+conditions:
+  - "at least one rest or recovery day—but not more than three—between sessions that stress the same muscle groups"
+  - "may also depend on the intensity of the prescribed exercises"
+
+strength: ""
+
+citations:
+  - citation_text: ""
+    reference_number: "77"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_frequency_beginner
+type: TableRow
+canonical_name: Resistance Training Frequency Based on Training Status - Beginner
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1212
+  pdf_page: 1212
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.4"
+table_title: "Resistance Training Frequency Based on Training Status"
+row_data:
+  training_status: "Beginner"
+  frequency_guidelines_sessions_per_week: "2-3"
+  notes: ""
+
+citations:
+  - citation_text: "Data from Graves et al. (1988); Häkkinen et al. (1988); Hoffman et al. (1990)."
+    reference_number: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_frequency_intermediate
+type: TableRow
+canonical_name: Resistance Training Frequency Based on Training Status - Intermediate
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1212
+  pdf_page: 1212
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.4"
+table_title: "Resistance Training Frequency Based on Training Status"
+row_data:
+  training_status: "Intermediate"
+  frequency_guidelines_sessions_per_week: "3-4"
+  notes: ""
+
+citations:
+  - citation_text: "Data from Graves et al. (1988); Häkkinen et al. (1988); Hoffman et al. (1990)."
+    reference_number: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_frequency_advanced
+type: TableRow
+canonical_name: Resistance Training Frequency Based on Training Status - Advanced
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1212
+  pdf_page: 1212
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.4"
+table_title: "Resistance Training Frequency Based on Training Status"
+row_data:
+  training_status: "Advanced"
+  frequency_guidelines_sessions_per_week: "4-7"
+  notes: "May include multiple sessions per day."
+
+citations:
+  - citation_text: "Data from Graves et al. (1988); Häkkinen et al. (1988); Hoffman et al. (1990)."
+    reference_number: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.push_pull_total_body_3x_week
+type: TableRow
+canonical_name: Push-Pull Total Body Routine 3 Times Per Week
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1212
+  pdf_page: 1212
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.5"
+table_title: "Examples of Common Total-Body Routines Using a Push–Pull Emphasis"
+row_data:
+  training_organization: "Push–pull"
+  body_parts_or_muscle_groups_trained: "Total body"
+  sample_training_week: "Rest, Heavy push, Rest, Heavy pull, Rest, Light mix, Rest"
+  resulting_training_frequency: "3 times per week"
+  notes: ""
+
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.push_pull_total_body_4x_week
+type: TableRow
+canonical_name: Push-Pull Total Body Routine 4 Times Per Week
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1212
+  pdf_page: 1212
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.5"
+table_title: "Examples of Common Total-Body Routines Using a Push–Pull Emphasis"
+row_data:
+  training_organization: "Push–pull"
+  body_parts_or_muscle_groups_trained: "Total body"
+  sample_training_week: "Rest, Heavy push, Rest, Heavy pull, Light push, Rest, Light pull"
+  resulting_training_frequency: "4 times per week"
+  notes: ""
+
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.split_routine
+type: Concept
+canonical_name: Split Routine
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1213
+  pdf_page: 1213
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  More highly resistance-trained (intermediate or advanced) athletes can augment their training by using a split routine in which different muscle groups are trained on different days.
+
+attributes: []
+
+purpose:
+  - "augment their training"
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.split_routine_lower_upper_4x_week
+type: TableRow
+canonical_name: Split Routine Lower Upper 4 Times Per Week
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1213
+  pdf_page: 1213
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.6"
+table_title: "Examples of Common Split Routines"
+row_data:
+  training_day: "1 Lower body, 2 Upper body"
+  body_parts_or_muscle_groups_trained: "Lower body, Upper body"
+  sample_training_week: "Rest, Lower body, Upper body, Rest, Lower body, Upper body, Rest"
+  resulting_training_frequency: "4 times per week"
+  notes: ""
+
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.split_routine_chest_shoulders_triceps_5x_week
+type: TableRow
+canonical_name: Split Routine Chest Shoulders Triceps 5 Times Per Week
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1213
+  pdf_page: 1213
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.6"
+table_title: "Examples of Common Split Routines"
+row_data:
+  training_day: "1 Chest, shoulders, triceps, 2 Lower body, 3 Back, trapezius, biceps"
+  body_parts_or_muscle_groups_trained: "Chest, shoulders, triceps, Lower body, Back, trapezius, biceps"
+  sample_training_week: "Rest, Chest, shoulders, triceps, Lower body, Back, trapezius, biceps, Rest, Chest, shoulders, triceps, Lower body"
+  resulting_training_frequency: "5 times per week"
+  notes: ""
+
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.split_routine_chest_back_6x_week
+type: TableRow
+canonical_name: Split Routine Chest Back 6 Times Per Week
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1213
+  pdf_page: 1213
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.6"
+table_title: "Examples of Common Split Routines"
+row_data:
+  training_day: "1 Chest and back, 2 Lower body, 3 Shoulders and arms"
+  body_parts_or_muscle_groups_trained: "Chest and back, Lower body, Shoulders and arms"
+  sample_training_week: "Chest and back, Lower body, Shoulders and arms, Rest, Chest and back, Lower body, Shoulders and arms"
+  resulting_training_frequency: "6 times per week"
+  notes: "Frequency varies between five times per week and six times per week, depending on the day of the week that is the first training day."
+
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_frequency_off_season
+type: TableRow
+canonical_name: Resistance Training Frequency Off-Season
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1214
+  pdf_page: 1214
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.7"
+table_title: "Resistance Training Frequency Based on the Sport Season (for a Trained Athlete)"
+row_data:
+  sport_season: "Off-season"
+  frequency_guidelines_sessions_per_week: "4-6"
+  notes: ""
+
+citations:
+  - citation_text: "Data from Stone and O'Bryant (1987); Tesch (1992)."
+    reference_number: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_frequency_preseason
+type: TableRow
+canonical_name: Resistance Training Frequency Preseason
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1214
+  pdf_page: 1214
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.7"
+table_title: "Resistance Training Frequency Based on the Sport Season (for a Trained Athlete)"
+row_data:
+  sport_season: "Preseason"
+  frequency_guidelines_sessions_per_week: "3-4"
+  notes: ""
+
+citations:
+  - citation_text: "Data from Stone and O'Bryant (1987); Tesch (1992)."
+    reference_number: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_frequency_in_season
+type: TableRow
+canonical_name: Resistance Training Frequency In-Season
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+  section_title: "Step 3: Training Frequency"
+  book_page: 1214
+  pdf_page: 1214
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.7"
+table_title: "Resistance Training Frequency Based on the Sport Season (for a Trained Athlete)"
+row_data:
+  sport_season: "In-season"
+  frequency_guidelines_sessions_per_week: "1-3"
+  notes: ""
+
+citations:
+  - citation_text: "Data from Stone and O'Bryant (1987); Tesch (1992)."
+    reference_number: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_frequency_postseason
+type: TableRow
+canonical_name: Resistance Training Frequency Postseason
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.3"
+ 

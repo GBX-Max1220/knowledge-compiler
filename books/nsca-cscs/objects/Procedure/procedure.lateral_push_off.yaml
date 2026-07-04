@@ -1,0 +1,49 @@
+id: procedure.lateral_push_off
+type: Procedure
+canonical_name: Lateral Push-Off
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1346
+  pdf_page: 1346
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An exercise drill involving a lateral push-off from a plyometric box,
+  with low intensity and vertical direction.
+
+  '
+attributes:
+- intensity_level: Low
+- direction: Vertical
+- arm_action: Double arm
+- equipment: Plyometric box, 10 to 18 inches (25-46 cm) high
+purpose:
+- perform a lateral push-off
+related_concepts: []
+steps:
+- step_number: 1
+  description: Stand to one side of the plyometric box with one foot on the ground
+    and one foot on the box. The inside of the foot on the box should be near the
+    box's closest edge.
+- step_number: 2
+  description: None or slightly lift the foot off the box.
+- step_number: 3
+  description: Jump up using the foot on the box to push off.
+- step_number: 4
+  description: Land with the same foot on the box; this foot should land just before
+    the ground foot. Immediately repeat the movement.
+common_errors:
+- Not producing sufficient vertical force from the front foot
+- Poor coordination or strength deficiencies, which means that peak height of the
+  center of mass does not occur at the same time as maximal extension of the lower
+  limbs and flexion in the shoulders

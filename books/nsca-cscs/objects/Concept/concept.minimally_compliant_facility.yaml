@@ -1,0 +1,43 @@
+id: concept.minimally_compliant_facility
+type: Concept
+canonical_name: Minimally Compliant Facility
+semantic_type: Facility
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1735
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A minimally compliant facility must be in agreement with mandated building
+  codes and regulations, including accessibility (i.e., wheelchair access and ADA
+  compliance), HVAC, electrical, lighting, flooring, storage, square footage, safety
+  spaces, and overhead clearance and must possess well-maintained equipment and surfaces.
+
+  '
+attributes:
+- in agreement with mandated building codes and regulations
+- accessible
+- wheelchair access
+- ADA compliance
+- HVAC
+- electrical
+- lighting
+- flooring
+- storage
+- square footage
+- safety spaces
+- overhead clearance
+- well-maintained equipment
+- well-maintained surfaces
+purpose: []
+related_concepts: []

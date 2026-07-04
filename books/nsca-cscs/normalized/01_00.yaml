@@ -1,0 +1,546 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.sliding_filament_theory
+type: Concept
+canonical_name: Sliding-Filament Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 52
+  pdf_page: 52
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.theory
+definition: >
+  The sliding-filament theory was proposed by Huxley and Hanson in 1954 to mechanistically explain muscular contraction at the molecular level (22). In its simplest form, the sliding-filament theory indicates that actin filaments anchored to each end of the sarcomere slide inward on myosin filaments. This results in Z-lines being pulled toward the center of the sarcomere and in muscle fiber shortening (figure 1.7). As actin filaments slide over myosin filaments, both the H-zone and I-band shrink. The energy-dependent association of myosin heads with actin filaments (i.e., actin-myosin crossbridge formation), as well as the energy-dependent inward movement of actin filaments over the myosin filaments through what is termed the power stroke, are the bases for muscle contraction.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.muscle_contraction
+  - concept.sarcomere
+  - concept.actin
+  - concept.myosin
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.motor_unit
+type: Concept
+canonical_name: Motor Unit
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 43
+  pdf_page: 43
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A motor neuron and the muscle fibers it innervates are called a motor unit.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.all_or_none_principle
+type: Concept
+canonical_name: All-or-None Principle
+semantic_type: Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 56
+  pdf_page: 56
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hence, the all-or-none principle has been generally used to describe this phenomenon; specifically, the activation of any given motor neuron will lead to the activation and contraction of all of the muscle fibers it innervates.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.motor_unit
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.proprioceptors
+type: Concept
+canonical_name: Proprioceptors
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 64
+  pdf_page: 64
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Proprioceptors are specialized sensory receptors located within joints, muscles, and tendons.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_spindles
+type: Concept
+canonical_name: Muscle Spindles
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 64
+  pdf_page: 64
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.proprioceptors
+definition: >
+  Muscle spindles are proprioceptors that consist of several modified muscle fibers enclosed in a sheath of connective tissue (figure 1.10).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.golgi_tendon_organs
+type: Concept
+canonical_name: Golgi Tendon Organs
+semantic_type: AnatomicalStructure
+aliases:
+  - GTOs
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 66
+  pdf_page: 66
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.proprioceptors
+definition: >
+  Golgi tendon organs (GTOs) are proprioceptors located in tendons near the myotendinous junction and are in series—that is, attached end to end, with extrafusal muscle fibers (figure 1.10).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cardiac_output
+type: Concept
+canonical_name: Cardiac Output
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 82
+  pdf_page: 82
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cardiac output is the amount of blood pumped by the heart in liters per minute and is determined by the quantity of blood ejected with each beat (stroke volume) and the heart's rate of pumping (heart rate): Q̇ = Stroke volume × Heart rate (1.1) where Q̇ is the cardiac output.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.stroke_volume
+  - concept.heart_rate
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.cardiac_output
+type: Formula
+canonical_name: Cardiac Output Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 82
+  pdf_page: 82
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: "Q̇ = Stroke volume × Heart rate"
+variables:
+  - name: Q̇
+    description: cardiac output
+    unit: L/min
+  - name: Stroke volume
+    description: quantity of blood ejected with each beat
+    unit: L/beat
+  - name: Heart rate
+    description: heart's rate of pumping
+    unit: beats/min
+equation: "Q̇ = Stroke volume × Heart rate"
+reference_number: "1.1"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.frank_starling_mechanism
+type: Concept
+canonical_name: Frank-Starling Mechanism
+semantic_type: Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 84
+  pdf_page: 84
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This principle, called the Frank-Starling mechanism, is related to the concept that the force of contraction is a function of the length of the fibers of the muscle wall.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maximal_oxygen_uptake
+type: Concept
+canonical_name: Maximal Oxygen Uptake
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Maximal oxygen uptake is the greatest amount of oxygen that can be used at the cellular level for the entire body.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.metabolic_equivalent
+type: Concept
+canonical_name: Metabolic Equivalent
+semantic_type: Unit
+aliases:
+  - MET
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Resting oxygen uptake is estimated at 3.5 mL of oxygen per kilogram of body weight per minute (mL · kg−1 · min−1) for an average person; this value is defined as 1 metabolic equivalent (MET).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.fick_equation
+type: Formula
+canonical_name: Fick Equation
+semantic_type: Formula
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: "V̇O2 = Q̇ × a-vO2 difference"
+variables:
+  - name: V̇O2
+    description: oxygen uptake
+    unit: mL/kg/min
+  - name: Q̇
+    description: cardiac output
+    unit: L/min
+  - name: a-vO2 difference
+    description: arteriovenous oxygen difference
+    unit: mL O2/dL blood
+equation: "V̇O2 = Q̇ × a-vO2 difference"
+reference_number: "1.2"
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.rate_pressure_product
+type: Formula
+canonical_name: Rate–Pressure Product
+semantic_type: Formula
+aliases:
+  - Double Product
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 86
+  pdf_page: 86
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: "Rate–pressure product = Heart rate × Systolic blood pressure"
+variables:
+  - name: Heart rate
+    description: heart rate
+    unit: beats/min
+  - name: Systolic blood pressure
+    description: systolic blood pressure
+    unit: mmHg
+equation: "Rate–pressure product = Heart rate × Systolic blood pressure"
+reference_number: "1.3"
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.mean_arterial_pressure
+type: Formula
+canonical_name: Mean Arterial Pressure Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 87
+  pdf_page: 87
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: "Mean arterial blood pressure = [(Systolic blood pressure − Diastolic blood pressure) ÷ 3] + Diastolic blood pressure"
+variables:
+  - name: Systolic blood pressure
+    description: systolic blood pressure
+    unit: mmHg
+  - name: Diastolic blood pressure
+    description: diastolic blood pressure
+    unit: mmHg
+equation: "Mean arterial blood pressure = [(Systolic blood pressure − Diastolic blood pressure) ÷ 3] + Diastolic blood pressure"
+reference_number: "1.4"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resting_heart_rate
+type: Threshold
+canonical_name: Resting Heart Rate Range
+semantic_type: Range
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 71
+  pdf_page: 71
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.bradycardia
+  - predicate: adjacent_to
+    target: threshold.tachycardia
+definition: "The resting heart rate normally ranges from 60 to 100 beats/min"
+value:
+  min: 60
+  max: 100
+  unit: beats/min
+condition: resting
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.bradycardia
+type: Threshold
+canonical_name: Bradycardia Threshold
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 71
+  pdf_page: 71
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.resting_heart_rate
+definition: "fewer than 60 beats/min is called bradycardia"
+value:
+  max: 60
+  unit: beats/min
+  operator: "<"
+condition: resting
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.tachycardia
+type: Threshold
+canonical_name: Tachycardia Threshold
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 71
+  pdf_page: 71
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.resting_heart_rate
+definition: "more than 100 beats/min is called tachycardia"
+value:
+  min: 100
+  unit: beats/min
+  operator: ">"
+condition: resting
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.normal_resting_blood_pressure
+type: Threshold
+canonical_name: Normal Resting Blood Pressure Range
+semantic_type: Range
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 87
+  pdf_page: 87
+provenance:

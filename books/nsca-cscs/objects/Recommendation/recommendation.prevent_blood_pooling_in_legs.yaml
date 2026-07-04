@@ -1,0 +1,39 @@
+id: recommendation.prevent_blood_pooling_in_legs
+type: Recommendation
+canonical_name: Prevent Blood Pooling in Legs
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: What Is the Skeletal Muscle Pump?
+  section_title: What Is the Skeletal Muscle Pump?
+  book_page: 75
+  pdf_page: 75
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.skeletal_muscle_pump
+recommendation_text: 'This mechanism is one of the reasons why it is important to
+  periodically contract leg muscles or to take walking breaks during prolonged sitting.
+  These activities act to prevent blood pooling in the legs and facilitate venous
+  blood return to the heart.
+
+  '
+rationale: 'The skeletal muscle pump works with the venous system, which contains
+  the one-way valves for blood return to the heart. The contracting muscle compresses
+  the veins, but since the blood can flow only in the direction of the valves, it
+  is returned to the heart.
+
+  '
+target_audience: []
+conditions: []
+actions:
+- periodically contract leg muscles
+- take walking breaks during prolonged sitting

@@ -1,0 +1,32 @@
+id: concept.negligence
+type: Concept
+canonical_name: Negligence
+semantic_type: Concept
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1790
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Failure to act as a reasonable and prudent person would under similar
+  circumstances. Four elements must exist for a strength and conditioning professional
+  to be found negligent: duty, breach of duty, proximate cause, and damages (30).
+
+  '
+attributes:
+- duty
+- breach of duty
+- proximate cause
+- damages
+purpose: []
+related_concepts: []

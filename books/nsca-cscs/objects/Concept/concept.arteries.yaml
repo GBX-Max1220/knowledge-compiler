@@ -1,0 +1,40 @@
+id: concept.arteries
+type: Concept
+canonical_name: Arteries
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.14
+  section_title: The arterial (right) and venous (left) components of the circulatory
+    system.
+  book_page: 74
+  pdf_page: 74
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.circulatory_system
+definition: 'The function of arteries is to rapidly transport blood pumped from the
+  heart. Because blood pumped from the heart is under relatively high pressure, arteries
+  have strong, muscular walls. Small branches of arteries called arterioles act as
+  control vessels through which blood enters the capillaries. Arterioles play a major
+  role in the regulation of blood flow to the capillaries. Arterioles have strong,
+  muscular walls that are capable of closing the arteriole completely or allowing
+  it to be dilated many times their size, thus vastly altering blood flow to the capillaries
+  in response to the needs of the tissues (41).
+
+  '
+attributes:
+- strong
+- muscular_walls
+related_concepts:
+- concept.arterioles
+- concept.capillaries
+- concept.heart

@@ -1,0 +1,34 @@
+id: recommendation.application_of_assistance_exercises_for_injury_prevention_and_rehabilitation
+type: Recommendation
+canonical_name: Application of Assistance Exercises for Injury Prevention and Rehabilitation
+semantic_type: Training Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training Program Design
+  section: '18.2'
+  section_title: 'Step 2: Exercise Selection'
+  book_page: 1203
+  pdf_page: 1203
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'A common application of assistance exercises is for injury prevention
+  and rehabilitation, because these exercises often isolate a specific muscle or muscle
+  group. The muscles that are predisposed to injury from the unique demands of a sport
+  skill (e.g., the shoulder external rotators for overhand pitching) or those that
+  require reconditioning after an injury (e.g., a quadriceps contusion) can be specifically
+  conditioned by an assistance exercise. However, it is important that the chosen
+  exercises improve a physical characteristic within the program (flexibility, strength,
+  etc.) and that the professional prescribes them appropriately with specific volumes
+  and intensities.
+
+  '
+context:
+  application: injury prevention and rehabilitation
+citations: []

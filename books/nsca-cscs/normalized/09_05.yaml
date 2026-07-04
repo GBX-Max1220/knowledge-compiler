@@ -1,0 +1,536 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.mental_health_support_considerations
+type: Recommendation
+canonical_name: Mental Health Support Considerations
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 511
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Social norms and the environment should be considered when helping an athlete seek mental health support. Athletes in team sports may wish to have privacy while getting support. Because social stigmas and mental health treatment can sometimes clash, the strength and conditioning professional should attempt to be aware of individual preferences and readiness for support. Not all mental health issues are covered in this chapter (e.g., substance abuse, eating disorders, bullying or hazing, body dysmorphia, gender identity, social phobias, and trauma) so further education is recommended for strength and conditioning professionals as they work with diverse populations of athletes.
+
+attributes: []
+
+purpose:
+  - help an athlete seek mental health support
+  - be aware of individual preferences and readiness for support
+  - further education for strength and conditioning professionals
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.mental_health_case_study_assessment_procedure
+type: Procedure
+canonical_name: Mental Health Case Study Assessment Procedure
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 511
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The strength and conditioning professional can use the list of signs and symptoms of anxiety, depression, and stress found in table 9.1 (page 182) to frame how each athlete is feeling (step 1), then determine how long and how critical those signs and symptoms are to the athlete (step 2), and decide a course of action to refer the athlete to the appropriate support professional (step 3).
+
+attributes: []
+
+steps:
+  - step_number: 1
+    description: "Use the list of signs and symptoms of anxiety, depression, and stress found in table 9.1 (page 182) to frame how each athlete is feeling."
+  - step_number: 2
+    description: "Determine how long and how critical those signs and symptoms are to the athlete."
+  - step_number: 3
+    description: "Decide a course of action to refer the athlete to the appropriate support professional."
+
+related_concepts:
+  - table_row.signs_and_symptoms_of_anxiety_depression_and_stress
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stress_and_injury_model
+type: Concept
+canonical_name: Stress and Injury Model
+semantic_type: Theoretical Framework
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 514
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: concept.personality_factors_stress_and_injury_model
+  - predicate: has_attribute
+    target: concept.history_of_stressors_stress_and_injury_model
+  - predicate: has_attribute
+    target: concept.coping_resources_stress_and_injury_model
+
+definition: >
+  The stress and injury model is a theoretical framework that attempts to explain the effects of pre-injury psychological factors on athletic injury (3). Revised by Williams and Andersen (68), the model suggests that three unique factors can influence an athlete's stress response, separately or together, contributing to an athlete's risk and frequency of injury (figure 9.4). It includes athletes' personality factors such as state or trait anxiety levels, mood states, and perceived locus of control of situations and events; history of stressors such as life events, academic stressors, daily hassles, and previous injury history; and coping resources such as social support, stress management techniques, mental skills, and nutritional and lifestyle habits.
+
+attributes:
+  - personality factors
+  - history of stressors
+  - coping resources
+
+purpose: []
+
+related_concepts:
+  - concept.personality_factors_stress_and_injury_model
+  - concept.history_of_stressors_stress_and_injury_model
+  - concept.coping_resources_stress_and_injury_model
+  - figure.figure_9.4_the_stress_and_injury_model
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.personality_factors_stress_and_injury_model
+type: Concept
+canonical_name: Personality Factors (Stress and Injury Model)
+semantic_type: Factor
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 514
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.stress_and_injury_model
+
+definition: >
+  personality factors such as state or trait anxiety levels, mood states, and perceived locus of control of situations and events
+
+attributes:
+  - state anxiety levels
+  - trait anxiety levels
+  - mood states
+  - perceived locus of control
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.history_of_stressors_stress_and_injury_model
+type: Concept
+canonical_name: History of Stressors (Stress and Injury Model)
+semantic_type: Factor
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 514
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.stress_and_injury_model
+
+definition: >
+  history of stressors such as life events, academic stressors, daily hassles, and previous injury history
+
+attributes:
+  - life events
+  - academic stressors
+  - daily hassles
+  - previous injury history
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.coping_resources_stress_and_injury_model
+type: Concept
+canonical_name: Coping Resources (Stress and Injury Model)
+semantic_type: Factor
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 514
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.stress_and_injury_model
+
+definition: >
+  coping resources such as social support, stress management techniques, mental skills, and nutritional and lifestyle habits
+
+attributes:
+  - social support
+  - stress management techniques
+  - mental skills
+  - nutritional habits
+  - lifestyle habits
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cognitive_appraisal_model
+type: Concept
+canonical_name: Cognitive Appraisal Model
+semantic_type: Theoretical Framework
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 516
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: concept.personal_factors_cognitive_appraisal_model
+  - predicate: has_attribute
+    target: concept.situational_factors_cognitive_appraisal_model
+  - predicate: has_attribute
+    target: concept.behavioral_responses_cognitive_appraisal_model
+  - predicate: has_attribute
+    target: concept.emotional_responses_cognitive_appraisal_model
+
+definition: >
+  The Cognitive Appraisal Model (66) proposes four key components that may influence how athletes judge their injury and how it affects their emotional and recovery response due to injury (figure 9.5).
+
+attributes:
+  - personal factors
+  - situational factors
+  - behavioral responses
+  - emotional responses
+
+purpose: []
+
+related_concepts:
+  - concept.personal_factors_cognitive_appraisal_model
+  - concept.situational_factors_cognitive_appraisal_model
+  - concept.behavioral_responses_cognitive_appraisal_model
+  - concept.emotional_responses_cognitive_appraisal_model
+  - figure.figure_9.5_the_cognitive_appraisal_model
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.personal_factors_cognitive_appraisal_model
+type: Concept
+canonical_name: Personal Factors (Cognitive Appraisal Model)
+semantic_type: Factor
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 516
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.cognitive_appraisal_model
+
+definition: >
+  Personal Factors: History of injury. Is this injury acute or chronic? Has the athlete experienced this injury before? Athletic identity. Does the athlete highly identify as an athlete and look to others for acknowledgment of that role? According to a 2022 study, almost 40% of student-athletes have a high athletic identity, strongly serving as a foundation of their self-worth (2). Personality. Is the athlete naturally confident and outgoing or introverted? Do they chronically worry about what they cannot accomplish or perform? Pain tolerance. How well does the athlete tolerate discomfort during training and rehabilitation? Coping skills. How has the athlete managed stressful situations in the past? Do they engage in positive (e.g., regular physical activity or relaxation strategies) or negative (e.g., risky activities or avoidant behaviors) coping strategies? Age and sex. Does the athlete have specific concerns due to their age (e.g., transportation) or sex (biological differences such as energy availability or hormonal differences)?
+
+attributes:
+  - history of injury
+  - athletic identity
+  - personality
+  - pain tolerance
+  - coping skills
+  - age
+  - sex
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.situational_factors_cognitive_appraisal_model
+type: Concept
+canonical_name: Situational Factors (Cognitive Appraisal Model)
+semantic_type: Factor
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 518
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.cognitive_appraisal_model
+
+definition: >
+  Situational Factors: Sport type. Is it individual or team based? Is there a high risk of reinjury based on the sport? Level of competition. Is this a high school athlete or a professional athlete? Social support. Is the athlete surrounded by friends, family, and teammates for emotional and social support? Social support helps one learn that they are valued and supported regardless of athletic performance or the identity as a competitive athlete (63). Sports medicine team. Does the athlete have proper access to a professional rehabilitative team? Rehabilitation environment. Similarly, where is the athlete rehabilitating their injury? Does it require a lengthy commute? Is it adequate for proper sport-specific movements? Coach influence. Does the sport coach actively support the athlete during the rehab process? Is there pressure to return as soon as possible with the athlete fearing losing his or her position? Coaches should be attentive to the possibility that athletes could be struggling with challenges related to conflicts with coaches who may not understand the extent of their injuries; suggest that they are weak; and may explicitly minimize, invalidate, or dismiss the athlete's struggles (60).
+
+attributes:
+  - sport type
+  - level of competition
+  - social support
+  - sports medicine team
+  - rehabilitation environment
+  - coach influence
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.behavioral_responses_cognitive_appraisal_model
+type: Concept
+canonical_name: Behavioral Responses (Cognitive Appraisal Model)
+semantic_type: Response
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 519
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.cognitive_appraisal_model
+
+definition: >
+  Behavioral Responses: Adherence to rehabilitation. Does the athlete demonstrate consistency and commitment to the active process? Use of psychological skills. Are techniques such as goal setting, imagery, and visualization integrated to improve their recovery timeline? Effort and intensity. How does the athlete's level of motivation change over time? Malingering. Does the athlete exacerbate pain or readiness levels to avoid future responsibilities or changes in their timeline? Risk-taking. Does the athlete engage in activities that have not yet been cleared for participation? Do they avoid certain activities because they feel they are not yet ready to perform?
+
+attributes:
+  - adherence to rehabilitation
+  - use of psychological skills
+  - effort and intensity
+  - malingering
+  - risk-taking
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.emotional_responses_cognitive_appraisal_model
+type: Concept
+canonical_name: Emotional Responses (Cognitive Appraisal Model)
+semantic_type: Response
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 519
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.cognitive_appraisal_model
+
+definition: >
+  Emotional Responses: Injury-related fear. How does the athlete embrace progressive overload into more sport-specific movements? Tension, anger, depression. Has the injury created conflict within the athlete's normal activities of daily living and sports participation? Frustration and boredom. Is the rehabilitation process mentally engaging and motivating? Grief. Was there a loss in a specific competition or season? Did the athlete lose his or her position or formal role with the team due to the injury? Positive outlook. Does the athlete view this setback as an opportunity to rebuild and improve?
+
+attributes:
+  - injury-related fear
+  - tension
+  - anger
+  - depression
+  - frustration
+  - boredom
+  - grief
+  - positive outlook
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.academic_stress_and_injury_association_in_division_i_football_players
+type: Evidence
+canonical_name: Academic Stress and Injury Association in Division I Football Players
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 9
+  chapter_title: "Psychology of Athletic Preparation and Performance"
+  section: "9.5"
+  section_title: "Attention and Focus"
+  book_page: 520
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For example, in a study of over 100 Division I American football players, academic stress (during regular examination periods) was associated with a significant increase in physical injuries (36).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.role_of_strength_and_conditioning_professionals_in_athlete_support
+type: Recommendation
+canonical_name: Role of Strength and Conditioning Professionals in Athlete Support
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+ 

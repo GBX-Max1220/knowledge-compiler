@@ -1,0 +1,31 @@
+id: concept.metabolic_equivalent
+type: Concept
+canonical_name: Metabolic Equivalent
+semantic_type: Unit
+aliases:
+- MET
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  book_page: 1529
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'One metabolic equivalent (MET) is equal to 3.5 ml · kg−1 · min−1 of oxygen
+  consumption and is considered the amount of oxygen required by the body at rest
+  (3).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

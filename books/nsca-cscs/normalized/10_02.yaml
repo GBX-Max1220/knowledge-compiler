@@ -1,0 +1,551 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.myplate
+type: Concept
+canonical_name: MyPlate
+semantic_type: Food Guidance System
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  MyPlate, a food guidance system created by the U.S. Department of Agriculture in 2011 and based on the Dietary Guidelines for Americans to help consumers make better food choices (100).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.performance_enhancing_plate
+type: Concept
+canonical_name: Performance Enhancing Plate
+semantic_type: Food Guidance System
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Performance Enhancing Plate from the Collegiate and Professional Sports Dietitians Association (CPSDA, www.sportsrd.org). This plate encourages athletes on hard training days to make half their plate whole grains to fuel muscles, followed by 1/4 of the plate from fruits and vegetables and the other 1/4 from proteins.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.added_sugars
+type: Concept
+canonical_name: Added Sugars
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Added sugars are sugars and syrups that are added to foods or beverages when they are made.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.saturated_fat
+type: Concept
+canonical_name: Saturated Fat
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Saturated fat is fat that is often found solid at room temperature. Examples of these include milk fat, butter, or the fat inside or around meat.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.added_sugars_general_population
+type: Recommendation
+canonical_name: Added Sugars Recommendation for General Population
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  To build healthy eating habits and stay within calorie needs, people over age 2 should eat foods and drink beverages with little or no added sugars; athletes who need hydration beverages with added sugars are the exception to this recommendation (3).
+target_population: "people over age 2"
+rationale: "to build healthy eating habits and stay within calorie needs"
+exceptions: "athletes who need hydration beverages with added sugars"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.saturated_fat_limitation
+type: Recommendation
+canonical_name: Saturated Fat Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Ideally, saturated fat should be limited in the diet and the focus should be on unsaturated fats such as liquid oils used in cooking.
+target_population: ""
+rationale: ""
+exceptions: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.sodium_intake_general_nonactive_population
+type: Threshold
+canonical_name: Sodium Intake Threshold for General Nonactive Population
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+threshold_type: "upper_limit"
+value: "2,300"
+unit: "milligrams per day"
+context: "general, nonactive population"
+qualifier: "no more than"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.sodium_restriction_endurance_athletes
+type: Warning
+canonical_name: Sodium Restriction Warning for Endurance Athletes
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+warning_text: >
+  health recommendations for lower salt intake may not be appropriate for endurance athletes and those who sweat a lot.
+severity: ""
+affected_population: "endurance athletes and those who sweat a lot"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.alcohol_consumption_moderation
+type: Recommendation
+canonical_name: Alcohol Consumption Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Alcohol has calories but few nutrients; adults of legal drinking age who choose to drink should do so in moderation.
+target_population: "adults of legal drinking age who choose to drink"
+rationale: "Alcohol has calories but few nutrients"
+exceptions: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.myplate_starting_point_athletes
+type: Recommendation
+canonical_name: Dietary Evaluation Starting Point Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  MyPlate should be considered a starting point that athletes can use to evaluate their diet.
+target_population: "athletes"
+rationale: ""
+exceptions: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.food_group_exclusion_replacement
+type: Recommendation
+canonical_name: Food Group Exclusion Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  it is highly recommended that individuals who exclude food groups work with their sports dietitian to find suitable replacements or replacement combinations to ensure that they meet their nutrient requirements for health and performance.
+target_population: "individuals who exclude food groups"
+rationale: "to ensure that they meet their nutrient requirements for health and performance"
+exceptions: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dietary_reference_intakes
+type: Concept
+canonical_name: Dietary Reference Intakes
+semantic_type: Nutrient Intake Standards
+aliases: ["DRIs"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 545
+  pdf_page: 545
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.recommended_dietary_allowance
+  - predicate: has_attribute
+    target: concept.adequate_intake
+  - predicate: has_attribute
+    target: concept.tolerable_upper_intake_level
+  - predicate: has_attribute
+    target: concept.estimated_average_requirement
+definition: >
+  The Dietary Reference Intakes (DRIs), developed by the U.S. Department of Agriculture (USDA) and of Health and Human Services (HHS), are a complete set of nutrient intakes for use when evaluating and planning diets for healthy individuals.
+attributes: []
+purpose:
+  - evaluating diets for healthy individuals
+  - planning diets for healthy individuals
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.recommended_dietary_allowance
+type: Concept
+canonical_name: Recommended Dietary Allowance
+semantic_type: Nutrient Intake Standard
+aliases: ["RDA"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 545
+  pdf_page: 545
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.dietary_reference_intakes
+definition: >
+  Recommended Dietary Allowance (RDA)— The average daily nutrient requirement adequate for meeting the needs of nearly all (97%-98%) healthy people within each life stage and sex; often used to plan nutritionally adequate diets for people.
+attributes: []
+purpose:
+  - plan nutritionally adequate diets for people
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adequate_intake
+type: Concept
+canonical_name: Adequate Intake
+semantic_type: Nutrient Intake Standard
+aliases: ["AI"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 545
+  pdf_page: 545
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.dietary_reference_intakes
+definition: >
+  Adequate Intake (AI)— The average daily nutrient intake level recommended when a RDA cannot be established.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.tolerable_upper_intake_level
+type: Concept
+canonical_name: Tolerable Upper Intake Level
+semantic_type: Nutrient Intake Standard
+aliases: ["UL"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 545
+  pdf_page: 545
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.dietary_reference_intakes
+definition: >
+  Tolerable Upper Intake Level (UL)— The maximum average daily nutrient level not associated with any adverse health effects. Intakes above the UL increase potential risk of adverse effects. (The UL represents intake from all sources including food, water, and supplements.)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.estimated_average_requirement
+type: Concept
+canonical_name: Estimated Average Requirement
+semantic_type: Nutrient Intake Standard
+aliases: ["EAR"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 545
+  pdf_page: 545
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.dietary_reference_intakes
+definition: >
+  Estimated Average Requirement (EAR)— The average daily nutrient intake level considered sufficient to meet the needs of half of the healthy population within each life stage and sex.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.macronutrient
+type: Concept
+canonical_name: Macronutrient
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 548
+  pdf_page: 548
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A macronutrient is a nutrient that is required in significant amounts in the diet.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.protein
+type: Concept
+canonical_name: Protein
+semantic_type: Macronutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 548
+  pdf_page: 548
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Protein is the primary structural and functional component of every cell in the human body (164).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.amino_acids
+type: Concept
+canonical_name: Amino Acids
+semantic_type: Molecule
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.2"
+  section_title: "Standard Nutrition Guidelines"
+  book_page: 548
+  pdf_page: 548
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Amino means "nitrogen containing," and amino acids are the molecules that, when joined in groups of a few dozen to hundreds, form the thousands of proteins occurring in nature.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.essential_amino_acids
+type: Concept
+canonical_name: Essential Amino Acids
+semantic_type: Amino Acid Category
+aliases: []
+source:

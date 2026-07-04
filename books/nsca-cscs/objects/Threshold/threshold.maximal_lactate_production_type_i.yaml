@@ -1,0 +1,27 @@
+id: threshold.maximal_lactate_production_type_i
+type: Threshold
+canonical_name: Maximal Lactate Production Rate for Type I Muscle Fibers
+semantic_type: Physiological Rate
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Glycolysis and the Formation of Lactate
+  section_title: Glycolysis and the Formation of Lactate
+  book_page: 185
+  pdf_page: 185
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: '0.25'
+unit: mmol · g−1 · s−1
+context: type I muscle fibers

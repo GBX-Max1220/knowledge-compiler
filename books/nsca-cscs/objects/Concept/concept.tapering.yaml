@@ -1,0 +1,28 @@
+id: concept.tapering
+type: Concept
+canonical_name: Tapering
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Special Issues Related to Aerobic Endurance Training
+  book_page: 1552
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Tapering involves the systematic reduction of training duration and intensity,
+  combined with an increased emphasis on technique work and nutritional intervention.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

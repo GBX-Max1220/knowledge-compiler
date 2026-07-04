@@ -1,0 +1,27 @@
+id: concept.saturated_fat
+type: Concept
+canonical_name: Saturated Fat
+semantic_type: Nutrient
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Saturated fat is fat that is often found solid at room temperature. Examples
+  of these include milk fat, butter, or the fat inside or around meat.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

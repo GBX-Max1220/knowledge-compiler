@@ -1,30 +1,29 @@
 id: concept.myosin_atpase
 type: Concept
 canonical_name: Myosin ATPase
-semantic_type: Molecule
+semantic_type: Enzyme
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
-  chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.02'
-  section_title: Neuromuscular System
-  book_page: 58
-  pdf_page: 58
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Essential Terminology
+  section_title: Essential Terminology
+  book_page: 176
+  pdf_page: 176
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
-relationships: []
-definition: 'An enzyme used for histochemical staining to classify myofibers as type
-  I, type IIa, and type IIx.
+relationships:
+- predicate: is_a
+  target: concept.adenosine_triphosphatase
+definition: 'Specifically, myosin ATPase is the enzyme that catalyzes ATP hydrolysis
+  for crossbridge recycling.
 
   '
 attributes: []
 purpose: []
-related_concepts:
-- concept.type_i_muscle_fiber
-- concept.type_iia_muscle_fiber
-- concept.type_iix_muscle_fiber
+related_concepts: []

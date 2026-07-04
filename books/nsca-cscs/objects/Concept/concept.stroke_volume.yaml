@@ -1,0 +1,35 @@
+id: concept.stroke_volume
+type: Concept
+canonical_name: Stroke Volume
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Stroke Volume
+  section_title: Cardiovascular Responses — Stroke Volume
+  book_page: 83
+  pdf_page: 83
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.cardiac_output
+definition: 'Two physiological mechanisms are responsible for the regulation of stroke
+  volume. The first is a result of the end-diastolic volume, the volume of blood available
+  to be pumped by the left ventricle at the end of the filling phase, or diastole.
+  The second is due to the action of catecholamines, including epinephrine and norepinephrine,
+  which are hormones of the sympathetic nervous system that produce a more forceful
+  ventricular contraction and greater systolic emptying of the heart.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.end_diastolic_volume
+- concept.catecholamines

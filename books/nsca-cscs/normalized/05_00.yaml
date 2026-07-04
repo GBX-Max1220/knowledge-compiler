@@ -1,0 +1,554 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.anaerobic_training
+type: Concept
+canonical_name: Anaerobic Training
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 281
+  pdf_page: 281
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Characterized by high-intensity, intermittent bouts of exercise, anaerobic training requires adenosine triphosphate (ATP) to be regenerated at a faster rate than can be produced by oxidative metabolism alone. Consequently, the energy requirement relies on a greater proportion of energy coming from non-oxidative energy systems, which include the phosphagen or creatine phosphate system and a smaller proportion coming from glycolysis. Thus, the term anaerobic training is used in this text to describe exercise training that is performed at intensities that rely primarily on non-oxidative metabolism to meet energy demands.
+attributes:
+  - high-intensity
+  - intermittent
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.motor_unit
+type: Concept
+canonical_name: Motor Unit
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 289
+  pdf_page: 289
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The functional unit of the neuromuscular system is the motor unit. Consisting of the alpha motor neuron and the muscle fibers that it activates, a motor unit may innervate <10 muscle fibers for small, intricate muscles or >100 fibers for large, powerful trunk and limb muscles.
+attributes:
+  - functional_unit
+  - neuromuscular_system
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hennemans_size_principle
+type: Concept
+canonical_name: Henneman's Size Principle
+semantic_type: Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 290
+  pdf_page: 290
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The recruitment or decruitment of motor units in an orderly manner is governed by Henneman's size principle (figure 5.2), which represents the relationship between motor unit twitch force and recruitment threshold (140). According to this principle, motor units are recruited in an ascending order according to their soma size. Thus, motor units with small motor neurons have lower recruitment thresholds than do motor units with large motor neurons.
+attributes:
+  - orderly_recruitment
+  - ascending_order
+purpose: []
+related_concepts:
+  - concept.motor_unit
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.neuromuscular_junction
+type: Concept
+canonical_name: Neuromuscular Junction
+semantic_type: AnatomicalStructure
+aliases:
+  - NMJ
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 293
+  pdf_page: 293
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The neuromuscular junction (NMJ) is the interface between the nerve and the skeletal muscle fibers, and it represents another potential site for neural adaptation following anaerobic training (42, 43).
+attributes:
+  - interface
+  - nerve
+  - skeletal_muscle_fiber
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.myotatic_reflex
+type: Concept
+canonical_name: Myotatic Reflex
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 294
+  pdf_page: 294
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This myotatic reflex also harnesses the involuntary elastic properties of the muscle and connective tissue (e.g., the series elastic component) and acts to positively increase force production.
+attributes:
+  - involuntary
+  - elastic_properties
+purpose:
+  - increase force production
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.electromyography
+type: Concept
+canonical_name: Electromyography
+semantic_type: ResearchTool
+aliases:
+  - EMG
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 294
+  pdf_page: 294
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Electromyography (EMG) is a common research tool used to examine the magnitude of neural activation within skeletal muscle.
+attributes:
+  - research_tool
+purpose:
+  - examine magnitude of neural activation within skeletal muscle
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cross_education
+type: Concept
+canonical_name: Cross-Education
+semantic_type: Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 296
+  pdf_page: 296
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Exercising muscle undergoing unilateral resistance training produces increased strength and neural activity in the contralateral resting muscle, a phenomenon known as cross-education (79).
+attributes:
+  - unilateral_resistance_training
+  - contralateral_resting_muscle
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bilateral_deficit
+type: Concept
+canonical_name: Bilateral Deficit
+semantic_type: Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 296
+  pdf_page: 296
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In untrained individuals, a bilateral deficit is evident. The force produced when both limbs contract together is lower than the sum of the forces they produce when contracting unilaterally.
+attributes:
+  - untrained_individuals
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bilateral_facilitation
+type: Concept
+canonical_name: Bilateral Facilitation
+semantic_type: Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 297
+  pdf_page: 297
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In fact, trained or stronger individuals often show a bilateral facilitation effect whereby an increase in voluntary activation of the agonist muscle groups is observed during bilateral contraction (64a).
+attributes:
+  - trained_individuals
+  - stronger_individuals
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_hypertrophy
+type: Concept
+canonical_name: Muscle Hypertrophy
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 299
+  pdf_page: 299
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Muscle hypertrophy is the term given to the enlargement of muscle fiber cross-sectional area (CSA) following training.
+attributes:
+  - enlargement
+  - muscle_fiber_cross_sectional_area
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hyperplasia
+type: Concept
+canonical_name: Hyperplasia
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 302
+  pdf_page: 302
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hyperplasia is the term given to an increase in the number of muscle fibers via longitudinal fiber splitting in response to high-intensity resistance training.
+attributes:
+  - increase_in_number_of_muscle_fibers
+  - longitudinal_fiber_splitting
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pennation_angle
+type: Concept
+canonical_name: Pennation Angle
+semantic_type: AnatomicalProperty
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 306
+  pdf_page: 306
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Pennation angle affects the force production capabilities as well as the range of motion of a muscle.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.minimal_essential_strain
+type: Concept
+canonical_name: Minimal Essential Strain
+semantic_type: Threshold
+aliases:
+  - MES
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 311
+  pdf_page: 311
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The term minimal essential strain (MES) refers to the threshold stimulus that initiates new bone formation.
+attributes:
+  - threshold_stimulus
+purpose:
+  - initiate new bone formation
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bone_mineral_density
+type: Concept
+canonical_name: Bone Mineral Density
+semantic_type: PhysiologicalProperty
+aliases:
+  - BMD
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 312
+  pdf_page: 312
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Any increase in muscle strength or mass may therefore result in a corresponding increase in bone mineral density (BMD), or the quantity of mineral deposited in a given area of the bone (93).
+attributes:
+  - quantity_of_mineral_deposited
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteoporosis
+type: Concept
+canonical_name: Osteoporosis
+semantic_type: Disease
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 313
+  pdf_page: 313
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The concept of specificity of loading becomes particularly important when a strength and conditioning professional prescribes exercises to increase bone mass in regions of the skeleton most commonly affected by osteoporosis —a disease in which BMD and bone mass become reduced to critically low levels.
+attributes:
+  - reduced_bmd
+  - reduced_bone_mass
+purpose: []
+related_concepts:
+  - concept.bone_mineral_density
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteogenic_stimuli
+type: Concept
+canonical_name: Osteogenic Stimuli
+semantic_type: Factor
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 313
+  pdf_page: 313
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Exercise selection is critical when one is trying to elicit maximal osteogenic stimuli (factors that stimulate new bone formation).
+attributes: []
+purpose:
+  - stimulate new bone formation
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.progressive_overload
+type: Concept
+canonical_name: Progressive Overload
+semantic_type: Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Because bone responds favorably to mechanical forces, the principle of progressive overload —progressively placing greater than normal demands on the exercising musculature—applies when one is training to increase bone mass (66, 170).
+attributes:
+  - progressively_placing_greater_than_normal_demands
+purpose:
+  - increase bone mass
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stress_fractures
+type: Concept
+canonical_name: Stress Fractures
+semantic_type: Injury
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The adaptive response of bone ensures that forces do not exceed a critical level that increases the risk of stress fractures (microfractures in bone due to structural fatigue).
+attributes:
+  - microfractures
+  - structural_fatigue
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.peak_bone_mass
+type: Concept
+canonical_name: Peak Bone Mass
+semantic_type: PhysiologicalProperty
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5

@@ -1,0 +1,28 @@
+id: concept.effective_use_of_substrate
+type: Concept
+canonical_name: Effective Use of Substrate
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Aerobic Endurance Training Adaptations
+  section: '6.2'
+  section_title: Aerobic Endurance Training Adaptations
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Carbohydrates are the preferred source of fuel for high-intensity intermittent
+  exercise in many team sports. Aerobic exercise training results in a greater use
+  of fat as a substrate for exercise with a relative sparing of carbohydrate.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

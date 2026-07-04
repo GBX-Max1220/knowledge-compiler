@@ -1,0 +1,24 @@
+id: recommendation.bracketing_technique_for_acceleration_training
+type: Recommendation
+canonical_name: Bracketing Technique for Acceleration Training
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: ''
+  section: '2.4'
+  section_title: Sources of Resistance to Muscle Contraction
+  book_page: 155
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The bracketing technique, in which the athlete performs the sport movement
+  with less than normal and greater than normal resistance, is another form of acceleration
+  training.
+
+  '

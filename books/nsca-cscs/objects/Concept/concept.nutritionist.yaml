@@ -1,0 +1,34 @@
+id: concept.nutritionist
+type: Concept
+canonical_name: Nutritionist
+semantic_type: Healthcare Role
+aliases:
+- Registered Dietitian
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1634
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.allied_health_team
+definition: 'Because proper nutrition is crucial in recovery from injury, a nutritionist
+  or a registered dietitian with a background in sport nutrition may provide guidelines
+  regarding proper food choices to optimize tissue recovery. Ideally, the nutritionist
+  has been formally trained in food and nutrition sciences and may be a registered
+  dietitian (RD) recognized by the Academy of Nutrition and Dietetics Commission on
+  Dietetic Registration (15).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

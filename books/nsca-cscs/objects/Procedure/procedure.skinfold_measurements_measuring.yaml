@@ -1,0 +1,57 @@
+id: procedure.skinfold_measurements_measuring
+type: Procedure
+canonical_name: Skinfold Measurements — Measuring the Selected Site and Calculating
+  the Body Fat Percentage Procedure
+semantic_type: Assessment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.3'
+  section_title: Statistical Evaluation of Test Data
+  book_page: 814
+  pdf_page: 814
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'There are specific equations for estimating body density (Db) (then,
+  in turn, percent body fat [%BF]) for different populations. First, select the equation
+  appropriate for the athlete from table 14.35 near the end of the chapter. Refer
+  to the chosen equation and related instructions and mark the skin at the appropriate
+  anatomical sites (69, 120): Chest —a diagonal fold one-half the distance between
+  the anterior axillary line and the nipple for men (figure 14.30a). Thigh —a vertical
+  fold on the anterior aspect of the thigh, midway between the hip and knee joints
+  (figure 14.30b). Abdomen —a vertical fold 1 inch (2.5 cm) to the right (relative
+  to the athlete) of the umbilicus (figure 14.30c). Triceps —a vertical fold on the
+  posterior midline of the upper arm (over the triceps muscle), halfway between the
+  acromion and the olecranon processes (the arm should be in anatomical position with
+  the elbow extended and relaxed [figure 14.30d]). Suprailium—a diagonal fold above
+  the crest of the ilium at the spot where an imaginary line would come down from
+  the anterior axillary line (figure 14.30e) (some prefer the measure to be taken
+  more laterally, at the midaxillary line). Midaxilla—a vertical fold on the midaxillary
+  line at the level of the xiphoid process of the sternum (figure 14.30f). Subscapula
+  —a fold taken on a diagonal line that extends from the vertebral border to a point
+  0.5 inch to 1 inch (1 to 2 cm) from the inferior angle of the scapula (figure 14.30g).
+  Calf—a vertical fold along the medial side of the calf, at the level of maximum
+  calf circumference (figure 14.30h). Using the appropriate population-specific equation
+  from table 14.35, calculate the estimated body density from the skinfolds (61).
+  Enter the body density into the appropriate population-specific equation from table
+  14.36 near the end of the chapter to calculate the percent body fat from the body
+  density (69). Note that there are no universally accepted norms for body composition.
+  When strength and conditioning professionals assess an athlete''s body composition,
+  they must account for a standard error of the estimate (SEE) and report a range
+  of percentages that the athlete falls into. Note that the minimum SEE for population-specific
+  skinfold equations is ±3% to ±5%. Therefore, if a 25-year-old male athlete''s body
+  fat is measured at 24%, there is a minimum of a 6% range (21%-27%).
+
+  '
+attributes: []
+purpose:
+- estimate body composition
+related_concepts:
+- concept.body_composition

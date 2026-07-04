@@ -1,0 +1,31 @@
+id: concept.hmb_reduces_urinary_3_methyl_histidine_in_untrained_subjects
+type: Concept
+canonical_name: HMB Reduces Urinary 3-Methyl-Histidine in Untrained Subjects
+semantic_type: Research Finding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Dietary Supplements
+  section: '12.3'
+  section_title: Dietary Supplements
+  book_page: 704
+  pdf_page: 704
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'After the first week of the resistance training protocol, urinary 3-methyl-histidine
+  was increased by 94% in the control group and by 85% and 50% in those individuals
+  ingesting 1.5 and 3 grams of HMB per day, respectively. During the second week of
+  the study, urinary 3-methyl-histidine levels were still elevated by 27% in the control
+  group but were 4% and 15% below basal levels for the 1.5 and 3 grams of HMB per
+  day groups.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

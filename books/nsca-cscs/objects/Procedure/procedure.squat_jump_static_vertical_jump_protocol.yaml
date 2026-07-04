@@ -1,0 +1,55 @@
+id: procedure.squat_jump_static_vertical_jump_protocol
+type: Procedure
+canonical_name: Squat Jump (Static Vertical Jump) Protocol
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.2'
+  section_title: Monitoring Protocols
+  book_page: 788
+  pdf_page: 788
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Procedure for conducting a squat jump (static vertical jump).
+
+  '
+attributes: []
+purpose:
+- measure vertical jump height without countermovement
+- calculate eccentric utilization ratio
+related_concepts:
+- concept.squat_jump
+- concept.vertical_jump
+- concept.eccentric_utilization_ratio
+steps:
+- order: 1
+  description: 'The test procedures are essentially the same as for the vertical jump,
+    except that the countermovement is removed. Begin with the athlete standing on
+    a calibrated, zeroed force platform. (Note: The squat jump and vertical jump with
+    countermovement can also be tested using a switch or contact mat system (figure
+    14.9) [158], which estimates jump height [51] but cannot measure force outputs.)'
+- order: 2
+  description: The athlete descends into a squat position (knee angle approximately
+    110 degrees) and holds this position for 2 to 3 seconds before jumping vertically,
+    keeping hands fixed on hips.
+- order: 3
+  description: The takeoff and landing positions, as well as jumping strategy, should
+    be the same for each trial. Specifically, the tester should ensure there is no
+    countermovement (dip) at the start of the jump, both through visual observation
+    and, where a force plate is used, by assessing the force–time curve.
+- order: 4
+  description: The best of three trials is recorded. The ratio of the vertical jump
+    height with countermovement to squat jump height can be calculated as the eccentric
+    utilization ratio (99).
+- order: 5
+  description: Figure 14.10 shows an example of how the vertical ground reaction forces
+    change across the three phases of a static vertical jump when measured with a
+    force plate testing system.

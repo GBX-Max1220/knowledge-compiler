@@ -1,0 +1,30 @@
+id: recommendation.breathing_pattern_for_alternative_methods
+type: Recommendation
+canonical_name: Breathing Pattern for Alternative Methods
+semantic_type: Breathing Technique
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1090
+  pdf_page: 1090
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'As with more traditional exercises, the breathing pattern often
+  recommended with these alternative methods is for the athlete to exhale through
+  the sticking point (concentric portion) and to inhale during the less stressful
+  portion (eccentric portion) of the movement.
+
+  '
+rationale: []
+conditions: []

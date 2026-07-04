@@ -1,0 +1,35 @@
+id: recommendation.improving_female_health_outcomes
+type: Recommendation
+canonical_name: Recommendations for Improving Female Health Outcomes
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.2'
+  section_title: Training Responses and Adaptations
+  book_page: 450
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'To help females improve their health outcomes, strength and conditioning
+  professionals should do the following: Recommend working with appropriate medical
+  staff to provide resources and services as needed when they have identified signs
+  and symptoms of concerns that increase risk of health issues Encourage females to
+  seek services from a mental health provider when initial symptoms of mental health
+  disorders arise Educate females on the appropriate amount and quality of sleep needed
+  and the important role it plays in the body’s recovery and for decreasing risk of
+  injury Provide information to females about the variety of impairments that can
+  occur in the pelvic floor and encourage females to seek a specialized physical therapist
+  in PFD when signs and symptoms occur
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

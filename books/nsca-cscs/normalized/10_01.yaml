@@ -1,0 +1,713 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.sports_dietitian
+type: Concept
+canonical_name: Sports Dietitian
+semantic_type: Role
+aliases:
+  - Registered Dietitian Nutritionist
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 538
+  pdf_page: 538
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A registered dietitian (also referred to as a registered dietitian nutritionist) with specific education and experience in sports nutrition.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.board_certified_specialist_in_sports_dietetics_cssd
+type: Concept
+canonical_name: Board Certified Specialist in Sports Dietetics (CSSD)
+semantic_type: Role
+aliases:
+  - CSSD
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 538
+  pdf_page: 538
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  According to the Commission on Dietetic Registration, the credentialing agency for the Academy of Nutrition and Dietetics, a CSSD "provides individual and group/team counseling and education to enhance the performance of competitive and recreational athletes."
+
+attributes: []
+
+purpose:
+  - provide individual and group/team counseling and education to enhance the performance of competitive and recreational athletes
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sports_nutrition_coach
+type: Concept
+canonical_name: Sports Nutrition Coach
+semantic_type: Role
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 539
+  pdf_page: 539
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A professional who is not a registered dietitian but has basic training in nutrition and exercise science.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.nutrition_counseling
+type: Concept
+canonical_name: Nutrition Counseling
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 541
+  pdf_page: 541
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The provision of the individual guidance on appropriate food and nutrient intake for those with special needs, taking into consideration health, cultural, socioeconomic, functional, and psychological facts from the nutrition assessment. Nutrition counseling may include advice to increase or decrease nutrients in the diet; to change the timing and size of and composition of meals; to modify food textures, and in extreme instances, to change the route of administration.
+
+attributes: []
+
+purpose:
+  - provide individual guidance on appropriate food and nutrient intake for those with special needs
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.macronutrient
+type: Concept
+canonical_name: Macronutrient
+semantic_type: Nutrient
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 548
+  pdf_page: 548
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A nutrient that is required in significant amounts in the diet.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.protein
+type: Concept
+canonical_name: Protein
+semantic_type: Nutrient
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 548
+  pdf_page: 548
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.macronutrient
+
+definition: >
+  The primary structural and functional component of every cell in the human body (164).
+
+attributes: []
+
+purpose:
+  - serve as the primary structural and functional component of every cell in the human body
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.amino_acid
+type: Concept
+canonical_name: Amino Acid
+semantic_type: Molecule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 548
+  pdf_page: 548
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.protein
+
+definition: >
+  Amino means "nitrogen containing," and amino acids are the molecules that, when joined in groups of a few dozen to hundreds, form the thousands of proteins occurring in nature.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.essential_amino_acid
+type: Concept
+canonical_name: Essential Amino Acid
+semantic_type: Molecule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 548
+  pdf_page: 548
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.amino_acid
+
+definition: >
+  Nine amino acids are "essential" because the body cannot manufacture them—they must be obtained through the diet.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.nonessential_amino_acid
+type: Concept
+canonical_name: Nonessential Amino Acid
+semantic_type: Molecule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 548
+  pdf_page: 548
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.amino_acid
+
+definition: >
+  Four amino acids can be synthesized by the human body and are therefore considered "nonessential" because they do not need to be consumed in the diet.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.conditionally_essential_amino_acid
+type: Concept
+canonical_name: Conditionally Essential Amino Acid
+semantic_type: Molecule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 548
+  pdf_page: 548
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.amino_acid
+
+definition: >
+  Finally, seven amino acids are considered conditionally essential. These amino acids are typically not essential but become essential, and therefore must be obtained through the diet, during times of illness and stress.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dipeptide
+type: Concept
+canonical_name: Dipeptide
+semantic_type: Molecule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 549
+  pdf_page: 549
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Two amino acids together are referred to as a dipeptide.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.polypeptide
+type: Concept
+canonical_name: Polypeptide
+semantic_type: Molecule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 549
+  pdf_page: 549
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Several amino acids together are referred to as a polypeptide.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.protein_digestibility_corrected_amino_acid_score
+type: Concept
+canonical_name: Protein Digestibility Corrected Amino Acid Score (PDCAAS)
+semantic_type: Metric
+aliases:
+  - PDCAAS
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 550
+  pdf_page: 550
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Measures of protein quality, such as the protein digestibility corrected amino acid score (PDCAAS), take protein digestibility (or bioavailability) into account as well as a protein's ability to provide the essential amino acids necessary for the synthesis of body proteins and other metabolites.
+
+attributes: []
+
+purpose:
+  - measure protein quality
+  - take protein digestibility (or bioavailability) into account
+  - account for a protein's ability to provide the essential amino acids necessary for the synthesis of body proteins and other metabolites
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maillard_reaction
+type: Concept
+canonical_name: Maillard Reaction
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 550
+  pdf_page: 550
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  During cooking, some foods will brown; this browning, called a Maillard reaction, leads to compounds that can decrease the bioavailability of certain amino acids.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.acceptable_macronutrient_distribution_range
+type: Concept
+canonical_name: Acceptable Macronutrient Distribution Range (AMDR)
+semantic_type: Guideline
+aliases:
+  - AMDR
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 551
+  pdf_page: 551
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The Institute of Medicine (IOM) established an Acceptable Macronutrient Distribution Range (AMDR) for protein, which covers a wide range of protein intake.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.carbohydrate
+type: Concept
+canonical_name: Carbohydrate
+semantic_type: Nutrient
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 555
+  pdf_page: 555
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.macronutrient
+
+definition: >
+  Carbohydrate primarily serves as a source of energy.
+
+attributes: []
+
+purpose:
+  - serve as a source of energy
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.monosaccharide
+type: Concept
+canonical_name: Monosaccharide
+semantic_type: Molecule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 555
+  pdf_page: 555
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.carbohydrate
+
+definition: >
+  Monosaccharides (glucose, fructose, and galactose) are single-sugar molecules.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.disaccharide
+type: Concept
+canonical_name: Disaccharide
+semantic_type: Molecule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 558
+  pdf_page: 558
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.carbohydrate
+
+definition: >
+  Disaccharides (sucrose, lactose, and maltose) are composed of two simple sugar units joined together.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.polysaccharide
+type: Concept
+canonical_name: Polysaccharide
+semantic_type: Molecule
+aliases:
+  - Complex Carbohydrate
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Basic Nutritional Factors Affecting Health"
+  section: "10.1"
+  section_title: "Basic Nutritional Factors Affecting Health"
+  book_page: 559
+  pdf_page: 559
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.carbohydrate
+
+definition: >
+  Polysaccharides, also known as complex carbohydrates, contain up to thousands of glucose units.
+
+attributes: []
+
+purpose: []
+
+related_concepts:

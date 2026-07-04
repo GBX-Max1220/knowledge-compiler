@@ -1,0 +1,27 @@
+id: recommendation.accentuated_eccentric_loading_advanced_training_tactic_warning
+type: Recommendation
+canonical_name: Accentuated Eccentric Loading — Advanced Training Tactic Warning
+semantic_type: Training Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1114
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Accentuated eccentric loading (AEL) is an advanced training
+  tactic and should be reserved for athletes with extensive resistance training experience.
+
+  '
+conditions:
+- athlete has extensive resistance training experience
+citations: []

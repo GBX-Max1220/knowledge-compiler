@@ -1,0 +1,27 @@
+id: concept.backpedaling
+type: Concept
+canonical_name: Backpedaling
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1446
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Backpedaling (rearward locomotion with periods of double limb support
+  and one foot in contact with the ground between contralateral foot strikes)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,29 @@
+id: concept.counterconditioning
+type: Concept
+canonical_name: Counterconditioning
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: 'Energy Management: Arousal and Anxiety'
+  section: '9.3'
+  section_title: 'Energy Management: Arousal and Anxiety'
+  book_page: 493
+  pdf_page: 493
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.systematic_desensitization
+definition: 'This adaptive, learned replacement process, the principle behind SD,
+  is called counterconditioning.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

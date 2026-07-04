@@ -1,0 +1,27 @@
+id: warning.tire_flipping_biceps_tear_risk
+type: Warning
+canonical_name: Tire Flipping — Biceps Tear Risk
+semantic_type: Injury Risk
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1122
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+warning_text: 'The most common injury associated with the tire flip is biceps tears
+  (158), which may occur when the hands slip on the tire.
+
+  '
+severity: high
+citations:
+- '158'

@@ -1,0 +1,33 @@
+id: recommendation.warm_up_older_adults
+type: Recommendation
+canonical_name: Warm-Up for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 432
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Participants should warm up for 5 to 10 minutes before each exercise
+  session. An acceptable warm-up includes low- to moderate-intensity aerobic activity
+  and calisthenics.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_details:
+  duration: 5-10 minutes
+  activities:
+  - low- to moderate-intensity aerobic activity
+  - calisthenics

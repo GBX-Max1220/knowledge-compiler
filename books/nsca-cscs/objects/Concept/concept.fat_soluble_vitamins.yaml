@@ -1,0 +1,31 @@
+id: concept.fat_soluble_vitamins
+type: Concept
+canonical_name: Fat-Soluble Vitamins
+semantic_type: Nutrient
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Vitamins A, D, E, and K are fat soluble and therefore carried by fat
+  in the blood and stored in fat tissue in the body (109).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.vitamin_a
+- concept.vitamin_d
+- concept.vitamin_e
+- concept.vitamin_k

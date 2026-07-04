@@ -1,0 +1,31 @@
+id: procedure.quadruped_reach_and_rotate
+type: Procedure
+canonical_name: Quadruped Reach and Rotate
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Program Design Considerations
+  section: '15.4'
+  section_title: Program Design Considerations
+  book_page: 922
+  pdf_page: 922
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Assume a quadruped position. Raise the left hand and extend the hand
+  under the body, reaching as far to the right as possible. Reverse the action, pulling
+  the left hand back to the beginning position before pulling the arm back and turning
+  the body away from the support arm. Keep the lumbar spine in a neutral position
+  so that the action occurs mainly in the thoracic spine. Carry out the action in
+  a slow and controlled manner. Repeat on the other side.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

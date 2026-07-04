@@ -1,0 +1,30 @@
+id: recommendation.ceiling_height_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Ceiling Height for Strength and Conditioning Facilities
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1743
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'A recommended height is 12 to 14 feet (3.7-4.3 m), which should
+  give enough clearance to allow athletes to comfortably perform most activities (14,
+  18).
+
+  '
+context: []
+rationale: should give enough clearance to allow athletes to comfortably perform most
+  activities
+citations:
+- '14'
+- '18'

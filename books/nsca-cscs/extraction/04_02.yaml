@@ -1,0 +1,198 @@
+TYPE
+Definition
+
+TITLE
+Receptor Downregulation
+
+PAGE
+241
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+When a muscle fiber has reached its capacity for protein incorporation, or when a chronically elevated concentration of a hormone causes overstimulation, receptors may become desensitized or unresponsive—a condition known as receptor downregulation; a classic example of this phenomenon is insulin resistance, which can be caused by chronically elevated circulating insulin concentrations.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Categories of Hormones
+
+PAGE
+242
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+Hormones can be classified into three main categories based on their molecular structure: steroid, peptide (or polypeptide), and amine hormones.
+
+CHILDREN
+Steroid Hormone Interactions, Polypeptide Hormone Interactions, Amine Hormone Interactions
+
+END
+
+TYPE
+Definition
+
+TITLE
+Steroid Hormone Interactions
+
+PAGE
+242-243
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+Steroid hormones, including cortisol, testosterone, and estradiol produced by the adrenal cortex and/or gonads, can diffuse across cell membranes due to their lipophilic (fat-soluble) nature. They engage with specific receptors inside the cell to form a hormone–receptor complex (H-RC). This complex undergoes a conformational change, activates, and pairs with another H-RC. It then moves to the nucleus, interacts with the DNA, and promotes the transcription process for specific proteins by "unzipping" DNA and identifying regulatory elements of the targeted gene (18, 117). The resulting mRNA is then translated by ribosomes in the sarcoplasm into the intended proteins.
+
+PARENT
+Categories of Hormones
+
+END
+
+TYPE
+Definition
+
+TITLE
+Polypeptide Hormone Interactions
+
+PAGE
+244
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+Polypeptide hormones are composed of chains of amino acids and include hormones such as GH and insulin. Due to their non-lipophilic nature, polypeptide hormones cannot cross the cell membrane, and, therefore, their effects are mediated by secondary messengers within the cell. When these hormones bind to their membrane receptor, they cause a conformational change that allows the receptor to transmit the hormonal signal inside the cell. This transmission initiates a cascade of signaling events that, among others, can affect metabolic activities, influence DNA transcription, or kick-start mRNA translation at the ribosome.
+
+PARENT
+Categories of Hormones
+
+END
+
+TYPE
+Definition
+
+TITLE
+Amine Hormone Interactions
+
+PAGE
+247
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+Amine hormones are indeed synthesized from amino acids, including those derived from tyrosine (such as epinephrine, norepinephrine, and dopamine) and tryptophan (such as serotonin), and primarily exert their effects by binding to membrane receptors. These hormones typically act through secondary messenger systems, similar to polypeptide hormones.
+
+PARENT
+Categories of Hormones
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 4.2
+
+PAGE
+242
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+FIGURE 4.2 A schematic representation of the classic lock-and-key theory for hormonal action at the cell receptor level.
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 4.3
+
+PAGE
+245
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+FIGURE 4.3 A simplified model of steroid hormone action. The figure illustrates how steroid hormones like testosterone in skeletal muscle or dihydrotestosterone in sex-linked tissues migrate into target cells. Although the pathways for both hormones are represented, each targets only one specific cell type but they are shown together for clarity. Each hormone pathway leads to different physiological outcomes, emphasizing the selective nature of steroid–hormone interactions.
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 4.4
+
+PAGE
+246
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+FIGURE 4.4 Polypeptide hormone interactions with receptors. Tyr-P = tyrosinase-related protein.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Training-Mediated Hormonal Responses and Mechanisms
+
+PAGE
+248-249
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+Electrical, chemical, and hormonal signals are transmitted from the brain, active muscles, and other tissues to various endocrine glands, preparing the body's physiological systems for the demands of the workout (20, 23, 28, 32, 35, 49, 75, 80, 81). Heavy resistance training over months to years significantly enhances musculature size, strength, and power, mediated partly through adaptive hormonal responses (47, 50, 70, 73, 76, 88, 95). These adaptations arise from increased levels of anabolic hormones such as testosterone, growth hormone, and insulin-like growth factor-1 (IGF-1) that acutely rise during exercise and remain elevated after exercise. Additionally, resistance exercise leads to an upregulation of hormone receptors in muscle tissues, which increases the muscle's sensitivity to these hormones and enhances protein synthesis and muscle hypertrophy. The structural changes in muscle and neural adaptations contribute to increased strength and power, including improvements in the rate of force production and alterations in muscle fiber recruitment patterns. Resistance training also positively affects bone density and the strength of connective tissues, supporting increased muscular strength and overall physical performance. One critical pathway in muscle protein synthesis activated by resistance training is the mammalian target of the rapamycin (mTOR) pathway, which is crucial for muscle growth. These complex interactions result in adaptive changes in skeletal muscle and other tissues, enhancing the activation of muscle functions over time.
+
+END
+
+TYPE
+Warning
+
+TITLE
+Excessive Exercise Stress and Catabolic Dominance
+
+PAGE
+249
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+However, excessive exercise stress may lead to catabolic dominance due to factors like impaired hormone receptor binding or receptor downregulation in muscle tissue, highlighting the importance of appropriate exercise stimulus for beneficial hormonal responses (18, 25, 26, 27, 30, 69, 96, 99, 108).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Interpreting Hormonal Changes in Peripheral Blood
+
+PAGE
+250
+
+SECTION
+4.2 — Signaling Concepts
+
+ORIGINAL TEXT
+Understanding exercise effects on the body goes beyond physical observations; it includes reading studies that monitor biochemical changes such as hormone fluctuations in blood, muscle, and surrounding fluids (114). These changes provide insights into the body's stress response and adaptation to exercise. However, interpreting these changes can be complex, because hormone levels in the blood are just one aspect of a broader hormonal response that also includes neural and nutritional factors such as being fasted or not and if proteins and carbohydrates are ingested around a workout. Increases in blood hormone levels generally indicate enhanced release from endocrine glands, potentially boosting hormone–receptor interactions in target tissues. Yet the actual impact depends on the state and quantity of the receptors—whether they are primed to bind hormones and initiate crucial processes involved in protein synthesis, including activating pathways such as mTOR (11, 13, 14, 66). Conversely, decreases in hormone levels might suggest increased tissue uptake, faster hormone breakdown, or reduced secretion.
+
+END

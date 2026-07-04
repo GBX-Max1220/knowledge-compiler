@@ -1,0 +1,29 @@
+id: concept.autogenic_training
+type: Concept
+canonical_name: Autogenic Training
+semantic_type: Technique
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: 'Energy Management: Arousal and Anxiety'
+  section: '9.3'
+  section_title: 'Energy Management: Arousal and Anxiety'
+  book_page: 492
+  pdf_page: 492
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'This technique, referred to as autogenic training, consists of a series
+  of exercises designed to produce physical sensations in the body—generally warmth
+  and heaviness (64).
+
+  '
+attributes: []
+purpose:
+- produce physical sensations in the body
+related_concepts: []

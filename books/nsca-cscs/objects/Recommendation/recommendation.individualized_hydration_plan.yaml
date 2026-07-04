@@ -1,0 +1,27 @@
+id: recommendation.individualized_hydration_plan
+type: Recommendation
+canonical_name: Individualized Hydration Plan
+semantic_type: Hydration
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.5'
+  section_title: Minerals
+  book_page: 594
+  pdf_page: 594
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: A very wide range of fluid losses, in the form of sweat, exists
+  among athletes. Therefore each athlete should develop an individualized hydration
+  plan.

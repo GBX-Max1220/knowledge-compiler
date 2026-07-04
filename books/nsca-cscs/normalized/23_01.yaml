@@ -1,0 +1,448 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.overtraining
+type: Concept
+canonical_name: Overtraining
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1685
+  pdf_page: 1685
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An accumulation of training and/or non-training stress resulting in long-term decrement in performance capacity with or without related physiological and psychological signs and symptoms of maladaptation in which restoration of performance capacity may take several weeks or months (88, p. 2).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.overtraining_syndrome
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.overtraining_syndrome
+type: Concept
+canonical_name: Overtraining Syndrome
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1687
+  pdf_page: 1687
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.overtraining
+definition: >
+  When the ECSS-ACSM Task Force defined overtraining (88, 89), they specifically stated that the OTS was a combination of "related physiological and psychological signs and symptoms of maladaptation," some of which may not be part of the training program. As such, the use of the term syndrome indicates the complex nature of the condition and the fact that the symptoms are associated with each other.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.parasympathetic_overtraining_syndrome
+type: Concept
+canonical_name: Parasympathetic Overtraining Syndrome
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1689
+  pdf_page: 1689
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.overtraining_syndrome
+definition: >
+  Initially named the Addisonoid syndrome since it is often accompanied by decreased concentrations of the stress hormone cortisol, this condition is characterized by the predominance of parasympathetic activity. In general, the parasympathetic overtraining syndrome is most often found in aerobic endurance athletes where very large training volumes are common.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sympathetic_overtraining_syndrome
+type: Concept
+canonical_name: Sympathetic Overtraining Syndrome
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1690
+  pdf_page: 1690
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.overtraining_syndrome
+definition: >
+  The primary characteristic of sympathetic overtraining syndrome is an increased epinephrine response to exercise and training (36, 37, 38, 40, 41, 139).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.overreaching
+type: Concept
+canonical_name: Overreaching
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1690
+  pdf_page: 1690
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An accumulation of training and/or non-training stress resulting in short-term decrement in performance capacity with or without related physiological and psychological signs and symptoms of maladaptation in which restoration of performance capacity may take from several days to several weeks (88, 89).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.functional_overreaching
+type: Concept
+canonical_name: Functional Overreaching
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1691
+  pdf_page: 1691
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.overreaching
+definition: >
+  When properly prescribed, these can be very effective training methods that prepare the athlete for later performance gains (88, 89, 106, 126). The short-term effect is decrements in performance, but recovery can be attained within days or weeks and can result in a super compensation effect. As such, and although stressful to the athlete, functional overreaching (FOR) can be beneficial provided appropriate recovery is allowed.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.nonfunctional_overreaching
+type: Concept
+canonical_name: Nonfunctional Overreaching
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1692
+  pdf_page: 1692
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.overreaching
+definition: >
+  On the other hand, nonfunctional overreaching (NFOR) is somewhat similar to functional overreaching with two very important differences. First, the short-term accumulated fatigue is greater, and, second, the recovery takes longer (88, 89, 126). In the case of NFOR, the individual does not experience any super compensation and is only able to return to his or her baseline performance levels (see figure 24.1 on page 778) (88, 89, 93, 108, 125, 126).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.allostatic_load
+type: Concept
+canonical_name: Allostatic Load
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1697
+  pdf_page: 1697
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Often overlooked aspects of an overtraining syndrome are contributing factors outside the training hall or the competition arena. These are many and varied, and in the context of overtraining they have been termed the allostatic load (86, 107). Collectively, the cumulative causes of stress (i.e., antecedents) produce the various stress responses (i.e., allostatic load) (71, 86).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.performance_stagnation
+type: Concept
+canonical_name: Performance Stagnation
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1690
+  pdf_page: 1690
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.overreaching
+definition: >
+  The most subtle type is performance stagnation. While sometimes stagnated performances have been considered a type of overtraining (13), this is difficult to differentiate from good training programs since all seriously trained individuals experience periodic plateaus in performance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.recovery_plan_after_overtraining
+type: Recommendation
+canonical_name: Recovery Plan After Overtraining
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1715
+  pdf_page: 1715
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Once overtraining occurs and overtraining syndrome has developed, the first thing that must be done is a careful revision of the training program. A rapid decrease in the training volume, intensity, or both is typically warranted.
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.overtraining_avoidance_strategies
+type: Recommendation
+canonical_name: Overtraining Avoidance Strategies
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1719
+  pdf_page: 1719
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Use active and passive recovery methods during training. Allow one or more days of routine training abstinence to enhance recovery. Rest days are critical. Limit excessively long training sessions and too many sessions in a day. Exercise caution with excessive training volumes and large increases in training volume (>30% increases). Prior exposure to stressful training enhances training stress tolerance. Variation in the training stimulus is critical, and use of periodized training is important. Avoid excessive training to failure. Coordinate resistance exercise with other stressors (e.g., sport training and other conditioning). Incorporate recovery strategies (e.g., sleep, diet, mental skills). Appropriate diet for training (e.g., adequate Kcal, protein ingestion, glycogen repletion, sufficient vitamins and minerals, adequate fluid intake). Dietary supplements may help (e.g., recovery drinks, protein and carbohydrate supplements, creatine, oral ATP). Monitor outside stressors. Monitor internal and external training loads. Incorporate an athlete monitoring program.
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.athlete_monitoring_program_test_qualities
+type: Recommendation
+canonical_name: Athlete Monitoring Program Test Qualities
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1706
+  pdf_page: 1706
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Qualities of the tests included in this program must be specific to the training being performed or the physiological system involved (i.e., valid), reliable (i.e., capable of providing consistent results), sensitive to the training and competition stimulus, and easy to incorporate into the regular athlete monitoring program.
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.questionnaire_selection_considerations
+type: Recommendation
+canonical_name: Questionnaire Selection Considerations
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1711
+  pdf_page: 1711
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Several considerations when selecting a questionnaire for athlete monitoring include the following: How long is the questionnaire, and how many items need to be completed? Has the questionnaire been validated? Is the wording easy to understand for the intended audience? Is it easy to process the data for a rapid turnaround? Can the questionnaire be answered without any coercion? Is the questionnaire sensitive to an overtraining stimulus?
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.training_volume_increase
+type: Threshold
+canonical_name: Training Volume Increase Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1719
+  pdf_page: 1719
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+threshold_type: "increase"
+value: ">30%"
+unit: "percent"
+context: "training volume"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.overtraining_as_serious_condition
+type: Warning
+canonical_name: Overtraining as a Serious Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1686
+  pdf_page: 1686
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+warning_text: >
+  As can be seen in this definition, this is a serious condition for the athlete from which recovery can take a long time, and it greatly interferes or halts the competition training program.
+severity: high
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.red_s_and_overtraining_interrelation
+type: Warning
+canonical_name: RED-S and Overtraining Interrelation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overreaching, Overtraining, and Recovery"
+  section: "24"
+  section_title: "Overreaching, Overtraining, and Recovery"
+  book_page: 1692
+  pdf_page: 1692
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+warning_text: >
+  Both RED-S and OTS can be interrelated since many causes and symptoms of each condition contribute to the other. Therefore, when the presence of RED-S is suspected, it is important to clearly discern how overtraining may be contributing to this problem. To adequately address the serious condition of RED-S, trained professionals need to be involved, but the strength and conditioning professional must be able to recognize when help of this type is needed.
+severity: high
+---
+# ontology: knowledge-compiler/v1
+
+id: risk_factor.training_factors_contributing_to_overtraining
+type: RiskFactor
+canonical_name: Training Factors Contributing to Overtraining
+aliases: []
+source:

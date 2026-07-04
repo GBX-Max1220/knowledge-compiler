@@ -1,0 +1,28 @@
+id: concept.rapid_weight_loss
+type: Concept
+canonical_name: Rapid Weight Loss
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 647
+  pdf_page: 647
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Though there is no uniform definition in the literature, rapid weight
+  loss generally refers to quick weight loss, faster than can be achieved by lowering
+  calorie intake and increasing exercise, in a short period of time (38).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

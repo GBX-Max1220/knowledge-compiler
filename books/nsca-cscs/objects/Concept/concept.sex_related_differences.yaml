@@ -1,0 +1,29 @@
+id: concept.sex_related_differences
+type: Concept
+canonical_name: Sex-Related Differences
+semantic_type: Concept
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.0'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 438
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Sex-related differences in physical characteristics, body composition,
+  and physiological responses to resistance exercise that strength and conditioning
+  professionals need to understand when designing and evaluating resistance training
+  programs for females.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

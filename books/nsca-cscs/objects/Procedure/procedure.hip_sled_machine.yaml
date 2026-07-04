@@ -1,0 +1,50 @@
+id: procedure.hip_sled_machine
+type: Procedure
+canonical_name: Hip Sled (Machine)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Special Populations
+  section: '16.2'
+  section_title: Machine Exercises
+  book_page: 1005
+  pdf_page: 1005
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Starting Position Sit in the machine with the lower back, hips, and buttocks
+  pressed against their pads. Place the feet flat on the platform hip-width apart
+  with the toes slightly angled out. Position the legs parallel to each other. Grasp
+  the handles or the sides of the seat and move the hips and knees to a fully extended
+  position, but do not forcefully lock the knees. Keep the hips on the seat and the
+  back pressed firmly and evenly against the back pad. Remove the support mechanism
+  from the foot platform and grasp the handles or the seat again. All repetitions
+  begin from this position. Downward Movement Phase Allow the hips and knees to slowly
+  flex to lower the platform. Do not allow the platform to lower rapidly. Keep the
+  hips and buttocks on the seat and the back pressed firmly and evenly against the
+  back pad. Keep the knees aligned over the feet as they flex. Allow the hips and
+  knees to flex until the thighs are parallel to the foot platform. Do not allow the
+  buttocks to lose contact with the seat, the hips to roll off the back pad, or the
+  heels to rise off the foot platform. Upward Movement Phase Push the platform up
+  by extending the hips and knees. Push to a fully extended position, but do not forcefully
+  lock out the knees. Maintain the same hip and back position; do not allow the buttocks
+  to rise. Keep the knees aligned over the feet as they extend. At the end of the
+  set, return the supports to the starting position, remove the feet, and exit the
+  machine.
+
+  '
+attributes:
+- seated_position
+- machine_exercise
+purpose:
+- strengthen quadriceps
+- strengthen hamstrings
+- strengthen glutes
+related_concepts:
+- concept.hip_sled_machine

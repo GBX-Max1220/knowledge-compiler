@@ -1,0 +1,51 @@
+id: concept.muscle_action_types
+type: Concept
+canonical_name: Muscle Action Types
+semantic_type: Physiological Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: ''
+  section: '2.4'
+  section_title: Sources of Resistance to Muscle Contraction
+  book_page: 143
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.concentric_muscle_action
+- predicate: has_attribute
+  target: concept.eccentric_muscle_action
+- predicate: has_attribute
+  target: concept.isometric_muscle_action
+definition: 'In a concentric muscle action, the muscle shortens because the contractile
+  force is greater than the resistive force. The forces generated within the muscle
+  and acting to shorten it are greater than the external forces acting at its tendons
+  to stretch it. Swimming and cycling involve concentric muscle action almost exclusively.
+  In an eccentric muscle action, the muscle lengthens because the contractile force
+  is less than the resistive force. The forces generated within the muscle and acting
+  to shorten it are less than the external forces acting at its tendons to stretch
+  it (which increases the risk of soreness and injury). This occurs during the lowering
+  phase of any resistance exercise. During standard resistance training, the eccentric
+  force exerted by the muscle keeps the weight from being accelerated downward by
+  gravitational force. Thus, the weight moves steadily downward rather than picking
+  up speed and contacting the floor or the athlete''s body. In an isometric muscle
+  action, the muscle length does not change, because the contractile force is equal
+  to the resistive force. The forces generated within the muscle and acting to shorten
+  it are equal to the external forces acting at its tendons to stretch it. During
+  a sit-up with the trunk held straight, the abdominal muscles act isometrically to
+  maintain the rigidity of the trunk, while the hip flexors carry out the sit-up movement.
+
+  '
+attributes:
+- concentric muscle action
+- eccentric muscle action
+- isometric muscle action
+purpose: []
+related_concepts: []

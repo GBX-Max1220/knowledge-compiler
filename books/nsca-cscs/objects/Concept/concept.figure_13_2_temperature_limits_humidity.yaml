@@ -1,0 +1,30 @@
+id: concept.figure_13_2_temperature_limits_humidity
+type: Concept
+canonical_name: Figure 13.2 Temperature Limits at Various Ranges of Relative Humidity
+  for Strenuous Exercise Testing
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing
+  section: '13.4'
+  section_title: Test Selection
+  book_page: 752
+  pdf_page: 752
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Figure 13.2 lists temperature limits at various ranges of relative humidity
+  for strenuous exercise testing, and the sidebar lists guidelines for aerobic endurance
+  testing in the heat.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- recommendation.aerobic_endurance_testing_heat

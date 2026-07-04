@@ -1,0 +1,28 @@
+id: recommendation.sound_volume_sound_systems
+type: Recommendation
+canonical_name: Recommended Sound Volume for Sound Systems
+semantic_type: null
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design and Layout
+  section: Sound Systems and Noise Control
+  section_title: Sound Systems and Noise Control
+  book_page: 1746
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'The sound volume should be less than 90 decibels so that athletes
+  can hear instructions and coaching cues (2).
+
+  '
+rationale: 'so that athletes can hear instructions and coaching cues
+
+  '
+context: Sound systems

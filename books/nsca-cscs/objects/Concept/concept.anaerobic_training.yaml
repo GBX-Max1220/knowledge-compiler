@@ -1,0 +1,35 @@
+id: concept.anaerobic_training
+type: Concept
+canonical_name: Anaerobic Training
+semantic_type: Training Modality
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 281
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Characterized by high-intensity, intermittent bouts of exercise, anaerobic
+  training requires adenosine triphosphate (ATP) to be regenerated at a faster rate
+  than can be produced by oxidative metabolism alone. Consequently, the energy requirement
+  relies on a greater proportion of energy coming from non-oxidative energy systems,
+  which include the phosphagen or creatine phosphate system and a smaller proportion
+  coming from glycolysis. Thus, the term anaerobic training is used in this text to
+  describe exercise training that is performed at intensities that rely primarily
+  on non-oxidative metabolism to meet energy demands.
+
+  '
+attributes:
+- high-intensity
+- intermittent
+purpose: []
+related_concepts: []

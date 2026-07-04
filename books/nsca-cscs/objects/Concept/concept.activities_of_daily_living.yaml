@@ -1,0 +1,27 @@
+id: concept.activities_of_daily_living
+type: Concept
+canonical_name: Activities of Daily Living
+semantic_type: Activity
+aliases:
+- ADL
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 423
+  pdf_page: 423
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'activities of daily living (ADL)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

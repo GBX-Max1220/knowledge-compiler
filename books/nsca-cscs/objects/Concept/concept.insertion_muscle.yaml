@@ -1,0 +1,33 @@
+id: concept.insertion_muscle
+type: Concept
+canonical_name: Insertion (muscle)
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Exercise
+  section: Skeletal Musculature
+  section_title: Skeletal Musculature
+  book_page: 105
+  pdf_page: 105
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.muscle
+definition: 'Traditionally, anatomists define the muscle''s origin as its proximal
+  (toward the center of the body) attachment and its insertion as its distal (away
+  from the center of the body) attachment.
+
+  '
+attributes:
+- distal
+- attachment
+purpose: []
+related_concepts:
+- concept.origin_muscle

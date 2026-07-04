@@ -1,0 +1,39 @@
+id: concept.basal_metabolic_rate
+type: Concept
+canonical_name: Basal Metabolic Rate
+semantic_type: Metric
+aliases:
+- BMR
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 642
+  pdf_page: 642
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.total_energy_expenditure
+definition: 'Basal metabolic rate (BMR) is by far the largest contributor to total
+  energy expenditure, accounting for approximately 65% to 70% of daily energy expenditure
+  (63, 114). It is a measure of the calories required for maintaining normal body
+  functions such as respiration, blood circulation, and gastrointestinal and renal
+  processing.
+
+  '
+attributes:
+- respiration
+- blood_circulation
+- gastrointestinal_processing
+- renal_processing
+purpose: []
+related_concepts:
+- concept.resting_metabolic_rate
+- concept.total_energy_expenditure

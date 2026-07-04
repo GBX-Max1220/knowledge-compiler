@@ -1,0 +1,397 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.vertical_jump_countermovement_jump_force_plate_protocol
+type: Procedure
+canonical_name: Vertical Jump (Countermovement Jump) — Force Plate Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.2"
+  section_title: "Monitoring Protocols"
+  book_page: 786
+  pdf_page: 786
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Procedure for conducting a vertical jump (countermovement jump) using a force plate.
+
+attributes: []
+
+purpose:
+  - measure vertical jump height
+  - measure power output
+
+related_concepts:
+  - concept.vertical_jump
+  - concept.countermovement_jump
+  - concept.force_plate
+
+steps:
+  - order: 1
+    description: "Before testing, the tester should calibrate and set up the force plate as per the manufacturer’s instructions."
+  - order: 2
+    description: "The force plate should always be set up on a stable surface (ideally in the same location each time) and the force zeroed with nothing on the plates immediately before the athlete tests. Without a preparatory or stutter step, the athlete performs a countermovement by quickly flexing the knees and hips, moving the trunk forward and downward, and swinging the arms backward."
+  - order: 3
+    description: "The countermovement jump is most commonly conducted with hands in a fixed position on the hips throughout the takeoff portion of the jump to isolate the power and coordination capacity of the lower limbs. Jumping with the use of an arm swing can also be tested and is referred to as an Abalakov jump. Either way, consistency should be used and each jump should be tracked as to whether it was performed with (Abalakov) or without an arm swing."
+  - order: 4
+    description: "Figure 14.7 shows an example of how the vertical ground reaction forces change across the five phases of a vertical jump with a countermovement when measured with a force plate testing system."
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.vertical_jump_countermovement_jump_wall_and_chalk_protocol
+type: Procedure
+canonical_name: Vertical Jump (Countermovement Jump) — Wall and Chalk Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.2"
+  section_title: "Monitoring Protocols"
+  book_page: 786
+  pdf_page: 786
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Procedure for conducting a vertical jump (countermovement jump) using a wall and chalk.
+
+attributes: []
+
+purpose:
+  - measure vertical jump height
+
+related_concepts:
+  - concept.vertical_jump
+  - concept.countermovement_jump
+
+steps:
+  - order: 1
+    description: "The tester rubs chalk on the fingertips of the athlete’s dominant hand."
+  - order: 2
+    description: "The athlete stands with the dominant shoulder about 6 inches (15 cm) from the wall and, with both feet flat on the floor, reaches as high as possible with the dominant hand and makes a chalk mark on the wall."
+  - order: 3
+    description: "The athlete then lowers the dominant hand and, without a preparatory or stutter step, performs a countermovement by quickly flexing the knees and hips, moving the trunk forward and downward, and swinging the arms backward. During the jump, the dominant arm reaches upward while the nondominant arm moves downward relative to the body."
+  - order: 4
+    description: "At the highest point in the jump, the athlete places a second chalk mark on the wall with the fingers of the dominant hand, using a swiping motion of the fingers. The score is the vertical distance between the two chalk marks."
+  - order: 5
+    description: "The best of three trials is recorded to the nearest 0.5 inch or 1.0 centimeter."
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.vertical_jump_countermovement_jump_commercial_vertec_device_protocol
+type: Procedure
+canonical_name: Vertical Jump (Countermovement Jump) — Commercial Vertec Device Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.2"
+  section_title: "Monitoring Protocols"
+  book_page: 786
+  pdf_page: 786
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Procedure for conducting a vertical jump (countermovement jump) using a commercial Vertec device.
+
+attributes: []
+
+purpose:
+  - measure vertical jump height
+
+related_concepts:
+  - concept.vertical_jump
+  - concept.countermovement_jump
+  - concept.vertec_device
+
+steps:
+  - order: 1
+    description: "The tester adjusts the height of the stack of movable color-coded horizontal plastic vanes to be within the athlete’s standing reach height. The highest vane that can be reached and pushed forward with the dominant hand while the athlete stands flat-footed determines the standing touch height."
+  - order: 2
+    description: "The vane stack is then raised by a measured distance (marked on the shaft holding the vanes) so that the athlete will not jump higher or lower than the set of vanes. This requires a rough estimate of how high the particular athlete will jump, but a correction can be made on the second attempt if necessary."
+  - order: 3
+    description: "Without a preparatory or stutter step, the athlete performs a countermovement by quickly flexing the knees and hips, moving the trunk forward and downward, and swinging the arms backward (figure 14.8a). During the jump, the dominant arm reaches upward while the nondominant arm moves downward relative to the body."
+  - order: 4
+    description: "At the highest point in the jump, the athlete taps the highest possible vane with the fingers of the dominant hand (figure 14.8b). The score is the vertical distance between the height of the highest vane tapped during the standing vertical reach and the vane tapped at the highest point of the jump."
+  - order: 5
+    description: "The best of three trials is recorded to the nearest 0.5 inches or 1 centimeter (the distance between adjacent vanes)."
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.potential_sources_of_error_with_jump_and_reach_style_tests
+type: Warning
+canonical_name: Potential Sources of Error with Jump-and-Reach-Style Tests
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.2"
+  section_title: "Monitoring Protocols"
+  book_page: 787
+  pdf_page: 787
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The strength and conditioning professional should be aware of potential sources of error with the jump-and-reach-style tests. These include a disconnect between the moment when the athlete reaches the wall or vanes with the hand and the moment the maximum height of the body’s center of mass is achieved; additionally, shoulder mobility issues may limit some athlete’s reach height. Also, jump height values calculated using common technologies such as force plates and contact mats are most often measured as the maximum total body center of mass height relative to its height at takeoff and not relative to its height when standing still (158). Thus, jump height values from jump-and-reach tests should not be compared directly to, or used interchangeably with, jump height values recorded with such technologies or, indeed, with different jump techniques, such as when keeping arms akimbo.
+
+severity: moderate
+
+affected_concepts:
+  - concept.jump_and_reach_test
+  - concept.vertical_jump_height
+
+precautions:
+  - "Be aware of the disconnect between the moment the athlete reaches the wall or vanes and the moment the maximum height of the body's center of mass is achieved."
+  - "Consider that shoulder mobility issues may limit some athlete's reach height."
+  - "Do not compare or use interchangeably jump height values from jump-and-reach tests with values from force plates, contact mats, or different jump techniques."
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.squat_jump_static_vertical_jump_protocol
+type: Procedure
+canonical_name: Squat Jump (Static Vertical Jump) Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.2"
+  section_title: "Monitoring Protocols"
+  book_page: 788
+  pdf_page: 788
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Procedure for conducting a squat jump (static vertical jump).
+
+attributes: []
+
+purpose:
+  - measure vertical jump height without countermovement
+  - calculate eccentric utilization ratio
+
+related_concepts:
+  - concept.squat_jump
+  - concept.vertical_jump
+  - concept.eccentric_utilization_ratio
+
+steps:
+  - order: 1
+    description: "The test procedures are essentially the same as for the vertical jump, except that the countermovement is removed. Begin with the athlete standing on a calibrated, zeroed force platform. (Note: The squat jump and vertical jump with countermovement can also be tested using a switch or contact mat system (figure 14.9) [158], which estimates jump height [51] but cannot measure force outputs.)"
+  - order: 2
+    description: "The athlete descends into a squat position (knee angle approximately 110 degrees) and holds this position for 2 to 3 seconds before jumping vertically, keeping hands fixed on hips."
+  - order: 3
+    description: "The takeoff and landing positions, as well as jumping strategy, should be the same for each trial. Specifically, the tester should ensure there is no countermovement (dip) at the start of the jump, both through visual observation and, where a force plate is used, by assessing the force–time curve."
+  - order: 4
+    description: "The best of three trials is recorded. The ratio of the vertical jump height with countermovement to squat jump height can be calculated as the eccentric utilization ratio (99)."
+  - order: 5
+    description: "Figure 14.10 shows an example of how the vertical ground reaction forces change across the three phases of a static vertical jump when measured with a force plate testing system."
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.drop_jump_protocol
+type: Procedure
+canonical_name: Drop Jump Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.2"
+  section_title: "Monitoring Protocols"
+  book_page: 790
+  pdf_page: 790
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Procedure for conducting a drop jump test.
+
+attributes: []
+
+purpose:
+  - measure jump height
+  - measure ground contact time
+  - calculate reactive strength index
+
+related_concepts:
+  - concept.drop_jump
+  - concept.reactive_strength_index
+  - concept.stretch_shortening_cycle
+
+steps:
+  - order: 1
+    description: "When performing a drop vertical jump, the athlete should step out before free-falling from as close as possible to the height of the box rather than stepping down (i.e., lowering) or jumping off (i.e., rising) the box. Box height selection for an athlete can vary but is typically 20 centimeters (8 in.), 30 centimeters (12 in.), or 40 centimeters (16 in.) (figure 14.11a). The higher the box, the greater the plyometric demand. When using a device that is not flush with the ground or base of the box when conducting the drop vertical jump test, such as when using a switch mat, the strength and conditioning professional should measure the box height from the top of the box to the top surface of the switch mat."
+  - order: 2
+    description: "The athlete steps out from the box and lands on the floor, force plate, or switch mat (figure 14.11b) and, as quickly as possible, jumps again (figure 14.11c). Drop jumps should be performed with the athlete attempting to jump with a short ground contact time while still aiming to jump as high as possible. A short ground contact time is achieved by limiting flexion of the ankles, knees, and hips while in contact with the ground by adopting high leg stiffness (high force with shallow range of motion). It is advised that at least 2 to 3 sets are performed."
+  - order: 3
+    description: "The most reported performance variables following drop vertical jump testing are jump height (from flight time), ground contact time, and reactive strength index (calculated as jump height divided by ground contact time) (91). The reactive strength index is often considered an indication of how well an athlete can recruit the fast component of the stretch-shortening cycle."
+  - order: 4
+    description: "Figure 14.12 shows an example of the force–time curve with labels pointing out the peak vertical ground reaction force, contact time, and flight time when measured with a force plate testing system."
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.rebound_jump_protocol
+type: Procedure
+canonical_name: Rebound Jump Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.2"
+  section_title: "Monitoring Protocols"
+  book_page: 791
+  pdf_page: 791
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Procedure for conducting a rebound jump test.
+
+attributes: []
+
+purpose:
+  - measure jump height
+  - measure ground contact time
+  - calculate reactive strength index
+
+related_concepts:
+  - concept.rebound_jump
+  - concept.reactive_strength_index
+  - concept.10_5_repeated_jump_test
+
+steps:
+  - order: 1
+    description: "Rebound-based vertical jumps require the athlete to jump from a preceding vertical jump. When performing a rebound vertical jump, the athlete should first complete a maximal-effort vertical countermovement jump followed by either a predetermined number of rebound vertical jump repetitions or a predetermined set duration (e.g., 10 seconds). Rebound vertical jumps from a ground-start position have been performed with single or multiple repetitions, including the 10-5 repeated jump test (64), which requires 10 maximal vertical rebound jumps following the initial maximum countermovement jump."
+  - order: 2
+    description: "All styles of rebound vertical jump should be performed with the athlete attempting to jump with a short ground contact time while still aiming to jump as high as possible. A short ground contact time is achieved by limiting flexion of the ankles, knees, and hips while in contact with the ground by adopting high leg stiffness (high force with shallow range of motion)."
+  - order: 3
+    description: "As per the drop jump, the most reported performance variables following rebound vertical jump testing are jump height, ground contact time, and reactive strength index (calculated as jump height divided by ground contact time). For the 10-5 repeated jump test, the best 5 repetitions in terms of reactive strength index are used and averaged for the test outcome."
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.margaria_kalamen_test_protocol
+type: Procedure
+canonical_name: Margaria-Kalamen Test Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.2"
+  section_title: "Monitoring Protocols"
+  book_page: 792
+  pdf_page: 792
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Procedure for conducting the Margaria-Kalamen test for anaerobic power.
+
+attributes: []
+
+purpose:
+  - measure anaerobic power
+
+related_concepts:
+  - concept.margaria_kalamen_test
+  - concept.anaerobic_power
+
+steps:
+  - order: 1
+    description: "The height of each step is measured with a ruler or tape measure, and the elevation from the third step to the ninth step is calculated (6 × step height)."
+  - order: 2
+    description: "The timer start switch mechanism is placed on the third step, and the stop switch mechanism is placed on the ninth step."
+  - order: 3
+    description: "The athlete to be tested is weighed on a scale, warms up, and practices running up the stairs three steps at a time."
+  - order: 4

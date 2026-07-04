@@ -1,0 +1,29 @@
+id: concept.specificity
+type: Concept
+canonical_name: Specificity
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1187
+  pdf_page: 1187
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'One of the most basic concepts to incorporate in all training programs
+  is specificity. The term, first suggested by DeLorme in 1945 (39), refers to the
+  method whereby an athlete is trained in a specific manner to produce a specific
+  adaptation or training outcome.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

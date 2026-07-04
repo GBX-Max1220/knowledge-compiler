@@ -1,0 +1,28 @@
+id: recommendation.hmb_effectiveness_requires_adequate_training_stimulus
+type: Recommendation
+canonical_name: HMB Effectiveness Requires Adequate Training Stimulus
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Dietary Supplements
+  section: '12.3'
+  section_title: Dietary Supplements
+  book_page: 705
+  pdf_page: 705
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'β-Hydroxy-β-methylbutyrate is most effective when an adequate training
+  stimulus is provided. For untrained individuals, this does not likely require high-volume
+  training. For trained individuals, a high-intensity, high-volume resistance training
+  program is likely needed for benefits to be realized with HMB supplementation.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

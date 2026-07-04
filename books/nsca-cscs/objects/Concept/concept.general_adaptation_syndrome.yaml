@@ -1,0 +1,29 @@
+id: concept.general_adaptation_syndrome
+type: Concept
+canonical_name: General Adaptation Syndrome
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 24
+  chapter_title: Overreaching, Overtraining, and Recovery
+  section: '24'
+  section_title: Overreaching, Overtraining, and Recovery
+  book_page: 1680
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In the GAS paradigm as applied to any biological system, a stress creates
+  an initial alarm phase, followed by a resistance phase, and ultimately adaptation.
+  If the stress is too great, the system is unable to successfully resist the stressor
+  and the biological system dies.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

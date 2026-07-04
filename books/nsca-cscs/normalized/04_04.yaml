@@ -1,0 +1,586 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.adrenal_gland
+type: Concept
+canonical_name: Adrenal Gland
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 266
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The adrenal gland is integral to the body’s adaptation to stress, particularly during and after exercise. Structurally, it consists of two main components: the medulla and the cortex, each responding to stress in distinct ways.
+
+attributes:
+  - medulla
+  - cortex
+
+purpose:
+  - adaptation to stress
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adrenal_medulla
+type: Concept
+canonical_name: Adrenal Medulla
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 266
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.adrenal_gland
+
+definition: >
+  The adrenal medulla, the inner core of the gland, is directly stimulated by the autonomic nervous system during acute stress. It rapidly secretes catecholamines such as epinephrine and norepinephrine, alongside dopamine and specific enkephalin-containing polypeptides like peptide F, which are implicated in immediate stress responses and immune enhancement (129).
+
+attributes:
+  - inner core
+
+purpose:
+  - immediate stress responses
+  - immune enhancement
+
+related_concepts:
+  - concept.catecholamines
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adrenal_cortex
+type: Concept
+canonical_name: Adrenal Cortex
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 266
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.adrenal_gland
+
+definition: >
+  The adrenal cortex is stimulated by adrenocorticotropic hormone (ACTH) from the anterior pituitary gland to produce and release cortisol.
+
+attributes: []
+
+purpose:
+  - produce cortisol
+  - release cortisol
+
+related_concepts:
+  - concept.cortisol
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cortisol
+type: Concept
+canonical_name: Cortisol
+semantic_type: Hormone
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 266
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Cortisol has critical roles in modulating inflammation and managing metabolic responses to stress. As such, cortisol is regulated on a systemic level by the hypothalamic-pituitary-adrenal (HPA) axis and locally within tissues by enzymes such as 11β-hydroxy-steroid dehydrogenase (11β-HSD) to maintain glucocorticoid balance (25, 27, 99). Cortisol is crucial for sustaining energy during prolonged stress by facilitating glucose availability through selective glucose sparing and mobilization, gluconeogenesis, and fat and protein catabolism.
+
+attributes: []
+
+purpose:
+  - modulate inflammation
+  - manage metabolic responses to stress
+  - sustain energy during prolonged stress
+
+related_concepts:
+  - concept.hypothalamic_pituitary_adrenal_axis
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.prolonged_cortisol_elevation
+type: Warning
+canonical_name: Prolonged Cortisol Elevation
+semantic_type: PhysiologicalWarning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 267
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  However, prolonged elevation of cortisol levels—if not returned to baseline within 24 hours—can adversely affect the body, because cortisol in this context is considered catabolic and anti-anabolic. Sustained high cortisol can impair immune function, affect fat metabolism and deposition, reduce protein synthesis, increase protein degradation, and interfere with anabolic signaling pathways, thereby promoting a catabolic state that can undermine muscle repair and growth (75, 87, 89, 92, 129).
+
+condition: prolonged elevation of cortisol levels not returned to baseline within 24 hours
+
+consequences:
+  - impair immune function
+  - affect fat metabolism and deposition
+  - reduce protein synthesis
+  - increase protein degradation
+  - interfere with anabolic signaling pathways
+  - promote a catabolic state
+  - undermine muscle repair and growth
+
+severity: moderate
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.catecholamines
+type: Concept
+canonical_name: Catecholamines
+semantic_type: Hormone
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 269
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Catecholamines, primarily epinephrine but also including norepinephrine and dopamine, are secreted by the adrenal medulla and play a crucial role in enhancing strength and power during resistance training. These hormones facilitate the fight-or-flight response by acting as central motor stimulators and peripheral vascular dilators, enhancing enzyme activity and calcium release in muscles (89).
+
+attributes:
+  - epinephrine
+  - norepinephrine
+  - dopamine
+
+purpose:
+  - enhance strength
+  - enhance power
+  - facilitate fight-or-flight response
+
+related_concepts:
+  - concept.adrenal_medulla
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.increase_serum_testosterone_concentrations
+type: Recommendation
+canonical_name: To Increase Serum Testosterone Concentrations
+semantic_type: TrainingRecommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 272
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Serum testosterone concentrations have been shown to increase acutely by using these methods independently or in various combinations:
+  Large muscle group exercises (e.g., deadlift, power clean, squat)
+  Heavy resistance (85% to 95% 1RM)
+  Moderate to high volume of exercise, achieved with multiple sets or multiple exercises
+  Short rest intervals (30-60 s)
+
+methods:
+  - Large muscle group exercises (e.g., deadlift, power clean, squat)
+  - Heavy resistance (85% to 95% 1RM)
+  - Moderate to high volume of exercise, achieved with multiple sets or multiple exercises
+  - Short rest intervals (30-60 s)
+
+outcome: increase serum testosterone concentrations acutely
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.increase_22kd_growth_hormone_concentrations
+type: Recommendation
+canonical_name: To Increase 22 kD Growth Hormone Concentrations
+semantic_type: TrainingRecommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 272
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Growth hormone levels have been shown to increase acutely with use of either of these methods or both in combination:
+  Use workouts with higher lactate concentrations and associated acid–base disruptions; that is, use high intensity (10RM, or heavy resistance) with three sets of each exercise (high total work) and short (1 min) rest periods.
+  Supplement diet with carbohydrates and protein before and after workouts.
+
+methods:
+  - Use workouts with higher lactate concentrations and associated acid–base disruptions; that is, use high intensity (10RM, or heavy resistance) with three sets of each exercise (high total work) and short (1 min) rest periods
+  - Supplement diet with carbohydrates and protein before and after workouts
+
+outcome: increase 22 kD growth hormone concentrations acutely
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.optimize_responses_of_adrenal_hormones
+type: Recommendation
+canonical_name: To Optimize Responses of Adrenal Hormones
+semantic_type: TrainingRecommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 272
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Use high volume, large muscle groups, and short rest periods to expose the body to adrenergic stress.
+  Be careful to vary the training protocol and the rest period length from short to long over time.
+  Provide days of complete rest, and use lower-volume workouts to allow the adrenal gland to engage in recovery processes to reduce stress on the adrenal medulla so as not to experience adrenergic exhaustion and to reduce stress on the adrenal cortex and prevent chronic cortisol secretions from the adrenal cortex. This way, the stress of the exercises will not result in a nonfunctional overreaching or overtraining.
+
+methods:
+  - Use high volume, large muscle groups, and short rest periods to expose the body to adrenergic stress
+  - Vary the training protocol and the rest period length from short to long over time
+  - Provide days of complete rest
+  - Use lower-volume workouts to allow the adrenal gland to engage in recovery processes
+
+outcome: optimize responses of adrenal hormones
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.thyroid_hormones
+type: Concept
+canonical_name: Thyroid Hormones
+semantic_type: Hormone
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 274
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Thyroid hormones, particularly triiodothyronine (T3) and thyroxine (T4), play a significant role in both acute and chronic responses to resistance exercise and training.
+
+attributes:
+  - triiodothyronine (T3)
+  - thyroxine (T4)
+
+purpose:
+  - acute responses to resistance exercise
+  - chronic responses to resistance training
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.insulin_response_to_resistance_exercise
+type: Concept
+canonical_name: Insulin Response to Resistance Exercise
+semantic_type: PhysiologicalResponse
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 275
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Physiologically, resistance exercise induces an acute increase in insulin sensitivity, which enhances glucose uptake into skeletal muscle, facilitating glycogen synthesis and promoting anabolic processes essential for muscle repair and growth (36, 51).
+
+attributes: []
+
+purpose:
+  - enhance glucose uptake into skeletal muscle
+  - facilitate glycogen synthesis
+  - promote anabolic processes essential for muscle repair and growth
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.heavy_resistance_for_testosterone
+type: Threshold
+canonical_name: Heavy Resistance Threshold for Testosterone
+semantic_type: TrainingThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 272
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_value: "85% to 95% 1RM"
+
+unit: "% 1RM"
+
+context: Heavy resistance for increasing serum testosterone concentrations
+
+condition: resistance training at 85% to 95% 1RM
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.short_rest_interval_for_testosterone
+type: Threshold
+canonical_name: Short Rest Interval Threshold for Testosterone
+semantic_type: TrainingThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 272
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_value: "30-60 s"
+
+unit: "s"
+
+context: Short rest intervals for increasing serum testosterone concentrations
+
+condition: rest intervals of 30-60 seconds
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.high_intensity_for_growth_hormone
+type: Threshold
+canonical_name: High Intensity Threshold for Growth Hormone
+semantic_type: TrainingThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 272
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_value: "10RM, or heavy resistance"
+
+unit: "RM"
+
+context: High intensity for increasing 22 kD growth hormone concentrations
+
+condition: high intensity (10RM, or heavy resistance) with three sets of each exercise (high total work) and short (1 min) rest periods
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.cortisol_return_to_baseline
+type: Threshold
+canonical_name: Cortisol Return to Baseline Threshold
+semantic_type: PhysiologicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.4"
+  section_title: "Muscle Tissue Recruitment"
+  book_page: 267
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_value: "within 24 hours"
+
+unit: "hours"
+
+context: Cortisol return to baseline to avoid adverse effects
+
+condition: cortisol levels not returned to baseline within 24 hours

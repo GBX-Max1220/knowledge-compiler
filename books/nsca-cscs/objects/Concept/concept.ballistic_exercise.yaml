@@ -1,0 +1,32 @@
+id: concept.ballistic_exercise
+type: Concept
+canonical_name: Ballistic Exercise
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: 'Chapter 19: Program Design and Technique for Plyometric Training'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1261
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.plyometric_exercise
+definition: 'Ballistic exercises are those that minimally include contributions from
+  the neuromuscular component of the SSC (e.g., squat jump, medicine ball overhead
+  throw).
+
+  '
+attributes:
+- minimally includes contributions from neuromuscular component of SSC
+purpose: []
+related_concepts:
+- concept.stretch_shortening_cycle

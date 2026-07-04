@@ -1,0 +1,28 @@
+id: concept.neuroendocrinology
+type: Concept
+canonical_name: Neuroendocrinology
+semantic_type: ScientificField
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System and Resistance Exercise
+  section: Endocrine Terminology, Functions, and Mechanisms
+  section_title: Endocrine Terminology, Functions, and Mechanisms
+  book_page: 229
+  pdf_page: 229
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Neurons also synthesize, store, and secrete neurotransmitters, which
+  may perform hormonal functions, a study known as neuroendocrinology —exploring interactions
+  between the nervous and endocrine systems.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

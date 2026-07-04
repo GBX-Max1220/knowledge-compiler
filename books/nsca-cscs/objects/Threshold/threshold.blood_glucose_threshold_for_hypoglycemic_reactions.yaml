@@ -1,0 +1,27 @@
+id: threshold.blood_glucose_threshold_for_hypoglycemic_reactions
+type: Threshold
+canonical_name: Blood Glucose Threshold for Hypoglycemic Reactions
+semantic_type: Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Substrate Depletion and Repletion
+  section: '3.3'
+  section_title: Substrate Depletion and Repletion
+  book_page: 205
+  pdf_page: 205
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: less than 2.5 mmol/L
+unit: mmol/L
+condition: exercise-induced

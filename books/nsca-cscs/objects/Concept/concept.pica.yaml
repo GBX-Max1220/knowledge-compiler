@@ -1,0 +1,29 @@
+id: concept.pica
+type: Concept
+canonical_name: Pica
+semantic_type: Condition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 655
+  pdf_page: 655
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'People with pica eat nonnutritive substances for a period of at least
+  one month. Common nonnutritive substances include clay, laundry starch, ice, cigarette
+  butts, hair, or chalk (68).
+
+  '
+attributes:
+- eating_nonnutritive_substances
+purpose: []
+related_concepts: []

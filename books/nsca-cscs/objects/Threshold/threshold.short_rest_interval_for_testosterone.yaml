@@ -1,0 +1,24 @@
+id: threshold.short_rest_interval_for_testosterone
+type: Threshold
+canonical_name: Short Rest Interval Threshold for Testosterone
+semantic_type: TrainingThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.4'
+  section_title: Muscle Tissue Recruitment
+  book_page: 272
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+threshold_value: 30-60 s
+unit: s
+context: Short rest intervals for increasing serum testosterone concentrations
+condition: rest intervals of 30-60 seconds

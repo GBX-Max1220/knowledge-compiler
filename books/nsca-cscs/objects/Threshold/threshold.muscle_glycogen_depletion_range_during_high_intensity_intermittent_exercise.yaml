@@ -1,0 +1,31 @@
+id: threshold.muscle_glycogen_depletion_range_during_high_intensity_intermittent_exercise
+type: Threshold
+canonical_name: Muscle Glycogen Depletion Range During High-Intensity Intermittent
+  Exercise
+semantic_type: Depletion
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Substrate Depletion and Repletion
+  section: '3.3'
+  section_title: Substrate Depletion and Repletion
+  book_page: 206
+  pdf_page: 206
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.glycogen_stores
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: 20%-60%
+unit: '%'
+condition: Very high-intensity, intermittent exercise, such as high-intensity resistance
+  training, with relatively few sets (low total volume)

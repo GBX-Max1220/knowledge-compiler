@@ -1,0 +1,81 @@
+id: warning.caffeine_adverse_effects
+type: Warning
+canonical_name: Caffeine Adverse Effects
+semantic_type: Adverse Effect
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 721
+  pdf_page: 721
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.anxiety
+- predicate: has_attribute
+  target: concept.gastrointestinal_disturbances
+- predicate: has_attribute
+  target: concept.restlessness
+- predicate: has_attribute
+  target: concept.insomnia
+- predicate: has_attribute
+  target: concept.tremors
+- predicate: has_attribute
+  target: concept.heart_arrhythmias
+- predicate: has_attribute
+  target: concept.physical_addiction
+- predicate: has_attribute
+  target: concept.withdrawal_symptoms
+- predicate: has_attribute
+  target: concept.headache
+- predicate: has_attribute
+  target: concept.fatigue
+- predicate: has_attribute
+  target: concept.dysphoric_mood
+- predicate: has_attribute
+  target: concept.difficulty_concentrating
+- predicate: has_attribute
+  target: concept.flu_like_somatic_symptoms
+- predicate: has_attribute
+  target: concept.caffeine_overdose
+- predicate: has_attribute
+  target: concept.lethal_dose
+definition: 'The side effects associated with caffeine include anxiety, gastrointestinal
+  disturbances, restlessness, insomnia, tremors, and heart arrhythmias. Caffeine is
+  also physically addicting, and discontinuation can result in some withdrawal symptoms,
+  such as headache, fatigue, dysphoric mood, difficulty concentrating, and flu-like
+  somatic symptoms (200). Caffeine intakes greater than 9 milligrams per kilogram
+  appear to result in a greater risk for side effects (99). Caffeine overdose is an
+  issue that can have potentially fatal consequences. A lethal dose of caffeine is
+  typically in excess of 5 grams, which equates to about 42 cups of coffee at 120
+  milligrams of caffeine per cup (128) or twenty-five 200-milligram tablets of caffeine.
+
+  '
+attributes:
+- anxiety
+- gastrointestinal_disturbances
+- restlessness
+- insomnia
+- tremors
+- heart_arrhythmias
+- physical_addiction
+- withdrawal_symptoms
+- headache
+- fatigue
+- dysphoric_mood
+- difficulty_concentrating
+- flu_like_somatic_symptoms
+- caffeine_overdose
+- lethal_dose
+purpose: []
+related_concepts:
+- threshold.caffeine_intake_side_effect_risk
+- threshold.lethal_dose_caffeine

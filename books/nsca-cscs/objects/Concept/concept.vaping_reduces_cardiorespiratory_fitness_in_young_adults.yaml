@@ -1,0 +1,28 @@
+id: concept.vaping_reduces_cardiorespiratory_fitness_in_young_adults
+type: Concept
+canonical_name: Vaping Reduces Cardiorespiratory Fitness in Young Adults
+semantic_type: null
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Factors Influencing Adaptations
+  section: '6.3'
+  section_title: Factors Influencing Adaptations
+  book_page: 376
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In young, healthy adults, regular vaping use significantly reduced cardiorespiratory
+  fitness, measured by V̇O2peak when compared to nonvapers of the same demographic
+  (142a).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

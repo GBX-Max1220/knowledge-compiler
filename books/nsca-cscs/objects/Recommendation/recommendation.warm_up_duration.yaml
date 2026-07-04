@@ -1,0 +1,28 @@
+id: recommendation.warm_up_duration
+type: Recommendation
+canonical_name: Warm-Up Duration Recommendation
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Performance Preparation, Mobility, and Flexibility
+  section: '15.1'
+  section_title: Performance Preparation, Mobility, and Flexibility
+  book_page: 859
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Typically, it should last between 10 and 20 minutes, depending
+  on the specific requirements of the context.
+
+  '
+context:
+- warm-up
+rationale: []
+supporting_evidence: []

@@ -1,0 +1,29 @@
+id: concept.permissive_action
+type: Concept
+canonical_name: Permissive Action
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System and Resistance Exercise
+  section: Functions of the Endocrine System in Resistance Exercise and Training
+  section_title: Functions of the Endocrine System in Resistance Exercise and Training
+  book_page: 235
+  pdf_page: 235
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Permissive actions (to allow). Hormones such as insulin and thyroid hormones
+  enable critical metabolic and physiological activities by enhancing nutrient uptake
+  and promoting essential chemical reactions in muscles, thereby supporting muscle
+  growth and overall metabolic functions.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

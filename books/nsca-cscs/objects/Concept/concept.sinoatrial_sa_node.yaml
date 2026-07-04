@@ -1,0 +1,45 @@
+id: concept.sinoatrial_sa_node
+type: Concept
+canonical_name: Sinoatrial (SA) Node
+semantic_type: Anatomical Structure
+aliases:
+- SA node
+- intrinsic pacemaker
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Cardiovascular System — Heart — Conduction System
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.conduction_system
+definition: 'The SA node is a small area of specialized muscle tissue located in the
+  upper lateral wall of the right atrium. The fibers of the node are contiguous with
+  the muscle fibers of the atrium, with the result that each electrical impulse that
+  begins in the SA node normally spreads immediately into the atria. The SA node normally
+  controls heart rhythmicity because its discharge rate is considerably greater (60-80
+  times per minute) than that of either the AV node (40-60 times per minute) or the
+  ventricular fibers (15-40 times per minute). Each time the SA node discharges, its
+  impulse is conducted into the AV node and the ventricular fibers, discharging their
+  excitable membranes.
+
+  '
+attributes:
+- small area of specialized muscle tissue
+- located in upper lateral wall of right atrium
+- fibers contiguous with muscle fibers of atrium
+- discharge rate: 60-80 times per minute
+purpose:
+- initiate rhythmic electrical impulses
+- control heart rhythmicity
+related_concepts:
+- concept.atrioventricular_av_node

@@ -1,0 +1,31 @@
+id: concept.figure_4_3
+type: Concept
+canonical_name: Figure 4.3
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.2'
+  section_title: Signaling Concepts
+  book_page: 245
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A simplified model of steroid hormone action. The figure illustrates
+  how steroid hormones like testosterone in skeletal muscle or dihydrotestosterone
+  in sex-linked tissues migrate into target cells. Although the pathways for both
+  hormones are represented, each targets only one specific cell type but they are
+  shown together for clarity. Each hormone pathway leads to different physiological
+  outcomes, emphasizing the selective nature of steroid–hormone interactions.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

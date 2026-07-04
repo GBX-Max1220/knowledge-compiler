@@ -1,0 +1,38 @@
+id: concept.bulimia_nervosa
+type: Concept
+canonical_name: Bulimia Nervosa
+semantic_type: Condition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 654
+  pdf_page: 654
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Bulimia nervosa is characterized by recurrent consumption of food in
+  amounts significantly greater than would customarily be consumed in a discrete period
+  of time—for example, an entire pizza and a half-gallon of ice cream, plus a package
+  of cookies. Purging follows episodes of binge eating and may include one or more
+  of the following: self-induced vomiting, intense exercise, laxative use, or diuretic
+  use. The bingeing and purging occur at least once a week for a period of three months
+  (55).
+
+  '
+attributes:
+- recurrent_consumption_of_food
+- purging
+- self_induced_vomiting
+- intense_exercise
+- laxative_use
+- diuretic_use
+purpose: []
+related_concepts: []

@@ -1,0 +1,33 @@
+id: recommendation.youth_resistance_training_load_progression
+type: Recommendation
+canonical_name: Youth Resistance Training Load Progression
+semantic_type: Training
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 416
+  pdf_page: 416
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Increase the resistance gradually (e.g., 5%-10%) as technique and strength
+  improve.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.youth
+recommendation_text: Increase the resistance gradually (e.g., 5%-10%) as technique
+  and strength improve.
+population: youth
+condition: as technique and strength improve
+action: increase the resistance gradually (e.g., 5%-10%)

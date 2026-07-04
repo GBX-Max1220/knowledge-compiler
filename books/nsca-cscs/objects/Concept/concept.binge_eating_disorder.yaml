@@ -1,0 +1,31 @@
+id: concept.binge_eating_disorder
+type: Concept
+canonical_name: Binge-Eating Disorder
+semantic_type: Condition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 653
+  pdf_page: 653
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Binge-eating disorder is characterized by repeated episodes, occurring
+  at least once a week for a period of three weeks, of uncontrolled binge eating (eating
+  significantly more food in a short period of time than most people would eat under
+  the same circumstances) (55).
+
+  '
+attributes:
+- repeated_episodes
+- uncontrolled_binge_eating
+purpose: []
+related_concepts: []

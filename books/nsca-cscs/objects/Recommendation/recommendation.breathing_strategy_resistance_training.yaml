@@ -1,0 +1,32 @@
+id: recommendation.breathing_strategy_resistance_training
+type: Recommendation
+canonical_name: Breathing Strategy for Most Resistance Training Exercises
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16'
+  section_title: Breathing Considerations
+  book_page: 953
+  pdf_page: 953
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Strength and conditioning professionals should typically instruct
+  athletes to exhale through the sticking point and to inhale during the less stressful
+  phase of the repetition.
+
+  '
+target_audience:
+- strength and conditioning professionals
+action:
+- instruct athletes to exhale through the sticking point
+- instruct athletes to inhale during the less stressful phase of the repetition
+context:
+- most resistance training exercises
+rationale: []

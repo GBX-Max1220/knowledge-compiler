@@ -1,0 +1,30 @@
+id: concept.microdosing
+type: Concept
+canonical_name: Microdosing
+semantic_type: Strategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.4'
+  section_title: 'Step 3: Training Frequency — Sport Season'
+  book_page: 1214
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When time is constrained, the subdivision of weekly training volume across
+  multiple short-duration bouts, termed microdosing, has been suggested as a potentially
+  useful strategy, which may mitigate the fatigue associated with longer duration,
+  higher volume training sessions (34, 35).
+
+  '
+attributes: []
+purpose:
+- mitigate fatigue associated with longer duration, higher volume training sessions
+related_concepts: []

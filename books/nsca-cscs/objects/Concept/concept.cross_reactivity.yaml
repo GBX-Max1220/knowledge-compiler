@@ -1,0 +1,29 @@
+id: concept.cross_reactivity
+type: Concept
+canonical_name: Cross-Reactivity
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System and Resistance Exercise
+  section: Role of Receptors in Mediating Hormonal Changes
+  section_title: Role of Receptors in Mediating Hormonal Changes
+  book_page: 240
+  pdf_page: 240
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For example, cross-reactivity allows receptors to engage with hormones
+  other than their primary matches, and allosteric binding can modify how a receptor
+  responds to its primary hormone (such as blocking binding to the receptor and thus
+  signaling).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,521 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.oxygen_uptake
+type: Concept
+canonical_name: Oxygen Uptake
+semantic_type: PhysiologicalMeasurement
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 211
+  pdf_page: 211
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Oxygen uptake (or consumption) is a measure of a person’s ability to take in oxygen via the respiratory system and deliver it to the working tissues via the cardiovascular system, and the ability of working tissues (predominantly skeletal muscle) to use oxygen.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.oxygen_deficit
+type: Concept
+canonical_name: Oxygen Deficit
+semantic_type: PhysiologicalPhenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 211
+  pdf_page: 211
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This anaerobic contribution to the total energy cost of exercise is termed the oxygen deficit (figure 3.9) (85, 109).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.excess_postexercise_oxygen_consumption
+type: Concept
+canonical_name: Excess Postexercise Oxygen Consumption
+semantic_type: PhysiologicalPhenomenon
+aliases:
+  - oxygen debt
+  - recovery O2
+  - EPOC
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 211
+  pdf_page: 211
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Postexercise oxygen uptake has been termed the oxygen debt (85, 109), recovery O2 (109), or the excess postexercise oxygen consumption (EPOC) (22). The EPOC is the oxygen uptake above resting values used to restore homeostasis to the pre-exercise condition (141).
+attributes: []
+purpose:
+  - restore homeostasis to the pre-exercise condition
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.excess_postexercise_oxygen_consumption_sidebar
+type: Concept
+canonical_name: Excess Postexercise Oxygen Consumption
+semantic_type: PhysiologicalPhenomenon
+aliases:
+  - EPOC
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 212
+  pdf_page: 212
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Excess postexercise oxygen consumption (EPOC) refers to the prolonged increase in V̇O2 that may be observed for hours after exercise (58).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maximal_anaerobic_capacity
+type: Concept
+canonical_name: Maximal Anaerobic Capacity
+semantic_type: PhysiologicalCapacity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 214
+  pdf_page: 214
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The contribution of anaerobic mechanisms to this type of exercise represents the maximal anaerobic capacity (111, 151).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.interval_training
+type: Concept
+canonical_name: Interval Training
+semantic_type: TrainingMethod
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 216
+  pdf_page: 216
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Interval training is a method that emphasizes bioenergetic adaptations for a more efficient energy transfer within the metabolic pathways by using predetermined intervals of exercise and rest periods (i.e., work-to-rest ratios).
+attributes: []
+purpose:
+  - emphasize bioenergetic adaptations for a more efficient energy transfer within the metabolic pathways
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.high_intensity_interval_training
+type: Concept
+canonical_name: High-Intensity Interval Training
+semantic_type: TrainingMethod
+aliases:
+  - HIIT
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 218
+  pdf_page: 218
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  High-intensity interval training (HIIT) involves brief repeated bouts of high-intensity exercise with intermittent recovery periods.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.duty_cycle
+type: Concept
+canonical_name: Duty Cycle
+semantic_type: TrainingConcept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 218
+  pdf_page: 218
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  High-intensity interval training is often discussed in terms of duty cycles involving a high-intensity work phase followed by a lower-intensity recovery phase.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.metabolic_specificity_of_training
+type: Recommendation
+canonical_name: Metabolic Specificity of Training — Energy System Selection
+semantic_type: TrainingPrinciple
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 215
+  pdf_page: 215
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  The use of appropriate exercise intensities and rest intervals (i.e., work-to-rest ratios) allows for the "selection" of specific primary energy systems during training and, because this is more reflective of the actual metabolic demands of the sport, results in more efficient and productive regimens for specific athletic events with various metabolic demands.
+rationale: []
+application_context: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.interval_training_work_to_rest_ratio_guidelines
+type: Recommendation
+canonical_name: Interval Training — Work-to-Rest Ratio Guidelines
+semantic_type: TrainingGuideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 217
+  pdf_page: 217
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Table 3.6 provides some general guidelines for work-to-rest ratios that are designed to emphasize the development of specific energy systems based on the theoretical time course for metabolic system involvement and substrate recovery.
+rationale: []
+application_context: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.anaerobic_aerobic_contributions_0_5s
+type: TableRow
+canonical_name: Anaerobic and Aerobic Contributions at 0-5 Seconds
+semantic_type: DataRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 214
+  pdf_page: 214
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_reference: "Table 3.5"
+row_data:
+  duration: "0-5 s"
+  exercise_intensity_percent_max_power: "100"
+  contribution_anaerobic_percent: "96"
+  contribution_aerobic_percent: "4"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.anaerobic_aerobic_contributions_30s
+type: TableRow
+canonical_name: Anaerobic and Aerobic Contributions at 30 Seconds
+semantic_type: DataRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 214
+  pdf_page: 214
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_reference: "Table 3.5"
+row_data:
+  duration: "30 s"
+  exercise_intensity_percent_max_power: "55"
+  contribution_anaerobic_percent: "75"
+  contribution_aerobic_percent: "25"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.anaerobic_aerobic_contributions_60s
+type: TableRow
+canonical_name: Anaerobic and Aerobic Contributions at 60 Seconds
+semantic_type: DataRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 214
+  pdf_page: 214
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_reference: "Table 3.5"
+row_data:
+  duration: "60 s"
+  exercise_intensity_percent_max_power: "35"
+  contribution_anaerobic_percent: "50"
+  contribution_aerobic_percent: "50"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.anaerobic_aerobic_contributions_90s
+type: TableRow
+canonical_name: Anaerobic and Aerobic Contributions at 90 Seconds
+semantic_type: DataRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 214
+  pdf_page: 214
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_reference: "Table 3.5"
+row_data:
+  duration: "90 s"
+  exercise_intensity_percent_max_power: "31"
+  contribution_anaerobic_percent: "35"
+  contribution_aerobic_percent: "65"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.anaerobic_aerobic_contributions_150s
+type: TableRow
+canonical_name: Anaerobic and Aerobic Contributions at 150 Seconds
+semantic_type: DataRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 214
+  pdf_page: 214
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_reference: "Table 3.5"
+row_data:
+  duration: "150 s"
+  exercise_intensity_percent_max_power: "Not available"
+  contribution_anaerobic_percent: "30"
+  contribution_aerobic_percent: "70"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.anaerobic_aerobic_contributions_200s
+type: TableRow
+canonical_name: Anaerobic and Aerobic Contributions at 200 Seconds
+semantic_type: DataRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 214
+  pdf_page: 214
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_reference: "Table 3.5"
+row_data:
+  duration: "200 s"
+  exercise_intensity_percent_max_power: "Not available"
+  contribution_anaerobic_percent: "22"
+  contribution_aerobic_percent: "78"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.interval_training_phosphagen
+type: TableRow
+canonical_name: Interval Training for Phosphagen System
+semantic_type: TrainingGuidelineRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 218
+  pdf_page: 218
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_reference: "Table 3.6"
+row_data:
+  percent_max_power: "90-100"
+  primary_system_stressed: "Phosphagen"
+  typical_exercise_time: "5-10 s"
+  range_work_to_rest_ratios: "1:12 to 1:20"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.interval_training_fast_glycolysis
+type: TableRow
+canonical_name: Interval Training for Fast Glycolysis
+semantic_type: TrainingGuidelineRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetic Limiting Factors"
+  section: "3.4"
+  section_title: "Bioenergetic Limiting Factors"
+  book_page: 218
+  pdf_page: 218
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_reference: "Table 3.6"
+row_data:
+  percent_max_power: "75-90"
+  primary_system_stressed: "Fast glycolysis"
+  typical_exercise_time: "15-30 s"
+  range_work_to_rest_ratios: "1:3 to 1:5"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.interval_training_fast_glycolysis_oxidative
+type: TableRow

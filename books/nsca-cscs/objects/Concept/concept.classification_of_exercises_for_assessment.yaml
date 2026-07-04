@@ -1,0 +1,55 @@
+id: concept.classification_of_exercises_for_assessment
+type: Concept
+canonical_name: Classification of Exercises for Assessment
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing and Prescription
+  section: '13.3'
+  section_title: Evaluation of Test Quality
+  book_page: 743
+  pdf_page: 743
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The categorization of exercises facilitates the creation of a comprehensive
+  testing battery that accurately evaluates an athlete’s capabilities across various
+  movement patterns and muscle groups. Understanding the classification system assists
+  strength and conditioning professionals in designing targeted training programs
+  tailored to individual needs and goals. The classification of exercises for assessment
+  typically encompasses several key dimensions of specificity: Movement patterns.
+  Exercises can be classified based on the primary movement patterns they involve,
+  such as pushing, pulling, squatting, hinging, rotating, and stabilizing (7, 8).
+  Each movement pattern places specific demands on the musculoskeletal system and
+  requires distinct biomechanical considerations. By including tests that cover a
+  spectrum of movement patterns, practitioners can obtain a complete understanding
+  of an athlete’s functional capabilities. Muscle groups targeted. Another crucial
+  dimension for classification is the muscle groups targeted during an exercise. This
+  classification helps identify potential muscle imbalances or weaknesses that may
+  predispose athletes to injury or limit their performance. Primary energy system.
+  Exercises can also be categorized based on the primary energy system they predominantly
+  engage, such as the phosphagen system, glycolytic system, or oxidative system. Different
+  energy systems contribute to various aspects of athletic performance, including
+  power, strength, and endurance. Assessing performance across these energy systems
+  provides valuable insights into an athlete’s metabolic capacity and helps tailor
+  conditioning strategies accordingly. Skill level and complexity. Exercise classification
+  should also consider the skill level and complexity involved in performing a particular
+  movement. Basic compound movements like squats, deadlifts, and presses may serve
+  as foundational tests for assessing general strength and movement proficiency. Conversely,
+  more advanced or sport-specific movements require greater neuromuscular coordination
+  and may be included to evaluate athletic prowess in specific contexts.
+
+  '
+attributes:
+- movement_patterns
+- muscle_groups_targeted
+- primary_energy_system
+- skill_level_and_complexity
+purpose: []
+related_concepts: []

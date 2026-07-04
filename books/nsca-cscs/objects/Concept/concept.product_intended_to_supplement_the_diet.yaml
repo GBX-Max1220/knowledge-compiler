@@ -1,0 +1,34 @@
+id: concept.product_intended_to_supplement_the_diet
+type: Concept
+canonical_name: Product Intended to Supplement the Diet
+semantic_type: Definition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Types of Performance-Enhancing Substances
+  book_page: 663
+  pdf_page: 663
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.dietary_supplement_definition
+definition: 'A product (other than tobacco) intended to supplement the diet that contains
+  one or more of the following dietary ingredients: A vitamin; A mineral; An herb
+  or other botanical; An amino acid; A dietary substance for use by humans to supplement
+  the diet by increasing the total dietary intake; A concentrate, metabolite, constituent,
+  extract, or combination of any ingredient listed above.
+
+  '
+attributes:
+- intended_to_supplement_the_diet
+- contains_dietary_ingredients
+purpose: []
+related_concepts: []

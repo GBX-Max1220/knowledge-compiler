@@ -1,0 +1,29 @@
+id: threshold.leucine_content_muscle_protein_synthesis
+type: Threshold
+canonical_name: Leucine Content for Stimulating Muscle Protein Synthesis
+semantic_type: NutritionalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 635
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A protein dose that contains 2 to 3 grams of leucine or 0.05 grams of
+  leucine per kilogram body weight will effectively stimulate muscle protein synthesis
+  in younger adults (96, 102, 136).
+
+  '
+attributes: []
+purpose:
+- effectively stimulate muscle protein synthesis in younger adults
+related_concepts: []

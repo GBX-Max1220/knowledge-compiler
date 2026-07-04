@@ -1,0 +1,28 @@
+id: table_row.muscle_fibers_myofibrillar_packing_density
+type: TableRow
+canonical_name: Muscle Fibers Myofibrillar Packing Density
+semantic_type: Table Row
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Chronic Adaptations to Aerobic Exercise
+  section: '6.1'
+  section_title: Chronic Adaptations to Aerobic Exercise
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ''
+attributes:
+- variable: Myofibrillar packing density
+- adaptation: No change
+purpose: []
+related_concepts: []

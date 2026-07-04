@@ -1,0 +1,29 @@
+id: concept.force
+type: Concept
+canonical_name: Force
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Force represents the interaction of two physical objects. Force is a
+  vector quantity, meaning that it has both magnitude (size) and direction. Traditionally,
+  force is described as a push or a pull exerted on one object by another, which prevents
+  both objects from occupying the same space.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

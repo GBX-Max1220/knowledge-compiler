@@ -1,0 +1,32 @@
+id: recommendation.tire_flipping_injury_mitigation
+type: Recommendation
+canonical_name: Tire Flipping — Injury Mitigation
+semantic_type: Safety Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1122
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'To mitigate this injury risk, it is generally recommended that
+  the tires used should be dry and have sufficient tread to allow the athlete to maintain
+  grip and properly execute the exercise (21). Additionally, it is important that
+  the tire is selected based on the individual athlete''s strength levels and that
+  the movement is performed with appropriate exercise technique so that injury risk
+  is minimized.
+
+  '
+conditions:
+- athlete is performing tire flip exercise
+citations:
+- '21'

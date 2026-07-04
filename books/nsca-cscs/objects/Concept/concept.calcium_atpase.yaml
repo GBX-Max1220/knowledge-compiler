@@ -1,0 +1,32 @@
+id: concept.calcium_atpase
+type: Concept
+canonical_name: Calcium ATPase
+semantic_type: Enzyme
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Essential Terminology
+  section_title: Essential Terminology
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.adenosine_triphosphatase
+definition: 'Other specific enzymes hydrolyze ATP at other locations, such as calcium
+  ATPase for pumping calcium into the sarcoplasmic reticulum (following muscle contraction)
+  and sodium-potassium ATPase for maintaining the sarcolemmal concentration gradient
+  after depolarization (59).
+
+  '
+attributes: []
+purpose:
+- pumping calcium into the sarcoplasmic reticulum
+related_concepts: []

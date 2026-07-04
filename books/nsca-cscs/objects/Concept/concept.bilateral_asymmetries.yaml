@@ -1,0 +1,32 @@
+id: concept.bilateral_asymmetries
+type: Concept
+canonical_name: Bilateral Asymmetries
+semantic_type: Physiological Phenomenon
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1134
+  pdf_page: 1134
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'These types of exercises are integrated into training programs with varying
+  degrees of emphasis (86) in an attempt to reduce bilateral asymmetries (75) or as
+  a rehabilitation tool (37).
+
+  '
+attributes: []
+purpose:
+- reduce bilateral asymmetries
+- rehabilitation
+related_concepts: []

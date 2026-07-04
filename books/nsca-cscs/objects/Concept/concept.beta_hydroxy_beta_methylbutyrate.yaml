@@ -1,0 +1,28 @@
+id: concept.beta_hydroxy_beta_methylbutyrate
+type: Concept
+canonical_name: Beta-Hydroxy-Beta-Methylbutyrate
+semantic_type: Substance
+aliases:
+- HMB
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 703
+  pdf_page: 703
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'β-Hydroxy-β-methylbutyrate (HMB) is a derivative of the EAA leucine and
+  its metabolite α-ketoisocaproic acid.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

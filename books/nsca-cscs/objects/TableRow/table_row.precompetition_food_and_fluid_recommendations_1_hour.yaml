@@ -1,0 +1,29 @@
+id: table_row.precompetition_food_and_fluid_recommendations_1_hour
+type: TableRow
+canonical_name: Precompetition Food and Fluid Recommendations 1 Hour
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Aerobic Endurance Sports
+  section_title: Aerobic Endurance Sports
+  book_page: 618
+  pdf_page: 618
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_id: Table 11.1
+row_data:
+  time_before_competition: 1 h
+  food_recommendations: 0.5 g carbohydrate per kilogram body weight
+  fluid_recommendations: ''
+  sample_precompetition_meals_for_a_68_kg_150_lb_athlete: 1 small banana
+  sample_meals_based_on_food_and_fluid_recommendations: 8 fl oz (237 mL) sport drink
+  carbohydrate_content: 34 g carbohydrate
+  fluid_content: 8 fl oz (237 mL) fluid

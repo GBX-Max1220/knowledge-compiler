@@ -1,0 +1,30 @@
+id: concept.machine_learning
+type: Concept
+canonical_name: Machine Learning
+semantic_type: Technology
+aliases:
+- ML
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Athletic Performance
+  section: '14.1'
+  section_title: Measuring Parameters of Athletic Performance
+  book_page: 774
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.artificial_intelligence
+definition: 'Within AI, machine learning (ML) is the ability of computer machines
+  to learn from and develop data without human input or interaction.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

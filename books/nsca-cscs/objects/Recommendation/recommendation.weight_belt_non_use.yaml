@@ -1,0 +1,31 @@
+id: recommendation.weight_belt_non_use
+type: Recommendation
+canonical_name: Weight Belt Non-Use Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16'
+  section_title: Weight Belts
+  book_page: 954
+  pdf_page: 954
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'No weight belt is needed for exercises that do not stress the
+  lower back (e.g., biceps curl or lat pulldown) or for exercises that do stress the
+  lower back (e.g., back squat or deadlift) but involve the use of light loads.
+
+  '
+target_audience: []
+action:
+- do not wear a weight belt
+context:
+- exercises that do not stress the lower back
+- exercises that stress the lower back but involve light loads
+rationale: []

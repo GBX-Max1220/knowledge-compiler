@@ -1,0 +1,30 @@
+id: concept.catastrophe_theory
+type: Concept
+canonical_name: Catastrophe Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Psychological Foundations of Performance
+  section: '9'
+  section_title: Psychological Foundations of Performance
+  book_page: 480
+  pdf_page: 480
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In this model, the catastrophe theory, somatic arousal has a curvilinear,
+  inverted-U relationship to athletic performance, whereas cognitive anxiety shows
+  a steady negative relationship to performance.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.somatic_anxiety
+- concept.cognitive_anxiety

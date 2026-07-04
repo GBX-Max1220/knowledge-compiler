@@ -1,0 +1,28 @@
+id: concept.tendon_stiffness
+type: Concept
+canonical_name: Tendon Stiffness
+semantic_type: Mechanical Property
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 319
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Past studies indicate that tendon stiffness (force transmission per unit
+  of strain, or tendon elongation) increases as a result of resistance training (101,
+  123).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

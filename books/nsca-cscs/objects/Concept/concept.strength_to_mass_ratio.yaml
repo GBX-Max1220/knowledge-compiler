@@ -1,0 +1,29 @@
+id: concept.strength_to_mass_ratio
+type: Concept
+canonical_name: Strength-to-Mass Ratio
+semantic_type: Physiological Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: ''
+  section: '2.4'
+  section_title: Sources of Resistance to Muscle Contraction
+  book_page: 145
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In sport activities such as sprinting and jumping, the ratio of the strength
+  of the muscles involved in the movement to the mass of the body parts being accelerated
+  is critical. Thus, the strength-to-mass ratio directly reflects an athlete''s ability
+  to accelerate his or her body.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

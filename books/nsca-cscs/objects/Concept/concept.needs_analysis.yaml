@@ -1,0 +1,30 @@
+id: concept.needs_analysis
+type: Concept
+canonical_name: Needs Analysis
+semantic_type: Process
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1729
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.predesign_phase
+definition: 'The needs analysis is the step when the designers and experts collaborate
+  to determine the needs of the strength and conditioning program (10).
+
+  '
+attributes: []
+purpose:
+- determine the needs of the strength and conditioning program
+related_concepts: []

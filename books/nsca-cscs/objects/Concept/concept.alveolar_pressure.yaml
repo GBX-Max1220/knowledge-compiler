@@ -1,0 +1,38 @@
+id: concept.alveolar_pressure
+type: Concept
+canonical_name: Alveolar Pressure
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Exchange of Air
+  section_title: Exchange of Air
+  book_page: 80
+  pdf_page: 80
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.exchange_of_air
+definition: 'Alveolar pressure is the pressure inside the alveoli when the glottis
+  is open, and no air is flowing into or out of the lungs. In fact, in this instance
+  the pressure in all parts of the respiratory tree is the same all the way to the
+  alveoli and is equal to the atmospheric pressure. To cause inward flow of air during
+  inspiration, the pressure in the alveoli must fall to a value slightly below atmospheric
+  pressure. During expiration, alveolar pressure must rise above atmospheric pressure
+  (41).
+
+  '
+attributes:
+- equal_to_atmospheric_pressure_at_rest
+related_concepts:
+- concept.alveoli
+- concept.inspiration
+- concept.expiration
+- concept.atmospheric_pressure

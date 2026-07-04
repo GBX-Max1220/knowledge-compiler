@@ -1,0 +1,26 @@
+id: recommendation.saturated_fat_limitation
+type: Recommendation
+canonical_name: Saturated Fat Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Ideally, saturated fat should be limited in the diet and the
+  focus should be on unsaturated fats such as liquid oils used in cooking.
+
+  '
+target_population: ''
+rationale: ''
+exceptions: ''

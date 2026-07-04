@@ -1,0 +1,28 @@
+id: concept.progesterone
+type: Concept
+canonical_name: Progesterone
+semantic_type: Hormone
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.1'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 456
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Progesterone rises and peaks during the second half of the cycle, and
+  there is a second but lesser peak of estradiol.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.estradiol

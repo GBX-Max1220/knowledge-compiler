@@ -1,0 +1,30 @@
+id: concept.rate_pressure_product
+type: Concept
+canonical_name: Rate-Pressure Product
+semantic_type: PhysiologicalMeasure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 324
+  pdf_page: 324
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'rate–pressure product (heart rate × systolic blood pressure; a measure
+  of myocardial work)
+
+  '
+attributes:
+- heart_rate
+- systolic_blood_pressure
+purpose:
+- measure myocardial work
+related_concepts: []

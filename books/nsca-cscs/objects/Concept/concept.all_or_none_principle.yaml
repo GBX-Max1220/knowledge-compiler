@@ -4,26 +4,26 @@ canonical_name: All-or-None Principle
 semantic_type: Principle
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
   chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.02'
-  section_title: Neuromuscular System
-  book_page: 57
-  pdf_page: 57
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Activation of Muscles
+  section_title: Activation of Muscles
+  book_page: 56
+  pdf_page: 56
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The activation of any given motor neuron will lead to the activation
-  and contraction of all of the muscle fibers it innervates.
+definition: 'Hence, the all-or-none principle has been generally used to describe
+  this phenomenon; specifically, the activation of any given motor neuron will lead
+  to the activation and contraction of all of the muscle fibers it innervates.
 
   '
 attributes: []
 purpose: []
 related_concepts:
 - concept.motor_unit
-- concept.motor_neuron

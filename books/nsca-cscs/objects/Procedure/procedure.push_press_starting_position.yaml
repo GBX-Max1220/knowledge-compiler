@@ -1,0 +1,41 @@
+id: procedure.push_press_starting_position
+type: Procedure
+canonical_name: Push Press — Starting Position
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '16.4'
+  section_title: Spotting Techniques
+  book_page: 1061
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Grasp the bar with a closed, pronated grip. Grip should be slightly wider
+  than shoulder-width (clean grip). Step under the bar and position the feet hip-width
+  apart and parallel to each other. Move up to the bar to place it on top of the anterior
+  deltoids and clavicles. Extend the hips and knees to lift the bar off the supports.
+  Step back away from the supports and stand in the middle of the lifting platform.
+  Position the feet hip- to shoulder-width apart and even with each other, with the
+  toes pointed slightly outward. All repetitions begin from this position.
+
+  '
+attributes:
+- closed pronated grip
+- grip slightly wider than shoulder-width (clean grip)
+- feet hip-width apart and parallel
+- bar on top of anterior deltoids and clavicles
+- hips and knees extended to lift bar
+- stand in middle of lifting platform
+- feet hip- to shoulder-width apart
+- feet even with each other
+- toes pointed slightly outward
+purpose: []
+related_concepts: []

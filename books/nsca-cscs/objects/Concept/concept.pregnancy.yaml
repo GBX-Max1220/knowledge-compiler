@@ -1,0 +1,27 @@
+id: concept.pregnancy
+type: Concept
+canonical_name: Pregnancy
+semantic_type: PhysiologicalState
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.1'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 441
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Pregnancy occurs only when pubertal sexual development is complete and
+  prior to menopause (average age between 12-51 years).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

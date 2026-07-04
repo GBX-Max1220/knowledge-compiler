@@ -1,0 +1,27 @@
+id: evidence.greater_mitochondrial_respiration_females
+type: Evidence
+canonical_name: Greater Mitochondrial Respiration in Females
+semantic_type: Comparative
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.2'
+  section_title: Training Responses and Adaptations
+  book_page: 453
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Cardinale (2018), who determined that females have close to 33% greater
+  mitochondrial respiration than males.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

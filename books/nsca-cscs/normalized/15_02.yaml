@@ -1,0 +1,522 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.flexibility
+type: Concept
+canonical_name: Flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 873
+  pdf_page: 873
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.static_flexibility
+  - predicate: has_attribute
+    target: concept.dynamic_flexibility
+definition: >
+  Flexibility is defined as the range of motion (ROM) that occurs about a joint. Flexibility can be expressed statically and dynamically.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.static_flexibility
+type: Concept
+canonical_name: Static flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 873
+  pdf_page: 873
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.flexibility
+definition: >
+  Static flexibility refers to the range of possible movement about a joint (28) and its surrounding muscles during a passive movement (40). Static flexibility requires no voluntary muscular activity; an external force such as gravity, a partner, or a machine provides the force for a stretch.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dynamic_flexibility
+type: Concept
+canonical_name: Dynamic flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 873
+  pdf_page: 873
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.flexibility
+definition: >
+  Dynamic flexibility, on the other hand, refers to the available ROM during active movements and therefore requires voluntary muscular actions.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mobility
+type: Concept
+canonical_name: Mobility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 873
+  pdf_page: 873
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Effective mobility requires the integration of aspects such as balance coordination, postural control coordination, and perception (19). In this way, mobility automatically frames flexibility as a dynamic quality, with the athlete required to demonstrate control, coordination, and force through any demonstrated ROM, essentially being analogous to dynamic flexibility.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.elasticity
+type: Concept
+canonical_name: Elasticity
+semantic_type: Physical_Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 876
+  pdf_page: 876
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Elasticity refers to the ability to return to original resting length after a passive stretch, while plasticity refers to the tendency to assume a new and greater length after a passive stretch.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.plasticity
+type: Concept
+canonical_name: Plasticity
+semantic_type: Physical_Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 876
+  pdf_page: 876
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Elasticity refers to the ability to return to original resting length after a passive stretch, while plasticity refers to the tendency to assume a new and greater length after a passive stretch.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stretch_tolerance
+type: Concept
+canonical_name: Stretch tolerance
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 876
+  pdf_page: 876
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An important factor in determining an athlete's flexibility is stretch tolerance, or the ability to tolerate the discomfort of stretching (84).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.static_stretching
+type: Concept
+canonical_name: Static stretching
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 879
+  pdf_page: 879
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A static stretch involves a slow and constant movement toward the end position, which is then held for 10 to 30 seconds (66).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dynamic_stretching
+type: Concept
+canonical_name: Dynamic stretching
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 880
+  pdf_page: 880
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Dynamic stretching is a broad term used to describe actions that involve active motions where a performer moves actively in a controlled and moderate paced manner through a typically large ROM (66).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ballistic_stretch
+type: Concept
+canonical_name: Ballistic stretch
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 881
+  pdf_page: 881
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.dynamic_stretching
+definition: >
+  A ballistic stretch can be considered a special type of dynamic stretch. Ballistic stretches similarly involve active muscular efforts, but rather than performing these under control, they instead use intense bouncing-type movements to achieve the required ROM (66).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.proprioceptive_neuromuscular_facilitation
+type: Concept
+canonical_name: Proprioceptive neuromuscular facilitation
+semantic_type: Activity
+aliases:
+  - PNF
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 882
+  pdf_page: 882
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.hold_relax
+  - predicate: has_attribute
+    target: concept.contract_relax
+  - predicate: has_attribute
+    target: concept.hold_relax_with_agonist_contraction
+definition: >
+  Proprioceptive neuromuscular facilitation (PNF) is the most common precontraction stretching methodology. PNF was originally developed in the late 1940s as part of a neuromuscular rehabilitation program designed to relax muscles with increased tone or activity (1, 81).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.autogenic_inhibition
+type: Concept
+canonical_name: Autogenic inhibition
+semantic_type: Physiological_Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 883
+  pdf_page: 883
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Relaxation that occurs in the same muscle that is experiencing increased tension is called autogenic inhibition (18, 22).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.reciprocal_inhibition
+type: Concept
+canonical_name: Reciprocal inhibition
+semantic_type: Physiological_Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 883
+  pdf_page: 883
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Relaxation that occurs in the muscle opposing the muscle experiencing the increased tension is called reciprocal inhibition (18).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hold_relax
+type: Concept
+canonical_name: Hold-relax
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 885
+  pdf_page: 885
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.proprioceptive_neuromuscular_facilitation
+definition: >
+  The hold-relax technique begins with a passive prestretch that is held at the point of mild discomfort for 10 seconds (figure 15.3). The partner then applies a hip flexion force and instructs the athlete, "Hold and do not let me move the leg." The athlete holds and resists the movement so that an isometric muscle action occurs and is held for 6 seconds (figure 15.4). The athlete then relaxes, and a passive stretch is performed and held for 30 seconds (figure 15.5). The final stretch should be of greater magnitude due to autogenic inhibition (i.e., activation of the hamstrings).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.contract_relax
+type: Concept
+canonical_name: Contract-relax
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 887
+  pdf_page: 887
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.proprioceptive_neuromuscular_facilitation
+definition: >
+  The contract-relax technique also begins with a passive prestretch of the hamstrings that is held at the point of mild discomfort for 10 seconds (figure 15.6). The athlete then extends the hip against resistance from the partner so that a concentric muscle action through the full ROM occurs (figure 15.7). The athlete then relaxes, and a passive hip flexion stretch is applied and held for 30 seconds (figure 15.8) while the athlete concentrically contracts the agonist. The increased ROM is facilitated due to autogenic inhibition (i.e., activation of the hamstrings).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hold_relax_with_agonist_contraction
+type: Concept
+canonical_name: Hold-relax with agonist contraction
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 887
+  pdf_page: 887
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.proprioceptive_neuromuscular_facilitation
+definition: >
+  The hold-relax with agonist contraction technique is identical to hold-relax in the first two phases (figures 15.9 and 15.10). During the third phase, a partner applies force to the antagonist muscle groups while the athlete is required to maintain the position through a concentric action of the agonist, thus adding to the stretch force (figure 15.11). Following the isometric hold, the athlete flexes the hip, thereby moving further into the new ROM. With this technique, the final stretch should be greater, primarily because of reciprocal inhibition (i.e., activation of the hip flexors) (63) and secondarily because of autogenic inhibition (i.e., activation of the hamstrings) (63).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.optimizing_flexibility_for_performance
+type: Recommendation
+canonical_name: Optimizing flexibility for performance
+semantic_type: Training_Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 874
+  pdf_page: 874
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Given the lack of a direct link between flexibility and movement capability, optimizing flexibility in relation to the specific activity rather than simply maximizing flexibility should be the focus of training (68).
+context: []
+rationale: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.consideration_of_kinetic_and_kinematic_patterns
+type: Recommendation
+canonical_name: Consideration of kinetic and kinematic patterns
+semantic_type: Training_Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Mobility Training"
+  section: "15.2"
+  section_title: "Mobility Training"
+  book_page: 874
+  pdf_page: 874
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  As well as a consideration of the ROM itself, it is also important

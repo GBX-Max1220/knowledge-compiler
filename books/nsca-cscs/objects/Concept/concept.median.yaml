@@ -1,0 +1,10 @@
+id: concept.median
+type: Concept
+canonical_name: Median
+semantic_type: Statistical Measure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing

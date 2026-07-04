@@ -1,0 +1,28 @@
+id: concept.fluid_resistance
+type: Concept
+canonical_name: Fluid Resistance
+semantic_type: PhysicalPhenomenon
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 157
+  pdf_page: 157
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The resistive force encountered by an object moving through a fluid (liquid
+  or gas), or by a fluid moving past or around an object or through an opening, is
+  called fluid resistance.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

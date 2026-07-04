@@ -1,0 +1,35 @@
+id: recommendation.precompetition_meal_timing
+type: Recommendation
+canonical_name: Precompetition meal carbohydrate and protein
+semantic_type: Nutrition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Athletic Performance
+  section: '11.3'
+  section_title: Postcompetition Nutrition
+  book_page: 637
+  pdf_page: 637
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Athletes who eat at least 4 hours before competition should include approximately
+  1 to 4 grams of carbohydrate per kilogram body weight and 0.15 to 0.25 grams of
+  protein per kilogram body weight. If the precompetition meal is consumed 2 hours
+  before exercise, athletes should aim for approximately 1 gram of carbohydrate per
+  kilogram body weight and 0.15 to 0.25 grams of easily digestible protein per kilogram
+  body weight.
+
+  '
+attributes:
+- carbohydrate
+- protein
+- precompetition_meal
+purpose:
+- fuel for competition
+related_concepts: []

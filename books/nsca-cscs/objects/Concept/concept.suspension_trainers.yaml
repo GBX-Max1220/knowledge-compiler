@@ -1,0 +1,38 @@
+id: concept.suspension_trainers
+type: Concept
+canonical_name: Suspension Trainers
+semantic_type: Equipment
+aliases:
+- TRX
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1092
+  pdf_page: 1092
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.suspension_training
+definition: 'Performing this type of training uses devices, referred to as suspension
+  trainers (e.g., TRX®), that are typically constructed with sturdy and adjustable
+  straps that have handles or foot straps attached to one end.
+
+  '
+attributes:
+- sturdy_straps
+- adjustable_straps
+- handles
+- foot_straps
+purpose: []
+related_concepts:
+- concept.suspension_training

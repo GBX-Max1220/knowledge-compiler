@@ -1,0 +1,28 @@
+id: concept.rate_of_force_development
+type: Concept
+canonical_name: Rate of force development
+semantic_type: Property
+aliases:
+- RFD
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The development of maximal force in minimal time, typically used as an
+  indicator of explosive strength (3).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

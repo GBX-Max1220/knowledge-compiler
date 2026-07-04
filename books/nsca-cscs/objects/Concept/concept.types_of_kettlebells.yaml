@@ -1,0 +1,43 @@
+id: concept.types_of_kettlebells
+type: Concept
+canonical_name: Types of Kettlebells
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1129
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.cast_iron_kettlebell
+- predicate: has_attribute
+  target: concept.sport_kettlebell
+definition: 'When working with kettlebells, one must consider the type of kettlebell,
+  of which there are two: the cast iron (figure 17.9) and the sport kettlebell (figure
+  17.10) (28). The cast iron, or fitness, kettlebells are cast from iron and range
+  in size depending on their weight. The sport or competition kettlebells are made
+  from steel and have universal design and measurements. Specifically, the size of
+  the kettlebell does not change regardless of the weight, and the various weights
+  are indicated by different colors (28). Besides the structural differences in the
+  size and dimensions of the cast iron and sport kettlebell, the other difference
+  is that the cast iron kettlebell is less expensive and probably more prevalent in
+  strength and conditioning facilities.
+
+  '
+attributes:
+- cast iron kettlebell
+- sport kettlebell
+purpose: []
+related_concepts:
+- concept.cast_iron_kettlebell
+- concept.sport_kettlebell

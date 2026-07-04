@@ -1,0 +1,33 @@
+id: concept.primary_anabolic_hormones_in_muscle_development
+type: Concept
+canonical_name: Primary Anabolic Hormones in Muscle Development
+semantic_type: Hormone
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System in Resistance Training
+  section: '4.3'
+  section_title: Endocrine System in Resistance Training
+  book_page: 252
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Key anabolic hormones that drive muscle tissue growth and remodeling
+  include testosterone, growth hormone, and insulin-like growth factors (IGFs), with
+  additional roles played by insulin and thyroid hormones (25, 26, 27, 28, 38, 91).
+
+  '
+attributes:
+- testosterone
+- growth_hormone
+- insulin_like_growth_factors
+- insulin
+- thyroid_hormones
+purpose: []
+related_concepts: []

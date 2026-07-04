@@ -1,0 +1,30 @@
+id: concept.counselor_psychologist_psychiatrist
+type: Concept
+canonical_name: Counselor, Psychologist, or Psychiatrist
+semantic_type: Healthcare Role
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1634
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.allied_health_team
+definition: 'A licensed counselor, psychologist, or psychiatrist with a background
+  in sport may provide strategies that help the injured athlete better cope with the
+  mental stress accompanying an injury.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

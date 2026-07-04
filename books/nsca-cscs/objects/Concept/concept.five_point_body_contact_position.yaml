@@ -1,0 +1,35 @@
+id: concept.five_point_body_contact_position
+type: Concept
+canonical_name: Five-Point Body Contact Position
+semantic_type: Body Position
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16.1'
+  section_title: Exercise Technique for Free Weight and Machine Training
+  book_page: 951
+  pdf_page: 951
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The athlete should position the body to achieve a five-point body contact
+  position: 1. Head is placed firmly on the bench or back pad. 2. Shoulders and upper
+  back are placed firmly and evenly on the bench or back pad. 3. Buttocks are placed
+  evenly on the bench or seat. 4. Right foot is flat on the floor. 5. Left foot is
+  flat on the floor.
+
+  '
+attributes:
+- head placed firmly on bench or back pad
+- shoulders and upper back placed firmly and evenly on bench or back pad
+- buttocks placed evenly on bench or seat
+- right foot flat on floor
+- left foot flat on floor
+purpose: []
+related_concepts: []

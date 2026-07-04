@@ -1,0 +1,47 @@
+id: recommendation.precompetition_nutrition_for_aerobic_endurance_athletes_general_guidelines
+type: Recommendation
+canonical_name: Precompetition Nutrition for Aerobic Endurance Athletes - General
+  Guidelines
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Aerobic Endurance Sports
+  section_title: Aerobic Endurance Sports
+  book_page: 617
+  pdf_page: 617
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Athletes should prehydrate, if necessary, several hours before
+  exercise to allow for fluid absorption and urine output. Their urine specific gravity
+  (USG) reading should be <1.02 (120). Athletes who tend to get nauseated easily,
+  who have experienced diarrhea during competition, who get anxious or experience
+  precompetition jitters, or who compete in high-intensity sports (jarring movements
+  can increase the likelihood of stomach upset), as well as those who are competing
+  in the heat, may want to consider eating at least 4 hours before competition, as
+  well as trying a variety of types of low-fiber carbohydrate options. Aerobic endurance
+  athletes who eat at least 4 hours before competition should include approximately
+  1 to 4 grams of carbohydrate per kilogram body weight and 0.15 to 0.25 grams of
+  protein per kilogram body weight (131). If the precompetition meal is consumed 2
+  hours before exercise, athletes should aim for approximately 1 gram of carbohydrate
+  per kilogram body weight. Athletes should follow an individualized hydration plan.
+  During prolonged activity in hot weather, they should consume a sport drink containing
+  20 to 30 mEq of sodium (460-690 mg with chloride as the anion) per liter, 2 to 5
+  mEq of potassium (78-195 mg) per liter, and carbohydrate in a concentration of 5%
+  to 10% (120). When consumed closer to the start of competition, the preexercise
+  meal should be smaller. Additionally, liquid sources of carbohydrate may be preferable
+  when the preexercise meal is 1 hour before the event because they are emptied from
+  the stomach faster than solid food (7). Gels, gummies, and similar sources of carbohydrate
+  are also digested very quickly.
+
+  '
+rationale: []
+target_population: []
+application_context: []

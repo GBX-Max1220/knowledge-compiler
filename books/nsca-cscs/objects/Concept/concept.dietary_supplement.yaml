@@ -1,0 +1,33 @@
+id: concept.dietary_supplement
+type: Concept
+canonical_name: Dietary Supplement
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 663
+  pdf_page: 663
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A product (other than tobacco) intended to supplement the diet that contains
+  one or more of the following dietary ingredients: A vitamin, A mineral, An herb
+  or other botanical, An amino acid, A dietary substance for use by humans to supplement
+  the diet by increasing the total dietary intake, A concentrate, metabolite, constituent,
+  extract, or combination of any ingredient listed above. The product must also be
+  labeled as a dietary supplement, such that the label must include the term dietary
+  supplement or equivalent and therefore cannot also be advertised for use as a conventional
+  food or as the sole item within a meal or diet.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

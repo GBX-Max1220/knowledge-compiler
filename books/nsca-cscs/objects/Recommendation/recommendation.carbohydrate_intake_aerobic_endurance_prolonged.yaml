@@ -1,0 +1,30 @@
+id: recommendation.carbohydrate_intake_aerobic_endurance_prolonged
+type: Recommendation
+canonical_name: Carbohydrate Intake for Aerobic Endurance Athletes During Prolonged
+  Activity
+semantic_type: NutritionGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 626
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Aerobic endurance athletes should consume 28 to 144 grams of multiple
+  types of carbohydrates together, such as sucrose, fructose, glucose, or maltodextrin,
+  each hour during prolonged aerobic endurance activity (32, 34, 66, 137).
+
+  '
+attributes: []
+purpose:
+- fuel prolonged aerobic endurance activity
+related_concepts: []

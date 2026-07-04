@@ -1,0 +1,574 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.cross_education
+type: Concept
+canonical_name: Cross-Education
+semantic_type: Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 296
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Exercising muscle undergoing unilateral resistance training produces increased strength and neural activity in the contralateral resting muscle, a phenomenon known as cross-education (79).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bilateral_deficit
+type: Concept
+canonical_name: Bilateral Deficit
+semantic_type: Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 296
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In untrained individuals, a bilateral deficit is evident. The force produced when both limbs contract together is lower than the sum of the forces they produce when contracting unilaterally.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bilateral_facilitation
+type: Concept
+canonical_name: Bilateral Facilitation
+semantic_type: Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 297
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In fact, trained or stronger individuals often show a bilateral facilitation effect whereby an increase in voluntary activation of the agonist muscle groups is observed during bilateral contraction (64a).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_hypertrophy
+type: Concept
+canonical_name: Muscle Hypertrophy
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 299
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Muscle hypertrophy is the term given to the enlargement of muscle fiber cross-sectional area (CSA) following training.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hyperplasia
+type: Concept
+canonical_name: Hyperplasia
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 302
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hyperplasia is the term given to an increase in the number of muscle fibers via longitudinal fiber splitting in response to high-intensity resistance training.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pennation_angle
+type: Concept
+canonical_name: Pennation Angle
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 306
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Pennation angle affects the force production capabilities as well as the range of motion of a muscle.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_induced_muscle_damage
+type: Concept
+canonical_name: Exercise-Induced Muscle Damage
+semantic_type: Phenomenon
+aliases: ["EIMD"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 300
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Exercise-induced muscle damage (EIMD) and disruption of myofibrils and the uniform structure of muscle fiber sarcomeres following high-intensity anaerobic training (e.g., resistance training) also have a marked effect on muscle growth (35).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.myogenesis
+type: Concept
+canonical_name: Myogenesis
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 300
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  When muscle fibers contract, Akt/mTOR signaling increases dramatically, and this response is critical for increasing muscle protein synthesis and subsequent growth (a process known as myogenesis).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cortical_bone
+type: Concept
+canonical_name: Cortical Bone
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 310
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cortical bone is dense and forms a compact outer shell surrounding the trabecular bone, with the two types of bone linked by interlocking narrow and delicate plates of trabecular bone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.trabecular_bone
+type: Concept
+canonical_name: Trabecular Bone
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 310
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cortical bone is dense and forms a compact outer shell surrounding the trabecular bone, with the two types of bone linked by interlocking narrow and delicate plates of trabecular bone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.strength_increase_in_untrained_limb_via_cross_education
+type: Evidence
+canonical_name: Strength Increase in Untrained Limb via Cross-Education
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 296
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+claim: "Strength in the untrained limb may increase up to 22%, with an average strength increase of approximately 8% following training periods ranging from 4 to 12 weeks."
+supporting_data:
+  - value: "22%"
+    unit: "%"
+    context: "maximum increase"
+  - value: "8%"
+    unit: "%"
+    context: "average increase"
+  - value: "4 to 12"
+    unit: "weeks"
+    context: "training period"
+citations:
+  - "(125)"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.emg_activity_in_untrained_limb_during_cross_education
+type: Evidence
+canonical_name: EMG Activity in Untrained Limb During Cross-Education
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 296
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+claim: "The increase in strength of the untrained limb is accompanied by greater EMG activity in that limb, thereby suggesting that a central neural adaptation accounts for most of the strength gains, considering no change or reduction in the cross-sectional area (CSA) of muscle during the unilateral training period."
+supporting_data: []
+citations:
+  - "(154)"
+  - "(22, 139)"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.load_dependency_of_cross_education_effect
+type: Evidence
+canonical_name: Load Dependency of Cross-Education Effect
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 296
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+claim: "The cross-education effect does appear to be load dependent, with untrained limb strength improving when the contralateral trained limb performs higher-load (8RM-12RM) intensities."
+supporting_data:
+  - value: "8RM-12RM"
+    unit: "RM"
+    context: "intensity range for trained limb"
+citations:
+  - "(22)"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.reduced_antagonist_coactivation_following_resistance_training
+type: Evidence
+canonical_name: Reduced Antagonist Coactivation Following Resistance Training
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 297
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+claim: "A number of studies have shown reduced antagonist coactivation following resistance training, resulting in an increase in net force without an increase in agonist motor unit recruitment."
+supporting_data: []
+citations:
+  - "(71, 130)"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.quadriceps_and_hamstring_activation_on_unstable_surface
+type: Evidence
+canonical_name: Quadriceps and Hamstring Activation on Unstable Surface
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 297
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+claim: "Behm and colleagues (19) demonstrated that completing leg extension while seated on a Swiss ball (i.e., an unstable surface) resulted in 44% lower quadriceps activation but 29% greater hamstring activation when compared to a stable condition."
+supporting_data:
+  - value: "44%"
+    unit: "%"
+    context: "lower quadriceps activation on unstable surface"
+  - value: "29%"
+    unit: "%"
+    context: "greater hamstring activation on unstable surface"
+citations:
+  - "(19)"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.force_production_in_unstable_vs_stable_conditions
+type: Evidence
+canonical_name: Force Production in Unstable vs. Stable Conditions
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 297
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+claim: "Leg extension forces were 70% lower in unstable than stable conditions."
+supporting_data:
+  - value: "70%"
+    unit: "%"
+    context: "lower force in unstable conditions"
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.strength_and_rfd_reduction_during_unstable_squatting
+type: Evidence
+canonical_name: Strength and RFD Reduction During Unstable Squatting
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 298
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+claim: "Similarly, peak force (N) and rate of force development (RFD) have also been found to be significantly reduced during unstable squatting versus stable squatting (115)."
+supporting_data: []
+citations:
+  - "(115)"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.protein_synthesis_elevation_after_acute_resistance_exercise
+type: Evidence
+canonical_name: Protein Synthesis Elevation After Acute Resistance Exercise
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 300
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+claim: "Protein synthetic rates are elevated after acute resistance exercise and remain elevated for up to 48 hours."
+supporting_data:
+  - value: "48"
+    unit: "hours"
+    context: "duration of elevated protein synthesis"
+citations:
+  - "(109, 133)"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.time_course_of_muscle_fiber_hypertrophy_detection
+type: Evidence
+canonical_name: Time Course of Muscle Fiber Hypertrophy Detection
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.2"
+  section_title: "Muscular Adaptations"
+  book_page: 301
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []

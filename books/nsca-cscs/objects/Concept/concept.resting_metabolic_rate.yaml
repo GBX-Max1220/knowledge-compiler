@@ -1,0 +1,33 @@
+id: concept.resting_metabolic_rate
+type: Concept
+canonical_name: Resting Metabolic Rate
+semantic_type: Metric
+aliases:
+- RMR
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 642
+  pdf_page: 642
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.metabolic_rate
+definition: 'Resting metabolic rate is often used instead of BMR due to the ease of
+  measurement (an overnight fast is not required), yet it is 10% to 20% higher than
+  BMR due to increased energy expenditure resulting from recent food intake or physical
+  activity completed earlier in the day.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.basal_metabolic_rate

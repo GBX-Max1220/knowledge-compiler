@@ -1,0 +1,32 @@
+id: table_row.air_displacement_plethysmography
+type: TableRow
+canonical_name: Air Displacement Plethysmography
+semantic_type: Test
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing and Prescription
+  section: '13.3'
+  section_title: Evaluation of Test Quality
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Measures body composition by calculating body volume and density through
+  the displacement of air in a sealed chamber (e.g., the Bod Pod device).
+
+  '
+attributes:
+  physical_characteristic: Body composition
+  test_name: Air displacement plethysmography
+  sport_application_examples:
+  - General
+  description: Measures body composition by calculating body volume and density through
+    the displacement of air in a sealed chamber (e.g., the Bod Pod device)
+purpose: []

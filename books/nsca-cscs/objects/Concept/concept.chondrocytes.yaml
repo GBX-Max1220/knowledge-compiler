@@ -1,0 +1,28 @@
+id: concept.chondrocytes
+type: Concept
+canonical_name: Chondrocytes
+semantic_type: Cell
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 321
+  pdf_page: 321
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.articular_cartilage
+definition: 'the healthy cells within cartilage, called chondrocytes
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,33 @@
+id: procedure.three_step_process_for_helping_athletes_get_appropriate_support
+type: Procedure
+canonical_name: Three-Step Process for Helping Athletes Get Appropriate Support
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 508
+  pdf_page: 508
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+steps:
+- step_number: 1
+  action: Identify the signs and symptoms of distress related to affect, behavior,
+    and cognitions.
+- step_number: 2
+  action: Determine the duration of distress (lasting greater than 2-3 weeks) and
+    potential disruption (e.g., sleep patterns, nutritional habits, social relationships).
+    Specifically, is the distress temporary or persistent, and how will it affect
+    behaviors outside of sports?
+- step_number: 3
+  action: Determine how to support the athlete.
+purpose: []
+related_concepts: []

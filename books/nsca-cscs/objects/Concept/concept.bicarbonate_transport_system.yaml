@@ -1,0 +1,38 @@
+id: concept.bicarbonate_transport_system
+type: Concept
+canonical_name: Bicarbonate Transport System
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: Blood Transport of Gases and Metabolic By-Products
+  section_title: Blood Transport of Gases and Metabolic By-Products
+  book_page: 93
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.carbon_dioxide_transport_in_blood
+definition: 'The greatest amount of carbon dioxide removal (approximately 70%) is
+  from the combination with water and delivery to the lungs in the form of bicarbonate
+  (HCO3−). The initial step in this reversible reaction is the combination of carbon
+  dioxide in solution with water in the red blood cells to form carbonic acid. The
+  reaction would normally be quite slow except for the impact of the enzyme carbonic
+  anhydrase, which significantly speeds up this process. Once carbonic acid is formed,
+  it is broken down to hydrogen ions and bicarbonate ions. Because hemoglobin is a
+  significant acid–base buffer, hydrogen ions combine with hemoglobin. This process
+  helps to maintain the pH of the blood. Bicarbonate ions diffuse from the red blood
+  cells to the plasma, while chloride ions diffuse into the blood cells to replace
+  them (17, 27).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

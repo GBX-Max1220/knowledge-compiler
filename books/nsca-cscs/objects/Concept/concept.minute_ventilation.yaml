@@ -1,0 +1,26 @@
+id: concept.minute_ventilation
+type: Concept
+canonical_name: Minute Ventilation
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Respiratory Responses
+  section_title: Respiratory Responses
+  book_page: 88
+  pdf_page: 88
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'minute ventilation (the volume of air breathed per minute)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

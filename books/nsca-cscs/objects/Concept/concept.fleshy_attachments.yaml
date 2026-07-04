@@ -1,0 +1,34 @@
+id: concept.fleshy_attachments
+type: Concept
+canonical_name: Fleshy attachments
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Exercise
+  section: Skeletal Musculature
+  section_title: Skeletal Musculature
+  book_page: 105
+  pdf_page: 105
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.muscle
+definition: 'In fleshy attachments, which are most often found at the proximal end
+  of a muscle, muscle fibers are directly affixed to the bone, usually over a wide
+  area so that force is distributed rather than localized.
+
+  '
+attributes:
+- proximal
+- direct_affixation
+- wide_area
+purpose:
+- distribute force
+related_concepts: []

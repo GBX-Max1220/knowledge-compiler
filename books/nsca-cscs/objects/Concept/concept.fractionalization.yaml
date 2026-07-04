@@ -1,0 +1,29 @@
+id: concept.fractionalization
+type: Concept
+canonical_name: Fractionalization
+semantic_type: Practice Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.6'
+  section_title: Psychological Techniques
+  book_page: 525
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.practice_method
+definition: 'Fractionalization breaks the tasks into subcomponents that occur simultaneously
+  (66).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

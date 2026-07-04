@@ -1,0 +1,29 @@
+id: recommendation.recovery_time_between_sessions_older_adults
+type: Recommendation
+canonical_name: Recovery Time Between Sessions for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 433
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Older adults should be allowed 48 to 72 hours of recovery between exercise
+  sessions.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_details:
+  recovery_time: 48-72 hours

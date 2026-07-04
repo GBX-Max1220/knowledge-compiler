@@ -1,0 +1,674 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.friction
+type: Concept
+canonical_name: Friction
+semantic_type: PhysicalPhenomenon
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 156
+  pdf_page: 156
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Friction is the force that resists sliding and is encountered when one attempts to move an object whose surface is pressed against the surface of another object.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.friction_resistance
+type: Formula
+canonical_name: Friction Resistance Formula
+semantic_type: Formula
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 156
+  pdf_page: 156
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: describes
+    target: concept.friction
+
+definition: ""
+
+formula_text: "FR = k × FN (2.9)"
+
+variables:
+  - symbol: "FR"
+    description: "Friction resistance force"
+  - symbol: "k"
+    description: "Constant"
+  - symbol: "FN"
+    description: "Normal force"
+
+units: []
+
+purpose: []
+
+related_concepts:
+  - concept.friction
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fluid_resistance
+type: Concept
+canonical_name: Fluid Resistance
+semantic_type: PhysicalPhenomenon
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 157
+  pdf_page: 157
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The resistive force encountered by an object moving through a fluid (liquid or gas), or by a fluid moving past or around an object or through an opening, is called fluid resistance.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.fluid_resistance
+type: Formula
+canonical_name: Fluid Resistance Formula
+semantic_type: Formula
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 158
+  pdf_page: 158
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: describes
+    target: concept.fluid_resistance
+
+definition: ""
+
+formula_text: "FR = k × v (2.10)"
+
+variables:
+  - symbol: "FR"
+    description: "Fluid resistance force"
+  - symbol: "k"
+    description: "Constant"
+  - symbol: "v"
+    description: "Velocity"
+
+units: []
+
+purpose: []
+
+related_concepts:
+  - concept.fluid_resistance
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.elastic_resistance
+type: Formula
+canonical_name: Elastic Resistance Formula
+semantic_type: Formula
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 159
+  pdf_page: 159
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: ""
+
+formula_text: "FR = k × x (2.11)"
+
+variables:
+  - symbol: "FR"
+    description: "Elastic resistance force"
+  - symbol: "k"
+    description: "Constant"
+  - symbol: "x"
+    description: "Displacement"
+
+units: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.elastic_bands_jumping_injury_risk
+type: Warning
+canonical_name: Elastic Bands and Jumping Injury Risk
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 160
+  pdf_page: 160
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  The bands provide the greatest resistance while the jumper is in the air—serving mainly to pull the jumper back to the ground, rather than resist the muscles, and so increasing the jumper's landing velocity, which may increase injury risk.
+
+severity: moderate
+
+conditions:
+  - "Use of elastic bands for jumping exercises"
+
+consequences:
+  - "Increased landing velocity"
+  - "Increased injury risk"
+
+mitigations: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.low_injury_rate_resistance_training
+type: Evidence
+canonical_name: Low Injury Rate of Resistance Training
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 161
+  pdf_page: 161
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+claim: "Rates of injury are the highest for team sports; intermediate for running and aerobics; and lowest for cycling, walking, and resistance training."
+
+evidence_text: >
+  Rates of injury are the highest for team sports; intermediate for running and aerobics; and lowest for cycling, walking, and resistance training, the latter of which has about 4 injuries per 1,000 hours of participation.
+
+statistics:
+  - value: "4"
+    unit: "injuries per 1,000 hours of participation"
+    context: "Resistance training injury rate"
+
+citations:
+  - reference_number: ""
+    page_number: 161
+
+related_concepts:
+  - concept.resistance_training
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.resistance_training_injury_rate_collegiate_football
+type: Evidence
+canonical_name: Resistance Training Injury Rate in Collegiate Football
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 161
+  pdf_page: 161
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+claim: "A study of collegiate American football players showed only 0.35 resistance training–related injuries per 100 players per season."
+
+evidence_text: >
+  A study of collegiate American football players showed only 0.35 resistance training–related injuries per 100 players per season.
+
+statistics:
+  - value: "0.35"
+    unit: "injuries per 100 players per season"
+    context: "Resistance training injuries in collegiate American football"
+
+citations:
+  - reference_number: ""
+    page_number: 161
+
+related_concepts:
+  - concept.resistance_training
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.resistance_training_injury_time_loss
+type: Evidence
+canonical_name: Resistance Training Injury Time Loss
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 161
+  pdf_page: 161
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+claim: "Injuries due to resistance training accounted for only 0.74% of the in-season injury-related time loss of the players."
+
+evidence_text: >
+  Injuries due to resistance training accounted for only 0.74% of the in-season injury-related time loss of the players (61).
+
+statistics:
+  - value: "0.74"
+    unit: "%"
+    context: "In-season injury-related time loss due to resistance training"
+
+citations:
+  - reference_number: "61"
+    page_number: 161
+
+related_concepts:
+  - concept.resistance_training
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.neutral_back_lifting_posture
+type: Recommendation
+canonical_name: Neutral-Back Lifting Posture
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 162
+  pdf_page: 162
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  The neutral-back lifting posture has been found to be better overall than a rounded (opposite of arched) back in minimizing L5/S1 compressive forces and ligament strain (2). Therefore, a normal lordotic lumbar spine position is superior to a rounded back for avoiding injury to vertebrae, disks, facet joints, ligaments, and muscles of the back.
+
+rationale: >
+  Minimizes L5/S1 compressive forces and ligament strain.
+
+conditions:
+  - "Lifting tasks"
+
+actions:
+  - "Use neutral-back lifting posture"
+  - "Maintain normal lordotic lumbar spine position"
+
+contraindications: []
+
+citations:
+  - reference_number: "2"
+    page_number: 162
+
+related_concepts:
+  - concept.lumbar_spine
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.moderately_arched_lower_back_resistance_training
+type: Recommendation
+canonical_name: Moderately Arched Lower Back During Resistance Training
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 163
+  pdf_page: 163
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Thus, resistance training exercises should generally be performed with the lower back in a moderately arched position to reduce risk of damage to the disks.
+
+rationale: >
+  Reduces risk of damage to the disks.
+
+conditions:
+  - "Resistance training exercises"
+
+actions:
+  - "Perform exercises with lower back in a moderately arched position"
+
+contraindications: []
+
+citations: []
+
+related_concepts:
+  - concept.lumbar_spine
+  - concept.resistance_training
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fluid_ball
+type: Concept
+canonical_name: Fluid Ball
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 163
+  pdf_page: 163
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The abdominal fluids and tissue kept under pressure by tensing surrounding muscle (deep abdominal muscles and diaphragm) have been described as a fluid ball (figure 2.15) that aids in supporting the vertebral column during resistance training (4).
+
+attributes: []
+
+purpose:
+  - "Support the vertebral column during resistance training"
+
+related_concepts:
+  - concept.vertebral_column
+  - concept.resistance_training
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.fluid_ball
+type: Figure
+canonical_name: Figure 2.15 — The Fluid Ball
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 163
+  pdf_page: 163
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+figure_number: "2.15"
+figure_title: "The Fluid Ball"
+caption: "The fluid ball resulting from contraction of the deep abdominal muscles and the diaphragm."
+
+description: ""
+
+related_concepts:
+  - concept.fluid_ball
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.valsalva_maneuver
+type: Concept
+canonical_name: Valsalva Maneuver
+semantic_type: PhysiologicalProcess
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 164
+  pdf_page: 164
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In the Valsalva maneuver, the glottis is closed, thus keeping air from escaping the lungs, and the muscles of the abdomen and rib cage contract, creating rigid compartments of liquid in the lower torso and air in the upper torso.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.valsalva_maneuver_side_effects
+type: Warning
+canonical_name: Valsalva Maneuver Side Effects
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 164
+  pdf_page: 164
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  However, pressure in the chest associated with the Valsalva maneuver can have the undesirable side effect of exerting compressive force on the heart, making it more difficult for blood to return to the heart. Also, the Valsalva maneuver can transiently raise blood pressure to slightly elevated levels (20).
+
+severity: moderate
+
+conditions:
+  - "Performance of Valsalva maneuver"
+
+consequences:
+  - "Compressive force on the heart"
+  - "Difficulty for blood to return to the heart"
+  - "Transiently raised blood pressure"
+
+mitigations: []
+
+citations:
+  - reference_number: "20"
+    page_number: 164
+
+related_concepts:
+  - concept.valsalva_maneuver
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.safer_alternative_to_valsalva_maneuver
+type: Recommendation
+canonical_name: Safer Alternative to Valsalva Maneuver
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Training"
+  section: "2.5"
+  section_title: "Joint Biomechanics"
+  book_page: 165
+  pdf_page: 165
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  The diaphragm and the abdominal muscles can contract without the glottis being closed, however, creating the fluid ball in the abdomen without pressurizing the chest compartment. This must be regarded as the safer way, of the two options, to add support to the lower spine without building up pressure in the chest, and it is the technique that should be used for most resistance training.
+

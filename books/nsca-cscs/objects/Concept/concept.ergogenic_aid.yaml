@@ -1,0 +1,28 @@
+id: concept.ergogenic_aid
+type: Concept
+canonical_name: Ergogenic Aid
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 660
+  pdf_page: 660
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Although an ergogenic aid can be any substance, mechanical aid, or training
+  method that improves sport performance, for the purposes of this chapter the term
+  refers specifically to pharmacologic aids.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,525 @@
+# ontology: knowledge-compiler/v1
+
+id: warning.caffeine_adverse_effects
+type: Warning
+canonical_name: Caffeine Adverse Effects
+semantic_type: Adverse Effect
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 721
+  pdf_page: 721
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: concept.anxiety
+  - predicate: has_attribute
+    target: concept.gastrointestinal_disturbances
+  - predicate: has_attribute
+    target: concept.restlessness
+  - predicate: has_attribute
+    target: concept.insomnia
+  - predicate: has_attribute
+    target: concept.tremors
+  - predicate: has_attribute
+    target: concept.heart_arrhythmias
+  - predicate: has_attribute
+    target: concept.physical_addiction
+  - predicate: has_attribute
+    target: concept.withdrawal_symptoms
+  - predicate: has_attribute
+    target: concept.headache
+  - predicate: has_attribute
+    target: concept.fatigue
+  - predicate: has_attribute
+    target: concept.dysphoric_mood
+  - predicate: has_attribute
+    target: concept.difficulty_concentrating
+  - predicate: has_attribute
+    target: concept.flu_like_somatic_symptoms
+  - predicate: has_attribute
+    target: concept.caffeine_overdose
+  - predicate: has_attribute
+    target: concept.lethal_dose
+
+definition: >
+  The side effects associated with caffeine include anxiety, gastrointestinal disturbances, restlessness, insomnia, tremors, and heart arrhythmias. Caffeine is also physically addicting, and discontinuation can result in some withdrawal symptoms, such as headache, fatigue, dysphoric mood, difficulty concentrating, and flu-like somatic symptoms (200). Caffeine intakes greater than 9 milligrams per kilogram appear to result in a greater risk for side effects (99). Caffeine overdose is an issue that can have potentially fatal consequences. A lethal dose of caffeine is typically in excess of 5 grams, which equates to about 42 cups of coffee at 120 milligrams of caffeine per cup (128) or twenty-five 200-milligram tablets of caffeine.
+
+attributes:
+  - anxiety
+  - gastrointestinal_disturbances
+  - restlessness
+  - insomnia
+  - tremors
+  - heart_arrhythmias
+  - physical_addiction
+  - withdrawal_symptoms
+  - headache
+  - fatigue
+  - dysphoric_mood
+  - difficulty_concentrating
+  - flu_like_somatic_symptoms
+  - caffeine_overdose
+  - lethal_dose
+
+purpose: []
+
+related_concepts:
+  - threshold.caffeine_intake_side_effect_risk
+  - threshold.lethal_dose_caffeine
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.caffeine_intake_side_effect_risk
+type: Threshold
+canonical_name: Caffeine Intake Threshold for Increased Side Effect Risk
+semantic_type: Intake Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 721
+  pdf_page: 721
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.lethal_dose_caffeine
+
+definition: >
+  Caffeine intakes greater than 9 milligrams per kilogram appear to result in a greater risk for side effects (99).
+
+attributes:
+  - caffeine_intake
+  - side_effect_risk
+
+purpose: []
+
+related_concepts:
+  - warning.caffeine_adverse_effects
+
+threshold_value: ">9 mg/kg"
+unit: "mg/kg"
+operator: ">"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.lethal_dose_caffeine
+type: Threshold
+canonical_name: Lethal Dose of Caffeine
+semantic_type: Lethal Dose Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 721
+  pdf_page: 721
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.caffeine_intake_side_effect_risk
+
+definition: >
+  A lethal dose of caffeine is typically in excess of 5 grams, which equates to about 42 cups of coffee at 120 milligrams of caffeine per cup (128) or twenty-five 200-milligram tablets of caffeine.
+
+attributes:
+  - lethal_dose
+  - caffeine
+
+purpose: []
+
+related_concepts:
+  - warning.caffeine_adverse_effects
+
+threshold_value: ">5 g"
+unit: "g"
+operator: ">"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.energy_drink_adverse_effects
+type: Warning
+canonical_name: Energy Drink Adverse Effects
+semantic_type: Adverse Effect
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 722
+  pdf_page: 722
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: concept.excessive_caffeine_intake
+  - predicate: has_attribute
+    target: concept.mixing_energy_drinks_with_alcohol
+  - predicate: has_attribute
+    target: concept.caffeine_overdose
+
+definition: >
+  The safety issues surrounding energy drink consumption appear related to excessive caffeine intake (187) and the detrimental effects of mixing energy drinks with alcohol (187). The mixing of energy drinks with alcohol is more prevalent in certain social contexts and is not a common practice for those consuming energy drinks before a workout to enhance work capacity or to facilitate faster training adaptations. Due to the presence of caffeine in most energy drinks, the same potential adverse effects that exist for caffeine also exist for energy drinks. However, most energy drinks contain only moderate amounts of caffeine, typically less than 300 milligrams (187). Even though energy drinks typically contain low to moderate doses of caffeine, one should recognize that it is possible to overdose on caffeine through the consumption of energy drinks (116). While there is some information related to the side effects of excess caffeine ingestion, energy drinks contain other ingredients and stimulants. Currently, it is unknown whether inclusion of other stimulants in energy drinks may increase or decrease the threshold for experiencing side effects. Therefore, more research is needed to determine the long-term effects of habitual intake of energy drinks before definitive conclusions can be drawn.
+
+attributes:
+  - excessive_caffeine_intake
+  - mixing_energy_drinks_with_alcohol
+  - caffeine_overdose
+
+purpose: []
+
+related_concepts:
+  - warning.caffeine_adverse_effects
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.ephedrine_adverse_effects
+type: Warning
+canonical_name: Ephedrine Adverse Effects
+semantic_type: Adverse Effect
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 723
+  pdf_page: 723
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: concept.nausea
+  - predicate: has_attribute
+    target: concept.vomiting
+  - predicate: has_attribute
+    target: concept.psychiatric_symptoms
+  - predicate: has_attribute
+    target: concept.anxiety
+  - predicate: has_attribute
+    target: concept.change_in_mood
+  - predicate: has_attribute
+    target: concept.autonomic_hyperactivity
+  - predicate: has_attribute
+    target: concept.palpitations
+  - predicate: has_attribute
+    target: concept.death
+
+definition: >
+  Ephedra, also called ma huang, is a plant that contains ephedrine. In the United States before 2004, most over-the-counter sport and weight-loss products contained ephedra. However, in April 2004, the FDA banned all products containing ephedra after determining that it posed an unreasonable risk to those who used it. The FDA ban was based on a report published by the Rand Institute (188) indicating that 16,000 adverse events were linked to the use of ephedra-containing dietary supplements. Further, Shekelle and colleagues (188) reported that the use of ephedra-containing dietary supplements or ephedrine plus caffeine was associated with an increased incidence of nausea, vomiting, psychiatric symptoms such as anxiety and change in mood, autonomic hyperactivity, palpitations, and, in a few cases, death. As a result of the many adverse effects, ephedrine use has been banned by most sport governing bodies, including the International Olympic Committee.
+
+attributes:
+  - nausea
+  - vomiting
+  - psychiatric_symptoms
+  - anxiety
+  - change_in_mood
+  - autonomic_hyperactivity
+  - palpitations
+  - death
+
+purpose: []
+
+related_concepts:
+  - concept.ephedrine
+  - concept.ma_huang
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.citrus_aurantium_adverse_effects
+type: Warning
+canonical_name: Citrus Aurantium Adverse Effects
+semantic_type: Adverse Effect
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 724
+  pdf_page: 724
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: concept.vasoconstriction
+  - predicate: has_attribute
+    target: concept.elevations_in_blood_pressure
+
+definition: >
+  Synephrine has been shown to stimulate peripheral α-1 receptors, resulting in vasoconstriction and elevations in blood pressure (31). However, other research has shown that when citrus aurantium is ingested alone, no effect on blood pressure is seen (103), but in combination with other herbal products it may cause significant elevations in systolic blood pressure (103). It should be noted that synephrine is currently on the National Collegiate Athletic Association’s banned list of performance-enhancing drugs.
+
+attributes:
+  - vasoconstriction
+  - elevations_in_blood_pressure
+
+purpose: []
+
+related_concepts:
+  - concept.synephrine
+  - concept.citrus_aurantium
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.role_of_strength_and_conditioning_professionals
+type: Recommendation
+canonical_name: Role of Strength and Conditioning Professionals Regarding Ergogenic Aids
+semantic_type: Professional Responsibility
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 727
+  pdf_page: 727
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Strength and conditioning professionals play an integral part in the decision-making process regarding which ergogenic aids athletes choose to take. Therefore, it is imperative that strength and conditioning professionals stay up to date on the latest scientific findings on what ergogenic aids are safe, effective, and legal. If strength and conditioning professionals fail in this area, the athletes they serve will be more susceptible to hyped marketing, potentially false advertising, and influence by others who may not have the athlete’s best interests in mind.
+
+attributes: []
+
+purpose:
+  - guide athletes in safe, effective, and legal ergogenic aid choices
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.thermogenic_supplement_drug
+type: Concept
+canonical_name: Thermogenic Supplement/Drug
+semantic_type: Substance
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 723
+  pdf_page: 723
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A thermogenic supplement or drug works by elevating basal metabolic rate, thereby increasing energy expenditure and ultimately resulting in fat loss.
+
+attributes:
+  - elevates_basal_metabolic_rate
+  - increases_energy_expenditure
+  - results_in_fat_loss
+
+purpose:
+  - fat loss
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.efficacy_of_preworkout_energy_drinks_for_resistance_exercise
+type: Evidence
+canonical_name: Efficacy of Preworkout Energy Drinks for Resistance Exercise
+semantic_type: Research Finding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 721
+  pdf_page: 721
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Forbes and colleagues (70) gave 15 physically active college-aged students a commercially available energy drink or an isocaloric noncaffeinated placebo 60 minutes before exercise. The energy drink was standardized with 2 milligrams of caffeine per kilogram body mass. The exercise bout consisted of 3 sets of 70% 1RM bench press conducted to failure on each set with 1 minute of rest between each set. The energy drink significantly increased bench press performance as compared to the placebo treatment. Other studies investigating the effects of preworkout energy drink consumption have also reported improvements in upper and lower body total lifting volume (54, 86).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.energy_drink
+  - concept.bench_press_performance
+  - concept.upper_body_total_lifting_volume
+  - concept.lower_body_total_lifting_volume
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.efficacy_of_ephedrine_combined_with_caffeine
+type: Evidence
+canonical_name: Efficacy of Ephedrine Combined with Caffeine
+semantic_type: Research Finding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 723
+  pdf_page: 723
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Studies examining the ergogenic effect of ephedrine have shown it to be effective only when it is taken in combination with caffeine (21). These results have been quite consistent with regard to improving aerobic endurance performance (20). In terms of anaerobic exercise performance, the scientific literature investigating the combination of ephedrine and caffeine is equivocal (224). However, side effects (vomiting and nausea) following exercise have been reported in 25% of the subjects ingesting a mixture of 5 milligrams per kilogram caffeine and 1 milligram per kilogram ephedrine (19). A subsequent study performed by the same investigators showed that at a lower dose (4 mg/kg caffeine and 0.8 mg/kg ephedrine), similar ergogenic benefits were realized with no side effects (20).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.ephedrine
+  - concept.caffeine
+  - concept.aerobic_endurance_performance
+  - concept.anaerobic_exercise_performance
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.efficacy_of_citrus_aurantium_combined_with_caffeine
+type: Evidence
+canonical_name: Efficacy of Citrus Aurantium Combined with Caffeine
+semantic_type: Research Finding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Ergogenic Aids"
+  section: "12.4"
+  section_title: "Conclusion"
+  book_page: 724
+  pdf_page: 724
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  When citrus aurantium is combined with caffeine and other herbal products, significant improvements in time to fatigue have been reported (199).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.citrus_aurantium
+  - concept.caffeine
+  - concept.time_to_fatigue
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.synephrine
+type: Concept

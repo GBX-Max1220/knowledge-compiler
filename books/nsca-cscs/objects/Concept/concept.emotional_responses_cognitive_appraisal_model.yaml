@@ -1,0 +1,43 @@
+id: concept.emotional_responses_cognitive_appraisal_model
+type: Concept
+canonical_name: Emotional Responses (Cognitive Appraisal Model)
+semantic_type: Response
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 519
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.cognitive_appraisal_model
+definition: 'Emotional Responses: Injury-related fear. How does the athlete embrace
+  progressive overload into more sport-specific movements? Tension, anger, depression.
+  Has the injury created conflict within the athlete''s normal activities of daily
+  living and sports participation? Frustration and boredom. Is the rehabilitation
+  process mentally engaging and motivating? Grief. Was there a loss in a specific
+  competition or season? Did the athlete lose his or her position or formal role with
+  the team due to the injury? Positive outlook. Does the athlete view this setback
+  as an opportunity to rebuild and improve?
+
+  '
+attributes:
+- injury-related fear
+- tension
+- anger
+- depression
+- frustration
+- boredom
+- grief
+- positive outlook
+purpose: []
+related_concepts: []

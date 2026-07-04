@@ -1,0 +1,28 @@
+id: evidence.time_course_bone_adaptations
+type: Evidence
+canonical_name: Time Course for Bone Adaptations
+semantic_type: Temporal
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+claim: 'Quantitatively, the time course for bone adaptations is rather long in most
+  cases— approximately six months (28) or longer (102)— and depends on the structure
+  of the training program.
+
+  '
+supporting_studies:
+- citation: '28'
+- citation: '102'

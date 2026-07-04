@@ -1,29 +1,32 @@
 id: concept.neuromuscular_junction
 type: Concept
 canonical_name: Neuromuscular Junction
-semantic_type: Anatomical Structure
-aliases: []
+semantic_type: AnatomicalStructure
+aliases:
+- NMJ
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
-  chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.02'
-  section_title: Neuromuscular System
-  book_page: 56
-  pdf_page: 56
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 293
+  pdf_page: 293
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'The site where the arrival of the action potential at nerve terminals
-  of the motor neuron causes the secretion of a neurotransmitter called acetylcholine.
+definition: 'The neuromuscular junction (NMJ) is the interface between the nerve and
+  the skeletal muscle fibers, and it represents another potential site for neural
+  adaptation following anaerobic training (42, 43).
 
   '
-attributes: []
+attributes:
+- interface
+- nerve
+- skeletal_muscle_fiber
 purpose: []
-related_concepts:
-- concept.action_potential
-- concept.acetylcholine
+related_concepts: []

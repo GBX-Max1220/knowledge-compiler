@@ -1,0 +1,31 @@
+id: concept.pretest
+type: Concept
+canonical_name: Pretest
+semantic_type: Test
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 13
+  chapter_title: Principles of Test Selection and Administration
+  section: '13.1'
+  section_title: Principles of Test Selection and Administration
+  book_page: 734
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.test
+definition: 'A test administered before the beginning of training to determine the
+  athlete''s initial basic ability levels. A pretest allows the strength and conditioning
+  professional to design the training program in keeping with the athlete''s initial
+  training level and the overall program objectives.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,34 @@
+id: warning.adverse_effects_of_epo_misuse
+type: Warning
+canonical_name: Adverse Effects of EPO Misuse
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 695
+  pdf_page: 695
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: 'The increase in hematocrit resulting from EPO injection presents a
+  significant health risk. Increases in red blood cell number increase blood viscosity
+  (the thickening of the blood). This poses several problems that include increased
+  risk of blood clotting, elevations in systolic blood pressure and accentuation of
+  the exercise pressor response stroke, and cerebral or pulmonary embolism (22, 42,
+  82).
+
+  '
+severity: serious
+affected_population: individuals who misuse EPO

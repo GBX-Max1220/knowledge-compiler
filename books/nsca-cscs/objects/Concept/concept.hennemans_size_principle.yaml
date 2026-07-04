@@ -1,0 +1,31 @@
+id: concept.hennemans_size_principle
+type: Concept
+canonical_name: Henneman's Size Principle
+semantic_type: Physiological Principle
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 290
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The recruitment or decruitment of motor units in an orderly manner is
+  governed by Henneman''s size principle (figure 5.2), which represents the relationship
+  between motor unit twitch force and recruitment threshold (140). According to this
+  principle, motor units are recruited in an ascending order according to their soma
+  size.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.motor_unit

@@ -1,0 +1,53 @@
+id: procedure.alternating_leg_push_off
+type: Procedure
+canonical_name: Alternating-Leg Push-Off
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1345
+  pdf_page: 1345
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An exercise drill involving an alternating-leg push-off from a plyometric
+  box, with low intensity and vertical direction.
+
+  '
+attributes:
+- intensity_level: Low
+- direction: Vertical
+- arm_action: Double arm
+- equipment: Plyometric box, 6 to 18 inches (15-46 cm) high
+purpose:
+- perform an alternating-leg push-off
+related_concepts: []
+steps:
+- step_number: 1
+  description: Stand facing the plyometric box with one foot on the ground and one
+    foot on the box. The heel of the foot on the box should be near the box's closest
+    edge.
+- step_number: 2
+  description: Lift the front foot slightly so that it can be driven down into the
+    box.
+- step_number: 3
+  description: Drive the front foot down into the box to cause an upward jumping action.
+- step_number: 4
+  description: Land with the opposite foot on the box; this foot should land just
+    before the ground foot. Immediately repeat the movement, reversing the feet each
+    repetition.
+common_errors:
+- Not creating sufficient vertical force to enable the switch of legs to occur above
+  the box
+- Asynchronous actions between the front leg and back leg, which means that the high
+  knee position at the end of the jump does not occur at the point of maximum height
+  or leg extension; this results in poor landing positions that prolong ground contact
+  times for the next jump

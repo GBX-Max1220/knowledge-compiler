@@ -1,0 +1,27 @@
+id: recommendation.safer_alternative_to_valsalva_maneuver
+type: Recommendation
+canonical_name: Safer Alternative to Valsalva Maneuver
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 165
+  pdf_page: 165
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'The diaphragm and the abdominal muscles can contract without
+  the glottis being closed, however, creating the fluid ball in the abdomen without
+  pressurizing the chest compartment. This must be regarded as the safer way, of the
+  two options, to add support to the lower spine without building up pressure in the
+  chest, and it is the technique that should be used for most resistance training.
+
+  '

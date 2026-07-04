@@ -1,0 +1,28 @@
+id: concept.recruitment
+type: Concept
+canonical_name: Recruitment
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Motor Unit Recruitment Patterns
+  section_title: Motor Unit Recruitment Patterns
+  book_page: 62
+  pdf_page: 62
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Another manner to increase muscle force involves increasing the number
+  of motor units activated, a process known as recruitment.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.motor_unit

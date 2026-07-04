@@ -1,0 +1,31 @@
+id: table_row.training_priorities_preseason
+type: TableRow
+canonical_name: Training Priorities Preseason
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training Program Design
+  section: '18.2'
+  section_title: 'Step 2: Exercise Selection'
+  book_page: 1201
+  pdf_page: 1201
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: table_row.training_priorities_off_season
+- predicate: adjacent_to
+  target: table_row.training_priorities_in_season
+table_id: Table 18.2
+row_data:
+  sport_season: Preseason
+  priority_given_to_sport_practice: Medium
+  priority_given_to_resistance_training: Medium
+  resistance_training_goal: Sport and movement specific (i.e., strength, power, or
+    muscular endurance, depending on the sport)

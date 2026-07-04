@@ -1,0 +1,31 @@
+id: concept.sprain
+type: Concept
+canonical_name: Sprain
+semantic_type: Injury Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1636
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.macrotrauma
+definition: 'Ligamentous trauma is termed a sprain and is assigned a classification
+  of first degree (partial tear of the ligament without increased joint instability),
+  second degree (partial tear with minor joint instability), or third degree (complete
+  tear with full joint instability).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

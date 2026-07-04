@@ -1,0 +1,28 @@
+id: concept.product_liability
+type: Concept
+canonical_name: Product Liability
+semantic_type: Concept
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1798
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Refers to the legal responsibilities of those who manufacture or sell
+  products if a person sustains injury or damage as a result of using the product
+  (1).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

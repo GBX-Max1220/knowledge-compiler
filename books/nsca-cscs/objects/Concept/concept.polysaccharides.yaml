@@ -1,0 +1,59 @@
+id: concept.polysaccharides
+type: Concept
+canonical_name: Polysaccharides
+semantic_type: Nutrient
+aliases:
+- complex carbohydrates
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.3'
+  section_title: Macronutrients
+  book_page: 560
+  pdf_page: 560
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.carbohydrate
+- predicate: has_attribute
+  target: concept.glycogen
+definition: 'Polysaccharides, also known as complex carbohydrates, contain up to thousands
+  of glucose units. Some of the most common polysaccharides of nutritional importance
+  are starch, fiber, and glycogen. Starch is the storage form of glucose in plants.
+  Grains, legumes, and vegetables are good sources of starch. Before starch can be
+  used as a source of energy, it must be broken down into glucose components. Dietary
+  fiber, a constituent of the plant cell wall, is also a form of carbohydrate. Cellulose,
+  hemicellulose, beta-glucans, and pectins are fibers; these and noncarbohydrate fibrous
+  materials (lignins) are partially resistant to human digestive enzymes. Fibers have
+  different physiological effects in the body. Some delay gastric emptying, which
+  may temporarily influence feelings of fullness, while other types of fiber increase
+  bulk and water content, reducing constipation and decreasing transit time of feces.
+  In addition, some soluble fibers decrease the absorption of cholesterol and may
+  therefore help reduce blood cholesterol levels after ingestion (104), while prebiotic
+  dietary fibers selectively stimulate the growth of bacteria in the gut (33, 133).
+  Fiber-rich foods include beans, peas, bran, many fruits and vegetables, and some
+  whole-grain foods.
+
+  '
+attributes:
+- contain up to thousands of glucose units
+- starch
+- fiber
+- glycogen
+purpose:
+- storage form of glucose in plants
+related_concepts:
+- concept.starch
+- concept.fiber
+- concept.glycogen
+- concept.cellulose
+- concept.hemicellulose
+- concept.beta_glucans
+- concept.pectins
+- concept.lignins

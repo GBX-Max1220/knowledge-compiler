@@ -1,0 +1,28 @@
+id: concept.muscle_spindles
+type: Concept
+canonical_name: Muscle Spindles
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1263
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Muscle spindles are proprioceptive organs that are sensitive to the rate
+  and magnitude of a stretch; when a quick stretch is detected, muscular activity
+  reflexively increases (31, 49).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

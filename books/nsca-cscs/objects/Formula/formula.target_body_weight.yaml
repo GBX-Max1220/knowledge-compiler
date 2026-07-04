@@ -1,0 +1,29 @@
+id: formula.target_body_weight
+type: Formula
+canonical_name: Target Body Weight Calculation
+semantic_type: Calculation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+formula_text: target body weight = fat free mass / (100% - desired percent body fat)
+variables:
+- name: target body weight
+  description: calculated target body weight
+- name: fat free mass
+  description: FFM
+- name: desired percent body fat
+  description: desired body fat percentage

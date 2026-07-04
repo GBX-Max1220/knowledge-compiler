@@ -1,0 +1,705 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.biomechanics
+type: Concept
+canonical_name: Biomechanics
+semantic_type: FieldOfStudy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Chapter 2"
+  section_title: "Biomechanics of Resistance Exercise"
+  book_page: 104
+  pdf_page: 104
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Biomechanics focuses on the mechanisms through which the components of the musculoskeletal system interact to create movement.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.origin_muscle
+type: Concept
+canonical_name: Origin (muscle)
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Skeletal Musculature"
+  section_title: "Skeletal Musculature"
+  book_page: 105
+  pdf_page: 105
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Traditionally, anatomists define the muscle's origin as its proximal (toward the center of the body) attachment and its insertion as its distal (away from the center of the body) attachment.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.insertion_muscle
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.insertion_muscle
+type: Concept
+canonical_name: Insertion (muscle)
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Skeletal Musculature"
+  section_title: "Skeletal Musculature"
+  book_page: 105
+  pdf_page: 105
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Traditionally, anatomists define the muscle's origin as its proximal (toward the center of the body) attachment and its insertion as its distal (away from the center of the body) attachment.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.origin_muscle
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.prime_mover_agonist
+type: Concept
+canonical_name: Prime mover (agonist)
+semantic_type: MuscleFunction
+aliases: ["agonist"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Skeletal Musculature"
+  section_title: "Skeletal Musculature"
+  book_page: 106
+  pdf_page: 106
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The muscle most directly involved in bringing about a movement is called the prime mover, or agonist.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.antagonist
+  - concept.synergist
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.antagonist
+type: Concept
+canonical_name: Antagonist
+semantic_type: MuscleFunction
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Skeletal Musculature"
+  section_title: "Skeletal Musculature"
+  book_page: 106
+  pdf_page: 106
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A muscle that can slow down or stop the movement is called the antagonist.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.prime_mover_agonist
+  - concept.synergist
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.synergist
+type: Concept
+canonical_name: Synergist
+semantic_type: MuscleFunction
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Skeletal Musculature"
+  section_title: "Skeletal Musculature"
+  book_page: 106
+  pdf_page: 106
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A muscle is called a synergist when it assists indirectly in a movement.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.prime_mover_agonist
+  - concept.antagonist
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.first_class_lever
+type: Concept
+canonical_name: First-class lever
+semantic_type: MechanicalSystem
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 107
+  pdf_page: 107
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.lever
+
+definition: >
+  A lever for which the muscle force and resistive force act on opposite sides of the fulcrum (figure 2.1).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.fulcrum
+  - concept.second_class_lever
+  - concept.third_class_lever
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fulcrum
+type: Concept
+canonical_name: Fulcrum
+semantic_type: MechanicalComponent
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 107
+  pdf_page: 107
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The pivot point of a lever.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.lever
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.lever
+type: Concept
+canonical_name: Lever
+semantic_type: MechanicalSystem
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 108
+  pdf_page: 108
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A rigid or semirigid body that, when subjected to a force whose line of action does not pass through its pivot point, exerts force on any object impeding its tendency to rotate (figure 2.2).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.fulcrum
+  - concept.first_class_lever
+  - concept.second_class_lever
+  - concept.third_class_lever
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mechanical_advantage
+type: Concept
+canonical_name: Mechanical advantage
+semantic_type: MechanicalProperty
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 108
+  pdf_page: 108
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The ratio of the moment arm through which an applied force acts to that through which a resistive force acts.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.moment_arm
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.moment_arm
+type: Concept
+canonical_name: Moment arm
+semantic_type: MechanicalProperty
+aliases: ["force arm", "lever arm", "torque arm"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 109
+  pdf_page: 109
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The perpendicular distance from the line of action of the force to the fulcrum.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.fulcrum
+  - concept.mechanical_advantage
+  - concept.torque
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_force
+type: Concept
+canonical_name: Muscle force
+semantic_type: Force
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 109
+  pdf_page: 109
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Force generated by biochemical activity, or the stretching of noncontractile tissue, which tends to draw the opposite ends of a muscle toward each other.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.resistive_force
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.resistive_force
+type: Concept
+canonical_name: Resistive force
+semantic_type: Force
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 109
+  pdf_page: 109
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Force generated by a source external to the body (e.g., gravity, inertia, friction) that acts contrary to muscle force.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.muscle_force
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.second_class_lever
+type: Concept
+canonical_name: Second-class lever
+semantic_type: MechanicalSystem
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 109
+  pdf_page: 109
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.lever
+
+definition: >
+  A lever for which the muscle force and resistive force act on the same side of the fulcrum, with the muscle force acting through a moment arm longer than that through which the resistive force acts, as when the calf muscles work to raise the body onto the balls of the feet (figure 2.3).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.first_class_lever
+  - concept.third_class_lever
+  - concept.fulcrum
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.third_class_lever
+type: Concept
+canonical_name: Third-class lever
+semantic_type: MechanicalSystem
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 109
+  pdf_page: 109
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.lever
+
+definition: >
+  A lever for which the muscle force and resistive force act on the same side of the fulcrum, with the muscle force acting through a moment arm shorter than that through which the resistive force acts (figure 2.4).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.first_class_lever
+  - concept.second_class_lever
+  - concept.fulcrum
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.torque
+type: Concept
+canonical_name: Torque
+semantic_type: MechanicalProperty
+aliases: ["moment"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Levers of the Musculoskeletal System"
+  section_title: "Levers of the Musculoskeletal System"
+  book_page: 110
+  pdf_page: 110
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The degree to which a force tends to rotate an object about a specified fulcrum. It is defined quantitatively as the magnitude of a force times the length of its moment arm.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.moment_arm
+  - concept.fulcrum
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.strength
+type: Concept
+canonical_name: Strength
+semantic_type: PhysicalAbility
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Human Strength and Power — Basic Definitions"
+  section_title: "Human Strength and Power — Basic Definitions"
+  book_page: 127
+  pdf_page: 127
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Though it is widely accepted that strength is the ability to exert force, there is considerable disagreement as to how strength should be measured.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.acceleration
+type: Concept
+canonical_name: Acceleration
+semantic_type: PhysicalQuantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Human Strength and Power — Basic Definitions"
+  section_title: "Human Strength and Power — Basic Definitions"
+  book_page: 127
+  pdf_page: 127
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  All sports involve acceleration (the change in velocity with respect to time) of the body, a sporting implement (e.g., baseball bat, javelin, tennis racket), or both.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.newtons_second_law_of_motion
+type: Formula
+canonical_name: Newton's second law of motion
+semantic_type: PhysicalLaw
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Biomechanics of Resistance Exercise"
+  section: "Human Strength and Power — Basic Definitions"
+  section_title: "Human Strength and Power — Basic Definitions"
+  book_page: 127
+  pdf_page: 127
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"

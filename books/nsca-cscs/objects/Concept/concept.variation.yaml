@@ -1,0 +1,27 @@
+id: concept.variation
+type: Concept
+canonical_name: Variation
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1190
+  pdf_page: 1190
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Variation within resistance training programs focuses on removing linearity
+  by manipulating overload and specificity to promote the desired adaptations.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

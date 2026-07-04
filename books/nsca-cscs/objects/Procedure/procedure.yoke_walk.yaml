@@ -1,0 +1,79 @@
+id: procedure.yoke_walk
+type: Procedure
+canonical_name: Yoke Walk
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Nontraditional Implements
+  section: '17.4'
+  section_title: Nontraditional Implements
+  book_page: 1151
+  pdf_page: 1151
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A strongman exercise that involves walking while carrying a yoke frame
+  on the upper trapezius muscles.
+
+  '
+attributes:
+- requires_yoke
+- loaded_carry
+- strongman_training
+purpose:
+- strengthen gastrocnemius
+- strengthen soleus
+- strengthen gluteus maximus
+- strengthen rectus femoris
+- strengthen gluteus medius
+- strengthen erector spinae
+- strengthen internal and external obliques
+related_concepts:
+- concept.yoke
+- concept.gastrocnemius
+- concept.soleus
+- concept.gluteus_maximus
+- concept.rectus_femoris
+- concept.gluteus_medius
+- concept.erector_spinae
+- concept.internal_and_external_obliques
+steps:
+- phase: Starting Position
+  description: 'Adjust the yoke to a height that would provide sufficient clearance
+    to walk safely without tripping over it (perhaps 4-6 in. [10-15 cm] of ground
+    clearance). Assume a position under the yoke with the bar positioned on top of
+    the upper trapezius muscles, with the feet positioned underneath the hips and
+    the rest of the body symmetrically positioned under the frame. This should look
+    something similar to the starting position of a partial barbell back squat, except
+    that the hands are positioned on the vertical bars around lower chest height.
+
+    '
+- phase: Liftoff and Walking Phase
+  description: 'After strongly bracing the spine, forcibly push the feet into the
+    ground while pushing the elbows and hands forward into the vertical bars to better
+    stabilize the yoke. While continuing to brace the spine and push the elbows and
+    hands forward, adopt a walking movement pattern in which the spine remains vertical;
+    initially focus on performing a series of short and relatively fast steps. While
+    accelerating, increase the length of steps and further reduce ground contact times.
+
+    '
+- phase: Ending Position
+  description: 'After completing the set distance, flex the hips, knees, and ankles
+    to lower the frame carefully to the ground. Maintain a strong braced spinal position
+    to minimize the risk of impact injury.
+
+    '
+muscles_involved:
+- gastrocnemius
+- soleus
+- gluteus maximus
+- rectus femoris
+- gluteus medius
+- erector spinae
+- internal and external obliques

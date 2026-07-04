@@ -1,0 +1,36 @@
+id: concept.suspension_training
+type: Concept
+canonical_name: Suspension Training
+semantic_type: Training Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1092
+  pdf_page: 1092
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.bodyweight_training_methods
+definition: 'Suspension training is an alternative method for performing bodyweight
+  resistance training that allows for the modification of the resistance applied during
+  numerous upper and lower body exercise options (90).
+
+  '
+attributes:
+- modification_of_resistance
+purpose:
+- perform bodyweight resistance training
+related_concepts:
+- concept.bodyweight_training_methods
+- concept.suspension_trainers

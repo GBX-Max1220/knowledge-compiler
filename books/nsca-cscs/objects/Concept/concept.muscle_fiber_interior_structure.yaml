@@ -1,0 +1,11 @@
+id: concept.muscle_fiber_interior_structure
+type: Concept
+canonical_name: Muscle Fiber Interior Structure
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'

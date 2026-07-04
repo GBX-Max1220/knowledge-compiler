@@ -1,0 +1,35 @@
+id: concept.precompetition_meal
+type: Concept
+canonical_name: Precompetition Meal
+semantic_type: Nutritional_Strategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Precompetition Nutrition
+  section_title: Precompetition Nutrition
+  book_page: 614
+  pdf_page: 614
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The precompetition meal helps provide fluid to maintain adequate hydration,
+  carbohydrate to maximize blood glucose and stored glycogen levels, and protein to
+  reduce muscle soreness (7, 31).
+
+  '
+attributes:
+- provides_fluid
+- provides_carbohydrate
+- provides_protein
+purpose:
+- maintain adequate hydration
+- maximize blood glucose levels
+- maximize stored glycogen levels
+- reduce muscle soreness
+related_concepts: []

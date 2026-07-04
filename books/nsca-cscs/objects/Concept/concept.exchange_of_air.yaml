@@ -1,0 +1,46 @@
+id: concept.exchange_of_air
+type: Concept
+canonical_name: Exchange of Air
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Exchange of Air
+  section_title: Exchange of Air
+  book_page: 77
+  pdf_page: 77
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.respiration
+definition: 'The amount and movement of air and expired gases in and out of the lungs
+  are controlled by expansion and recoil of the lungs. The lungs do not actively expand
+  and recoil themselves but rather are acted on to do so in two ways: by downward
+  and upward movement of the diaphragm to lengthen and shorten the chest cavity and
+  by elevation and depression of the ribs to increase and decrease the back-to-front
+  diameter of the chest cavity (41). Normal, quiet breathing is accomplished almost
+  entirely by movement of the diaphragm. During inspiration, contraction of the diaphragm
+  creates a negative pressure (vacuum) in the chest cavity, and air is drawn into
+  the lungs. During expiration, the diaphragm simply relaxes; the elastic recoil of
+  the lungs, chest wall, and abdominal structures compresses the lungs, and air is
+  expelled. During heavy breathing, the elastic forces alone are not powerful enough
+  to provide the necessary respiratory response. The extra required force is achieved
+  mainly by contraction of the abdominal muscles, which push the abdomen upward against
+  the bottom of the diaphragm (41).
+
+  '
+attributes:
+- controlled_by_diaphragm
+- controlled_by_rib_movement
+related_concepts:
+- concept.diaphragm
+- concept.lungs
+- concept.ribs
+- concept.abdominal_muscles

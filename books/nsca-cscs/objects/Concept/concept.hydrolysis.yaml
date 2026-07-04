@@ -1,0 +1,27 @@
+id: concept.hydrolysis
+type: Concept
+canonical_name: Hydrolysis
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Essential Terminology
+  section_title: Essential Terminology
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The breakdown of one molecule of ATP to yield energy is known as hydrolysis,
+  because it requires one molecule of water.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

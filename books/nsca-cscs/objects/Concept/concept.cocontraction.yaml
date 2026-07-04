@@ -1,0 +1,29 @@
+id: concept.cocontraction
+type: Concept
+canonical_name: Cocontraction
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 421
+  pdf_page: 421
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Cocontraction is a motor control strategy that dynamically stabilizes
+  the joint; however, due to the simultaneous activation of both the agonist and antagonist
+  muscle groups crossing the same joint, net joint moments and agonistic force outputs
+  are reduced (236).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

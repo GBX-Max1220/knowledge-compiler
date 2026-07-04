@@ -1,0 +1,593 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.motivation
+type: Concept
+canonical_name: Motivation
+semantic_type: PsychologicalConstruct
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 481
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The intensity and direction of effort (64).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.intrinsic_motivation
+type: Concept
+canonical_name: Intrinsic Motivation
+semantic_type: PsychologicalConstruct
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 482
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.motivation
+
+definition: >
+  A desire to be competent and self-determining (13).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.extrinsic_motivation
+type: Concept
+canonical_name: Extrinsic Motivation
+semantic_type: PsychologicalConstruct
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 482
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.motivation
+
+definition: >
+  Motivation that comes from some external as opposed to internal source.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.achievement_motivation
+type: Concept
+canonical_name: Achievement Motivation
+semantic_type: PsychologicalConstruct
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 483
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.motivation
+
+definition: >
+  A person’s efforts to master a task, achieve excellence, overcome obstacles, and engage in competition or social comparison.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.motive_to_achieve_success
+type: Concept
+canonical_name: Motive to Achieve Success
+semantic_type: PsychologicalConstruct
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 483
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.achievement_motivation
+
+definition: >
+  Relates to the capacity to experience pride in one’s accomplishments and is characterized by a desire to challenge oneself and evaluate one’s abilities.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.motive_to_avoid_failure
+type: Concept
+canonical_name: Motive to Avoid Failure
+semantic_type: PsychologicalConstruct
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 483
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.achievement_motivation
+
+definition: >
+  Relates to the desire to protect one’s ego and self-esteem. Despite its name, however, MAF is not really about avoiding failure itself. It is more about avoiding the perception of shame that accompanies the failure.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.self_controlled_practice
+type: Concept
+canonical_name: Self-Controlled Practice
+semantic_type: PracticeMethod
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 484
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Involves the athlete in decisions related to the practice structure, including when to receive feedback or which skill to practice; it also involves simply asking athletes how they believe they are doing (10, 11, 12, 73).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.positive_reinforcement
+type: Concept
+canonical_name: Positive Reinforcement
+semantic_type: BehavioralTechnique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 485
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The act of increasing the probability of occurrence of a given behavior (a target behavior, such as correct footwork in basketball, is termed an operant) by following it with a positive action, object, or event such as praise, decals on the helmet, or prizes and awards.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.negative_reinforcement
+type: Concept
+canonical_name: Negative Reinforcement
+semantic_type: BehavioralTechnique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 485
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Also increases the probability of occurrence of a given operant, but it is accomplished through the removal of an act, object, or event that is typically aversive.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.positive_punishment
+type: Concept
+canonical_name: Positive Punishment
+semantic_type: BehavioralTechnique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 485
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The presentation of an act, object, or event following a behavior that could decrease the behavior’s occurrence.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.negative_punishment
+type: Concept
+canonical_name: Negative Punishment
+semantic_type: BehavioralTechnique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 485
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The removal of something valued, could take the form of revoking privileges or playing time, as in benching.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.coaching_instructions_novice_weightlifting
+type: Recommendation
+canonical_name: Coaching Instructions for Novice Weightlifting Athletes
+semantic_type: CoachingStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 477
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  In coaching weightlifting athletes during an important meet, instructions to novice competitors should be simple, clear, and direct.
+
+context: "Coaching weightlifting athletes during an important meet"
+
+target_audience: "Novice weightlifting competitors"
+
+rationale: ""
+
+implementation: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.lower_arousal_decrease_decision_making_developing_athletes
+type: Recommendation
+canonical_name: Lowering Arousal and Decreasing Decision-Making for Developing Athletes
+semantic_type: CoachingStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 477
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Therefore, coaches should lower arousal and decrease the decision-making responsibilities of developing or unseasoned athletes (players who are skilled but lack competitive experience) and have them focus on simple assignments to prevent attentional overload.
+
+context: "Coaching developing or unseasoned athletes"
+
+target_audience: "Developing or unseasoned athletes"
+
+rationale: "To prevent attentional overload"
+
+implementation: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.use_reinforcement_over_punishment
+type: Recommendation
+canonical_name: Using Reinforcement Over Punishment
+semantic_type: CoachingStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 485
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Although coaches use a mixture of both reward and punishment, reinforcement (i.e., reward), or a positive approach, is arguably better because it focuses on what athletes should do and what they did right (termed specific positive feedback).
+
+context: "Coaching athletes"
+
+target_audience: "Coaches"
+
+rationale: "It focuses on what athletes should do and what they did right"
+
+implementation: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.engage_athletes_in_practice_decisions
+type: Recommendation
+canonical_name: Engaging Athletes in Practice Decisions
+semantic_type: CoachingStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 484
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Engaging the athletes in some decisions related to the practice schedule is an easy yet effective way to allow them autonomy and ownership in reaching their sport performance goals.
+
+context: "Practice scheduling"
+
+target_audience: "Coaches"
+
+rationale: "To allow athletes autonomy and ownership in reaching their sport performance goals"
+
+implementation: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.inverted_u_theory
+type: Concept
+canonical_name: Inverted-U Theory
+semantic_type: Theory
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.2"
+  section_title: "Ideal Performance State"
+  book_page: 479
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Inverted-U theory and its modifications. Reprinted by permission from B.D. Hatfield and G.A. Walford, "Understanding Anxiety: Implications for Sport Performance," National Strength and Conditioning Association Journal 9 (1987): 60-61.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

@@ -1,0 +1,43 @@
+id: procedure.barbell_bench_press_with_weight_releasers
+type: Procedure
+canonical_name: Barbell Bench Press with Weight Releasers
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Unilateral Training
+  section: '17.5'
+  section_title: Unilateral Training
+  book_page: 1166
+  pdf_page: 1166
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Lower the barbell under control to reduce the movement of the weight
+  releasers. The weight releasers will disengage from the barbell about 2 to 4 inches
+  (5-10 cm) before touching the chest at approximately nipple level. Keep the wrists
+  stiff and the forearms perpendicular to the floor and parallel to each other. Maintain
+  the five-point body contact position. Upward Movement Phase Push the barbell upward
+  and very slightly backward as fast as possible until the elbows are fully extended.
+  Keep the wrists stiff and the forearms perpendicular to the floor and parallel to
+  each other. Maintain the five-point body contact position. Do not arch the back
+  or raise the chest to meet the bar. At the end of the set, signal the spotter for
+  assistance in racking the bar. Keep a grip on the bar until it is racked. MAJOR
+  MUSCLES INVOLVED pectoralis major, anterior deltoids, triceps brachii
+
+  '
+attributes:
+- barbell
+- weight releasers
+- five-point body contact position
+purpose:
+- enhance performance during the concentric phase of a plyometric jumping exercise
+related_concepts:
+- concept.pectoralis_major
+- concept.anterior_deltoids
+- concept.triceps_brachii

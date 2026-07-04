@@ -1,0 +1,31 @@
+id: concept.resistance_exercise
+type: Concept
+canonical_name: Resistance Exercise
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 384
+  pdf_page: 384
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For the purposes of this chapter, resistance exercise is defined as a
+  specialized method of conditioning whereby an individual is working against a wide
+  range of resistive loads to enhance health, fitness, and performance.
+
+  '
+attributes: []
+purpose:
+- enhance health
+- enhance fitness
+- enhance performance
+related_concepts: []

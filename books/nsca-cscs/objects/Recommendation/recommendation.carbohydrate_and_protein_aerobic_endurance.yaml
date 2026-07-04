@@ -1,0 +1,32 @@
+id: recommendation.carbohydrate_and_protein_aerobic_endurance
+type: Recommendation
+canonical_name: Carbohydrate and protein intake for aerobic endurance athletes
+semantic_type: Nutrition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Athletic Performance
+  section: '11.3'
+  section_title: Postcompetition Nutrition
+  book_page: 637
+  pdf_page: 637
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Aerobic endurance athletes should aim to consume 8 to 10 grams of carbohydrate
+  during their most demanding training phases or competition and 1.4 to 2.0 grams
+  of protein per kilogram body weight per day throughout their training.
+
+  '
+attributes:
+- carbohydrate
+- protein
+- aerobic_endurance
+purpose:
+- meet nutritional needs during demanding training phases
+related_concepts: []

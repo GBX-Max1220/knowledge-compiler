@@ -1,0 +1,492 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.periodization
+type: Concept
+canonical_name: Periodization
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization"
+  section_title: "Periodization"
+  book_page: 1579
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Periodization is the logical and systematic process of sequencing and integrating training interventions in order to manage the training process and to increase the potential of achieving peak performance at appropriate time points.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.general_adaptation_syndrome
+type: Concept
+canonical_name: General Adaptation Syndrome
+semantic_type: Theory
+aliases: ["GAS"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Central Concepts Related to Periodization — The General Adaptation Syndrome"
+  section_title: "The General Adaptation Syndrome"
+  book_page: 1582
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In the 1930s, Hans Selye, a pioneering researcher on the biological effects of exposure to stressful stimuli, presented the basic concepts of the GAS in which a three-stage response to stress (alarm, resistance, and exhaustion) was presented.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stimulus_fatigue_recovery_adaptation_theory
+type: Concept
+canonical_name: Stimulus–Fatigue–Recovery–Adaptation Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Central Concepts Related to Periodization — Stimulus–Fatigue–Recovery–Adaptation Theory"
+  section_title: "Stimulus–Fatigue–Recovery–Adaptation Theory"
+  book_page: 1583
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.general_adaptation_syndrome
+definition: >
+  The stimulus–fatigue–recovery–adaptation theory is an extension of the GAS and suggests that training stimuli produce a general response that is influenced by the overall magnitude of the training stressor.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fitness_fatigue_paradigm
+type: Concept
+canonical_name: Fitness–Fatigue Paradigm
+semantic_type: Theory
+aliases: ["two-factor model"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Central Concepts Related to Periodization — Fitness–Fatigue Paradigm"
+  section_title: "Fitness–Fatigue Paradigm"
+  book_page: 1585
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In 1995, Zatsiorsky (106) presented the classic explanation of these relationships as the two-factor model, more commonly referred to as the fitness–fatigue paradigm.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.parallel_training_models
+type: Concept
+canonical_name: Parallel Training Models
+semantic_type: Model
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Models of Periodization — Parallel Training Models"
+  section_title: "Parallel Training Models"
+  book_page: 1589
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The parallel training models, as shown in figure 22.5, involve targeting all training factors simultaneously within one training session, training day, series of training days, or a microcycle.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sequential_training_models
+type: Concept
+canonical_name: Sequential Training Models
+semantic_type: Model
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Models of Periodization — Sequential Training Models"
+  section_title: "Sequential Training Models"
+  book_page: 1589
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Sequential training models, as shown in figure 22.5, were created to address the limitations associated with the parallel model of training, such as the inability to simultaneously develop multiple motor and technical abilities, the need for longer preparation periods, and the inability to accommodate dense competitive schedules.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.emphasis_training_models
+type: Concept
+canonical_name: Emphasis Training Models
+semantic_type: Model
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Models of Periodization — Emphasis Training Models"
+  section_title: "Emphasis Training Models"
+  book_page: 1590
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Emphasis training models, as shown in figure 22.5, contain aspects of both parallel and sequential models of periodization.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.preparatory_period
+type: Concept
+canonical_name: Preparatory Period
+semantic_type: TrainingPeriod
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — Preparatory Period"
+  section_title: "Preparatory Period"
+  book_page: 1594
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The preparatory period occurs when there are no competitions, and technical, tactical, or sport-specific work is limited. This period often corresponds to what is termed the off-season.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hypertrophy_or_strength_endurance_phase
+type: Concept
+canonical_name: Hypertrophy or Strength–Endurance Phase
+semantic_type: TrainingPhase
+aliases: ["strength–endurance phase"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — Preparatory Period — Hypertrophy or Strength–Endurance Phase"
+  section_title: "Hypertrophy or Strength–Endurance Phase"
+  book_page: 1595
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.preparatory_period
+definition: >
+  The hypertrophy phase, which is also referred to as the strength–endurance phase, generally occurs during the early portion of the preparatory period (i.e., the general preparatory phase).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hypertrophy_or_strength_endurance_phase_intensity
+type: Threshold
+canonical_name: Hypertrophy or Strength–Endurance Phase Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — Preparatory Period — Hypertrophy or Strength–Endurance Phase"
+  section_title: "Hypertrophy or Strength–Endurance Phase"
+  book_page: 1596
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: applies_to
+    target: concept.hypertrophy_or_strength_endurance_phase
+definition: "The hypertrophy or strength–endurance phase involves low to moderate intensity (50%-75% of the 1RM) and high volumes (3 to 6 sets of 8-20 repetitions)."
+value: "50%-75% of the 1RM"
+unit: "% of 1RM"
+range: "50-75"
+comparison: "range"
+context: "hypertrophy or strength–endurance phase"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hypertrophy_or_strength_endurance_phase_volume
+type: Threshold
+canonical_name: Hypertrophy or Strength–Endurance Phase Volume
+semantic_type: Volume
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — Preparatory Period — Hypertrophy or Strength–Endurance Phase"
+  section_title: "Hypertrophy or Strength–Endurance Phase"
+  book_page: 1596
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: applies_to
+    target: concept.hypertrophy_or_strength_endurance_phase
+definition: "The hypertrophy or strength–endurance phase involves low to moderate intensity (50%-75% of the 1RM) and high volumes (3 to 6 sets of 8-20 repetitions)."
+value: "3 to 6 sets of 8-20 repetitions"
+unit: "sets and repetitions"
+range: "3-6 sets, 8-20 reps"
+comparison: "range"
+context: "hypertrophy or strength–endurance phase"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.basic_strength_phase
+type: Concept
+canonical_name: Basic Strength Phase
+semantic_type: TrainingPhase
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — Preparatory Period — Basic Strength Phase"
+  section_title: "Basic Strength Phase"
+  book_page: 1597
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.preparatory_period
+definition: >
+  In the later portion of the preparatory period, during the specific preparatory phase, the primary aim of the basic strength phase is to increase the strength of the muscles that are essential to the primary sport movements.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.basic_strength_phase_intensity
+type: Threshold
+canonical_name: Basic Strength Phase Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — Preparatory Period — Basic Strength Phase"
+  section_title: "Basic Strength Phase"
+  book_page: 1597
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: applies_to
+    target: concept.basic_strength_phase
+definition: "The basic strength phase involves higher intensity (80%-95% of the 1RM) and moderate to high volumes (2 to 6 sets of 2 to 6 repetitions)."
+value: "80%-95% of the 1RM"
+unit: "% of 1RM"
+range: "80-95"
+comparison: "range"
+context: "basic strength phase"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.basic_strength_phase_volume
+type: Threshold
+canonical_name: Basic Strength Phase Volume
+semantic_type: Volume
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — Preparatory Period — Basic Strength Phase"
+  section_title: "Basic Strength Phase"
+  book_page: 1597
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: applies_to
+    target: concept.basic_strength_phase
+definition: "The basic strength phase involves higher intensity (80%-95% of the 1RM) and moderate to high volumes (2 to 6 sets of 2 to 6 repetitions)."
+value: "2 to 6 sets of 2 to 6 repetitions"
+unit: "sets and repetitions"
+range: "2-6 sets, 2-6 reps"
+comparison: "range"
+context: "basic strength phase"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.first_transition_period
+type: Concept
+canonical_name: First Transition Period
+semantic_type: TrainingPeriod
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — First Transition Period"
+  section_title: "First Transition Period"
+  book_page: 1597
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The first transition period is a link between the preparatory and competitive periods.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.strength_power_phase
+type: Concept
+canonical_name: Strength/Power Phase
+semantic_type: TrainingPhase
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — First Transition Period"
+  section_title: "Strength/Power Phase"
+  book_page: 1597
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.first_transition_period
+definition: >
+  The main phase within the first transition period is the strength/power phase.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.strength_power_phase_intensity
+type: Threshold
+canonical_name: Strength/Power Phase Intensity
+semantic_type: Intensity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 22
+  chapter_title: "Periodization"
+  section: "Chapter 22 — Periodization — Periodization Periods — First Transition Period"
+  section_title: "Strength/Power Phase"
+  book_page: 1598
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: applies_to
+    target: concept.strength_power_phase

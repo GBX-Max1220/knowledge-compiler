@@ -1,0 +1,29 @@
+id: recommendation.arousal_control_techniques
+type: Recommendation
+canonical_name: Use of Arousal Control Techniques
+semantic_type: Performance Strategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: 'Energy Management: Arousal and Anxiety'
+  section: '9.3'
+  section_title: 'Energy Management: Arousal and Anxiety'
+  book_page: 494
+  pdf_page: 494
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'An athlete should employ arousal reduction techniques when performing
+  a new skill or one that is complex or when performing in high-pressure situations.
+  Athletes should employ arousal enhancement techniques when executing simple skills,
+  ones that are well learned, or in situations of minimal pressure.
+
+  '
+context: []
+rationale: []
+contraindications: []

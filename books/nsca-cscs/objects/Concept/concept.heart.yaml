@@ -4,12 +4,12 @@ canonical_name: Heart
 semantic_type: Organ
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
   chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.03'
-  section_title: Cardiovascular System
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Cardiovascular System — Heart
   book_page: 67
   pdf_page: 67
 provenance:
@@ -18,24 +18,25 @@ provenance:
   reviewed: auto
 evidence_level: ''
 relationships:
-- predicate: part_of
-  target: concept.cardiovascular_system
+- predicate: has_attribute
+  target: concept.valves
+- predicate: has_attribute
+  target: concept.conduction_system
 definition: 'The heart is a muscular organ composed of two interconnected but separate
   pumps; the right side of the heart pumps blood through the lungs, and the left side
   pumps blood through the rest of the body. Each pump has two chambers: an atrium
-  and a ventricle.
+  and a ventricle (figure 1.11). The right and left atria deliver blood into the right
+  and left ventricles. The right and left ventricles supply the main force for moving
+  blood through the pulmonary and peripheral circulations, respectively (41).
 
   '
 attributes:
-- muscular
-- two_pumps
-- right_side_pumps_to_lungs
-- left_side_pumps_to_body
+- muscular organ
+- two interconnected but separate pumps
+- right side pumps blood through lungs
+- left side pumps blood through rest of body
+- each pump has an atrium and a ventricle
 purpose:
 - pump blood through lungs
 - pump blood through rest of body
-related_concepts:
-- concept.atrium
-- concept.ventricle
-- concept.valves
-- concept.conduction_system
+related_concepts: []

@@ -4,12 +4,12 @@ canonical_name: Sarcomere
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
   chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.01'
-  section_title: Introduction and Musculoskeletal System
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.5
+  section_title: Sectional view of a muscle fiber
   book_page: 47
   pdf_page: 47
 provenance:
@@ -20,16 +20,19 @@ evidence_level: ''
 relationships:
 - predicate: part_of
   target: concept.myofibril
-definition: 'The smallest contractile unit of skeletal muscle. Myosin and actin filaments
-  are organized longitudinally in the sarcomere. Sarcomeres average about 2.5 μm in
-  length in a relaxed fiber (approximately 4,500 per centimeter of muscle length)
-  and are repeated through the entire length of myofibrils that span the muscle fiber.
+definition: 'Myosin and actin filaments are organized longitudinally in the smallest
+  contractile unit of skeletal muscle termed the sarcomere. Sarcomeres average about
+  2.5 μm in length in a relaxed fiber (approximately 4,500 per centimeter of muscle
+  length) and are repeated through the entire length of myofibrils that span the muscle
+  fiber (4).
 
   '
 attributes:
-- average about 2.5 μm in length in a relaxed fiber
+- smallest_contractile_unit
+- average_length_relaxed: 2.5 μm
+- number_per_centimeter: 4,500
 purpose:
-- smallest contractile unit of skeletal muscle
+- contractile unit of skeletal muscle
 related_concepts:
 - concept.a_band
 - concept.i_band

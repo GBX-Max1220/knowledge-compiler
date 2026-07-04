@@ -1,0 +1,35 @@
+id: threshold.caffeine_intake_side_effect_risk
+type: Threshold
+canonical_name: Caffeine Intake Threshold for Increased Side Effect Risk
+semantic_type: Intake Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 721
+  pdf_page: 721
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.lethal_dose_caffeine
+definition: 'Caffeine intakes greater than 9 milligrams per kilogram appear to result
+  in a greater risk for side effects (99).
+
+  '
+attributes:
+- caffeine_intake
+- side_effect_risk
+purpose: []
+related_concepts:
+- warning.caffeine_adverse_effects
+threshold_value: '>9 mg/kg'
+unit: mg/kg
+operator: '>'

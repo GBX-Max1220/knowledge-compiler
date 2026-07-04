@@ -1,0 +1,30 @@
+id: recommendation.engage_athletes_in_practice_decisions
+type: Recommendation
+canonical_name: Engaging Athletes in Practice Decisions
+semantic_type: CoachingStrategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.2'
+  section_title: Ideal Performance State
+  book_page: 484
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Engaging the athletes in some decisions related to the practice
+  schedule is an easy yet effective way to allow them autonomy and ownership in reaching
+  their sport performance goals.
+
+  '
+context: Practice scheduling
+target_audience: Coaches
+rationale: To allow athletes autonomy and ownership in reaching their sport performance
+  goals
+implementation: ''

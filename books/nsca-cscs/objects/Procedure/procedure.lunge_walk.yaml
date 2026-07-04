@@ -1,0 +1,36 @@
+id: procedure.lunge_walk
+type: Procedure
+canonical_name: Lunge Walk
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Program Design Considerations
+  section: '15.4'
+  section_title: Program Design Considerations
+  book_page: 923
+  pdf_page: 923
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Stand erect with the feet parallel to each other and shoulder-width apart.
+  Take an exaggerated step directly forward with the left leg, planting the left foot
+  flat on the floor pointing straight ahead. Allow the left hip and knee to slowly
+  flex, keeping the left knee directly over the left foot. Slightly flex the right
+  knee and lower it until it is 1 to 2 inches (3-5 cm) above the floor; the right
+  foot should be pointed straight ahead. Balance the weight evenly between the ball
+  of the right foot and the entire left foot. Keep the torso perpendicular to the
+  floor by sitting back on the right leg. Forcefully push off of the floor by extending
+  the left hip and knee. Pick up the right foot and place it next to the left foot;
+  do not stutter-step forward. Stand erect, pause, and then step forward with the
+  right leg, progressing forward with each step.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

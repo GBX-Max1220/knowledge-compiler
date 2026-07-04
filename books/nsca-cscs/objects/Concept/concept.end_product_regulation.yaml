@@ -1,0 +1,10 @@
+id: concept.end_product_regulation
+type: Concept
+canonical_name: End Product Regulation
+semantic_type: RegulatoryProcess
+aliases:
+- Feedback Regulation
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: null

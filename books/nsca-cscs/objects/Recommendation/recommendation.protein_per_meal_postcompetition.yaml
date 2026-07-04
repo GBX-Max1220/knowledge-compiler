@@ -1,0 +1,31 @@
+id: recommendation.protein_per_meal_postcompetition
+type: Recommendation
+canonical_name: Protein per meal for muscle remodeling
+semantic_type: Nutrition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Athletic Performance
+  section: '11.3'
+  section_title: Postcompetition Nutrition
+  book_page: 636
+  pdf_page: 636
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For optimal muscle remodeling, experts suggest consuming at least 20
+  to 40 grams of protein per meal and eating meals every 3 to 4 hours in order to
+  facilitate meeting daily protein targets.
+
+  '
+attributes:
+- protein
+- muscle_remodeling
+purpose:
+- facilitate meeting daily protein targets
+related_concepts: []

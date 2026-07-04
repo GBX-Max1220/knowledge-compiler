@@ -1,0 +1,28 @@
+id: concept.progressive_overload
+type: Concept
+canonical_name: Progressive Overload
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1279
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Plyometrics is a form of resistance training and thus must follow the
+  principles of progressive overload, which is the systematic increase in training
+  frequency, volume, and intensity in various combinations.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,31 @@
+id: concept.creatine_phosphate
+type: Concept
+canonical_name: Creatine Phosphate
+semantic_type: Molecule
+aliases:
+- CP
+- Phosphocreatine
+- PCr
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Phosphagen System
+  section_title: Phosphagen System
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'This energy system relies on the hydrolysis of ATP (equation 3.1) and
+  breakdown of another high-energy phosphate molecule called creatine phosphate (CP),
+  also called phosphocreatine (PCr).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,35 @@
+id: table_row.physiological_and_anatomical_changes_in_pregnancy_third_trimester_cardiorespiratory
+type: TableRow
+canonical_name: Physiological and Anatomical Changes in Pregnancy Third Trimester
+  Cardiorespiratory
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.0'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 442
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_name: Physiological and Anatomical Changes in Pregnancy
+row_data:
+  trimester: Third
+  category: Cardiorespiratory
+  details: Slight decrease in cardiac output at term with stroke volume decreasing
+    and heart rate increasing; Peripheral vascular resistance begins to increase from
+    32 weeks; Blood volume increases 50% of prepregnancy levels with a 50% increase
+    in plasma volume by 34 weeks
+citations:
+- 86a
+- 89b
+- 96a
+- 162a
+- 186a
+- 187a

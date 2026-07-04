@@ -1,0 +1,46 @@
+id: concept.anatomical_core
+type: Concept
+canonical_name: Anatomical Core
+semantic_type: Body Region
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1095
+  pdf_page: 1095
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.core
+definition: 'Typically, the anatomical core is defined as the axial skeleton and all
+  the soft tissues with proximal attachments that originate on the axial skeleton
+  (13, 14). It is important to note that the appendicular skeleton includes the pelvic
+  and shoulder girdles, while the soft tissues include the articular cartilage and
+  fibrocartilage, ligaments, tendons, muscles, and fascia (13).
+
+  '
+attributes:
+- axial_skeleton
+- soft_tissues
+- pelvic_girdle
+- shoulder_girdle
+- articular_cartilage
+- fibrocartilage
+- ligaments
+- tendons
+- muscles
+- fascia
+purpose: []
+related_concepts:
+- concept.core
+- concept.axial_skeleton

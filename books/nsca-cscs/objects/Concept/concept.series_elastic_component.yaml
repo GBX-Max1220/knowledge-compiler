@@ -1,0 +1,29 @@
+id: concept.series_elastic_component
+type: Concept
+canonical_name: Series Elastic Component
+semantic_type: AnatomicalStructure
+aliases:
+- SEC
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1262
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Of the mechanical model''s many elements, it is the series elastic component
+  (SEC) that is the workhorse of plyometric exercise. While the SEC includes some
+  muscular components, it is the tendons that constitute the majority of the SEC.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

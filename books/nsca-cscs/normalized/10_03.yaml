@@ -1,0 +1,466 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.carbohydrate
+type: Concept
+canonical_name: Carbohydrate
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 556
+  pdf_page: 556
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.monosaccharides
+  - predicate: has_attribute
+    target: concept.disaccharides
+  - predicate: has_attribute
+    target: concept.polysaccharides
+definition: >
+  Carbohydrate primarily serves as a source of energy. However, carbohydrate is not an essential nutrient, because the body can break down the carbon skeletons of certain amino acids and convert them into glucose (i.e., gluconeogenesis). Carbohydrates are composed of carbon, hydrogen, and oxygen. Carbohydrates can be classified into three groups according to the number of sugar (saccharide) units they contain: monosaccharides, disaccharides, and polysaccharides.
+attributes:
+  - source of energy
+  - not essential nutrient
+  - composed of carbon
+  - composed of hydrogen
+  - composed of oxygen
+purpose:
+  - serve as a source of energy
+related_concepts:
+  - concept.gluconeogenesis
+  - concept.monosaccharides
+  - concept.disaccharides
+  - concept.polysaccharides
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.monosaccharides
+type: Concept
+canonical_name: Monosaccharides
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 556
+  pdf_page: 556
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.carbohydrate
+definition: >
+  Monosaccharides (glucose, fructose, and galactose) are single-sugar molecules. In the body, glucose is present as circulating sugar in the blood, where it is used as the primary energy substrate for cells. In addition, glucose molecules make up glycogen, a polysaccharide stored in muscle and liver cells. In food, glucose is typically combined with other monosaccharides to form various sugars, such as sucrose. Isolated glucose found in candy or sport drinks is found in the form of dextrose, a chemical isomer of glucose. Fructose has the same chemical formula as glucose, but because the atoms are arranged differently, it tastes much sweeter and has different properties. Fructose accounts for the sweet taste of honey and occurs naturally in fruits and vegetables. In the body, fructose causes less insulin secretion than other sugars, which has made it a focus of much research in the area of aerobic endurance performance. Galactose, the third monosaccharide, combines with glucose to form lactose, milk sugar.
+attributes:
+  - single-sugar molecules
+  - glucose
+  - fructose
+  - galactose
+purpose:
+  - used as primary energy substrate for cells
+related_concepts:
+  - concept.glucose
+  - concept.fructose
+  - concept.galactose
+  - concept.glycogen
+  - concept.sucrose
+  - concept.dextrose
+  - concept.lactose
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.disaccharides
+type: Concept
+canonical_name: Disaccharides
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 559
+  pdf_page: 559
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.carbohydrate
+definition: >
+  Disaccharides (sucrose, lactose, and maltose) are composed of two simple sugar units joined together. Sucrose (or table sugar), the most common disaccharide, is a combination of glucose and fructose. Sucrose occurs naturally in most fruits and is crystallized from the syrup of sugar cane and sugar beets to make brown, white, or powdered sugar. Lactose (glucose + galactose) is found only in mammalian milk. Maltose (glucose + glucose) occurs primarily when polysaccharides are broken down during digestion. It also occurs in the fermentation process of alcohol and is the primary carbohydrate in beer.
+attributes:
+  - composed of two simple sugar units
+  - sucrose
+  - lactose
+  - maltose
+purpose: []
+related_concepts:
+  - concept.sucrose
+  - concept.lactose
+  - concept.maltose
+  - concept.glucose
+  - concept.fructose
+  - concept.galactose
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.polysaccharides
+type: Concept
+canonical_name: Polysaccharides
+semantic_type: Nutrient
+aliases:
+  - complex carbohydrates
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 560
+  pdf_page: 560
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.carbohydrate
+  - predicate: has_attribute
+    target: concept.glycogen
+definition: >
+  Polysaccharides, also known as complex carbohydrates, contain up to thousands of glucose units. Some of the most common polysaccharides of nutritional importance are starch, fiber, and glycogen. Starch is the storage form of glucose in plants. Grains, legumes, and vegetables are good sources of starch. Before starch can be used as a source of energy, it must be broken down into glucose components. Dietary fiber, a constituent of the plant cell wall, is also a form of carbohydrate. Cellulose, hemicellulose, beta-glucans, and pectins are fibers; these and noncarbohydrate fibrous materials (lignins) are partially resistant to human digestive enzymes. Fibers have different physiological effects in the body. Some delay gastric emptying, which may temporarily influence feelings of fullness, while other types of fiber increase bulk and water content, reducing constipation and decreasing transit time of feces. In addition, some soluble fibers decrease the absorption of cholesterol and may therefore help reduce blood cholesterol levels after ingestion (104), while prebiotic dietary fibers selectively stimulate the growth of bacteria in the gut (33, 133). Fiber-rich foods include beans, peas, bran, many fruits and vegetables, and some whole-grain foods.
+attributes:
+  - contain up to thousands of glucose units
+  - starch
+  - fiber
+  - glycogen
+purpose:
+  - storage form of glucose in plants
+related_concepts:
+  - concept.starch
+  - concept.fiber
+  - concept.glycogen
+  - concept.cellulose
+  - concept.hemicellulose
+  - concept.beta_glucans
+  - concept.pectins
+  - concept.lignins
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.glycogen
+type: Concept
+canonical_name: Glycogen
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 560
+  pdf_page: 560
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.polysaccharides
+definition: >
+  Glycogen is found in small (80, 161) amounts in human liver and muscle, totaling approximately 15 grams of glycogen per kilogram body weight (1) and in animal tissue as a temporary source of stored energy (22). While present in animal meats we eat such as steak, chicken breast, and fish fillets, it is not present to any large extent. When glucose enters the muscles and liver, if it is not metabolized for energy it can be synthesized to form glycogen. Three-quarters of the glycogen in the body is stored in skeletal muscle; the remaining quarter is stored in the liver (22). The process of converting glucose to glycogen is called glycogenesis.
+attributes:
+  - found in human liver and muscle
+  - found in animal tissue
+purpose:
+  - temporary source of stored energy
+related_concepts:
+  - concept.glucose
+  - concept.glycogenesis
+  - concept.skeletal_muscle
+  - concept.liver
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.glycemic_index
+type: Concept
+canonical_name: Glycemic Index
+semantic_type: Metric
+aliases:
+  - GI
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 561
+  pdf_page: 561
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The glycemic index (GI) ranks carbohydrates according to how quickly they are digested and absorbed, and therefore raise blood glucose levels, in the 2-hour time period after a meal, compared to the same amount (by weight in grams) of a reference food, typically white bread or glucose, which is given a GI of 100 (78).
+attributes:
+  - ranks carbohydrates
+  - based on 2-hour time period after a meal
+  - reference food is white bread or glucose
+purpose:
+  - rank carbohydrates according to how quickly they are digested and absorbed
+related_concepts:
+  - concept.blood_glucose
+  - concept.carbohydrate
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.glycemic_index
+type: Formula
+canonical_name: Glycemic Index Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 561
+  pdf_page: 561
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Glycemic index = Incremental area under the curve for the blood glucose response after consumption of a 25 or 50g carbohydrate portion of a test food ÷ Incremental area under the curve for the blood glucose response after consumption of the same portion (in grams) of a standard food × 100 (10.1)
+attributes: []
+purpose:
+  - calculate glycemic index
+related_concepts:
+  - concept.glycemic_index
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.glycemic_load
+type: Concept
+canonical_name: Glycemic Load
+semantic_type: Metric
+aliases:
+  - GL
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 563
+  pdf_page: 563
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The glycemic load (GL) takes the amount of carbohydrate, in grams, in a portion of food into account — a factor that also influences glycemic response. Because GL takes portion size into account, it is a more realistic gauge of glycemic response than the GI, which is based on a standard serving size.
+attributes:
+  - takes amount of carbohydrate into account
+  - takes portion size into account
+purpose:
+  - gauge glycemic response
+related_concepts:
+  - concept.glycemic_index
+  - concept.glycemic_response
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.glycemic_load
+type: Formula
+canonical_name: Glycemic Load Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 563
+  pdf_page: 563
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Glycemic load = GI of an individual food × grams of carbohydrate per serving of food ÷ 100 (10.2)
+attributes: []
+purpose:
+  - calculate glycemic load
+related_concepts:
+  - concept.glycemic_load
+  - concept.glycemic_index
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.food_allergy
+type: Concept
+canonical_name: Food Allergy
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 564
+  pdf_page: 564
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A food allergy is defined as "an adverse health effect arising from a specific immune response that occurs reproducibly on exposure to a given food," and a food sensitivity, also known as food intolerance, is defined as "nonimmune reactions that include metabolic, toxic, pharmacologic, and undefined mechanisms" (17).
+attributes:
+  - adverse health effect
+  - specific immune response
+  - occurs reproducibly on exposure to a given food
+purpose: []
+related_concepts:
+  - concept.food_sensitivity
+  - concept.food_intolerance
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.lipids
+type: Concept
+canonical_name: Lipids
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 564
+  pdf_page: 564
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.triglycerides
+  - predicate: has_attribute
+    target: concept.fatty_acids
+  - predicate: has_attribute
+    target: concept.phospholipids
+  - predicate: has_attribute
+    target: concept.cholesterol
+definition: >
+  Although the terms fat and lipid are often used interchangeably, lipid is a broader term. Lipids include triglycerides (fats and oils) as well as related fatty compounds, such as sterols and phospholipids. The lipids of greatest significance in nutrition are triglycerides, fatty acids, phospholipids, and cholesterol. Triglycerides are formed by the union of glycerol with three fatty acids. The majority of lipids found in foods and in the body are in the triglyceride form, and within this chapter the term fat refers to triglycerides.
+attributes:
+  - includes triglycerides
+  - includes sterols
+  - includes phospholipids
+purpose: []
+related_concepts:
+  - concept.triglycerides
+  - concept.fatty_acids
+  - concept.phospholipids
+  - concept.cholesterol
+  - concept.glycerol
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.triglycerides
+type: Concept
+canonical_name: Triglycerides
+semantic_type: Nutrient
+aliases:
+  - fat
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 564
+  pdf_page: 564
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.lipids
+definition: >
+  Triglycerides are formed by the union of glycerol with three fatty acids. The majority of lipids found in foods and in the body are in the triglyceride form, and within this chapter the term fat refers to triglycerides.
+attributes:
+  - formed by union of glycerol with three fatty acids
+purpose: []
+related_concepts:
+  - concept.glycerol
+  - concept.fatty_acids
+  - concept.lipids
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.saturated_fatty_acids
+type: Concept
+canonical_name: Saturated Fatty Acids
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.3"
+  section_title: "Macronutrients"
+  book_page: 567

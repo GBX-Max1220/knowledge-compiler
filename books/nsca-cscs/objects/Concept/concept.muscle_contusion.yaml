@@ -1,0 +1,11 @@
+id: concept.muscle_contusion
+type: Concept
+canonical_name: Muscle Contusion
+semantic_type: Injury Type
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38

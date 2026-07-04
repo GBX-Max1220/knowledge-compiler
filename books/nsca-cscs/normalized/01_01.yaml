@@ -1,379 +1,17 @@
 # ontology: knowledge-compiler/v1
 
-id: concept.skeletal_system
+id: concept.skeletal_muscle_macrostructure_and_microstructure
 type: Concept
-canonical_name: Skeletal System
-semantic_type: AnatomicalSystem
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 39
-  pdf_page: 39
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.musculoskeletal_system
-definition: >
-  The system of the human body consisting of bones, joints, muscles, and tendons configured to allow the great variety of movements characteristic of human activity.
-attributes:
-  - bones
-  - joints
-  - muscles
-  - tendons
-purpose:
-  - provide leverage
-  - provide support
-  - provide protection to internal organs
-related_concepts:
-  - concept.axial_skeleton
-  - concept.appendicular_skeleton
-  - concept.joint
----
-# ontology: knowledge-compiler/v1
-
-id: concept.axial_skeleton
-type: Concept
-canonical_name: Axial Skeleton
+canonical_name: Skeletal Muscle Macrostructure and Microstructure
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
   chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 39
-  pdf_page: 39
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.skeletal_system
-definition: >
-  The part of the skeleton consisting of the skull (cranium), vertebral column (vertebra C1 through the coccyx), ribs, and sternum.
-attributes:
-  - skull
-  - vertebral column
-  - ribs
-  - sternum
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.appendicular_skeleton
-type: Concept
-canonical_name: Appendicular Skeleton
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 39
-  pdf_page: 39
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.skeletal_system
-definition: >
-  The part of the skeleton including the shoulder (or pectoral) girdle (left and right scapula and clavicle); bones of the arms, wrists, and hands (left and right humerus, radius, ulna, carpals, metacarpals, and phalanges); the pelvic girdle (left and right coxal or innominate bones); and the bones of the legs, ankles, and feet (left and right femur, patella, tibia, fibula, tarsals, metatarsals, and phalanges).
-attributes:
-  - shoulder girdle
-  - bones of arms
-  - bones of wrists
-  - bones of hands
-  - pelvic girdle
-  - bones of legs
-  - bones of ankles
-  - bones of feet
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.joint
-type: Concept
-canonical_name: Joint
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 39
-  pdf_page: 39
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.skeletal_system
-definition: >
-  Junctions of bones.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.fibrous_joint
-  - concept.cartilaginous_joint
-  - concept.synovial_joint
----
-# ontology: knowledge-compiler/v1
-
-id: concept.fibrous_joint
-type: Concept
-canonical_name: Fibrous Joint
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 39
-  pdf_page: 39
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.joint
-definition: >
-  Joints that allow virtually no movement, e.g., sutures of the skull.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.cartilaginous_joint
-type: Concept
-canonical_name: Cartilaginous Joint
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 39
-  pdf_page: 39
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.joint
-definition: >
-  Joints that allow limited movement, e.g., intervertebral disks.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.synovial_joint
-type: Concept
-canonical_name: Synovial Joint
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 39
-  pdf_page: 39
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.joint
-definition: >
-  Joints that allow considerable movement, e.g., elbow and knee. Movements in relation to sports and exercise mainly occur at synovial joints, whose most important features are low friction and large range of motion. Articulating bone ends are covered with smooth hyaline cartilage, and the entire joint is enclosed in a capsule filled with synovial fluid.
-attributes:
-  - low friction
-  - large range of motion
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.uniaxial_joint
-type: Concept
-canonical_name: Uniaxial Joint
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 41
-  pdf_page: 41
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.joint
-definition: >
-  Joints that operate as hinges, essentially rotating about only one axis, such as the elbow.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.biaxial_joint
-type: Concept
-canonical_name: Biaxial Joint
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 41
-  pdf_page: 41
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.joint
-definition: >
-  Joints that allow movement about two perpendicular axes, such as the ankle and wrist.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.multiaxial_joint
-type: Concept
-canonical_name: Multiaxial Joint
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 41
-  pdf_page: 41
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.joint
-definition: >
-  Joints that allow movement about all three perpendicular axes that define space, including the shoulder and hip ball-and-socket joints.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.vertebral_column
-type: Concept
-canonical_name: Vertebral Column
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 41
-  pdf_page: 41
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.axial_skeleton
-definition: >
-  The vertebral column is made up of vertebral bones separated by flexible disks that allow movement to occur.
-attributes:
-  - cervical vertebrae
-  - thoracic vertebrae
-  - lumbar vertebrae
-  - sacral vertebrae
-  - coccygeal vertebrae
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.skeletal_muscle
-type: Concept
-canonical_name: Skeletal Muscle
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
   book_page: 42
   pdf_page: 42
 provenance:
@@ -385,25 +23,28 @@ relationships:
   - predicate: part_of
     target: concept.musculoskeletal_system
 definition: >
-  The system of muscles that enables the skeleton to move. Each skeletal muscle contains muscle tissue made up of a variety of cell types (with the most notable being muscle fibers), connective tissue, nerves, blood vessels, and a plethora of cell types between muscle fibers that serve different functions.
+  Each skeletal muscle contains muscle tissue made up of a variety of cell types (with the most notable being muscle fibers), connective tissue, nerves, blood vessels, and a plethora of cell types between muscle fibers that serve different functions. Fibrous connective tissue, or epimysium, covers the body's more than 430 skeletal muscles. The epimysium is contiguous with the tendons at the ends of the muscle (figure 1.3). The tendon is attached to bone periosteum, a specialized connective tissue covering all bones. Notably, muscle contractions pull on tendons, and in turn, this moves bones that are attached to the associated tendons. Limb muscles have two attachments to bone, including proximal (closer to the trunk) and distal (farther from the trunk) attachments. The two attachments of trunk muscles are termed superior (closer to the head) and inferior (closer to the feet). Muscle cells, often called muscle fibers or myofibers, are long (sometimes running the entire length of a muscle), cylindrical cells 50 to 100 μm in diameter (about the diameter of a human hair). Muscle fibers have all their nuclei situated on the outer periphery of the cell and have a striated appearance when viewed with a microscope under low magnification. Under the epimysium the muscle fibers are grouped in bundles (fasciculi) that may consist of up to 150 fibers, with the bundles surrounded by connective tissue called perimysium. Each muscle fiber is surrounded by connective tissue called endomysium, which is encircled by and is contiguous with the muscle fiber membrane, or sarcolemma (41). All the connective tissue—epimysium, perimysium, and endomysium—is contiguous with the tendon, so tension developed in a muscle cell is transmitted to the tendon and the bone to which it is attached (figure 1.3).
 attributes:
-  - muscle fibers
-  - connective tissue
+  - muscle_tissue
+  - connective_tissue
   - nerves
-  - blood vessels
-purpose:
-  - enable movement of the skeleton
+  - blood_vessels
+  - cell_types
+purpose: []
 related_concepts:
   - concept.epimysium
   - concept.perimysium
   - concept.endomysium
+  - concept.sarcolemma
+  - concept.muscle_fibers
+  - concept.myofibers
+  - concept.fasciculi
   - concept.tendon
-  - concept.motor_unit
-  - concept.neuromuscular_junction
-  - concept.sarcomere
-  - concept.myofibril
-  - concept.myosin
-  - concept.actin
+  - concept.periosteum
+  - concept.proximal_attachment
+  - concept.distal_attachment
+  - concept.superior_attachment
+  - concept.inferior_attachment
 ---
 # ontology: knowledge-compiler/v1
 
@@ -413,12 +54,12 @@ canonical_name: Epimysium
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
   chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
   book_page: 42
   pdf_page: 42
 provenance:
@@ -428,115 +69,12 @@ provenance:
 evidence_level: ""
 relationships:
   - predicate: part_of
-    target: concept.skeletal_muscle
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
 definition: >
-  Fibrous connective tissue that covers the body's more than 430 skeletal muscles. The epimysium is contiguous with the tendons at the ends of the muscle.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.tendon
----
-# ontology: knowledge-compiler/v1
-
-id: concept.tendon
-type: Concept
-canonical_name: Tendon
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 42
-  pdf_page: 42
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.skeletal_muscle
-definition: >
-  The tendon is attached to bone periosteum, a specialized connective tissue covering all bones. Muscle contractions pull on tendons, and in turn, this moves bones that are attached to the associated tendons.
-attributes: []
-purpose:
-  - attach muscle to bone
-  - transmit tension from muscle to bone
-related_concepts:
-  - concept.periosteum
----
-# ontology: knowledge-compiler/v1
-
-id: concept.periosteum
-type: Concept
-canonical_name: Periosteum
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 42
-  pdf_page: 42
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.skeletal_system
-definition: >
-  A specialized connective tissue covering all bones.
+  Fibrous connective tissue that covers the body's more than 430 skeletal muscles.
 attributes: []
 purpose: []
 related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.muscle_fiber
-type: Concept
-canonical_name: Muscle Fiber
-semantic_type: AnatomicalStructure
-aliases:
-  - myofiber
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 42
-  pdf_page: 42
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.skeletal_muscle
-definition: >
-  Muscle cells, often called muscle fibers or myofibers, are long (sometimes running the entire length of a muscle), cylindrical cells 50 to 100 μm in diameter (about the diameter of a human hair). Muscle fibers have all their nuclei situated on the outer periphery of the cell and have a striated appearance when viewed with a microscope under low magnification.
-attributes:
-  - long
-  - cylindrical
-  - 50 to 100 μm in diameter
-  - striated appearance
-purpose: []
-related_concepts:
-  - concept.sarcolemma
-  - concept.sarcoplasm
-  - concept.myofibril
-  - concept.sarcoplasmic_reticulum
 ---
 # ontology: knowledge-compiler/v1
 
@@ -546,12 +84,12 @@ canonical_name: Perimysium
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
   chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
   book_page: 42
   pdf_page: 42
 provenance:
@@ -561,13 +99,12 @@ provenance:
 evidence_level: ""
 relationships:
   - predicate: part_of
-    target: concept.skeletal_muscle
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
 definition: >
-  Connective tissue surrounding each fasciculus (bundle of muscle fibers).
+  Connective tissue surrounding each fasciculus (group of muscle fibers).
 attributes: []
 purpose: []
-related_concepts:
-  - concept.fasciculus
+related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
@@ -577,12 +114,12 @@ canonical_name: Endomysium
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
   chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
   book_page: 42
   pdf_page: 42
 provenance:
@@ -592,13 +129,12 @@ provenance:
 evidence_level: ""
 relationships:
   - predicate: part_of
-    target: concept.skeletal_muscle
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
 definition: >
   Connective tissue surrounding each individual muscle fiber, which is encircled by and is contiguous with the muscle fiber membrane, or sarcolemma.
 attributes: []
 purpose: []
-related_concepts:
-  - concept.sarcolemma
+related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
@@ -608,12 +144,12 @@ canonical_name: Sarcolemma
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
   chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
   book_page: 42
   pdf_page: 42
 provenance:
@@ -623,9 +159,286 @@ provenance:
 evidence_level: ""
 relationships:
   - predicate: part_of
-    target: concept.muscle_fiber
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
 definition: >
   The muscle fiber membrane.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_fibers
+type: Concept
+canonical_name: Muscle Fibers
+semantic_type: Cell
+aliases:
+  - myofibers
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Long (sometimes running the entire length of a muscle), cylindrical cells 50 to 100 μm in diameter (about the diameter of a human hair). Muscle fibers have all their nuclei situated on the outer periphery of the cell and have a striated appearance when viewed with a microscope under low magnification.
+attributes:
+  - long
+  - cylindrical
+  - 50_to_100_μm_diameter
+  - nuclei_on_outer_periphery
+  - striated_appearance
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.myofibers
+type: Concept
+canonical_name: Myofibers
+semantic_type: Cell
+aliases:
+  - muscle fibers
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Another term for muscle fibers.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fasciculi
+type: Concept
+canonical_name: Fasciculi
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Bundles of muscle fibers that may consist of up to 150 fibers.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.tendon
+type: Concept
+canonical_name: Tendon
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Attached to bone periosteum. Muscle contractions pull on tendons, and in turn, this moves bones that are attached to the associated tendons.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.periosteum
+type: Concept
+canonical_name: Periosteum
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  A specialized connective tissue covering all bones.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.proximal_attachment
+type: Concept
+canonical_name: Proximal Attachment
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  One of two attachments of limb muscles to bone, closer to the trunk.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.distal_attachment
+type: Concept
+canonical_name: Distal Attachment
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  One of two attachments of limb muscles to bone, farther from the trunk.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.superior_attachment
+type: Concept
+canonical_name: Superior Attachment
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  One of two attachments of trunk muscles to bone, closer to the head.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.inferior_attachment
+type: Concept
+canonical_name: Inferior Attachment
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  One of two attachments of trunk muscles to bone, closer to the feet.
 attributes: []
 purpose: []
 related_concepts: []
@@ -639,12 +452,12 @@ semantic_type: AnatomicalStructure
 aliases:
   - motor end plate
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
   chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
   book_page: 43
   pdf_page: 43
 provenance:
@@ -654,13 +467,13 @@ provenance:
 evidence_level: ""
 relationships:
   - predicate: part_of
-    target: concept.motor_unit
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
 definition: >
   The junction between a motor neuron (nerve cell) and the muscle fibers it innervates. Each muscle cell has only one neuromuscular junction, although a single motor neuron innervates many muscle fibers, sometimes hundreds or even thousands.
 attributes: []
 purpose: []
 related_concepts:
-  - concept.motor_neuron
+  - concept.motor_unit
 ---
 # ontology: knowledge-compiler/v1
 
@@ -670,12 +483,12 @@ canonical_name: Motor Unit
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
   chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
   book_page: 43
   pdf_page: 43
 provenance:
@@ -685,448 +498,23 @@ provenance:
 evidence_level: ""
 relationships:
   - predicate: part_of
-    target: concept.skeletal_muscle
+    target: concept.neuromuscular_junction
 definition: >
   A motor neuron and the muscle fibers it innervates. All the muscle fibers of a motor unit contract together when they are stimulated by the motor neuron.
 attributes: []
 purpose: []
-related_concepts:
-  - concept.motor_neuron
-  - concept.neuromuscular_junction
----
-# ontology: knowledge-compiler/v1
-
-id: concept.sarcoplasm
-type: Concept
-canonical_name: Sarcoplasm
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 43
-  pdf_page: 43
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.muscle_fiber
-definition: >
-  The cytoplasm of a muscle fiber, an aqueous medium through which the exchange of ions (sodium, potassium, calcium) and metabolites (ADP, ATP, inorganic phosphate) occur to and from different organelles.
-attributes: []
-purpose:
-  - facilitate exchange of ions and metabolites
-related_concepts:
-  - concept.myofibril
-  - concept.sarcoplasmic_reticulum
-  - concept.mitochondria
----
-# ontology: knowledge-compiler/v1
-
-id: concept.myofibril
-type: Concept
-canonical_name: Myofibril
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 47
-  pdf_page: 47
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.muscle_fiber
-definition: >
-  Hundreds of myofibrils (each about 1 μm in diameter, 1/100 the diameter of a hair) exist in the sarcoplasm of one muscle fiber. Myofibrils are the contractile machinery of muscle fibers.
-attributes:
-  - about 1 μm in diameter
-purpose:
-  - contractile machinery of muscle fibers
-related_concepts:
-  - concept.myosin
-  - concept.actin
-  - concept.sarcomere
----
-# ontology: knowledge-compiler/v1
-
-id: concept.myosin
-type: Concept
-canonical_name: Myosin
-semantic_type: Protein
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 47
-  pdf_page: 47
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.myofibril
-definition: >
-  Thick myosin filaments (about 16 nm in diameter, or 1/10,000 the diameter of a hair) contain up to 200 myosin molecules. A single myosin molecule consists of two myosin heavy chain proteins and four myosin light chain proteins. This molecule also contains two head-like features (one being from each of the two heavy chains), two hinge points below each head, and two tail-like features that act to keep the two heavy chain proteins bound.
-attributes:
-  - about 16 nm in diameter
-purpose: []
-related_concepts:
-  - concept.actin
-  - concept.crossbridge
----
-# ontology: knowledge-compiler/v1
-
-id: concept.actin
-type: Concept
-canonical_name: Actin
-semantic_type: Protein
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 47
-  pdf_page: 47
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.myofibril
-definition: >
-  Thin actin filaments (about 6 nm in diameter) consist of two strands arranged in a double helix.
-attributes:
-  - about 6 nm in diameter
-purpose: []
-related_concepts:
-  - concept.myosin
-  - concept.troponin
-  - concept.tropomyosin
----
-# ontology: knowledge-compiler/v1
-
-id: concept.sarcomere
-type: Concept
-canonical_name: Sarcomere
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 47
-  pdf_page: 47
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.myofibril
-definition: >
-  The smallest contractile unit of skeletal muscle. Myosin and actin filaments are organized longitudinally in the sarcomere. Sarcomeres average about 2.5 μm in length in a relaxed fiber (approximately 4,500 per centimeter of muscle length) and are repeated through the entire length of myofibrils that span the muscle fiber.
-attributes:
-  - average about 2.5 μm in length in a relaxed fiber
-purpose:
-  - smallest contractile unit of skeletal muscle
-related_concepts:
-  - concept.a_band
-  - concept.i_band
-  - concept.z_line
-  - concept.h_zone
-  - concept.m_line
----
-# ontology: knowledge-compiler/v1
-
-id: concept.a_band
-type: Concept
-canonical_name: A-band
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 48
-  pdf_page: 48
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.sarcomere
-definition: >
-  The dark band that corresponds with the alignment of the myosin filaments.
-attributes: []
-purpose: []
 related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.i_band
+id: concept.muscle_fiber_interior_structure
 type: Concept
-canonical_name: I-band
+canonical_name: Muscle Fiber Interior Structure
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
   chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 48
-  pdf_page: 48
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.sarcomere
-definition: >
-  The light band that corresponds with the areas in two adjacent sarcomeres that contain only actin filaments.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.z_line
-type: Concept
-canonical_name: Z-line
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 48
-  pdf_page: 48
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.sarcomere
-definition: >
-  The Z-line is in the middle of the I-band and appears as a thin, dark line running longitudinally through the I-band. Actin filaments are anchored to Z-lines through another set of specialized proteins.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.h_zone
-type: Concept
-canonical_name: H-zone
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 48
-  pdf_page: 48
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.sarcomere
-definition: >
-  The area in the center of the sarcomere, where only myosin filaments are present.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.m_line
-type: Concept
-canonical_name: M-line
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 50
-  pdf_page: 50
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.sarcomere
-definition: >
-  The center of the sarcomere (the center of the H-zone). Thick filaments are anchored to specialized proteins in the M-line.
-attributes: []
-purpose: []
-related_concepts: []
----
-# ontology: knowledge-compiler/v1
-
-id: concept.sarcoplasmic_reticulum
-type: Concept
-canonical_name: Sarcoplasmic Reticulum
-semantic_type: AnatomicalStructure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 50
-  pdf_page: 50
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.muscle_fiber
-definition: >
-  An intricate system of tubules that encases each myofibril, which terminates as vesicles in the vicinity of the Z-lines. Calcium ions are stored in the sarcoplasmic reticulum, and muscle activation leads to the release of these calcium stores to facilitate muscular contraction.
-attributes: []
-purpose:
-  - store calcium ions
-  - release calcium ions to facilitate muscular contraction
-related_concepts:
-  - concept.calcium_ion
----
-# ontology: knowledge-compiler/v1
-
-id: concept.action_potential
-type: Concept
-canonical_name: Action Potential
-semantic_type: PhysiologicalProcess
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 50
-  pdf_page: 50
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  An electrical nerve impulse. Discharge of an action potential arrives nearly simultaneously from the surface to all depths of the muscle fiber.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.motor_neuron
----
-# ontology: knowledge-compiler/v1
-
-id: concept.sliding_filament_theory
-type: Concept
-canonical_name: Sliding-Filament Theory
-semantic_type: Theory
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 52
-  pdf_page: 52
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  The sliding-filament theory was proposed by Huxley and Hanson in 1954 to mechanistically explain muscular contraction at the molecular level. In its simplest form, the sliding-filament theory indicates that actin filaments anchored to each end of the sarcomere slide inward on myosin filaments. This results in Z-lines being pulled toward the center of the sarcomere and in muscle fiber shortening.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.sarcomere
-  - concept.actin
-  - concept.myosin
-  - concept.crossbridge
-  - concept.power_stroke
----
-# ontology: knowledge-compiler/v1
-
-id: concept.crossbridge
-type: Concept
-canonical_name: Crossbridge
-semantic_type: AnatomicalStructure
-aliases:
-  - actin-myosin crossbridge
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.01"
-  section_title: "Introduction and Musculoskeletal System"
-  book_page: 47
-  pdf_page: 47
-provenance:
+  section: "1"

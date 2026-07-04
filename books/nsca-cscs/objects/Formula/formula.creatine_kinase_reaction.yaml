@@ -1,0 +1,33 @@
+id: formula.creatine_kinase_reaction
+type: Formula
+canonical_name: Creatine Kinase Reaction
+semantic_type: Chemical Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Phosphagen System
+  section_title: Phosphagen System
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+equation: ADP + CP ↔ Creatine kinase ATP + Creatine
+equation_number: '3.2'
+variables:
+- name: ADP
+  description: Adenosine diphosphate
+- name: CP
+  description: Creatine phosphate
+- name: ATP
+  description: Adenosine triphosphate

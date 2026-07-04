@@ -1,548 +1,634 @@
 # ontology: knowledge-compiler/v1
 
-id: concept.cardiovascular_system
+id: concept.motor_unit
 type: Concept
-canonical_name: Cardiovascular System
-semantic_type: Body System
+canonical_name: Motor Unit
+semantic_type: AnatomicalStructure
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 67
-  pdf_page: 67
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Neuromuscular System"
+  section_title: "Neuromuscular System"
+  book_page: 56
+  pdf_page: 56
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships: []
-definition: >
-  The primary roles of the cardiovascular system are to transport nutrients and remove waste and by-products while assisting with maintaining the environment for all the body’s functions. The cardiovascular system plays key roles in the regulation of the body’s acid–base system, fluids, and temperature, as well as a variety of other physiological functions.
-attributes:
-  - transport_nutrients
-  - remove_waste
-  - maintain_environment
-  - regulate_acid_base
-  - regulate_fluids
-  - regulate_temperature
-purpose:
-  - transport nutrients
-  - remove waste and by-products
-  - maintain environment for body functions
-  - regulate acid-base system
-  - regulate fluids
-  - regulate temperature
-related_concepts:
-  - concept.heart
-  - concept.blood_vessels
-  - concept.blood
----
-# ontology: knowledge-compiler/v1
 
-id: concept.heart
-type: Concept
-canonical_name: Heart
-semantic_type: Organ
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 67
-  pdf_page: 67
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.cardiovascular_system
 definition: >
-  The heart is a muscular organ composed of two interconnected but separate pumps; the right side of the heart pumps blood through the lungs, and the left side pumps blood through the rest of the body. Each pump has two chambers: an atrium and a ventricle.
-attributes:
-  - muscular
-  - two_pumps
-  - right_side_pumps_to_lungs
-  - left_side_pumps_to_body
-purpose:
-  - pump blood through lungs
-  - pump blood through rest of body
-related_concepts:
-  - concept.atrium
-  - concept.ventricle
-  - concept.valves
-  - concept.conduction_system
----
-# ontology: knowledge-compiler/v1
+  A motor neuron generally has numerous terminal branches at the end of its axon, allowing for several muscle fibers to be innervated. This integrated structure is termed the motor unit.
 
-id: concept.atrium
-type: Concept
-canonical_name: Atrium
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 67
-  pdf_page: 67
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.heart
-definition: >
-  The right and left atria deliver blood into the right and left ventricles.
 attributes: []
-purpose:
-  - deliver blood into ventricles
-related_concepts:
-  - concept.ventricle
----
-# ontology: knowledge-compiler/v1
 
-id: concept.ventricle
-type: Concept
-canonical_name: Ventricle
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 67
-  pdf_page: 67
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.heart
-definition: >
-  The right and left ventricles supply the main force for moving blood through the pulmonary and peripheral circulations, respectively.
-attributes: []
-purpose:
-  - supply main force for moving blood through pulmonary circulation
-  - supply main force for moving blood through peripheral circulation
-related_concepts:
-  - concept.atrium
----
-# ontology: knowledge-compiler/v1
-
-id: concept.valves
-type: Concept
-canonical_name: Valves
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.heart
-definition: >
-  The tricuspid valve and mitral valve (bicuspid valve) (collectively called atrioventricular [AV] valves) prevent the flow of blood from the ventricles back into the atria during ventricular contraction (systole). The aortic valve and pulmonary valve (collectively, the semilunar valves) prevent backflow from the aorta and pulmonary arteries into the ventricles during ventricular relaxation (diastole). Each valve opens and closes passively; that is, each closes when a backward pressure gradient pushes blood back against it, opening when a forward pressure gradient forces blood in the forward direction.
-attributes:
-  - tricuspid_valve
-  - mitral_valve
-  - bicuspid_valve
-  - atrioventricular_valves
-  - aortic_valve
-  - pulmonary_valve
-  - semilunar_valves
-  - passive_opening
-  - passive_closing
-purpose:
-  - prevent backflow of blood from ventricles to atria during systole
-  - prevent backflow from aorta and pulmonary arteries into ventricles during diastole
-related_concepts:
-  - concept.systole
-  - concept.diastole
----
-# ontology: knowledge-compiler/v1
-
-id: concept.systole
-type: Concept
-canonical_name: Systole
-semantic_type: Physiological Process
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  Ventricular contraction.
-attributes: []
 purpose: []
+
 related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.diastole
+id: concept.all_or_none_principle
 type: Concept
-canonical_name: Diastole
-semantic_type: Physiological Process
+canonical_name: All-or-None Principle
+semantic_type: Principle
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Activation of Muscles"
+  section_title: "Activation of Muscles"
+  book_page: 56
+  pdf_page: 56
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships: []
+
 definition: >
-  Ventricular relaxation.
+  Hence, the all-or-none principle has been generally used to describe this phenomenon; specifically, the activation of any given motor neuron will lead to the activation and contraction of all of the muscle fibers it innervates.
+
 attributes: []
+
 purpose: []
+
+related_concepts:
+  - concept.motor_unit
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.twitch
+type: Concept
+canonical_name: Twitch
+semantic_type: PhysiologicalProcess
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Activation of Muscles"
+  section_title: "Activation of Muscles"
+  book_page: 57
+  pdf_page: 57
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The brief contraction that occurs in response to one action potential is referred to as a twitch.
+
+attributes: []
+
+purpose: []
+
 related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.conduction_system
+id: concept.unfused_and_fused_tetanic_contractions
 type: Concept
-canonical_name: Conduction System
-semantic_type: Anatomical System
+canonical_name: Unfused and Fused Tetanic Contractions
+semantic_type: PhysiologicalProcess
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Activation of Muscles"
+  section_title: "Activation of Muscles"
+  book_page: 57
+  pdf_page: 57
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.heart
+
+relationships: []
+
 definition: >
-  A specialized electrical conduction system controls the mechanical contraction of the heart.
-attributes:
-  - sinoatrial_node
-  - internodal_pathways
-  - atrioventricular_node
-  - atrioventricular_bundle
-  - left_bundle_branch
-  - right_bundle_branch
-  - purkinje_fibers
-purpose:
-  - control mechanical contraction of the heart
+  Decreasing the time interval between twitches results in an even greater force summation, and a high activation frequency leads to the merging of twitches in what has been termed unfused and fused tetanic contractions (figure 1.8c and d).
+
+attributes: []
+
+purpose: []
+
 related_concepts:
-  - concept.sinoatrial_node
-  - concept.internodal_pathways
-  - concept.atrioventricular_node
-  - concept.atrioventricular_bundle
-  - concept.left_bundle_branch
-  - concept.right_bundle_branch
-  - concept.purkinje_fibers
+  - concept.twitch
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.sinoatrial_node
+id: concept.slow_twitch_and_fast_twitch_muscle_fibers
 type: Concept
-canonical_name: Sinoatrial Node
-semantic_type: Anatomical Structure
-aliases:
-  - SA node
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.conduction_system
-definition: >
-  The sinoatrial (SA) node is the intrinsic pacemaker, where rhythmic electrical impulses are normally initiated. The SA node is a small area of specialized muscle tissue located in the upper lateral wall of the right atrium. The fibers of the node are contiguous with the muscle fibers of the atrium, with the result that each electrical impulse that begins in the SA node normally spreads immediately into the atria. The SA node normally controls heart rhythmicity because its discharge rate is considerably greater (60-80 times per minute) than that of either the AV node (40-60 times per minute) or the ventricular fibers (15-40 times per minute). Each time the SA node discharges, its impulse is conducted into the AV node and the ventricular fibers, discharging their excitable membranes.
-attributes:
-  - intrinsic_pacemaker
-  - located_in_right_atrium
-  - discharge_rate_60_to_80_per_minute
-purpose:
-  - initiate rhythmic electrical impulses
-  - control heart rhythmicity
-related_concepts:
-  - concept.atrioventricular_node
-  - concept.ventricular_fibers
----
-# ontology: knowledge-compiler/v1
-
-id: concept.internodal_pathways
-type: Concept
-canonical_name: Internodal Pathways
-semantic_type: Anatomical Structure
+canonical_name: Slow-Twitch and Fast-Twitch Muscle Fibers
+semantic_type: CellType
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 57
+  pdf_page: 57
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.conduction_system
+
+relationships: []
+
 definition: >
-  The internodal pathways conduct the impulse from the SA node to the atrioventricular node.
+  These differences have led to different classification systems, with the most familiar including the terms slow-twitch and fast-twitch muscle fibers.
+
 attributes: []
-purpose:
-  - conduct impulse from SA node to AV node
-related_concepts:
-  - concept.sinoatrial_node
-  - concept.atrioventricular_node
+
+purpose: []
+
+related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.atrioventricular_node
+id: concept.type_i_type_iia_and_type_iix_fibers
 type: Concept
-canonical_name: Atrioventricular Node
-semantic_type: Anatomical Structure
-aliases:
-  - AV node
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.conduction_system
-definition: >
-  The atrioventricular (AV) node is where the impulse is delayed slightly before passing into the ventricles. The AV node is located in the posterior septal wall of the right atrium. It is primarily the AV node and its associated conductive fibers that delay each impulse entering into the ventricles.
-attributes:
-  - located_in_posterior_septal_wall_of_right_atrium
-  - discharge_rate_40_to_60_per_minute
-purpose:
-  - delay impulse before passing into ventricles
-related_concepts:
-  - concept.sinoatrial_node
-  - concept.ventricle
----
-# ontology: knowledge-compiler/v1
-
-id: concept.atrioventricular_bundle
-type: Concept
-canonical_name: Atrioventricular Bundle
-semantic_type: Anatomical Structure
-aliases:
-  - AV bundle
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.conduction_system
-definition: >
-  The atrioventricular (AV) bundle conducts the impulse to the ventricles.
-attributes: []
-purpose:
-  - conduct impulse to ventricles
-related_concepts:
-  - concept.ventricle
----
-# ontology: knowledge-compiler/v1
-
-id: concept.left_bundle_branch
-type: Concept
-canonical_name: Left Bundle Branch
-semantic_type: Anatomical Structure
+canonical_name: Type I, Type IIa, and Type IIx Fibers
+semantic_type: CellType
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 58
+  pdf_page: 58
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.conduction_system
+
+relationships: []
+
 definition: >
-  The left bundle branch further divides into the Purkinje fibers and conducts impulses to all parts of the ventricles.
+  Regarding muscle fiber classification, histochemical staining for myosin ATPase content was also used for years to classify myofibers as type I (slow-twitch), type IIa (fast-twitch), and type IIx (fast-twitch).
+
 attributes: []
-purpose:
-  - conduct impulses to parts of ventricles
+
+purpose: []
+
 related_concepts:
-  - concept.purkinje_fibers
-  - concept.ventricle
+  - concept.slow_twitch_and_fast_twitch_muscle_fibers
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.right_bundle_branch
+id: concept.recruitment
 type: Concept
-canonical_name: Right Bundle Branch
-semantic_type: Anatomical Structure
+canonical_name: Recruitment
+semantic_type: PhysiologicalProcess
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Motor Unit Recruitment Patterns"
+  section_title: "Motor Unit Recruitment Patterns"
+  book_page: 62
+  pdf_page: 62
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.conduction_system
+
+relationships: []
+
 definition: >
-  The right bundle branch further divides into the Purkinje fibers and conducts impulses to all parts of the ventricles.
+  Another manner to increase muscle force involves increasing the number of motor units activated, a process known as recruitment.
+
 attributes: []
-purpose:
-  - conduct impulses to parts of ventricles
+
+purpose: []
+
 related_concepts:
-  - concept.purkinje_fibers
-  - concept.ventricle
+  - concept.motor_unit
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.purkinje_fibers
-type: Concept
-canonical_name: Purkinje Fibers
-semantic_type: Anatomical Structure
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_motor_neuron_size
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Motor Neuron Size
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 68
-  pdf_page: 68
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.conduction_system
-definition: >
-  The Purkinje fibers more completely penetrate the ventricles, and the impulse travels quickly throughout the entire ventricular system and causes both ventricles to contract at approximately the same time.
-attributes: []
-purpose:
-  - conduct impulses throughout ventricles
-  - cause both ventricles to contract at approximately same time
-related_concepts:
-  - concept.ventricle
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Motor neuron size
+  Type I: Small
+  Type IIa: Large
+  Type IIx: Large
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.myocardium
-type: Concept
-canonical_name: Myocardium
-semantic_type: Tissue
-aliases:
-  - heart muscle
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_recruitment_threshold
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Recruitment Threshold
+aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.03"
-  section_title: "Cardiovascular System"
-  book_page: 71
- 
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Recruitment threshold
+  Type I: Low
+  Type IIa: Intermediate/high
+  Type IIx: High
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_nerve_conduction_velocity
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Nerve Conduction Velocity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Nerve conduction velocity
+  Type I: Slow
+  Type IIa: Fast
+  Type IIx: Fast
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_contraction_speed
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Contraction Speed
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Contraction speed
+  Type I: Slow
+  Type IIa: Fast
+  Type IIx: Fast
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_relaxation_speed
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Relaxation Speed
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Relaxation speed
+  Type I: Slow
+  Type IIa: Fast
+  Type IIx: Fast
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_fatigue_resistance
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Fatigue Resistance
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Fatigue resistance
+  Type I: High
+  Type IIa: Intermediate/low
+  Type IIx: Low
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_endurance
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Endurance
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Endurance
+  Type I: High
+  Type IIa: Intermediate/low
+  Type IIx: Low
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_force_production
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Force Production
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Force production
+  Type I: Low
+  Type IIa: Intermediate
+  Type IIx: High
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_power_output
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Power Output
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Power output
+  Type I: Low
+  Type IIa: Intermediate/high
+  Type IIx: High
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_aerobic_enzyme_content
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Aerobic Enzyme Content
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Aerobic enzyme content
+  Type I: High
+  Type IIa: Intermediate/low
+  Type IIx: Low
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_anaerobic_enzyme_content
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Anaerobic Enzyme Content
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61
+  pdf_page: 61
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_name: "Table 1.1 — Major Characteristics of Muscle Fiber Types"
+row_data:
+  Characteristic: Anaerobic enzyme content
+  Type I: Low
+  Type IIa: High
+  Type IIx: High
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_sarcoplasmic_reticulum_complexity
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Sarcoplasmic Reticulum Complexity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Muscle Fiber Types"
+  section_title: "Muscle Fiber Types"
+  book_page: 61

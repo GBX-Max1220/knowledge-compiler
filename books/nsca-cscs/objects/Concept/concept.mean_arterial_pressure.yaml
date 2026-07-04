@@ -1,0 +1,32 @@
+id: concept.mean_arterial_pressure
+type: Concept
+canonical_name: Mean Arterial Pressure
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Blood Pressure
+  section_title: Cardiovascular Responses — Blood Pressure
+  book_page: 86
+  pdf_page: 86
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The mean arterial pressure is the average blood pressure throughout the
+  cardiac cycle (equation 1.4). Mean arterial pressure is not the average of systolic
+  and diastolic pressures, because the arterial pressure usually remains nearer the
+  diastolic level than the systolic level during a greater portion of the cardiac
+  cycle.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.systolic_blood_pressure
+- concept.diastolic_blood_pressure

@@ -1,0 +1,30 @@
+id: recommendation.resistance_training_essential_for_females
+type: Recommendation
+canonical_name: Resistance Training as Essential Component for Females
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.0'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 438
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Resistance training should be an essential component of any
+  exercise or training program that females follow.
+
+  '
+rationale: ''
+citations:
+- '127'
+- '128'
+- '167'
+target_population: females
+implementation: ''

@@ -1,0 +1,29 @@
+id: evidence.high_impact_cyclical_loading_bmd_hip_spine
+type: Evidence
+canonical_name: High-Impact Cyclical Loading Increases BMD at Hip and Spine
+semantic_type: Comparison
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 313
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+claim: 'Research indicates that high-impact cyclical loading exercises for the lower
+  body, such as gymnastics (161), volleyball, or basketball (47), selectively increase
+  BMD at clinically relevant sites such as the hip and spine more than lower-impact
+  activities do.
+
+  '
+supporting_studies:
+- citation: '161'
+- citation: '47'

@@ -1,0 +1,28 @@
+id: concept.velocity
+type: Concept
+canonical_name: Velocity
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Like force, velocity is a vector quantity. Velocity describes both how
+  fast an object is traveling and its direction. In short, velocity is speed with
+  a direction.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

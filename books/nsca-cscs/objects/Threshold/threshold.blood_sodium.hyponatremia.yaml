@@ -1,0 +1,32 @@
+id: threshold.blood_sodium.hyponatremia
+type: Threshold
+canonical_name: Hyponatremia Blood Sodium
+semantic_type: Laboratory
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.5'
+  section_title: Minerals
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.blood_sodium.hyponatremia_severe
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: below 130
+unit: mmol/L
+condition: blood sodium level
+context: Athletes who exercise intensely or for hours and hydrate excessively with
+  only water or a no- or low-sodium beverage may dilute their blood sodium levels
+  to dangerously low levels—below 130 mmol/L —a condition called hyponatremia.

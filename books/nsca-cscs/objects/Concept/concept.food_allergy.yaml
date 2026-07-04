@@ -1,0 +1,35 @@
+id: concept.food_allergy
+type: Concept
+canonical_name: Food Allergy
+semantic_type: Condition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.3'
+  section_title: Macronutrients
+  book_page: 564
+  pdf_page: 564
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A food allergy is defined as "an adverse health effect arising from a
+  specific immune response that occurs reproducibly on exposure to a given food,"
+  and a food sensitivity, also known as food intolerance, is defined as "nonimmune
+  reactions that include metabolic, toxic, pharmacologic, and undefined mechanisms"
+  (17).
+
+  '
+attributes:
+- adverse health effect
+- specific immune response
+- occurs reproducibly on exposure to a given food
+purpose: []
+related_concepts:
+- concept.food_sensitivity
+- concept.food_intolerance

@@ -1,0 +1,363 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.proprioception
+type: Concept
+canonical_name: Proprioception
+semantic_type: Physiological Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Proprioception"
+  book_page: 65
+  pdf_page: 65
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.muscle_spindles
+  - predicate: has_attribute
+    target: concept.golgi_tendon_organs
+definition: >
+  Proprioceptors are specialized sensory receptors located within joints, muscles, and tendons. Because these receptors are sensitive to pressure and tension, they relay information concerning muscle dynamics to the conscious and subconscious parts of the central nervous system. The brain is thus provided with information concerning kinesthetic sense, or conscious appreciation of the position of body parts with respect to gravity. Most of this proprioceptive information, however, is processed at subconscious levels so we do not have to dedicate conscious activity toward tasks such as maintaining posture or position of body parts. Proprioceptors are specialized sensory receptors that provide the central nervous system with information needed to maintain muscle tone and perform complex coordinated movements.
+attributes:
+  - specialized sensory receptors
+  - located within joints, muscles, and tendons
+  - sensitive to pressure and tension
+  - relays information concerning muscle dynamics
+  - provides kinesthetic sense
+  - processed at subconscious levels
+purpose:
+  - maintain posture
+  - maintain position of body parts
+  - maintain muscle tone
+  - perform complex coordinated movements
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_spindles
+type: Concept
+canonical_name: Muscle Spindles
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Proprioception"
+  book_page: 65
+  pdf_page: 65
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.proprioception
+definition: >
+  Muscle spindles are proprioceptors that consist of several modified muscle fibers enclosed in a sheath of connective tissue (figure 1.10). These modified fibers, called intrafusal fibers, run parallel to the normal, or extrafusal, fibers. Muscle spindles provide information concerning muscle length and the rate of change in length. When the muscle lengthens, spindles are stretched. This deformation activates the sensory neuron of the spindle, which sends an impulse to the spinal cord, where it synapses (connects) with motor neurons. This results in the activation of motor neurons that innervate the same muscle. Spindles thus indicate the degree to which the muscle must be activated in order to overcome a given resistance. As a load increases, the muscle is stretched to a greater extent, and engagement of muscle spindles results in greater activation of the muscle. Muscles that perform precise movements have many spindles per unit of mass to help ensure exact control of their contractile activity. A simple example of muscle spindle activity is the knee jerk reflex. Tapping on the tendon of the knee extensor muscle group below the patella stretches the muscle spindle fibers. This causes activation of extrafusal muscle fibers in the same muscle. A knee jerk occurs as these fibers actively shorten. This, in turn, shortens the intrafusal fibers and causes their discharge to cease.
+attributes:
+  - proprioceptors
+  - consists of several modified muscle fibers
+  - enclosed in a sheath of connective tissue
+  - contains intrafusal fibers
+  - runs parallel to extrafusal fibers
+  - provides information concerning muscle length
+  - provides information concerning rate of change in length
+purpose:
+  - indicate degree of muscle activation needed to overcome resistance
+  - ensure exact control of contractile activity in precise movements
+related_concepts:
+  - concept.golgi_tendon_organs
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.golgi_tendon_organs
+type: Concept
+canonical_name: Golgi Tendon Organs
+semantic_type: Anatomical Structure
+aliases:
+  - GTOs
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Golgi Tendon Organs"
+  book_page: 67
+  pdf_page: 67
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.proprioception
+definition: >
+  Golgi tendon organs (GTOs) are proprioceptors located in tendons near the myotendinous junction and are in series—that is, attached end to end, with extrafusal muscle fibers (figure 1.10). Golgi tendon organs are activated when the tendon attached to an active muscle is stretched. As tension in the muscle and tendons increases, the discharge of the GTOs increases. The sensory neuron of the GTO synapses with an inhibitory interneuron in the spinal cord, which in turn synapses with and inhibits a motor neuron that serves the same muscle. The result is a reduction in tension within the muscle and tendon. Thus, whereas spindles facilitate activation of the muscle, neural input from GTOs inhibits muscle activation. The GTOs' inhibitory process is thought to provide a mechanism that protects against the development of excessive tension. The effect of GTOs is therefore minimal at low forces, but when an extremely heavy load is placed on the muscle, reflexive inhibition mediated by the GTOs causes the muscle to relax. The ability of the motor cortex to override this inhibition may be one of the fundamental adaptations to heavy resistance training.
+attributes:
+  - proprioceptors
+  - located in tendons near the myotendinous junction
+  - in series with extrafusal muscle fibers
+  - activated when tendon attached to active muscle is stretched
+  - discharge increases with tension
+  - synapses with inhibitory interneuron
+  - inhibits motor neuron serving same muscle
+purpose:
+  - reduce tension within muscle and tendon
+  - protect against development of excessive tension
+related_concepts:
+  - concept.muscle_spindles
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.heart
+type: Concept
+canonical_name: Heart
+semantic_type: Organ
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Cardiovascular System — Heart"
+  book_page: 67
+  pdf_page: 67
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.valves
+  - predicate: has_attribute
+    target: concept.conduction_system
+definition: >
+  The heart is a muscular organ composed of two interconnected but separate pumps; the right side of the heart pumps blood through the lungs, and the left side pumps blood through the rest of the body. Each pump has two chambers: an atrium and a ventricle (figure 1.11). The right and left atria deliver blood into the right and left ventricles. The right and left ventricles supply the main force for moving blood through the pulmonary and peripheral circulations, respectively (41).
+attributes:
+  - muscular organ
+  - two interconnected but separate pumps
+  - right side pumps blood through lungs
+  - left side pumps blood through rest of body
+  - each pump has an atrium and a ventricle
+purpose:
+  - pump blood through lungs
+  - pump blood through rest of body
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.valves
+type: Concept
+canonical_name: Valves
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Cardiovascular System — Heart — Valves"
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.heart
+definition: >
+  The tricuspid valve and mitral valve (bicuspid valve) (collectively called atrioventricular [AV] valves) prevent the flow of blood from the ventricles back into the atria during ventricular contraction (systole). The aortic valve and pulmonary valve (collectively, the semilunar valves) prevent backflow from the aorta and pulmonary arteries into the ventricles during ventricular relaxation (diastole). Each valve opens and closes passively; that is, each closes when a backward pressure gradient pushes blood back against it, opening when a forward pressure gradient forces blood in the forward direction (41).
+attributes:
+  - tricuspid valve
+  - mitral valve (bicuspid valve)
+  - atrioventricular (AV) valves
+  - aortic valve
+  - pulmonary valve
+  - semilunar valves
+  - open and close passively
+purpose:
+  - prevent flow of blood from ventricles back into atria during systole
+  - prevent backflow from aorta and pulmonary arteries into ventricles during diastole
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.conduction_system
+type: Concept
+canonical_name: Conduction System
+semantic_type: Anatomical System
+aliases:
+  - specialized electrical conduction system
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Cardiovascular System — Heart — Conduction System"
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.heart
+  - predicate: has_attribute
+    target: concept.sinoatrial_sa_node
+  - predicate: has_attribute
+    target: concept.internodal_pathways
+  - predicate: has_attribute
+    target: concept.atrioventricular_av_node
+  - predicate: has_attribute
+    target: concept.atrioventricular_av_bundle
+  - predicate: has_attribute
+    target: concept.left_bundle_branch
+  - predicate: has_attribute
+    target: concept.right_bundle_branch
+  - predicate: has_attribute
+    target: concept.purkinje_fibers
+definition: >
+  A specialized electrical conduction system (figure 1.12) controls the mechanical contraction of the heart. The conduction system is composed of the sinoatrial (SA) node —the intrinsic pacemaker—where rhythmic electrical impulses are normally initiated; the internodal pathways that conduct the impulse from the SA node to the atrioventricular node; the atrioventricular (AV) node, where the impulse is delayed slightly before passing into the ventricles; the atrioventricular (AV) bundle, which conducts the impulse to the ventricles; and the left bundle branch and right bundle branch, which further divide into the Purkinje fibers and conduct impulses to all parts of the ventricles. The SA node is a small area of specialized muscle tissue located in the upper lateral wall of the right atrium. The fibers of the node are contiguous with the muscle fibers of the atrium, with the result that each electrical impulse that begins in the SA node normally spreads immediately into the atria. The conductive system is organized so that the impulse does not travel into the ventricles too rapidly, allowing time for the atria to contract and empty blood into the ventricles before ventricular contraction begins. It is primarily the AV node and its associated conductive fibers that delay each impulse entering into the ventricles. The AV node is located in the posterior septal wall of the right atrium (41). The left and right bundle branches lead from the AV bundle into the ventricles. Except for their initial portion, where they penetrate the AV barrier, these conduction fibers have functional characteristics quite opposite those of the AV nodal fibers. They are large and transmit impulses at a much higher velocity than the AV nodal fibers. Because these fibers give way to the Purkinje fibers, which more completely penetrate the ventricles, the impulse travels quickly throughout the entire ventricular system and causes both ventricles to contract at approximately the same time (41). The SA node normally controls heart rhythmicity because its discharge rate is considerably greater (60-80 times per minute) than that of either the AV node (40-60 times per minute) or the ventricular fibers (15-40 times per minute). Each time the SA node discharges, its impulse is conducted into the AV node and the ventricular fibers, discharging their excitable membranes. Thus, these potentially self-excitatory tissues are discharged before self-excitation can actually occur.
+attributes:
+  - sinoatrial (SA) node
+  - internodal pathways
+  - atrioventricular (AV) node
+  - atrioventricular (AV) bundle
+  - left bundle branch
+  - right bundle branch
+  - Purkinje fibers
+purpose:
+  - control mechanical contraction of the heart
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sinoatrial_sa_node
+type: Concept
+canonical_name: Sinoatrial (SA) Node
+semantic_type: Anatomical Structure
+aliases:
+  - SA node
+  - intrinsic pacemaker
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Cardiovascular System — Heart — Conduction System"
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.conduction_system
+definition: >
+  The SA node is a small area of specialized muscle tissue located in the upper lateral wall of the right atrium. The fibers of the node are contiguous with the muscle fibers of the atrium, with the result that each electrical impulse that begins in the SA node normally spreads immediately into the atria. The SA node normally controls heart rhythmicity because its discharge rate is considerably greater (60-80 times per minute) than that of either the AV node (40-60 times per minute) or the ventricular fibers (15-40 times per minute). Each time the SA node discharges, its impulse is conducted into the AV node and the ventricular fibers, discharging their excitable membranes.
+attributes:
+  - small area of specialized muscle tissue
+  - located in upper lateral wall of right atrium
+  - fibers contiguous with muscle fibers of atrium
+  - discharge rate: 60-80 times per minute
+purpose:
+  - initiate rhythmic electrical impulses
+  - control heart rhythmicity
+related_concepts:
+  - concept.atrioventricular_av_node
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.internodal_pathways
+type: Concept
+canonical_name: Internodal Pathways
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Cardiovascular System — Heart — Conduction System"
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.conduction_system
+definition: >
+  The internodal pathways conduct the impulse from the SA node to the atrioventricular node.
+attributes: []
+purpose:
+  - conduct impulse from SA node to AV node
+related_concepts:
+  - concept.sinoatrial_sa_node
+  - concept.atrioventricular_av_node
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.atrioventricular_av_node
+type: Concept
+canonical_name: Atrioventricular (AV) Node
+semantic_type: Anatomical Structure
+aliases:
+  - AV node
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Cardiovascular System — Heart — Conduction System"
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.conduction_system
+definition: >
+  The atrioventricular (AV) node is where the impulse is delayed slightly before passing into the ventricles. The AV node is located in the posterior septal wall of the right atrium (41). It is primarily the AV node and its associated conductive fibers that delay each impulse entering into the ventricles. Its discharge rate is 40-60 times per minute.
+attributes:
+  - located in posterior septal wall of right atrium
+  - discharge rate: 40-60 times per minute
+purpose:
+  - delay impulse before passing into ventricles
+related_concepts:
+  - concept.sinoatrial_sa_node
+  - concept.atrioventricular_av_bundle
+---
+# ontology:

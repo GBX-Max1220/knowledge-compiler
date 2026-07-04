@@ -4,14 +4,14 @@ canonical_name: Motor Unit
 semantic_type: Anatomical Structure
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
-  chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.02'
-  section_title: Neuromuscular System
-  book_page: 56
-  pdf_page: 56
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 289
+  pdf_page: null
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
@@ -20,15 +20,13 @@ evidence_level: ''
 relationships:
 - predicate: part_of
   target: concept.neuromuscular_system
-definition: 'An integrated structure where a motor neuron generally has numerous terminal
-  branches at the end of its axon, allowing for several muscle fibers to be innervated.
+definition: 'The functional unit of the neuromuscular system is the motor unit. Consisting
+  of the alpha motor neuron and the muscle fibers that it activates, a motor unit
+  may innervate <10 muscle fibers for small, intricate muscles or >100 fibers for
+  large, powerful trunk and limb muscles.
 
   '
 attributes:
-- slow-twitch
-- fast-twitch/fatigue-resistant
-- fast-twitch/fatigable
+- functional_unit
 purpose: []
-related_concepts:
-- concept.muscle_fiber
-- concept.motor_neuron
+related_concepts: []

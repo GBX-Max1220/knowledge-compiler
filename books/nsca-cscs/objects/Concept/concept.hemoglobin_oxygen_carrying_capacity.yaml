@@ -1,0 +1,31 @@
+id: concept.hemoglobin_oxygen_carrying_capacity
+type: Concept
+canonical_name: Hemoglobin Oxygen-Carrying Capacity
+semantic_type: PhysiologicalProperty
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: Blood Transport of Gases and Metabolic By-Products
+  section_title: Blood Transport of Gases and Metabolic By-Products
+  book_page: 92
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.oxygen_transport_in_blood
+definition: 'Men have about 15 to 16 g of hemoglobin per 100 mL of blood, and women
+  have about 14 g of hemoglobin per 100 mL of blood. One gram of hemoglobin can carry
+  1.34 mL of oxygen; thus, the oxygen-carrying capacity of 100 mL of blood is about
+  20 mL of oxygen in men and a little less in women (27).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

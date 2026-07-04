@@ -1,0 +1,29 @@
+id: concept.alternated_grip
+type: Concept
+canonical_name: Alternated Grip
+semantic_type: Handgrip
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16.1'
+  section_title: Exercise Technique for Free Weight and Machine Training
+  book_page: 949
+  pdf_page: 949
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.handgrips
+definition: 'The alternated grip, in which one hand is in a pronated grip and the
+  other is in a supinated grip.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

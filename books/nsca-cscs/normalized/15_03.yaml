@@ -1,0 +1,620 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.static_stretch_duration
+type: Recommendation
+canonical_name: Static Stretch Duration Recommendation
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 892
+  pdf_page: 892
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  As to the appropriate duration for a static stretch, 15 to 30 seconds is generally recommended (81) and has been shown to be more effective than shorter durations (66). Evidence supports the use of 30 seconds (4-6) and suggests diminishing returns beyond this duration.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.stretching_intensity_guideline
+type: Recommendation
+canonical_name: Stretching Intensity Guideline
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 892
+  pdf_page: 892
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  When performing static stretches, athletes should hold the stretch at a position of mild discomfort (not pain); joint integrity should never be compromised to increase ROM.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.pre_stretching_warm_up_requirement
+type: Recommendation
+canonical_name: Pre-Stretching Warm-Up Requirement
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 892
+  pdf_page: 892
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  All stretching sessions should be preceded by a period of general activity to raise muscle temperature.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.monitoring_for_loss_of_sensation_or_radiating_pain_during_stretching
+type: Warning
+canonical_name: Monitoring for Loss of Sensation or Radiating Pain During Stretching
+semantic_type: Precaution
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 892
+  pdf_page: 892
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Because neural and vascular structures are stretched during flexibility exercises, athletes should be monitored for a loss of sensation or radiating pain.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.postpractice_stretching_timing_recommendation
+type: Recommendation
+canonical_name: Postpractice Stretching Timing Recommendation
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 892
+  pdf_page: 892
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  It should be performed within 5 to 10 minutes after practice.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.separate_stretching_session_warm_up_requirement
+type: Recommendation
+canonical_name: Separate Stretching Session Warm-Up Requirement
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 892
+  pdf_page: 892
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  If increased levels of flexibility are required, additional stretching sessions may be needed. In this case, stretching should be preceded by a thorough general warm-up to allow for the increase in muscle temperature necessary for effective stretching.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.static_stretching_guidelines_and_precautions
+type: Recommendation
+canonical_name: Static Stretching Guidelines and Precautions
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 895
+  pdf_page: 895
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Get into a position that facilitates relaxation. Move to the point in the ROM where you experience a sensation of mild discomfort. If performing partner-assisted PNF stretching, communicate clearly with your partner. Hold stretches for 15 to 30 seconds. Repeat unilateral stretches on both sides. Decrease stretch intensity if you experience pain, radiating symptoms, or loss of sensation. Use caution when stretching a hypermobile joint. Avoid combination movements that involve the spine (e.g., extension and lateral flexion). Stabilizing muscles should be active to protect other joints and prevent unwanted movements.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.dynamic_stretching_guidelines_and_precautions
+type: Recommendation
+canonical_name: Dynamic Stretching Guidelines and Precautions
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 918
+  pdf_page: 918
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Carry out 5 to 10 repetitions for each movement, either in place or over a given distance. Where possible, progressively increase the ROM on each repetition. Where appropriate, increase the speed of motion in subsequent sets, but always maintain control of the motion. Actively control muscular actions as you move through the ROM. Where appropriate, try to replicate the movements required for sport performance. Move progressively through the ROM. Move deliberately through the motion but without bouncing (movement should be controlled at all times). Do not forsake good technique for additional ROM.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.look_right_and_left_neck_stretch
+type: Procedure
+canonical_name: Look Right and Left (Neck Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 896
+  pdf_page: 896
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  1. Stand or sit with the head and neck upright.
+  2. Turn the head to the right using a submaximal concentric muscle action.
+  3. Turn the head to the left using a submaximal concentric muscle action.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.flexion_and_extension_neck_stretch
+type: Procedure
+canonical_name: Flexion and Extension (Neck Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 896
+  pdf_page: 896
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  1. Standing or sitting with head and neck upright, flex the neck by tucking the chin toward the chest.
+  2. If the chin touches the chest, try to touch the chin lower on the chest.
+  3. Extend the neck by trying to come as close as possible to touching the head to the back.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.straight_arms_behind_back_shoulders_and_chest_stretch
+type: Procedure
+canonical_name: Straight Arms Behind Back (Shoulders and Chest Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 897
+  pdf_page: 897
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  1. Standing, place both arms behind the back.
+  2. Interlock fingers with palms facing each other.
+  3. Straighten the elbows fully.
+  4. Slowly raise the arms, keeping the elbows straight.
+  5. Keep the head upright and neck relaxed.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.seated_lean_back_shoulders_and_chest_stretch
+type: Procedure
+canonical_name: Seated Lean-Back (Shoulders and Chest Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 898
+  pdf_page: 898
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  1. Sitting with the legs straight and arms extended, place palms on the floor about 12 inches (30 cm) behind the hips.
+  2. Point the fingers away from the body (backward).
+  3. Slide the hands backward and lean backward.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.behind_neck_stretch_chicken_wing_posterior_of_upper_arm_stretch
+type: Procedure
+canonical_name: Behind-Neck Stretch (Chicken Wing) (Posterior of Upper Arm Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 899
+  pdf_page: 899
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  1. Standing or sitting, abduct the right shoulder and flex the elbow.
+  2. Reach the right hand down toward the left scapula.
+  3. Grasp the right elbow with the left hand.
+  4. Pull the elbow behind the head with the left hand to increase shoulder abduction.
+  5. Repeat on the other side.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.cross_arm_in_front_of_chest_upper_back_stretch
+type: Procedure
+canonical_name: Cross Arm in Front of Chest (Upper Back Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 900
+  pdf_page: 900
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  1. Stand or sit with the left elbow slightly flexed (15-30 degrees) and the arm across the body (i.e., shoulder in horizontal adduction).
+  2. Grasp the upper arm just above the elbow, placing the right hand on the posterior side of the upper arm.
+  3. Pull the left arm across the chest (toward the right) with the right hand.
+  4. Repeat on the other side.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.arms_straight_up_above_head_pillar_upper_back_stretch
+type: Procedure
+canonical_name: Arms Straight Up Above Head (Pillar) (Upper Back Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 901
+  pdf_page: 901
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  1. Stand with the arms in front of the torso, fingers interlocked with palms facing out.
+  2. Slowly straighten the arms above the head with the palms up.
+  3. Continue to reach upward with the hands and arms.
+  4. While continuing to reach upward, slowly reach slightly backward.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.spinal_twist_pretzel_lower_back_stretch
+type: Procedure
+canonical_name: Spinal Twist (Pretzel) (Lower Back Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 902
+  pdf_page: 902
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  1. Sitting with the legs straight and the upper body nearly vertical, place the right foot to the left side of the left knee.
+  2. Place the back of the left elbow on the right side of the right knee, which is now flexed.
+  3. Place the right palm on the floor 12 to 16 inches (30-41 cm) behind the hips.
+  4. Push the right knee to the left with the left elbow while turning the shoulders and head to the right as far as possible. Try to look behind the back.
+  5. Repeat on the other side.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.semi_leg_straddle_lower_back_stretch
+type: Procedure
+canonical_name: Semi-Leg Straddle (Lower Back Stretch)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "15.3"
+  section_title: "Flexibility Training"
+  book_page: 903
+  pdf_page: 903
+
+provenance:
+  extraction

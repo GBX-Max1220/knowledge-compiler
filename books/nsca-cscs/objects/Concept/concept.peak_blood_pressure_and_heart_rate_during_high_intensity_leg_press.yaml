@@ -1,0 +1,28 @@
+id: concept.peak_blood_pressure_and_heart_rate_during_high_intensity_leg_press
+type: Concept
+canonical_name: Peak Blood Pressure and Heart Rate During High-Intensity Leg Press
+semantic_type: PhysiologicalResponse
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: Acute Cardiovascular Responses to Anaerobic Exercise
+  section_title: Acute Cardiovascular Responses to Anaerobic Exercise
+  book_page: 95
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Peak blood pressures of 320/250 mmHg and a heart rate of 170 beats/min
+  have been reported during a high-intensity (i.e., 95% of 1RM) leg press exercise
+  (26).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,31 @@
+id: concept.part_practice
+type: Concept
+canonical_name: Part Practice
+semantic_type: Practice Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.6'
+  section_title: Psychological Techniques
+  book_page: 524
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.practice_method
+- predicate: adjacent_to
+  target: concept.whole_practice
+definition: 'Whole practice addresses the skill in its entirety, whereas part practice
+  separates the skill into a series of subcomponents.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

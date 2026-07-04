@@ -1,0 +1,12 @@
+id: procedure.single_leg_romanian_deadlift
+type: Procedure
+canonical_name: Single-Leg Romanian Deadlift (RDL)
+semantic_type: Exercise
+aliases:
+- Single-Leg RDL
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Unilateral Training
+  section: '17.5'

@@ -1,0 +1,28 @@
+id: concept.carboxyhemoglobin
+type: Concept
+canonical_name: Carboxyhemoglobin
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Adaptations to Aerobic Endurance Training
+  section: '6'
+  section_title: Adaptations to Aerobic Endurance Training
+  book_page: 375
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The resulting carboxyhemoglobin (carbon monoxide and hemoglobin) reduces
+  the amount of oxygen that can be carried by hemoglobin and thus reduces the oxygen
+  that can be provided to the working muscles.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

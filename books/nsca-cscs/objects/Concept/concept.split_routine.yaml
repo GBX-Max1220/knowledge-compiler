@@ -1,0 +1,28 @@
+id: concept.split_routine
+type: Concept
+canonical_name: Split Routine
+semantic_type: Training Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1212
+  pdf_page: 1212
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'More highly resistance-trained (intermediate or advanced) athletes can
+  augment their training by using a split routine in which different muscle groups
+  are trained on different days.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

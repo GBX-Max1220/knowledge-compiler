@@ -1,0 +1,32 @@
+id: concept.selective_attention
+type: Concept
+canonical_name: Selective Attention
+semantic_type: Cognitive Process
+aliases:
+- level of focus
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: 'Energy Management: Arousal and Anxiety'
+  section: '9.3'
+  section_title: 'Energy Management: Arousal and Anxiety'
+  book_page: 486
+  pdf_page: 486
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.attention
+definition: 'The ability to inhibit awareness of some stimuli in order to process
+  others is termed selective attention, and it suppresses task-irrelevant cues (e.g.,
+  people on the sidelines, planes flying over the stadium) in order to process the
+  task-relevant cues in the limited attentional space.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

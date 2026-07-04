@@ -1,0 +1,28 @@
+id: concept.evaluation_of_test_quality
+type: Concept
+canonical_name: Evaluation of Test Quality
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.2'
+  section_title: Testing Terminology
+  book_page: 736
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Evaluation of Test Quality.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.validity
+- concept.reliability

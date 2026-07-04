@@ -1,0 +1,27 @@
+id: concept.fight_or_flight
+type: Concept
+canonical_name: Fight-or-Flight
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 504
+  pdf_page: 504
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Fight-or-flight refers to the physiological response of perception of
+  threat that readies the body to defend vigorously or run away.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

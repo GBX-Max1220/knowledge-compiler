@@ -1,0 +1,548 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.minimal_essential_strain
+type: Concept
+canonical_name: Minimal Essential Strain
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 311
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The term minimal essential strain (MES) refers to the threshold stimulus that initiates new bone formation.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.mes_bone_formation
+type: Threshold
+canonical_name: MES Threshold for Bone Formation
+semantic_type: Biological
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 311
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.minimal_essential_strain
+definition: ""
+threshold_type: stimulus
+value: ""
+unit: ""
+comparator: ""
+range: ""
+context: >
+  Consistently exceeding these thresholds signals osteoblasts to migrate to the region experiencing the stress and to form bone, while forces that fall below the MES do not present an appropriate stimulus for new bone formation.
+adjacent_to: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.mes_relative_to_fracture_force
+type: Threshold
+canonical_name: MES Relative to Fracture Force
+semantic_type: Biological
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 311
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.minimal_essential_strain
+definition: ""
+threshold_type: ratio
+value: "1/10"
+unit: ""
+comparator: "approximately"
+range: ""
+context: >
+  The MES is thought to be approximately 1/10 of the force required to fracture bone.
+adjacent_to: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bone_mineral_density
+type: Concept
+canonical_name: Bone Mineral Density
+semantic_type: Measurement
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 311
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Any increase in muscle strength or mass may therefore result in a corresponding increase in bone mineral density (BMD), or the quantity of mineral deposited in a given area of the bone (93).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.positive_correlation_bmd_muscle_strength_mass
+type: Evidence
+canonical_name: Positive Correlation Between BMD and Muscle Strength/Mass
+semantic_type: Correlation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 311
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+claim: >
+  Numerous studies have shown a positive correlation between BMD and muscle strength and mass (135, 174).
+supporting_studies:
+  - citation: "135"
+  - citation: "174"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.resistance_trained_athletes_higher_bmd
+type: Evidence
+canonical_name: Resistance-Trained Athletes Have Higher BMD
+semantic_type: Comparison
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+claim: >
+  Researchers have reported that resistance-trained athletes have higher BMD than age-matched sedentary control subjects (12, 29).
+supporting_studies:
+  - citation: "12"
+  - citation: "29"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.physical_activity_influences_bone_mass_area_width
+type: Evidence
+canonical_name: Physical Activity Influences Bone Mass, Area, and Width More Than BMD in Some Individuals
+semantic_type: Comparison
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+claim: >
+  In some individuals (e.g., professional soccer players), physical activity seems to influence bone mass, area, and width more than BMD (174).
+supporting_studies:
+  - citation: "174"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dual_energy_x_ray_absorptiometry
+type: Concept
+canonical_name: Dual-Energy X-Ray Absorptiometry
+semantic_type: Technology
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  While dual-energy X-ray absorptiometry (DXA) is the most commonly used clinical tool for measuring BMD, it fails to assess these additional factors that contribute to overall bone quality.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.bone_mineral_density
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.quantitative_computed_tomography
+type: Concept
+canonical_name: Quantitative Computed Tomography
+semantic_type: Technology
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Consequently, there is increasing interest in employing other bone imaging techniques, such as quantitative computed tomography (QCT), to evaluate bone microarchitecture (105).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.qct_cortical_bone_density_resistance_training_older_women
+type: Evidence
+canonical_name: QCT Shows Increases in Cortical Bone Density After Resistance Training in Older Women
+semantic_type: Intervention
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+claim: >
+  For example, after a six-month resistance training program, older women showed significant increases in cortical bone density at the tibia and radius shaft regions using QCT, even though no significant changes were observed in DXA measurements (105).
+supporting_studies:
+  - citation: "105"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.time_course_bone_adaptations
+type: Evidence
+canonical_name: Time Course for Bone Adaptations
+semantic_type: Temporal
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+claim: >
+  Quantitatively, the time course for bone adaptations is rather long in most cases— approximately six months (28) or longer (102)— and depends on the structure of the training program.
+supporting_studies:
+  - citation: "28"
+  - citation: "102"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.eighteen_month_resistance_training_bone_strength_men
+type: Evidence
+canonical_name: 18-Month Resistance Training Increases Bone Strength in Middle-Aged and Older Men
+semantic_type: Intervention
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+claim: >
+  For example, an 18-month resistance training program in middle-aged and older men led to significant increases in section modulus, a measure of bone strength, as well as CSA and areal BMD (aBMD) at the femoral neck, as assessed by QCT (102).
+supporting_studies:
+  - citation: "102"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteoporosis
+type: Concept
+canonical_name: Osteoporosis
+semantic_type: Disease
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 313
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The concept of specificity of loading becomes particularly important when a strength and conditioning professional prescribes exercises to increase bone mass in regions of the skeleton most commonly affected by osteoporosis —a disease in which BMD and bone mass become reduced to critically low levels.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.principles_training_increase_bone_strength
+type: Recommendation
+canonical_name: Principles of Training to Increase Bone Strength
+semantic_type: Training
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 313
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Anaerobic training programs that have the objective to stimulate bone growth need to incorporate specificity of loading, speed and direction of loading, sufficient volume, appropriate exercise selection, progressive overload, and variation (30).
+rationale: ""
+target_audience: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.specificity_of_loading_bone
+type: Concept
+canonical_name: Specificity of Loading
+semantic_type: Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 313
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Specificity of loading demands the use of exercises that directly load the particular region of interest of the skeleton.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.high_impact_cyclical_loading_bmd_hip_spine
+type: Evidence
+canonical_name: High-Impact Cyclical Loading Increases BMD at Hip and Spine
+semantic_type: Comparison
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 313
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+claim: >
+  Research indicates that high-impact cyclical loading exercises for the lower body, such as gymnastics (161), volleyball, or basketball (47), selectively increase BMD at clinically relevant sites such as the hip and spine more than lower-impact activities do.
+supporting_studies:
+  - citation: "161"
+  - citation: "47"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteogenic_stimuli
+type: Concept
+canonical_name: Osteogenic Stimuli
+semantic_type: Factor
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 313
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Exercise selection is critical when one is trying to elicit maximal osteogenic stimuli (factors that stimulate new bone formation).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_selection_bone_growth
+type: Recommendation
+canonical_name: Exercise Selection for Bone Growth
+semantic_type: Training
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 313
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  In essence, exercises should involve multiple joints, should direct the force vectors primarily through the spine and hip (i.e., structural exercises), and should apply external loads heavier than those with single-joint assistance exercises.
+rationale: ""
+target_audience: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.positive_linear_relationship_weight_lifted_bmd
+type: Evidence
+canonical_name: Positive Linear Relationship Between Weight Lifted and BMD Increases
+semantic_type: Correlation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.3"
+  section_title: "Connective Tissue Adaptations"
+  book_page: 314
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+claim: >
+  Cussler and colleagues (34) showed a positive linear relationship between the amounts of weight lifted over the course of a training year and associated increases in BMD.
+supporting_studies:
+  - citation: "34"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.squat_more_effective_than_seated_leg_press_bmd
+type: Evidence
+canonical_name: Squat More Effective Than Seated Leg Press for Increasing BMD in Femoral Trochanter
+semantic_type: Comparison
+aliases: []
+source:
+  book:

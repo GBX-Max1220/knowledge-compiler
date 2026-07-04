@@ -1,0 +1,26 @@
+id: concept.affect_abcs
+type: Concept
+canonical_name: Affect (ABCs)
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 508
+  pdf_page: 508
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Affect refers to the mood and emotions seen in and reported by the athlete.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,34 @@
+id: concept.anxiety
+type: Concept
+canonical_name: Anxiety
+semantic_type: State
+aliases: []
+source:
+  book: Essentials of Strength and Training Conditioning
+  edition: 5
+  chapter: 9
+  chapter_title: Psychological Foundations of Performance
+  section: '9.1'
+  section_title: Psychological Foundations of Performance
+  book_page: 472
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.arousal
+definition: 'Anxiety is a subcategory of arousal in that it is a negatively perceived
+  emotional state characterized by nervousness, worry, apprehension, or fear and is
+  associated with a physiological activation of the body (64).
+
+  '
+attributes:
+- nervousness
+- worry
+- apprehension
+- fear
+purpose: []
+related_concepts: []

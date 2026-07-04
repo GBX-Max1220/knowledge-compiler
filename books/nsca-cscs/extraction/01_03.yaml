@@ -2,16 +2,16 @@ TYPE
 Definition
 
 TITLE
-Muscle Spindle
+Motor Unit
 
 PAGE
-66
+56
 
 SECTION
-01.03 — Cardiovascular System
+Neuromuscular System
 
 ORIGINAL TEXT
-FIGURE 1.10 Muscle spindle. When a muscle is stretched, deformation of the muscle spindle activates the sensory neuron, which sends an impulse to the spinal cord, where it synapses with a motor neuron, causing the muscle to contract.
+A motor neuron generally has numerous terminal branches at the end of its axon, allowing for several muscle fibers to be innervated. This integrated structure is termed the motor unit.
 
 END
 
@@ -19,16 +19,16 @@ TYPE
 Definition
 
 TITLE
-Golgi Tendon Organs (GTOs)
+All-or-None Principle
 
 PAGE
-67
+56-57
 
 SECTION
-01.03 — Cardiovascular System
+Activation of Muscles
 
 ORIGINAL TEXT
-Golgi tendon organs (GTOs) are proprioceptors located in tendons near the myotendinous junction and are in series—that is, attached end to end, with extrafusal muscle fibers (figure 1.10). Golgi tendon organs are activated when the tendon attached to an active muscle is stretched. As tension in the muscle and tendons increases, the discharge of the GTOs increases. The sensory neuron of the GTO synapses with an inhibitory interneuron in the spinal cord, which in turn synapses with and inhibits a motor neuron that serves the same muscle. The result is a reduction in tension within the muscle and tendon. Thus, whereas spindles facilitate activation of the muscle, neural input from GTOs inhibits muscle activation. The GTOs’ inhibitory process is thought to provide a mechanism that protects against the development of excessive tension.
+Hence, the all-or-none principle has been generally used to describe this phenomenon; specifically, the activation of any given motor neuron will lead to the activation and contraction of all of the muscle fibers it innervates.
 
 END
 
@@ -36,16 +36,16 @@ TYPE
 Definition
 
 TITLE
-Cardiovascular System
+Twitch
 
 PAGE
-67
+57
 
 SECTION
-01.03 — Cardiovascular System
+Activation of Muscles
 
 ORIGINAL TEXT
-The primary roles of the cardiovascular system are to transport nutrients and remove waste and by-products while assisting with maintaining the environment for all the body’s functions. The cardiovascular system plays key roles in the regulation of the body’s acid–base system, fluids, and temperature, as well as a variety of other physiological functions.
+The brief contraction that occurs in response to one action potential is referred to as a twitch.
 
 END
 
@@ -53,16 +53,16 @@ TYPE
 Definition
 
 TITLE
-Heart
+Unfused and Fused Tetanic Contractions
 
 PAGE
-67
+57
 
 SECTION
-01.03 — Cardiovascular System
+Activation of Muscles
 
 ORIGINAL TEXT
-The heart is a muscular organ composed of two interconnected but separate pumps; the right side of the heart pumps blood through the lungs, and the left side pumps blood through the rest of the body. Each pump has two chambers: an atrium and a ventricle (figure 1.11). The right and left atria deliver blood into the right and left ventricles. The right and left ventricles supply the main force for moving blood through the pulmonary and peripheral circulations, respectively (41).
+Decreasing the time interval between twitches results in an even greater force summation, and a high activation frequency leads to the merging of twitches in what has been termed unfused and fused tetanic contractions (figure 1.8c and d).
 
 END
 
@@ -70,16 +70,16 @@ TYPE
 Definition
 
 TITLE
-Valves
+Slow-Twitch and Fast-Twitch Muscle Fibers
 
 PAGE
-68
+57-58
 
 SECTION
-01.03 — Cardiovascular System
+Muscle Fiber Types
 
 ORIGINAL TEXT
-The tricuspid valve and mitral valve (bicuspid valve) (collectively called atrioventricular [AV] valves) prevent the flow of blood from the ventricles back into the atria during ventricular contraction (systole). The aortic valve and pulmonary valve (collectively, the semilunar valves) prevent backflow from the aorta and pulmonary arteries into the ventricles during ventricular relaxation (diastole). Each valve opens and closes passively; that is, each closes when a backward pressure gradient pushes blood back against it, opening when a forward pressure gradient forces blood in the forward direction (41).
+These differences have led to different classification systems, with the most familiar including the terms slow-twitch and fast-twitch muscle fibers.
 
 END
 
@@ -87,19 +87,16 @@ TYPE
 Definition
 
 TITLE
-Conduction System
+Type I, Type IIa, and Type IIx Fibers
 
 PAGE
-68-69
+58
 
 SECTION
-01.03 — Cardiovascular System
+Muscle Fiber Types
 
 ORIGINAL TEXT
-A specialized electrical conduction system (figure 1.12) controls the mechanical contraction of the heart. The conduction system is composed of the sinoatrial (SA) node —the intrinsic pacemaker—where rhythmic electrical impulses are normally initiated; the internodal pathways that conduct the impulse from the SA node to the atrioventricular node; the atrioventricular (AV) node, where the impulse is delayed slightly before passing into the ventricles; the atrioventricular (AV) bundle, which conducts the impulse to the ventricles; and the left bundle branch and right bundle branch, which further divide into the Purkinje fibers and conduct impulses to all parts of the ventricles.
-
-CHILDREN
-Sinoatrial (SA) Node, Internodal Pathways, Atrioventricular (AV) Node, Atrioventricular (AV) Bundle, Left Bundle Branch, Right Bundle Branch, Purkinje Fibers
+Regarding muscle fiber classification, histochemical staining for myosin ATPase content was also used for years to classify myofibers as type I (slow-twitch), type IIa (fast-twitch), and type IIx (fast-twitch).
 
 END
 
@@ -107,358 +104,91 @@ TYPE
 Definition
 
 TITLE
-Sinoatrial (SA) Node
+Recruitment
 
 PAGE
-68-69
+62
 
 SECTION
-01.03 — Cardiovascular System
+Motor Unit Recruitment Patterns
 
 ORIGINAL TEXT
-The SA node is a small area of specialized muscle tissue located in the upper lateral wall of the right atrium. The fibers of the node are contiguous with the muscle fibers of the atrium, with the result that each electrical impulse that begins in the SA node normally spreads immediately into the atria.
-
-PARENT
-Conduction System
+Another manner to increase muscle force involves increasing the number of motor units activated, a process known as recruitment.
 
 END
 
 TYPE
-Definition
+Table
 
 TITLE
-Atrioventricular (AV) Node
+Table 1.1 — Major Characteristics of Muscle Fiber Types
 
 PAGE
-68-69
+61
 
 SECTION
-01.03 — Cardiovascular System
+Muscle Fiber Types
 
 ORIGINAL TEXT
-The AV node is located in the posterior septal wall of the right atrium (41).
-
-PARENT
-Conduction System
+TABLE 1.1  Major Characteristics of Muscle Fiber Types
+Characteristic Fiber types
+Type I Type IIa Type IIx
+Motor neuron size Small Large Large
+Recruitment threshold Low Intermediate/high High
+Nerve conduction velocity Slow Fast Fast
+Contraction speed Slow Fast Fast
+Relaxation speed Slow Fast Fast
+Fatigue resistance High Intermediate/low Low
+Endurance High Intermediate/low Low
+Force production Low Intermediate High
+Power output Low Intermediate/high High
+Aerobic enzyme content High Intermediate/low Low
+Anaerobic enzyme content Low High High
+Sarcoplasmic reticulum complexity Low Intermediate/high High
+Capillary density High Intermediate Low
+Myoglobin content High Low Low
+Mitochondrial size, density High Intermediate Low
+Fiber diameter Small Intermediate Large
+Color Red White/red White
 
 END
 
 TYPE
-Definition
+Table
 
 TITLE
-Left and Right Bundle Branches
+Table 1.2 — Relative Involvement of Muscle Fiber Types in Sport Events
 
 PAGE
-69
+63-64
 
 SECTION
-01.03 — Cardiovascular System
+Motor Unit Recruitment Patterns
 
 ORIGINAL TEXT
-The left and right bundle branches lead from the AV bundle into the ventricles. Except for their initial portion, where they penetrate the AV barrier, these conduction fibers have functional characteristics quite opposite those of the AV nodal fibers. They are large and transmit impulses at a much higher velocity than the AV nodal fibers. Because these fibers give way to the Purkinje fibers, which more completely penetrate the ventricles, the impulse travels quickly throughout the entire ventricular system and causes both ventricles to contract at approximately the same time (41).
-
-PARENT
-Conduction System
-
-END
-
-TYPE
-Definition
-
-TITLE
-Myocardium
-
-PAGE
-72
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The inherent rhythmicity and conduction properties of the myocardium (heart muscle) are influenced by the cardiovascular center of the medulla, which transmits signals to the heart through the sympathetic and parasympathetic nervous systems, both of which are components of the autonomic nervous system.
-
-END
-
-TYPE
-Definition
-
-TITLE
-Electrocardiogram (ECG)
-
-PAGE
-72-73
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The electrical activity of the heart can be recorded at the surface of the body; a graphic representation of this activity is called an electrocardiogram (ECG). A normal ECG, seen in figure 1.13, is composed of a P-wave, a QRS complex (the QRS complex is often three separate waves: a Q-wave, an R-wave, and an S-wave), and a T-wave. The P-wave and the QRS complex are recordings of electrical depolarization—that is, the electrical stimulus that leads to mechanical contraction. Depolarization is the reversal of the membrane electrical potential, whereby the normally negative potential inside the membrane becomes slightly positive and the outside becomes slightly negative. The P-wave is generated by the changes in the electrical potential of cardiac muscle cells that depolarize the atria and result in atrial contraction. The QRS complex is generated by the electrical potential that depolarizes the ventricles and results in ventricular contraction. In contrast, the T-wave is caused by the electrical potential generated as the ventricles recover from the state of depolarization; this process, called repolarization, occurs in ventricular muscle shortly after depolarization. Although atrial repolarization occurs as well, its wave formation usually occurs during the time of ventricular depolarization and is thus masked by the QRS complex (41).
-
-CHILDREN
-P-wave, QRS Complex, T-wave, Depolarization, Repolarization
-
-END
-
-TYPE
-Definition
-
-TITLE
-Blood Vessels
-
-PAGE
-73
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The central and peripheral circulation form a single closed-circuit system with two components: an arterial system, which carries blood away from the heart, and a venous system, which returns blood toward the heart (figure 1.14).
-
-CHILDREN
-Arterial System, Venous System
-
-END
-
-TYPE
-Definition
-
-TITLE
-Arteries
-
-PAGE
-74
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The function of arteries is to rapidly transport blood pumped from the heart. Because blood pumped from the heart is under relatively high pressure, arteries have strong, muscular walls. Small branches of arteries called arterioles act as control vessels through which blood enters the capillaries. Arterioles play a major role in the regulation of blood flow to the capillaries. Arterioles have strong, muscular walls that are capable of closing the arteriole completely or allowing it to be dilated many times their size, thus vastly altering blood flow to the capillaries in response to the needs of the tissues (41).
-
-CHILDREN
-Arterioles
-
-END
-
-TYPE
-Definition
-
-TITLE
-Capillaries
-
-PAGE
-75
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The function of capillaries is to facilitate exchange of oxygen, fluid, nutrients, electrolytes, hormones, and other substances between the blood and the interstitial fluid in the various tissues of the body. The capillary walls are very thin and are permeable to these, but not all, substances (41).
-
-END
-
-TYPE
-Definition
-
-TITLE
-Veins
-
-PAGE
-75
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-Venules collect blood from the capillaries and gradually converge into the progressively larger veins, which transport blood back to the heart. Because the pressure in the venous system is very low, venous walls are thin, although muscular. This allows them to constrict or dilate to a great degree and thereby act as a reservoir for blood, either in small or in large amounts (41). In addition, some veins, such as those in the legs, contain one-way valves that help maintain venous return by preventing retrograde blood flow.
-
-CHILDREN
-Venules
-
-END
-
-TYPE
-Definition
-
-TITLE
-Skeletal Muscle Pump
-
-PAGE
-75
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The skeletal muscle pump is the assistance that contracting muscles provide to the circulatory system. The muscle pump works with the venous system, which contains the one-way valves for blood return to the heart. The contracting muscle compresses the veins, but since the blood can flow only in the direction of the valves, it is returned to the heart.
-
-END
-
-TYPE
-Definition
-
-TITLE
-Blood
-
-PAGE
-76-77
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-Two paramount functions of blood are the transport of oxygen from the lungs to the tissues for use in cellular metabolism and the removal of carbon dioxide, the most abundant by-product of metabolism, from the tissues to the lungs. The transport of oxygen is accomplished by hemoglobin, the iron–protein molecule carried by the red blood cells. Hemoglobin also has an additional important role as an acid–base buffer, a regulator of hydrogen ion concentration, which is crucial to the rates of chemical reactions in cells. Red blood cells, the major component of blood, have other functions as well. For instance, they contain a large quantity of carbonic anhydrase, which catalyzes the reaction between carbon dioxide and water to facilitate carbon dioxide removal.
-
-CHILDREN
-Hemoglobin, Red Blood Cells
-
-END
-
-TYPE
-Definition
-
-TITLE
-Respiratory System
-
-PAGE
-77
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The primary function of the respiratory system is the basic exchange of oxygen and carbon dioxide. The anatomy of the human respiratory system is shown in figure 1.15. As air passes through the nose, the nasal cavities perform three distinct functions: warming, humidifying, and purifying the air (41). Air is distributed to the lungs by way of the trachea, bronchi, and bronchioles. The trachea is called the first-generation respiratory passage, and the right and left main bronchi are the second-generation passages; each division thereafter is an additional generation (bronchioles). There are approximately 23 generations before the air finally reaches the alveoli, where gases are exchanged in respiration (41).
-
-CHILDREN
-Trachea, Bronchi, Bronchioles, Alveoli
-
-END
-
-TYPE
-Definition
-
-TITLE
-Exchange of Air
-
-PAGE
-77-78
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The amount and movement of air and expired gases in and out of the lungs are controlled by expansion and recoil of the lungs. The lungs do not actively expand and recoil themselves but rather are acted on to do so in two ways: by downward and upward movement of the diaphragm to lengthen and shorten the chest cavity and by elevation and depression of the ribs to increase and decrease the back-to-front diameter of the chest cavity (41). Normal, quiet breathing is accomplished almost entirely by movement of the diaphragm. During inspiration, contraction of the diaphragm creates a negative pressure (vacuum) in the chest cavity, and air is drawn into the lungs. During expiration, the diaphragm simply relaxes; the elastic recoil of the lungs, chest wall, and abdominal structures compresses the lungs, and air is expelled. During heavy breathing, the elastic forces alone are not powerful enough to provide the necessary respiratory response. The extra required force is achieved mainly by contraction of the abdominal muscles, which push the abdomen upward against the bottom of the diaphragm (41).
-
-CHILDREN
-Muscles of Inspiration, Muscles of Expiration
-
-END
-
-TYPE
-Definition
-
-TITLE
-Muscles of Inspiration
-
-PAGE
-78
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The muscles that elevate the rib cage are called muscles of inspiration and include the external intercostals, the sternocleidomastoids, the anterior serrati, and the scaleni.
-
-PARENT
-Exchange of Air
-
-END
-
-TYPE
-Definition
-
-TITLE
-Muscles of Expiration
-
-PAGE
-78
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The muscles that depress the chest are muscles of expiration and include the abdominal muscles (rectus abdominis, external and internal obliques, and transversus abdominis) and the internal intercostals (41).
-
-PARENT
-Exchange of Air
-
-END
-
-TYPE
-Threshold
-
-TITLE
-Resting Heart Rate Classification
-
-PAGE
-72
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The resting heart rate normally ranges from 60 to 100 beats/min; fewer than 60 beats/min is called bradycardia, and more than 100 beats/min is called tachycardia.
-
-END
-
-TYPE
-Threshold
-
-TITLE
-SA Node Discharge Rate
-
-PAGE
-69
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The SA node normally controls heart rhythmicity because its discharge rate is considerably greater (60-80 times per minute) than that of either the AV node (40-60 times per minute) or the ventricular fibers (15-40 times per minute).
-
-END
-
-TYPE
-Threshold
-
-TITLE
-AV Node Discharge Rate
-
-PAGE
-69
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The SA node normally controls heart rhythmicity because its discharge rate is considerably greater (60-80 times per minute) than that of either the AV node (40-60 times per minute) or the ventricular fibers (15-40 times per minute).
-
-END
-
-TYPE
-Threshold
-
-TITLE
-Ventricular Fiber Discharge Rate
-
-PAGE
-69
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-The SA node normally controls heart rhythmicity because its discharge rate is considerably greater (60-80 times per minute) than that of either the AV node (40-60 times per minute) or the ventricular fibers (15-40 times per minute).
+TABLE 1.2  Relative Involvement of Muscle Fiber Types in Sport Events
+Event Type I Type II
+100 m sprint Low High
+800 m run High High
+Marathon High Low
+Olympic weightlifting Low High
+Soccer, lacrosse, hockey High High
+American football wide receiver Low High
+American football lineman Low High
+Basketball, team handball Low High
+Volleyball Low High
+Baseball or softball pitcher Low High
+Mixed martial arts High High
+Wrestling High High
+50 m swim Low High
+Field events Low High
+Cross-country skiing, biathlon High Low
+Tennis High High
+Downhill or slalom skiing High High
+Speed skating High High
+Bobsled Low High
+Distance cycling High Low
+Rowing High High
 
 END
 
@@ -466,16 +196,16 @@ TYPE
 Figure
 
 TITLE
-Figure 1.10
+Figure 1.8 — Twitch, twitch summation, and tetanus of a motor unit
 
 PAGE
-66
+57
 
 SECTION
-01.03 — Cardiovascular System
+Activation of Muscles
 
 ORIGINAL TEXT
-FIGURE 1.10 Muscle spindle. When a muscle is stretched, deformation of the muscle spindle activates the sensory neuron, which sends an impulse to the spinal cord, where it synapses with a motor neuron, causing the muscle to contract.
+FIGURE 1.8 Twitch, twitch summation, and tetanus of a motor unit: a = single twitch; b = force resulting from summation of two twitches; c = unfused tetanus; d = fused tetanus.
 
 END
 
@@ -483,134 +213,49 @@ TYPE
 Figure
 
 TITLE
-Figure 1.11
+Figure 1.9 — Comparison of slow- and fast-twitch motor units
 
 PAGE
-70
+59-60
 
 SECTION
-01.03 — Cardiovascular System
+Muscle Fiber Types
 
 ORIGINAL TEXT
-FIGURE 1.11 Structure of the human heart and the course of blood flow through its chambers.
+FIGURE 1.9 Comparison of slow- and fast-twitch motor units: a = schematic of slow-twitch and fast-twitch motor units innervating separate sets of muscle fibers; b = characteristics of slow-twitch and fast-twitch motor units; c = hypothetical differences between unweighted versus weighted arm curls on slow-twitch and fast-twitch motor unit recruitment patterns.
 
 END
 
 TYPE
-Figure
+Evidence
 
 TITLE
-Figure 1.12
+2021 Research Study on Protein Content Differences
 
 PAGE
-71
+60
 
 SECTION
-01.03 — Cardiovascular System
+Muscle Fiber Types
 
 ORIGINAL TEXT
-FIGURE 1.12  The electrical conduction system of the heart.
+A 2021 research study using sophisticated molecular approaches has also unveiled that the content of hundreds of structural and metabolic proteins differs between type I, IIa, and IIx fibers (30), and these findings suggest that these appreciable differences contribute to the unique fiber type characteristics discussed in this paragraph.
 
 END
 
 TYPE
-Figure
+Evidence
 
 TITLE
-Figure 1.13
+Maximal Voluntary Contraction Activation Estimate
 
 PAGE
-73
+64
 
 SECTION
-01.03 — Cardiovascular System
+Motor Unit Recruitment Patterns
 
 ORIGINAL TEXT
-FIGURE 1.13  Normal electrocardiogram.
-
-END
-
-TYPE
-Figure
-
-TITLE
-Figure 1.14
-
-PAGE
-74
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-FIGURE 1.14 The arterial (right) and venous (left) components of the circulatory system. The percent values indicate the distribution of blood volume throughout the circulatory system at rest.
-
-END
-
-TYPE
-Figure
-
-TITLE
-Figure 1.15
-
-PAGE
-79
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-FIGURE 1.15  Gross anatomy of the human respiratory system.
-
-END
-
-TYPE
-Recommendation
-
-TITLE
-How Can Athletes Improve Force Production?
-
-PAGE
-66
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-Incorporate phases of training that use heavier loads (or explosive actions) to optimize motor unit recruitment and firing frequency patterns. Also incorporate phases of training that promote skeletal muscular hypertrophy given that more myofibrils (and thus more actin-myosin crossbridges) will be available for near-maximal muscle contractions. Finally, implement training methods that specifically target movements where increases in force are desired (e.g., heavy bench press and back squat exercises for increasing pushing forces).
-
-END
-
-TYPE
-Recommendation
-
-TITLE
-Importance of Periodic Leg Muscle Contraction During Prolonged Sitting
-
-PAGE
-75
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-This mechanism is one of the reasons why it is important to periodically contract leg muscles or to take walking breaks during prolonged sitting. These activities act to prevent blood pooling in the legs and facilitate venous blood return to the heart.
-
-END
-
-TYPE
-Recommendation
-
-TITLE
-How Important Is It to Train the Muscles of Respiration?
-
-PAGE
-80
-
-SECTION
-01.03 — Cardiovascular System
-
-ORIGINAL TEXT
-Regular exercise in general is beneficial for maintaining respiratory muscle function. Both endurance exercise, which involves repetitive contraction of breathing muscles, and resistance exercise, which taxes the diaphragm and abdominal muscles especially because of their use for stabilization and for increasing intra-abdominal pressure (Valsalva maneuver), can result in some muscle training adaptations. This can help to preserve some of the pulmonary function with aging.
+Electromyography estimates have indicated that maximal voluntary contractions with higher intensity weightlifting typically lead to approximately 90% or more activation of available motor units in the involved muscle(s) (7).
 
 END

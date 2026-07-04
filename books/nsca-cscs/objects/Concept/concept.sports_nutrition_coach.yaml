@@ -1,0 +1,27 @@
+id: concept.sports_nutrition_coach
+type: Concept
+canonical_name: Sports Nutrition Coach
+semantic_type: Role
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 539
+  pdf_page: 539
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A professional who is not a registered dietitian but has basic training
+  in nutrition and exercise science.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

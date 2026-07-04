@@ -1,0 +1,27 @@
+id: concept.leucine_threshold_for_muscle_protein_synthesis
+type: Concept
+canonical_name: Leucine Threshold for Muscle Protein Synthesis
+semantic_type: Physiological Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Dietary Supplements
+  section: '12.3'
+  section_title: Dietary Supplements
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Norton and coworkers (159) demonstrated in rodent models that a leucine
+  threshold for stimulating muscle protein synthesis exists.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

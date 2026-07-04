@@ -1,0 +1,27 @@
+id: concept.procedures
+type: Concept
+canonical_name: Procedures
+semantic_type: Instruction
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Athletic Performance
+  section: '14.1'
+  section_title: Measuring Parameters of Athletic Performance
+  book_page: 774
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Procedures are detailed, step-by-step instructions on executing specific
+  tasks within the protocol framework.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

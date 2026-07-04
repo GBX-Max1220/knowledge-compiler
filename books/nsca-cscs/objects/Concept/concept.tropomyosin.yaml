@@ -1,0 +1,29 @@
+id: concept.tropomyosin
+type: Concept
+canonical_name: Tropomyosin
+semantic_type: Protein
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Excitation–Contraction Coupling Phase
+  section_title: Excitation–Contraction Coupling Phase
+  book_page: 53
+  pdf_page: 53
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'This calcium-troponin interaction causes a shift in another protein termed
+  tropomyosin, which is bound to troponin and spans the length of the actin filament.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.troponin
+- concept.actin_filament

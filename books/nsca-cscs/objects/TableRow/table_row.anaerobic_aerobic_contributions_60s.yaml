@@ -1,0 +1,26 @@
+id: table_row.anaerobic_aerobic_contributions_60s
+type: TableRow
+canonical_name: Anaerobic and Aerobic Contributions at 60 Seconds
+semantic_type: DataRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetic Limiting Factors
+  section: '3.4'
+  section_title: Bioenergetic Limiting Factors
+  book_page: 214
+  pdf_page: 214
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_reference: Table 3.5
+row_data:
+  duration: 60 s
+  exercise_intensity_percent_max_power: '35'
+  contribution_anaerobic_percent: '50'
+  contribution_aerobic_percent: '50'

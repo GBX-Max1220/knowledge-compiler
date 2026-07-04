@@ -1,0 +1,33 @@
+id: procedure.triceps_pushdown_machine_upward_movement_phase
+type: Procedure
+canonical_name: Triceps Pushdown (Machine) — Upward Movement Phase
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '16.4'
+  section_title: Spotting Techniques
+  book_page: 1059
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Allow the elbows to slowly flex back to the starting position. Keep the
+  torso, arms, and knees in the same position. At the end of the set, return the bar
+  to its resting position.
+
+  '
+attributes:
+- elbows slowly flex
+- torso position maintained
+- arms position maintained
+- knees position maintained
+- return bar to resting position at end of set
+purpose: []
+related_concepts: []

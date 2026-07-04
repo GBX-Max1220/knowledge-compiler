@@ -1,0 +1,30 @@
+id: threshold.lactate_threshold_in_untrained_individuals
+type: Threshold
+canonical_name: Lactate Threshold in Untrained Individuals
+semantic_type: PhysiologicalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Biological Energy Systems
+  section: '3.2'
+  section_title: Biological Energy Systems
+  book_page: 193
+  pdf_page: 193
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value:
+  numeric: null
+  unit: '% of maximal oxygen uptake'
+  range: 50% to 60%
+  condition: in untrained individuals
+  operator: ''

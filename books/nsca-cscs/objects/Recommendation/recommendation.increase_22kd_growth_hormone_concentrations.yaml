@@ -1,0 +1,34 @@
+id: recommendation.increase_22kd_growth_hormone_concentrations
+type: Recommendation
+canonical_name: To Increase 22 kD Growth Hormone Concentrations
+semantic_type: TrainingRecommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.4'
+  section_title: Muscle Tissue Recruitment
+  book_page: 272
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Growth hormone levels have been shown to increase acutely with
+  use of either of these methods or both in combination: Use workouts with higher
+  lactate concentrations and associated acid–base disruptions; that is, use high intensity
+  (10RM, or heavy resistance) with three sets of each exercise (high total work) and
+  short (1 min) rest periods. Supplement diet with carbohydrates and protein before
+  and after workouts.
+
+  '
+methods:
+- Use workouts with higher lactate concentrations and associated acid–base disruptions;
+  that is, use high intensity (10RM, or heavy resistance) with three sets of each
+  exercise (high total work) and short (1 min) rest periods
+- Supplement diet with carbohydrates and protein before and after workouts
+outcome: increase 22 kD growth hormone concentrations acutely

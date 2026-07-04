@@ -1,0 +1,31 @@
+id: concept.principle_of_training_reversibility
+type: Concept
+canonical_name: Principle of Training Reversibility
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: ''
+  section: '6.4'
+  section_title: Detraining
+  book_page: 379
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: governs
+  target: concept.detraining
+definition: 'Detraining is governed by the principle of training reversibility, which
+  states that whereas physical training results in several physiological adaptations
+  that enhance athletic performance, stopping or markedly reducing training induces
+  a partial or complete reversal of these adaptations, compromising athletic performance.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

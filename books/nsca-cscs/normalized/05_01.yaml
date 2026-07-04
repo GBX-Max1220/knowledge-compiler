@@ -1,0 +1,1343 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.anaerobic_training
+type: Concept
+canonical_name: Anaerobic Training
+semantic_type: Training Modality
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 281
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Characterized by high-intensity, intermittent bouts of exercise, anaerobic training requires adenosine triphosphate (ATP) to be regenerated at a faster rate than can be produced by oxidative metabolism alone. Consequently, the energy requirement relies on a greater proportion of energy coming from non-oxidative energy systems, which include the phosphagen or creatine phosphate system and a smaller proportion coming from glycolysis. Thus, the term anaerobic training is used in this text to describe exercise training that is performed at intensities that rely primarily on non-oxidative metabolism to meet energy demands.
+
+attributes:
+  - high-intensity
+  - intermittent
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.motor_unit
+type: Concept
+canonical_name: Motor Unit
+semantic_type: Anatomical Structure
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 289
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.neuromuscular_system
+
+definition: >
+  The functional unit of the neuromuscular system is the motor unit. Consisting of the alpha motor neuron and the muscle fibers that it activates, a motor unit may innervate <10 muscle fibers for small, intricate muscles or >100 fibers for large, powerful trunk and limb muscles.
+
+attributes:
+  - functional_unit
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hennemans_size_principle
+type: Concept
+canonical_name: Henneman's Size Principle
+semantic_type: Physiological Principle
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 290
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The recruitment or decruitment of motor units in an orderly manner is governed by Henneman's size principle (figure 5.2), which represents the relationship between motor unit twitch force and recruitment threshold (140). According to this principle, motor units are recruited in an ascending order according to their soma size.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.motor_unit
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_hypertrophy
+type: Concept
+canonical_name: Muscle Hypertrophy
+semantic_type: Physiological Adaptation
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 299
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Muscle hypertrophy is the term given to the enlargement of muscle fiber cross-sectional area (CSA) following training.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hyperplasia
+type: Concept
+canonical_name: Hyperplasia
+semantic_type: Physiological Adaptation
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 302
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Hyperplasia is the term given to an increase in the number of muscle fibers via longitudinal fiber splitting in response to high-intensity resistance training.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.minimal_essential_strain
+type: Concept
+canonical_name: Minimal Essential Strain
+semantic_type: Physiological Threshold
+aliases:
+  - MES
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 311
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The term minimal essential strain (MES) refers to the threshold stimulus that initiates new bone formation.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.detraining
+type: Concept
+canonical_name: Detraining
+semantic_type: Physiological Process
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 333
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Detraining is the term given to a decrement in performance and loss of the accumulated physiological adaptations following the cessation of anaerobic training or when there is a substantial reduction in frequency, volume, intensity, or any combination of these variables.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cross_education
+type: Concept
+canonical_name: Cross-Education
+semantic_type: Physiological Phenomenon
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 296
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercising muscle undergoing unilateral resistance training produces increased strength and neural activity in the contralateral resting muscle, a phenomenon known as cross-education (79).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bilateral_deficit
+type: Concept
+canonical_name: Bilateral Deficit
+semantic_type: Physiological Phenomenon
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 296
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In untrained individuals, a bilateral deficit is evident. The force produced when both limbs contract together is lower than the sum of the forces they produce when contracting unilaterally.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bilateral_facilitation
+type: Concept
+canonical_name: Bilateral Facilitation
+semantic_type: Physiological Phenomenon
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 297
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In fact, trained or stronger individuals often show a bilateral facilitation effect whereby an increase in voluntary activation of the agonist muscle groups is observed during bilateral contraction (64a).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_induced_muscle_damage
+type: Concept
+canonical_name: Exercise-Induced Muscle Damage
+semantic_type: Physiological Condition
+aliases:
+  - EIMD
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 300
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise-induced muscle damage (EIMD) and disruption of myofibrils and the uniform structure of muscle fiber sarcomeres following high-intensity anaerobic training (e.g., resistance training) also have a marked effect on muscle growth (35).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pennation_angle
+type: Concept
+canonical_name: Pennation Angle
+semantic_type: Anatomical Property
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 306
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Pennation angle affects the force production capabilities as well as the range of motion of a muscle.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteogenic_stimuli
+type: Concept
+canonical_name: Osteogenic Stimuli
+semantic_type: Physiological Stimulus
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 314
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise selection is critical when one is trying to elicit maximal osteogenic stimuli (factors that stimulate new bone formation).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.tendon_stiffness
+type: Concept
+canonical_name: Tendon Stiffness
+semantic_type: Mechanical Property
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 319
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Past studies indicate that tendon stiffness (force transmission per unit of strain, or tendon elongation) increases as a result of resistance training (101, 123).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.rate_pressure_product
+type: Concept
+canonical_name: Rate-Pressure Product
+semantic_type: Physiological Measure
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 325
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Similarly, the rate–pressure product (heart rate × systolic blood pressure; a measure of myocardial work) has been shown to either remain constant or decrease following resistance training.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.mes_bone_formation
+type: Threshold
+canonical_name: Minimal Essential Strain Threshold for Bone Formation
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 311
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: "force"
+value: "1/10 of the force required to fracture bone"
+unit: ""
+condition: "initiates new bone formation"
+context: "bone formation"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_peak_power_jump_squat
+type: Threshold
+canonical_name: Optimal Load for Peak Power in the Jump Squat
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 331
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: "load"
+value: "0% of 1RM"
+unit: "% of 1RM"
+condition: "maximizes absolute peak power output"
+context: "jump squat"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_peak_power_squat
+type: Threshold
+canonical_name: Optimal Load for Peak Power in the Squat
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 331
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: "load"
+value: "56% of 1RM"
+unit: "% of 1RM"
+condition: "maximizes peak power"
+context: "squat"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_peak_power_power_clean
+type: Threshold
+canonical_name: Optimal Load for Peak Power in the Power Clean
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 331
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: "load"
+value: "80% of 1RM"
+unit: "% of 1RM"
+condition: "maximizes peak power"
+context: "power clean"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_range_peak_power_bench_press_throw
+type: Threshold
+canonical_name: Optimal Load Range for Peak Power in the Bench Press Throw
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 331
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: "load"
+value: "46% to 62% of a bench press 1RM"
+unit: "% of 1RM"
+condition: "maximizes peak power output"
+context: "ballistic bench press throw"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.load_intensity_tendon_stiffness
+type: Threshold
+canonical_name: Load Intensity for Tendon Stiffness
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 319
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: "load"
+value: "80% 1RM"
+unit: "% of 1RM"
+condition: "increases tendon stiffness"
+context: "tendon stiffness"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.load_intensity_tendon_stiffness_light
+type: Threshold
+canonical_name: Load Intensity for Tendon Stiffness (Light)
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 319
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: "load"
+value: "20% 1RM"
+unit: "% of 1RM"
+condition: "does not increase tendon stiffness"
+context: "tendon stiffness"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.strength_gains_untrained_limb_cross_education
+type: Evidence
+canonical_name: Strength Gains in Untrained Limb via Cross-Education
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 296
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+finding: "Strength in the untrained limb may increase up to 22%, with an average strength increase of approximately 8% following training periods ranging from 4 to 12 weeks."
+
+context: "cross-education"
+
+citations:
+  - "125"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.increase_resting_cp_atp_resistance_training
+type: Evidence
+canonical_name: Increase in Resting CP and ATP After Resistance Training
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 308
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+finding: "A 28% increase in resting CP and an 18% increase in ATP concentrations following five months of resistance training (i.e., 3 to 5 sets of 8-10 repetitions with 2-min rest periods)."
+
+context: "resistance training adaptations"
+
+citations:
+  - "113"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.increase_glycogen_content_bodybuilding_training
+type: Evidence
+canonical_name: Increase in Glycogen Content After Bodybuilding-Style Training
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 308
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+finding: "Glycogen content was found to increase up to 112%."
+
+context: "bodybuilding-style programs"
+
+citations:
+  - "113"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.increase_achilles_tendon_stiffness_resistance_training
+type: Evidence
+canonical_name: Increase in Achilles Tendon Stiffness After Resistance Training
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 319
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+finding: "A 15% to 19% increase in Achilles tendon stiffness following eight weeks of resistance training."
+
+context: "tendon stiffness"
+
+citations:
+  - "99"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.increase_patella_tendon_csa_knee_extension_training
+type: Evidence
+canonical_name: Increase in Patella Tendon CSA After Knee Extension Training
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 319
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+finding: "Patella tendon CSA increased by 5% to 6% after nine weeks of knee extension training."
+
+context: "tendon adaptations"
+
+citations:
+  - "151"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.strength_performance_maintained_short_term_inactivity
+type: Evidence
+canonical_name: Strength Performance Maintained During Short-Term Inactivity
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 333
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+finding: "Removing the training stimulus for 14 days did not significantly affect 1RM strength performance in the bench press (−1.7%) and squat (−0.9%), isometric (−7%) and isokinetic concentric knee extension force (−2.3%), or vertical jump performance (1.2%)."
+
+context: "detraining"
+
+citations:
+  - "108"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.decline_fast_twitch_fiber_csa_14_days_inactivity
+type: Evidence
+canonical_name: Decline in Fast-Twitch Fiber CSA After 14 Days of Inactivity
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 334
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+finding: "A decline of 6.4% in fast-twitch fiber CSA in 14 days."
+
+context: "detraining"
+
+citations:
+  - "78"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.stimulating_bone_formation
+type: Recommendation
+canonical_name: Stimulating Bone Formation
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 316
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Select multijoint, compound exercises that involve many muscle groups at once.
+  Select some exercises that direct axial force vectors through the spine and hip.
+  Use both heavy-load exercises and ballistic or high-impact exercises to expose the bone to different intensities of force.
+  Use multidirectional movements that incorporate all planes of motion to stimulate growth in different areas of the bone.
+  Use the principle of progressive overload to stress the musculoskeletal system and continue to progressively increase load as the tissues become accustomed to the stimulus.
+
+context: "bone formation"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.stimulating_connective_tissue_adaptations
+type: Recommendation
+canonical_name: Stimulating Connective Tissue Adaptations (Tendons, Ligaments, Fascia)
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 320
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Long-term adaptations in tendons, ligaments, and fascia are stimulated through progressive high-intensity loading patterns using external resistances.
+  High-intensity loads should be used, because low to moderate intensities do not markedly change the collagen content of connective tissue.
+  Forces should be exerted throughout the full range of motion of a joint, and wherever possible multijoint exercises should be used.
+
+context: "connective tissue adaptations"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.stimulating_cartilage_adaptations
+type: Recommendation
+canonical_name: Stimulating Cartilage Adaptations
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 320
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Moderate-intensity anaerobic exercise seems to be adequate for increasing cartilage thickness. Strenuous exercise does not appear to cause any degenerative joint disease when progressively overloaded appropriately.
+  Tissue viability can be maintained by adopting a variety of exercise modalities and ensuring that load is applied throughout the range of motion.
+
+context: "cartilage adaptations"
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.figure_5_1
+type: Figure
+canonical_name: Figure 5.1
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 288
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+caption: "Potential sites of adaptation within the neuromuscular system."
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.figure_5_2
+type: Figure
+canonical_name: Figure 5.2
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 290
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+caption: "Graphic representation of the size principle, according to which motor units are organized based on the size of the neuronal soma."
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.figure_5_3
+type: Figure
+canonical_name: Figure 5.3
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 305
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+caption: "Muscle fiber transitions occur during training, and these changes are not influenced by sex (17, 158)."
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.figure_5_4
+type: Figure
+canonical_name: Figure 5.4
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 310
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+caption: "Bone modeling in response to mechanical loading."
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.figure_5_5
+type: Figure
+canonical_name: Figure 5.5
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 317
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+caption: "Formation of a collagen fiber."
+---
+# ontology: knowledge-compiler/v1
+
+id: table.table_5_1
+type: Table
+canonical_name: Table 5.1
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 283
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+caption: "Primary Metabolic Demands of Various Sports"
+---
+# ontology: knowledge-compiler/v1
+
+id: table.table_5_2
+type: Table
+canonical_name: Table 5.2
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 285
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+caption: "Physiological Adaptations to Resistance Training"
+---
+# ontology: knowledge-compiler/v1
+
+id: decision_rule.motor_unit_recruitment_size_principle
+type: DecisionRule
+canonical_name: Motor Unit Recruitment According to the Size Principle
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 290
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+rule_text: "Motor units are recruited in an ascending order according to their soma size. Thus, motor units with small motor neurons have lower recruitment thresholds than do motor units with large motor neurons."
+---
+# ontology: knowledge-compiler/v1
+
+id: decision_rule.stimulus_new_bone_formation
+type: DecisionRule
+canonical_name: Stimulus for New Bone Formation
+aliases: []
+
+source:
+  book: "Essentials of Strength and Conditioning"
+  edition: 4
+  chapter: 5
+  chapter_title: "Adaptations to Anaerobic Training"
+  section: "5.1"
+  section_title: "Adaptations to Anaerobic Training"
+  book_page: 311
+  pdf_page: null

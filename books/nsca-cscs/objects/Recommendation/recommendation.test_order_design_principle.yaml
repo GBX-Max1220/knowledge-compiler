@@ -1,0 +1,29 @@
+id: recommendation.test_order_design_principle
+type: Recommendation
+canonical_name: Test Order Design Principle
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 758
+  pdf_page: 758
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The order of tests should be designed in such a way that the completion
+  of one test does not adversely affect performance in subsequent tests.
+
+  '
+attributes: []
+purpose:
+- ensure completion of one test does not adversely affect performance in subsequent
+  tests
+related_concepts: []

@@ -1,0 +1,34 @@
+id: formula.substrate_level_phosphorylation_1
+type: Formula
+canonical_name: Substrate-Level Phosphorylation Reaction 1
+semantic_type: Chemical Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Energy Yield of Glycolysis
+  section_title: Energy Yield of Glycolysis
+  book_page: 190
+  pdf_page: 190
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+equation: 1,3-bisphosphoglycerate + ADP + Pi → Phosphoglycerate kinase 3-phosphoglycerate
+  + ATP
+equation_number: '3.6'
+variables:
+- name: ADP
+  description: Adenosine diphosphate
+- name: Pi
+  description: Inorganic phosphate
+- name: ATP
+  description: Adenosine triphosphate

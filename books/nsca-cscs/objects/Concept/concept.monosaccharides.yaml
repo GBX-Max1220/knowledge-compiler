@@ -1,0 +1,52 @@
+id: concept.monosaccharides
+type: Concept
+canonical_name: Monosaccharides
+semantic_type: Nutrient
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.3'
+  section_title: Macronutrients
+  book_page: 556
+  pdf_page: 556
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.carbohydrate
+definition: 'Monosaccharides (glucose, fructose, and galactose) are single-sugar molecules.
+  In the body, glucose is present as circulating sugar in the blood, where it is used
+  as the primary energy substrate for cells. In addition, glucose molecules make up
+  glycogen, a polysaccharide stored in muscle and liver cells. In food, glucose is
+  typically combined with other monosaccharides to form various sugars, such as sucrose.
+  Isolated glucose found in candy or sport drinks is found in the form of dextrose,
+  a chemical isomer of glucose. Fructose has the same chemical formula as glucose,
+  but because the atoms are arranged differently, it tastes much sweeter and has different
+  properties. Fructose accounts for the sweet taste of honey and occurs naturally
+  in fruits and vegetables. In the body, fructose causes less insulin secretion than
+  other sugars, which has made it a focus of much research in the area of aerobic
+  endurance performance. Galactose, the third monosaccharide, combines with glucose
+  to form lactose, milk sugar.
+
+  '
+attributes:
+- single-sugar molecules
+- glucose
+- fructose
+- galactose
+purpose:
+- used as primary energy substrate for cells
+related_concepts:
+- concept.glucose
+- concept.fructose
+- concept.galactose
+- concept.glycogen
+- concept.sucrose
+- concept.dextrose
+- concept.lactose

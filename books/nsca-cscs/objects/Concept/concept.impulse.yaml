@@ -1,0 +1,27 @@
+id: concept.impulse
+type: Concept
+canonical_name: Impulse
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The product of the generated force and the time required for its production,
+  which is measured as the area under the force–time curve.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

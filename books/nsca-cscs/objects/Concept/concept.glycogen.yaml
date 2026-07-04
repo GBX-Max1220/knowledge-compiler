@@ -1,0 +1,29 @@
+id: concept.glycogen
+type: Concept
+canonical_name: Glycogen
+semantic_type: Biomolecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Precompetition Nutrition
+  section_title: Precompetition Nutrition
+  book_page: 614
+  pdf_page: 614
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Glycogen is the main form of energy used during high-intensity (>70%
+  V̇O2max) exercise; once these stores become depleted, the athlete will experience
+  muscular fatigue (60).
+
+  '
+attributes:
+- main_energy_source_for_high_intensity_exercise
+purpose: []
+related_concepts: []

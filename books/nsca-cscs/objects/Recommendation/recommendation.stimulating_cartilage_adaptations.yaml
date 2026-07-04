@@ -1,0 +1,27 @@
+id: recommendation.stimulating_cartilage_adaptations
+type: Recommendation
+canonical_name: Stimulating Cartilage Adaptations
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 320
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Moderate-intensity anaerobic exercise seems to be adequate for
+  increasing cartilage thickness. Strenuous exercise does not appear to cause any
+  degenerative joint disease when progressively overloaded appropriately. Tissue viability
+  can be maintained by adopting a variety of exercise modalities and ensuring that
+  load is applied throughout the range of motion.
+
+  '
+context: cartilage adaptations

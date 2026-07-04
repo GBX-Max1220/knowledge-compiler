@@ -1,0 +1,41 @@
+id: concept.veins
+type: Concept
+canonical_name: Veins
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.14
+  section_title: The arterial (right) and venous (left) components of the circulatory
+    system.
+  book_page: 75
+  pdf_page: 75
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.circulatory_system
+definition: 'Venules collect blood from the capillaries and gradually converge into
+  the progressively larger veins, which transport blood back to the heart. Because
+  the pressure in the venous system is very low, venous walls are thin, although muscular.
+  This allows them to constrict or dilate to a great degree and thereby act as a reservoir
+  for blood, either in small or in large amounts (41). In addition, some veins, such
+  as those in the legs, contain one-way valves that help maintain venous return by
+  preventing retrograde blood flow.
+
+  '
+attributes:
+- thin_walls
+- muscular
+- one_way_valves
+related_concepts:
+- concept.venules
+- concept.capillaries
+- concept.heart
+- concept.venous_return

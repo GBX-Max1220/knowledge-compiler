@@ -1,0 +1,38 @@
+id: procedure.girth_measurements
+type: Procedure
+canonical_name: Girth Measurements Procedure
+semantic_type: Assessment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.3'
+  section_title: Statistical Evaluation of Test Data
+  book_page: 820
+  pdf_page: 820
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Position the athlete in a relaxed anatomical position for each measurement
+  (unless otherwise indicated for a particular measurement). Measure the following
+  sites (81); see figure 14.31: Chest —at nipple level in males and at maximum circumference
+  (above the breasts) in females. Right upper arm—at the point of maximal circumference
+  with the elbow fully extended, palm up, and arm abducted to parallel with the floor.
+  Right forearm—at the point of maximal circumference with the elbow fully extended,
+  palm up, and arm abducted to parallel with the floor. Waist (abdomen) —at the level
+  of the umbilicus. Hips (buttocks) —at the maximal protrusion of the buttocks with
+  the heels together. Right thigh —at the point of maximal circumference, usually
+  just below the buttocks. Right calf—at the point of maximal circumference between
+  the knee and ankle.
+
+  '
+attributes: []
+purpose:
+- assess body composition
+related_concepts:
+- concept.body_composition

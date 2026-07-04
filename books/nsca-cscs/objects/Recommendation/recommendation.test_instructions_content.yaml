@@ -1,0 +1,37 @@
+id: recommendation.test_instructions_content
+type: Recommendation
+canonical_name: Test Instructions Content
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 758
+  pdf_page: 758
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The instructions should cover the purpose of the test, how it is to be
+  performed, the amount of warm-up recommended, the number of practice attempts allowed,
+  the number of trials, test scoring, criteria for disallowing attempts, and recommendations
+  for maximizing performance.
+
+  '
+attributes: []
+purpose:
+- cover the purpose of the test
+- cover how the test is to be performed
+- cover the amount of warm-up recommended
+- cover the number of practice attempts allowed
+- cover the number of trials
+- cover test scoring
+- cover criteria for disallowing attempts
+- cover recommendations for maximizing performance
+related_concepts: []

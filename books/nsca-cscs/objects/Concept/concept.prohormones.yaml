@@ -1,0 +1,27 @@
+id: concept.prohormones
+type: Concept
+canonical_name: Prohormones
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.2'
+  section_title: Hormones — Testosterone Precursors (Prohormones)
+  book_page: 679
+  pdf_page: 679
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Prohormones are precursors to the synthesis of other hormones and are
+  theorized to increase the body''s ability to produce a given specific hormone.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

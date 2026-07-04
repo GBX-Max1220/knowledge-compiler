@@ -4,12 +4,12 @@ canonical_name: Valves
 semantic_type: Anatomical Structure
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
   chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.03'
-  section_title: Cardiovascular System
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Cardiovascular System — Heart — Valves
   book_page: 68
   pdf_page: 68
 provenance:
@@ -27,22 +27,18 @@ definition: 'The tricuspid valve and mitral valve (bicuspid valve) (collectively
   arteries into the ventricles during ventricular relaxation (diastole). Each valve
   opens and closes passively; that is, each closes when a backward pressure gradient
   pushes blood back against it, opening when a forward pressure gradient forces blood
-  in the forward direction.
+  in the forward direction (41).
 
   '
 attributes:
-- tricuspid_valve
-- mitral_valve
-- bicuspid_valve
-- atrioventricular_valves
-- aortic_valve
-- pulmonary_valve
-- semilunar_valves
-- passive_opening
-- passive_closing
+- tricuspid valve
+- mitral valve (bicuspid valve)
+- atrioventricular (AV) valves
+- aortic valve
+- pulmonary valve
+- semilunar valves
+- open and close passively
 purpose:
-- prevent backflow of blood from ventricles to atria during systole
+- prevent flow of blood from ventricles back into atria during systole
 - prevent backflow from aorta and pulmonary arteries into ventricles during diastole
-related_concepts:
-- concept.systole
-- concept.diastole
+related_concepts: []

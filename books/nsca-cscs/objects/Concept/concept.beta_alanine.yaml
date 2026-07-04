@@ -1,0 +1,27 @@
+id: concept.beta_alanine
+type: Concept
+canonical_name: β-Alanine
+semantic_type: Amino Acid
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Dietary Supplements
+  section: '12.3'
+  section_title: Dietary Supplements
+  book_page: 706
+  pdf_page: 706
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'β-Alanine is a nonessential amino acid that is common in many foods that
+  we eat, such as chicken.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

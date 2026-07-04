@@ -1,0 +1,30 @@
+id: concept.electromyography
+type: Concept
+canonical_name: Electromyography
+semantic_type: ResearchTool
+aliases:
+- EMG
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 294
+  pdf_page: 294
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Electromyography (EMG) is a common research tool used to examine the
+  magnitude of neural activation within skeletal muscle.
+
+  '
+attributes:
+- research_tool
+purpose:
+- examine magnitude of neural activation within skeletal muscle
+related_concepts: []

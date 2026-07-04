@@ -1,0 +1,29 @@
+id: concept.amine_hormones
+type: Concept
+canonical_name: Amine Hormones
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine Responses to Resistance Exercise and Training
+  section: 'Chapter 4: Endocrine Responses to Resistance Exercise and Training — Categories
+    of Hormones'
+  section_title: Categories of Hormones
+  book_page: 247
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Amine hormones are indeed synthesized from amino acids, including those
+  derived from tyrosine (such as epinephrine, norepinephrine, and dopamine) and tryptophan
+  (such as serotonin), and primarily exert their effects by binding to membrane receptors.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,26 @@
+id: evidence.strength_performance_maintained_short_term_inactivity
+type: Evidence
+canonical_name: Strength Performance Maintained During Short-Term Inactivity
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 333
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+finding: Removing the training stimulus for 14 days did not significantly affect 1RM
+  strength performance in the bench press (−1.7%) and squat (−0.9%), isometric (−7%)
+  and isokinetic concentric knee extension force (−2.3%), or vertical jump performance
+  (1.2%).
+context: detraining
+citations:
+- '108'

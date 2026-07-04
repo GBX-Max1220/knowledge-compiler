@@ -1,0 +1,31 @@
+id: table_row.height_body_mass_arm_span_circumferences_and_limb_lengths
+type: TableRow
+canonical_name: Height, Body Mass, Arm Span, Circumferences, and Limb Lengths
+semantic_type: Test
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing and Prescription
+  section: '13.3'
+  section_title: Evaluation of Test Quality
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Measures the dimensions and proportions of the human body.
+
+  '
+attributes:
+  physical_characteristic: Anthropometry
+  test_name: Height, body mass, arm span, circumferences, and limb lengths
+  sport_application_examples:
+  - General
+  description: Measures the dimensions and proportions of the human body
+purpose: []
+related_concepts: []

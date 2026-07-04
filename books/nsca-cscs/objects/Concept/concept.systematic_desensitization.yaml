@@ -1,0 +1,29 @@
+id: concept.systematic_desensitization
+type: Concept
+canonical_name: Systematic Desensitization
+semantic_type: Technique
+aliases:
+- SD
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: 'Energy Management: Arousal and Anxiety'
+  section: '9.3'
+  section_title: 'Energy Management: Arousal and Anxiety'
+  book_page: 493
+  pdf_page: 493
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Systematic desensitization combines mental and physical techniques that
+  allow an athlete to replace a fear response to various cues with a relaxation response.
+
+  '
+attributes: []
+purpose:
+- replace a fear response to various cues with a relaxation response
+related_concepts: []

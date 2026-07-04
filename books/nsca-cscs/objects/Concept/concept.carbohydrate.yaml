@@ -1,0 +1,47 @@
+id: concept.carbohydrate
+type: Concept
+canonical_name: Carbohydrate
+semantic_type: Nutrient
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.3'
+  section_title: Macronutrients
+  book_page: 556
+  pdf_page: 556
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.monosaccharides
+- predicate: has_attribute
+  target: concept.disaccharides
+- predicate: has_attribute
+  target: concept.polysaccharides
+definition: 'Carbohydrate primarily serves as a source of energy. However, carbohydrate
+  is not an essential nutrient, because the body can break down the carbon skeletons
+  of certain amino acids and convert them into glucose (i.e., gluconeogenesis). Carbohydrates
+  are composed of carbon, hydrogen, and oxygen. Carbohydrates can be classified into
+  three groups according to the number of sugar (saccharide) units they contain: monosaccharides,
+  disaccharides, and polysaccharides.
+
+  '
+attributes:
+- source of energy
+- not essential nutrient
+- composed of carbon
+- composed of hydrogen
+- composed of oxygen
+purpose:
+- serve as a source of energy
+related_concepts:
+- concept.gluconeogenesis
+- concept.monosaccharides
+- concept.disaccharides
+- concept.polysaccharides

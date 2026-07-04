@@ -1,0 +1,33 @@
+id: evidence.load_dependency_of_cross_education_effect
+type: Evidence
+canonical_name: Load Dependency of Cross-Education Effect
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.2'
+  section_title: Muscular Adaptations
+  book_page: 296
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+claim: The cross-education effect does appear to be load dependent, with untrained
+  limb strength improving when the contralateral trained limb performs higher-load
+  (8RM-12RM) intensities.
+supporting_data:
+- value: 8RM-12RM
+  unit: RM
+  context: intensity range for trained limb
+citations:
+- (22)

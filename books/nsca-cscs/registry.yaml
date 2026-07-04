@@ -1,91 +1,1546 @@
 registry:
+  18-Month Resistance Training Increases Bone Strength in Middle-Aged and Older Men: evidence.eighteen_month_resistance_training_bone_strength_men
   A-band: concept.a_band
+  ATP Depletion Range During Fatigue: threshold.atp_depletion_range_during_fatigue
+  ATP Hydrolysis Equation: formula.atp_hydrolysis
+  Absolute vs. Relative Muscle Strength in Females and Males: concept.absolute_vs_relative_muscle_strength_in_females_and_males
+  Academic Stress and Injury Association in Division I Football Players: evidence.academic_stress_and_injury_association_in_division_i_football_players
+  Acceleration: concept.acceleration
+  Accentuated Eccentric Loading: concept.accentuated_eccentric_loading
+  Accentuated Eccentric Loading (AEL): concept.accentuated_eccentric_loading
+  Accentuated Eccentric Loading — Advanced Training Tactic Warning: recommendation.accentuated_eccentric_loading_advanced_training_tactic_warning
+  Accentuated Eccentric Loading — Differential for Acute Performance Gains: threshold.accentuated_eccentric_loading_differential_for_acute_performance_gains
+  Accentuated Eccentric Loading — Eccentric Load Magnitudes: threshold.accentuated_eccentric_loading_eccentric_load_magnitudes
+  Accentuated Eccentric Loading — Eccentric Load Magnitudes Maximal: threshold.accentuated_eccentric_loading_eccentric_load_magnitudes_maximal
+  Accentuated Eccentric Loading — Plyometric Exercise Load Recommendation: recommendation.accentuated_eccentric_loading_plyometric_exercise_load_recommendation
+  Accentuated Eccentric Loading — Supramaximal Load Range: threshold.accentuated_eccentric_loading_supramaximal_load_range
+  Accentuated Eccentric Loading — Supramaximal Load Range 105-120: threshold.accentuated_eccentric_loading_supramaximal_load_range_105_120
+  Acceptable Macronutrient Distribution Range: concept.acceptable_macronutrient_distribution_range
+  Acceptable Macronutrient Distribution Range (AMDR): concept.acceptable_macronutrient_distribution_range
+  Acclimatization: concept.acclimatization
   Acetylcholine: concept.acetylcholine
   Acetylcholine Receptor: concept.acetylcholine_receptor
+  Achievement Motivation: concept.achievement_motivation
   Actin: concept.actin
+  Actin Filament: concept.actin_filament
   Actin-Myosin Crossbridge: concept.actin_myosin_crossbridge
   Action Potential: concept.action_potential
+  Active Stretch: concept.active_stretch
+  Activities of Daily Living: concept.activities_of_daily_living
+  Adaptations in the Endocrine System From Resistance Training: concept.adaptations_in_the_endocrine_system_from_resistance_training
+  Added Sugars: concept.added_sugars
+  Added Sugars Recommendation for General Population: recommendation.added_sugars_general_population
+  Adenosine Diphosphate: concept.adenosine_diphosphate
+  Adenosine Monophosphate: concept.adenosine_monophosphate
+  Adenosine Triphosphatase: concept.adenosine_triphosphatase
+  Adenosine Triphosphate: concept.adenosine_triphosphate
+  Adenylate Kinase (Myokinase) Reaction: formula.adenylate_kinase_reaction
+  Adequate Intake: concept.adequate_intake
+  Adolescence: concept.adolescence
+  Adrenal Cortex: concept.adrenal_cortex
+  Adrenal Exhaustion: warning.adrenal_exhaustion
+  Adrenal Gland: concept.adrenal_gland
+  Adrenal Medulla: concept.adrenal_medulla
+  Adverse Effects of EPO Misuse: warning.adverse_effects_of_epo_misuse
+  Adverse Effects of HGH Abuse: warning.adverse_effects_of_hgh_abuse
+  Adverse Effects of High-Dose Arginine Supplementation: warning.adverse_effects_of_high_dose_arginine_supplementation
+  Adverse Effects of Insulin Misuse: warning.adverse_effects_of_insulin_misuse
+  Aerobic Capacity: concept.aerobic_capacity
+  Aerobic Capacity and Circuit/High-Intensity Training: evidence.aerobic_capacity_circuit_high_intensity_training
+  Aerobic Endurance Training May Reduce Anaerobic Performance: warning.aerobic_endurance_training_may_reduce_anaerobic_performance
+  Aerobic Glycolysis: concept.aerobic_glycolysis
+  Aerobic Mechanisms: concept.aerobic_mechanisms
+  Aerobic Power (Maximal Oxygen Uptake): concept.aerobic_power_maximal_oxygen_uptake
+  Aerobic Power Improvement Range: evidence.aerobic_power_improvement_range
+  Affect (ABCs): concept.affect_abcs
+  Age-Predicted Maximal Heart Rate: concept.age_predicted_maximal_heart_rate
+  Agility: concept.agility
+  Air Displacement Plethysmography: table_row.air_displacement_plethysmography
+  Alarm Phase: concept.alarm_phase
+  Alcohol Consumption Recommendation: recommendation.alcohol_consumption_moderation
   All-or-None Principle: concept.all_or_none_principle
+  Allied Health Team: concept.allied_health_team
+  Allostatic Load: concept.allostatic_load
+  Allosteric Activation: concept.allosteric_activation
+  Allosteric Binding: concept.allosteric_binding
+  Allosteric Inhibition: concept.allosteric_inhibition
+  Alternated Grip: concept.alternated_grip
+  Alternating-Leg Push-Off: procedure.alternating_leg_push_off
+  Alternative Body Composition Measures for Athletes: recommendation.alternative_body_composition_measures_for_athletes
+  Altitude Acclimatization — Acute Adjustments: concept.altitude_acclimatization_acute_adjustments
+  Altitude Threshold for Acute Physiological Adjustments: threshold.altitude_threshold_for_acute_physiological_adjustments
+  Altitude Threshold for Decreased Maximal Oxygen Uptake and Aerobic Performance: threshold.altitude_threshold_for_decreased_maximal_oxygen_uptake_and_aerobic_performance
+  Alveolar Pressure: concept.alveolar_pressure
+  Amine Hormone Interactions: concept.amine_hormone_interactions
+  Amine Hormones: concept.amine_hormones
+  Amino Acid: concept.amino_acid
+  Amino Acids: concept.amino_acids
+  Amortization Phase: concept.amortization_phase
+  Anabolic Response: concept.anabolic_response
+  Anabolic Steroid: concept.anabolic_steroid
+  Anabolic Steroids: concept.anabolic_steroids
+  Anabolism: concept.anabolism
+  Anaerobic Capacity: concept.anaerobic_capacity
+  Anaerobic Glycolysis: concept.anaerobic_glycolysis
+  Anaerobic Muscular Power: concept.anaerobic_muscular_power
+  Anaerobic Processes: concept.anaerobic_processes
+  Anaerobic Training: concept.anaerobic_training
+  Anaerobic Training Can Stimulate Increases in Aerobic Power: evidence.anaerobic_training_can_stimulate_increases_in_aerobic_power
+  Anaerobic and Aerobic Contributions at 0-5 Seconds: table_row.anaerobic_aerobic_contributions_0_5s
+  Anaerobic and Aerobic Contributions at 150 Seconds: table_row.anaerobic_aerobic_contributions_150s
+  Anaerobic and Aerobic Contributions at 200 Seconds: table_row.anaerobic_aerobic_contributions_200s
+  Anaerobic and Aerobic Contributions at 30 Seconds: table_row.anaerobic_aerobic_contributions_30s
+  Anaerobic and Aerobic Contributions at 60 Seconds: table_row.anaerobic_aerobic_contributions_60s
+  Anaerobic and Aerobic Contributions at 90 Seconds: table_row.anaerobic_aerobic_contributions_90s
+  Anaerobic or Maximum Muscular Power: concept.anaerobic_muscular_power
+  Anatomical Core: concept.anatomical_core
+  Anatomical Position: concept.anatomical_position
+  Androgen Receptor Downregulation After High-Volume Protocol: evidence.androgen_receptor_downregulation_after_high_volume_protocol
+  Androgen Receptor Upregulation After Resistance Training: evidence.androgen_receptor_upregulation_after_resistance_training
+  Androgenic Properties: concept.androgenic_properties
+  Anorexia Nervosa: concept.anorexia_nervosa
+  Antagonist: concept.antagonist
+  Anterior Cruciate Ligament: concept.anterior_cruciate_ligament
+  Anthropometry: concept.anthropometry
+  Antioxidants: concept.antioxidants
+  Anxiety: concept.anxiety
+  Anxiety Signs: table_row.anxiety_signs
+  Apophyseal Insertions: concept.apophyseal_insertions
   Appendicular Skeleton: concept.appendicular_skeleton
+  Application of Assistance Exercises for Injury Prevention and Rehabilitation: recommendation.application_of_assistance_exercises_for_injury_prevention_and_rehabilitation
+  Application of Positive and Negative Reinforcement: recommendation.reinforcement_strategy
+  Arginine: concept.arginine
+  Arms Straight Up Above Head (Pillar) (Upper Back Stretch): procedure.arms_straight_up_above_head_pillar_upper_back_stretch
+  Arousal: concept.arousal
+  Arterial Hemoglobin Oxygen Saturation at Sea Level: threshold.arterial_hemoglobin_oxygen_saturation_at_sea_level
+  Arteries: concept.arteries
+  Arteriovenous Oxygen Difference: concept.arteriovenous_oxygen_difference
+  Articular Cartilage: concept.articular_cartilage
+  Artificial Intelligence: concept.artificial_intelligence
+  Ascending Complex Training: concept.ascending_complex_training
+  Assistance Exercise: concept.assistance_exercise
+  Assistance Exercises: concept.assistance_exercises
+  Assumption of Risk: concept.assumption_of_risk
+  Athlete Monitoring Program Test Qualities: recommendation.athlete_monitoring_program_test_qualities
+  Athlete Monitoring Program Test Selection Criteria: recommendation.athlete_monitoring_program_test_selection_criteria
+  Athlete Readiness: concept.athlete_readiness
+  Athletic Motor Skill Competencies: concept.athletic_motor_skill_competencies
+  Athletic Profile: concept.athletic_profile
+  Athletic Trainer: concept.athletic_trainer
+  Athleticism: concept.athleticism
+  Atrioventricular (AV) Node: concept.atrioventricular_av_node
   Atrioventricular Bundle: concept.atrioventricular_bundle
   Atrioventricular Node: concept.atrioventricular_node
   Atrium: concept.atrium
+  Attention: concept.attention
+  Attenuated Cortisol Response to Acute Exercise in Females: evidence.attenuated_cortisol_response_females
+  Augmented Feedback: concept.augmented_feedback
+  Autocrine Action: concept.autocrine_action
+  Autogenic Inhibition: concept.autogenic_inhibition
+  Autogenic Training: concept.autogenic_training
+  Autogenic inhibition: concept.autogenic_inhibition
+  Avoidant/Restrictive Food Intake Disorder: concept.avoidant_restrictive_food_intake_disorder
+  Avoiding Hyponatremia: recommendation.avoid_hyponatremia
   Axial Skeleton: concept.axial_skeleton
+  BMI Classification for Obesity: threshold.bmi.obesity
+  BMI Classification for Overweight: threshold.bmi.overweight
+  BMI Limitations in Athletes: warning.bmi_limitations_in_athletes
+  Back Squat: procedure.back_squat
+  Backpedaling: concept.backpedaling
+  Backward running: concept.backward_running
+  Balance: concept.balance
+  Balance Error Scoring System (BESS): table_row.balance_error_scoring_system_bess
+  Ballistic Exercise: concept.ballistic_exercise
+  Ballistic Exercises: concept.ballistic_exercises
+  Ballistic Stretch: concept.ballistic_stretch
+  Ballistic stretch: concept.ballistic_stretch
+  Barbell Bench Press with Weight Releasers: procedure.barbell_bench_press_with_weight_releasers
+  Basal Metabolic Rate: concept.basal_metabolic_rate
+  Basic Strength Phase: concept.basic_strength_phase
+  Basic Strength Phase Intensity: threshold.basic_strength_phase_intensity
+  Basic Strength Phase Volume: threshold.basic_strength_phase_volume
+  Behavior (ABCs): concept.behavior_abcs
+  Behavioral Responses (Cognitive Appraisal Model): concept.behavioral_responses_cognitive_appraisal_model
+  Behind-Neck Stretch (Chicken Wing) (Posterior of Upper Arm Stretch): procedure.behind_neck_stretch_chicken_wing_posterior_of_upper_arm_stretch
+  Bench Press, Back Squat, Vertical Jump, and Standing Long Jump in Female NCAA Division III Athletes - Field Hockey: table_row.bench_press_back_squat_vertical_jump_standing_long_jump_female_ncaa_division_iii_field_hockey
+  Bench Press, Back Squat, Vertical Jump, and Standing Long Jump in Female NCAA Division III Athletes - Soccer: table_row.bench_press_back_squat_vertical_jump_standing_long_jump_female_ncaa_division_iii_soccer
+  Bench Press, Back Squat, Vertical Jump, and Standing Long Jump in Female NCAA Division III Athletes - Softball: table_row.bench_press_back_squat_vertical_jump_standing_long_jump_female_ncaa_division_iii_softball
+  Bench Press, Back Squat, Vertical Jump, and Standing Long Jump in Female NCAA Division III Athletes - Volleyball: table_row.bench_press_back_squat_vertical_jump_standing_long_jump_female_ncaa_division_iii_volleyball
+  Beta Oxidation: concept.beta_oxidation
+  Beta-Adrenergic Agonist: concept.beta_adrenergic_agonist
+  Beta-Adrenergic Agonists: concept.beta_adrenergic_agonists
+  Beta-Blocker: concept.beta_blocker
+  Beta-Blockers: concept.beta_blockers
+  Beta-Hydroxy-Beta-Methylbutyrate: concept.beta_hydroxy_beta_methylbutyrate
   Biaxial Joint: concept.biaxial_joint
+  Bicarbonate Transport System: concept.bicarbonate_transport_system
+  Bilateral Asymmetries: concept.bilateral_asymmetries
+  Bilateral Deficit: concept.bilateral_deficit
+  Bilateral Facilitation: concept.bilateral_facilitation
+  Binding Proteins: concept.binding_proteins
+  Binge-Eating Disorder: concept.binge_eating_disorder
+  Binge-Eating or Purging Type Anorexia Nervosa: concept.binge_eating_or_purging_type_anorexia_nervosa
+  Bioelectrical Impedance (BIA) Procedure: procedure.bioelectrical_impedance
+  Bioenergetics: concept.bioenergetics
+  Biological Maturation: concept.biological_maturation
+  Biomechanics: concept.biomechanics
+  Blood: concept.blood
+  Blood Doping: concept.blood_doping
+  Blood Glucose Decline Range from Reduced Liver Carbohydrate Stores: threshold.blood_glucose_decline_range_from_reduced_liver_carbohydrate_stores
+  Blood Glucose Threshold for Hypoglycemic Reactions: threshold.blood_glucose_threshold_for_hypoglycemic_reactions
+  Blood Pressure Decrease After Resistance Training: evidence.blood_pressure_decrease_after_resistance_training
+  Board Certified Specialist in Sports Dietetics: concept.board_certified_specialist_in_sports_dietetics
+  Board Certified Specialist in Sports Dietetics (CSSD): concept.board_certified_specialist_in_sports_dietetics_cssd
+  Body Composition: concept.body_composition
+  Body Composition Changes from Resistance Training: evidence.body_composition_changes_resistance_training
+  Body Composition Fat Free Mass: table_row.body_composition_fat_free_mass
+  Body Composition Percent Body Fat: table_row.body_composition_percent_body_fat
+  Body Mass Index: concept.body_mass_index
+  Bodyweight Training Methods: concept.bodyweight_training_methods
+  Bone Mineral Density: concept.bone_mineral_density
+  Bone Stress Injury: concept.bone_stress_injury
+  Box Hop: procedure.box_hop
+  Box Jump: procedure.box_jump
+  Bracketing Technique for Acceleration Training: recommendation.bracketing_technique_for_acceleration_training
+  Bradycardia: concept.bradycardia
+  Bradycardia Threshold: threshold.bradycardia
+  Branched-Chain Amino Acid: concept.branched_chain_amino_acid
+  Branched-Chain Amino Acids: concept.branched_chain_amino_acids
+  Breath-Holding Duration Recommendation: recommendation.breath_holding_duration
+  Breathing Pattern for Alternative Methods: recommendation.breathing_pattern_for_alternative_methods
+  Breathing Strategy for Most Resistance Training Exercises: recommendation.breathing_strategy_resistance_training
+  Bulimia Nervosa: concept.bulimia_nervosa
+  CP Depletion Range During High-Intensity Exercise: threshold.cp_depletion_range_during_high_intensity_exercise
+  CP Half-Repletion Time: threshold.cp_half_repletion_time
+  Caffeine: concept.caffeine
+  Caffeine Adverse Effects: warning.caffeine_adverse_effects
+  Caffeine Intake Threshold for Increased Side Effect Risk: threshold.caffeine_intake_side_effect_risk
   Calcium: concept.calcium
+  Calcium ATPase: concept.calcium_atpase
+  Capillaries: concept.capillaries
+  Carbohydrate: concept.carbohydrate
+  Carbohydrate Intake Threshold for Precompetition Meal 1 Hour Before: threshold.carbohydrate_intake_threshold_for_precompetition_meal_1_hour_before
+  Carbohydrate Intake Threshold for Precompetition Meal 2 Hours Before: threshold.carbohydrate_intake_threshold_for_precompetition_meal_2_hours_before
+  Carbohydrate Intake Threshold for Precompetition Meal 4+ Hours Before: threshold.carbohydrate_intake_threshold_for_precompetition_meal_4_hours_before
+  Carbohydrate Intake for Aerobic Endurance Athletes During Prolonged Activity: recommendation.carbohydrate_intake_aerobic_endurance_prolonged
+  Carbohydrate Intake for Glycogen Replenishment After Exercise: recommendation.carbohydrate_intake_glycogen_replenishment
+  Carbohydrate Intake for Glycogen Replenishment After Resistance Training: recommendation.carbohydrate_intake_glycogen_replenishment_resistance
+  Carbohydrate Loading: concept.carbohydrate_loading
+  Carbohydrate Mouth Rinsing Improves Performance: evidence.carbohydrate_mouth_rinse_performance
+  Carbohydrate and protein intake for aerobic endurance athletes: recommendation.carbohydrate_and_protein_aerobic_endurance
+  Carbohydrate intake after muscle-damaging exercise: recommendation.carbohydrate_muscle_damaging_exercise
+  Carbohydrate intake after muscle-damaging exercise (page 638): recommendation.carbohydrate_muscle_damaging_exercise_page638
+  Carbohydrate intake after weightlifting or strength competition: recommendation.carbohydrate_post_weightlifting
+  Carbohydrate intake during prolonged aerobic endurance exercise: recommendation.carbohydrate_during_prolonged_exercise
+  Carbohydrate intake for strength and speed athletes: recommendation.carbohydrate_strength_speed_athletes
+  Carbon Dioxide Transport in Blood: concept.carbon_dioxide_transport_in_blood
+  Carboxyhemoglobin: concept.carboxyhemoglobin
+  Cardiac Output: concept.cardiac_output
+  Cardiac Output Formula: formula.cardiac_output
+  Cardiovascular Function Cardiac Output Maximal Exercise: table_row.cardiovascular_function_cardiac_output_maximal_exercise
+  Cardiovascular Function Cardiac Output Resting or Submaximal Exercise: table_row.cardiovascular_function_cardiac_output_resting_or_submaximal_exercise
+  Cardiovascular Function Heart Rate Maximal Exercise: table_row.cardiovascular_function_heart_rate_maximal_exercise
+  Cardiovascular Function Heart Rate Resting and Submaximal Exercise: table_row.cardiovascular_function_heart_rate_resting_and_submaximal_exercise
+  Cardiovascular Function Stroke Volume: table_row.cardiovascular_function_stroke_volume
   Cardiovascular System: concept.cardiovascular_system
+  Care in Prescribing Aerobic Endurance Training for Anaerobic Sports: recommendation.care_in_prescribing_aerobic_endurance_training_for_anaerobic_sports
+  Carnosine Contribution to Muscle Buffering Capacity: concept.carnosine_contribution_to_muscle_buffering_capacity
   Cartilaginous Joint: concept.cartilaginous_joint
+  Cast Iron Kettlebell: concept.cast_iron_kettlebell
+  Catabolic Process: concept.catabolic_process
+  Catabolic State and Recovery: warning.catabolic_state_and_recovery
+  Catabolism: concept.catabolism
+  Catastrophe Theory: concept.catastrophe_theory
+  Catecholamines: concept.catecholamines
+  Categories of Hormones: concept.categories_of_hormones
+  Category-Based Testing Approach for Overtraining: recommendation.category_based_testing_approach_for_overtraining
   Cervical Vertebra: concept.cervical_vertebra
+  Change of direction: concept.change_of_direction
+  Childhood: concept.childhood
+  Choking: concept.choking
+  Chondrocytes: concept.chondrocytes
+  Chronic Adaptations to Aerobic Exercise: concept.chronic_adaptations_to_aerobic_exercise
+  Chronic Changes in Resting Hormonal Concentrations: evidence.chronic_changes_in_resting_hormonal_concentrations
+  Chronological Age: concept.chronological_age
+  Citrus Aurantium Adverse Effects: warning.citrus_aurantium_adverse_effects
+  Classification of Exercises for Assessment: concept.classification_of_exercises_for_assessment
+  Clean Grip: concept.clean_grip
+  Clear and Concise Instructions for Reliability: recommendation.clear_and_concise_instructions_for_reliability
+  Closed Grip: concept.closed_grip
+  Clutch: concept.clutch
+  Coaching Instructions for Novice Weightlifting Athletes: recommendation.coaching_instructions_novice_weightlifting
   Coccygeal Vertebra: concept.coccygeal_vertebra
+  Cocontraction: concept.cocontraction
+  Cognitions (ABCs): concept.cognitions_abcs
+  Cognitive Anxiety: concept.cognitive_anxiety
+  Cognitive Appraisal Model: concept.cognitive_appraisal_model
+  Combination Training: concept.combination_training
+  Compatibility of Aerobic and Anaerobic Training — Aerobic Power: evidence.compatibility_of_aerobic_and_anaerobic_training_aerobic_power
+  Compatibility of Aerobic and Anaerobic Training — Strength Gains: evidence.compatibility_of_aerobic_and_anaerobic_training_strength_gains
+  Complex Training: concept.complex_training
+  Compound Set: concept.compound_set
+  Concentric Muscle Action: concept.concentric_muscle_action
+  Concentric Phase: concept.concentric_phase
+  Concurrent Training: concept.concurrent_training
+  Concurrent Training Improves Performance in Highly Trained Runners: evidence.concurrent_training_improves_performance_in_highly_trained_runners
+  Concurrent Training Strength Plateau and Decrease: evidence.concurrent_training_strength_plateau_and_decrease
+  Concurrent Validity: concept.concurrent_validity
+  Concussion: concept.concussion
+  Conditionally Essential Amino Acid: concept.conditionally_essential_amino_acid
   Conduction System: concept.conduction_system
+  Connective Tissue Bone Density: table_row.connective_tissue_bone_density
+  Connective Tissue Collagen Content: table_row.connective_tissue_collagen_content
+  Connective Tissue Ligament Strength: table_row.connective_tissue_ligament_strength
+  Connective Tissue Tendon Strength: table_row.connective_tissue_tendon_strength
+  Consideration of kinetic and kinematic patterns: recommendation.consideration_of_kinetic_and_kinematic_patterns
+  Consistent Testing Time and Environment: recommendation.consistent_testing_time_and_environment
+  Construct Validity: concept.construct_validity
+  Construction Phase: concept.construction_phase
+  Consuming Multiple Types of Carbohydrates During Exercise: recommendation.consuming_multiple_carbohydrates_exercise
+  Content Validity: concept.content_validity
+  Contract-Relax: concept.contract_relax
+  Contract-relax: concept.contract_relax
+  Contradictory Results of Systematic Hyperoxic Breathing During Training: concept.contradictory_results_of_systematic_hyperoxic_breathing_during_training
+  Contraindication: concept.contraindication
+  Contraindications for Valsalva Maneuver in Seniors: contraindication.valsalva_maneuver_seniors
+  Contrast Training: concept.contrast_training
+  Convergent Validity: concept.convergent_validity
+  Cool-Down After Strenuous Tests: recommendation.cool_down_after_strenuous_tests
+  Coping Resources (Stress and Injury Model): concept.coping_resources_stress_and_injury_model
+  Core: concept.core
+  Core Exercise: concept.core_exercise
+  Core Exercises: concept.core_exercises
+  Cortical Bone: concept.cortical_bone
+  Cortisol: concept.cortisol
+  Cortisol Return to Baseline Threshold: threshold.cortisol_return_to_baseline
+  Counselor, Psychologist, or Psychiatrist: concept.counselor_psychologist_psychiatrist
+  Counterconditioning: concept.counterconditioning
+  Creatine: concept.creatine
+  Creatine Kinase: concept.creatine_kinase
+  Creatine Kinase Reaction: formula.creatine_kinase_reaction
+  Creatine Phosphate: concept.creatine_phosphate
+  Criteria for an Effective Mission Statement: recommendation.criteria_for_effective_mission_statement
+  Criterion Validity: concept.criterion_validity
+  Critical Hyponatremia Blood Sodium: threshold.blood_sodium.hyponatremia_critical
+  Critical Power: concept.critical_power
+  Cross Arm in Front of Chest (Upper Back Stretch): procedure.cross_arm_in_front_of_chest_upper_back_stretch
+  Cross-Education: concept.cross_education
+  Cross-Reactivity: concept.cross_reactivity
+  Cross-Training: concept.cross_training
   Crossbridge: concept.crossbridge
+  Crossbridge Cycling: concept.crossbridge_cycling
+  Deadlift Bar Position from Shins: threshold.deadlift_bar_position_from_shins
+  Deadlift Exercise Technique: procedure.deadlift_exercise_technique
+  Decline in Fast-Twitch Fiber CSA After 14 Days of Inactivity: evidence.decline_fast_twitch_fiber_csa_14_days_inactivity
+  Dehydration Risk Weight Loss: threshold.dehydration_weight_loss.risk
+  Demonstration of Test Performance: recommendation.demonstration_of_test_performance
+  Descending Sets: concept.descending_sets
+  Descriptive Statistics: concept.descriptive_statistics
+  Design Phase: concept.design_phase
+  Determining Resistance With Resistance Bands — Load Calculation: recommendation.determining_resistance_with_resistance_bands_load_calculation
+  Detraining: concept.detraining
+  Development: concept.development
+  Diaphragmatic Breathing: concept.diaphragmatic_breathing
+  Diaphragmatic Breathing Technique: procedure.diaphragmatic_breathing_technique
+  Diaphysis: concept.diaphysis
   Diastole: concept.diastole
+  Diastolic Blood Pressure: concept.diastolic_blood_pressure
+  Dietary Evaluation Starting Point Recommendation: recommendation.myplate_starting_point_athletes
+  Dietary Reference Intake: concept.dietary_reference_intake
+  Dietary Reference Intakes: concept.dietary_reference_intakes
+  Dietary Sources for Vitamin D: recommendation.dietary_sources_for_vitamin_d
+  Dietary Supplement: concept.dietary_supplement
+  Dietary Supplement Definition: concept.dietary_supplement_definition
+  Difference Score: concept.difference_score
+  Dipeptide: concept.dipeptide
+  Disaccharide: concept.disaccharide
+  Disaccharides: concept.disaccharides
+  Discovery: concept.discovery
+  Discriminant Validity: concept.discriminant_validity
+  Dislocation: concept.dislocation
+  Disordered Eating: concept.disordered_eating
+  Distal Attachment: concept.distal_attachment
+  Distress: concept.distress
+  Do Not Spot Power Exercises: recommendation.do_not_spot_power_exercises
+  Double-Arm Linear Bound: procedure.double_arm_linear_bound
+  Drive Theory: concept.drive_theory
+  Drop Jump Protocol: procedure.drop_jump_protocol
+  Drop Step to Lateral Bound and Return: procedure.drop_step_to_lateral_bound_and_return
+  Dual-Energy X-Ray Absorptiometry: concept.dual_energy_x_ray_absorptiometry
+  Dumbbell Spotting Location Recommendation: recommendation.dumbbell_spotting_location
+  Duration Threshold for Persistent Distress: threshold.duration_threshold_for_persistent_distress
+  Duration Threshold for Subclinical Issues: threshold.duration_threshold_for_subclinical_issues
+  Duty Cycle: concept.duty_cycle
+  Dynamic Correspondence Principle: recommendation.dynamic_correspondence_principle
+  Dynamic Flexibility: concept.dynamic_flexibility
+  Dynamic Stretching: concept.dynamic_stretching
+  Dynamic Stretching Guidelines and Precautions: recommendation.dynamic_stretching_guidelines_and_precautions
+  Dynamic Valgus: concept.dynamic_valgus
+  Dynamic flexibility: concept.dynamic_flexibility
+  Dynamic stretching: concept.dynamic_stretching
+  Dynapenia: concept.dynapenia
+  EMG Activity in Untrained Limb During Cross-Education: evidence.emg_activity_in_untrained_limb_during_cross_education
+  Early Sport Specialization: concept.early_sport_specialization
+  Early Sport Specialization Time: threshold.early_sport_specialization_time
+  Eccentric Muscle Action: concept.eccentric_muscle_action
+  Eccentric Phase: concept.eccentric_phase
+  Eccentric Strength Deficit: concept.eccentric_strength_deficit
+  Effective Use of Substrate: concept.effective_use_of_substrate
+  Effects of Blood Doping on Submaximal Workloads: concept.effects_of_blood_doping_on_submaximal_workloads
+  Effects of Smoking on Exercise Performance: concept.effects_of_smoking_on_exercise_performance
+  Efficacy of Citrus Aurantium Combined with Caffeine: evidence.efficacy_of_citrus_aurantium_combined_with_caffeine
+  Efficacy of EPO Administration: evidence.efficacy_of_epo_administration
+  Efficacy of Ephedrine Combined with Caffeine: evidence.efficacy_of_ephedrine_combined_with_caffeine
+  Efficacy of Preworkout Energy Drinks for Resistance Exercise: evidence.efficacy_of_preworkout_energy_drinks_for_resistance_exercise
+  Efficacy of SARMs in Healthy Individuals: evidence.efficacy_of_sarms_in_healthy_individuals
+  Efficacy of Testosterone Precursors: evidence.efficacy_of_testosterone_precursors
+  Ejection Fraction: concept.ejection_fraction
+  Elastic Bands and Jumping Injury Risk: warning.elastic_bands_jumping_injury_risk
+  Elastic Resistance Formula: formula.elastic_resistance
+  Elasticity: concept.elasticity
+  Electromyography: concept.electromyography
+  Emergency Action Plan: concept.emergency_action_plan
+  Emotional Responses (Cognitive Appraisal Model): concept.emotional_responses_cognitive_appraisal_model
+  Emotions: concept.emotions
+  Emphasis Training Models: concept.emphasis_training_models
+  Emphasis on Strength Development for Weak Athletes: recommendation.emphasis_on_strength_development_for_weak_athletes
+  End Product Regulation: concept.end_product_regulation
+  Endergonic Reactions: concept.endergonic_reactions
+  Endocrine Gland: concept.endocrine_gland
+  Endocrine System: concept.endocrine_system
   Endomysium: concept.endomysium
+  Energy Availability: concept.energy_availability
+  Energy Drink Adverse Effects: warning.energy_drink_adverse_effects
+  Energy Expended for Pulmonary Ventilation During Heavy Exercise: threshold.energy_expended_for_pulmonary_ventilation_during_heavy_exercise
+  Energy Expended for Pulmonary Ventilation at Rest: threshold.energy_expended_for_pulmonary_ventilation_at_rest
+  Energy Substrates: concept.energy_substrates
+  Engaging Athletes in Practice Decisions: recommendation.engage_athletes_in_practice_decisions
+  Enzyme Activity Creatine Phosphokinase: table_row.enzyme_activity_creatine_phosphokinase
+  Enzyme Activity Lactate Dehydrogenase: table_row.enzyme_activity_lactate_dehydrogenase
+  Enzyme Activity Myokinase: table_row.enzyme_activity_myokinase
+  Enzyme Activity Phosphofructokinase: table_row.enzyme_activity_phosphofructokinase
+  Enzyme Activity Sodium Potassium ATPase: table_row.enzyme_activity_sodium_potassium_atpase
+  Ephedrine: concept.ephedrine
+  Ephedrine Adverse Effects: warning.ephedrine_adverse_effects
   Epimysium: concept.epimysium
+  Epiphyseal Plate: concept.epiphyseal_plate
+  Equal Motivation of Athletes: recommendation.equal_motivation_of_athletes
+  Ergogenic Aid: concept.ergogenic_aid
+  Erythropoiesis: concept.erythropoiesis
+  Erythropoietin: concept.erythropoietin
+  Essential Amino Acid: concept.essential_amino_acid
+  Essential Amino Acids: concept.essential_amino_acids
+  Estimated Average Requirement: concept.estimated_average_requirement
+  Estradiol: concept.estradiol
+  Euhydration Body Weight: threshold.euhydration.body_weight
+  Euhydration Plasma Osmolality: threshold.euhydration.plasma_osmolality
+  Euhydration Total Body Water: threshold.euhydration.total_body_water
+  Euhydration Urine Osmolality: threshold.euhydration.urine_osmolality
+  Euhydration Urine Specific Gravity: threshold.euhydration.urine_specific_gravity
+  Eustress: concept.eustress
+  Evaluation: concept.evaluation
+  Evaluation of Test Quality: concept.evaluation_of_test_quality
+  Event Duration 0-6 s: table_row.event_duration_0_6_s
+  Event Duration 30 s to 2 min: table_row.event_duration_30_s_to_2_min
+  Event Duration 6-30 s: table_row.event_duration_6_30_s
+  Excess Postexercise Oxygen Consumption: concept.excess_postexercise_oxygen_consumption_sidebar
+  Excess Preformed Vitamin A Toxicity: warning.excess_preformed_vitamin_a_toxicity
+  Excess Vitamin D Toxicity: warning.excess_vitamin_d_toxicity
+  Excess Vitamin E and Hemorrhagic Stroke Risk: warning.excess_vitamin_e_and_hemorrhagic_stroke_risk
+  Excess Vitamin K Interference with Anticlotting Medications: warning.excess_vitamin_k_interference_with_anticlotting_medications
+  Excessive Exercise Stress and Catabolic Dominance: warning.excessive_exercise_stress_and_catabolic_dominance
+  Exchange of Air: concept.exchange_of_air
+  Exercise Duration: concept.exercise_duration
+  Exercise Economy: concept.exercise_economy
+  Exercise Instruction for Older Adults: recommendation.exercise_instruction_older_adults
+  Exercise Mode: concept.exercise_mode
+  Exercise Order: concept.exercise_order
+  Exercise Physiologist: concept.exercise_physiologist
+  Exercise Selection for Bone Growth: recommendation.exercise_selection_bone_growth
+  Exercise Snacking: concept.exercise_snacking
+  Exercise-Induced Muscle Damage: concept.exercise_induced_muscle_damage
+  Exergonic Reactions: concept.exergonic_reactions
+  Exhaustion Phase: concept.exhaustion_phase
+  Exogenous Carbohydrate Oxidation Rate Limit: evidence.exogenous_carbohydrate_oxidation_rate_limit
+  Explicit Instructions: concept.explicit_instructions
+  Extensive Aerobic Endurance Training May Be Counterproductive for Strength and Power Sports: warning.extensive_aerobic_endurance_training_may_be_counterproductive_for_strength_and_power_sports
+  Extensive Endurance Training: concept.extensive_endurance_training
   Extrafusal Fiber: concept.extrafusal_fiber
+  Extrinsic Motivation: concept.extrinsic_motivation
+  FDA Warning on SARMs: warning.fda_warning_on_sarms
+  Face Validity: concept.face_validity
+  Farmer's Walk: concept.farmers_walk
+  Fartlek Training: concept.fartlek_training
+  Fasciculi: concept.fasciculi
   Fasciculus: concept.fasciculus
+  Fast-Twitch Fiber CSA Decline During Detraining (14 Days): evidence.fast_twitch_fiber_csa_decline_detraining_14_days
   Fast-Twitch Motor Unit: concept.fast_twitch_motor_unit
   Fast-Twitch Muscle Fiber: concept.fast_twitch_muscle_fiber
   Fast-Twitch/Fatigable Motor Unit: concept.fast_twitch_fatigable_motor_unit
   Fast-Twitch/Fatigue-Resistant Motor Unit: concept.fast_twitch_fatigue_resistant_motor_unit
+  Fat-Soluble Vitamins: concept.fat_soluble_vitamins
+  Feasibility Study: concept.feasibility_study
+  Female Athletes More Fatigue Resistant During Prolonged Events: evidence.female_athletes_more_fatigue_resistant
   Fibrous Joint: concept.fibrous_joint
+  Fibrous attachments: concept.fibrous_attachments
+  Fick Equation: formula.fick_equation
+  Field Test: concept.field_test
+  Fight-or-Flight: concept.fight_or_flight
+  Figure 13.1: concept.figure_13_1
+  Figure 13.2 Temperature Limits at Various Ranges of Relative Humidity for Strenuous Exercise Testing: concept.figure_13_2_temperature_limits_humidity
+  Figure 2.11: concept.figure_2_11
+  Figure 2.12: concept.figure_2_12
+  Figure 2.13: concept.figure_2_13
+  Figure 2.14: concept.figure_2_14
+  Figure 2.15 — The Fluid Ball: figure.fluid_ball
+  Figure 4.1: concept.figure_4_1
+  Figure 4.2: concept.figure_4_2
+  Figure 4.3: concept.figure_4_3
+  Figure 4.4: concept.figure_4_4
+  Figure 4.5: concept.figure_4_5
+  Figure 4.5 — Total and Free Testosterone Responses to Squats: concept.figure_4.5_total_and_free_testosterone_responses_to_squats
+  Figure 4.6: concept.figure_4_6
+  Figure 4.6 — Growth Hormone Cybernetics and Interactions: concept.figure_4.6_growth_hormone_cybernetics_and_interactions
+  Figure 4.7: concept.figure_4_7
+  Figure 5.1: figure.figure_5_1
+  Figure 5.2: figure.figure_5_2
+  Figure 5.3: figure.figure_5_3
+  Figure 5.4: figure.figure_5_4
+  Figure 5.5: figure.figure_5_5
+  First Transition Period: concept.first_transition_period
+  First-class lever: concept.first_class_lever
+  Fitness–Fatigue Paradigm: concept.fitness_fatigue_paradigm
+  Five-Point Body Contact Position: concept.five_point_body_contact_position
+  Flat Dumbbell Fly: procedure.flat_dumbbell_fly
+  Fleshy attachments: concept.fleshy_attachments
+  Flexibility: concept.flexibility
+  Flexibility Training: concept.flexibility_training
+  Flexion and Extension (Neck Stretch): procedure.flexion_and_extension_neck_stretch
+  Flow: concept.flow
+  Fluid Balance: concept.fluid_balance
+  Fluid Ball: concept.fluid_ball
+  Fluid Intake Guidelines for Children and Adolescents During Exercise: recommendation.fluid_intake_children_adolescents_exercise
+  Fluid Intake for Tennis Players During Changeovers: recommendation.fluid_intake_tennis_changeovers
+  Fluid Resistance: concept.fluid_resistance
+  Fluid Resistance Formula: formula.fluid_resistance
+  Food Allergy: concept.food_allergy
+  Food Group Exclusion Recommendation: recommendation.food_group_exclusion_replacement
+  Force: concept.force
+  Force Production in Unstable vs. Stable Conditions: evidence.force_production_in_unstable_vs_stable_conditions
+  Forced Repetitions: concept.forced_repetitions
+  Formative Evaluation: concept.formative_evaluation
+  Forward Lunge with Elbow to Instep: procedure.forward_lunge_with_elbow_to_instep
+  Fractionalization: concept.fractionalization
+  Frank-Starling Mechanism: concept.frank_starling_mechanism
+  Free Hormone Hypothesis: concept.free_hormone_hypothesis
+  Free Radicals: concept.free_radicals
+  Free Testosterone Percentage of Total Testosterone: threshold.free_testosterone_percentage_of_total_testosterone
+  Friction: concept.friction
+  Friction Resistance Formula: formula.friction_resistance
+  Frontal Plane: concept.frontal_plane
+  Fulcrum: concept.fulcrum
+  Full Heat Acclimation Adaptation Loss Period: threshold.full_heat_acclimation_adaptation_loss_period
+  Functional Overreaching: concept.functional_overreaching
   Fused Tetanic Contraction: concept.fused_tetanic_contraction
+  GH Increase Two- to Fourfold After Acute Resistance Exercise in Females: evidence.gh_increase_acute_resistance_exercise_females
+  General Adaptation Syndrome: concept.general_adaptation_syndrome
+  General Exercise Recommendations During Pregnancy — First Trimester: recommendation.general_exercise_during_pregnancy_first_trimester
+  General Exercise Recommendations and Associated Signs and Symptoms of Exercising During Pregnancy First Trimester: table_row.general_exercise_recommendations_and_associated_signs_and_symptoms_of_exercising_during_pregnancy_first_trimester
+  General Exercise Recommendations and Associated Signs and Symptoms of Exercising During Pregnancy Second Trimester: table_row.general_exercise_recommendations_and_associated_signs_and_symptoms_of_exercising_during_pregnancy_second_trimester
+  General Exercise Recommendations and Associated Signs and Symptoms of Exercising During Pregnancy Third Trimester: table_row.general_exercise_recommendations_and_associated_signs_and_symptoms_of_exercising_during_pregnancy_third_trimester
+  General Guidelines for Alternative Modes and Nontraditional Implement Exercises: recommendation.general_guidelines_for_alternative_modes_and_nontraditional_implement_exercises
+  General Preparatory Phase: concept.general_preparatory_phase
+  Girth Measurements Procedure: procedure.girth_measurements
+  Gluconeogenesis: concept.gluconeogenesis
+  Glute Bridge: procedure.glute_bridge
+  Glycemic Index: concept.glycemic_index
+  Glycemic Index Formula: formula.glycemic_index
+  Glycemic Load: concept.glycemic_load
+  Glycemic Load Formula: formula.glycemic_load
+  Glycogen: concept.glycogen
+  Glycogen Stores: concept.glycogen_stores
+  Glycogen synthesis after exercise: recommendation.glycogen_synthesis_postexercise
+  Glycogenesis: concept.glycogenesis
+  Glycolysis: concept.glycolysis
+  Glycolytic System: concept.glycolytic_system
+  Goal Setting: concept.goal_setting
+  Golgi Tendon Organ: concept.golgi_tendon_organ
+  Golgi Tendon Organs: concept.golgi_tendon_organs
+  Good Morning Exercise Technique: procedure.good_morning_exercise_technique
+  Gravitational Force: concept.gravitational_force
+  Gravitational Force Equation: formula.gravitational_force
+  Greater Fat Oxidation in Females: evidence.greater_fat_oxidation_females
+  Greater Mitochondrial Respiration in Females: evidence.greater_mitochondrial_respiration_females
+  Greater Proportion of Type I Oxidative Fibers in Females: evidence.greater_proportion_type_i_fibers_females
+  Grip Width: concept.grip_width
+  Growth: concept.growth
+  Growth Cartilage: concept.growth_cartilage
+  Growth Hormone: concept.growth_hormone
+  Growth Hormone (GH) Isoforms: concept.growth_hormone_isoforms
+  Growth Hormone (GH) — Production and Isoforms: concept.growth_hormone_production_and_isoforms
+  Guided Discovery: concept.guided_discovery
+  Guidelines for Aerobic Endurance Testing in the Heat: recommendation.aerobic_endurance_testing_heat
+  Guidelines for Goal Setting: recommendation.guidelines_for_goal_setting
   H-zone: concept.h_zone
+  HIIT vs. Continuous Cycling Adaptations: evidence.hiit_vs_continuous_cycling_adaptations
+  HMB Effectiveness Requires Adequate Training Stimulus: recommendation.hmb_effectiveness_requires_adequate_training_stimulus
+  HMB Mechanism of Action: concept.hmb_mechanism_of_action
+  HMB Preserves Lean Body Mass During Bed Rest in Older Adults: concept.hmb_preserves_lean_body_mass_during_bed_rest_in_older_adults
+  HMB Reduces Urinary 3-Methyl-Histidine in Untrained Subjects: concept.hmb_reduces_urinary_3_methyl_histidine_in_untrained_subjects
+  Half-Life (Hormone): concept.half_life_hormone
+  Health Risks of Blood Doping: warning.health_risks_of_blood_doping
+  Health Risks of Smoking: warning.health_risks_of_smoking
   Heart: concept.heart
+  Heart Rate Reserve: concept.heart_rate_reserve
+  Heat Acclimation: concept.heat_acclimation
+  Heat Acclimation Adaptation Rate — 75% Within First Four to Six Days: threshold.heat_acclimation_adaptation_rate_75_percent_within_first_four_to_six_days
+  Heat Acclimation Decay Rate — 2.5% Loss Per Day: threshold.heat_acclimation_decay_rate_2.5_percent_loss_per_day
+  Heat Acclimatization: concept.heat_acclimatization
+  Heavy Resistance Threshold for Testosterone: threshold.heavy_resistance_for_testosterone
+  Heel-to-Toe Walk: procedure.heel_to_toe_walk
+  Height, Body Mass, Arm Span, Circumferences, and Limb Lengths: table_row.height_body_mass_arm_span_circumferences_and_limb_lengths
+  Hemoglobin Oxygen-Carrying Capacity: concept.hemoglobin_oxygen_carrying_capacity
+  Henneman's Size Principle: concept.hennemans_size_principle
+  High Intensity Threshold for Growth Hormone: threshold.high_intensity_for_growth_hormone
+  High-Impact Cyclical Loading Increases BMD at Hip and Spine: evidence.high_impact_cyclical_loading_bmd_hip_spine
+  High-Intensity Interval Training: concept.high_intensity_interval_training
+  Hip Sled (Machine): procedure.hip_sled_machine
+  History of Stressors (Stress and Injury Model): concept.history_of_stressors_stress_and_injury_model
+  Hold-Relax: concept.hold_relax
+  Hold-Relax With Agonist Contraction: concept.hold_relax_with_agonist_contraction
+  Hold-relax: concept.hold_relax
+  Hold-relax with agonist contraction: concept.hold_relax_with_agonist_contraction
+  Hook Grip: concept.hook_grip
+  Hooke's Law for Resistance Bands: formula.hookes_law_for_resistance_bands
+  Hormone: concept.hormone
+  Hormone Responses in Resistance Exercise: concept.hormone_responses_in_resistance_exercise
+  Hormone–Receptor Complex: concept.hormone_receptor_complex
+  Human Chorionic Gonadotropin: concept.human_chorionic_gonadotropin
+  Human Growth Hormone: concept.human_growth_hormone
+  Hybrid Fibers: concept.hybrid_fibers
+  Hydration Guidance for Children and Adolescents During Practice: recommendation.hydration_children_adolescents_practice
+  Hydrolysis: concept.hydrolysis
+  Hyperoxic Breathing: concept.hyperoxic_breathing
+  Hyperplasia: concept.hyperplasia
+  Hypertrophy Phase: concept.hypertrophy_phase
+  Hypertrophy or Strength–Endurance Phase: concept.hypertrophy_or_strength_endurance_phase
+  Hypertrophy or Strength–Endurance Phase Intensity: threshold.hypertrophy_or_strength_endurance_phase_intensity
+  Hypertrophy or Strength–Endurance Phase Volume: threshold.hypertrophy_or_strength_endurance_phase_volume
+  Hyperventilation: concept.hyperventilation
+  Hyponatremia: concept.hyponatremia
+  Hyponatremia Blood Sodium: threshold.blood_sodium.hyponatremia
+  Hypoxia: concept.hypoxia
   I-band: concept.i_band
+  IGF Binding Proteins (IGFBPs): concept.igf_binding_proteins
+  IGF Responses to Exercise: concept.igf_responses_to_exercise
+  Ideal Performance State: concept.ideal_performance_state
+  Illinois Test: table_row.illinois_test
+  Imagery: concept.imagery
+  Immediate Feedback of Test Scores: recommendation.immediate_feedback_of_test_scores
+  Impulse: concept.impulse
+  Impulse–Momentum Relationship: formula.impulse_momentum_relationship
+  Impulse–momentum relationship: formula.impulse_momentum_relationship
+  Inchworm: procedure.inchworm
+  Incline Dumbbell Bench Press: procedure.incline_dumbbell_bench_press
+  Increase in Achilles Tendon Stiffness After Resistance Training: evidence.increase_achilles_tendon_stiffness_resistance_training
+  Increase in Glycogen Content After Bodybuilding-Style Training: evidence.increase_glycogen_content_bodybuilding_training
+  Increase in Patella Tendon CSA After Knee Extension Training: evidence.increase_patella_tendon_csa_knee_extension_training
+  Increase in Resting CP and ATP After Resistance Training: evidence.increase_resting_cp_atp_resistance_training
+  Indication: concept.indication
+  Individual Zones of Optimal Functioning Theory: concept.individual_zones_of_optimal_functioning_theory
+  Individualization: concept.individualization
+  Individualized Hydration Plan: recommendation.individualized_hydration_plan
+  Individualized Hydration Strategies Based on Weight Changes: recommendation.individualized_hydration_weight_changes
+  Inferior Attachment: concept.inferior_attachment
+  Influence of Sex Hormones — Testosterone in Women: concept.influence_of_sex_hormones_testosterone_in_women
+  Informed Consent: concept.informed_consent
+  Initial Training Intensity and Volume for Untrained Seniors: recommendation.initial_training_intensity_volume_untrained_seniors
+  Initial Weight Loss Goal for Overweight and Obese Individuals: recommendation.initial_weight_loss_goal
+  Insertion (muscle): concept.insertion_muscle
+  Insulin: concept.insulin
+  Insulin Response to Resistance Exercise: concept.insulin_response_to_resistance_exercise
+  Insulin-Like Growth Factors (IGFs): concept.insulin_like_growth_factors
+  Insulin-Like Growth Factors (IGFs) and Binding Proteins: concept.insulin_like_growth_factors_and_binding_proteins
   Internodal Pathways: concept.internodal_pathways
+  Interpreting Hormonal Changes in Peripheral Blood: concept.interpreting_hormonal_changes_in_peripheral_blood
+  Interrater Reliability: concept.interrater_reliability
+  Interval Training: concept.interval_training
+  Interval Training for Fast Glycolysis: table_row.interval_training_fast_glycolysis
+  Interval Training for Phosphagen System: table_row.interval_training_phosphagen
+  Interval Training — Work-to-Rest Ratio Guidelines: recommendation.interval_training_work_to_rest_ratio_guidelines
+  Intracrine Action: concept.intracrine_action
+  Intracrine, Autocrine, and Paracrine Mechanisms: concept.intracrine_autocrine_paracrine_mechanisms
   Intrafusal Fiber: concept.intrafusal_fiber
+  Intrarater Variability: concept.intrarater_variability
+  Intrasubject Variability: concept.intrasubject_variability
+  Intrinsic Feedback: concept.intrinsic_feedback
+  Intrinsic Motivation: concept.intrinsic_motivation
+  Inverted Hamstring Stretch: procedure.inverted_hamstring_stretch
+  Inverted-U Theory: concept.inverted_u_theory
+  Isolation Exercises: concept.isolation_exercises
+  Isometric Mid-Thigh Pull Peak Force - Junior National 100th Percentile: table_row.isometric_mid_thigh_pull_peak_force_junior_national_100
+  Isometric Mid-Thigh Pull Peak Force - Junior National 75th Percentile: table_row.isometric_mid_thigh_pull_peak_force_junior_national_75
+  Isometric Mid-Thigh Pull Peak Force - Junior Regional 100th Percentile: table_row.isometric_mid_thigh_pull_peak_force_junior_regional_100
+  Isometric Mid-Thigh Pull Peak Force - Junior Regional 75th Percentile: table_row.isometric_mid_thigh_pull_peak_force_junior_regional_75
+  Isometric Mid-Thigh Pull Peak Force - Senior National 100th Percentile: table_row.isometric_mid_thigh_pull_peak_force_senior_national_100
+  Isometric Mid-Thigh Pull Peak Force - Senior National 50th Percentile: table_row.isometric_mid_thigh_pull_peak_force_senior_national_50
+  Isometric Mid-Thigh Pull Peak Force - Senior National 75th Percentile: table_row.isometric_mid_thigh_pull_peak_force_senior_national_75
+  Isometric Mid-Thigh Pull Peak Force - Senior Regional 100th Percentile: table_row.isometric_mid_thigh_pull_peak_force_senior_regional_100
+  Isometric Mid-Thigh Pull Peak Force - Senior Regional 75th Percentile: table_row.isometric_mid_thigh_pull_peak_force_senior_regional_75
+  Isometric Muscle Action: concept.isometric_muscle_action
   Joint: concept.joint
+  Kettlebell: concept.kettlebell
+  Kettlebell training for cardiovascular fitness: evidence.kettlebell_training_for_cardiovascular_fitness
+  Kettlebell training for strength development: evidence.kettlebell_training_for_strength_development
+  Kettlebell training recommendation: recommendation.kettlebell_training_recommendation
   Kinesthetic Sense: concept.kinesthetic_sense
+  Kinetic Energy: formula.kinetic_energy
+  Kinetic energy: formula.kinetic_energy
+  Knowledge of Performance: concept.knowledge_of_performance
+  Knowledge of Results: concept.knowledge_of_results
+  LEA as Injury Risk Indicator: risk_factor.lea_as_injury_risk_indicator
+  Lactate Threshold: concept.lactate_threshold
+  Lactate Threshold Example — Performance Impact: evidence.lactate_threshold_example_performance_impact
+  Lactate Threshold in Aerobically Trained Athletes: threshold.lactate_threshold_in_aerobically_trained_athletes
+  Lactate Threshold in Untrained Individuals: threshold.lactate_threshold_in_untrained_individuals
+  Landmine: concept.landmine
+  Landmine Rotation: procedure.landmine_rotation
+  Landmine Squat to Press: procedure.landmine_squat_to_press
+  Lateral Lunge: procedure.lateral_lunge
+  Lateral Push-Off: procedure.lateral_push_off
+  Lateral Shoulder Raise Exercise Technique: procedure.lateral_shoulder_raise_exercise_technique
+  Law of Mass Action: concept.law_of_mass_action
+  Learning: concept.learning
+  Learning–Performance Distinction: concept.learning_performance_distinction
   Left Bundle Branch: concept.left_bundle_branch
+  Leg (Knee) Extension (Machine) Exercise Technique: procedure.leg_extension_machine_exercise_technique
+  Lethal Dose of Caffeine: threshold.lethal_dose_caffeine
+  Leucine Content for Stimulating Muscle Protein Synthesis: threshold.leucine_content_muscle_protein_synthesis
+  Leucine Threshold for Muscle Protein Synthesis: concept.leucine_threshold_for_muscle_protein_synthesis
+  Leucine as Rate-Limiting Factor for Muscle Protein Synthesis: concept.leucine_as_rate_limiting_factor_for_muscle_protein_synthesis
+  Leucine-Enriched EAA Beverage Elevates Muscle Protein Synthesis: concept.leucine_enriched_eaa_beverage_elevates_muscle_protein_synthesis
+  Leucine-rich protein intake for adult athletes: recommendation.leucine_protein_adult_athletes
+  Leucine-rich protein meals every 3 to 4 hours: recommendation.leucine_protein_meals_every_3_4_hours
+  Lever: concept.lever
+  Liability: concept.liability
+  Liftoff: concept.liftoff
+  Liftoff Communication Recommendation: recommendation.liftoff_communication
+  Liftoff Procedure: procedure.liftoff_procedure
+  Lipids: concept.lipids
+  Load: concept.load
+  Load Dependency of Cross-Education Effect: evidence.load_dependency_of_cross_education_effect
+  Load Intensity for Tendon Stiffness: threshold.load_intensity_tendon_stiffness
+  Load Intensity for Tendon Stiffness (Light): threshold.load_intensity_tendon_stiffness_light
+  Local Muscular Endurance: concept.local_muscular_endurance
+  Lock-and-Key Model: concept.lock_and_key_model
+  Lock-and-Key Theory: concept.lock_and_key_theory
+  Log Clean and Press: procedure.log_clean_and_press
+  Long-Term Athletic Development: concept.long_term_athletic_development
+  Long-Term Goals: concept.long_term_goals
+  Look Right and Left (Neck Stretch): procedure.look_right_and_left_neck_stretch
+  Low Energy Availability: threshold.energy_availability.low
+  Low Injury Rate of Resistance Training: evidence.low_injury_rate_resistance_training
+  Lowering Arousal and Decreasing Decision-Making for Developing Athletes: recommendation.lower_arousal_decrease_decision_making_developing_athletes
   Lumbar Vertebra: concept.lumbar_vertebra
+  Lunge Walk: procedure.lunge_walk
+  Lunge Walk with Front Leg Extension: procedure.lunge_walk_with_front_leg_extension
+  Lunge with Overhead Side Reach: procedure.lunge_with_overhead_side_reach
+  Lying Barbell Triceps Extension — Downward Movement Phase (Athlete): procedure.lying_barbell_triceps_extension_downward_movement_phase_athlete
+  Lying Barbell Triceps Extension — Downward Movement Phase (Spotter): procedure.lying_barbell_triceps_extension_downward_movement_phase_spotter
+  Lying Barbell Triceps Extension — Starting Position (Athlete): procedure.lying_barbell_triceps_extension_starting_position_athlete
+  Lying Barbell Triceps Extension — Starting Position (Spotter): procedure.lying_barbell_triceps_extension_starting_position_spotter
+  Lying Barbell Triceps Extension — Upward Movement Phase (Athlete): procedure.lying_barbell_triceps_extension_upward_movement_phase_athlete
+  Lying Barbell Triceps Extension — Upward Movement Phase (Spotter): procedure.lying_barbell_triceps_extension_upward_movement_phase_spotter
   M-line: concept.m_line
+  MES Relative to Fracture Force: threshold.mes_relative_to_fracture_force
+  MES Threshold for Bone Formation: threshold.mes_bone_formation
+  Machine Learning: concept.machine_learning
+  Macrocycle: concept.macrocycle
+  Macronutrient: concept.macronutrient
+  Macrotrauma: concept.macrotrauma
+  Maillard Reaction: concept.maillard_reaction
+  Major Characteristics of Muscle Fiber Types Type I Aerobic Enzyme Content: table_row.major_characteristics_of_muscle_fiber_types_type_i_aerobic_enzyme_content
+  Major Characteristics of Muscle Fiber Types Type I Anaerobic Enzyme Content: table_row.major_characteristics_of_muscle_fiber_types_type_i_anaerobic_enzyme_content
+  Major Characteristics of Muscle Fiber Types Type I Contraction Speed: table_row.major_characteristics_of_muscle_fiber_types_type_i_contraction_speed
+  Major Characteristics of Muscle Fiber Types Type I Endurance: table_row.major_characteristics_of_muscle_fiber_types_type_i_endurance
+  Major Characteristics of Muscle Fiber Types Type I Fatigue Resistance: table_row.major_characteristics_of_muscle_fiber_types_type_i_fatigue_resistance
+  Major Characteristics of Muscle Fiber Types Type I Force Production: table_row.major_characteristics_of_muscle_fiber_types_type_i_force_production
+  Major Characteristics of Muscle Fiber Types Type I Motor Neuron Size: table_row.major_characteristics_of_muscle_fiber_types_type_i_motor_neuron_size
+  Major Characteristics of Muscle Fiber Types Type I Nerve Conduction Velocity: table_row.major_characteristics_of_muscle_fiber_types_type_i_nerve_conduction_velocity
+  Major Characteristics of Muscle Fiber Types Type I Power Output: table_row.major_characteristics_of_muscle_fiber_types_type_i_power_output
+  Major Characteristics of Muscle Fiber Types Type I Recruitment Threshold: table_row.major_characteristics_of_muscle_fiber_types_type_i_recruitment_threshold
+  Major Characteristics of Muscle Fiber Types Type I Relaxation Speed: table_row.major_characteristics_of_muscle_fiber_types_type_i_relaxation_speed
+  Major Characteristics of Muscle Fiber Types Type I Sarcoplasmic Reticulum Complexity: table_row.major_characteristics_of_muscle_fiber_types_type_i_sarcoplasmic_reticulum_complexity
+  Margaria-Kalamen Test Protocol: procedure.margaria_kalamen_test_protocol
+  Mass: concept.mass
+  Master Plan: concept.master_plan
+  Maturation: concept.maturation
+  Maximal Aerobic Capacity: concept.maximal_aerobic_capacity
+  Maximal Anaerobic Capacity: concept.maximal_anaerobic_capacity
+  Maximal Lactate Production Rate for Type I Muscle Fibers: threshold.maximal_lactate_production_type_i
+  Maximal Lactate Production Rate for Type II Muscle Fibers: threshold.maximal_lactate_production_type_ii
+  Maximal Lactate Steady State: concept.maximal_lactate_steady_state
+  Maximal Oxygen Uptake: concept.maximal_oxygen_uptake
+  Maximal Oxygen Uptake Increase with Blood Doping: concept.maximal_oxygen_uptake_increase_with_blood_doping
+  Maximal Rate of Lactate Production for Type I Muscle Fibers: threshold.maximal_rate_of_lactate_production_for_type_i_muscle_fibers
+  Maximal Rate of Lactate Production for Type II Muscle Fibers: threshold.maximal_rate_of_lactate_production_for_type_ii_muscle_fibers
   Maximal Tetanic Force: concept.maximal_tetanic_force
+  Maximum Muscle Glycogen Repletion Rate: threshold.maximum_muscle_glycogen_repletion_rate
+  Maximum Muscular Strength: concept.maximum_muscular_strength
+  Maximum Tolerated Dose: concept.maximum_tolerated_dose
+  Mean: concept.mean
+  Mean Arterial Blood Pressure Equation: formula.mean_arterial_blood_pressure_equation
+  Mean Arterial Pressure: concept.mean_arterial_pressure
+  Mean Arterial Pressure Formula: formula.mean_arterial_pressure
+  Measurement: concept.measurement
+  Mechanical Energy: concept.mechanical_energy
+  Mechanical Work: concept.mechanical_work
+  Mechanical advantage: concept.mechanical_advantage
+  Mechanical energy: concept.mechanical_energy
+  Median: concept.median
+  Menstrual Cycle: concept.menstrual_cycle
+  Menstrual Cycle Phase and Performance — Meta-Analysis Findings: evidence.menstrual_cycle_phase_and_performance_meta_analysis_findings
+  Menstrual Cycle Phase and Resistance Training Prescription: recommendation.menstrual_cycle_phase_and_resistance_training_prescription
+  Mental Health: concept.mental_health
+  Mental Health Case Study Assessment Procedure: procedure.mental_health_case_study_assessment_procedure
+  Mental Health Support Considerations: recommendation.mental_health_support_considerations
+  Mesocycle: concept.mesocycle
+  Metabolic Acidosis: concept.metabolic_acidosis
+  Metabolic Energy Stores Fat Oxidation: table_row.metabolic_energy_stores_fat_oxidation
+  Metabolic Energy Stores Stored ATP: table_row.metabolic_energy_stores_stored_atp
+  Metabolic Energy Stores Stored Creatine Phosphate: table_row.metabolic_energy_stores_stored_creatine_phosphate
+  Metabolic Energy Stores Stored Glycogen: table_row.metabolic_energy_stores_stored_glycogen
+  Metabolic Energy Stores Stored Triglycerides: table_row.metabolic_energy_stores_stored_triglycerides
+  Metabolic Equivalent: concept.metabolic_equivalent
+  Metabolic Specificity of Training — Energy System Selection: recommendation.metabolic_specificity_of_training
+  Metabolism: concept.metabolism
+  Microcycle: concept.microcycle
+  Microdosing: concept.microdosing
+  Midtest: concept.midtest
+  Mild Dehydration Weight Loss: threshold.dehydration_weight_loss.mild
+  Minimal Essential Strain: concept.minimal_essential_strain
+  Minimal Essential Strain Threshold for Bone Formation: threshold.mes_bone_formation
+  Minimally Compliant Facility: concept.minimally_compliant_facility
+  Minimizing Gastrointestinal Issues Before Competition: recommendation.minimizing_gastrointestinal_issues_before_competition
+  Minimum Effective Dose: concept.minimum_effective_dose
+  Minute Ventilation: concept.minute_ventilation
+  Mission Statement: concept.mission_statement
+  Mitochondria: concept.mitochondria
+  Mobility: concept.mobility
+  Moderate Altitude Adaptation Period: threshold.moderate_altitude_adaptation_period
+  Moderately Arched Lower Back During Resistance Training: recommendation.moderately_arched_lower_back_resistance_training
+  Moment arm: concept.moment_arm
+  Momentum: concept.momentum
+  Monitoring: concept.monitoring
+  Monitoring for Loss of Sensation or Radiating Pain During Stretching: warning.monitoring_for_loss_of_sensation_or_radiating_pain_during_stretching
+  Monosaccharide: concept.monosaccharide
+  Monosaccharides: concept.monosaccharides
+  Motivation: concept.motivation
+  Motive to Achieve Success: concept.motive_to_achieve_success
+  Motive to Avoid Failure: concept.motive_to_avoid_failure
   Motor Neuron: concept.motor_neuron
+  Motor Performance Improvements from Resistance Training: evidence.motor_performance_improvements_resistance_training
   Motor Unit: concept.motor_unit
   Motor Unit Firing Frequency: concept.motor_unit_firing_frequency
   Motor Unit Recruitment: concept.motor_unit_recruitment
+  Motor Unit Recruitment According to the Size Principle: decision_rule.motor_unit_recruitment_size_principle
+  Movement Patterns: concept.movement_patterns
   Multiaxial Joint: concept.multiaxial_joint
+  Muscle Action Types: concept.muscle_action_types
+  Muscle Buffering Capacity: concept.muscle_buffering_capacity
+  Muscle Buffering Capacity (MBC): concept.muscle_buffering_capacity_mbc
+  Muscle Contusion: concept.muscle_contusion
   Muscle Fiber: concept.muscle_fiber
+  Muscle Fiber Interior Structure: concept.muscle_fiber_interior_structure
+  Muscle Fiber Type IIx Transformation After Resistance Training: evidence.muscle_fiber_type_iix_transformation_after_resistance_training
+  Muscle Fiber Type Shift with Aerobic Endurance Training: evidence.muscle_fiber_type_shift_with_aerobic_endurance_training
+  Muscle Fibers: concept.muscle_fibers
+  Muscle Fibers Capillary Density: table_row.muscle_fibers_capillary_density
+  Muscle Fibers Cytoplasmic Density: table_row.muscle_fibers_cytoplasmic_density
+  Muscle Fibers Fiber Size: table_row.muscle_fibers_fiber_size
+  Muscle Fibers Mitochondrial Density: table_row.muscle_fibers_mitochondrial_density
+  Muscle Fibers Myofibrillar Packing Density: table_row.muscle_fibers_myofibrillar_packing_density
+  Muscle Fibers Myofibrillar Volume: table_row.muscle_fibers_myofibrillar_volume
+  Muscle Fibers Myosin Heavy Chain Protein: table_row.muscle_fibers_myosin_heavy_chain_protein
+  Muscle Glycogen Complete Repletion Time: threshold.muscle_glycogen_complete_repletion_time
+  Muscle Glycogen Depletion Range During High-Intensity Intermittent Exercise: threshold.muscle_glycogen_depletion_range_during_high_intensity_intermittent_exercise
+  Muscle Glycogenolysis Rate by Exercise Intensity: threshold.muscle_glycogenolysis_rate_by_exercise_intensity
+  Muscle Groups Targeted: concept.muscle_groups_targeted
+  Muscle Hypertrophy: concept.muscle_hypertrophy
   Muscle Spindle: concept.muscle_spindle
+  Muscle Spindles: concept.muscle_spindles
+  Muscle force: concept.muscle_force
+  Muscular Contraction Blood Flow Impediment Threshold: threshold.muscular_contraction_blood_flow_impediment
+  MyPlate: concept.myplate
   Myocardium: concept.myocardium
+  Myofibers: concept.myofibers
   Myofibril: concept.myofibril
+  Myogenesis: concept.myogenesis
+  Myoglobin: concept.myoglobin
   Myosin: concept.myosin
   Myosin ATPase: concept.myosin_atpase
+  Myosin Filament: concept.myosin_filament
   Myosin Heavy Chain Isoform: concept.myosin_heavy_chain_isoform
+  Myotatic Reflex: concept.myotatic_reflex
+  Near-Equilibrium Reactions: concept.near_equilibrium_reactions
+  Needs Analysis: concept.needs_analysis
+  Negative Punishment: concept.negative_punishment
+  Negative Reinforcement: concept.negative_reinforcement
+  Negligence: concept.negligence
+  Net Reaction for Glycolysis (Pyruvate to Lactate): formula.net_reaction_glycolysis_lactate
+  Net Reaction for Glycolysis (Pyruvate to Mitochondria): formula.net_reaction_glycolysis_krebs
+  Neuroendocrinology: concept.neuroendocrinology
   Neuromuscular Junction: concept.neuromuscular_junction
   Neuromuscular System: concept.neuromuscular_system
+  Neutral Grip: concept.neutral_grip
+  Neutral Spine: concept.neutral_spine
+  Neutral-Back Lifting Posture: recommendation.neutral_back_lifting_posture
+  Newton's Second Law of Motion: formula.newtons_second_law_of_motion
+  Newton's second law of motion: formula.newtons_second_law_of_motion
+  Newton’s Second Law of Motion: formula.newtons_second_law_of_motion
+  No Known Adverse Effects of BCAA or EAA Supplementation: warning.no_known_adverse_effects_of_bcaa_or_eaa_supplementation
+  No Known Adverse Effects of HMB Supplementation: warning.no_known_adverse_effects_of_hmb_supplementation
+  No Significant Testosterone Elevations in Females After Acute Resistance Exercise: evidence.no_significant_testosterone_elevations_females
+  Nonessential Amino Acid: concept.nonessential_amino_acid
+  Nonfunctional Overreaching: concept.nonfunctional_overreaching
+  Normal Resting Blood Lactate Concentration: threshold.resting_blood_lactate
+  Normal Resting Blood Pressure Range: threshold.normal_resting_blood_pressure
+  Normal Resting Muscle Lactate Concentration: threshold.resting_muscle_lactate
+  Normoxic Breathing: concept.normoxic_breathing
+  Nutrition Counseling: concept.nutrition_counseling
+  Nutritionist: concept.nutritionist
+  Observational Practice: concept.observational_practice
+  Older Adult: concept.older_adult
+  Older Adult Resistance Training Frequency: recommendation.older_adult_resistance_training_frequency
+  Onset of Blood Lactate Accumulation: concept.onset_of_blood_lactate_accumulation
+  Onset of Blood Lactate Accumulation (OBLA) Blood Concentration: threshold.onset_of_blood_lactate_accumulation_blood_concentration
+  Open Grip: concept.open_grip
+  Optimal Carbohydrate Intake for Muscle Glycogen Repletion: recommendation.optimal_carbohydrate_intake_for_muscle_glycogen_repletion
+  Optimal Energy Availability: threshold.energy_availability.optimal
+  Optimal Energy Availability Threshold: threshold.energy_availability.optimal
+  Optimal Load Range for Peak Power in the Bench Press Throw: threshold.optimal_load_range_peak_power_bench_press_throw
+  Optimal Load for Peak Power in Bench Press Throw: threshold.optimal_load_peak_power_bench_press_throw
+  Optimal Load for Peak Power in Jump Squat: threshold.optimal_load_peak_power_jump_squat
+  Optimal Load for Peak Power in Power Clean: threshold.optimal_load_peak_power_power_clean
+  Optimal Load for Peak Power in Squat: threshold.optimal_load_peak_power_squat
+  Optimal Load for Peak Power in Trained Power Athletes (Squat): threshold.optimal_load_peak_power_trained_power_athletes_squat
+  Optimal Load for Peak Power in the Jump Squat: threshold.optimal_load_peak_power_jump_squat
+  Optimal Load for Peak Power in the Power Clean: threshold.optimal_load_peak_power_power_clean
+  Optimal Load for Peak Power in the Squat: threshold.optimal_load_peak_power_squat
+  Optimizing HIIT for Athletes: recommendation.optimizing_hiit_for_athletes
+  Optimizing flexibility for performance: recommendation.optimizing_flexibility_for_performance
+  Oral Arginine Supplementation Not Recommended for Healthy Athletes: recommendation.oral_arginine_supplementation_not_recommended_for_healthy_athletes
+  Organized Warm-Up Structure: procedure.organized_warm_up_structure
+  Origin (muscle): concept.origin_muscle
+  Ossification: concept.ossification
+  Osteogenesis: concept.osteogenesis
+  Osteogenic Stimuli: concept.osteogenic_stimuli
+  Osteopenia: concept.osteopenia
+  Osteopenia Bone Mineral Density: threshold.osteopenia_bone_mineral_density
+  Osteopenia Bone Mineral Density Threshold: threshold.bone_mineral_density.osteopenia
+  Osteoporosis: concept.osteoporosis
+  Osteoporosis Bone Mineral Density: threshold.osteoporosis_bone_mineral_density
+  Osteoporosis Bone Mineral Density Threshold: threshold.bone_mineral_density.osteoporosis
+  Osteoporosis Diagnostic Threshold: threshold.osteoporosis_diagnostic
+  Out-of-the-Rack Exercises: concept.out_of_the_rack_exercises
+  Outcome Goals: concept.outcome_goals
+  Overhead Squat Procedure: procedure.overhead_squat
+  Overload: concept.overload
+  Overreaching: concept.overreaching
+  Overtraining: concept.overtraining
+  Overtraining Avoidance Strategies: recommendation.overtraining_avoidance_strategies
+  Overtraining Syndrome: concept.overtraining_syndrome
+  Overtraining as a Serious Condition: warning.overtraining_as_serious_condition
+  Overweight and Obesity: concept.overweight_and_obesity
+  Oxidation Rates of Different Carbohydrate Types: evidence.oxidation_rates_carbohydrate_types
+  Oxidative Phosphorylation: concept.oxidative_phosphorylation
+  Oxidative Stress from Free Radical Overproduction: warning.oxidative_stress_from_free_radical_overproduction
+  Oxidative System: concept.oxidative_system
+  Oxygen Deficit: concept.oxygen_deficit
+  Oxygen Transport in Blood: concept.oxygen_transport_in_blood
+  Oxygen Uptake: concept.oxygen_uptake
+  Pace/Tempo Training: concept.pace_tempo_training
+  Paracrine Action: concept.paracrine_action
+  Parallel Elastic Component: concept.parallel_elastic_component
+  Parallel Training Models: concept.parallel_training_models
+  Parasympathetic Overtraining Syndrome: concept.parasympathetic_overtraining_syndrome
+  Part Practice: concept.part_practice
+  Passive Stretch: concept.passive_stretch
+  Patellofemoral Pain Syndrome: concept.patellofemoral_pain_syndrome
+  Peak Blood Pressure and Heart Rate During High-Intensity Leg Press: concept.peak_blood_pressure_and_heart_rate_during_high_intensity_leg_press
+  Peak Bone Mass: concept.peak_bone_mass
+  Peak Height Velocity: concept.peak_height_velocity
+  Pec Deck (Machine): procedure.pec_deck_machine
+  Pelvic Floor Dysfunction: concept.pelvic_floor_dysfunction
+  Pennation Angle: concept.pennation_angle
+  Peptide: concept.peptide
+  Peptides: concept.peptides
+  Perception–action coupling: concept.perception_action_coupling
+  Performance: concept.performance
+  Performance Aerobic Power: table_row.performance_aerobic_power
+  Performance Anaerobic Power: table_row.performance_anaerobic_power
+  Performance Enhancing Plate: concept.performance_enhancing_plate
+  Performance Exercise Economy: table_row.performance_exercise_economy
+  Performance Maximal Rate of Force Production: table_row.performance_maximal_rate_of_force_production
+  Performance Muscular Endurance: table_row.performance_muscular_endurance
+  Performance Muscular Strength: table_row.performance_muscular_strength
+  Performance Sprint Speed: table_row.performance_sprint_speed
+  Performance Stagnation: concept.performance_stagnation
+  Performance Team: concept.performance_team
   Perimysium: concept.perimysium
+  Periodization: concept.periodization
   Periosteum: concept.periosteum
+  Permissive Action: concept.permissive_action
+  Personal Factors (Cognitive Appraisal Model): concept.personal_factors_cognitive_appraisal_model
+  Personality Factors (Stress and Injury Model): concept.personality_factors_stress_and_injury_model
+  Phases of the Menstrual Cycle and Concomitant Changes in Estrogen and Progesterone: figure.menstrual_cycle_phases_estrogen_progesterone
+  Phosphagen Depletion and Repletion: concept.phosphagen_depletion_and_repletion
+  Phosphagen Repletion Time: threshold.phosphagen_repletion_time
+  Phosphagen System: concept.phosphagen_system
+  Physical Activity Influences Bone Mass, Area, and Width More Than BMD in Some Individuals: evidence.physical_activity_influences_bone_mass_area_width
+  Physical Therapist: concept.physical_therapist
+  Physiological Mechanisms of Altitude and Heat Acclimation Training: concept.physiological_mechanisms_of_altitude_and_heat_acclimation_training
+  Physiological and Anatomical Changes in Pregnancy 10 Weeks Postpartum Cardiorespiratory: table_row.physiological_and_anatomical_changes_in_pregnancy_10_weeks_postpartum_cardiorespiratory
+  Physiological and Anatomical Changes in Pregnancy 10 Weeks Postpartum Musculoskeletal: table_row.physiological_and_anatomical_changes_in_pregnancy_10_weeks_postpartum_musculoskeletal
+  Physiological and Anatomical Changes in Pregnancy First Trimester Cardiorespiratory: table_row.physiological_and_anatomical_changes_in_pregnancy_first_trimester_cardiorespiratory
+  Physiological and Anatomical Changes in Pregnancy First Trimester Metabolic: table_row.physiological_and_anatomical_changes_in_pregnancy_first_trimester_metabolic
+  Physiological and Anatomical Changes in Pregnancy First Trimester Musculoskeletal: table_row.physiological_and_anatomical_changes_in_pregnancy_first_trimester_musculoskeletal
+  Physiological and Anatomical Changes in Pregnancy Second Trimester Cardiorespiratory: table_row.physiological_and_anatomical_changes_in_pregnancy_second_trimester_cardiorespiratory
+  Physiological and Anatomical Changes in Pregnancy Second Trimester Musculoskeletal: table_row.physiological_and_anatomical_changes_in_pregnancy_second_trimester_musculoskeletal
+  Physiological and Anatomical Changes in Pregnancy Third Trimester Cardiorespiratory: table_row.physiological_and_anatomical_changes_in_pregnancy_third_trimester_cardiorespiratory
+  Physiological and Anatomical Changes in Pregnancy Third Trimester Musculoskeletal: table_row.physiological_and_anatomical_changes_in_pregnancy_third_trimester_musculoskeletal
+  Pica: concept.pica
+  Plasma Volume Reduction During Anaerobic Exercise: concept.plasma_volume_reduction_during_anaerobic_exercise
+  Plasticity: concept.plasticity
+  Pleural Pressure: concept.pleural_pressure
+  Plyometric Exercise: concept.plyometric_exercise
+  Polypeptide: concept.polypeptide
+  Polypeptide Hormone: concept.polypeptide_hormone
+  Polypeptide Hormone Interactions: concept.polypeptide_hormone_interactions
+  Polypeptide Hormones: concept.polypeptide_hormones
+  Polysaccharide: concept.polysaccharide
+  Polysaccharides: concept.polysaccharides
+  Positive Correlation Between BMD and Muscle Strength/Mass: evidence.positive_correlation_bmd_muscle_strength_mass
+  Positive Linear Relationship Between Weight Lifted and BMD Increases: evidence.positive_linear_relationship_weight_lifted_bmd
+  Positive Punishment: concept.positive_punishment
+  Positive Reinforcement: concept.positive_reinforcement
+  Postactivation Performance Enhancement: concept.postactivation_performance_enhancement
+  Postexercise carbohydrate and protein intake: recommendation.postexercise_carbohydrate_and_protein
+  Postexercise protein intake for aerobic endurance: recommendation.postexercise_protein_aerobic
+  Postpractice Stretching Timing Recommendation: recommendation.postpractice_stretching_timing_recommendation
+  Posttest: concept.posttest
+  Potential Energy: formula.potential_energy
+  Potential Sources of Error with Jump-and-Reach-Style Tests: warning.potential_sources_of_error_with_jump_and_reach_style_tests
+  Potential energy: formula.potential_energy
+  Potentially Dangerous Weight Loss Techniques: warning.potentially_dangerous_weight_loss_techniques
+  Power: concept.power
+  Power Exercise: concept.power_exercise
+  Power Stroke: concept.power_stroke
+  Power Training Load for Healthy Older Adults: recommendation.power_training_load_healthy_older_adults
+  Pre-Stretching Warm-Up Requirement: recommendation.pre_stretching_warm_up_requirement
+  Preactivation: concept.preactivation
+  Precautions for Athletes with Increased Airway Resistance: recommendation.precautions_for_athletes_with_increased_airway_resistance
+  Precompetition Food and Fluid Recommendations 1 Hour: table_row.precompetition_food_and_fluid_recommendations_1_hour
+  Precompetition Food and Fluid Recommendations 2 Hours: table_row.precompetition_food_and_fluid_recommendations_2_hours
+  Precompetition Food and Fluid Recommendations 4 Hours or More: table_row.precompetition_food_and_fluid_recommendations_4_hours_or_more
+  Precompetition Meal: concept.precompetition_meal
+  Precompetition Meal Timing and Composition Guidelines: recommendation.precompetition_meal_timing_and_composition_guidelines
+  Precompetition Nutrition for Aerobic Endurance Athletes - General Guidelines: recommendation.precompetition_nutrition_for_aerobic_endurance_athletes_general_guidelines
+  Precompetition meal carbohydrate and protein: recommendation.precompetition_meal_timing
+  Predesign Phase: concept.predesign_phase
+  Predictive Validity: concept.predictive_validity
+  Pregnancy: concept.pregnancy
+  Prehydration Before Exercise: recommendation.prehydration_before_exercise
+  Preoperation Phase: concept.preoperation_phase
+  Preparatory Period: concept.preparatory_period
+  Pretest: concept.pretest
+  Pretest Practice or Familiarization Session: recommendation.pretest_practice_or_familiarization_session
+  Pretest Warm-Up for Reliability: recommendation.pretest_warm_up_for_reliability
+  Prevalence of Urinary Incontinence in Female Athletes: evidence.prevalence_ui_female_athletes
+  Prevalence of Vaping in US High School Students (2019): concept.prevalence_of_vaping_in_us_high_school_students_2019
+  Prevent Blood Pooling in Legs: recommendation.prevent_blood_pooling_in_legs
+  Preventing Dehydration Weight Loss Limit: recommendation.prevent_dehydration.weight_loss_limit
+  Primary Anabolic Hormones in Muscle Development: concept.primary_anabolic_hormones_in_muscle_development
+  Primary Energy System: concept.primary_energy_system
+  Primary Ossification Center: concept.primary_ossification_center
+  Prime mover (agonist): concept.prime_mover_agonist
+  Principle of Training Reversibility: concept.principle_of_training_reversibility
+  Principles of Supervision: recommendation.principles_of_supervision
+  Principles of Training to Increase Bone Strength: recommendation.principles_training_increase_bone_strength
+  Procedures: concept.procedures
+  Process Goals: concept.process_goals
+  Product Intended to Supplement the Diet: concept.product_intended_to_supplement_the_diet
+  Product Labeled as Dietary Supplement: concept.product_labeled_as_dietary_supplement
+  Product Liability: concept.product_liability
+  Progesterone: concept.progesterone
+  Program Goals: concept.program_goals
+  Program Objectives: concept.program_objectives
+  Progression: concept.progression
+  Progression for Seniors from Low to Higher Intensity: recommendation.progression_seniors_low_to_higher_intensity
+  Progressive Muscle Relaxation: concept.progressive_muscle_relaxation
+  Progressive Overload: concept.progressive_overload
+  Progressive-Part Training: concept.progressive_part_training
+  Prohormones: concept.prohormones
+  Prolonged Cortisol Elevation: warning.prolonged_cortisol_elevation
+  Pronated Grip: concept.pronated_grip
   Proprioception: concept.proprioception
+  Proprioceptive Neuromuscular Facilitation: concept.proprioceptive_neuromuscular_facilitation
+  Proprioceptive neuromuscular facilitation: concept.proprioceptive_neuromuscular_facilitation
   Proprioceptor: concept.proprioceptor
+  Proprioceptors: concept.proprioceptors
+  Protection Against Detraining Effects: recommendation.protection_against_detraining_effects
+  Protein: concept.protein
+  Protein Digestibility Correct Amino Acid Score: concept.protein_digestibility_correct_amino_acid_score
+  Protein Digestibility Corrected Amino Acid Score (PDCAAS): concept.protein_digestibility_corrected_amino_acid_score
+  Protein Dose for Stimulating Muscle Protein Synthesis After Resistance Training: recommendation.protein_dose_muscle_protein_synthesis_resistance
+  Protein Intake Threshold for Precompetition Meal 4+ Hours Before: threshold.protein_intake_threshold_for_precompetition_meal_4_hours_before
+  Protein Intake for Muscle Repair After Aerobic Endurance Exercise: recommendation.protein_intake_muscle_repair_aerobic_endurance
+  Protein Synthesis Elevation After Acute Resistance Exercise: evidence.protein_synthesis_elevation_after_acute_resistance_exercise
+  Protein intake after resistance training for younger and older adults: recommendation.protein_resistance_training_younger_older
+  Protein intake for strength and speed athletes: recommendation.protein_strength_speed_athletes
+  Protein per meal for muscle remodeling: recommendation.protein_per_meal_postcompetition
+  Protein-Carbohydrate Supplement Attenuates AR Downregulation: evidence.protein_carbohydrate_supplement_attenuates_ar_downregulation
+  Protocols: concept.protocols
+  Proximal Attachment: concept.proximal_attachment
+  Puberty: concept.puberty
+  Pure-Part Training: concept.pure_part_training
   Purkinje Fibers: concept.purkinje_fibers
+  Push Press — Starting Position: procedure.push_press_starting_position
+  QCT Shows Increases in Cortical Bone Density After Resistance Training in Older Women: evidence.qct_cortical_bone_density_resistance_training_older_women
+  Quadriceps and Hamstring Activation on Unstable Surface: evidence.quadriceps_and_hamstring_activation_on_unstable_surface
+  Quadruped Reach and Rotate: procedure.quadruped_reach_and_rotate
+  Quantitative Computed Tomography: concept.quantitative_computed_tomography
+  Questionnaire Selection Considerations: recommendation.questionnaire_selection_considerations
+  RED-S and Overtraining Interrelation: warning.red_s_and_overtraining_interrelation
+  Raise, Activate and Mobilize, and Potentiate Protocol: concept.raise_activate_and_mobilize_and_potentiate_protocol
+  Random Practice: concept.random_practice
+  Range of Motion for Older Adults: recommendation.range_of_motion_older_adults
+  Rapid Weight Loss: concept.rapid_weight_loss
+  Rate of force development: concept.rate_of_force_development
+  Rate-Pressure Product: concept.rate_pressure_product
+  Rate–Pressure Product: formula.rate_pressure_product
+  Rear Foot–Elevated Multidirectional Hop: procedure.rear_foot_elevated_multidirectional_hop
+  Rebound Exercise: concept.rebound_exercise
+  Rebound Exercises: concept.rebound_exercises
+  Rebound Jump Protocol: procedure.rebound_jump_protocol
+  Receptor Downregulation: concept.receptor_downregulation
+  Reciprocal Inhibition: concept.reciprocal_inhibition
+  Reciprocal inhibition: concept.reciprocal_inhibition
+  Recommendation for Pelvic Floor Dysfunction Management: recommendation.pelvic_floor_dysfunction_management
+  Recommendations for Improving Female Health Outcomes: recommendation.improving_female_health_outcomes
+  Recommended Air Exchange Rate for Strength and Conditioning Facilities: recommendation.air_exchange_rate_strength_conditioning_facilities
+  Recommended Ceiling Height for Strength and Conditioning Facilities: recommendation.ceiling_height_strength_conditioning_facilities
+  Recommended Dietary Allowance: concept.recommended_dietary_allowance
+  Recommended Lighting Levels for Strength and Conditioning Facilities: recommendation.lighting_levels_strength_conditioning_facilities
+  Recommended Maximum Relative Humidity for Strength and Conditioning Facilities: recommendation.maximum_relative_humidity_strength_conditioning_facilities
+  Recommended Minimum Space Between Equipment: recommendation.minimum_space_between_equipment
+  Recommended Mirror Placement in Strength and Conditioning Facilities: recommendation.mirror_placement_strength_conditioning_facilities
+  Recommended Room Temperature Range for Strength and Conditioning Facilities: recommendation.room_temperature_range_strength_conditioning_facilities
+  Recommended Sound Volume for Sound Systems: recommendation.sound_volume_sound_systems
+  Recommended Sound Volume for Sound Systems in Strength and Conditioning Facilities: recommendation.sound_volume_sound_systems_strength_conditioning_facilities
+  Recommended Walkway Width: recommendation.walkway_width
+  Recovery Period Between Concurrent Training Sessions: recommendation.recovery_period_between_concurrent_training_sessions
+  Recovery Plan After Overtraining: recommendation.recovery_plan_after_overtraining
+  Recovery Time Between Sessions for Older Adults: recommendation.recovery_time_between_sessions_older_adults
+  Recovery in Anaerobic Power Output Related to Endurance Fitness: evidence.recovery_in_anaerobic_power_output_related_to_endurance_fitness
+  Recruitment: concept.recruitment
+  Reduced Antagonist Coactivation Following Resistance Training: evidence.reduced_antagonist_coactivation_following_resistance_training
+  Reduction in V̇O2max with Long-Term Detraining in Highly Trained Athletes: threshold.vo2max_reduction.long_term_detraining
+  Reduction in V̇O2max with Short-Term Detraining in Highly Trained Athletes: threshold.vo2max_reduction.short_term_detraining
+  Relative Energy Deficiency in Sport: concept.relative_energy_deficiency_in_sport
+  Reliability: concept.reliability
+  Repeated Sprint-Sequence Interval Session: concept.repeated_sprint_sequence_interval_session
+  Repetitive Part Training: concept.repetitive_part_training
+  Resistance Band — Mean Tension Difference: threshold.resistance_band_mean_tension_difference
+  Resistance Band — Substitution Percentage for Back Squat: threshold.resistance_band_substitution_percentage_for_back_squat
+  Resistance Band — Tension Difference Between Equal Bands: threshold.resistance_band_tension_difference_between_equal_bands
+  Resistance Exercise: concept.resistance_exercise
+  Resistance Phase: concept.resistance_phase
+  Resistance Training Injury Rate in Collegiate Football: evidence.resistance_training_injury_rate_collegiate_football
+  Resistance Training Injury Time Loss: evidence.resistance_training_injury_time_loss
+  Resistance Training Intensity for Older Adults: recommendation.resistance_training_intensity_older_adults
+  Resistance Training Status Advanced: table_row.resistance_training_status_advanced
+  Resistance Training Status Beginner: table_row.resistance_training_status_beginner
+  Resistance Training Status Intermediate: table_row.resistance_training_status_intermediate
+  Resistance Training as Essential Component for Females: recommendation.resistance_training_essential_for_females
+  Resistance Training for Female Athletes — General Recommendation: recommendation.resistance_training_for_female_athletes
+  Resistance-Trained Athletes Have Higher BMD: evidence.resistance_trained_athletes_higher_bmd
+  Resistive force: concept.resistive_force
+  Respiratory System: concept.respiratory_system
+  Rest Period Between Tests in a Battery: recommendation.rest_period_between_tests_battery
+  Rest Periods Between Test Attempts: recommendation.rest_periods_between_test_attempts
+  Resting Heart Rate Changes in Chronically Resistance-Trained Athletes: evidence.resting_heart_rate_changes_in_chronically_resistance_trained_athletes
+  Resting Heart Rate Decrease After Short-Term Resistance Training: evidence.resting_heart_rate_decrease_after_short_term_resistance_training
+  Resting Heart Rate Range: threshold.resting_heart_rate
+  Resting Metabolic Rate: concept.resting_metabolic_rate
+  Resting Testosterone in Elite Weightlifters: concept.resting_testosterone_in_elite_weightlifters
+  Restricting Type Anorexia Nervosa: concept.restricting_type_anorexia_nervosa
+  Reversal Theory: concept.reversal_theory
+  Reversibility: concept.reversibility
   Right Bundle Branch: concept.right_bundle_branch
+  Risk Management: concept.risk_management
+  Risk of Exacerbating Heart Problems During Maximal Exertion: warning.exacerbating_heart_problems_maximal_exertion
+  Risk of Heat Injury During Strenuous Exercise in Hot Environments: warning.heat_injury_strenuous_exercise_hot_environments
+  Risk of Soreness and Injury with Eccentric Muscle Actions: warning.risk_of_soreness_and_injury_with_eccentric_muscle_actions
+  Role of Leucine in Muscle Protein Synthesis: concept.role_of_leucine_in_muscle_protein_synthesis
+  Role of Strength and Conditioning Professionals Regarding Ergogenic Aids: recommendation.role_of_strength_and_conditioning_professionals
+  Role of Strength and Conditioning Professionals in Athlete Support: recommendation.role_of_strength_and_conditioning_professionals_in_athlete_support
+  Romanian Deadlift (RDL) Exercise Technique: procedure.romanian_deadlift_exercise_technique
+  Rumination Disorder: concept.rumination_disorder
+  Ruminations: concept.ruminations
+  SAID Principle: concept.said_principle
+  SWOT Analysis: concept.swot_analysis
   Sacral Vertebra: concept.sacral_vertebra
+  Safer Alternative to Valsalva Maneuver: recommendation.safer_alternative_to_valsalva_maneuver
+  Safety Cushion: concept.safety_cushion
+  Sagittal Plane: concept.sagittal_plane
+  Sandbag Carries: concept.sandbag_carries
+  Sandbag Carry: procedure.sandbag_carry
   Sarcolemma: concept.sarcolemma
   Sarcomere: concept.sarcomere
+  Sarcopenia: concept.sarcopenia
   Sarcoplasm: concept.sarcoplasm
   Sarcoplasmic Reticulum: concept.sarcoplasmic_reticulum
+  Saturated Fat: concept.saturated_fat
+  Saturated Fat Recommendation: recommendation.saturated_fat_limitation
+  Saturated Fatty Acids: concept.saturated_fatty_acids
+  Scope of Practice: concept.scope_of_practice
+  Seated Barbell Shoulder Press Exercise Technique: procedure.seated_barbell_shoulder_press_exercise_technique
+  Seated Lean-Back (Shoulders and Chest Stretch): procedure.seated_lean_back_shoulders_and_chest_stretch
+  Seated Leg (Knee) Curl (Machine) Exercise Technique: procedure.seated_leg_curl_machine_exercise_technique
+  Second-class lever: concept.second_class_lever
+  Segmentation: concept.segmentation
+  Selective Androgen Receptor Modulator: concept.selective_androgen_receptor_modulator
+  Selective Androgen Receptor Modulators: concept.selective_androgen_receptor_modulators
+  Selective Attention: concept.selective_attention
+  Selective Attention (Level of Focus): concept.selective_attention_level_of_focus
+  Self-Confidence: concept.self_confidence
+  Self-Controlled Practice: concept.self_controlled_practice
+  Self-Efficacy: concept.self_efficacy
+  Self-Talk: concept.self_talk
+  Semi-Leg Straddle (Lower Back Stretch): procedure.semi_leg_straddle_lower_back_stretch
+  Separate Stretching Session Warm-Up Requirement: recommendation.separate_stretching_session_warm_up_requirement
+  Sequential Training Models: concept.sequential_training_models
+  Series Elastic Component: concept.series_elastic_component
+  Severe Fatigue Blood Lactate Concentration: threshold.severe_fatigue_blood_lactate
+  Severe Hyponatremia Blood Sodium: threshold.blood_sodium.hyponatremia_severe
+  Severe LEA Threshold: threshold.energy_availability.severe_lea
+  Sex-Related Differences: concept.sex_related_differences
+  Sex-Related Differences in Power Output: concept.sex_related_differences_in_power_output
+  Short Rest Interval Threshold for Testosterone: threshold.short_rest_interval_for_testosterone
+  Short-Term Goals: concept.short_term_goals
+  Shoulder Press (Machine) Exercise Technique: procedure.shoulder_press_machine_exercise_technique
+  Side Effects of Rapid Weight Loss: warning.side_effects_of_rapid_weight_loss
+  Side Effects of Valsalva Maneuver: warning.side_effects_valsalva_maneuver
+  Side-to-Side Push-Off: procedure.side_to_side_push_off
+  Signaling Process for Skeletal Muscle: procedure.signaling_process_for_skeletal_muscle
+  Signs (in Mental Health Context): concept.signs_mental_health
+  Similar Short-Term Muscle Hypertrophy Gains Between Sexes: evidence.similar_short_term_muscle_hypertrophy_gains
+  Simplification: concept.simplification
+  Simultaneous Strength and Endurance Training — Fiber Size Changes: evidence.simultaneous_strength_and_endurance_training_fiber_size_changes
+  Single-Arm Landmine Row: procedure.single_arm_landmine_row
+  Single-Leg Push-Off: procedure.single_leg_push_off
+  Single-Leg Romanian Deadlift (RDL): procedure.single_leg_romanian_deadlift
+  Single-Leg Squat: procedure.single_leg_squat
+  Sinoatrial (SA) Node: concept.sinoatrial_sa_node
   Sinoatrial Node: concept.sinoatrial_node
+  Sit-and-Reach Test Procedure: procedure.sit_and_reach_test
+  Situational Factors (Cognitive Appraisal Model): concept.situational_factors_cognitive_appraisal_model
   Size Principle: concept.size_principle
   Skeletal Muscle: concept.skeletal_muscle
+  Skeletal Muscle Macrostructure and Microstructure: concept.skeletal_muscle_macrostructure_and_microstructure
+  Skeletal Muscle Pump: concept.skeletal_muscle_pump
   Skeletal System: concept.skeletal_system
+  Skill Level and Complexity: concept.skill_level_and_complexity
+  Skinfold Measurements — Measuring the Selected Site and Calculating the Body Fat Percentage Procedure: procedure.skinfold_measurements_measuring
+  Skinfold Measurements — Obtaining a Skinfold Measurement Procedure: procedure.skinfold_measurements_obtaining
+  Sleep Deprivation: threshold.sleep_deprivation_female_collegiate_athletes
+  Sleep Loss: risk_factor.sleep_loss_injury_athletes
   Sliding-Filament Theory: concept.sliding_filament_theory
+  Sliding-Filament Theory of Muscular Contraction: concept.sliding_filament_theory
+  Slow SSC: concept.slow_ssc
+  Slow SSC vs. Fast SSC Ground Contact Time: threshold.slow_ssc_vs_fast_ssc_ground_contact_time
   Slow-Twitch Motor Unit: concept.slow_twitch_motor_unit
   Slow-Twitch Muscle Fiber: concept.slow_twitch_muscle_fiber
+  Slow-Twitch and Fast-Twitch Muscle Fibers: concept.slow_twitch_and_fast_twitch_muscle_fibers
+  Slower Run Times in Vape Users: concept.slower_run_times_in_vape_users
+  Snatch Grip: concept.snatch_grip
+  Sodium Intake Threshold for General Nonactive Population: threshold.sodium_intake_general_nonactive_population
+  Sodium Restriction Warning for Endurance Athletes: warning.sodium_restriction_endurance_athletes
+  Sodium-Potassium ATPase: concept.sodium_potassium_atpase
+  Somatic Anxiety: concept.somatic_anxiety
+  Specific Preparatory Phase: concept.specific_preparatory_phase
+  Specificity: concept.specificity
+  Specificity of Loading: concept.specificity_of_loading_bone
+  Speed: concept.speed
+  Speed (scalar quantity): concept.speed_scalar_quantity
+  Speed Skater Lunge: procedure.speed_skater_lunge
+  Spinal Twist (Pretzel) (Lower Back Stretch): procedure.spinal_twist_pretzel_lower_back_stretch
+  Split Routine: concept.split_routine
+  Sport Drink Composition for Prolonged Activity in Hot Weather: recommendation.sport_drink_composition.hot_weather
+  Sport Kettlebell: concept.sport_kettlebell
+  Sport Psychology: concept.sport_psychology
+  Sports Dietitian: concept.sports_dietitian
+  Sports Nutrition Coach: concept.sports_nutrition_coach
+  Sports drink composition for hot weather: recommendation.sports_drink_composition_hot_weather
+  Spotter: concept.spotter
+  Spotting Recommendation for Free Weight Exercises: recommendation.spotting_free_weight_exercises
+  Sprain: concept.sprain
+  Sprain First Degree: threshold.sprain_first_degree
+  Sprain Second Degree: threshold.sprain_second_degree
+  Sprain Third Degree: threshold.sprain_third_degree
+  Spring–mass model: concept.spring_mass_model
+  Sprinting: concept.sprinting
+  Squat Jump (Static Vertical Jump) Protocol: procedure.squat_jump_static_vertical_jump_protocol
+  Squat More Effective Than Seated Leg Press for Increasing BMD in Femoral Trochanter: evidence.squat_more_effective_than_seated_leg_press_bmd
+  Stability: concept.stability
+  Stability Ball Jackknife: procedure.stability_ball_jackknife
+  Stacking: concept.stacking
+  Staff Preparedness Requirements: recommendation.staff_preparedness_requirements
+  Standard of Care: concept.standard_of_care
+  Standard of Care (Legal Terminology): concept.standard_of_care_legal
+  Star Excursion Balance Test (SEBT): table_row.star_excursion_balance_test_sebt
+  Star Excursion Balance Test Procedure: procedure.star_excursion_balance_test
+  State Anxiety: concept.state_anxiety
+  Static Flexibility: concept.static_flexibility
+  Static Stretch: concept.static_stretch
+  Static Stretch Duration Recommendation: recommendation.static_stretch_duration
+  Static Stretching Guidelines and Precautions: recommendation.static_stretching_guidelines_and_precautions
+  Static flexibility: concept.static_flexibility
+  Static stretching: concept.static_stretching
+  Statistics: concept.statistics
+  Step frequency: concept.step_frequency
+  Step length: concept.step_length
+  Step-Up Box Height Range: threshold.step_up_box_height_range
+  Step-Up Exercise Technique: procedure.step_up_exercise_technique
+  Steps to Avoid Injury from Equipment: recommendation.steps_to_avoid_injury_from_equipment
+  Steroid Hormone: concept.steroid_hormone
+  Steroid Hormone Interactions: concept.steroid_hormone_interactions
+  Steroid Hormones: concept.steroid_hormones
+  Sticking Point: concept.sticking_point
+  Stiff-Leg Deadlift Exercise Technique: procedure.stiff_leg_deadlift_exercise_technique
+  Stimulating Bone Formation: recommendation.stimulating_bone_formation
+  Stimulating Cartilage Adaptations: recommendation.stimulating_cartilage_adaptations
+  Stimulating Connective Tissue Adaptations (Tendons, Ligaments, Fascia): recommendation.stimulating_connective_tissue_adaptations
+  Stimulus for New Bone Formation: decision_rule.stimulus_new_bone_formation
+  Stimulus–Fatigue–Recovery–Adaptation Theory: concept.stimulus_fatigue_recovery_adaptation_theory
+  Stomach Distress Risk from Adolescent Fluid Intake: warning.stomach_distress_adolescent_fluid_intake
+  Straight Arms Behind Back (Shoulders and Chest Stretch): procedure.straight_arms_behind_back_shoulders_and_chest_stretch
+  Straight-Leg March: procedure.straight_leg_march
+  Strength: concept.strength
+  Strength Gains in Untrained Limb via Cross-Education: evidence.strength_gains_untrained_limb_cross_education
+  Strength Increase Advanced: threshold.strength_increase_advanced
+  Strength Increase Elite: threshold.strength_increase_elite
+  Strength Increase Moderately Trained: threshold.strength_increase_moderately_trained
+  Strength Increase Trained: threshold.strength_increase_trained
+  Strength Increase Untrained: threshold.strength_increase_untrained
+  Strength Increase in Untrained Limb via Cross-Education: evidence.strength_increase_in_untrained_limb_via_cross_education
+  Strength Loss During Detraining (8 to 12 Weeks): evidence.strength_loss_detraining_8_to_12_weeks
+  Strength Performance Maintained During Short-Term Inactivity: evidence.strength_performance_maintained_short_term_inactivity
+  Strength Retention During Detraining (14 Days in Trained Weightlifters): evidence.strength_retention_detraining_14_days_trained_weightlifters
+  Strength Retention During Detraining (Up to 4 Weeks): evidence.strength_retention_detraining_up_to_4_weeks
+  Strength and Conditioning Professional: concept.strength_and_conditioning_professional
+  Strength and Conditioning Professional Role in Rapid Weight Loss: recommendation.strength_and_conditioning_professional_role_in_rapid_weight_loss
+  Strength and RFD Reduction During Unstable Squatting: evidence.strength_and_rfd_reduction_during_unstable_squatting
+  Strength-to-Mass Ratio: concept.strength_to_mass_ratio
+  Strength/Power Phase: concept.strength_power_phase
+  Strength/Power Phase Intensity: threshold.strength_power_phase_intensity
+  Stress: concept.stress
+  Stress Fractures: concept.stress_fractures
+  Stress Urinary Incontinence: concept.stress_urinary_incontinence
+  Stress and Injury Model: concept.stress_and_injury_model
+  Stressor: concept.stressor
+  Stretch Reflex: concept.stretch_reflex
+  Stretch Reflex Latency: concept.stretch_reflex_latency
+  Stretch Tolerance: concept.stretch_tolerance
+  Stretch tolerance: concept.stretch_tolerance
+  Stretch-Shortening Cycle: concept.stretch_shortening_cycle
+  Stretch-shortening cycle: concept.stretch_shortening_cycle
+  Stretching Intensity Guideline: recommendation.stretching_intensity_guideline
+  Stroke Volume: concept.stroke_volume
+  Strongman Training — Injury Risk: warning.strongman_training_injury_risk
+  Structural Exercise: concept.structural_exercise
+  Structural Exercises: concept.structural_exercises
+  Subclinical Issues: concept.subclinical_issues
+  Subluxation: concept.subluxation
+  Substrate-Level Phosphorylation: concept.substrate_level_phosphorylation
+  Substrate-Level Phosphorylation Reaction 1: formula.substrate_level_phosphorylation_1
+  Substrate-Level Phosphorylation Reaction 2: formula.substrate_level_phosphorylation_2
+  Supercompensation: concept.supercompensation
+  Superior Attachment: concept.superior_attachment
+  Superset: concept.superset
+  Supinated Grip: concept.supinated_grip
+  Suspension Trainers: concept.suspension_trainers
+  Suspension Training: concept.suspension_training
+  Suspension Training Equipment: concept.suspension_training_equipment
+  Sympathetic Overtraining Syndrome: concept.sympathetic_overtraining_syndrome
+  Symptoms (in Mental Health Context): concept.symptoms_mental_health
+  Symptoms Warranting Medical Referral During Testing: warning.symptoms_medical_referral_testing
+  Symptoms of Hyponatremia: warning.symptoms_hyponatremia
+  Synergist: concept.synergist
   Synovial Joint: concept.synovial_joint
+  Systematic Desensitization: concept.systematic_desensitization
   Systole: concept.systole
+  Systolic Blood Pressure: concept.systolic_blood_pressure
+  T-Test: table_row.t_test
   T-tubule: concept.t_tubule
+  Table 2.1: concept.table_2_1
+  Table 4.1: concept.table_4_1
+  Table 5.1: table.table_5_1
+  Table 5.2: table.table_5_2
+  Tachycardia Threshold: threshold.tachycardia
+  Tapering: concept.tapering
+  Target Body Weight Calculation: formula.target_body_weight
+  Team Physician: concept.team_physician
+  Technique Tips for Weighted Carries: recommendation.technique_tips_for_weighted_carries
   Tendon: concept.tendon
+  Tendon Stiffness: concept.tendon_stiffness
+  Test: concept.test
+  Test Instructions Content: recommendation.test_instructions_content
+  Test Order Design Principle: recommendation.test_order_design_principle
+  Test Order for Efficient Testing Session: recommendation.test_order_for_efficient_testing_session
+  Test Selection: concept.test_selection
+  Test Sequencing Order: recommendation.test_sequencing_order
+  Testosterone: concept.testosterone
+  Testosterone Response in Trained Men and Women: concept.testosterone_response_in_trained_men_and_women
+  Testosterone Response in Younger Women: concept.testosterone_response_in_younger_women
+  Testosterone Transport and Mechanism of Action: concept.testosterone_transport_and_mechanism_of_action
+  Testosterone's Role in Muscle Adaptation: concept.testosterones_role_in_muscle_adaptation
+  Thermic Effect of Food: concept.thermic_effect_of_food
+  Thermogenic Supplement/Drug: concept.thermogenic_supplement_drug
+  Thermoneutral: concept.thermoneutral
+  Third-class lever: concept.third_class_lever
   Thoracic Vertebra: concept.thoracic_vertebra
+  Three-Step Process for Helping Athletes Get Appropriate Support: procedure.three_step_process_for_helping_athletes_get_appropriate_support
+  Thyroid Hormones: concept.thyroid_hormones
+  Time Course for Bone Adaptations: evidence.time_course_bone_adaptations
+  Time Course of Muscle Fiber Hypertrophy Detection: evidence.time_course_of_muscle_fiber_hypertrophy_detection
+  Tire Flip: procedure.tire_flip
+  Tire Flipping — Biceps Tear Risk: warning.tire_flipping_biceps_tear_risk
+  Tire Flipping — Injury Mitigation: recommendation.tire_flipping_injury_mitigation
+  To Increase 22 kD Growth Hormone Concentrations: recommendation.to_increase_22_kd_growth_hormone_concentrations
+  To Increase Serum Testosterone Concentrations: recommendation.to_increase_serum_testosterone_concentrations
+  To Optimize Responses of Adrenal Hormones: recommendation.to_optimize_responses_of_adrenal_hormones
+  Tolerable Upper Intake Level: concept.tolerable_upper_intake_level
+  Tolerable Upper Level Intake: concept.tolerable_upper_level_intake
+  Torque: concept.torque
+  Trabecular Bone: concept.trabecular_bone
+  Training Factors Contributing to Overtraining: risk_factor.training_factors_contributing_to_overtraining
+  Training Frequency: concept.training_frequency
+  Training Frequency for Older Adults: recommendation.training_frequency_older_adults
+  Training Priorities In-Season: table_row.training_priorities_in_season
+  Training Priorities Off-Season: table_row.training_priorities_off_season
+  Training Priorities Postseason: table_row.training_priorities_postseason
+  Training Priorities Preseason: table_row.training_priorities_preseason
+  Training Program Components for Seniors to Prevent Falls: recommendation.training_program_seniors_falls_prevention
+  Training Protocol Selection Based on Competition Environment: recommendation.training_protocol_selection_based_on_competition_environment
+  Training Specificity: concept.training_specificity
+  Training Status: concept.training_status
+  Training Volume Increase Threshold: threshold.training_volume_increase
+  Training-Induced Strength and Power Increases in Female Athletes: evidence.training_induced_strength_and_power_increases_in_female_athletes
+  Training-Mediated Hormonal Responses and Mechanisms: concept.training_mediated_hormonal_responses_and_mechanisms
+  Trait Anxiety: concept.trait_anxiety
+  Transverse Plane: concept.transverse_plane
+  Triceps Pushdown (Machine) — Downward Movement Phase: procedure.triceps_pushdown_machine_downward_movement_phase
+  Triceps Pushdown (Machine) — Starting Position: procedure.triceps_pushdown_machine_starting_position
+  Triceps Pushdown (Machine) — Upward Movement Phase: procedure.triceps_pushdown_machine_upward_movement_phase
+  Triglycerides: concept.triglycerides
+  Tropomyosin: concept.tropomyosin
+  Troponin: concept.troponin
   Twitch: concept.twitch
   Twitch Summation: concept.twitch_summation
+  Two-Arm Kettlebell Swing: procedure.two_arm_kettlebell_swing
   Type I Muscle Fiber: concept.type_i_muscle_fiber
+  Type I, Type IIa, and Type IIx Fibers: concept.type_i_type_iia_and_type_iix_fibers
   Type IIa Muscle Fiber: concept.type_iia_muscle_fiber
   Type IIx Muscle Fiber: concept.type_iix_muscle_fiber
+  Types of Kettlebells: concept.types_of_kettlebells
   Unfused Tetanic Contraction: concept.unfused_tetanic_contraction
+  Unfused and Fused Tetanic Contractions: concept.unfused_and_fused_tetanic_contractions
   Uniaxial Joint: concept.uniaxial_joint
+  Unilateral Carries: concept.unilateral_carries
+  Units of Measure and Conversions: table_row.units_of_measure_and_conversions
+  Units of Measure and Conversions - Angle (radian to degree): table_row.units_of_measure_and_conversions_angle_radian_to_degree
+  Units of Measure and Conversions - Distance (kilometer to mile): table_row.units_of_measure_and_conversions_distance_kilometer_to_mile
+  Units of Measure and Conversions - Distance (meter to foot): table_row.units_of_measure_and_conversions_distance_meter_to_foot
+  Units of Measure and Conversions - Force (newton to pound): table_row.units_of_measure_and_conversions_force_newton_to_pound
+  Units of Measure and Conversions - Velocity (kilometers/hour to miles/hour): table_row.units_of_measure_and_conversions_velocity_kilometers_per_hour_to_miles_per_hour
+  Units of Measure and Conversions - Velocity (meters/second to miles/hour): table_row.units_of_measure_and_conversions_velocity_meters_per_second_to_miles_per_hour
+  Units of Measure and Conversions Angle Radian to Degree: table_row.units_of_measure_and_conversions_angle_radian_to_degree
+  Units of Measure and Conversions Distance Kilometer to Mile: table_row.units_of_measure_and_conversions_distance_kilometer_to_mile
+  Units of Measure and Conversions Distance Meter to Foot: table_row.units_of_measure_and_conversions_distance_meter_to_foot
+  Units of Measure and Conversions Force Newton to Pound: table_row.units_of_measure_and_conversions_force_newton_to_pound
+  Units of Measure and Conversions Velocity Kilometers per Hour to Miles per Hour: table_row.units_of_measure_and_conversions_velocity_kilometers_per_hour_to_miles_per_hour
+  Units of Measure and Conversions Velocity Meters per Second to Miles per Hour: table_row.units_of_measure_and_conversions_velocity_meters_per_second_to_miles_per_hour
+  Upright Row Exercise Technique: procedure.upright_row_exercise_technique
+  Urinary Incontinence: concept.urinary_incontinence
+  Urine Specific Gravity Hydration: threshold.urine_specific_gravity.hydration
+  Urine Specific Gravity Threshold for Prehydration: threshold.urine_specific_gravity_threshold_for_prehydration
+  Use of Arousal Control Techniques: recommendation.arousal_control_techniques
+  Use of Ballistic Tasks for Power Development: recommendation.use_of_ballistic_tasks_for_power_development
+  Use of Chains for Experienced Athletes: recommendation.use_of_chains_for_experienced_athletes
+  Use of Semi-Ballistic Exercises for Power Development: recommendation.use_of_semi_ballistic_exercises_for_power_development
+  Using Reinforcement Over Punishment: recommendation.use_reinforcement_over_punishment
+  Validity: concept.validity
+  Valsalva Maneuver: concept.valsalva_maneuver
+  Valsalva Maneuver Recommendation for Experienced Athletes: recommendation.valsalva_maneuver_experienced_athletes
+  Valsalva Maneuver Risk for Older Adults: warning.valsalva_maneuver_risk_older_adults
+  Valsalva Maneuver Side Effects: warning.valsalva_maneuver_side_effects
   Valves: concept.valves
+  Vaping: concept.vaping
+  Vaping Reduces Cardiorespiratory Fitness in Young Adults: concept.vaping_reduces_cardiorespiratory_fitness_in_young_adults
+  Variable Practice: concept.variable_practice
+  Variable Resistance: concept.variable_resistance
+  Variable-Resistance Training Methods: concept.variable_resistance_training_methods
+  Variation: concept.variation
+  Vasoconstriction: concept.vasoconstriction
+  Vasodilation: concept.vasodilation
+  Vector: concept.vector
+  Vector Quantities: concept.vector_quantities
+  Veins: concept.veins
+  Velocity: concept.velocity
+  Ventilation Rate During Resistance Exercise Recovery: concept.ventilation_rate_during_resistance_exercise_recovery
+  Ventilatory Equivalent: concept.ventilatory_equivalent
+  Ventilatory Equivalent for Oxygen: concept.ventilatory_equivalent_for_oxygen
   Ventricle: concept.ventricle
   Vertebral Column: concept.vertebral_column
+  Vertical Chest Press (Machine): procedure.vertical_chest_press_machine
+  Vertical Jump (Countermovement Jump) — Commercial Vertec Device Protocol: procedure.vertical_jump_countermovement_jump_commercial_vertec_device_protocol
+  Vertical Jump (Countermovement Jump) — Force Plate Protocol: procedure.vertical_jump_countermovement_jump_force_plate_protocol
+  Vertical Jump (Countermovement Jump) — Wall and Chalk Protocol: procedure.vertical_jump_countermovement_jump_wall_and_chalk_protocol
+  Vitamin D Deficiency Prevalence in Adults Over 19: evidence.vitamin_d_deficiency_prevalence_in_adults_over_19
+  Vitamin D Supplementation Effect on Muscular Strength and Power: evidence.vitamin_d_supplementation_effect_on_muscular_strength_and_power
+  Vitamin D Supplementation for Deficiency Prevention: recommendation.vitamin_d_supplementation_for_deficiency_prevention
+  V̇O2max Increase from Heavy Resistance Training in Untrained People: threshold.vo2max_increase_heavy_resistance_training_untrained
+  V̇O2max Increase in Elite vs. Untrained Individuals: evidence.vo2max_increase_in_elite_vs_untrained_individuals
+  V̇O2max Test: table_row.vo2max_test
+  Walking Knee Lift: procedure.walking_knee_lift
+  Walking Over and Under: procedure.walking_over_and_under
+  Warm-Up: concept.warm_up
+  Warm-Up Duration Recommendation: recommendation.warm_up_duration
+  Warm-Up Structure Recommendation: recommendation.warm_up_structure
+  Warm-Up for Older Adults: recommendation.warm_up_older_adults
+  Warning Label for Mannitol: warning.warning_label_for_mannitol
+  Water-Soluble Vitamins: concept.water_soluble_vitamins
+  Weight Belt Non-Use Recommendation: recommendation.weight_belt_non_use
+  Weight Belt Use Recommendation: recommendation.weight_belt_use
+  Weighted Carries: concept.weighted_carries
+  Whole Practice: concept.whole_practice
+  Wingate Anaerobic Test: table_row.wingate_anaerobic_test
+  Work: concept.work
+  Wrist Curl: procedure.wrist_curl
+  Wrist Extension: procedure.wrist_extension
+  Yips (Focal Dystonia): concept.yips_focal_dystonia
+  Yo-Yo Intermittent Recovery Test: table_row.yo_yo_intermittent_recovery_test
+  Yoke Walk: concept.yoke_walk
+  Youth: concept.youth
+  Youth Resistance Training Frequency: recommendation.youth_resistance_training_frequency
+  Youth Resistance Training Load Progression: recommendation.youth_resistance_training_load_progression
+  Youth Resistance Training Starting Load: recommendation.youth_resistance_training_starting_load
   Z-line: concept.z_line
+  Zercher Carry: procedure.zercher_carry
+  β-Adrenergic Agonists: concept.beta_adrenergic_agonists
+  β-Alanine: concept.beta_alanine
+  β-Alanine Increases Muscle Carnosine by 64% in Four Weeks: concept.beta_alanine_increases_muscle_carnosine_by_64_percent_in_four_weeks
+  β-Blockers: concept.beta_blockers
+  β-Hydroxy-β-Methylbutyrate (HMB): concept.beta_hydroxy_beta_methylbutyrate_hmb

@@ -1,0 +1,777 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.learning_performance_distinction
+type: Concept
+canonical_name: Learning–Performance Distinction
+semantic_type: Motor Skill Acquisition Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 523
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.motor_skill_acquisition_concept
+
+definition: >
+  Learning is a process that results in a relatively permanent change in the capability to perform a motor skill (50). Performance is the execution of the skill in the current environment (29).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.learning
+  - concept.performance
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.learning
+type: Concept
+canonical_name: Learning
+semantic_type: Motor Skill Acquisition Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 523
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.learning_performance_distinction
+
+definition: >
+  Learning is a process that results in a relatively permanent change in the capability to perform a motor skill (50).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.performance
+type: Concept
+canonical_name: Performance
+semantic_type: Motor Skill Acquisition Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 523
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.learning_performance_distinction
+
+definition: >
+  Performance is the execution of the skill in the current environment (29).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.whole_practice
+type: Concept
+canonical_name: Whole Practice
+semantic_type: Practice Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 524
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+
+definition: >
+  Whole practice addresses the skill in its entirety, whereas part practice separates the skill into a series of subcomponents.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.part_practice
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.part_practice
+type: Concept
+canonical_name: Part Practice
+semantic_type: Practice Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 524
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+  - predicate: adjacent_to
+    target: concept.whole_practice
+
+definition: >
+  Whole practice addresses the skill in its entirety, whereas part practice separates the skill into a series of subcomponents.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.segmentation
+type: Concept
+canonical_name: Segmentation
+semantic_type: Practice Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 525
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+
+definition: >
+  Segmentation breaks down the task into a series of subcomponents that have clear breaks between them (66).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fractionalization
+type: Concept
+canonical_name: Fractionalization
+semantic_type: Practice Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 525
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+
+definition: >
+  Fractionalization breaks the tasks into subcomponents that occur simultaneously (66).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.simplification
+type: Concept
+canonical_name: Simplification
+semantic_type: Practice Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 525
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+
+definition: >
+  Simplification adjusts the difficulty of the tasks by changing task characteristics such as the execution speed or the equipment used (66).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pure_part_training
+type: Concept
+canonical_name: Pure-Part Training
+semantic_type: Practice Method
+aliases:
+  - Part–Whole Method
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 525
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+
+definition: >
+  Pure-part training (also known as the part–whole method) has the athlete practice each subcomponent of the skill multiple times independently. After all components have been practiced, the skill is practiced in its entirety (66).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.progressive_part_training
+type: Concept
+canonical_name: Progressive-Part Training
+semantic_type: Practice Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 526
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+
+definition: >
+  Progressive-part training has the athlete practice the first two parts in isolation before practicing these parts together (66).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.repetitive_part_training
+type: Concept
+canonical_name: Repetitive Part Training
+semantic_type: Practice Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 526
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+
+definition: >
+  Repetitive part training has the athlete practice only the first part in isolation; then each subsequent part is added until the whole task is reintegrated (66).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.random_practice
+type: Concept
+canonical_name: Random Practice
+semantic_type: Practice Schedule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 526
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_schedule
+
+definition: >
+  In random practice, multiple skills are practiced in a random order during a given practice session.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.variable_practice
+type: Concept
+canonical_name: Variable Practice
+semantic_type: Practice Schedule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 527
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_schedule
+
+definition: >
+  Variable practice includes variations of the same skill within a single practice session as opposed to specific practice in which a specific skill (i.e., depth jump to second box of a specific height) is repeated multiple times.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.specific_practice
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.observational_practice
+type: Concept
+canonical_name: Observational Practice
+semantic_type: Practice Method
+aliases:
+  - Action Observation
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 527
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.practice_method
+
+definition: >
+  Observational practice (action observation), or practice through observation of the task or skill to be performed, has important implications for motor skill learning.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.explicit_instructions
+type: Concept
+canonical_name: Explicit Instructions
+semantic_type: Instructional Style
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 528
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.instructional_style
+
+definition: >
+  Explicit instructions include prescriptive information that gives the athlete the "rules" for effectively executing the given task.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.guided_discovery
+type: Concept
+canonical_name: Guided Discovery
+semantic_type: Instructional Style
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 528
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.instructional_style
+
+definition: >
+  Guided discovery provides the athlete with instructions about the overall movement goal and important prompts for task accomplishment without explicitly telling the athlete how to accomplish the task.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.discovery
+type: Concept
+canonical_name: Discovery
+semantic_type: Instructional Style
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 528
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.instructional_style
+
+definition: >
+  Discovery instructs the athlete on the overarching goal of the task and the athlete receives little to no direction.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.intrinsic_feedback
+type: Concept
+canonical_name: Intrinsic Feedback
+semantic_type: Feedback Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 529
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.feedback_type
+
+definition: >
+  Intrinsic feedback is feedback provided to the athlete by the athlete from the senses—for example, sensory information about missing a box during a squat box jump.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.augmented_feedback
+type: Concept
+canonical_name: Augmented Feedback
+semantic_type: Feedback Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 529
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.feedback_type
+
+definition: >
+  Augmented feedback is feedback provided to the athlete by either an observer, such as a coach, or technology, such as video or laboratory equipment.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.knowledge_of_results
+type: Concept
+canonical_name: Knowledge of Results
+semantic_type: Feedback Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.6"
+  section_title: "Psychological Techniques"
+  book_page: 529
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.feedback_type
+
+definition: >
+  Knowledge of results provides the athlete with information about the execution of the task goal.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.knowledge_of_performance
+type: Concept
+canonical_name: Knowledge of Performance
+semantic_type: Feedback Type
+aliases: []
+
+source:

@@ -1,0 +1,28 @@
+id: threshold.sleep_deprivation_female_collegiate_athletes
+type: Threshold
+canonical_name: Sleep Deprivation
+semantic_type: Duration
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.2'
+  section_title: Training Responses and Adaptations
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Female collegiate athletes may be particularly likely to have low sleep
+  durations that are consistent with sleep deprivation (<7 h/night), in association
+  with daytime sleepiness and dysfunction (30, 69).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

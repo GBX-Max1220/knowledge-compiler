@@ -1,0 +1,30 @@
+id: concept.hypertrophy_phase
+type: Concept
+canonical_name: Hypertrophy Phase
+semantic_type: TrainingPhase
+aliases:
+- strength-endurance phase
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1595
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The hypertrophy phase, which is also referred to as the strength–endurance
+  phase, generally occurs during the early portion of the preparatory period (i.e.,
+  the general preparatory phase) (24, 40, 41, 93).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.general_preparatory_phase

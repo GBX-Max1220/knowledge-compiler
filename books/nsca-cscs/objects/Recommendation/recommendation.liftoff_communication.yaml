@@ -1,0 +1,32 @@
+id: recommendation.liftoff_communication
+type: Recommendation
+canonical_name: Liftoff Communication Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16'
+  section_title: Use of a Liftoff
+  book_page: 959
+  pdf_page: 959
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'If a liftoff is needed or requested, the athlete and spotter
+  need to agree in advance on a verbal signal (e.g., the command "up" or "I will give
+  it to you on the count of three").
+
+  '
+target_audience:
+- athlete
+- spotter
+action:
+- agree in advance on a verbal signal
+context:
+- liftoff is needed or requested
+rationale: []

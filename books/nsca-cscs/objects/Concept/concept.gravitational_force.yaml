@@ -1,0 +1,32 @@
+id: concept.gravitational_force
+type: Concept
+canonical_name: Gravitational Force
+semantic_type: Physical Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: ''
+  section: '2.4'
+  section_title: Sources of Resistance to Muscle Contraction
+  book_page: 148
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The downward force on an object from the pull of gravity, the interaction
+  of mass and gravity, is equal to the object''s mass times the local acceleration
+  due to gravity: Fg = m × ag (2.8) where Fg is the force due to gravity (same as
+  the object''s weight, measured in newtons [N]), m is the object''s mass (measured
+  in kilograms [kg]), and ag is the local acceleration due to gravity (measured in
+  meters per second per second [m·s−2]).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- formula.gravitational_force

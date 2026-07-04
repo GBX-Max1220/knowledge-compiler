@@ -1,0 +1,31 @@
+id: formula.hookes_law_for_resistance_bands
+type: Formula
+canonical_name: Hooke's Law for Resistance Bands
+semantic_type: Physical Law
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1108
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+formula_text: Tension = Stiffness (k) × Deformation (d)
+variables:
+- name: Tension
+  symbol: T
+  unit: ''
+- name: Stiffness
+  symbol: k
+  unit: ''
+- name: Deformation
+  symbol: d
+  unit: ''

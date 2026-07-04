@@ -1,0 +1,26 @@
+id: concept.figure_2_12
+type: Concept
+canonical_name: Figure 2.12
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: ''
+  section: '2.4'
+  section_title: Sources of Resistance to Muscle Contraction
+  book_page: 142
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: FIGURE 2.12 A schematic of the interaction between actin, myosin, and
+  titin filaments when the muscle is at its resting length and when it is contracted
+  or stretched.
+attributes: []
+purpose: []
+related_concepts: []

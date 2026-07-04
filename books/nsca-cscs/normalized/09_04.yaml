@@ -1,0 +1,756 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.short_term_goals
+type: Concept
+canonical_name: Short-Term Goals
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 501
+  pdf_page: 501
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Short-term goals are generally those that are directly related to current training or competition and are guidelines that can be attained in a relatively short time frame.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.long_term_goals
+type: Concept
+canonical_name: Long-Term Goals
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 501
+  pdf_page: 501
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Long-term goals are those that overarch the series of linked short-term goals.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.yips_focal_dystonia
+type: Concept
+canonical_name: Yips (Focal Dystonia)
+semantic_type: Concept
+aliases:
+  - yips
+  - twisties
+  - choking
+  - focal dystonia
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 503
+  pdf_page: 503
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This is known as the yips, the twisties, or, during critical moments, choking. The more technical term is focal dystonia.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.choking
+type: Concept
+canonical_name: Choking
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 503
+  pdf_page: 503
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.yips_focal_dystonia
+
+definition: >
+  Closely related but distinct, choking is when focal dystonia happens during a critical time during performance execution.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.flow
+type: Concept
+canonical_name: Flow
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 503
+  pdf_page: 503
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Athletes describe flow as effortless movement, complete trust in movements, and remarkable self-control.
+
+attributes:
+  - effortless movement
+  - complete trust in movements
+  - remarkable self-control
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.clutch
+type: Concept
+canonical_name: Clutch
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 504
+  pdf_page: 504
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  When this happens during critical times during a training session or sport, it is considered clutch.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fight_or_flight
+type: Concept
+canonical_name: Fight-or-Flight
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 504
+  pdf_page: 504
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Fight-or-flight refers to the physiological response of perception of threat that readies the body to defend vigorously or run away.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mental_health
+type: Concept
+canonical_name: Mental Health
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 505
+  pdf_page: 505
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Defining mental health encompasses emotional, psychological, and social well-being (5, 47, 62). Also, mental health is not just the absence of a mental illness.
+
+attributes:
+  - emotional well-being
+  - psychological well-being
+  - social well-being
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.signs_mental_health
+type: Concept
+canonical_name: Signs (in Mental Health Context)
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 506
+  pdf_page: 506
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Signs are observable outcomes that can be readily assessed by the coach.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.symptoms_mental_health
+type: Concept
+canonical_name: Symptoms (in Mental Health Context)
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 506
+  pdf_page: 506
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Symptoms are usually self-reported feelings or sensations.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ruminations
+type: Concept
+canonical_name: Ruminations
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 507
+  pdf_page: 507
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Anxiety often presents as a circular pattern of thoughts and feelings of heightened importance known as ruminations and worry.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stress
+type: Concept
+canonical_name: Stress
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 507
+  pdf_page: 507
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stress is an imbalance between the demands of a task or situation and the ability to cope with the challenge, as stated earlier in this chapter.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.affect_abcs
+type: Concept
+canonical_name: Affect (ABCs)
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 508
+  pdf_page: 508
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Affect refers to the mood and emotions seen in and reported by the athlete.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.behavior_abcs
+type: Concept
+canonical_name: Behavior (ABCs)
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 508
+  pdf_page: 508
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Behavior refers to movements like nervous pacing, fidgeting, slow reactions, and rapid eye tracking.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cognitions_abcs
+type: Concept
+canonical_name: Cognitions (ABCs)
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 508
+  pdf_page: 508
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Cognitions are thoughts reported, negative worry about performances or outcomes, overgeneralizing, catastrophizing, and doubts about abilities or past failures.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.subclinical_issues
+type: Concept
+canonical_name: Subclinical Issues
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 510
+  pdf_page: 510
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Subclinical issues include low-level and short-term mental or emotional distress that are not serious enough to affect athletes’ personal, academic, and social roles.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.guidelines_for_goal_setting
+type: Recommendation
+canonical_name: Guidelines for Goal Setting
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 503
+  pdf_page: 503
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  In general, guidelines for goal setting include the following:
+  Long-term goals and short-term goals are interdependent.
+  Long-term goals provide a sense of meaningfulness and direction for pursuing short-term goals.
+  The attainment of short-term goals provides a hierarchical sense of mastery and success that builds self-confidence.
+  Athletes should define process goals to focus on elements of their performance over which they have control.
+
+rationale: []
+
+supporting_evidence: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.three_step_process_for_helping_athletes_get_appropriate_support
+type: Procedure
+canonical_name: Three-Step Process for Helping Athletes Get Appropriate Support
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 508
+  pdf_page: 508
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+steps:
+  - step_number: 1
+    action: "Identify the signs and symptoms of distress related to affect, behavior, and cognitions."
+  - step_number: 2
+    action: "Determine the duration of distress (lasting greater than 2-3 weeks) and potential disruption (e.g., sleep patterns, nutritional habits, social relationships). Specifically, is the distress temporary or persistent, and how will it affect behaviors outside of sports?"
+  - step_number: 3
+    action: "Determine how to support the athlete."
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.duration_threshold_for_persistent_distress
+type: Threshold
+canonical_name: Duration Threshold for Persistent Distress
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 508
+  pdf_page: 508
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: duration
+value: "greater than 2-3 weeks"
+unit: weeks
+condition: "distress"
+context: "determine the duration of distress"
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.duration_threshold_for_subclinical_issues
+type: Threshold
+canonical_name: Duration Threshold for Subclinical Issues
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 510
+  pdf_page: 510
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: duration
+value: "not last longer than a week"
+unit: week
+condition: "subclinical issues"
+context: "These often do not last longer than a week and do not disrupt sleep, eating, and social functioning."
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.anxiety_signs
+type: TableRow
+canonical_name: Anxiety Signs
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Motivation"
+  section: "9.4"
+  section_title: "Motivation"
+  book_page: 506
+  pdf_page: 506
+
+provenance:

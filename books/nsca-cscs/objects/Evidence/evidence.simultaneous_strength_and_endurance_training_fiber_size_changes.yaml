@@ -1,0 +1,30 @@
+id: evidence.simultaneous_strength_and_endurance_training_fiber_size_changes
+type: Evidence
+canonical_name: Simultaneous Strength and Endurance Training — Fiber Size Changes
+semantic_type: ResearchFinding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 329
+  pdf_page: 329
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The C group increased muscle size only in type IIa fibers, while the
+  S group demonstrated increases in type I, IIc, and IIa fibers.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.muscle_fiber_type_i
+- concept.muscle_fiber_type_iic
+- concept.muscle_fiber_type_iia

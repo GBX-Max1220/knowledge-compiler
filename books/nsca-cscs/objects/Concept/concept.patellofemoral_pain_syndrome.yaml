@@ -1,0 +1,30 @@
+id: concept.patellofemoral_pain_syndrome
+type: Concept
+canonical_name: Patellofemoral Pain Syndrome
+semantic_type: Condition
+aliases:
+- PFPS
+- runner's knee
+- jumper's knee
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.1'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 446
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Patellofemoral pain syndrome (PFPS) is a broad term used for pain arising
+  from the patellofemoral joint, also known as runner''s knee or jumper''s knee (24).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

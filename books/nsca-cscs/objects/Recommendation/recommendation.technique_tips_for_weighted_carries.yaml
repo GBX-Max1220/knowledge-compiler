@@ -1,0 +1,40 @@
+id: recommendation.technique_tips_for_weighted_carries
+type: Recommendation
+canonical_name: Technique Tips for Weighted Carries
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1127
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Irrespective of where the load is positioned on the body, the
+  athlete should look to move in a similar way to normal walking. For example, during
+  the carrying component of the exercise, the athlete should retain a predominantly
+  neutral and vertical spinal position with no substantial hyperextension, flexion,
+  or lateral spinal flexion. The athlete should use loads that challenge his or her
+  desired walking speed, step length, step rate, and ground contact time but are still
+  within his or her ability to maintain core and total body stability. In order to
+  achieve this, the athlete will need to concentrate on keeping the loads in the same
+  relative position to his or her center of mass throughout the carry. To achieve
+  this, the athlete will need to stiffen the spine in response to the likely perturbations
+  these awkward loads impose on the system during the walking phase. This may require
+  some breath holding, which can be challenging due to the high spinal compressive
+  forces (especially observed in the yoke walk) or if the load is positioned on the
+  chest as in Zercher, sandbag, and keg carries, because such loads can further restrict
+  typical respiration patterns.
+
+  '
+rationale: ''
+target_audience: ''
+application_context: ''

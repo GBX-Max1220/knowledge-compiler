@@ -1,0 +1,33 @@
+id: concept.moment_arm
+type: Concept
+canonical_name: Moment arm
+semantic_type: MechanicalProperty
+aliases:
+- force arm
+- lever arm
+- torque arm
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Exercise
+  section: Levers of the Musculoskeletal System
+  section_title: Levers of the Musculoskeletal System
+  book_page: 108
+  pdf_page: 108
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'moment arm (also called force arm, lever arm, or torque arm)— The perpendicular
+  distance from the line of action of the force to the fulcrum.
+
+  '
+attributes:
+- perpendicular_distance
+purpose: []
+related_concepts:
+- concept.fulcrum
+- concept.mechanical_advantage

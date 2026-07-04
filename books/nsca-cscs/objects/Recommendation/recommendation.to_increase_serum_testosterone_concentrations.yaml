@@ -1,0 +1,33 @@
+id: recommendation.to_increase_serum_testosterone_concentrations
+type: Recommendation
+canonical_name: To Increase Serum Testosterone Concentrations
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine Responses to Resistance Exercise and Training
+  section: 'Chapter 4: Endocrine Responses to Resistance Exercise and Training — How
+    Can Athletes Manipulate the Endocrine System With Resistance Exercise?'
+  section_title: How Can Athletes Manipulate the Endocrine System With Resistance
+    Exercise?
+  book_page: 272
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: 'Serum testosterone concentrations have been shown to increase
+  acutely by using these methods independently or in various combinations: Large muscle
+  group exercises (e.g., deadlift, power clean, squat) Heavy resistance (85% to 95%
+  1RM) Moderate to high volume of exercise, achieved with multiple sets or multiple
+  exercises Short rest intervals (30-60 s)
+
+  '

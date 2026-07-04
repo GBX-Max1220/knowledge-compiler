@@ -1,0 +1,30 @@
+id: recommendation.criteria_for_effective_mission_statement
+type: Recommendation
+canonical_name: Criteria for an Effective Mission Statement
+semantic_type: Recommendation
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1776
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'According to the Drucker Foundation (31), the following are
+  suggested criteria for an effective mission statement: It should be short and sharply
+  focused. It should be clear and easy to understand. It defines why the organization
+  exists. It does not prescribe means. It is broad in scope. It provides direction
+  for upholding a code of ethics. It addresses and matches the organization’s scope
+  of practice. It inspires commitment.
+
+  '
+rationale: []
+supporting_evidence: []

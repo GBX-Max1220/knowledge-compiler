@@ -1,0 +1,30 @@
+id: recommendation.fluid_intake_tennis_changeovers
+type: Recommendation
+canonical_name: Fluid Intake for Tennis Players During Changeovers
+semantic_type: HydrationGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 628
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Because tennis players cannot drink continuously during a match and can
+  lose more than 2.5 liters (84.5 fl oz) of fluid per hour, a recommendation of 200
+  to 400 milliliters (6.7-13.5 fl oz) per changeover (switching sides) has been put
+  forth for these athletes (69).
+
+  '
+attributes: []
+purpose:
+- maintain hydration during a tennis match
+related_concepts: []

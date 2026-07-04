@@ -1,0 +1,28 @@
+id: concept.fluid_balance
+type: Concept
+canonical_name: Fluid Balance
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.5'
+  section_title: Minerals
+  book_page: 591
+  pdf_page: 591
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Fluid balance is the balance between water intake from food, drinks,
+  and metabolic water and water output through expired air, insensible perspiration,
+  sweat, feces, and urine.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

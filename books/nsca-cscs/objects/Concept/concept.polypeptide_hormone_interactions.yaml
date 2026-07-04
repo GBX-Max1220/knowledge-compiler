@@ -1,0 +1,36 @@
+id: concept.polypeptide_hormone_interactions
+type: Concept
+canonical_name: Polypeptide Hormone Interactions
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.2'
+  section_title: Signaling Concepts
+  book_page: 244
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.categories_of_hormones
+definition: 'Polypeptide hormones are composed of chains of amino acids and include
+  hormones such as GH and insulin. Due to their non-lipophilic nature, polypeptide
+  hormones cannot cross the cell membrane, and, therefore, their effects are mediated
+  by secondary messengers within the cell. When these hormones bind to their membrane
+  receptor, they cause a conformational change that allows the receptor to transmit
+  the hormonal signal inside the cell. This transmission initiates a cascade of signaling
+  events that, among others, can affect metabolic activities, influence DNA transcription,
+  or kick-start mRNA translation at the ribosome.
+
+  '
+attributes:
+- non-lipophilic
+purpose: []
+related_concepts: []

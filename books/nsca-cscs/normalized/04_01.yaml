@@ -1,0 +1,949 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.hormone
+type: Concept
+canonical_name: Hormone
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 231
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hormones are typically released into the bloodstream via the classic endocrine pathway after gland stimulation.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.intracrine_autocrine_paracrine_mechanisms
+type: Concept
+canonical_name: Intracrine, Autocrine, and Paracrine Mechanisms
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Types of Hormonal Release Mechanisms"
+  section_title: "Types of Hormonal Release Mechanisms"
+  book_page: 236
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hormones can also operate through intracrine, autocrine, and paracrine mechanisms, which do not rely on the bloodstream. Intracrine and autocrine actions involve hormones either binding to internal receptors within their producing cell or being released to bind to surface receptors on the same cell. Paracrine action occurs when hormones affect adjacent cells, again bypassing the bloodstream.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.binding_proteins
+type: Concept
+canonical_name: Binding Proteins
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Binding Proteins"
+  section_title: "Binding Proteins"
+  book_page: 236
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hormones are often transported in the blood by various binding proteins (4, 6), which serve as a temporary storage location and protect the hormones from degradation, thereby extending their lifetime in the body (called the half-life).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hennemans_size_principle
+type: Concept
+canonical_name: Henneman's Size Principle
+semantic_type: Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Importance of Recruitment of Muscle Tissue"
+  section_title: "Importance of Recruitment of Muscle Tissue"
+  book_page: 238
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Henneman's size principle shows that as the resistance increases (i.e., heavier loads), more and larger muscle fibers are recruited to meet the increased force demand. This principle outlines the recruitment order of motor units—from smaller, slow-twitch fiber motor units to larger, fast-twitch fiber motor units.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.lock_and_key_model
+type: Concept
+canonical_name: Lock-and-Key Model
+semantic_type: Model
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Role of Receptors in Mediating Hormonal Changes"
+  section_title: "Role of Receptors in Mediating Hormonal Changes"
+  book_page: 240
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A fundamental principle in endocrinology, often described through the lock-and-key model (24), explains how a hormone (the key) must precisely match a receptor (the lock) to trigger a response (figure 4.2).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.receptor_downregulation
+type: Concept
+canonical_name: Receptor Downregulation
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Adaptation Limits and Receptor Sensitivity"
+  section_title: "Adaptation Limits and Receptor Sensitivity"
+  book_page: 241
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  When a muscle fiber has reached its capacity for protein incorporation, or when a chronically elevated concentration of a hormone causes overstimulation, receptors may become desensitized or unresponsive—a condition known as receptor downregulation; a classic example of this phenomenon is insulin resistance, which can be caused by chronically elevated circulating insulin concentrations.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.steroid_hormones
+type: Concept
+canonical_name: Steroid Hormones
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Categories of Hormones"
+  section_title: "Categories of Hormones"
+  book_page: 242
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Steroid hormones, including cortisol, testosterone, and estradiol produced by the adrenal cortex and/or gonads, can diffuse across cell membranes due to their lipophilic (fat-soluble) nature.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.polypeptide_hormones
+type: Concept
+canonical_name: Polypeptide Hormones
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Categories of Hormones"
+  section_title: "Categories of Hormones"
+  book_page: 244
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Polypeptide hormones are composed of chains of amino acids and include hormones such as GH and insulin. Due to their non-lipophilic nature, polypeptide hormones cannot cross the cell membrane, and, therefore, their effects are mediated by secondary messengers within the cell.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.amine_hormones
+type: Concept
+canonical_name: Amine Hormones
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Categories of Hormones"
+  section_title: "Categories of Hormones"
+  book_page: 247
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Amine hormones are indeed synthesized from amino acids, including those derived from tyrosine (such as epinephrine, norepinephrine, and dopamine) and tryptophan (such as serotonin), and primarily exert their effects by binding to membrane receptors.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.free_hormone_hypothesis
+type: Concept
+canonical_name: Free Hormone Hypothesis
+semantic_type: Hypothesis
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Influence of Sex Hormones"
+  section_title: "Influence of Sex Hormones"
+  book_page: 255
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  According to the free hormone hypothesis, the free, unbound hormone interacts with target tissues.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.growth_hormone_isoforms
+type: Concept
+canonical_name: Growth Hormone (GH) Isoforms
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Growth Hormone"
+  section_title: "Growth Hormone"
+  book_page: 260
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Growth hormone (GH) is produced in the pituitary gland by somatotroph cells, divided into two types based on their secretion patterns and the forms of GH. Band 1 somatotrophs generate the smaller, newly synthesized 22 kD molecular weight isoform of GH, a 191 amino acid polypeptide. Conversely, band 2 somatotrophs produce aggregates of these smaller isoforms (e.g., two 22 kD units combining to form a 44 kD molecule), which are considered older and are potential GH storage forms (61).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.insulin_like_growth_factors
+type: Concept
+canonical_name: Insulin-Like Growth Factors (IGFs)
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Insulin-Like Growth Factors and Binding Proteins"
+  section_title: "Insulin-Like Growth Factors and Binding Proteins"
+  book_page: 263
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  IGFs, primarily IGF-1 and IGF-2, are small polypeptides crucial for various anabolic processes in the body, including cellular growth, development, and metabolism.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.igf_binding_proteins
+type: Concept
+canonical_name: IGF Binding Proteins (IGFBPs)
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Insulin-Like Growth Factors and Binding Proteins"
+  section_title: "Insulin-Like Growth Factors and Binding Proteins"
+  book_page: 263
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  IGF binding proteins (IGFBPs) are a group of proteins that regulate the bioavailability and activity of IGFs. There are six main types of IGFBPs (IGFBP-1 to IGFBP-6) found in humans, each with distinct binding affinities, tissue distributions, and biological functions.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cortisol
+type: Concept
+canonical_name: Cortisol
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Adrenal Gland, Cortisol, and Its Role in Resistance Exercise"
+  section_title: "Adrenal Gland, Cortisol, and Its Role in Resistance Exercise"
+  book_page: 267
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cortisol has critical roles in modulating inflammation and managing metabolic responses to stress.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.catecholamines
+type: Concept
+canonical_name: Catecholamines
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Catecholamines and Their Role in Resistance Exercise and Training"
+  section_title: "Catecholamines and Their Role in Resistance Exercise and Training"
+  book_page: 270
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Catecholamines, primarily epinephrine but also including norepinephrine and dopamine, are secreted by the adrenal medulla and play a crucial role in enhancing strength and power during resistance training.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.to_increase_serum_testosterone_concentrations
+type: Recommendation
+canonical_name: To Increase Serum Testosterone Concentrations
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — How Can Athletes Manipulate the Endocrine System With Resistance Exercise?"
+  section_title: "How Can Athletes Manipulate the Endocrine System With Resistance Exercise?"
+  book_page: 272
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: >
+  Serum testosterone concentrations have been shown to increase acutely by using these methods independently or in various combinations:
+  Large muscle group exercises (e.g., deadlift, power clean, squat)
+  Heavy resistance (85% to 95% 1RM)
+  Moderate to high volume of exercise, achieved with multiple sets or multiple exercises
+  Short rest intervals (30-60 s)
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.to_increase_22_kd_growth_hormone_concentrations
+type: Recommendation
+canonical_name: To Increase 22 kD Growth Hormone Concentrations
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — How Can Athletes Manipulate the Endocrine System With Resistance Exercise?"
+  section_title: "How Can Athletes Manipulate the Endocrine System With Resistance Exercise?"
+  book_page: 272
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: >
+  Growth hormone levels have been shown to increase acutely with use of either of these methods or both in combination:
+  Use workouts with higher lactate concentrations and associated acid–base disruptions; that is, use high intensity (10RM, or heavy resistance) with three sets of each exercise (high total work) and short (1 min) rest periods.
+  Supplement diet with carbohydrates and protein before and after workouts.
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.to_optimize_responses_of_adrenal_hormones
+type: Recommendation
+canonical_name: To Optimize Responses of Adrenal Hormones
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — How Can Athletes Manipulate the Endocrine System With Resistance Exercise?"
+  section_title: "How Can Athletes Manipulate the Endocrine System With Resistance Exercise?"
+  book_page: 272
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: >
+  Use high volume, large muscle groups, and short rest periods to expose the body to adrenergic stress.
+  Be careful to vary the training protocol and the rest period length from short to long over time.
+  Provide days of complete rest, and use lower-volume workouts to allow the adrenal gland to engage in recovery processes to reduce stress on the adrenal medulla so as not to experience adrenergic exhaustion and to reduce stress on the adrenal cortex and prevent chronic cortisol secretions from the adrenal cortex.
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.signaling_process_for_skeletal_muscle
+type: Procedure
+canonical_name: Signaling Process for Skeletal Muscle
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Understanding Signaling Concepts"
+  section_title: "Understanding Signaling Concepts"
+  book_page: 234
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+steps:
+  - number: 1
+    description: "Stimulating the muscle. Resistance exercise activates muscles, prompting a hormonal response."
+  - number: 2
+    description: "Hormonal response. Hormones are released and travel to muscle cells."
+  - number: 3
+    description: "Hormone–receptor interaction. Hormones bind to specific receptors in the cell membrane of muscle cells (peptide hormones) or inside the muscle cells (steroid hormones), signaling the need for action inside the cell."
+  - number: 4
+    description: "Intracellular signaling. This binding triggers a series of events that lead to DNA signaling inside the nucleus."
+  - number: 5
+    description: "DNA translation. DNA instructions are transcribed to messenger ribonucleic acid (mRNA), which carries the instructions to the cell's protein-making machinery (ribosome)."
+  - number: 6
+    description: "Protein production. The mRNA instructions are translated into specific proteins, the building blocks for muscle repair and growth."
+  - number: 7
+    description: "Muscle growth and repair. Regular training uses this muscle development and repair mechanism, which is essential for developing lean muscle mass and athletic performance."
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_4_1
+type: Concept
+canonical_name: Figure 4.1
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 231
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  FIGURE 4.1 The principal endocrine glands of the body, along with other glands that secrete hormones.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_4_2
+type: Concept
+canonical_name: Figure 4.2
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 242
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  FIGURE 4.2 A schematic representation of the classic lock-and-key theory for hormonal action at the cell receptor level.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_4_3
+type: Concept
+canonical_name: Figure 4.3
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 244
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  FIGURE 4.3 A simplified model of steroid hormone action.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_4_4
+type: Concept
+canonical_name: Figure 4.4
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 246
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  FIGURE 4.4 Polypeptide hormone interactions with receptors.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_4_5
+type: Concept
+canonical_name: Figure 4.5
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 257
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  FIGURE 4.5 Responses of (a) total testosterone and (b) free testosterone in response to six sets of squats at 80% of the 1RM with 2 minutes rest between sets.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_4_6
+type: Concept
+canonical_name: Figure 4.6
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 260
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  FIGURE 4.6 Diagram of the basic growth hormone cybernetics and interactions.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_4_7
+type: Concept
+canonical_name: Figure 4.7
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 264
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  FIGURE 4.7 The 22 kD growth hormone (GH) normalized responses to high-volume (HV) and low-volume (LV) total body workout of eight resistance exercises.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.table_4_1
+type: Concept
+canonical_name: Table 4.1
+semantic_type: Table
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  section_title: "Chapter 4: Endocrine Responses to Resistance Exercise and Training"
+  book_page: 231
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  TABLE 4.1  Endocrine Glands and Selected Hormones
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.catabolic_state_and_recovery
+type: Warning
+canonical_name: Catabolic State and Recovery
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Importance of Recruitment of Muscle Tissue"
+  section_title: "Importance of Recruitment of Muscle Tissue"
+  book_page: 238
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  A catabolic state is highly detrimental for an athlete, especially when cortisol levels remain chronically elevated. Combined with the presence of reactive oxygen species (free radicals) generated by the body's inflammatory response, this condition significantly impairs recovery and hampers performance (77).
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.prolonged_cortisol_elevation
+type: Warning
+canonical_name: Prolonged Cortisol Elevation
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Adrenal Gland, Cortisol, and Its Role in Resistance Exercise"
+  section_title: "Adrenal Gland, Cortisol, and Its Role in Resistance Exercise"
+  book_page: 267
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  However, prolonged elevation of cortisol levels—if not returned to baseline within 24 hours—can adversely affect the body, because cortisol in this context is considered catabolic and anti-anabolic. Sustained high cortisol can impair immune function, affect fat metabolism and deposition, reduce protein synthesis, increase protein degradation, and interfere with anabolic signaling pathways, thereby promoting a catabolic state that can undermine muscle repair and growth (75, 87, 89, 92, 129).
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.adrenal_exhaustion
+type: Warning
+canonical_name: Adrenal Exhaustion
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Catecholamines and Their Role in Resistance Exercise and Training"
+  section_title: "Catecholamines and Their Role in Resistance Exercise and Training"
+  book_page: 271
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  Continuous high stress without varied training can lead to delayed recovery and, eventually, adrenal exhaustion, reducing the adrenal medulla's ability to secrete catecholamines effectively.
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.testosterone_response_in_younger_women
+type: Concept
+canonical_name: Testosterone Response in Younger Women
+semantic_type: Evidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Influence of Sex Hormones"
+  section_title: "Influence of Sex Hormones"
+  book_page: 254
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A study found that younger women experienced a modest but significant increase in serum testosterone after performing six sets of squats at a 10RM with 2 minutes of rest between sets at 80% of the 1 RM (111).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.testosterone_response_in_trained_men_and_women
+type: Concept
+canonical_name: Testosterone Response in Trained Men and Women
+semantic_type: Evidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Influence of Sex Hormones"
+  section_title: "Influence of Sex Hormones"
+  book_page: 254
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Additionally, Vingren and colleagues observed that highly resistance-trained men and women exhibited acute rises in free testosterone following heavy resistance exercises. However, the values in women were significantly lower than those in men (133).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.resting_testosterone_in_elite_weightlifters
+type: Concept
+canonical_name: Resting Testosterone in Elite Weightlifters
+semantic_type: Evidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Endocrine Responses to Resistance Exercise and Training"
+  section: "Chapter 4: Endocrine Responses to Resistance Exercise and Training — Training Adaptations of Testosterone and Impact on Androgen Receptors"
+  section_title: "Training Adaptations of Testosterone and Impact on Androgen Receptors"
+  book_page: 258
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  For instance, a notable study by Häkkinen and colleagues (49) observed small but significant increases in resting serum testosterone levels over two years among elite weightlifters, alongside increases in follicle-stimulating hormone and luteinizing hormone, which are crucial in regulating testosterone production.
+attributes: []

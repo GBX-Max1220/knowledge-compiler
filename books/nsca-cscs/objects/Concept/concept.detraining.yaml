@@ -1,0 +1,11 @@
+id: concept.detraining
+type: Concept
+canonical_name: Detraining
+semantic_type: Physiological_Response
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38

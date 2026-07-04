@@ -1,0 +1,36 @@
+id: recommendation.power_training_load_healthy_older_adults
+type: Recommendation
+canonical_name: Power Training Load for Healthy Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 430
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Current recommendations for increasing power in healthy older adults
+  include the performance of 1 to 3 sets per exercise with a light to moderate load
+  (40%-60% 1RM) in concentric movements for 6 to 10 repetitions with high repetition
+  velocity.
+
+  '
+attributes: []
+purpose:
+- increase power
+related_concepts: []
+recommendation_details:
+  sets: 1-3
+  repetitions: 6-10
+  intensity: 40%-60% 1RM
+  movement_type: concentric
+  velocity: high repetition velocity

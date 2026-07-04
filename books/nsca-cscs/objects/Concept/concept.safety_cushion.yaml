@@ -1,0 +1,27 @@
+id: concept.safety_cushion
+type: Concept
+canonical_name: Safety Cushion
+semantic_type: Space
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1753
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Safety spacing in the weight room is generally referred to as a safety
+  cushion.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

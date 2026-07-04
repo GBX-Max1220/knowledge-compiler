@@ -1,0 +1,35 @@
+id: recommendation.steps_to_avoid_injury_from_equipment
+type: Recommendation
+canonical_name: Steps to Avoid Injury from Equipment
+semantic_type: Recommendation
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1799
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'To avoid injury to athletes caused by strength and conditioning
+  equipment, the following steps should be taken: Use equipment only for the purpose
+  intended by the manufacturer. Refer to the manufacturer’s instructional materials
+  that accompany the equipment, including user age and size specifications. Be certain
+  that equipment meets existing professional standards and guidelines. Do not purchase
+  and use equipment that has been deemed unsafe or ineffective by professional organizations
+  and experts. Be aware of equipment recalls, and return such equipment to the manufacturer
+  immediately. Buy only from reputable manufacturers. Strength and conditioning professionals
+  must do their homework to check on the safety record of a manufacturer or seller
+  and any claims that may have been filed against that manufacturer or seller. Organizations
+  such as the Better Business Bureau in the United States, other strength and conditioning
+  colleagues, and professional organizations are good resources for this information.
+  Do not modify equipment unless such adaptations are clearly designated and instructions
+  for doing so are included in the product information. Some equipment is designed
+  to be modified for'

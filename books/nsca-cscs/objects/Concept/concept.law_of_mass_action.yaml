@@ -1,0 +1,28 @@
+id: concept.law_of_mass_action
+type: Concept
+canonical_name: Law of Mass Action
+semantic_type: Principle
+aliases:
+- Mass Action Effect
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Control of the Phosphagen System
+  section_title: Control of the Phosphagen System
+  book_page: 182
+  pdf_page: 182
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The law of mass action states that the concentrations of reactants or
+  products (or both) in solution will drive the direction of the reactions.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

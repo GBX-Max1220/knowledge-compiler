@@ -1,29 +1,28 @@
 id: concept.action_potential
 type: Concept
 canonical_name: Action Potential
-semantic_type: Physiological Process
+semantic_type: PhysiologicalProcess
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
   chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.02'
-  section_title: Neuromuscular System
-  book_page: 56
-  pdf_page: 56
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.5
+  section_title: Sectional view of a muscle fiber
+  book_page: 51
+  pdf_page: 51
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
 relationships: []
-definition: 'An electrochemical signal that travels along a motor neuron from the
-  cell body to the nerve terminal.
+definition: 'Discharge of an action potential (an electrical nerve impulse) arrives
+  nearly simultaneously from the surface to all depths of the muscle fiber.
 
   '
-attributes: []
+attributes:
+- electrical_nerve_impulse
 purpose: []
-related_concepts:
-- concept.motor_neuron
-- concept.neuromuscular_junction
+related_concepts: []

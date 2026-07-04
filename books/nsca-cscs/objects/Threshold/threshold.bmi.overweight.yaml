@@ -1,0 +1,27 @@
+id: threshold.bmi.overweight
+type: Threshold
+canonical_name: BMI Classification for Overweight
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.bmi.obesity
+definition: ''
+value: 25 to 29.9 kg/m2
+unit: kg/m2
+condition: overweight
+context: BMI classification

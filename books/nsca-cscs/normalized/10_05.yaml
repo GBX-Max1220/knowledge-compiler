@@ -1,0 +1,553 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.fluid_balance
+type: Concept
+canonical_name: Fluid Balance
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 591
+  pdf_page: 591
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Fluid balance is the balance between water intake from food, drinks, and metabolic water and water output through expired air, insensible perspiration, sweat, feces, and urine.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hyponatremia
+type: Concept
+canonical_name: Hyponatremia
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Athletes who exercise intensely or for hours and hydrate excessively with only water or a no- or low-sodium beverage may dilute their blood sodium levels to dangerously low levels—below 130 mmol/L —a condition called hyponatremia.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.dehydration_weight_loss.mild
+type: Threshold
+canonical_name: Mild Dehydration Weight Loss
+semantic_type: Physiological
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 591
+  pdf_page: 591
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.dehydration_weight_loss.risk
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "2% to 3%"
+unit: "% weight loss"
+condition: "weight loss"
+context: "Even mild dehydration, representing 2% to 3% weight loss, can increase core body temperature and significantly affect athletic performance by increasing fatigue and decreasing motivation, neuromuscular control, accuracy, power, strength, muscular endurance, and overall performance (13, 26, 42, 58, 84, 85, 141, 153)."
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.dehydration_weight_loss.risk
+type: Threshold
+canonical_name: Dehydration Risk Weight Loss
+semantic_type: Physiological
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 592
+  pdf_page: 592
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.dehydration_weight_loss.mild
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "2% or more"
+unit: "% body weight"
+condition: "loss of body weight"
+context: "A loss of 2% or more of body weight indicates the athlete is not adequately replacing fluid lost through sweat (3)."
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.blood_sodium.hyponatremia
+type: Threshold
+canonical_name: Hyponatremia Blood Sodium
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.blood_sodium.hyponatremia_severe
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "below 130"
+unit: "mmol/L"
+condition: "blood sodium level"
+context: "Athletes who exercise intensely or for hours and hydrate excessively with only water or a no- or low-sodium beverage may dilute their blood sodium levels to dangerously low levels—below 130 mmol/L —a condition called hyponatremia."
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.blood_sodium.hyponatremia_severe
+type: Threshold
+canonical_name: Severe Hyponatremia Blood Sodium
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.blood_sodium.hyponatremia
+  - predicate: adjacent_to
+    target: threshold.blood_sodium.hyponatremia_critical
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "below 125"
+unit: "mmol/L"
+condition: "blood sodium level"
+context: "This leads to intracellular swelling, and, when blood sodium levels fall below 125 mmol/L, to headaches, nausea, vomiting, muscle cramps, swollen hands and feet, restlessness, and disorientation."
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.blood_sodium.hyponatremia_critical
+type: Threshold
+canonical_name: Critical Hyponatremia Blood Sodium
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.blood_sodium.hyponatremia_severe
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "below 120"
+unit: "mmol/L"
+condition: "blood sodium level"
+context: "When blood sodium drops below 120 mmol/L, risk of developing cerebral edema, seizures, coma, brain stem herniation, respiratory arrest, and risk of death increase (2, 3, 6)."
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.euhydration.total_body_water
+type: Threshold
+canonical_name: Euhydration Total Body Water
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 592
+  pdf_page: 592
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<2%"
+unit: "%"
+condition: "total body water"
+context: "TABLE 10.15 Biomarkers of Hydration Status"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.euhydration.plasma_osmolality
+type: Threshold
+canonical_name: Euhydration Plasma Osmolality
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 592
+  pdf_page: 592
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<290"
+unit: "mOsm"
+condition: "plasma osmolality"
+context: "TABLE 10.15 Biomarkers of Hydration Status"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.euhydration.urine_specific_gravity
+type: Threshold
+canonical_name: Euhydration Urine Specific Gravity
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 592
+  pdf_page: 592
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<1.020"
+unit: "g/mL"
+condition: "urine specific gravity"
+context: "TABLE 10.15 Biomarkers of Hydration Status"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.euhydration.urine_osmolality
+type: Threshold
+canonical_name: Euhydration Urine Osmolality
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 592
+  pdf_page: 592
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<700"
+unit: "mOsm"
+condition: "urine osmolality"
+context: "TABLE 10.15 Biomarkers of Hydration Status"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.euhydration.body_weight
+type: Threshold
+canonical_name: Euhydration Body Weight
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 592
+  pdf_page: 592
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<1%"
+unit: "%"
+condition: "body weight"
+context: "TABLE 10.15 Biomarkers of Hydration Status"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.urine_specific_gravity.hydration
+type: Threshold
+canonical_name: Urine Specific Gravity Hydration
+semantic_type: Laboratory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 598
+  pdf_page: 598
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "<1.02"
+unit: ""
+condition: "USG reading"
+context: "Athletes should have a USG reading <1.02."
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.prevent_dehydration.weight_loss_limit
+type: Recommendation
+canonical_name: Preventing Dehydration Weight Loss Limit
+semantic_type: Hydration
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 592
+  pdf_page: 592
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: "Given the negative effects associated with dehydration, athletes should try to prevent water weight losses exceeding 2% of body weight while also restoring electrolytes lost through sweat (3, 139)."
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.individualized_hydration_plan
+type: Recommendation
+canonical_name: Individualized Hydration Plan
+semantic_type: Hydration
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 594
+  pdf_page: 594
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: "A very wide range of fluid losses, in the form of sweat, exists among athletes. Therefore each athlete should develop an individualized hydration plan."
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.avoid_hyponatremia
+type: Recommendation
+canonical_name: Avoiding Hyponatremia
+semantic_type: Hydration
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: "To avoid hyponatremia, fluid intake should not exceed sweat losses (athletes should not weigh more after they finish exercising than they did at the start of their training session), and athletes should consume sodium through either sport drinks or food (3, 120)."
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.prehydration_before_exercise
+type: Recommendation
+canonical_name: Prehydration Before Exercise
+semantic_type: Hydration
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 596
+  pdf_page: 596
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: "Prehydrate, if necessary, several hours before exercise to allow for fluid absorption and urine output (3)."
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.sport_drink_composition.hot_weather
+type: Recommendation
+canonical_name: Sport Drink Composition for Prolonged Activity in Hot Weather
+semantic_type: Nutrition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.5"
+  section_title: "Minerals"
+  book_page: 596
+  pdf_page: 596
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: "During prolonged activity in hot weather, the IOM recommends sport drinks containing 20 to 30 mEq of sodium (460-690 mg with chloride as the anion) per liter, 2 to 5 mEq of potassium (78-195 mg) per liter, and carbohydrate in a concentration of 5% to 10% (70)."
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.fluid_temperature
+type:

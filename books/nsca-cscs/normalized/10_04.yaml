@@ -1,0 +1,456 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.water_soluble_vitamins
+type: Concept
+canonical_name: Water-Soluble Vitamins
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Water-soluble vitamins, including the B vitamins and vitamin C, dissolve in water and are transported in the blood. With the exception of vitamin B12, which is stored in the liver for years, water-soluble vitamins are not stored in appreciable amounts in the body; instead the body uses what is needed and then excretes the remaining amounts in urine (165).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.b_vitamins
+  - concept.vitamin_c
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fat_soluble_vitamins
+type: Concept
+canonical_name: Fat-Soluble Vitamins
+semantic_type: Nutrient
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Vitamins A, D, E, and K are fat soluble and therefore carried by fat in the blood and stored in fat tissue in the body (109).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_a
+  - concept.vitamin_d
+  - concept.vitamin_e
+  - concept.vitamin_k
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.excess_preformed_vitamin_a_toxicity
+type: Warning
+canonical_name: Excess Preformed Vitamin A Toxicity
+semantic_type: Toxicity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Excess preformed vitamin A (not beta carotene, alpha carotene, or beta crypto xanthin, which are converted into vitamin A in the body) is toxic and associated with significant adverse effects including liver damage, intracranial pressure (pseudotumor cerebri), dizziness, nausea, headaches, skin irritation, pain in joints and bones, coma, and even death (23). Excess vitamin A intake can occur through diet but typically results from high levels of vitamin A in supplements (72, 109).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_a
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.excess_vitamin_d_toxicity
+type: Warning
+canonical_name: Excess Vitamin D Toxicity
+semantic_type: Toxicity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Toxic levels of vitamin D can lead to heart arrhythmias and increased levels of blood calcium, which can cause blood vessel and tissue calcification, as well as damage to the heart, blood vessels, and kidneys (109).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_d
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.excess_vitamin_e_and_hemorrhagic_stroke_risk
+type: Warning
+canonical_name: Excess Vitamin E and Hemorrhagic Stroke Risk
+semantic_type: Risk
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Vitamin E acts as an anticoagulant and therefore thins the blood. Regular intake of excessive amounts of vitamin E can lead to high serum vitamin E levels, which is associated with increased risk of hemorrhagic stroke, particularly in individuals on blood thinners (125).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_e
+  - concept.hemorrhagic_stroke
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.excess_vitamin_k_interference_with_anticlotting_medications
+type: Warning
+canonical_name: Excess Vitamin K Interference with Anticlotting Medications
+semantic_type: Interaction
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Because vitamin K helps blood clot, excess intake of this vitamin can interfere with the effects of some anticlotting medications such as warfarin (Coumadin) (94).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_k
+  - concept.warfarin
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.antioxidants
+type: Concept
+canonical_name: Antioxidants
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Antioxidants are substances that modify cell-signaling pathways and counteract oxidative stress-induced cell damage caused by reactive oxygen and nitrogen species (free radicals).
+attributes: []
+purpose:
+  - modify cell-signaling pathways
+  - counteract oxidative stress-induced cell damage
+related_concepts:
+  - concept.free_radicals
+  - concept.oxidative_stress
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.free_radicals
+type: Concept
+canonical_name: Free Radicals
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Free radicals are both beneficial and harmful to human health.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.oxidative_stress_from_free_radical_overproduction
+type: Warning
+canonical_name: Oxidative Stress from Free Radical Overproduction
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An overproduction of, or overexposure to, free radicals combined with a deficiency in antioxidants can result in oxidative stress and subsequent damage to cellular lipids, proteins, and DNA (71, 166).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.free_radicals
+  - concept.antioxidants
+  - concept.oxidative_stress
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dietary_reference_intake
+type: Concept
+canonical_name: Dietary Reference Intake
+semantic_type: Standard
+aliases:
+  - DRI
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Dietary Reference Intake (DRI): A set of nutrient recommendations that include the values Recommended Dietary Allowance (RDA), Adequate Intake (AI), Estimated Average Requirement (EAR), and the Tolerable Upper Level Intake (UL).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.recommended_dietary_allowance
+  - concept.adequate_intake
+  - concept.estimated_average_requirement
+  - concept.tolerable_upper_level_intake
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.tolerable_upper_level_intake
+type: Concept
+canonical_name: Tolerable Upper Level Intake
+semantic_type: Standard
+aliases:
+  - UL
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Tolerable Upper Level Intake (UL): The highest daily intake of a nutrient that is likely to not pose a risk of adverse health effects in most of the general population.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.dietary_reference_intake
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.vitamin_d_deficiency_prevalence_in_adults_over_19
+type: Evidence
+canonical_name: Vitamin D Deficiency Prevalence in Adults Over 19
+semantic_type: Prevalence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  According to the Scientific Report of the 2020 Dietary Guidelines Advisory Committee, more than 90 percent of men and women over 19 years of age do not consume enough vitamin D (56, 154).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_d
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.dietary_sources_for_vitamin_d
+type: Recommendation
+canonical_name: Dietary Sources for Vitamin D
+semantic_type: Dietary
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Eating a diet containing seafood, and choosing foods that are fortified with vitamin D, including milk, fortified soy beverages, fortified soy yogurt, and some whole-grain cereals, can help adults meet their needs for vitamin D.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_d
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.vitamin_d_supplementation_for_deficiency_prevention
+type: Recommendation
+canonical_name: Vitamin D Supplementation for Deficiency Prevention
+semantic_type: Supplementation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  As such, vitamin D supplementation may be necessary for many individuals to prevent deficiency.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_d
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.vitamin_d_supplementation_effect_on_muscular_strength_and_power
+type: Evidence
+canonical_name: Vitamin D Supplementation Effect on Muscular Strength and Power
+semantic_type: Effect
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Nutrition and Exercise"
+  section: "10.4"
+  section_title: "Vitamins"
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A meta-analysis of 11 randomized control trials and 436 athletes showed that vitamin D supplementation only had a small or trivial effect on upper and lower body muscular strength or power (150).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.vitamin_d
+  - concept.muscular_strength
+  - concept.muscular_power
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.adequate_vitamin_d_for_athletes_stress_fractures_and_illness
+type: Evidence

@@ -1,0 +1,30 @@
+id: concept.guided_discovery
+type: Concept
+canonical_name: Guided Discovery
+semantic_type: Instructional Style
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.6'
+  section_title: Psychological Techniques
+  book_page: 528
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.instructional_style
+definition: 'Guided discovery provides the athlete with instructions about the overall
+  movement goal and important prompts for task accomplishment without explicitly telling
+  the athlete how to accomplish the task.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

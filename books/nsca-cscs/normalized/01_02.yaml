@@ -1,1190 +1,661 @@
 # ontology: knowledge-compiler/v1
 
-id: concept.neuromuscular_system
-type: Concept
-canonical_name: Neuromuscular System
-semantic_type: Anatomical System
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  Muscle fibers are innervated by motor neurons that transmit impulses in the form of electrochemical signals from the spinal cord to the muscle.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.motor_unit
-  - concept.muscle_fiber
-  - concept.motor_neuron
----
-# ontology: knowledge-compiler/v1
-
 id: concept.motor_unit
 type: Concept
 canonical_name: Motor Unit
-semantic_type: Anatomical Structure
+semantic_type: AnatomicalStructure
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.4"
+  section_title: "Motor unit"
+  book_page: 47
+  pdf_page: 47
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
+relationships: []
+
+definition: >
+  Motor unit, consisting of a motor neuron and the muscle fibers it innervates.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.myofibril
+type: Concept
+canonical_name: Myofibril
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 47
+  pdf_page: 47
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
 relationships:
   - predicate: part_of
-    target: concept.neuromuscular_system
+    target: concept.muscle_fiber
+
 definition: >
-  An integrated structure where a motor neuron generally has numerous terminal branches at the end of its axon, allowing for several muscle fibers to be innervated.
+  Hundreds of myofibrils (each about 1 μm in diameter, 1/100 the diameter of a hair) exist in the sarcoplasm of one muscle fiber. Myofibrils are the contractile machinery of muscle fibers.
+
 attributes:
-  - slow-twitch
-  - fast-twitch/fatigue-resistant
-  - fast-twitch/fatigable
-purpose: []
+  - contractile
+
+purpose:
+  - contractile machinery of muscle fibers
+
 related_concepts:
-  - concept.muscle_fiber
-  - concept.motor_neuron
+  - concept.myosin_filament
+  - concept.actin_filament
+  - concept.sarcomere
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.motor_neuron
+id: concept.myosin_filament
 type: Concept
-canonical_name: Motor Neuron
-semantic_type: Cell
+canonical_name: Myosin Filament
+semantic_type: AnatomicalStructure
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 47
+  pdf_page: 47
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships:
   - predicate: part_of
-    target: concept.neuromuscular_system
+    target: concept.myofibril
+
 definition: >
-  A neuron that transmits impulses in the form of electrochemical signals from the spinal cord to the muscle.
-attributes: []
+  The thicker myosin filaments (about 16 nm in diameter, or 1/10,000 the diameter of a hair) contain up to 200 myosin molecules. A single myosin molecule consists of two myosin heavy chain proteins and four myosin light chain proteins. This molecule also contains two head-like features (one being from each of the two heavy chains), two hinge points below each head, and two tail-like features that act to keep the two heavy chain proteins bound.
+
+attributes:
+  - thick
+  - contains_myosin_molecules
+
 purpose: []
+
+related_concepts:
+  - concept.actin_filament
+  - concept.sarcomere
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.actin_filament
+type: Concept
+canonical_name: Actin Filament
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 47
+  pdf_page: 47
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.myofibril
+
+definition: >
+  The thin actin filaments (about 6 nm in diameter) consist of two strands arranged in a double helix.
+
+attributes:
+  - thin
+  - double_helix_structure
+
+purpose: []
+
+related_concepts:
+  - concept.myosin_filament
+  - concept.sarcomere
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sarcomere
+type: Concept
+canonical_name: Sarcomere
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 47
+  pdf_page: 47
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.myofibril
+
+definition: >
+  Myosin and actin filaments are organized longitudinally in the smallest contractile unit of skeletal muscle termed the sarcomere. Sarcomeres average about 2.5 μm in length in a relaxed fiber (approximately 4,500 per centimeter of muscle length) and are repeated through the entire length of myofibrils that span the muscle fiber (4).
+
+attributes:
+  - smallest_contractile_unit
+  - average_length_relaxed: "2.5 μm"
+  - number_per_centimeter: "4,500"
+
+purpose:
+  - contractile unit of skeletal muscle
+
+related_concepts:
+  - concept.a_band
+  - concept.i_band
+  - concept.z_line
+  - concept.h_zone
+  - concept.m_line
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.a_band
+type: Concept
+canonical_name: A-band
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 48
+  pdf_page: 48
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
+definition: >
+  The dark A-band corresponds with the alignment of the myosin filaments.
+
+attributes:
+  - dark
+
+purpose: []
+
 related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.muscle_fiber
+id: concept.i_band
 type: Concept
-canonical_name: Muscle Fiber
-semantic_type: Cell
+canonical_name: I-band
+semantic_type: AnatomicalStructure
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 48
+  pdf_page: 48
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships:
   - predicate: part_of
-    target: concept.motor_unit
+    target: concept.sarcomere
+
 definition: >
-  Muscle fibers are innervated by motor neurons.
-attributes: []
+  The light I-band corresponds with the areas in two adjacent sarcomeres that contain only actin filaments (41).
+
+attributes:
+  - light
+
 purpose: []
+
 related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.action_potential
+id: concept.z_line
 type: Concept
-canonical_name: Action Potential
-semantic_type: Physiological Process
+canonical_name: Z-line
+semantic_type: AnatomicalStructure
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 48
+  pdf_page: 48
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
-relationships: []
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
 definition: >
-  An electrochemical signal that travels along a motor neuron from the cell body to the nerve terminal.
-attributes: []
+  The Z-line is in the middle of the I-band and appears as a thin, dark line running longitudinally through the I-band.
+
+attributes:
+  - thin
+  - dark
+
 purpose: []
-related_concepts:
-  - concept.motor_neuron
-  - concept.neuromuscular_junction
+
+related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.neuromuscular_junction
+id: concept.h_zone
 type: Concept
-canonical_name: Neuromuscular Junction
-semantic_type: Anatomical Structure
+canonical_name: H-zone
+semantic_type: AnatomicalStructure
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 48
+  pdf_page: 48
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
-relationships: []
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
 definition: >
-  The site where the arrival of the action potential at nerve terminals of the motor neuron causes the secretion of a neurotransmitter called acetylcholine.
+  The H-zone is the area in the center of the sarcomere, where only myosin filaments are present.
+
 attributes: []
+
 purpose: []
-related_concepts:
-  - concept.action_potential
-  - concept.acetylcholine
+
+related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.acetylcholine
+id: concept.m_line
 type: Concept
-canonical_name: Acetylcholine
-semantic_type: Molecule
+canonical_name: M-line
+semantic_type: AnatomicalStructure
 aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  A neurotransmitter that is secreted at each of the neuromuscular junctions contained within the motor unit.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.neuromuscular_junction
----
-# ontology: knowledge-compiler/v1
 
-id: concept.sarcolemma
-type: Concept
-canonical_name: Sarcolemma
-semantic_type: Anatomical Structure
-aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  The membrane of muscle fibers where acetylcholine receptors are present.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.muscle_fiber
-  - concept.acetylcholine_receptor
----
-# ontology: knowledge-compiler/v1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.6"
+  section_title: "General view of the myosin and actin filaments in muscle"
+  book_page: 50
+  pdf_page: 50
 
-id: concept.acetylcholine_receptor
-type: Concept
-canonical_name: Acetylcholine Receptor
-semantic_type: Molecule
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  Receptors present on the sarcolemma of muscle fibers that are activated by secreted acetylcholine.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.sarcolemma
-  - concept.acetylcholine
----
-# ontology: knowledge-compiler/v1
 
-id: concept.t_tubule
-type: Concept
-canonical_name: T-tubule
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
 evidence_level: ""
-relationships: []
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
 definition: >
-  Structures that action potentials continue down to eventually catalyze the release of calcium from the sarcoplasmic reticulum.
+  Thick filaments are anchored to specialized proteins in the M-line, which is in the center of the sarcomere (the center of the H-zone).
+
 attributes: []
-purpose: []
-related_concepts:
-  - concept.sarcoplasmic_reticulum
-  - concept.action_potential
+
+purpose:
+  - anchor thick filaments
+
+related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
 id: concept.sarcoplasmic_reticulum
 type: Concept
 canonical_name: Sarcoplasmic Reticulum
-semantic_type: Anatomical Structure
+semantic_type: AnatomicalStructure
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 50
+  pdf_page: 50
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships: []
+
 definition: >
-  A structure that releases calcium, catalyzed by action potentials continuing down T-tubules.
-attributes: []
-purpose: []
+  Each myofibril is encased by an intricate system of tubules, called the sarcoplasmic reticulum (figure 1.5, page 5), which terminates as vesicles in the vicinity of the Z-lines. Calcium ions are stored in the sarcoplasmic reticulum, and muscle activation leads to the release of these calcium stores to facilitate muscular contraction.
+
+attributes:
+  - intricate_system_of_tubules
+  - stores_calcium_ions
+
+purpose:
+  - store calcium ions
+  - release calcium ions for muscular contraction
+
 related_concepts:
-  - concept.t_tubule
-  - concept.calcium
+  - concept.myofibril
+  - concept.z_line
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.calcium
+id: concept.action_potential
 type: Concept
-canonical_name: Calcium
-semantic_type: Molecule
+canonical_name: Action Potential
+semantic_type: PhysiologicalProcess
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 51
+  pdf_page: 51
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships: []
+
 definition: >
-  A molecule released from the sarcoplasmic reticulum that allows for actin-myosin crossbridging to occur.
-attributes: []
+  Discharge of an action potential (an electrical nerve impulse) arrives nearly simultaneously from the surface to all depths of the muscle fiber.
+
+attributes:
+  - electrical_nerve_impulse
+
 purpose: []
-related_concepts:
-  - concept.sarcoplasmic_reticulum
-  - concept.actin_myosin_crossbridge
+
+related_concepts: []
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.all_or_none_principle
+id: concept.sliding_filament_theory
 type: Concept
-canonical_name: All-or-None Principle
-semantic_type: Principle
+canonical_name: Sliding-Filament Theory of Muscular Contraction
+semantic_type: Theory
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 57
-  pdf_page: 57
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Sliding-Filament Theory of Muscular Contraction"
+  section_title: "Sliding-Filament Theory of Muscular Contraction"
+  book_page: 52
+  pdf_page: 52
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships: []
+
 definition: >
-  The activation of any given motor neuron will lead to the activation and contraction of all of the muscle fibers it innervates.
+  The sliding-filament theory was proposed by Huxley and Hanson in 1954 to mechanistically explain muscular contraction at the molecular level (22). In its simplest form, the sliding-filament theory indicates that actin filaments anchored to each end of the sarcomere slide inward on myosin filaments. This results in Z-lines being pulled toward the center of the sarcomere and in muscle fiber shortening (figure 1.7).
+
 attributes: []
-purpose: []
+
+purpose:
+  - mechanistically explain muscular contraction at the molecular level
+
 related_concepts:
-  - concept.motor_unit
-  - concept.motor_neuron
+  - concept.sarcomere
+  - concept.actin_filament
+  - concept.myosin_filament
+  - concept.z_line
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.twitch
+id: concept.power_stroke
 type: Concept
-canonical_name: Twitch
-semantic_type: Physiological Process
+canonical_name: Power Stroke
+semantic_type: PhysiologicalProcess
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 57
-  pdf_page: 57
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Sliding-Filament Theory of Muscular Contraction"
+  section_title: "Sliding-Filament Theory of Muscular Contraction"
+  book_page: 53
+  pdf_page: 53
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships: []
+
 definition: >
-  The brief contraction that occurs in response to one action potential.
-attributes: []
-purpose: []
+  The energy-dependent inward movement of actin filaments over the myosin filaments through what is termed the power stroke, are the bases for muscle contraction.
+
+attributes:
+  - energy_dependent
+
+purpose:
+  - basis for muscle contraction
+
 related_concepts:
-  - concept.action_potential
-  - concept.motor_unit
+  - concept.actin_filament
+  - concept.myosin_filament
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.twitch_summation
+id: concept.troponin
 type: Concept
-canonical_name: Twitch Summation
-semantic_type: Physiological Process
+canonical_name: Troponin
+semantic_type: Protein
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 57
-  pdf_page: 57
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Excitation–Contraction Coupling Phase"
+  section_title: "Excitation–Contraction Coupling Phase"
+  book_page: 53
+  pdf_page: 53
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships: []
+
 definition: >
-  If a second twitch is elicited from the motor neuron before the innervated muscle fibers completely relax, forces generated from the two twitches summate, resulting in a greater force relative to that which is produced by a single twitch.
-attributes: []
+  Secreted calcium ions bind with a high affinity to the troponin protein, which exists at regular intervals along the actin filament (figure 1.6).
+
+attributes:
+  - binds_calcium_with_high_affinity
+
 purpose: []
+
 related_concepts:
-  - concept.twitch
-  - concept.motor_unit
+  - concept.actin_filament
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.unfused_tetanic_contraction
+id: concept.tropomyosin
 type: Concept
-canonical_name: Unfused Tetanic Contraction
-semantic_type: Physiological Process
+canonical_name: Tropomyosin
+semantic_type: Protein
 aliases: []
+
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 57
-  pdf_page: 57
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Excitation–Contraction Coupling Phase"
+  section_title: "Excitation–Contraction Coupling Phase"
+  book_page: 53
+  pdf_page: 53
+
 provenance:
   extraction: "reasonix-code-v1"
   generation: "reasonix-code-v1"
   reviewed: "auto"
+
 evidence_level: ""
+
 relationships: []
+
 definition: >
-  A high activation frequency leads to the merging of twitches in what has been termed unfused tetanic contraction.
+  This calcium-troponin interaction causes a shift in another protein termed tropomyosin, which is bound to troponin and spans the length of the actin filament.
+
 attributes: []
+
 purpose: []
+
 related_concepts:
-  - concept.twitch_summation
-  - concept.fused_tetanic_contraction
+  - concept.troponin
+  - concept.actin_filament
 ---
 # ontology: knowledge-compiler/v1
 
-id: concept.fused_tetanic_contraction
+id: concept.crossbridge_cycling
 type: Concept
-canonical_name: Fused Tetanic Contraction
-semantic_type: Physiological Process
+canonical_name: Crossbridge Cycling
+semantic_type: PhysiologicalProcess
 aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 57
-  pdf_page: 57
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  A high activation frequency leads to the merging of twitches in what has been termed fused tetanic contraction.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.twitch_summation
-  - concept.unfused_tetanic_contraction
----
-# ontology: knowledge-compiler/v1
 
-id: concept.maximal_tetanic_force
-type: Concept
-canonical_name: Maximal Tetanic Force
-semantic_type: Physiological Process
-aliases: []
 source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
   chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 57
-  pdf_page: 57
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  The force generated by a motor unit during fused tetanic contractions; the maximal force that the motor unit can develop.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.fused_tetanic_contraction
-  - concept.motor_unit
----
-# ontology: knowledge-compiler/v1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Contraction Phase"
+  section_title: "Contraction Phase"
+  book_page: 54
+  pdf_page: 54
 
-id: concept.slow_twitch_muscle_fiber
-type: Concept
-canonical_name: Slow-Twitch Muscle Fiber
-semantic_type: Cell
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
 provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.muscle_fiber
-definition: >
-  Muscle fibers that develop force and relax slowly and have a longer twitch time.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.fast_twitch_muscle_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.fast_twitch_muscle_fiber
-type: Concept
-canonical_name: Fast-Twitch Muscle Fiber
-semantic_type: Cell
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.muscle_fiber
-definition: >
-  Muscle fibers that develop force and relax rapidly, thus exhibiting a shorter twitch time.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.slow_twitch_muscle_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.type_i_muscle_fiber
-type: Concept
-canonical_name: Type I Muscle Fiber
-semantic_type: Cell
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.slow_twitch_muscle_fiber
-definition: >
-  A type of muscle fiber classified by histochemical staining for myosin ATPase content, also known as slow-twitch.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.type_iia_muscle_fiber
-  - concept.type_iix_muscle_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.type_iia_muscle_fiber
-type: Concept
-canonical_name: Type IIa Muscle Fiber
-semantic_type: Cell
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.fast_twitch_muscle_fiber
-definition: >
-  A type of muscle fiber classified by histochemical staining for myosin ATPase content, also known as fast-twitch.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.type_i_muscle_fiber
-  - concept.type_iix_muscle_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.type_iix_muscle_fiber
-type: Concept
-canonical_name: Type IIx Muscle Fiber
-semantic_type: Cell
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.fast_twitch_muscle_fiber
-definition: >
-  A type of muscle fiber classified by histochemical staining for myosin ATPase content, also known as fast-twitch.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.type_i_muscle_fiber
-  - concept.type_iia_muscle_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.myosin_atpase
-type: Concept
-canonical_name: Myosin ATPase
-semantic_type: Molecule
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  An enzyme used for histochemical staining to classify myofibers as type I, type IIa, and type IIx.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.type_i_muscle_fiber
-  - concept.type_iia_muscle_fiber
-  - concept.type_iix_muscle_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.myosin_heavy_chain_isoform
-type: Concept
-canonical_name: Myosin Heavy Chain Isoform
-semantic_type: Molecule
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  Isoforms used for myofiber classification through single fiber isolation techniques and immunohistochemical staining.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.type_i_muscle_fiber
-  - concept.type_iia_muscle_fiber
-  - concept.type_iix_muscle_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.size_principle
-type: Concept
-canonical_name: Size Principle
-semantic_type: Principle
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 60
-  pdf_page: 60
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  Weighted contractions will recruit both lower threshold slow-twitch and higher threshold fast-twitch motor units.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.motor_unit_recruitment
----
-# ontology: knowledge-compiler/v1
-
-id: concept.motor_unit_recruitment
-type: Concept
-canonical_name: Motor Unit Recruitment
-semantic_type: Physiological Process
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 62
-  pdf_page: 62
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  A process to increase muscle force by increasing the number of motor units activated.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.motor_unit
-  - concept.size_principle
----
-# ontology: knowledge-compiler/v1
-
-id: concept.proprioception
-type: Concept
-canonical_name: Proprioception
-semantic_type: Physiological Process
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 64
-  pdf_page: 64
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  The conscious appreciation of the position of body parts with respect to gravity.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.proprioceptor
----
-# ontology: knowledge-compiler/v1
-
-id: concept.proprioceptor
-type: Concept
-canonical_name: Proprioceptor
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 64
-  pdf_page: 64
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  Specialized sensory receptors located within joints, muscles, and tendons that are sensitive to pressure and tension and relay information concerning muscle dynamics to the central nervous system.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.muscle_spindle
-  - concept.proprioception
----
-# ontology: knowledge-compiler/v1
-
-id: concept.muscle_spindle
-type: Concept
-canonical_name: Muscle Spindle
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 65
-  pdf_page: 65
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.proprioceptor
-definition: >
-  Proprioceptors that consist of several modified muscle fibers enclosed in a sheath of connective tissue.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.intrafusal_fiber
-  - concept.extrafusal_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.intrafusal_fiber
-type: Concept
-canonical_name: Intrafusal Fiber
-semantic_type: Cell
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 65
-  pdf_page: 65
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: part_of
-    target: concept.muscle_spindle
-definition: >
-  Modified muscle fibers that run parallel to the normal, or extrafusal, fibers.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.extrafusal_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.extrafusal_fiber
-type: Concept
-canonical_name: Extrafusal Fiber
-semantic_type: Cell
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 65
-  pdf_page: 65
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  Normal muscle fibers that run parallel to intrafusal fibers.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.intrafusal_fiber
----
-# ontology: knowledge-compiler/v1
-
-id: concept.kinesthetic_sense
-type: Concept
-canonical_name: Kinesthetic Sense
-semantic_type: Physiological Process
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 64
-  pdf_page: 64
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  Conscious appreciation of the position of body parts with respect to gravity.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.proprioception
----
-# ontology: knowledge-compiler/v1
-
-id: concept.actin_myosin_crossbridge
-type: Concept
-canonical_name: Actin-Myosin Crossbridge
-semantic_type: Molecular Process
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 57
-  pdf_page: 57
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  The interaction between actin and myosin that occurs when calcium release from the sarcoplasmic reticulum is sufficient.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.calcium
-  - concept.sarcoplasmic_reticulum
----
-# ontology: knowledge-compiler/v1
-
-id: concept.motor_unit_firing_frequency
-type: Concept
-canonical_name: Motor Unit Firing Frequency
-semantic_type: Physiological Process
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 62
-  pdf_page: 62
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships: []
-definition: >
-  The frequency at which motor units are activated; one method of grading muscular force.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.motor_unit
-  - concept.motor_unit_recruitment
----
-# ontology: knowledge-compiler/v1
-
-id: concept.slow_twitch_motor_unit
-type: Concept
-canonical_name: Slow-Twitch Motor Unit
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.motor_unit
-definition: >
-  Motor units that develop force and relax slowly and have a longer twitch time.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.fast_twitch_motor_unit
----
-# ontology: knowledge-compiler/v1
-
-id: concept.fast_twitch_motor_unit
-type: Concept
-canonical_name: Fast-Twitch Motor Unit
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 58
-  pdf_page: 58
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.motor_unit
-definition: >
-  Motor units that develop force and relax rapidly, thus exhibiting a shorter twitch time.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.slow_twitch_motor_unit
----
-# ontology: knowledge-compiler/v1
-
-id: concept.fast_twitch_fatigue_resistant_motor_unit
-type: Concept
-canonical_name: Fast-Twitch/Fatigue-Resistant Motor Unit
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.fast_twitch_motor_unit
-definition: >
-  A type of motor unit that is fast-twitch and fatigue-resistant.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.fast_twitch_fatigable_motor_unit
----
-# ontology: knowledge-compiler/v1
-
-id: concept.fast_twitch_fatigable_motor_unit
-type: Concept
-canonical_name: Fast-Twitch/Fatigable Motor Unit
-semantic_type: Anatomical Structure
-aliases: []
-source:
-  book: "Essentials of Strength Training and Conditioning"
-  edition: 5
-  chapter: 1
-  chapter_title: "Structure and Function of Body Systems"
-  section: "01.02"
-  section_title: "Neuromuscular System"
-  book_page: 56
-  pdf_page: 56
-provenance:
-  extraction: "reasonix-code-v1"
-  generation: "reasonix-code-v1"
-  reviewed: "auto"
-evidence_level: ""
-relationships:
-  - predicate: is_a
-    target: concept.fast_twitch_motor_unit
-definition: >
-  A type of motor unit that is fast-twitch and fatigable.
-attributes: []
-purpose: []
-related_concepts:
-  - concept.fast_twitch_fatigue_resistant_motor_unit
----
-# ontology: knowledge-compiler/v1
-
+ 

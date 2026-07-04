@@ -1,0 +1,41 @@
+id: concept.respiratory_system
+type: Concept
+canonical_name: Respiratory System
+semantic_type: AnatomicalSystem
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Respiratory System
+  section_title: Respiratory System
+  book_page: 77
+  pdf_page: 77
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The primary function of the respiratory system is the basic exchange
+  of oxygen and carbon dioxide. The anatomy of the human respiratory system is shown
+  in figure 1.15. As air passes through the nose, the nasal cavities perform three
+  distinct functions: warming, humidifying, and purifying the air (41). Air is distributed
+  to the lungs by way of the trachea, bronchi, and bronchioles. The trachea is called
+  the first-generation respiratory passage, and the right and left main bronchi are
+  the second-generation passages; each division thereafter is an additional generation
+  (bronchioles). There are approximately 23 generations before the air finally reaches
+  the alveoli, where gases are exchanged in respiration (41).
+
+  '
+attributes:
+- exchanges_oxygen
+- exchanges_carbon_dioxide
+related_concepts:
+- concept.nasal_cavities
+- concept.trachea
+- concept.bronchi
+- concept.bronchioles
+- concept.alveoli
+- concept.lungs

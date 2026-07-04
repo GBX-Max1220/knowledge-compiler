@@ -1,0 +1,495 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.leucine_threshold_for_muscle_protein_synthesis
+type: Concept
+canonical_name: Leucine Threshold for Muscle Protein Synthesis
+semantic_type: Physiological Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Norton and coworkers (159) demonstrated in rodent models that a leucine threshold for stimulating muscle protein synthesis exists.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.leucine_as_rate_limiting_factor_for_muscle_protein_synthesis
+type: Concept
+canonical_name: Leucine as Rate-Limiting Factor for Muscle Protein Synthesis
+semantic_type: Physiological Mechanism
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Based on this pioneering research, many nutrition researchers now believe that the leucine content in any given protein intake is the rate-limiting factor in terms of maximizing muscle protein synthesis within the capacity of skeletal muscle rather than simply the total amount of protein ingested.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.leucine_enriched_eaa_beverage_elevates_muscle_protein_synthesis
+type: Concept
+canonical_name: Leucine-Enriched EAA Beverage Elevates Muscle Protein Synthesis
+semantic_type: Research Finding
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Pasiakos and colleagues (166) reported that a leucine-enriched EAA beverage resulted in a significant elevation of muscle protein synthesis compared to a normal leucine-containing EAA beverage. In this study, trained males ingested one of two different 10-gram EAA beverages during cycling exercise—one containing 3.5 grams of leucine (46 mg/kg body mass) and the other containing 1.87 grams of leucine (~25 mg/kg body mass). After the exercise bout (during a 3-hr assessment period), muscle protein synthesis was 33% greater in the leucine-enriched EAA beverage.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.role_of_leucine_in_muscle_protein_synthesis
+type: Concept
+canonical_name: Role of Leucine in Muscle Protein Synthesis
+semantic_type: Physiological Mechanism
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The branched-chain amino acid leucine is a key regulator in stimulating muscle protein synthesis. Leucine directly activates the Akt/mTOR pathway in skeletal muscle, which is a key pathway in skeletal muscle protein synthesis.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.no_known_adverse_effects_of_bcaa_or_eaa_supplementation
+type: Warning
+canonical_name: No Known Adverse Effects of BCAA or EAA Supplementation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  No known reports or scientific studies have investigated the adverse effects of branched-chain amino acid or EAA supplementation.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.arginine
+type: Concept
+canonical_name: Arginine
+semantic_type: Amino Acid
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Arginine is a conditionally essential amino acid and has crucial roles in nutrition and metabolism. Arginine is required for the synthesis of protein and creatine, and its metabolism results in the production of nitric oxide.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.oral_arginine_supplementation_not_recommended_for_healthy_athletes
+type: Recommendation
+canonical_name: Oral Arginine Supplementation Not Recommended for Healthy Athletes
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 703
+  pdf_page: 703
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Due to its inability to increase nitric oxide production, enhance muscle blood flow, or improve several modes of endurance exercise, oral arginine supplementation is not recommended for healthy athletes.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.adverse_effects_of_high_dose_arginine_supplementation
+type: Warning
+canonical_name: Adverse Effects of High-Dose Arginine Supplementation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 703
+  pdf_page: 703
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The most common adverse reactions to higher doses (13-30 g) include gastrointestinal distress consistent with nausea, abdominal cramps, and diarrhea (45).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.beta_hydroxy_beta_methylbutyrate_hmb
+type: Concept
+canonical_name: β-Hydroxy-β-Methylbutyrate (HMB)
+semantic_type: Metabolite
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 703
+  pdf_page: 703
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  β-Hydroxy-β-methylbutyrate (HMB) is a derivative of the EAA leucine and its metabolite α-ketoisocaproic acid.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hmb_mechanism_of_action
+type: Concept
+canonical_name: HMB Mechanism of Action
+semantic_type: Physiological Mechanism
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 703
+  pdf_page: 703
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Evidence shows that HMB plays a role in the regulation of muscle protein breakdown in the body (decreases protein breakdown) by inhibiting the ubiquitin–proteasome pathway (193).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hmb_reduces_urinary_3_methyl_histidine_in_untrained_subjects
+type: Concept
+canonical_name: HMB Reduces Urinary 3-Methyl-Histidine in Untrained Subjects
+semantic_type: Research Finding
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 704
+  pdf_page: 704
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  After the first week of the resistance training protocol, urinary 3-methyl-histidine was increased by 94% in the control group and by 85% and 50% in those individuals ingesting 1.5 and 3 grams of HMB per day, respectively. During the second week of the study, urinary 3-methyl-histidine levels were still elevated by 27% in the control group but were 4% and 15% below basal levels for the 1.5 and 3 grams of HMB per day groups.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hmb_preserves_lean_body_mass_during_bed_rest_in_older_adults
+type: Concept
+canonical_name: HMB Preserves Lean Body Mass During Bed Rest in Older Adults
+semantic_type: Research Finding
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 704
+  pdf_page: 704
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  When older adults were confined to complete bed rest (a catabolic state) for 10 days, it was reported that the subjects who were supplemented with 3 grams of HMB per day lost significantly less lean body mass (lost only 0.37 lb [0.17 kg]) as compared to those subjects who were supplemented with a placebo (lost 4.5 lb [2.04 kg]) (55).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.hmb_effectiveness_requires_adequate_training_stimulus
+type: Recommendation
+canonical_name: HMB Effectiveness Requires Adequate Training Stimulus
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 705
+  pdf_page: 705
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  β-Hydroxy-β-methylbutyrate is most effective when an adequate training stimulus is provided. For untrained individuals, this does not likely require high-volume training. For trained individuals, a high-intensity, high-volume resistance training program is likely needed for benefits to be realized with HMB supplementation.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.no_known_adverse_effects_of_hmb_supplementation
+type: Warning
+canonical_name: No Known Adverse Effects of HMB Supplementation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 705
+  pdf_page: 705
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The safety of HMB supplementation has been widely studied, and currently, the consensus is that HMB presents no known adverse effects.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_buffering_capacity_mbc
+type: Concept
+canonical_name: Muscle Buffering Capacity (MBC)
+semantic_type: Physiological Capacity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 706
+  pdf_page: 706
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The ability to regulate H+ concentration in skeletal muscle during high-intensity exercise has been termed muscle buffering capacity (MBC).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.beta_alanine
+type: Concept
+canonical_name: β-Alanine
+semantic_type: Amino Acid
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 706
+  pdf_page: 706
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  β-Alanine is a nonessential amino acid that is common in many foods that we eat, such as chicken.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.beta_alanine_increases_muscle_carnosine_by_64_percent_in_four_weeks
+type: Concept
+canonical_name: β-Alanine Increases Muscle Carnosine by 64% in Four Weeks
+semantic_type: Research Finding
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 706
+  pdf_page: 706
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Harris and colleagues (104) reported that four weeks of supplementing with β-alanine (4-6 g/day) resulted in a mean increase of 64% in skeletal muscle β-alanine concentrations.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.carnosine_contribution_to_muscle_buffering_capacity
+type: Concept
+canonical_name: Carnosine Contribution to Muscle Buffering Capacity
+semantic_type: Physiological Mechanism
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Dietary Supplements"
+  section: "12.3"
+  section_title: "Dietary Supplements"
+  book_page: 706
+  pdf_page: 706
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In humans, carnosine is found primarily in fast-twitch (type

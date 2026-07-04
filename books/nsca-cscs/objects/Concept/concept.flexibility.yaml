@@ -1,0 +1,26 @@
+id: concept.flexibility
+type: Concept
+canonical_name: Flexibility
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1431
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Flexibility is a joint''s total range of motion.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

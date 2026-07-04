@@ -1,0 +1,28 @@
+id: concept.sports_dietitian
+type: Concept
+canonical_name: Sports Dietitian
+semantic_type: Role
+aliases:
+- Registered Dietitian Nutritionist
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 538
+  pdf_page: 538
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A registered dietitian (also referred to as a registered dietitian nutritionist)
+  with specific education and experience in sports nutrition.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,30 @@
+id: procedure.cross_arm_in_front_of_chest_upper_back_stretch
+type: Procedure
+canonical_name: Cross Arm in Front of Chest (Upper Back Stretch)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 900
+  pdf_page: 900
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: '1. Stand or sit with the left elbow slightly flexed (15-30 degrees) and
+  the arm across the body (i.e., shoulder in horizontal adduction). 2. Grasp the upper
+  arm just above the elbow, placing the right hand on the posterior side of the upper
+  arm. 3. Pull the left arm across the chest (toward the right) with the right hand.
+  4. Repeat on the other side.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

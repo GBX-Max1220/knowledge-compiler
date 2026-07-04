@@ -1,0 +1,37 @@
+id: recommendation.moderately_arched_lower_back_resistance_training
+type: Recommendation
+canonical_name: Moderately Arched Lower Back During Resistance Training
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 163
+  pdf_page: 163
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Thus, resistance training exercises should generally be performed
+  with the lower back in a moderately arched position to reduce risk of damage to
+  the disks.
+
+  '
+rationale: 'Reduces risk of damage to the disks.
+
+  '
+conditions:
+- Resistance training exercises
+actions:
+- Perform exercises with lower back in a moderately arched position
+contraindications: []
+citations: []
+related_concepts:
+- concept.lumbar_spine
+- concept.resistance_training

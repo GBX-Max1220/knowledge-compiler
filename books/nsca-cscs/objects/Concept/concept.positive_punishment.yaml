@@ -1,0 +1,27 @@
+id: concept.positive_punishment
+type: Concept
+canonical_name: Positive Punishment
+semantic_type: BehavioralTechnique
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.2'
+  section_title: Ideal Performance State
+  book_page: 485
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The presentation of an act, object, or event following a behavior that
+  could decrease the behavior’s occurrence.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

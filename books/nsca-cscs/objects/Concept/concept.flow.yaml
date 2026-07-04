@@ -1,0 +1,30 @@
+id: concept.flow
+type: Concept
+canonical_name: Flow
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 503
+  pdf_page: 503
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Athletes describe flow as effortless movement, complete trust in movements,
+  and remarkable self-control.
+
+  '
+attributes:
+- effortless movement
+- complete trust in movements
+- remarkable self-control
+purpose: []
+related_concepts: []

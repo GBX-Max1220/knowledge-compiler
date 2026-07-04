@@ -1,0 +1,41 @@
+id: procedure.diaphragmatic_breathing_technique
+type: Procedure
+canonical_name: Diaphragmatic Breathing Technique
+semantic_type: Relaxation Technique
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: 'Energy Management: Arousal and Anxiety'
+  section: '9.3'
+  section_title: 'Energy Management: Arousal and Anxiety'
+  book_page: 491
+  pdf_page: 491
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+steps:
+- step_number: 1
+  description: Direct attention to the abdominal region.
+- step_number: 2
+  description: Start from a standing position so that breathing is not inhibited.
+- step_number: 3
+  description: Let the arms hang loosely and concentrate on relaxing, particularly
+    in the neck and shoulder region, by first taking a couple of deep breaths.
+- step_number: 4
+  description: Relax the abdominal muscles so that they appear flaccid.
+- step_number: 5
+  description: Initiate each breath simultaneously with the relaxed protrusion of
+    the abdomen; placing a hand on the abdomen gives feedback to ensure that the abdomen
+    protrudes with the initiation of each breath.
+- step_number: 6
+  description: With each breath the abdomen should become naturally distended.
+- step_number: 7
+  description: When this portion of the technique is performed properly, the diaphragm
+    (a muscle at the base of the lungs) contracts and drops, allowing a deeper breath
+    to occur. This is the first stage of taking a maximal inhalation.
+- null

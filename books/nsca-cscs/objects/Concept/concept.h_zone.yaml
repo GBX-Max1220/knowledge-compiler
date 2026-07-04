@@ -4,12 +4,12 @@ canonical_name: H-zone
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
   chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.01'
-  section_title: Introduction and Musculoskeletal System
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.5
+  section_title: Sectional view of a muscle fiber
   book_page: 48
   pdf_page: 48
 provenance:
@@ -20,8 +20,8 @@ evidence_level: ''
 relationships:
 - predicate: part_of
   target: concept.sarcomere
-definition: 'The area in the center of the sarcomere, where only myosin filaments
-  are present.
+definition: 'The H-zone is the area in the center of the sarcomere, where only myosin
+  filaments are present.
 
   '
 attributes: []

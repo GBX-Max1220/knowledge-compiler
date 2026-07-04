@@ -1,0 +1,30 @@
+id: recommendation.carbohydrate_intake_glycogen_replenishment
+type: Recommendation
+canonical_name: Carbohydrate Intake for Glycogen Replenishment After Exercise
+semantic_type: NutritionGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 631
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Glycogen synthesis occurs at a rapid rate when large amounts of carbohydrate,
+  1.0 to 1.85 grams per kilogram body weight per hour, are consumed immediately after
+  exercise or competition and at regular intervals every 15 to 60 minutes thereafter
+  for up to 5 hours (61).
+
+  '
+attributes: []
+purpose:
+- replenish glycogen stores after exercise
+related_concepts: []

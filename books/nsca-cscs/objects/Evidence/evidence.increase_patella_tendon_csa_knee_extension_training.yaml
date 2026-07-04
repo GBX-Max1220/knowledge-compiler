@@ -1,0 +1,24 @@
+id: evidence.increase_patella_tendon_csa_knee_extension_training
+type: Evidence
+canonical_name: Increase in Patella Tendon CSA After Knee Extension Training
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 319
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+finding: Patella tendon CSA increased by 5% to 6% after nine weeks of knee extension
+  training.
+context: tendon adaptations
+citations:
+- '151'

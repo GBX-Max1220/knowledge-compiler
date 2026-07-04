@@ -1,0 +1,35 @@
+id: concept.hold_relax
+type: Concept
+canonical_name: Hold-relax
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Mobility Training
+  section: '15.2'
+  section_title: Mobility Training
+  book_page: 885
+  pdf_page: 885
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.proprioceptive_neuromuscular_facilitation
+definition: 'The hold-relax technique begins with a passive prestretch that is held
+  at the point of mild discomfort for 10 seconds (figure 15.3). The partner then applies
+  a hip flexion force and instructs the athlete, "Hold and do not let me move the
+  leg." The athlete holds and resists the movement so that an isometric muscle action
+  occurs and is held for 6 seconds (figure 15.4). The athlete then relaxes, and a
+  passive stretch is performed and held for 30 seconds (figure 15.5). The final stretch
+  should be of greater magnitude due to autogenic inhibition (i.e., activation of
+  the hamstrings).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

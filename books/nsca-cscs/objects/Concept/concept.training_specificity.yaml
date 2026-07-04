@@ -1,0 +1,29 @@
+id: concept.training_specificity
+type: Concept
+canonical_name: Training Specificity
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  book_page: 1513
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Training specificity refers to the distinct adaptations to the physiological
+  systems that arise from the training program.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

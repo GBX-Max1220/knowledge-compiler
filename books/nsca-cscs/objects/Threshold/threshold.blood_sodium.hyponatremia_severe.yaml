@@ -1,0 +1,34 @@
+id: threshold.blood_sodium.hyponatremia_severe
+type: Threshold
+canonical_name: Severe Hyponatremia Blood Sodium
+semantic_type: Laboratory
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.5'
+  section_title: Minerals
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.blood_sodium.hyponatremia
+- predicate: adjacent_to
+  target: threshold.blood_sodium.hyponatremia_critical
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: below 125
+unit: mmol/L
+condition: blood sodium level
+context: This leads to intracellular swelling, and, when blood sodium levels fall
+  below 125 mmol/L, to headaches, nausea, vomiting, muscle cramps, swollen hands and
+  feet, restlessness, and disorientation.

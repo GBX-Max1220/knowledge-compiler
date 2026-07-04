@@ -1,0 +1,29 @@
+id: concept.phosphagen_system
+type: Concept
+canonical_name: Phosphagen System
+semantic_type: Metabolic Pathway
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Phosphagen System
+  section_title: Phosphagen System
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The phosphagen system provides ATP primarily for short-term, high-intensity
+  activities (e.g., resistance training and sprinting) and is highly active at the
+  start of all exercise regardless of intensity (62, 70, 155).
+
+  '
+attributes: []
+purpose:
+- provide ATP for short-term, high-intensity activities
+related_concepts: []

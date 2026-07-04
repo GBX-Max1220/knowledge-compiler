@@ -1,0 +1,27 @@
+id: concept.arousal
+type: Concept
+canonical_name: Arousal
+semantic_type: State
+aliases: []
+source:
+  book: Essentials of Strength and Training Conditioning
+  edition: 5
+  chapter: 9
+  chapter_title: Psychological Foundations of Performance
+  section: '9.1'
+  section_title: Psychological Foundations of Performance
+  book_page: 472
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Arousal is simply a blend of physiological and psychological activation
+  in an individual and refers to the intensity of motivation at any given moment (64).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

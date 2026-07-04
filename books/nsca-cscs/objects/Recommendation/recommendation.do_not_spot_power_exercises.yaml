@@ -1,0 +1,29 @@
+id: recommendation.do_not_spot_power_exercises
+type: Recommendation
+canonical_name: Do Not Spot Power Exercises
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16'
+  section_title: Do Not Spot Power Exercises
+  book_page: 957
+  pdf_page: 957
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Whereas spotting is recommended in the types of exercises previously
+  described, it is not advised in power exercises.
+
+  '
+target_audience: []
+action:
+- do not spot
+context:
+- power exercises
+rationale: []

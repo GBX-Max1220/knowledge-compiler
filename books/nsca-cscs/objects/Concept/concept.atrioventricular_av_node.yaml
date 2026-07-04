@@ -1,0 +1,38 @@
+id: concept.atrioventricular_av_node
+type: Concept
+canonical_name: Atrioventricular (AV) Node
+semantic_type: Anatomical Structure
+aliases:
+- AV node
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Cardiovascular System — Heart — Conduction System
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.conduction_system
+definition: 'The atrioventricular (AV) node is where the impulse is delayed slightly
+  before passing into the ventricles. The AV node is located in the posterior septal
+  wall of the right atrium (41). It is primarily the AV node and its associated conductive
+  fibers that delay each impulse entering into the ventricles. Its discharge rate
+  is 40-60 times per minute.
+
+  '
+attributes:
+- located in posterior septal wall of right atrium
+- discharge rate: 40-60 times per minute
+purpose:
+- delay impulse before passing into ventricles
+related_concepts:
+- concept.sinoatrial_sa_node
+- concept.atrioventricular_av_bundle

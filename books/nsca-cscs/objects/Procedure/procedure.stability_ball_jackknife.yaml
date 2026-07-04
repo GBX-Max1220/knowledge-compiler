@@ -1,0 +1,59 @@
+id: procedure.stability_ball_jackknife
+type: Procedure
+canonical_name: Stability Ball Jackknife
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Nontraditional Implements
+  section: '17.4'
+  section_title: Nontraditional Implements
+  book_page: 1146
+  pdf_page: 1146
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An exercise performed on a stability ball that involves rolling the ball
+  toward the chest by flexing the hips and knees while keeping the torso rigid.
+
+  '
+attributes:
+- requires_stability_ball
+- closed_kinetic_chain
+purpose:
+- strengthen rectus abdominis
+- strengthen iliopsoas
+related_concepts:
+- concept.stability_ball
+- concept.rectus_abdominis
+- concept.iliopsoas
+steps:
+- phase: Starting Position
+  description: 'Kneel down in front of a stability ball. Position the body facing
+    away from the ball. In a quadruped position with the hands underneath the shoulders
+    and the knees extended, place both feet on the stability ball. Isometrically hold
+    the torso in a rigid position with the elbows fully extended and the head in a
+    neutral position. All repetitions begin from this position.
+
+    '
+- phase: Forward Movement Phase
+  description: 'Keeping the knees and elbows fully extended and the torso in a rigid
+    position, begin the exercise by raising the hips slightly and flexing the hips
+    and knees to roll the ball toward the chest. Continue rolling the ball forward
+    until the hips and knees are fully flexed. Keep the shoulders over the hands and
+    the head in a neutral position.
+
+    '
+- phase: Backward Movement Phase
+  description: 'Return to the starting position by allowing the hips and knees to
+    extend under control. Keep the elbows fully extended and the torso held rigid.
+
+    '
+muscles_involved:
+- rectus abdominis
+- iliopsoas

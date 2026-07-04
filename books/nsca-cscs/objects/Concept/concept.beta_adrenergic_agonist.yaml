@@ -1,0 +1,30 @@
+id: concept.beta_adrenergic_agonist
+type: Concept
+canonical_name: Beta-Adrenergic Agonist
+semantic_type: Substance
+aliases:
+- Beta-Agonists
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 695
+  pdf_page: 695
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Synthetic β-adrenergic agonists, or β-agonists, are substances chemically
+  related to epinephrine, a hormone produced in the adrenal medulla that regulates
+  physiological effects, such as lipolysis (the breakdown of fat) and thermogenesis
+  (increased energy expenditure resulting in the production of heat).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

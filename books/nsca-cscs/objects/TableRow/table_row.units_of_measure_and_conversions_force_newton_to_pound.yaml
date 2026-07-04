@@ -1,0 +1,9 @@
+id: table_row.units_of_measure_and_conversions_force_newton_to_pound
+type: TableRow
+canonical_name: Units of Measure and Conversions Force Newton to Pound
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2

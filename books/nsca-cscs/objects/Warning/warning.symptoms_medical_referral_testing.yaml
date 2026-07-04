@@ -1,0 +1,52 @@
+id: warning.symptoms_medical_referral_testing
+type: Warning
+canonical_name: Symptoms Warranting Medical Referral During Testing
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing
+  section: '13.4'
+  section_title: Test Selection
+  book_page: 752
+  pdf_page: 752
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Medical referral may be warranted for an athlete who persistently has
+  any of the following symptoms: chest pressure, pain, or discomfort; listlessness;
+  light-headedness; dizziness; confusion; headache; deeply reddened or cold and clammy
+  skin; irregular pulse; bone or joint pain; blurred vision; nausea; or shortness
+  of breath, rapid pulse, or weakness either not commensurate with the level of exertion
+  or unresponsive to rest. Such symptoms can occur long after exercise is terminated.
+  Even symptoms that occur only once, if severe (such as loss of consciousness), call
+  for immediate medical attention.
+
+  '
+attributes:
+- chest pressure
+- chest pain
+- chest discomfort
+- listlessness
+- light-headedness
+- dizziness
+- confusion
+- headache
+- deeply reddened skin
+- cold and clammy skin
+- irregular pulse
+- bone pain
+- joint pain
+- blurred vision
+- nausea
+- shortness of breath
+- rapid pulse
+- weakness
+purpose: []
+related_concepts:
+- concept.medical_referral

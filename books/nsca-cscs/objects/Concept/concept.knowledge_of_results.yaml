@@ -1,0 +1,29 @@
+id: concept.knowledge_of_results
+type: Concept
+canonical_name: Knowledge of Results
+semantic_type: Feedback Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.6'
+  section_title: Psychological Techniques
+  book_page: 529
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.feedback_type
+definition: 'Knowledge of results provides the athlete with information about the
+  execution of the task goal.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

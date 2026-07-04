@@ -1,0 +1,38 @@
+id: recommendation.staff_preparedness_requirements
+type: Recommendation
+canonical_name: Staff Preparedness Requirements
+semantic_type: Recommendation
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1787
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Maintenance of professional certification Maintenance of certification
+  in standard first aid, CPR, and AED Review of emergency response procedures Rudimentary
+  first aid procedures annually Common training facility injuries and their prevention
+  Building evacuation plan Knowledge and understanding of program policies and procedures
+  Review of room capacity and safe supervision ratios Review of preparticipation screening
+  and clearance procedure Review of personal and professional liability, negligence,
+  and insurance coverage issues Knowledge and understanding of governing body rules
+  and regulations Review of general knowledge of regulations Review of rules specific
+  to administering the strength and conditioning program Knowledge and understanding
+  of cleaning and maintenance issues and needs Knowledge and understanding of program
+  philosophy and instruction methods Knowledge of training, tracking, and testing
+  software Technique and drill instruction Body composition guidelines and nutritional
+  consultation Motivational issues, such as pushing athletes beyond physical limits,
+  athletes who overtrain, or athletes who refuse to follow program recommendations
+
+  '
+rationale: []
+supporting_evidence: []

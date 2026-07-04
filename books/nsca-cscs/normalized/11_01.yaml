@@ -1,0 +1,522 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.relative_energy_deficiency_in_sport
+type: Concept
+canonical_name: Relative Energy Deficiency in Sport
+semantic_type: Condition
+aliases:
+  - RED-S
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.low_energy_availability
+definition: >
+  Relative energy deficiency in sport (RED-S) encompasses various physiological dysfunctions resulting from low energy availability (LEA), where an athlete's energy intake does not match the energy expended during exercise. This mismatch affects metabolic rate, menstrual function, bone health, immunity, protein synthesis, and cardiovascular health, among others.
+attributes:
+  - metabolic_rate
+  - menstrual_function
+  - bone_health
+  - immunity
+  - protein_synthesis
+  - cardiovascular_health
+purpose: []
+related_concepts:
+  - concept.low_energy_availability
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.energy_availability
+type: Concept
+canonical_name: Energy Availability
+semantic_type: Metric
+aliases:
+  - EA
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 650
+  pdf_page: 650
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.metric
+definition: >
+  LEA is quantified by energy availability (EA), calculated as energy intake minus exercise energy expenditure, relative to fat-free mass (FFM).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.low_energy_availability
+  - concept.fat_free_mass
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.energy_availability.optimal
+type: Threshold
+canonical_name: Optimal Energy Availability
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 650
+  pdf_page: 650
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.energy_availability.low
+definition: ""
+attributes: []
+purpose: []
+related_concepts:
+  - concept.energy_availability
+value: "45"
+unit: "kilocalories per kilogram FFM per day"
+condition: "Optimal EA for healthy function"
+citations:
+  - "25"
+  - "88"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.energy_availability.low
+type: Threshold
+canonical_name: Low Energy Availability
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 650
+  pdf_page: 650
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.energy_availability.optimal
+definition: ""
+attributes: []
+purpose: []
+related_concepts:
+  - concept.energy_availability
+value: "30"
+unit: "kilocalories per kilogram FFM per day"
+condition: "severe perturbations can occur below"
+citations:
+  - "25"
+  - "88"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.anorexia_nervosa
+type: Concept
+canonical_name: Anorexia Nervosa
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 652
+  pdf_page: 652
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Anorexia nervosa is characterized by a distorted body image and an intense fear of gaining weight or becoming fat, leading those with this disease to excessive calorie restriction and severe weight loss (8).
+attributes:
+  - distorted_body_image
+  - intense_fear_of_gaining_weight
+  - excessive_calorie_restriction
+  - severe_weight_loss
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.binge_eating_disorder
+type: Concept
+canonical_name: Binge-Eating Disorder
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 653
+  pdf_page: 653
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Binge-eating disorder is characterized by repeated episodes, occurring at least once a week for a period of three weeks, of uncontrolled binge eating (eating significantly more food in a short period of time than most people would eat under the same circumstances) (55).
+attributes:
+  - repeated_episodes
+  - uncontrolled_binge_eating
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bulimia_nervosa
+type: Concept
+canonical_name: Bulimia Nervosa
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 654
+  pdf_page: 654
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Bulimia nervosa is characterized by recurrent consumption of food in amounts significantly greater than would customarily be consumed in a discrete period of time—for example, an entire pizza and a half-gallon of ice cream, plus a package of cookies. Purging follows episodes of binge eating and may include one or more of the following: self-induced vomiting, intense exercise, laxative use, or diuretic use. The bingeing and purging occur at least once a week for a period of three months (55).
+attributes:
+  - recurrent_consumption_of_food
+  - purging
+  - self_induced_vomiting
+  - intense_exercise
+  - laxative_use
+  - diuretic_use
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.avoidant_restrictive_food_intake_disorder
+type: Concept
+canonical_name: Avoidant/Restrictive Food Intake Disorder
+semantic_type: Condition
+aliases:
+  - ARFID
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 654
+  pdf_page: 654
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Avoidant/restrictive food intake disorder (ARFID) is an eating or feeding disturbance, including apparent lack of interest in eating or food; avoidance based on the sensory characteristics of food; or concern about aversive consequences of eating. This disorder is manifested by persistent failure to meet appropriate nutritional or energy needs associated with one (or more) of the following: Significant weight loss (or failure to achieve expected weight gain or faltering growth in children); Significant nutritional deficiency; Dependence on enteral feeding or oral nutritional supplements; Marked interference with psychosocial functioning.
+attributes:
+  - lack_of_interest_in_eating
+  - avoidance_based_on_sensory_characteristics
+  - concern_about_aversive_consequences
+  - significant_weight_loss
+  - significant_nutritional_deficiency
+  - dependence_on_enteral_feeding
+  - dependence_on_oral_nutritional_supplements
+  - marked_interference_with_psychosocial_functioning
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pica
+type: Concept
+canonical_name: Pica
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 655
+  pdf_page: 655
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  People with pica eat nonnutritive substances for a period of at least one month. Common nonnutritive substances include clay, laundry starch, ice, cigarette butts, hair, or chalk (68).
+attributes:
+  - eating_nonnutritive_substances
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.rumination_disorder
+type: Concept
+canonical_name: Rumination Disorder
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 655
+  pdf_page: 655
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Rumination involves chewing, reswallowing, or spitting of regurgitated food. To be classified as having this disorder, one must display this behavior, unrelated to any medical condition, for at least one month.
+attributes:
+  - chewing_regurgitated_food
+  - reswallowing_regurgitated_food
+  - spitting_regurgitated_food
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.basal_metabolic_rate
+type: Concept
+canonical_name: Basal Metabolic Rate
+semantic_type: Metric
+aliases:
+  - BMR
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 642
+  pdf_page: 642
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.total_energy_expenditure
+definition: >
+  Basal metabolic rate (BMR) is by far the largest contributor to total energy expenditure, accounting for approximately 65% to 70% of daily energy expenditure (63, 114). It is a measure of the calories required for maintaining normal body functions such as respiration, blood circulation, and gastrointestinal and renal processing.
+attributes:
+  - respiration
+  - blood_circulation
+  - gastrointestinal_processing
+  - renal_processing
+purpose: []
+related_concepts:
+  - concept.resting_metabolic_rate
+  - concept.total_energy_expenditure
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.resting_metabolic_rate
+type: Concept
+canonical_name: Resting Metabolic Rate
+semantic_type: Metric
+aliases:
+  - RMR
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 642
+  pdf_page: 642
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.metabolic_rate
+definition: >
+  Resting metabolic rate is often used instead of BMR due to the ease of measurement (an overnight fast is not required), yet it is 10% to 20% higher than BMR due to increased energy expenditure resulting from recent food intake or physical activity completed earlier in the day.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.basal_metabolic_rate
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.thermic_effect_of_food
+type: Concept
+canonical_name: Thermic Effect of Food
+semantic_type: Metric
+aliases:
+  - diet-induced thermogenesis
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 643
+  pdf_page: 643
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.total_energy_expenditure
+definition: >
+  The thermic effect of food, also known as diet-induced thermogenesis, is the increase in energy expenditure above the RMR that can be measured for several hours following a meal. The thermic effect of food includes the energy cost of digestion, absorption, metabolism, and storage of food in the body.
+attributes:
+  - digestion
+  - absorption
+  - metabolism
+  - storage
+purpose: []
+related_concepts:
+  - concept.resting_metabolic_rate
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.body_mass_index
+type: Concept
+canonical_name: Body Mass Index
+semantic_type: Metric
+aliases:
+  - BMI
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  At a population level, overweight and obesity are typically classified based on a body mass index (BMI) of 25 to 29.9 kg/m2 and ≥30 kg/m2, respectively (table 11.5).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.overweight
+  - concept.obesity
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.carbohydrate_loading
+type: Concept
+canonical_name: Carbohydrate Loading
+semantic_type: Strategy
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 620
+  pdf_page: 620
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Although there are many different variations of carbohydrate loading, all include high carbohydrate intake in the days leading up to an event to maximize glycogen stores and therefore carbohydrate availability in the later stages of the event (32).
+attributes:
+  - high_carbohydrate_intake
+purpose:
+  - maximize glycogen stores
+  - maximize carbohydrate availability
+related_concepts:
+  - concept.glycogen
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.disordered_eating
+type: Concept
+canonical_name: Disordered Eating
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition Strategies for Maximizing Performance"
+  section: "11.1"
+  section_title: "Nutrition Strategies for Maximizing Performance"
+  book_page: 652
+  pdf_page: 652
+provenance:
+  extraction: "reasonix-code-v1"

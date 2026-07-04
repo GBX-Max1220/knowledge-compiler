@@ -1,0 +1,27 @@
+id: concept.macrotrauma
+type: Concept
+canonical_name: Macrotrauma
+semantic_type: Injury Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1636
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Macrotrauma is a specific, sudden episode of overload injury to a given
+  tissue, resulting in disrupted tissue integrity.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,36 @@
+id: concept.phosphagen_depletion_and_repletion
+type: Concept
+canonical_name: Phosphagen Depletion and Repletion
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Substrate Depletion and Repletion
+  section: '3.3'
+  section_title: Substrate Depletion and Repletion
+  book_page: 203
+  pdf_page: 203
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.energy_substrates
+definition: 'Phosphagen concentrations in muscle are more rapidly depleted as a result
+  of high-intensity anaerobic exercise compared to aerobic exercise (66, 89). CP can
+  decrease markedly (50%-70%) during the first stage of high-intensity exercise of
+  short and moderate duration (5-30 s) and can be almost completely depleted as a
+  result of very intense exercise to exhaustion (86, 93, 97, 110). Muscle ATP concentrations
+  may decrease only slightly (34) or may decrease up to 50% to 60% (145) of the pre-exercise
+  levels during experimentally induced fatigue.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.cp_depletion_range_during_high_intensity_exercise
+- concept.atp_depletion_range_during_fatigue

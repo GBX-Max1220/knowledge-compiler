@@ -1,0 +1,27 @@
+id: evidence.strength_retention_detraining_14_days_trained_weightlifters
+type: Evidence
+canonical_name: Strength Retention During Detraining (14 Days in Trained Weightlifters)
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Cardiovascular Adaptations
+  book_page: 333
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+evidence_text: 'In trained weightlifters, removing the training stimulus for 14 days
+  did not significantly affect 1RM strength performance in the bench press (−1.7%)
+  and squat (−0.9%), isometric (−7%) and isokinetic concentric knee extension force
+  (−2.3%), or vertical jump performance (1.2%) (108).
+
+  '
+citation: '108'

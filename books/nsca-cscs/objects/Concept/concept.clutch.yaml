@@ -1,0 +1,27 @@
+id: concept.clutch
+type: Concept
+canonical_name: Clutch
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 504
+  pdf_page: 504
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When this happens during critical times during a training session or
+  sport, it is considered clutch.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

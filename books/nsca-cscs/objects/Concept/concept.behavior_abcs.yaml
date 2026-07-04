@@ -1,0 +1,27 @@
+id: concept.behavior_abcs
+type: Concept
+canonical_name: Behavior (ABCs)
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 508
+  pdf_page: 508
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Behavior refers to movements like nervous pacing, fidgeting, slow reactions,
+  and rapid eye tracking.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

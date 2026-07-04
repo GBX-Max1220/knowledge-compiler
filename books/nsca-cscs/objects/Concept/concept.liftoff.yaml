@@ -1,0 +1,27 @@
+id: concept.liftoff
+type: Concept
+canonical_name: Liftoff
+semantic_type: Exercise Technique
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16.1'
+  section_title: Exercise Technique for Free Weight and Machine Training
+  book_page: 960
+  pdf_page: 960
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The term liftoff refers to moving the bar from the upright supports to
+  a position in which the athlete can begin the exercise.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,23 @@
+id: threshold.carbohydrate_intake_threshold_for_precompetition_meal_1_hour_before
+type: Threshold
+canonical_name: Carbohydrate Intake Threshold for Precompetition Meal 1 Hour Before
+semantic_type: Nutritional_Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Aerobic Endurance Sports
+  section_title: Aerobic Endurance Sports
+  book_page: 618
+  pdf_page: 618
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+threshold_value: '0.5'
+unit: gram per kilogram body weight
+context: carbohydrate intake if precompetition meal is consumed 1 hour before exercise

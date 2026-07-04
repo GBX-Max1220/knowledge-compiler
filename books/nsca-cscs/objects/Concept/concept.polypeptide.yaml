@@ -1,0 +1,26 @@
+id: concept.polypeptide
+type: Concept
+canonical_name: Polypeptide
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 549
+  pdf_page: 549
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Several amino acids together are referred to as a polypeptide.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

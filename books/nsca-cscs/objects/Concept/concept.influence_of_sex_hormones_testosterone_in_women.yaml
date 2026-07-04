@@ -1,0 +1,28 @@
+id: concept.influence_of_sex_hormones_testosterone_in_women
+type: Concept
+canonical_name: Influence of Sex Hormones — Testosterone in Women
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System in Resistance Training
+  section: '4.3'
+  section_title: Endocrine System in Resistance Training
+  book_page: 254
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Testosterone, while primarily recognized as a male sex hormone, also
+  plays a significant role in women, who naturally have only about 5% to 10% of the
+  circulating testosterone levels found in men due to the absence of testes.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

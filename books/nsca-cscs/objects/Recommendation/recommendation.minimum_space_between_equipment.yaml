@@ -1,0 +1,10 @@
+id: recommendation.minimum_space_between_equipment
+type: Recommendation
+canonical_name: Recommended Minimum Space Between Equipment
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 26
+  section: '26.0'
+  book_page: 1775

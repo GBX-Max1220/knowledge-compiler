@@ -1,0 +1,594 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.resistance_exercise
+type: Concept
+canonical_name: Resistance Exercise
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 384
+  pdf_page: 384
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  For the purposes of this chapter, resistance exercise is defined as a specialized method of conditioning whereby an individual is working against a wide range of resistive loads to enhance health, fitness, and performance.
+attributes: []
+purpose:
+  - enhance health
+  - enhance fitness
+  - enhance performance
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.childhood
+type: Concept
+canonical_name: Childhood
+semantic_type: LifeStage
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The term childhood refers to a period of life before the development of secondary sex characteristics (e.g., pubic hair and reproductive organs)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adolescence
+type: Concept
+canonical_name: Adolescence
+semantic_type: LifeStage
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  the term adolescence refers to the period between childhood and adulthood.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.youth
+type: Concept
+canonical_name: Youth
+semantic_type: Population
+aliases:
+  - young athlete
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  For ease of discussion, the term youth or young athlete refers to both children and adolescents.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.childhood
+  - concept.adolescence
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.older_adult
+type: Concept
+canonical_name: Older Adult
+semantic_type: Population
+aliases:
+  - senior
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The terms older and senior include men and women over 65 years of age.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.athleticism
+type: Concept
+canonical_name: Athleticism
+semantic_type: Attribute
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Athleticism reflects the ability to repeatedly execute a variety of movements with precision and confidence in a range of environments, which require appropriate levels of motor skill competency, balance, coordination, strength, power, speed, agility, and endurance (137).
+attributes:
+  - motor skill competency
+  - balance
+  - coordination
+  - strength
+  - power
+  - speed
+  - agility
+  - endurance
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.long_term_athletic_development
+type: Concept
+canonical_name: Long-Term Athletic Development
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 386
+  pdf_page: 386
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The National Strength and Conditioning Association considers long-term athletic development as the development of athleticism over time, with an aim to enhance physical fitness, reduce injury risk, and improve mental and physical health and well-being (137).
+attributes: []
+purpose:
+  - enhance physical fitness
+  - reduce injury risk
+  - improve mental health
+  - improve physical health
+  - improve well-being
+related_concepts:
+  - concept.athleticism
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.growth
+type: Concept
+canonical_name: Growth
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "The Growing Child"
+  book_page: 387
+  pdf_page: 387
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The term growth refers to an increase in body size or a particular body part
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.development
+type: Concept
+canonical_name: Development
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "The Growing Child"
+  book_page: 387
+  pdf_page: 387
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  development describes the natural progression from prenatal life to adulthood
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maturation
+type: Concept
+canonical_name: Maturation
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "The Growing Child"
+  book_page: 387
+  pdf_page: 387
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  maturation is defined as progress toward a fully mature state, which varies in timing, tempo, and magnitude between different bodily systems (142).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.puberty
+type: Concept
+canonical_name: Puberty
+semantic_type: LifeStage
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "The Growing Child"
+  book_page: 387
+  pdf_page: 387
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Puberty refers to a period of time in which secondary sex characteristics develop and a child transitions to young adulthood.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.chronological_age
+type: Concept
+canonical_name: Chronological Age
+semantic_type: Metric
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Chronological Age Versus Biological Maturation"
+  book_page: 390
+  pdf_page: 390
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  chronological age
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.biological_maturation
+type: Concept
+canonical_name: Biological Maturation
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Chronological Age Versus Biological Maturation"
+  book_page: 390
+  pdf_page: 390
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  biological maturation, which can be measured in terms of skeletal age, sexual maturation, or somatic (physique) maturation.
+attributes:
+  - skeletal age
+  - sexual maturation
+  - somatic maturation
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ossification
+type: Concept
+canonical_name: Ossification
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Chronological Age Versus Biological Maturation"
+  book_page: 391
+  pdf_page: 391
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Ossification refers to the process of laying down new bone material by cells called osteoblasts.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.peak_height_velocity
+type: Concept
+canonical_name: Peak Height Velocity
+semantic_type: Metric
+aliases:
+  - PHV
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Chronological Age Versus Biological Maturation"
+  book_page: 391
+  pdf_page: 391
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  peak height velocity (PHV), which is defined as the age at maximum rate of growth during the pubertal growth spurt (59)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.diaphysis
+type: Concept
+canonical_name: Diaphysis
+semantic_type: AnatomicalStructure
+aliases:
+  - primary ossification center
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Muscle and Bone Growth"
+  book_page: 394
+  pdf_page: 394
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  diaphysis (primary ossification center), which is the central shaft of a long bone
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.growth_cartilage
+type: Concept
+canonical_name: Growth Cartilage
+semantic_type: AnatomicalStructure
+aliases:
+  - secondary ossification center
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Muscle and Bone Growth"
+  book_page: 394
+  pdf_page: 394
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  growth cartilage (secondary ossification center), which is located at three sites in the child: the epiphyseal (growth) plate, the joint surface, and the apophyseal insertions of muscle–tendon units.
+attributes:
+  - epiphyseal plate
+  - joint surface
+  - apophyseal insertions of muscle–tendon units
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.detraining
+type: Concept
+canonical_name: Detraining
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Youth Resistance Training"
+  book_page: 402
+  pdf_page: 402
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This temporary reduction or withdrawal of the training stimulus is called detraining.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.early_sport_specialization
+type: Concept
+canonical_name: Early Sport Specialization
+semantic_type: Practice
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Youth Resistance Training"
+  book_page: 409
+  pdf_page: 409
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Early sport specialization is defined as children engaging in intensive, year-round (>8 months) training and/or competition in a single sport, typically beginning during the prepubertal years (131).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.needs_analysis
+type: Concept
+canonical_name: Needs Analysis
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7"
+  section_title: "Program Design Considerations for Children"
+  book_page: 414
+  pdf_page: 414
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  To optimize any training program, practitioners should conduct an initial assessment of the individual’s characteristics (i.e., physical, technical, psychosocial) and the demands of the sport or physical activity in which he or she participates, commonly known as a needs analysis.
+attributes:
+  - physical
+  - technical
+  - psychosocial
+purpose: []
+related_concepts: []
+---
+#

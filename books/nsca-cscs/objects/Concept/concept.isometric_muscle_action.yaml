@@ -1,0 +1,33 @@
+id: concept.isometric_muscle_action
+type: Concept
+canonical_name: Isometric Muscle Action
+semantic_type: Physiological Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: ''
+  section: '2.4'
+  section_title: Sources of Resistance to Muscle Contraction
+  book_page: 144
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.muscle_action_types
+definition: 'In an isometric muscle action, the muscle length does not change, because
+  the contractile force is equal to the resistive force. The forces generated within
+  the muscle and acting to shorten it are equal to the external forces acting at its
+  tendons to stretch it. During a sit-up with the trunk held straight, the abdominal
+  muscles act isometrically to maintain the rigidity of the trunk, while the hip flexors
+  carry out the sit-up movement.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

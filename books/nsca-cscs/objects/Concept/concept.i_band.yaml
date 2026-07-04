@@ -4,12 +4,12 @@ canonical_name: I-band
 semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
   chapter: 1
-  chapter_title: Structure and Function of Body Systems
-  section: '01.01'
-  section_title: Introduction and Musculoskeletal System
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.5
+  section_title: Sectional view of a muscle fiber
   book_page: 48
   pdf_page: 48
 provenance:
@@ -20,10 +20,11 @@ evidence_level: ''
 relationships:
 - predicate: part_of
   target: concept.sarcomere
-definition: 'The light band that corresponds with the areas in two adjacent sarcomeres
-  that contain only actin filaments.
+definition: 'The light I-band corresponds with the areas in two adjacent sarcomeres
+  that contain only actin filaments (41).
 
   '
-attributes: []
+attributes:
+- light
 purpose: []
 related_concepts: []

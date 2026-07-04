@@ -1,0 +1,34 @@
+id: concept.coping_resources_stress_and_injury_model
+type: Concept
+canonical_name: Coping Resources (Stress and Injury Model)
+semantic_type: Factor
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 514
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.stress_and_injury_model
+definition: 'coping resources such as social support, stress management techniques,
+  mental skills, and nutritional and lifestyle habits
+
+  '
+attributes:
+- social support
+- stress management techniques
+- mental skills
+- nutritional habits
+- lifestyle habits
+purpose: []
+related_concepts: []

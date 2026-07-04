@@ -1,0 +1,9 @@
+id: concept.peak_bone_mass
+type: Concept
+canonical_name: Peak Bone Mass
+semantic_type: PhysiologicalProperty
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5

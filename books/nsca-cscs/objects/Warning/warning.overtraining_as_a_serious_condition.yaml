@@ -1,0 +1,10 @@
+id: warning.overtraining_as_a_serious_condition
+type: Warning
+canonical_name: Overtraining as a Serious Condition
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 24
+  chapter_title: Overreaching, Overtraining, and Recovery

@@ -1,0 +1,32 @@
+id: procedure.speed_skater_lunge
+type: Procedure
+canonical_name: Speed Skater Lunge
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Program Design Considerations
+  section: '15.4'
+  section_title: Program Design Considerations
+  book_page: 926
+  pdf_page: 926
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Assume an upright stance with feet hip-width apart and arms to the side
+  (note: this preparatory position is not shown). Shift the body weight to the left
+  foot and at the same time drop the hips back and down, reaching the right leg behind
+  the body and as far as possible to the opposite (right) side. The result is a fully
+  extended rear (right) knee and a contralateral (opposite) lateral reach of the other
+  (left) arm. Push back to the beginning position and repeat on the other side. For
+  a more advanced exercise, the movement can be initiated by a lateral hop.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

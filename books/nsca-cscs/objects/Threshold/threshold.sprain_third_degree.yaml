@@ -1,0 +1,30 @@
+id: threshold.sprain_third_degree
+type: Threshold
+canonical_name: Sprain Third Degree
+semantic_type: Injury Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1636
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: classified_as
+  target: concept.sprain
+- predicate: adjacent_to
+  target: threshold.sprain_second_degree
+definition: 'third degree (complete tear with full joint instability)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

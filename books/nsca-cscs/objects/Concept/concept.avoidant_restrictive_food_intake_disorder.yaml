@@ -1,0 +1,42 @@
+id: concept.avoidant_restrictive_food_intake_disorder
+type: Concept
+canonical_name: Avoidant/Restrictive Food Intake Disorder
+semantic_type: Condition
+aliases:
+- ARFID
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 654
+  pdf_page: 654
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Avoidant/restrictive food intake disorder (ARFID) is an eating or feeding
+  disturbance, including apparent lack of interest in eating or food; avoidance based
+  on the sensory characteristics of food; or concern about aversive consequences of
+  eating. This disorder is manifested by persistent failure to meet appropriate nutritional
+  or energy needs associated with one (or more) of the following: Significant weight
+  loss (or failure to achieve expected weight gain or faltering growth in children);
+  Significant nutritional deficiency; Dependence on enteral feeding or oral nutritional
+  supplements; Marked interference with psychosocial functioning.
+
+  '
+attributes:
+- lack_of_interest_in_eating
+- avoidance_based_on_sensory_characteristics
+- concern_about_aversive_consequences
+- significant_weight_loss
+- significant_nutritional_deficiency
+- dependence_on_enteral_feeding
+- dependence_on_oral_nutritional_supplements
+- marked_interference_with_psychosocial_functioning
+purpose: []
+related_concepts: []

@@ -1,0 +1,28 @@
+id: concept.catabolic_process
+type: Concept
+canonical_name: Catabolic Process
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System and Resistance Exercise
+  section: Functions of the Endocrine System in Resistance Exercise and Training
+  section_title: Functions of the Endocrine System in Resistance Exercise and Training
+  book_page: 235
+  pdf_page: 235
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Catabolic processes (to break down). For example, cortisol helps manage
+  energy during stress but can hinder muscle growth if not properly managed through
+  adequate rest and recovery.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

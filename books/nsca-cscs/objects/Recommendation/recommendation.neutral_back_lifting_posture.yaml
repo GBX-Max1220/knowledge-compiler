@@ -1,0 +1,41 @@
+id: recommendation.neutral_back_lifting_posture
+type: Recommendation
+canonical_name: Neutral-Back Lifting Posture
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 162
+  pdf_page: 162
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'The neutral-back lifting posture has been found to be better
+  overall than a rounded (opposite of arched) back in minimizing L5/S1 compressive
+  forces and ligament strain (2). Therefore, a normal lordotic lumbar spine position
+  is superior to a rounded back for avoiding injury to vertebrae, disks, facet joints,
+  ligaments, and muscles of the back.
+
+  '
+rationale: 'Minimizes L5/S1 compressive forces and ligament strain.
+
+  '
+conditions:
+- Lifting tasks
+actions:
+- Use neutral-back lifting posture
+- Maintain normal lordotic lumbar spine position
+contraindications: []
+citations:
+- reference_number: '2'
+  page_number: 162
+related_concepts:
+- concept.lumbar_spine

@@ -1,0 +1,53 @@
+id: procedure.vertical_jump_countermovement_jump_force_plate_protocol
+type: Procedure
+canonical_name: Vertical Jump (Countermovement Jump) — Force Plate Protocol
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.2'
+  section_title: Monitoring Protocols
+  book_page: 786
+  pdf_page: 786
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Procedure for conducting a vertical jump (countermovement jump) using
+  a force plate.
+
+  '
+attributes: []
+purpose:
+- measure vertical jump height
+- measure power output
+related_concepts:
+- concept.vertical_jump
+- concept.countermovement_jump
+- concept.force_plate
+steps:
+- order: 1
+  description: Before testing, the tester should calibrate and set up the force plate
+    as per the manufacturer’s instructions.
+- order: 2
+  description: The force plate should always be set up on a stable surface (ideally
+    in the same location each time) and the force zeroed with nothing on the plates
+    immediately before the athlete tests. Without a preparatory or stutter step, the
+    athlete performs a countermovement by quickly flexing the knees and hips, moving
+    the trunk forward and downward, and swinging the arms backward.
+- order: 3
+  description: The countermovement jump is most commonly conducted with hands in a
+    fixed position on the hips throughout the takeoff portion of the jump to isolate
+    the power and coordination capacity of the lower limbs. Jumping with the use of
+    an arm swing can also be tested and is referred to as an Abalakov jump. Either
+    way, consistency should be used and each jump should be tracked as to whether
+    it was performed with (Abalakov) or without an arm swing.
+- order: 4
+  description: Figure 14.7 shows an example of how the vertical ground reaction forces
+    change across the five phases of a vertical jump with a countermovement when measured
+    with a force plate testing system.

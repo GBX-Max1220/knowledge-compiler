@@ -1,0 +1,30 @@
+id: concept.fick_equation
+type: Concept
+canonical_name: Fick Equation
+semantic_type: Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Oxygen Uptake
+  section_title: Cardiovascular Responses — Oxygen Uptake
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Oxygen uptake (V̇O2) can be calculated with the Fick equation, which
+  expresses the relationship of cardiac output, oxygen uptake, and arteriovenous oxygen
+  difference.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.cardiac_output
+- concept.arteriovenous_oxygen_difference

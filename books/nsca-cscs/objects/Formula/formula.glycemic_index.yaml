@@ -1,0 +1,31 @@
+id: formula.glycemic_index
+type: Formula
+canonical_name: Glycemic Index Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.3'
+  section_title: Macronutrients
+  book_page: 561
+  pdf_page: 561
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Glycemic index = Incremental area under the curve for the blood glucose
+  response after consumption of a 25 or 50g carbohydrate portion of a test food ÷
+  Incremental area under the curve for the blood glucose response after consumption
+  of the same portion (in grams) of a standard food × 100 (10.1)
+
+  '
+attributes: []
+purpose:
+- calculate glycemic index
+related_concepts:
+- concept.glycemic_index

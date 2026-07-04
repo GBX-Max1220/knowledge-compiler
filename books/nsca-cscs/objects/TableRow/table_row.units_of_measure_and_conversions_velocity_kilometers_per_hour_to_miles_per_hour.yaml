@@ -1,0 +1,33 @@
+id: table_row.units_of_measure_and_conversions_velocity_kilometers_per_hour_to_miles_per_hour
+type: TableRow
+canonical_name: Units of Measure and Conversions Velocity Kilometers per Hour to Miles
+  per Hour
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Human Strength and Power
+  section: '2.3'
+  section_title: Human Strength and Power
+  book_page: 130
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+table_name: Units of Measure and Conversions
+row_data:
+  quantity: Velocity
+  si_unit: kilometers/hour
+  conversion_multiplier_to_traditional: 0.621
+  traditional_unit: miles/hour
+  conversion_multiplier_to_si: 1.609
+  si_unit_2: kilometers/hour

@@ -1,0 +1,10 @@
+id: risk_factor.training_factors_contributing_to_overtraining
+type: RiskFactor
+canonical_name: Training Factors Contributing to Overtraining
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38

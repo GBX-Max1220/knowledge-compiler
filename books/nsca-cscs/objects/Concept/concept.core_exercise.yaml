@@ -1,0 +1,36 @@
+id: concept.core_exercise
+type: Concept
+canonical_name: Core Exercise
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.3'
+  section_title: 'Step 2: Exercise Selection — Exercise Type'
+  book_page: 1202
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Core exercises recruit one or more large muscle areas (i.e., chest, shoulder,
+  back, hip, or thigh), involve two or more primary joints (multijoint exercises;
+  e.g., split squat, bench press, bent-over row), and receive priority when one is
+  selecting exercises because of their direct application to the sport and enhanced
+  dynamic correspondence (i.e., transference of gym-based training to improved performance
+  in athletic tasks).
+
+  '
+attributes:
+- recruits one or more large muscle areas
+- involves two or more primary joints
+- multijoint exercise
+purpose:
+- direct application to the sport
+- enhanced dynamic correspondence
+related_concepts: []

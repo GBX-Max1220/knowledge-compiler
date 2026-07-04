@@ -1,0 +1,27 @@
+id: concept.first_transition_period
+type: Concept
+canonical_name: First Transition Period
+semantic_type: TrainingPeriod
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22 — Periodization — Periodization Periods — First Transition Period
+  section_title: First Transition Period
+  book_page: 1597
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The first transition period is a link between the preparatory and competitive
+  periods.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

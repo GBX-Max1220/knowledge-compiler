@@ -1,0 +1,28 @@
+id: concept.work
+type: Concept
+canonical_name: Work
+semantic_type: PhysicalQuantity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Human Strength and Power
+  section: '2.3'
+  section_title: Human Strength and Power
+  book_page: 129
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When we apply force to an object that is moving, we are performing work.
+  In a biomechanical context, work can be understood in a simpler form as the product
+  of force and displacement (how far the object moves).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

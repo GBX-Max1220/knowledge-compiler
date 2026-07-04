@@ -1,0 +1,32 @@
+id: procedure.triceps_pushdown_machine_downward_movement_phase
+type: Procedure
+canonical_name: Triceps Pushdown (Machine) — Downward Movement Phase
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '16.4'
+  section_title: Spotting Techniques
+  book_page: 1059
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Push the bar down until the elbows are fully extended. Keep the torso
+  erect and the upper arms stationary. Do not forcefully lock out the elbows.
+
+  '
+attributes:
+- push bar down
+- elbows fully extended
+- torso erect
+- upper arms stationary
+- do not forcefully lock out elbows
+purpose: []
+related_concepts: []

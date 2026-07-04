@@ -1,0 +1,19 @@
+id: concept.glycogenesis
+type: Concept
+canonical_name: Glycogenesis
+semantic_type: Metabolic Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 559
+  pdf_page: 559
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''

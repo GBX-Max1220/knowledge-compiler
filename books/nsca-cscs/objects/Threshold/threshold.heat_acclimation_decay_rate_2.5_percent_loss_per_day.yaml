@@ -1,0 +1,27 @@
+id: threshold.heat_acclimation_decay_rate_2.5_percent_loss_per_day
+type: Threshold
+canonical_name: Heat Acclimation Decay Rate — 2.5% Loss Per Day
+semantic_type: Rate
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Aerobic Endurance Training Adaptations
+  section: '6.2'
+  section_title: Aerobic Endurance Training Adaptations
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'for every day that passes without exposure to the heat, there is a 2.5%
+  loss of adaptations (28).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

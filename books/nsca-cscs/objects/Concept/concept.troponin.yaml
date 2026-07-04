@@ -1,0 +1,29 @@
+id: concept.troponin
+type: Concept
+canonical_name: Troponin
+semantic_type: Protein
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Excitation–Contraction Coupling Phase
+  section_title: Excitation–Contraction Coupling Phase
+  book_page: 53
+  pdf_page: 53
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Secreted calcium ions bind with a high affinity to the troponin protein,
+  which exists at regular intervals along the actin filament (figure 1.6).
+
+  '
+attributes:
+- binds_calcium_with_high_affinity
+purpose: []
+related_concepts:
+- concept.actin_filament

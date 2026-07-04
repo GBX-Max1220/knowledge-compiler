@@ -1,0 +1,40 @@
+id: procedure.triceps_pushdown_machine_starting_position
+type: Procedure
+canonical_name: Triceps Pushdown (Machine) — Starting Position
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '16.4'
+  section_title: Spotting Techniques
+  book_page: 1058
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Grasp the bar with a closed, pronated grip 6 to 12 inches (16-30 cm)
+  wide. Stand erect with feet shoulder-width apart, knees slightly flexed. Place the
+  body close enough to the machine to allow the cable to hang straight down when it
+  is held in the starting position. Pull the bar down to position the upper arms against
+  the sides of the torso. Flex the elbows to position the forearms parallel to the
+  floor or slightly above. All repetitions begin from this position.
+
+  '
+attributes:
+- closed pronated grip
+- grip width: 6 to 12 inches (16-30 cm)
+- erect stance
+- feet shoulder-width apart
+- knees slightly flexed
+- body close to machine
+- cable hangs straight down
+- upper arms against sides of torso
+- forearms parallel to floor or slightly above
+purpose: []
+related_concepts: []

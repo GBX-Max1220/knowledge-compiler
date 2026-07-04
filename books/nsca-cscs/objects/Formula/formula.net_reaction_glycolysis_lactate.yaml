@@ -1,0 +1,33 @@
+id: formula.net_reaction_glycolysis_lactate
+type: Formula
+canonical_name: Net Reaction for Glycolysis (Pyruvate to Lactate)
+semantic_type: Chemical Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Glycolysis and the Formation of Lactate
+  section_title: Glycolysis and the Formation of Lactate
+  book_page: 188
+  pdf_page: 188
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+equation: Glucose + 2Pi + 2ADP → 2Lactate + 2ATP + H2O
+equation_number: '3.4'
+variables:
+- name: Pi
+  description: Inorganic phosphate
+- name: ADP
+  description: Adenosine diphosphate
+- name: ATP
+  description: Adenosine triphosphate

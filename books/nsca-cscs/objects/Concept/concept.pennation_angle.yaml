@@ -1,0 +1,27 @@
+id: concept.pennation_angle
+type: Concept
+canonical_name: Pennation Angle
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.2'
+  section_title: Muscular Adaptations
+  book_page: 306
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Pennation angle affects the force production capabilities as well as
+  the range of motion of a muscle.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,31 @@
+id: concept.systolic_blood_pressure
+type: Concept
+canonical_name: Systolic Blood Pressure
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Blood Pressure
+  section_title: Cardiovascular Responses — Blood Pressure
+  book_page: 86
+  pdf_page: 86
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Systolic blood pressure estimates the pressure exerted against the arterial
+  walls as blood is forcefully ejected during ventricular contraction (systole) and,
+  when combined with heart rate, can be used to describe the myocardial oxygen consumption
+  (work) of the heart.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.heart_rate
+- concept.myocardial_oxygen_consumption

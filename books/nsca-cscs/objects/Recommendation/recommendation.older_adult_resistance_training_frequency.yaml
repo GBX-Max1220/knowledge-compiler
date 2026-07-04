@@ -1,0 +1,14 @@
+id: recommendation.older_adult_resistance_training_frequency
+type: Recommendation
+canonical_name: Older Adult Resistance Training Frequency
+semantic_type: Training
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 432
+  pdf_page: 432

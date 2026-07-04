@@ -1,0 +1,29 @@
+id: concept.exergonic_reactions
+type: Concept
+canonical_name: Exergonic Reactions
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Essential Terminology
+  section_title: Essential Terminology
+  book_page: 175
+  pdf_page: 175
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.catabolism
+definition: 'Exergonic reactions are energy-releasing reactions and are generally
+  catabolic.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

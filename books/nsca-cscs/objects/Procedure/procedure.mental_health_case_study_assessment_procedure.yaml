@@ -1,0 +1,40 @@
+id: procedure.mental_health_case_study_assessment_procedure
+type: Procedure
+canonical_name: Mental Health Case Study Assessment Procedure
+semantic_type: Procedure
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 511
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The strength and conditioning professional can use the list of signs
+  and symptoms of anxiety, depression, and stress found in table 9.1 (page 182) to
+  frame how each athlete is feeling (step 1), then determine how long and how critical
+  those signs and symptoms are to the athlete (step 2), and decide a course of action
+  to refer the athlete to the appropriate support professional (step 3).
+
+  '
+attributes: []
+steps:
+- step_number: 1
+  description: Use the list of signs and symptoms of anxiety, depression, and stress
+    found in table 9.1 (page 182) to frame how each athlete is feeling.
+- step_number: 2
+  description: Determine how long and how critical those signs and symptoms are to
+    the athlete.
+- step_number: 3
+  description: Decide a course of action to refer the athlete to the appropriate support
+    professional.
+related_concepts:
+- table_row.signs_and_symptoms_of_anxiety_depression_and_stress

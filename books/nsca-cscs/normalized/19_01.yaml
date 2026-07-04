@@ -1,0 +1,536 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.plyometric_exercise
+type: Concept
+canonical_name: Plyometric Exercise
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1260
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Plyometric exercise refers to those activities that enable a muscle to reach maximal force in the shortest possible time. Plyometric is a combination of Greek words that literally means to increase measurement (plio = more; metric = measure) (67). Practically defined, plyometric exercise is a quick, powerful movement using a prestretch, or countermovement, that involves the stretch-shortening cycle (SSC) (64). Furthermore, plyometric exercises are typically classified as being either ballistic or rebounding.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ballistic_exercises
+type: Concept
+canonical_name: Ballistic Exercises
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1261
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.plyometric_exercise
+definition: >
+  Ballistic exercises are those that minimally include contributions from the neuromuscular component of the SSC (e.g., squat jump, medicine ball overhead throw).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.rebound_exercises
+type: Concept
+canonical_name: Rebound Exercises
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1261
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.plyometric_exercise
+definition: >
+  In contrast, rebound exercises are those that require physiomechanical SSC contributions (e.g., drop jumps or repeat countermovement jumps).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.power
+type: Concept
+canonical_name: Power
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1261
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The term used to define this force–velocity relationship is power.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.impulse
+type: Concept
+canonical_name: Impulse
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1261
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Impulse, defined as the integral of force over time, directly influences an athlete's performance by changing momentum.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.series_elastic_component
+type: Concept
+canonical_name: Series Elastic Component
+semantic_type: AnatomicalStructure
+aliases:
+  - SEC
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1262
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Of the mechanical model's many elements, it is the series elastic component (SEC) that is the workhorse of plyometric exercise. While the SEC includes some muscular components, it is the tendons that constitute the majority of the SEC.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stretch_reflex
+type: Concept
+canonical_name: Stretch Reflex
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1263
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The stretch reflex is the body's involuntary response to an external stimulus that stretches the muscles (31, 49).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_spindles
+type: Concept
+canonical_name: Muscle Spindles
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1263
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Muscle spindles are proprioceptive organs that are sensitive to the rate and magnitude of a stretch; when a quick stretch is detected, muscular activity reflexively increases (31, 49).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.parallel_elastic_component
+type: Concept
+canonical_name: Parallel Elastic Component
+semantic_type: AnatomicalStructure
+aliases:
+  - PEC
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1263
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The series elastic component (SEC) and parallel elastic component (PEC) are two elastic structures that can be stretched within the muscle during plyometric exercises. The SEC includes tendons and muscle fiber crossbridges. The PEC contains collagenous structures (e.g., fascicular membranes), which provide stability and protection to musculature.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stretch_shortening_cycle
+type: Concept
+canonical_name: Stretch-Shortening Cycle
+semantic_type: PhysiologicalProcess
+aliases:
+  - SSC
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1264
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The stretch-shortening cycle (SSC) employs the energy storage capabilities of the SEC and stimulation of the stretch reflex to facilitate a maximal increase in muscle recruitment over a minimal amount of time.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stretch_reflex_latency
+type: Concept
+canonical_name: Stretch Reflex Latency
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1265
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Stretch reflex latency (the time from reflex stimulation to the beginning of agonist muscle activity) largely depends on nerve conduction velocities and therefore increases with greater distances from the spinal cord (i.e., longer nerves) (40, 42, 44, 54).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.amortization_phase
+type: Concept
+canonical_name: Amortization Phase
+semantic_type: PhysiologicalProcess
+aliases:
+  - Coupling Phase
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1265
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Phase II is the time between the eccentric and concentric phases and is termed the amortization (or coupling) phase. This is the time from the end of the eccentric phase to the initiation of the concentric muscle action.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.golgi_tendon_organ
+type: Concept
+canonical_name: Golgi Tendon Organ
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1268
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The Golgi tendon organ is encapsulated within the serial components of the myotendinous junction. This is a proprioceptive mechanism that detects the rate and magnitude of force being applied to the respective tendon and will cause an inverse stretch reflex to occur past a tensile threshold, which immediately inhibits the excitatory signal through the motor neuron to the motor unit.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.progressive_overload
+type: Concept
+canonical_name: Progressive Overload
+semantic_type: Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1279
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Plyometrics is a form of resistance training and thus must follow the principles of progressive overload, which is the systematic increase in training frequency, volume, and intensity in various combinations.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.complex_training
+type: Concept
+canonical_name: Complex Training
+semantic_type: TrainingMethod
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1287
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  However, many athletes may benefit from complex training, a combination of resistance training and plyometric training within the same training session to enhance fast and slow force expression.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.contrast_training
+type: Concept
+canonical_name: Contrast Training
+semantic_type: TrainingMethod
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1288
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Contrast training involves alternating high-load exercises and high-velocity exercises in contrast pairs in a set-by-set fashion with sufficient inter-set rest to avoid fatigue-induced interference.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ascending_complex_training
+type: Concept
+canonical_name: Ascending Complex Training
+semantic_type: TrainingMethod
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1288
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Ascending complex training involves sets of a high-velocity exercise followed by sets of a contrasting high-force exercise.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.descending_sets
+type: Concept
+canonical_name: Descending Sets
+semantic_type: TrainingMethod
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1288
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Descending sets require multiple high-force exercises to be completed before the execution of high-velocity exercises.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dynamic_valgus
+type: Concept
+canonical_name: Dynamic Valgus
+semantic_type: BiomechanicalPosition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Program Design and Technique for Plyometric Training"
+  section: "19"
+  section_title: "Program Design and Technique for Plyometric Training"
+  book_page: 1290
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Inward movement of the knees—also termed dynamic valgus—is a significant risk factor for knee injuries of all types, including patellofemoral pain and tears or ruptures of the anterior cruciate ligament (ACL) (45).

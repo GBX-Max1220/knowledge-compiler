@@ -1,0 +1,28 @@
+id: recommendation.recovery_period_between_concurrent_training_sessions
+type: Recommendation
+canonical_name: Recovery Period Between Concurrent Training Sessions
+semantic_type: TrainingGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 329
+  pdf_page: 329
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'increasing the recovery period between workouts may decrease the incompatibility,
+  a principle supported by the literature (173, 126).
+
+  '
+attributes: []
+purpose:
+- decrease incompatibility between concurrent training
+related_concepts: []

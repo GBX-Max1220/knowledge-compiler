@@ -1,0 +1,33 @@
+id: threshold.energy_availability.low
+type: Threshold
+canonical_name: Low Energy Availability
+semantic_type: Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 650
+  pdf_page: 650
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.energy_availability.optimal
+definition: ''
+attributes: []
+purpose: []
+related_concepts:
+- concept.energy_availability
+value: '30'
+unit: kilocalories per kilogram FFM per day
+condition: severe perturbations can occur below
+citations:
+- '25'
+- '88'

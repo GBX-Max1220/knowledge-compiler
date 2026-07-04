@@ -1,0 +1,29 @@
+id: concept.dual_energy_x_ray_absorptiometry
+type: Concept
+canonical_name: Dual-Energy X-Ray Absorptiometry
+semantic_type: Technology
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'While dual-energy X-ray absorptiometry (DXA) is the most commonly used
+  clinical tool for measuring BMD, it fails to assess these additional factors that
+  contribute to overall bone quality.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.bone_mineral_density

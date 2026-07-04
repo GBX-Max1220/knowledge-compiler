@@ -1,0 +1,31 @@
+id: concept.branched_chain_amino_acid
+type: Concept
+canonical_name: Branched-Chain Amino Acid
+semantic_type: Substance
+aliases:
+- BCAAs
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 700
+  pdf_page: 700
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.essential_amino_acid
+definition: 'Prior work in animal models further identified that of the eight EAAs,
+  it is the branched-chain amino acids (BCAAs) —isoleucine, leucine, and valine—that
+  are responsible for increasing muscle protein synthesis (83).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

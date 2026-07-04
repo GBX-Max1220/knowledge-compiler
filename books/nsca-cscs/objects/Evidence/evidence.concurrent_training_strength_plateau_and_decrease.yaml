@@ -1,0 +1,30 @@
+id: evidence.concurrent_training_strength_plateau_and_decrease
+type: Evidence
+canonical_name: Concurrent Training Strength Plateau and Decrease
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+evidence_text: 'Hickson and colleagues (82) provide evidence that concurrent training
+  that includes progressive endurance running and cycling and heavy resistance training
+  may produce a plateau effect and, ultimately, a decrease in strength gains. Specifically,
+  it was reported that the concurrent training program of heavy resistance training
+  combined with an endurance program provided significant improvements in squat strength
+  during the first seven weeks of the program, followed by a two-week plateau and
+  then a decrease in squat strength during the final two weeks of the program.
+
+  '
+citations:
+- '82'

@@ -1,0 +1,17 @@
+id: recommendation.leucine_protein_meals_every_3_4_hours
+type: Recommendation
+canonical_name: Leucine-rich protein meals every 3 to 4 hours
+semantic_type: Nutrition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Athletic Performance
+  section: '11.3'
+  section_title: Postcompetition Nutrition
+  book_page: 638
+  pdf_page: 638
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1

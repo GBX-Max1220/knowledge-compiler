@@ -1,0 +1,29 @@
+id: recommendation.reinforcement_strategy
+type: Recommendation
+canonical_name: Application of Positive and Negative Reinforcement
+semantic_type: Coaching Strategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: 'Energy Management: Arousal and Anxiety'
+  section: '9.3'
+  section_title: 'Energy Management: Arousal and Anxiety'
+  book_page: 486
+  pdf_page: 486
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Coaches should generally subscribe to a reinforcement strategy
+  to assist athletes to focus on what they do correctly. Punishment should be used
+  sparingly, because it increases the likelihood that athletes will focus on what
+  they are doing incorrectly.
+
+  '
+context: []
+rationale: []
+contraindications: []

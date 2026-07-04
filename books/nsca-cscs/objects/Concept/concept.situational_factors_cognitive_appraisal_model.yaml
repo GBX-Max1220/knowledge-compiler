@@ -1,0 +1,48 @@
+id: concept.situational_factors_cognitive_appraisal_model
+type: Concept
+canonical_name: Situational Factors (Cognitive Appraisal Model)
+semantic_type: Factor
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 518
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.cognitive_appraisal_model
+definition: 'Situational Factors: Sport type. Is it individual or team based? Is there
+  a high risk of reinjury based on the sport? Level of competition. Is this a high
+  school athlete or a professional athlete? Social support. Is the athlete surrounded
+  by friends, family, and teammates for emotional and social support? Social support
+  helps one learn that they are valued and supported regardless of athletic performance
+  or the identity as a competitive athlete (63). Sports medicine team. Does the athlete
+  have proper access to a professional rehabilitative team? Rehabilitation environment.
+  Similarly, where is the athlete rehabilitating their injury? Does it require a lengthy
+  commute? Is it adequate for proper sport-specific movements? Coach influence. Does
+  the sport coach actively support the athlete during the rehab process? Is there
+  pressure to return as soon as possible with the athlete fearing losing his or her
+  position? Coaches should be attentive to the possibility that athletes could be
+  struggling with challenges related to conflicts with coaches who may not understand
+  the extent of their injuries; suggest that they are weak; and may explicitly minimize,
+  invalidate, or dismiss the athlete''s struggles (60).
+
+  '
+attributes:
+- sport type
+- level of competition
+- social support
+- sports medicine team
+- rehabilitation environment
+- coach influence
+purpose: []
+related_concepts: []

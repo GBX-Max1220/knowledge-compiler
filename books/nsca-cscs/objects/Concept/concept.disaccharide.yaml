@@ -1,0 +1,29 @@
+id: concept.disaccharide
+type: Concept
+canonical_name: Disaccharide
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 558
+  pdf_page: 558
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.carbohydrate
+definition: 'Disaccharides (sucrose, lactose, and maltose) are composed of two simple
+  sugar units joined together.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

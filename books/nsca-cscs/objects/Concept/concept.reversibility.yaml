@@ -1,0 +1,29 @@
+id: concept.reversibility
+type: Concept
+canonical_name: Reversibility
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1190
+  pdf_page: 1190
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'the removal or reduction of a training stimulus or the involution from
+  monotonous training and poor fatigue management may cause the opposite to occur;
+  this deterioration or loss of fitness characteristics refers to the principle of
+  reversibility.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

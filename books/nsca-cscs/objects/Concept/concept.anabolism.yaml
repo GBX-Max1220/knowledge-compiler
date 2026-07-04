@@ -1,0 +1,28 @@
+id: concept.anabolism
+type: Concept
+canonical_name: Anabolism
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Essential Terminology
+  section_title: Essential Terminology
+  book_page: 175
+  pdf_page: 175
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The synthesis of larger molecules from smaller molecules can be accomplished
+  using the energy released from catabolic reactions; this building-up process is
+  termed anabolism.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

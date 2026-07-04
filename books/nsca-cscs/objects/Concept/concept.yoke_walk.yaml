@@ -1,0 +1,51 @@
+id: concept.yoke_walk
+type: Concept
+canonical_name: Yoke Walk
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1126
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.weighted_carries
+definition: 'The yoke walk is another common strongman event whereby a heavy frame
+  is carried on the shoulders of the athlete over a set distance. As McGill and colleagues
+  (87) observed significantly greater spinal compression forces during the performance
+  of the yoke walk when compared to six other strongman events, it is likely that
+  this exercise has the potential to challenge and improve core stability. However,
+  it must be performed with appropriate loads and technique to reduce the risk of
+  injury, especially since Winwood and colleagues (154) reported that 213 strongman
+  athletes ranked this exercise as the second most dangerous strongman lift in terms
+  of injury risk. Similar to the farmer''s walk (71), faster yoke walks were characterized
+  by increased stride length and stride rate, lower limb range of motion, and reduced
+  ground contact time (61). Based on the impulse–momentum relationship, it would appear
+  that weighted carries (e.g., farmer''s and yoke walks) require the production of
+  high levels of anterior–posterior and vertical forces over short contact times,
+  perhaps suggesting some potential to improve horizontal motion such as acceleration
+  sprinting or initiating body contact in tackling or blocking opponents in contact
+  or combat sports.
+
+  '
+attributes:
+- heavy frame carried on shoulders
+purpose:
+- challenge core stability
+- improve core stability
+- improve horizontal motion
+- improve acceleration sprinting
+- initiate body contact in tackling
+- initiate body contact in blocking opponents
+related_concepts:
+- concept.farmers_walk

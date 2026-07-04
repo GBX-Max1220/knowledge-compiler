@@ -1,0 +1,31 @@
+id: recommendation.cool_down_after_strenuous_tests
+type: Recommendation
+canonical_name: Cool-Down After Strenuous Tests
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 760
+  pdf_page: 760
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Administer a supervised cool-down period to athletes following tests
+  that dramatically increase heart rate and at the completion of the test battery.
+  For example, after the 300-yard (274 m) shuttle, the athlete should not sit or lie
+  down; active recovery using low-intensity movement and light stretching will enhance
+  the recovery process (10).
+
+  '
+attributes: []
+purpose:
+- enhance the recovery process
+related_concepts: []

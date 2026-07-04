@@ -1,0 +1,33 @@
+id: concept.history_of_stressors_stress_and_injury_model
+type: Concept
+canonical_name: History of Stressors (Stress and Injury Model)
+semantic_type: Factor
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 514
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.stress_and_injury_model
+definition: 'history of stressors such as life events, academic stressors, daily hassles,
+  and previous injury history
+
+  '
+attributes:
+- life events
+- academic stressors
+- daily hassles
+- previous injury history
+purpose: []
+related_concepts: []

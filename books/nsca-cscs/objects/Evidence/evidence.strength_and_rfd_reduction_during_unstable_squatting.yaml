@@ -1,0 +1,30 @@
+id: evidence.strength_and_rfd_reduction_during_unstable_squatting
+type: Evidence
+canonical_name: Strength and RFD Reduction During Unstable Squatting
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.2'
+  section_title: Muscular Adaptations
+  book_page: 298
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+claim: Similarly, peak force (N) and rate of force development (RFD) have also been
+  found to be significantly reduced during unstable squatting versus stable squatting
+  (115).
+supporting_data: []
+citations:
+- (115)

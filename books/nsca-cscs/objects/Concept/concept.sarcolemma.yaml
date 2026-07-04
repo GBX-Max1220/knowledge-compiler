@@ -1,28 +1,28 @@
 id: concept.sarcolemma
 type: Concept
 canonical_name: Sarcolemma
-semantic_type: Anatomical Structure
+semantic_type: AnatomicalStructure
 aliases: []
 source:
-  book: Essentials of Strength Training and Conditioning
-  edition: 5
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
   chapter: 1
   chapter_title: Structure and Function of Body Systems
-  section: '01.02'
-  section_title: Neuromuscular System
-  book_page: 56
-  pdf_page: 56
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 42
+  pdf_page: 42
 provenance:
   extraction: reasonix-code-v1
   generation: reasonix-code-v1
   reviewed: auto
 evidence_level: ''
-relationships: []
-definition: 'The membrane of muscle fibers where acetylcholine receptors are present.
+relationships:
+- predicate: part_of
+  target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: 'The muscle fiber membrane.
 
   '
 attributes: []
 purpose: []
-related_concepts:
-- concept.muscle_fiber
-- concept.acetylcholine_receptor
+related_concepts: []

@@ -1,0 +1,29 @@
+id: recommendation.dietary_sources_for_vitamin_d
+type: Recommendation
+canonical_name: Dietary Sources for Vitamin D
+semantic_type: Dietary
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Eating a diet containing seafood, and choosing foods that are fortified
+  with vitamin D, including milk, fortified soy beverages, fortified soy yogurt, and
+  some whole-grain cereals, can help adults meet their needs for vitamin D.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.vitamin_d

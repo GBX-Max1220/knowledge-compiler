@@ -1,0 +1,26 @@
+id: evidence.aerobic_capacity_circuit_high_intensity_training
+type: Evidence
+canonical_name: Aerobic Capacity and Circuit/High-Intensity Training
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Cardiovascular Adaptations
+  book_page: 332
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+evidence_text: 'Circuit training, high-intensity interval training, and programs using
+  high volume, high intensities, and short rest periods (i.e., 30 s or less) have
+  been shown to improve V̇O2max (25).
+
+  '
+citation: '25'

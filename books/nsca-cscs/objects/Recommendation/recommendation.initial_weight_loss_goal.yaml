@@ -1,0 +1,27 @@
+id: recommendation.initial_weight_loss_goal
+type: Recommendation
+canonical_name: Initial Weight Loss Goal for Overweight and Obese Individuals
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The initial goal for weight loss in overweight and obese individuals
+  should be 10% of initial weight within six months (92).
+
+  '
+recommendation_type: clinical_practice
+target_audience: overweight and obese individuals
+action: lose 10% of initial weight within six months

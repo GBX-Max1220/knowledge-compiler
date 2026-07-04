@@ -1,0 +1,54 @@
+id: procedure.rebound_jump_protocol
+type: Procedure
+canonical_name: Rebound Jump Protocol
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.2'
+  section_title: Monitoring Protocols
+  book_page: 791
+  pdf_page: 791
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Procedure for conducting a rebound jump test.
+
+  '
+attributes: []
+purpose:
+- measure jump height
+- measure ground contact time
+- calculate reactive strength index
+related_concepts:
+- concept.rebound_jump
+- concept.reactive_strength_index
+- concept.10_5_repeated_jump_test
+steps:
+- order: 1
+  description: Rebound-based vertical jumps require the athlete to jump from a preceding
+    vertical jump. When performing a rebound vertical jump, the athlete should first
+    complete a maximal-effort vertical countermovement jump followed by either a predetermined
+    number of rebound vertical jump repetitions or a predetermined set duration (e.g.,
+    10 seconds). Rebound vertical jumps from a ground-start position have been performed
+    with single or multiple repetitions, including the 10-5 repeated jump test (64),
+    which requires 10 maximal vertical rebound jumps following the initial maximum
+    countermovement jump.
+- order: 2
+  description: All styles of rebound vertical jump should be performed with the athlete
+    attempting to jump with a short ground contact time while still aiming to jump
+    as high as possible. A short ground contact time is achieved by limiting flexion
+    of the ankles, knees, and hips while in contact with the ground by adopting high
+    leg stiffness (high force with shallow range of motion).
+- order: 3
+  description: As per the drop jump, the most reported performance variables following
+    rebound vertical jump testing are jump height, ground contact time, and reactive
+    strength index (calculated as jump height divided by ground contact time). For
+    the 10-5 repeated jump test, the best 5 repetitions in terms of reactive strength
+    index are used and averaged for the test outcome.

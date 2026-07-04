@@ -1,0 +1,55 @@
+id: procedure.single_arm_landmine_row
+type: Procedure
+canonical_name: Single-Arm Landmine Row
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Unilateral Training
+  section: '17.5'
+  section_title: Unilateral Training
+  book_page: 1168-1169
+  pdf_page: 1168-1169
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Setup and Starting Position While standing facing away from the axis
+  of rotation of the landmine barbell, assume a hip-width stance with the unfixed
+  side of the barbell just outside of the working-side leg with the toes behind the
+  barbell sleeve. While maintaining a 25- to 45-degree knee angle, hinge at the hips
+  until able to grasp the end of the barbell with one hand while the elbow is extended
+  and reaching downward. In this position the forward trunk inclination should be
+  roughly 30 to 60 degrees relative to the ground. This trunk angle should remain
+  constant throughout the movement (80). Upward Movement Phase The upward movement
+  phase (i.e., concentric phase) is initiated from the starting position and ends
+  at the top position where the barbell reaches the greatest angle relative to the
+  floor and contacts the torso. Throughout this motion remain stationary with an approximately
+  neutral axial alignment while simultaneously retracting the shoulder girdle, extending
+  the glenohumeral joint, and flexing the elbow to pull the barbell along the natural
+  arc of the landmine barbell device (80). Downward Movement Phase Allow the shoulder
+  girdle to protract, the glenohumeral joint to flex, and the elbow to extend simultaneously
+  to return to the starting position (80). Note: As part of a balanced training program,
+  this movement is performed on both sides of the body. MAJOR MUSCLES INVOLVED latissimus
+  dorsi, trapezius, teres major, posterior deltoid, triceps brachii, rhomboids, brachioradialis,
+  biceps brachii, brachialis
+
+  '
+attributes:
+- barbell
+- landmine
+purpose: []
+related_concepts:
+- concept.latissimus_dorsi
+- concept.trapezius
+- concept.teres_major
+- concept.posterior_deltoid
+- concept.triceps_brachii
+- concept.rhomboids
+- concept.brachioradialis
+- concept.biceps_brachii
+- concept.brachialis

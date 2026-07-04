@@ -1,0 +1,29 @@
+id: concept.vaping
+type: Concept
+canonical_name: Vaping
+semantic_type: null
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Factors Influencing Adaptations
+  section: '6.3'
+  section_title: Factors Influencing Adaptations
+  book_page: 375
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Vaping refers to the act of inhaling an aerosol often containing nicotine
+  and flavoring through a device, commonly known as an e-cigarette or vape pen, which
+  heats a liquid to generate vapor without the combustion associated with traditional
+  cigarette smoking.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,28 @@
+id: concept.role_of_leucine_in_muscle_protein_synthesis
+type: Concept
+canonical_name: Role of Leucine in Muscle Protein Synthesis
+semantic_type: Physiological Mechanism
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Dietary Supplements
+  section: '12.3'
+  section_title: Dietary Supplements
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The branched-chain amino acid leucine is a key regulator in stimulating
+  muscle protein synthesis. Leucine directly activates the Akt/mTOR pathway in skeletal
+  muscle, which is a key pathway in skeletal muscle protein synthesis.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

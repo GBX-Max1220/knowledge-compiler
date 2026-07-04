@@ -1,0 +1,27 @@
+id: concept.change_of_direction
+type: Concept
+canonical_name: Change of direction
+semantic_type: Skill
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1398
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The skills and abilities needed to explosively change movement direction,
+  velocities, or modes
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

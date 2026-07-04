@@ -1,0 +1,1279 @@
+Based on the provided text, here are the ontology-labeled extraction items.
+
+```
+TYPE
+Definition
+
+TITLE
+Warm-Up Definition
+
+PAGE
+854-855
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+A warm-up is designed to prepare an athlete for performance either in an upcoming training session or competition and where the goal is to optimize performance while potentially lessening the risk of injury.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Flexibility Training Definition
+
+PAGE
+854-855
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Flexibility training, on the other hand, aims to increase the range of motion around a joint, normally through the use of different forms of stretching.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Flexibility Definition
+
+PAGE
+873
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Flexibility is defined as the range of motion (ROM) that occurs about a joint.
+
+PARENT
+NONE
+
+CHILDREN
+Static Flexibility, Dynamic Flexibility
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Static Flexibility
+
+PAGE
+873
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Static flexibility refers to the range of possible movement about a joint (28) and its surrounding muscles during a passive movement (40).
+
+PARENT
+Flexibility
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Dynamic Flexibility
+
+PAGE
+873
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Dynamic flexibility, on the other hand, refers to the available ROM during active movements and therefore requires voluntary muscular actions.
+
+PARENT
+Flexibility
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Mobility Definition
+
+PAGE
+862-863
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Mobility involves the capacity to move freely and effectively through movements (67) and is a dynamic quality requiring a combination of motor control, stability, and flexibility; it more closely relates to the movement requirements an athlete will face in his or her sport and in the general activities of life (51).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Postactivation Performance Enhancement (PAPE) Definition
+
+PAGE
+867
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Research suggests that an acute stimulus of low-volume exercise can acutely enhance neuromuscular performance, a concept known as postactivation performance enhancement (PAPE), and outlines the potential for residual force enhancement from prior activity (45).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Elasticity Definition
+
+PAGE
+876
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Elasticity refers to the ability to return to original resting length after a passive stretch, while plasticity refers to the tendency to assume a new and greater length after a passive stretch.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Plasticity Definition
+
+PAGE
+876
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Elasticity refers to the ability to return to original resting length after a passive stretch, while plasticity refers to the tendency to assume a new and greater length after a passive stretch.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Static Stretch Definition
+
+PAGE
+879
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+A static stretch involves a slow and constant movement toward the end position, which is then held for 10 to 30 seconds (66).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Dynamic Stretching Definition
+
+PAGE
+880
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Dynamic stretching is a broad term used to describe actions that involve active motions where a performer moves actively in a controlled and moderate paced manner through a typically large ROM (66).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Ballistic Stretch Definition
+
+PAGE
+881
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+A ballistic stretch can be considered a special type of dynamic stretch. Ballistic stretches similarly involve active muscular efforts, but rather than performing these under control, they instead use intense bouncing-type movements to achieve the required ROM (66).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Proprioceptive Neuromuscular Facilitation (PNF) Definition
+
+PAGE
+882
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Proprioceptive neuromuscular facilitation (PNF) is the most common precontraction stretching methodology. PNF was originally developed in the late 1940s as part of a neuromuscular rehabilitation program designed to relax muscles with increased tone or activity (1, 81).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Hold-Relax Definition
+
+PAGE
+885
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+The hold-relax technique begins with a passive prestretch that is held at the point of mild discomfort for 10 seconds (figure 15.3). The partner then applies a hip flexion force and instructs the athlete, “Hold and do not let me move the leg.” The athlete holds and resists the movement so that an isometric muscle action occurs and is held for 6 seconds (figure 15.4). The athlete then relaxes, and a passive stretch is performed and held for 30 seconds (figure 15.5).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Contract-Relax Definition
+
+PAGE
+887
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+The contract-relax technique also begins with a passive prestretch of the hamstrings that is held at the point of mild discomfort for 10 seconds (figure 15.6). The athlete then extends the hip against resistance from the partner so that a concentric muscle action through the full ROM occurs (figure 15.7). The athlete then relaxes, and a passive hip flexion stretch is applied and held for 30 seconds (figure 15.8) while the athlete concentrically contracts the agonist.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Hold-Relax With Agonist Contraction Definition
+
+PAGE
+887
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+The hold-relax with agonist contraction technique is identical to hold-relax in the first two phases (figures 15.9 and 15.10). During the third phase, a partner applies force to the antagonist muscle groups while the athlete is required to maintain the position through a concentric action of the agonist, thus adding to the stretch force (figure 15.11).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+Warm-Up Structure Recommendation
+
+PAGE
+858
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+The conventional advice is that a warm-up should consist of a period of aerobic exercise, followed by some form of stretching, and ending with a period of activity similar to the upcoming activity (36).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+Warm-Up Duration Recommendation
+
+PAGE
+859
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Typically, it should last between 10 and 20 minutes, depending on the specific requirements of the context.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+Warm-Up Timing Recommendation
+
+PAGE
+859
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+The warm-up should ideally end no more than 15 minutes before the start of the subsequent activity; after this time the positive effects of the warm-up start to dissipate (30).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+Static Stretch Duration Recommendation
+
+PAGE
+892
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+As to the appropriate duration for a static stretch, 15 to 30 seconds is generally recommended (81) and has been shown to be more effective than shorter durations (66).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+Stretching Timing Recommendation
+
+PAGE
+893
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+As a general guideline, stretching at the following times can provide optimal benefits: Following practice and competition. Postpractice stretching potentially facilitates ROM improvements (40), although the evidence for this is mixed (79). It should be performed within 5 to 10 minutes after practice. The increased body temperature increases the elastic properties of collagen within muscles and tendons, which potentially allows for a greater stretch magnitude. Postpractice stretching may also decrease muscle soreness, although the evidence on this is again ambiguous (59, 79). As a separate session. If increased levels of flexibility are required, additional stretching sessions may be needed. In this case, stretching should be preceded by a thorough general warm-up to allow for the increase in muscle temperature necessary for effective stretching. This type of session can be especially useful as a recovery session on the day after a competition.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+PNF Contraction Duration Recommendation
+
+PAGE
+883
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+When using static contractions, these should be held for approximately 3 to 6 seconds at no more than 20% of maximum voluntary contraction, with the first repetition generally giving the greatest benefit.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+PNF Session Frequency Recommendation
+
+PAGE
+883
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+One or two sessions per week are recommended (81).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Procedure
+
+TITLE
+RAMP Warm-Up Protocol
+
+PAGE
+861-865
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+As the name indicates, raise, activate and mobilize, and potentiate are its three key phases. The first phase of the RAMP protocol involves activities that raise the level of key physiological parameters while also focusing on enhancing the skill level of the athletes. The second phase, activating and mobilizing, could at first glance be confused with the static stretching component of a traditional warm-up. However, here again we see major differences in both the goal of the phase and subsequently the types of activities chosen. Here, a longer-term consideration is played out, whereby the focus is to develop an athlete’s movement competency (48). The third phase, potentiation, could be considered as analogous to the specific warm-up, crucially its focus on the progressive intensity of activities is different.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Procedure
+
+TITLE
+Hold-Relax PNF Stretching Procedure
+
+PAGE
+885
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+The hold-relax technique begins with a passive prestretch that is held at the point of mild discomfort for 10 seconds (figure 15.3). The partner then applies a hip flexion force and instructs the athlete, “Hold and do not let me move the leg.” The athlete holds and resists the movement so that an isometric muscle action occurs and is held for 6 seconds (figure 15.4). The athlete then relaxes, and a passive stretch is performed and held for 30 seconds (figure 15.5).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Procedure
+
+TITLE
+Contract-Relax PNF Stretching Procedure
+
+PAGE
+887
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+The contract-relax technique also begins with a passive prestretch of the hamstrings that is held at the point of mild discomfort for 10 seconds (figure 15.6). The athlete then extends the hip against resistance from the partner so that a concentric muscle action through the full ROM occurs (figure 15.7). The athlete then relaxes, and a passive hip flexion stretch is applied and held for 30 seconds (figure 15.8) while the athlete concentrically contracts the agonist.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+```
+
+```
+TYPE
+Procedure
+
+TITLE
+Hold-Relax With Agonist Contraction PNF Stretching Procedure
+
+PAGE
+887
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+The hold-relax with agonist contraction technique is identical to hold-relax in the first two phases (figures 15.9 and 15.10). During the third phase, a partner applies force to the antagonist muscle groups while the athlete is required to maintain the position through a concentric action of the agonist, thus adding to the stretch force (figure 15.11).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Warning
+
+TITLE
+Static Stretch Intensity Warning
+
+PAGE
+879
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Although injury to muscles or connective tissue may result if the static stretch is too intense, there are no real disadvantages to static stretching as long as proper technique is used.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Warning
+
+TITLE
+Ballistic Stretch Injury Warning
+
+PAGE
+881-882
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Ballistic stretching, if not appropriately controlled or sequenced, may injure muscles or connective tissues, especially when there has been a previous injury (20).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Warning
+
+TITLE
+Hyperflexibility Injury Risk Warning
+
+PAGE
+874-875
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Yet increased ROM is not a panacea, and it is important to note that both inflexibility and hyperflexibility can increase injury risk (77, 89). For example, in contact sports, an excessive ROM at the shoulder or a laxity in the ligaments of the knee may predispose the athlete to injury in contact situations.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Warning
+
+TITLE
+PNF Stretching Communication Warning
+
+PAGE
+940
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Communicate clearly with your partner before and throughout the stretch.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Warning
+
+TITLE
+Stretching Sensation Warning
+
+PAGE
+893
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+When performing static stretches, athletes should hold the stretch at a position of mild discomfort (not pain); joint integrity should never be compromised to increase ROM.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Warning
+
+TITLE
+Stretching Neural Monitoring Warning
+
+PAGE
+893
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Because neural and vascular structures are stretched during flexibility exercises, athletes should be monitored for a loss of sensation or radiating pain.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Risk Factor
+
+TITLE
+Inflexibility as Injury Risk Factor
+
+PAGE
+874
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+There are clearly optimal ranges of flexibility for different sports and activities, and injury risk may be increased when an athlete is unable to attain this range.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Risk Factor
+
+TITLE
+Flexibility Imbalance as Injury Risk Factor
+
+PAGE
+875
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Additionally, general flexibility imbalances between joints, which could increase injury risk, must be considered (87, 88).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Warm-Up Performance Improvement Evidence
+
+PAGE
+857
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+While the number of quality studies investigating the impact of warm-up on performance is surprisingly low, more than 80% of the published research has demonstrated a positive effect on performance (37, 40).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Static Stretch Performance Decrement Evidence
+
+PAGE
+863
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Studies have demonstrated negative effects of static stretching on performance in a range of parameters such as force production (9, 23-26, 27, 31, 75), power performance (21, 92, 96, 97), running speed (35), reaction or movement time (8), and strength endurance (70).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Short-Duration Static Stretch Evidence
+
+PAGE
+863
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+However, other studies show no decrement in performance, and a more recent review by Kay and Blazevich (52) concludes that there is clear evidence that short-duration static stretching has no detrimental effect on subsequent performance unless stretches are held for greater than 60 seconds.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+PNF Stretching Superiority Evidence
+
+PAGE
+882-883
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+PNF stretching has been purported as being superior to other stretching methods for increasing flexibility (81), possibly because it activates the sensory receptors in the agonist and antagonist muscles (56), although evidence for this has not been consistently shown (38, 56).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Stretching Frequency vs. Duration Evidence
+
+PAGE
+892
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Interestingly, time stretching per week seems to have a greater impact than time spent stretching within a single session, suggesting that frequency rather than duration may be a more important factor (90).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Table
+
+TITLE
+Example Raise, Activate and Mobilize, and Potentiate Warm-Up Protocol
+
+PAGE
+864-865
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+TABLE 15.1  Example Raise, Activate and Mobilize, and Potentiate Warm-Up Protocol
+Phase Action Programming
+Raise Slow jog 3 × 10 yards
+Ankling (see page 675 ) 3 × 10 yards
+Exercises performed moving from cone A to cone B and return
+A-walk 2 × 10 yards
+Low amplitude dribble run 2 × 10 yards
+Side-shuffle (see page 659 ) 2 × 10 yards
+Moderate amplitude dribble run 2 × 10 yards
+A-skip (see page 676 ) 3 × 10 yards
+Activation and mobilization Y’s and T’s with band resistance 2 × 10 each
+Squat with overhead reach 10
+Lunge with overhead side reach (see page 400 ) 10
+Hip flexion to inverted hamstring curl 10
+Straight-leg march (see page 405) 6 each leg
+Spiderman crawl (see page 406) 2 × 10 yards
+Potentiation Squat jump to box 2 × 6
+Countermovement jump to box 2 × 6
+Low hurdle jump 2 × 5
+High hurdle jump 2 × 3
+Explosive dribble run 2 × 10 yards
+Light med ball slam 3 × 6
+First exercise progression 3 sets of 4 reps at 50%, 70%, and 90% of first set load
+Note: For all drills that cover a distance, set up two cones (i.e., cone A and cone B) that are 10 yards (or meters) apart. Also, any distance measured in yards can be the same in meters; precision is not necessary.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Table
+
+TITLE
+Lower Body CNS Preparatory Exercise Combinations
+
+PAGE
+870
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+TABLE 15.2  Lower Body CNS Preparatory Exercise Combinations
+Preconditioning activity Variables Main activity
+Back squat (see page 439 ) Load: 60%-90% 1RM
+Sets: 1-3
+Reps: 1-3
+Rest before activity: 3-12 min Countermovement jump
+Resisted sprint (see page 684 ) Load: 10%-60% body weight
+Distance: 10-25 m (11-27 yd)
+Reps: 1-3
+Rest before activity: 2-5 min Sprint
+Depth jump (see page 615 ) Load: Body weight
+Height: 30-90 cm (12-35 in.)
+Sets: 1-3
+Reps: 1-3
+Rest before activity: 1-5 min Countermovement jump
+Note: These are examples; the precise pre- and postconditioning activity should be adjusted to suit the needs of the session. Similarly, the precise variables should be adjusted to the needs of the athlete and the activity.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Table
+
+TITLE
+Upper Body CNS Preparatory Exercise Combinations
+
+PAGE
+871
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+TABLE 15.3  Upper Body CNS Preparatory Exercise Combinations
+Preconditioning activity Variables Main activity
+Bench press (see page 430 ) Load: 60%-90% 1RM
+Sets: 1-3
+Reps: 1-3
+Rest before activity: 3-12 min Medicine ball throw
+Push press (see page 463 ) Load: 40%-80% 1RM
+Sets: 1-3
+Reps: 1-3
+Rest before activity: 3-12 min Shot put
+Note: These are examples; the precise pre- and postconditioning activity should be adjusted to suit the needs of the session. Similarly, the precise variables should be adjusted to the needs of the athlete and the activity.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```
+
+```
+TYPE
+Decision Rule
+
+TITLE
+Static Stretch Use Decision Rule
+
+PAGE
+863
+
+SECTION
+15.1 — Performance Preparation, Mobility, and Flexibility
+
+ORIGINAL TEXT
+Therefore, in deciding whether to use static stretching within this phase of the warm-up, it is important that the strength and conditioning professional perform a benefit–risk analysis (59).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+```

@@ -1,0 +1,28 @@
+id: recommendation.exercise_selection_bone_growth
+type: Recommendation
+canonical_name: Exercise Selection for Bone Growth
+semantic_type: Training
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 313
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'In essence, exercises should involve multiple joints, should
+  direct the force vectors primarily through the spine and hip (i.e., structural exercises),
+  and should apply external loads heavier than those with single-joint assistance
+  exercises.
+
+  '
+rationale: ''
+target_audience: ''

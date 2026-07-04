@@ -1,0 +1,33 @@
+id: table_row.precompetition_food_and_fluid_recommendations_2_hours
+type: TableRow
+canonical_name: Precompetition Food and Fluid Recommendations 2 Hours
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Aerobic Endurance Sports
+  section_title: Aerobic Endurance Sports
+  book_page: 618
+  pdf_page: 618
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_id: Table 11.1
+row_data:
+  time_before_competition: 2 h
+  food_recommendations: 1 g carbohydrate per kilogram body weight
+  fluid_recommendations: If not adequately hydrated, sip on 3-5 mL (0.10-0.17 fl oz)
+    of fluid per kilogram body weight (120)
+  sample_precompetition_meals_for_a_68_kg_150_lb_athlete: 68 g carbohydrate | 7-12
+    fl oz (207-355 mL) fluid
+  sample_meals_based_on_food_and_fluid_recommendations: 2.5 cups (525 g) boiled, plain
+    potato, flesh only | 2 mini bagels with 1 tbsp (20 g) jam | 8 fl oz (237 mL) sport
+    drink
+  carbohydrate_content: 66 g carbohydrate | 72 g carbohydrate
+  fluid_content: 8 g protein | 8 fl oz (237 mL) fluid

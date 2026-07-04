@@ -1,0 +1,31 @@
+id: concept.vector_quantities
+type: Concept
+canonical_name: Vector Quantities
+semantic_type: Physical_Quantity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Human Strength and Power
+  section: '2.2'
+  section_title: Human Strength and Power
+  book_page: 129
+  pdf_page: 129
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'both impulse and momentum are vector quantities, which means that the
+  athlete considers both magnitude (how much) and direction (which way)
+
+  '
+attributes:
+- magnitude
+- direction
+purpose: []
+related_concepts:
+- concept.impulse
+- concept.momentum

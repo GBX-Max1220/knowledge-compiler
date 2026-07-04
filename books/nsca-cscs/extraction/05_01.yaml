@@ -1,0 +1,749 @@
+Based on the provided text from Section 5.1 of "Essentials of Strength and Conditioning", here are the ontology-labeled extraction items.
+
+```
+TYPE
+Definition
+
+TITLE
+Anaerobic Training
+
+PAGE
+281-282
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Characterized by high-intensity, intermittent bouts of exercise, anaerobic training requires adenosine triphosphate (ATP) to be regenerated at a faster rate than can be produced by oxidative metabolism alone. Consequently, the energy requirement relies on a greater proportion of energy coming from non-oxidative energy systems, which include the phosphagen or creatine phosphate system and a smaller proportion coming from glycolysis. Thus, the term anaerobic training is used in this text to describe exercise training that is performed at intensities that rely primarily on non-oxidative metabolism to meet energy demands.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Motor Unit
+
+PAGE
+289
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+The functional unit of the neuromuscular system is the motor unit. Consisting of the alpha motor neuron and the muscle fibers that it activates, a motor unit may innervate <10 muscle fibers for small, intricate muscles or >100 fibers for large, powerful trunk and limb muscles.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Henneman’s Size Principle
+
+PAGE
+290
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+The recruitment or decruitment of motor units in an orderly manner is governed by Henneman’s size principle (figure 5.2), which represents the relationship between motor unit twitch force and recruitment threshold (140). According to this principle, motor units are recruited in an ascending order according to their soma size.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Muscle Hypertrophy
+
+PAGE
+299
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Muscle hypertrophy is the term given to the enlargement of muscle fiber cross-sectional area (CSA) following training.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Hyperplasia
+
+PAGE
+302
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Hyperplasia is the term given to an increase in the number of muscle fibers via longitudinal fiber splitting in response to high-intensity resistance training.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Minimal Essential Strain (MES)
+
+PAGE
+311
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+The term minimal essential strain (MES) refers to the threshold stimulus that initiates new bone formation.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Detraining
+
+PAGE
+333
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Detraining is the term given to a decrement in performance and loss of the accumulated physiological adaptations following the cessation of anaerobic training or when there is a substantial reduction in frequency, volume, intensity, or any combination of these variables.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Cross-education
+
+PAGE
+296
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Exercising muscle undergoing unilateral resistance training produces increased strength and neural activity in the contralateral resting muscle, a phenomenon known as cross-education (79).
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Bilateral Deficit
+
+PAGE
+296-297
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+In untrained individuals, a bilateral deficit is evident. The force produced when both limbs contract together is lower than the sum of the forces they produce when contracting unilaterally.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Bilateral Facilitation
+
+PAGE
+297
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+In fact, trained or stronger individuals often show a bilateral facilitation effect whereby an increase in voluntary activation of the agonist muscle groups is observed during bilateral contraction (64a).
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Exercise-Induced Muscle Damage (EIMD)
+
+PAGE
+300
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Exercise-induced muscle damage (EIMD) and disruption of myofibrils and the uniform structure of muscle fiber sarcomeres following high-intensity anaerobic training (e.g., resistance training) also have a marked effect on muscle growth (35).
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Pennation Angle
+
+PAGE
+306
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Pennation angle affects the force production capabilities as well as the range of motion of a muscle.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Osteogenic Stimuli
+
+PAGE
+314
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Exercise selection is critical when one is trying to elicit maximal osteogenic stimuli (factors that stimulate new bone formation).
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Tendon Stiffness
+
+PAGE
+319
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Past studies indicate that tendon stiffness (force transmission per unit of strain, or tendon elongation) increases as a result of resistance training (101, 123).
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Rate–Pressure Product
+
+PAGE
+325
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Similarly, the rate–pressure product (heart rate × systolic blood pressure; a measure of myocardial work) has been shown to either remain constant or decrease following resistance training.
+
+END
+```
+
+```
+TYPE
+Threshold
+
+TITLE
+Minimal Essential Strain (MES) Threshold for Bone Formation
+
+PAGE
+311
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+The MES is thought to be approximately 1/10 of the force required to fracture bone.
+
+END
+```
+
+```
+TYPE
+Threshold
+
+TITLE
+Optimal Load for Peak Power in the Jump Squat
+
+PAGE
+331
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+The optimal load for maximizing absolute peak power output in the jump squat is 0% of the 1RM (i.e., body weight [31]).
+
+END
+```
+
+```
+TYPE
+Threshold
+
+TITLE
+Optimal Load for Peak Power in the Squat
+
+PAGE
+331
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Peak power in the squat is maximized at 56% of the 1RM and in the power clean at 80% of the 1RM (31).
+
+END
+```
+
+```
+TYPE
+Threshold
+
+TITLE
+Optimal Load for Peak Power in the Bench Press Throw
+
+PAGE
+331
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+For the upper body, peak power output can be maximized during the ballistic bench press throw using loads corresponding to 46% to 62% of a bench press 1RM (15, 128).
+
+END
+```
+
+```
+TYPE
+Threshold
+
+TITLE
+Load Intensity for Tendon Stiffness
+
+PAGE
+319
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+The intensity of exercise is critical; heavy loads (80% 1RM) increase tendon stiffness, but light loads (20% 1RM) do not (100).
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Strength Gains in Untrained Limb via Cross-Education
+
+PAGE
+296
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+A literature review has shown that strength in the untrained limb may increase up to 22%, with an average strength increase of approximately 8% following training periods ranging from 4 to 12 weeks (125).
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Increase in Resting CP and ATP After Resistance Training
+
+PAGE
+308
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+MacDougall and colleagues (113) reported a 28% increase in resting CP and an 18% increase in ATP concentrations following five months of resistance training (i.e., 3 to 5 sets of 8-10 repetitions with 2-min rest periods).
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Increase in Glycogen Content After Bodybuilding-Style Training
+
+PAGE
+308
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+In addition, it appears that bodybuilding-style programs such as this, which stress fast glycolysis, may also be a potent stimulus for the enhancement of glycogen content, which was found to increase up to 112% (113).
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Increase in Achilles Tendon Stiffness After Resistance Training
+
+PAGE
+319
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+In fact, Kubo and colleagues (99) reported a 15% to 19% increase in Achilles tendon stiffness following eight weeks of resistance training.
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Increase in Patella Tendon CSA After Knee Extension Training
+
+PAGE
+319
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Furthermore, patella tendon CSA increased by 5% to 6% after nine weeks of knee extension training (151).
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Strength Performance Maintained During Short-Term Inactivity
+
+PAGE
+333
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+In trained weightlifters, removing the training stimulus for 14 days did not significantly affect 1RM strength performance in the bench press (−1.7%) and squat (−0.9%), isometric (−7%) and isokinetic concentric knee extension force (−2.3%), or vertical jump performance (1.2%) (108).
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Decline in Fast-Twitch Fiber CSA After 14 Days of Inactivity
+
+PAGE
+334
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+In 12 trained weightlifters, Hortobagyi and colleagues (78) observed a decline of 6.4% in fast-twitch fiber CSA in 14 days.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+Stimulating Bone Formation
+
+PAGE
+316
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Select multijoint, compound exercises that involve many muscle groups at once.
+Select some exercises that direct axial force vectors through the spine and hip.
+Use both heavy-load exercises and ballistic or high-impact exercises to expose the bone to different intensities of force.
+Use multidirectional movements that incorporate all planes of motion to stimulate growth in different areas of the bone.
+Use the principle of progressive overload to stress the musculoskeletal system and continue to progressively increase load as the tissues become accustomed to the stimulus.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+Stimulating Connective Tissue Adaptations (Tendons, Ligaments, Fascia)
+
+PAGE
+320
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Long-term adaptations in tendons, ligaments, and fascia are stimulated through progressive high-intensity loading patterns using external resistances.
+High-intensity loads should be used, because low to moderate intensities do not markedly change the collagen content of connective tissue.
+Forces should be exerted throughout the full range of motion of a joint, and wherever possible multijoint exercises should be used.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+TITLE
+Stimulating Cartilage Adaptations
+
+PAGE
+320
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Moderate-intensity anaerobic exercise seems to be adequate for increasing cartilage thickness. Strenuous exercise does not appear to cause any degenerative joint disease when progressively overloaded appropriately.
+Tissue viability can be maintained by adopting a variety of exercise modalities and ensuring that load is applied throughout the range of motion.
+
+END
+```
+
+```
+TYPE
+Figure
+
+TITLE
+Figure 5.1
+
+PAGE
+288
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+FIGURE 5.1  Potential sites of adaptation within the neuromuscular system.
+
+END
+```
+
+```
+TYPE
+Figure
+
+TITLE
+Figure 5.2
+
+PAGE
+290
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+FIGURE 5.2 Graphic representation of the size principle, according to which motor units are organized based on the size of the neuronal soma.
+
+END
+```
+
+```
+TYPE
+Figure
+
+TITLE
+Figure 5.3
+
+PAGE
+305
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+FIGURE 5.3 Muscle fiber transitions occur during training, and these changes are not influenced by sex (17, 158).
+
+END
+```
+
+```
+TYPE
+Figure
+
+TITLE
+Figure 5.4
+
+PAGE
+310
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+FIGURE 5.4 Bone modeling in response to mechanical loading.
+
+END
+```
+
+```
+TYPE
+Figure
+
+TITLE
+Figure 5.5
+
+PAGE
+317
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+FIGURE 5.5 Formation of a collagen fiber.
+
+END
+```
+
+```
+TYPE
+Table
+
+TITLE
+Table 5.1
+
+PAGE
+283-285
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+TABLE 5.1  Primary Metabolic Demands of Various Sports
+
+END
+```
+
+```
+TYPE
+Table
+
+TITLE
+Table 5.2
+
+PAGE
+285-286
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+TABLE 5.2  Physiological Adaptations to Resistance Training
+
+END
+```
+
+```
+TYPE
+Decision Rule
+
+TITLE
+Motor Unit Recruitment According to the Size Principle
+
+PAGE
+290
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+According to this principle, motor units are recruited in an ascending order according to their soma size. Thus, motor units with small motor neurons have lower recruitment thresholds than do motor units with large motor neurons.
+
+END
+```
+
+```
+TYPE
+Decision Rule
+
+TITLE
+Stimulus for New Bone Formation
+
+PAGE
+311
+
+SECTION
+5.1 — Adaptations to Anaerobic Training
+
+ORIGINAL TEXT
+Consistently exceeding these thresholds signals osteoblasts to migrate to the region experiencing the stress and to form bone, while forces that fall below the MES do not present an appropriate stimulus for new bone formation.
+
+END
+```

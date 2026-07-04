@@ -1,0 +1,15 @@
+id: threshold.normal_resting_blood_pressure
+type: Threshold
+canonical_name: Normal Resting Blood Pressure Range
+semantic_type: Range
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 87
+  pdf_page: 87
+provenance: null

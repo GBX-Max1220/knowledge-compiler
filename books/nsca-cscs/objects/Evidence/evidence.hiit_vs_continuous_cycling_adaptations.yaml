@@ -1,0 +1,29 @@
+id: evidence.hiit_vs_continuous_cycling_adaptations
+type: Evidence
+canonical_name: HIIT vs. Continuous Cycling Adaptations
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 219
+  pdf_page: 219
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+evidence_text: 'Gibala and coworkers (63) reported equivalent improvements in muscle
+  buffering capacity and glycogen content for HIIT at 250% of V̇O2peak during four
+  to six 30-second cycling sprints compared to continuous cycling for 90 to 120 minutes
+  at 65% of V̇O2peak over six total training sessions. In addition, 750 kilojoules
+  cycling time trials decreased in both groups by 10.1% and 7.5% in the HIIT and long,
+  slow endurance training groups, respectively.
+
+  '
+citations:
+- '63'

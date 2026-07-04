@@ -1,0 +1,31 @@
+id: recommendation.consuming_multiple_carbohydrates_exercise
+type: Recommendation
+canonical_name: Consuming Multiple Types of Carbohydrates During Exercise
+semantic_type: NutritionGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 626
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Therefore, consuming multiple types of carbohydrates together, such as
+  sucrose, fructose, and glucose or maltodextrin, increases the rate of carbohydrate
+  absorption and exogenous carbohydrate oxidation compared to consuming an isocaloric
+  amount of just one type of sugar (62).
+
+  '
+attributes: []
+purpose:
+- increase rate of carbohydrate absorption
+- increase exogenous carbohydrate oxidation
+related_concepts: []

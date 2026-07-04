@@ -1,0 +1,29 @@
+id: concept.training_frequency
+type: Concept
+canonical_name: Training Frequency
+semantic_type: Training_Variable
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  book_page: 1520
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Training frequency refers to the number of training sessions conducted
+  per day or per week.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,26 @@
+id: concept.myoglobin
+type: Concept
+canonical_name: Myoglobin
+semantic_type: Protein
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Adaptations to Aerobic Endurance Training
+  section: '6'
+  section_title: Adaptations to Aerobic Endurance Training
+  book_page: 348
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Myoglobin is a protein that transports oxygen within the cell.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

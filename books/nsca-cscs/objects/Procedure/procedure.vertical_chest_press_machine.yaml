@@ -1,0 +1,42 @@
+id: procedure.vertical_chest_press_machine
+type: Procedure
+canonical_name: Vertical Chest Press (Machine)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Special Populations
+  section: '16.2'
+  section_title: Machine Exercises
+  book_page: 997
+  pdf_page: 997
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Starting Position Sit down and lean back on the seat in the five-point
+  body contact position. Grasp the handles with a closed, pronated grip. Align handles
+  with the nipples. If necessary, adjust the seat height to correctly position the
+  handles. All repetitions begin from this position. Forward Movement Phase Push the
+  handles away from the chest to a fully extended elbow position. Do not arch the
+  lower back or forcefully lock out the elbows. Maintain the five-point body contact
+  position. Backward Movement Phase Allow the handles to slowly move backward to the
+  starting position. Maintain the five-point body contact position.
+
+  '
+attributes:
+- closed_pronated_grip
+- seated_position
+- five_point_body_contact_position
+- machine_exercise
+purpose:
+- strengthen chest muscles
+- strengthen shoulder muscles
+- strengthen triceps
+related_concepts:
+- concept.chest_press_machine
+- concept.five_point_body_contact_position

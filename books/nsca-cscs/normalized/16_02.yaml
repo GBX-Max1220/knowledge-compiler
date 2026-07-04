@@ -1,0 +1,489 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.incline_dumbbell_bench_press
+type: Procedure
+canonical_name: Incline Dumbbell Bench Press
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "16.2"
+  section_title: "Machine Exercises"
+  book_page: 991
+  pdf_page: 991
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: procedure.barbell_bench_press
+
+definition: >
+  Starting Position: Athlete
+  Grasp two dumbbells using a closed, pronated grip.
+  Lie in a supine position on an incline bench in the five-point body contact position.
+  Signal the spotter for assistance in moving the dumbbells into the starting position.
+  Press the dumbbells in unison to an extended-elbow, parallel-arm position above the head and face.
+  All repetitions begin from this position.
+  Starting Position: Spotter
+  Stand erect and very close to the head of the bench (but do not distract the athlete).
+  Place the feet shoulder-width apart with the knees slightly flexed.
+  Grasp the athlete's forearms near the wrists.
+  At the athlete's signal, assist with moving the dumbbells to a position over the athlete's head and face.
+  Release the athlete's forearms smoothly.
+  Downward Movement Phase: Athlete
+  Lower the dumbbells down and slightly out to be near the armpits and in line with the upper one-third area of the chest (between the clavicles and the nipples).
+  Keep the wrists stiff and directly above the elbows, with the dumbbell handles aligned with each other.
+  Maintain the five-point body contact position.
+  Do not arch the back or raise the chest to meet the dumbbells.
+  Downward Movement Phase: Spotter
+  Keep the hands near—but not touching—the athlete's forearms near the wrists as the dumbbells descend.
+  Slightly flex the knees, hips, and torso and keep the back neutral when following the dumbbells.
+  Upward Movement Phase: Athlete
+  Push the dumbbells upward at the same rate and very slightly toward each other until the elbows are fully extended.
+  Keep the wrists stiff and directly above the elbows, with the dumbbell handles aligned with each other.
+  Maintain the five-point body contact position.
+  Upward Movement Phase: Spotter
+  Keep the hands near—but not touching—the athlete's forearms near the wrists as the dumbbells ascend.
+  Slightly extend the knees, hips, and torso and keep the back neutral when following the dumbbells.
+
+attributes:
+  - closed_pronated_grip
+  - supine_position
+  - incline_bench
+  - five_point_body_contact_position
+  - spotter_assistance
+
+purpose:
+  - strengthen chest muscles
+  - strengthen shoulder muscles
+  - strengthen triceps
+
+related_concepts:
+  - concept.dumbbell
+  - concept.incline_bench
+  - concept.five_point_body_contact_position
+  - concept.spotter
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.flat_dumbbell_fly
+type: Procedure
+canonical_name: Flat Dumbbell Fly
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "16.2"
+  section_title: "Machine Exercises"
+  book_page: 994
+  pdf_page: 994
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: procedure.dumbbell_fly
+
+definition: >
+  Starting Position: Athlete
+  Grasp two dumbbells using a closed, neutral grip.
+  Lie in a supine position on a bench in the five-point body contact position.
+  Signal the spotter for assistance in moving the dumbbells into the starting position.
+  Press the dumbbells in unison to an extended-elbow position above the chest.
+  Slightly flex the elbows and point them out to the sides.
+  All repetitions begin from this position.
+  Starting Position: Spotter
+  Position one knee on the floor with the foot of the other leg forward and flat on the floor (or kneel on both knees).
+  Grasp the athlete's forearms near the wrists.
+  At the athlete's signal, assist with moving the dumbbells to a position over the athlete's chest.
+  Release the athlete's forearms smoothly.
+  Downward Movement Phase: Athlete
+  Lower the dumbbells in a wide arc until they are level with the shoulders or chest.
+  Keep the dumbbell handles parallel to each other as the elbows move downward.
+  Keep the wrists stiff and the elbows held in a slightly flexed position.
+  Keep the hands, wrists, forearms, elbows, upper arms, and shoulders in the same vertical plane.
+  Maintain the five-point body contact position.
+  Downward Movement Phase: Spotter
+  Keep the hands near—but not touching—the athlete's forearms near the wrists as the dumbbells descend.
+  Upward Movement Phase: Athlete
+  Raise the dumbbells up toward each other in a wide arc back to the starting position.
+  Keep the wrists stiff and the elbows held in a slightly flexed position.
+  Keep the hands, wrists, forearms, elbows, upper arms, and shoulders in the same vertical plane.
+  Maintain the five-point body contact position.
+  Upward Movement Phase: Spotter
+  Keep the hands near—but not touching—the athlete's forearms near the wrists as the dumbbells ascend.
+
+attributes:
+  - closed_neutral_grip
+  - supine_position
+  - flat_bench
+  - five_point_body_contact_position
+  - spotter_assistance
+
+purpose:
+  - strengthen chest muscles
+  - strengthen shoulder muscles
+
+related_concepts:
+  - concept.dumbbell
+  - concept.flat_bench
+  - concept.five_point_body_contact_position
+  - concept.spotter
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.vertical_chest_press_machine
+type: Procedure
+canonical_name: Vertical Chest Press (Machine)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "16.2"
+  section_title: "Machine Exercises"
+  book_page: 997
+  pdf_page: 997
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Starting Position
+  Sit down and lean back on the seat in the five-point body contact position.
+  Grasp the handles with a closed, pronated grip.
+  Align handles with the nipples. If necessary, adjust the seat height to correctly position the handles.
+  All repetitions begin from this position.
+  Forward Movement Phase
+  Push the handles away from the chest to a fully extended elbow position.
+  Do not arch the lower back or forcefully lock out the elbows.
+  Maintain the five-point body contact position.
+  Backward Movement Phase
+  Allow the handles to slowly move backward to the starting position.
+  Maintain the five-point body contact position.
+
+attributes:
+  - closed_pronated_grip
+  - seated_position
+  - five_point_body_contact_position
+  - machine_exercise
+
+purpose:
+  - strengthen chest muscles
+  - strengthen shoulder muscles
+  - strengthen triceps
+
+related_concepts:
+  - concept.chest_press_machine
+  - concept.five_point_body_contact_position
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.pec_deck_machine
+type: Procedure
+canonical_name: Pec Deck (Machine)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "16.2"
+  section_title: "Machine Exercises"
+  book_page: 999
+  pdf_page: 999
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Starting Position
+  Sit down and lean back on the seat in the five-point body contact position. (Note: Some back pads are not long enough to allow the back of the head to be in contact with the bench.)
+  Grasp the handles with a closed, neutral grip.
+  Align the handles with the midchest so that the arms are parallel to the floor. If necessary, adjust the seat height to correctly position the handles.
+  All repetitions begin from this position.
+  Forward Movement Phase
+  Pull the handles toward each other while maintaining a slight flex in the elbow, until the fingers touch in front of the body.
+  Do not arch the back or lock out the elbows.
+  Maintain the five-point body contact position.
+  Backward Movement Phase
+  Allow the handles to slowly move outward back to the starting position.
+  Maintain the five-point body contact position.
+
+attributes:
+  - closed_neutral_grip
+  - seated_position
+  - five_point_body_contact_position
+  - machine_exercise
+
+purpose:
+  - strengthen chest muscles
+  - strengthen shoulder muscles
+
+related_concepts:
+  - concept.pec_deck_machine
+  - concept.five_point_body_contact_position
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.wrist_curl
+type: Procedure
+canonical_name: Wrist Curl
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "16.2"
+  section_title: "Machine Exercises"
+  book_page: 1001
+  pdf_page: 1001
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Starting Position
+  Sit on the end of a bench.
+  Grasp the bar with a closed, supinated grip about hip- to shoulder-width apart.
+  Position the feet and legs parallel to each other with the toes pointing straight ahead.
+  Lean the torso forward and place the elbows and forearms on the top of the thighs.
+  Move the wrists forward until they extend slightly beyond the patellae.
+  Allow the wrists to extend and the hands to open so that the fingertips hold the bar.
+  Upward Movement Phase
+  Raise the bar by flexing the fingers and then the wrists.
+  Flex the wrists as far as possible without moving the elbows or forearms.
+  Do not jerk the shoulders backward or swing the bar upward.
+  Downward Movement Phase
+  Allow the wrists and fingers to slowly extend back to the starting position.
+  Keep the torso and arms in the same position.
+
+attributes:
+  - closed_supinated_grip
+  - seated_position
+  - forearm_supported
+
+purpose:
+  - strengthen wrist flexors
+  - strengthen finger flexors
+
+related_concepts:
+  - concept.barbell
+  - concept.bench
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.wrist_extension
+type: Procedure
+canonical_name: Wrist Extension
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "16.2"
+  section_title: "Machine Exercises"
+  book_page: 1003
+  pdf_page: 1003
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Starting Position
+  Sit on the end of a bench.
+  Grasp the bar with a closed, pronated grip about hip- to shoulder-width apart.
+  Position the feet and legs parallel to each other with the toes pointing straight ahead.
+  Lean the torso forward and place the elbows and forearms on the top of the thighs.
+  Move the wrists forward until they are slightly beyond the patellae.
+  Keep a closed grip on the bar but allow the wrists to flex toward the floor.
+  Upward Movement Phase
+  Raise the bar by extending the wrists.
+  Extend the wrists as far as possible without moving the elbows or forearms.
+  Do not jerk the body backward or swing the bar upward.
+  Downward Movement Phase
+  Allow the wrists to slowly flex back to the starting position.
+  Keep the torso and arms in the same position.
+  Maintain a closed grip.
+
+attributes:
+  - closed_pronated_grip
+  - seated_position
+  - forearm_supported
+
+purpose:
+  - strengthen wrist extensors
+
+related_concepts:
+  - concept.barbell
+  - concept.bench
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.hip_sled_machine
+type: Procedure
+canonical_name: Hip Sled (Machine)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "16.2"
+  section_title: "Machine Exercises"
+  book_page: 1005
+  pdf_page: 1005
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Starting Position
+  Sit in the machine with the lower back, hips, and buttocks pressed against their pads.
+  Place the feet flat on the platform hip-width apart with the toes slightly angled out.
+  Position the legs parallel to each other.
+  Grasp the handles or the sides of the seat and move the hips and knees to a fully extended position, but do not forcefully lock the knees.
+  Keep the hips on the seat and the back pressed firmly and evenly against the back pad.
+  Remove the support mechanism from the foot platform and grasp the handles or the seat again.
+  All repetitions begin from this position.
+  Downward Movement Phase
+  Allow the hips and knees to slowly flex to lower the platform.
+  Do not allow the platform to lower rapidly.
+  Keep the hips and buttocks on the seat and the back pressed firmly and evenly against the back pad.
+  Keep the knees aligned over the feet as they flex.
+  Allow the hips and knees to flex until the thighs are parallel to the foot platform.
+  Do not allow the buttocks to lose contact with the seat, the hips to roll off the back pad, or the heels to rise off the foot platform.
+  Upward Movement Phase
+  Push the platform up by extending the hips and knees.
+  Push to a fully extended position, but do not forcefully lock out the knees.
+  Maintain the same hip and back position; do not allow the buttocks to rise.
+  Keep the knees aligned over the feet as they extend.
+  At the end of the set, return the supports to the starting position, remove the feet, and exit the machine.
+
+attributes:
+  - seated_position
+  - machine_exercise
+
+purpose:
+  - strengthen quadriceps
+  - strengthen hamstrings
+  - strengthen glutes
+
+related_concepts:
+  - concept.hip_sled_machine
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.back_squat
+type: Procedure
+canonical_name: Back Squat
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "16.2"
+  section_title: "Machine Exercises"
+  book_page: 1008
+  pdf_page: 1008
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: procedure.squat
+
+definition: >
+  Starting Position: Athlete
+  Grasp the bar with a closed, pronated grip (actual width depends on the bar position).
+  Step under the bar and position the feet parallel to each other.
+  Place the bar in a balanced position on the upper back and shoulders in one of two locations:
+  Low bar position. Across the posterior deltoids at the middle of the trapezius (using a handgrip wider than shoulder width)
+  High bar position. Above the posterior deltoids at the base of the neck (using a handgrip only slightly wider than shoulder width)
+  Lift the elbows up to create a shelf for the bar using the upper back and shoulder muscles.
+  Hold the chest up and out.
+  Tilt the head slightly up.
+  Once in position, signal the spotters for assistance in moving the bar off the supports.
+  Extend the hips and knees to lift the bar.
+  Take one or two steps backward.
+  Position the feet shoulder-width apart (or wider), even with each other, with the toes pointed slightly outward.
+  All repetitions begin from this position.
+  Starting Position: Two Spotters
+  Stand erect at opposite ends of the bar with the feet shoulder-width apart and the knees slightly flexed.
+  Grasp the end of the bar by wrapping the hands around the bar with the thumbs crossed and palms facing the barbell.
+  At the athlete's signal, assist with lifting and balancing the bar as it is moved off the supports.
+  Release the bar smoothly.
+  Hold the hands 2 to 3 inches (5-8 cm) below the ends of the bar.
+  Move sideways in unison with the athlete as the athlete moves backward.
+  Once the athlete is in position, get into a shoulder-width stance with the knees slightly flexed and the torso erect.
+  Downward Movement Phase: Ath

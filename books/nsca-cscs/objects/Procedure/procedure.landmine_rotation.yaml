@@ -1,0 +1,53 @@
+id: procedure.landmine_rotation
+type: Procedure
+canonical_name: Landmine Rotation
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Unilateral Training
+  section: '17.5'
+  section_title: Unilateral Training
+  book_page: 1166-1167
+  pdf_page: 1166-1167
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Starting Position Stand facing the free end of the barbell, then squat
+  down to grasp the end of the barbell sleeve with both hands (not shown) and pick
+  it up. After standing, press the free end of the barbell up to position it in front
+  of the midline of the body approximately level with the eyes. Stand with the feet
+  approximately shoulder-width apart and knees slightly flexed. The body weight should
+  be shifted to the balls of the feet but with the heels remaining in contact with
+  the floor. Brace the trunk with the head and spine in a neutral position (4). Rotate
+  to the Left Lower the bar by rotating to the left while also allowing the torso,
+  hips, and back foot (i.e., the foot opposite the direction of the bar rotation)
+  to rotate in the same direction of the barbell (4) (somewhat more than what is shown).
+  Return to the Starting Position Using a forceful and rapid motion, rotate the bar
+  back to the starting position while keeping the torso and hips aligned with a neutral
+  head position. During this motion keep the arms extended and in front of the torso
+  throughout the rotational elevation of the barbell while returning to the starting
+  position (4). Rotate to the Right Lower the bar by rotating to the right while also
+  allowing the torso, hips, and back foot (i.e., the foot opposite the direction of
+  the bar rotation) to rotate in the same direction of the barbell (4) (somewhat more
+  than what is shown). Return to the Starting Position Using a forceful and rapid
+  motion, rotate the bar back to the starting position while keeping the torso and
+  hips aligned with a neutral head position. During this motion keep the arms extended
+  and in front of the torso throughout the rotational elevation of the barbell while
+  returning to the starting position (4). MAJOR MUSCLES INVOLVED rectus abdominis,
+  obliques, erector spinae
+
+  '
+attributes:
+- barbell
+- landmine
+purpose: []
+related_concepts:
+- concept.rectus_abdominis
+- concept.obliques
+- concept.erector_spinae

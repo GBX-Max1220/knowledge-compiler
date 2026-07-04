@@ -1,0 +1,38 @@
+id: recommendation.test_sequencing_order
+type: Recommendation
+canonical_name: Test Sequencing Order
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing
+  section: '13.4'
+  section_title: Test Selection
+  book_page: 757
+  pdf_page: 757
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A logical sequence, although there are some variations, is to administer
+  tests in this order: 1. Nonfatiguing tests (e.g., height, weight, flexibility, skinfolds
+  and girth measurements, vertical jump) 2. Agility tests (e.g., T-test, 5-10-5 test,
+  5-0-5 test, Illinois test) 3. Maximum power and strength tests (e.g., 1RM power
+  clean, 1RM squat, 1RM bench press) 4. Sprint tests (e.g., 40 m sprint with split
+  times at 10 m and 20 m) 5. Local muscular endurance tests (e.g., push-up test, partial
+  curl-up, YMCA bench press test)
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.nonfatiguing_tests
+- concept.agility_tests
+- concept.maximum_power_tests
+- concept.maximum_strength_tests
+- concept.sprint_tests
+- concept.local_muscular_endurance_tests

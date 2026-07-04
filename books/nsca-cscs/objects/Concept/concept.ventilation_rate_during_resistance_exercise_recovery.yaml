@@ -1,0 +1,28 @@
+id: concept.ventilation_rate_during_resistance_exercise_recovery
+type: Concept
+canonical_name: Ventilation Rate During Resistance Exercise Recovery
+semantic_type: PhysiologicalResponse
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: Ventilatory Response to Anaerobic Exercise
+  section_title: Ventilatory Response to Anaerobic Exercise
+  book_page: 96
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Ventilation rates of more than 60 L/min have been reported (35), and
+  the rest interval length had a large effect such that short rest intervals (30 s
+  to 1 min) produced the most substantial elevation.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

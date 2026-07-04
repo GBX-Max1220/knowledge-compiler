@@ -1,0 +1,40 @@
+id: warning.citrus_aurantium_adverse_effects
+type: Warning
+canonical_name: Citrus Aurantium Adverse Effects
+semantic_type: Adverse Effect
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 724
+  pdf_page: 724
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.vasoconstriction
+- predicate: has_attribute
+  target: concept.elevations_in_blood_pressure
+definition: 'Synephrine has been shown to stimulate peripheral α-1 receptors, resulting
+  in vasoconstriction and elevations in blood pressure (31). However, other research
+  has shown that when citrus aurantium is ingested alone, no effect on blood pressure
+  is seen (103), but in combination with other herbal products it may cause significant
+  elevations in systolic blood pressure (103). It should be noted that synephrine
+  is currently on the National Collegiate Athletic Association’s banned list of performance-enhancing
+  drugs.
+
+  '
+attributes:
+- vasoconstriction
+- elevations_in_blood_pressure
+purpose: []
+related_concepts:
+- concept.synephrine
+- concept.citrus_aurantium

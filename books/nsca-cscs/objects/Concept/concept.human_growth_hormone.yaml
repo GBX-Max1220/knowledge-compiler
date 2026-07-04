@@ -1,0 +1,32 @@
+id: concept.human_growth_hormone
+type: Concept
+canonical_name: Human Growth Hormone
+semantic_type: Substance
+aliases:
+- HGH
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 690
+  pdf_page: 690
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Human growth hormone (HGH), a protein secreted from the anterior pituitary
+  gland, has several important physiological functions that enhance its ergogenic
+  effect. It is anabolic due to its stimulation of bone and skeletal muscle growth,
+  but it also has important metabolic functions such as maintaining blood glucose
+  levels, increasing the uptake of glucose and amino acids into muscle cells (67),
+  and stimulating release of fatty acids from the fat cells.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

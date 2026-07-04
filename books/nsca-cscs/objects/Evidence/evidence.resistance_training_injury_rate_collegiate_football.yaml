@@ -1,0 +1,35 @@
+id: evidence.resistance_training_injury_rate_collegiate_football
+type: Evidence
+canonical_name: Resistance Training Injury Rate in Collegiate Football
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 161
+  pdf_page: 161
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+claim: A study of collegiate American football players showed only 0.35 resistance
+  training–related injuries per 100 players per season.
+evidence_text: 'A study of collegiate American football players showed only 0.35 resistance
+  training–related injuries per 100 players per season.
+
+  '
+statistics:
+- value: '0.35'
+  unit: injuries per 100 players per season
+  context: Resistance training injuries in collegiate American football
+citations:
+- reference_number: ''
+  page_number: 161
+related_concepts:
+- concept.resistance_training

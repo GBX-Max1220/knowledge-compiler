@@ -1,0 +1,43 @@
+id: procedure.back_squat
+type: Procedure
+canonical_name: Back Squat
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Special Populations
+  section: '16.2'
+  section_title: Machine Exercises
+  book_page: 1008
+  pdf_page: 1008
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: procedure.squat
+definition: 'Starting Position: Athlete Grasp the bar with a closed, pronated grip
+  (actual width depends on the bar position). Step under the bar and position the
+  feet parallel to each other. Place the bar in a balanced position on the upper back
+  and shoulders in one of two locations: Low bar position. Across the posterior deltoids
+  at the middle of the trapezius (using a handgrip wider than shoulder width) High
+  bar position. Above the posterior deltoids at the base of the neck (using a handgrip
+  only slightly wider than shoulder width) Lift the elbows up to create a shelf for
+  the bar using the upper back and shoulder muscles. Hold the chest up and out. Tilt
+  the head slightly up. Once in position, signal the spotters for assistance in moving
+  the bar off the supports. Extend the hips and knees to lift the bar. Take one or
+  two steps backward. Position the feet shoulder-width apart (or wider), even with
+  each other, with the toes pointed slightly outward. All repetitions begin from this
+  position. Starting Position: Two Spotters Stand erect at opposite ends of the bar
+  with the feet shoulder-width apart and the knees slightly flexed. Grasp the end
+  of the bar by wrapping the hands around the bar with the thumbs crossed and palms
+  facing the barbell. At the athlete''s signal, assist with lifting and balancing
+  the bar as it is moved off the supports. Release the bar smoothly. Hold the hands
+  2 to 3 inches (5-8 cm) below the ends of the bar. Move sideways in unison with the
+  athlete as the athlete moves backward. Once the athlete is in position, get into
+  a shoulder-width stance with the knees slightly flexed and the torso erect. Downward
+  Movement Phase: Ath'

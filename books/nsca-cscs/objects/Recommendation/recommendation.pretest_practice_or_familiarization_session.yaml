@@ -1,0 +1,31 @@
+id: recommendation.pretest_practice_or_familiarization_session
+type: Recommendation
+canonical_name: Pretest Practice or Familiarization Session
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 758
+  pdf_page: 758
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A short, supervised pretest practice or familiarization session one to
+  three days before the test, in which the athletes exert themselves at somewhat less
+  than full intensity, is often beneficial for athletes who either have never participated
+  in the test before or have not done so for a long time.
+
+  '
+attributes: []
+purpose:
+- beneficial for athletes who have never participated in the test before or have not
+  done so for a long time
+related_concepts: []

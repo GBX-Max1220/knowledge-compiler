@@ -1,0 +1,33 @@
+id: recommendation.postexercise_carbohydrate_and_protein
+type: Recommendation
+canonical_name: Postexercise carbohydrate and protein intake
+semantic_type: Nutrition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Athletic Performance
+  section: '11.3'
+  section_title: Postcompetition Nutrition
+  book_page: 637
+  pdf_page: 637
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'After exercise, approximately 1.2 to 2.0 grams of carbohydrate per kilogram
+  body weight should be consumed within 30 minutes after stopping the exercise. The
+  addition of protein appears to facilitate glycogen replenishment if carbohydrate
+  intake is below 1.2 grams per kilogram.
+
+  '
+attributes:
+- carbohydrate
+- protein
+- postexercise
+purpose:
+- glycogen replenishment
+related_concepts: []

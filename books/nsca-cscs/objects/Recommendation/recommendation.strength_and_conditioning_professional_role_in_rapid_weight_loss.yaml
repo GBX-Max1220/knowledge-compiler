@@ -1,0 +1,30 @@
+id: recommendation.strength_and_conditioning_professional_role_in_rapid_weight_loss
+type: Recommendation
+canonical_name: Strength and Conditioning Professional Role in Rapid Weight Loss
+semantic_type: Professional Responsibility
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 648
+  pdf_page: 648
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The strength and conditioning professional should be able to recognize
+  the signs and symptoms associated with rapid weight loss techniques and refer athletes
+  to the appropriate professional while also communicating concerns to the rest of
+  the coaching staff.
+
+  '
+recommendation_type: professional_responsibility
+target_audience: strength and conditioning professional
+action: recognize signs and symptoms of rapid weight loss techniques, refer athletes,
+  and communicate concerns

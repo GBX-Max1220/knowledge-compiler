@@ -1,0 +1,28 @@
+id: procedure.straight_arms_behind_back_shoulders_and_chest_stretch
+type: Procedure
+canonical_name: Straight Arms Behind Back (Shoulders and Chest Stretch)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 897
+  pdf_page: 897
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: '1. Standing, place both arms behind the back. 2. Interlock fingers with
+  palms facing each other. 3. Straighten the elbows fully. 4. Slowly raise the arms,
+  keeping the elbows straight. 5. Keep the head upright and neck relaxed.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

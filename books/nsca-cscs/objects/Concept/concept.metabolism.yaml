@@ -1,0 +1,27 @@
+id: concept.metabolism
+type: Concept
+canonical_name: Metabolism
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Essential Terminology
+  section_title: Essential Terminology
+  book_page: 175
+  pdf_page: 175
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Metabolism is the sum of all catabolic or exergonic and anabolic or endergonic
+  reactions in a biological system.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

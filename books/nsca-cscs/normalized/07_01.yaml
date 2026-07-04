@@ -1,0 +1,1436 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.resistance_exercise
+type: Concept
+canonical_name: Resistance Exercise
+semantic_type: Activity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 384
+  pdf_page: 384
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For the purposes of this chapter, resistance exercise is defined as a specialized method of conditioning whereby an individual is working against a wide range of resistive loads to enhance health, fitness, and performance.
+
+attributes: []
+
+purpose:
+  - enhance health
+  - enhance fitness
+  - enhance performance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.childhood
+type: Concept
+canonical_name: Childhood
+semantic_type: LifeStage
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The term childhood refers to a period of life before the development of secondary sex characteristics (e.g., pubic hair and reproductive organs)
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adolescence
+type: Concept
+canonical_name: Adolescence
+semantic_type: LifeStage
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  the term adolescence refers to the period between childhood and adulthood.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.youth
+type: Concept
+canonical_name: Youth
+semantic_type: PopulationGroup
+aliases:
+  - young athlete
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.childhood
+  - predicate: is_a
+    target: concept.adolescence
+
+definition: >
+  For ease of discussion, the term youth or young athlete refers to both children and adolescents.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.older_adult
+type: Concept
+canonical_name: Older Adult
+semantic_type: PopulationGroup
+aliases:
+  - senior
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The terms older and senior include men and women over 65 years of age.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.athleticism
+type: Concept
+canonical_name: Athleticism
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 385
+  pdf_page: 385
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Athleticism reflects the ability to repeatedly execute a variety of movements with precision and confidence in a range of environments, which require appropriate levels of motor skill competency, balance, coordination, strength, power, speed, agility, and endurance (137).
+
+attributes:
+  - motor skill competency
+  - balance
+  - coordination
+  - strength
+  - power
+  - speed
+  - agility
+  - endurance
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.long_term_athletic_development
+type: Concept
+canonical_name: Long-Term Athletic Development
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 386
+  pdf_page: 386
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The National Strength and Conditioning Association considers long-term athletic development as the development of athleticism over time, with an aim to enhance physical fitness, reduce injury risk, and improve mental and physical health and well-being (137).
+
+attributes: []
+
+purpose:
+  - enhance physical fitness
+  - reduce injury risk
+  - improve mental health
+  - improve physical health
+  - improve well-being
+
+related_concepts:
+  - concept.athleticism
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.growth
+type: Concept
+canonical_name: Growth
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 387
+  pdf_page: 387
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The term growth refers to an increase in body size or a particular body part
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.development
+type: Concept
+canonical_name: Development
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 387
+  pdf_page: 387
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  development describes the natural progression from prenatal life to adulthood
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maturation
+type: Concept
+canonical_name: Maturation
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 387
+  pdf_page: 387
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  maturation is defined as progress toward a fully mature state, which varies in timing, tempo, and magnitude between different bodily systems (142)
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.puberty
+type: Concept
+canonical_name: Puberty
+semantic_type: LifeStage
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 387
+  pdf_page: 387
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Puberty refers to a period of time in which secondary sex characteristics develop and a child transitions to young adulthood.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.chronological_age
+type: Concept
+canonical_name: Chronological Age
+semantic_type: Metric
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 390
+  pdf_page: 390
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  chronological age...age in months or years
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.biological_maturation
+type: Concept
+canonical_name: Biological Maturation
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 390
+  pdf_page: 390
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  biological maturation, which can be measured in terms of skeletal age, sexual maturation, or somatic (physique) maturation.
+
+attributes:
+  - skeletal age
+  - sexual maturation
+  - somatic maturation
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ossification
+type: Concept
+canonical_name: Ossification
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 391
+  pdf_page: 391
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Ossification refers to the process of laying down new bone material by cells called osteoblasts.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.peak_height_velocity
+type: Concept
+canonical_name: Peak Height Velocity
+semantic_type: Metric
+aliases:
+  - PHV
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 391
+  pdf_page: 391
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  peak height velocity (PHV), which is defined as the age at maximum rate of growth during the pubertal growth spurt (59)
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.diaphysis
+type: Concept
+canonical_name: Diaphysis
+semantic_type: AnatomicalStructure
+aliases:
+  - primary ossification center
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 395
+  pdf_page: 395
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  diaphysis (primary ossification center), which is the central shaft of a long bone
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.growth_cartilage
+type: Concept
+canonical_name: Growth Cartilage
+semantic_type: AnatomicalStructure
+aliases:
+  - secondary ossification center
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 395
+  pdf_page: 395
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  growth cartilage (secondary ossification center), which is located at three sites in the child: the epiphyseal (growth) plate, the joint surface, and the apophyseal insertions of muscle–tendon units.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.epiphyseal_plate
+  - concept.apophyseal_insertions
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.epiphyseal_plate
+type: Concept
+canonical_name: Epiphyseal Plate
+semantic_type: AnatomicalStructure
+aliases:
+  - growth plate
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 395
+  pdf_page: 395
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.growth_cartilage
+
+definition: >
+  epiphyseal (growth) plate
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.apophyseal_insertions
+type: Concept
+canonical_name: Apophyseal Insertions
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 395
+  pdf_page: 395
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.growth_cartilage
+
+definition: >
+  apophyseal insertions of muscle–tendon units
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.detraining
+type: Concept
+canonical_name: Detraining
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 402
+  pdf_page: 402
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This temporary reduction or withdrawal of the training stimulus is called detraining.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.early_sport_specialization
+type: Concept
+canonical_name: Early Sport Specialization
+semantic_type: Activity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 409
+  pdf_page: 409
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Early sport specialization is defined as children engaging in intensive, year-round (>8 months) training and/or competition in a single sport, typically beginning during the prepubertal years (131).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.needs_analysis
+type: Concept
+canonical_name: Needs Analysis
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 414
+  pdf_page: 414
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  needs analysis...an initial assessment of the individual's characteristics (i.e., physical, technical, psychosocial) and the demands of the sport or physical activity in which he or she participates
+
+attributes:
+  - physical
+  - technical
+  - psychosocial
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.athletic_motor_skill_competencies
+type: Concept
+canonical_name: Athletic Motor Skill Competencies
+semantic_type: Attribute
+aliases:
+  - AMSC
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 415
+  pdf_page: 415
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The athletic motor skill competencies (AMSC) have been proposed to represent the foundational movements that underpin all athletic movements (figure 7.4; 194).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteopenia
+type: Concept
+canonical_name: Osteopenia
+semantic_type: Condition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 418
+  pdf_page: 418
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Osteopenia is defined by a bone mineral density between −1 and −2.5 standard deviations (SD) of the young adult mean
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteoporosis
+type: Concept
+canonical_name: Osteoporosis
+semantic_type: Condition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 419
+  pdf_page: 419
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  osteoporosis is defined by a bone mineral density below −2.5 SD of the young adult mean (119)
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sarcopenia
+type: Concept
+canonical_name: Sarcopenia
+semantic_type: Condition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 419
+  pdf_page: 419
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The term sarcopenia refers to a progressive and generalized skeletal muscle disorder that is associated with an increased likelihood of adverse outcomes including falls, fractures, physical disability, and mortality (42).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.preactivation
+type: Concept
+canonical_name: Preactivation
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 421
+  pdf_page: 421
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Muscle activity before (preactivation) and immediately following (cocontraction) contact with the ground is an important mediator of braking and dynamic stabilization in both young and old individuals.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.cocontraction
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cocontraction
+type: Concept
+canonical_name: Cocontraction
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 421
+  pdf_page: 421
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Cocontraction is a motor control strategy that dynamically stabilizes the joint; however, due to the simultaneous activation of both the agonist and antagonist muscle groups crossing the same joint, net joint moments and agonistic force outputs are reduced (236).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.activities_of_daily_living
+type: Concept
+canonical_name: Activities of Daily Living
+semantic_type: Activity
+aliases:
+  - ADL
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 423
+  pdf_page: 423
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  activities of daily living (ADL)
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dynapenia
+type: Concept
+canonical_name: Dynapenia
+semantic_type: Condition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 424
+  pdf_page: 424
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  age-related dynapenia
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_snacking
+type: Concept
+canonical_name: Exercise Snacking
+semantic_type: Activity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 431
+  pdf_page: 431
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise "snacking," defined as multiple short bouts (e.g., <10 mins) of muscle strengthening exercise
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.osteopenia_bone_mineral_density
+type: Threshold
+canonical_name: Osteopenia Bone Mineral Density
+semantic_type: Diagnostic
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 418
+  pdf_page: 418
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.osteoporosis_bone_mineral_density
+
+definition: >
+  Osteopenia is defined by a bone mineral density between −1 and −2.5 standard deviations (SD) of the young adult mean
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.osteopenia
+
+value:
+  type: range
+  unit: "standard deviations (SD) of the young adult mean"
+  min: -2.5
+  max: -1
+  operator: "between"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.osteoporosis_bone_mineral_density
+type: Threshold
+canonical_name: Osteoporosis Bone Mineral Density
+semantic_type: Diagnostic
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 419
+  pdf_page: 419
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.osteopenia_bone_mineral_density
+
+definition: >
+  osteoporosis is defined by a bone mineral density below −2.5 SD of the young adult mean (119)
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.osteoporosis
+
+value:
+  type: threshold
+  unit: "standard deviations (SD) of the young adult mean"
+  value: -2.5
+  operator: "below"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.early_sport_specialization_time
+type: Threshold
+canonical_name: Early Sport Specialization Time
+semantic_type: Temporal
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 409
+  pdf_page: 409
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Early sport specialization is defined as children engaging in intensive, year-round (>8 months) training and/or competition in a single sport, typically beginning during the prepubertal years (131).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.early_sport_specialization
+
+value:
+  type: threshold
+  unit: months
+  value: 8
+  operator: "greater_than"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.youth_resistance_training_frequency
+type: Recommendation
+canonical_name: Youth Resistance Training Frequency
+semantic_type: Training
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 416
+  pdf_page: 416
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Two or three nonconsecutive training sessions per week are recommended; however, youth with higher training ages may participate in more frequent resistance training sessions per week.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.youth
+
+recommendation_text: "Two or three nonconsecutive training sessions per week are recommended; however, youth with higher training ages may participate in more frequent resistance training sessions per week."
+population: "youth"
+condition: "higher training ages"
+action: "participate in more frequent resistance training sessions per week"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.youth_resistance_training_load_progression
+type: Recommendation
+canonical_name: Youth Resistance Training Load Progression
+semantic_type: Training
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 416
+  pdf_page: 416
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Increase the resistance gradually (e.g., 5%-10%) as technique and strength improve.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.youth
+
+recommendation_text: "Increase the resistance gradually (e.g., 5%-10%) as technique and strength improve."
+population: "youth"
+condition: "as technique and strength improve"
+action: "increase the resistance gradually (e.g., 5%-10%)"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.youth_resistance_training_starting_load
+type: Recommendation
+canonical_name: Youth Resistance Training Starting Load
+semantic_type: Training
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 416
+  pdf_page: 416
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Begin with light loads to allow appropriate adjustments to be made.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.youth
+
+recommendation_text: "Begin with light loads to allow appropriate adjustments to be made."
+population: "youth"
+condition: ""
+action: "begin with light loads"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.older_adult_resistance_training_frequency
+type: Recommendation
+canonical_name: Older Adult Resistance Training Frequency
+semantic_type: Training
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Age-Related Differences and Their Implications for Resistance Training"
+  section: "7.1"
+  section_title: "Age-Related Differences and Their Implications for Resistance Training"
+  book_page: 432
+  pdf_page: 432
+

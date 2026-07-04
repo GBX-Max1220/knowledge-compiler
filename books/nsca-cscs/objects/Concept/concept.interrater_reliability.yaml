@@ -1,0 +1,32 @@
+id: concept.interrater_reliability
+type: Concept
+canonical_name: Interrater Reliability
+semantic_type: Concept
+aliases:
+- objectivity
+- interrater agreement
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.2'
+  section_title: Testing Terminology
+  book_page: 740
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.reliability
+definition: 'Interrater reliability, also referred to as objectivity or interrater
+  agreement (2), is the degree to which different raters agree in their test results
+  over time or on repeated occasions; it is a measure of consistency.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

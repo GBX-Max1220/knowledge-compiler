@@ -1,0 +1,29 @@
+id: concept.midtest
+type: Concept
+canonical_name: Midtest
+semantic_type: Test
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 13
+  chapter_title: Principles of Test Selection and Administration
+  section: '13.1'
+  section_title: Principles of Test Selection and Administration
+  book_page: 734
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.test
+definition: 'A test administered one or more times during the training period to assess
+  progress and modify the program as needed to maximize benefit.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

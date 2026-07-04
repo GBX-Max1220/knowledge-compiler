@@ -1,0 +1,35 @@
+id: recommendation.resistance_training_intensity_older_adults
+type: Recommendation
+canonical_name: Resistance Training Intensity for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 430
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Older adults should progress toward 2 or 3 sets of 6 to 12 repetitions
+  of one or two multijoint exercises, working at 70% to 85% of the 1RM, two or three
+  times per week.
+
+  '
+attributes: []
+purpose:
+- improve muscular strength
+related_concepts: []
+recommendation_details:
+  sets: 2-3
+  repetitions: 6-12
+  intensity: 70%-85% 1RM
+  frequency: 2-3 times per week
+  exercises: one or two multijoint exercises

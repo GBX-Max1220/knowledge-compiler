@@ -1,0 +1,29 @@
+id: concept.androgenic_properties
+type: Concept
+canonical_name: Androgenic Properties
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 666
+  pdf_page: 666
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.anabolic_steroid
+definition: 'These androgenic properties include the full development of the primary
+  sexual characteristics of the male.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

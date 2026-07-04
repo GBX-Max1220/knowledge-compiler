@@ -1,0 +1,26 @@
+id: concept.vasoconstriction
+type: Concept
+canonical_name: Vasoconstriction
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Control of Local Circulation
+  section_title: Cardiovascular Responses — Control of Local Circulation
+  book_page: 87
+  pdf_page: 87
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'vasoconstriction (reduction in vessel diameter)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

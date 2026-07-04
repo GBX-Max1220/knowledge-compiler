@@ -1,0 +1,490 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.pelvic_floor_dysfunction
+type: Concept
+canonical_name: Pelvic Floor Dysfunction
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.urinary_incontinence
+  - predicate: has_attribute
+    target: concept.stress_urinary_incontinence
+definition: >
+  Pelvic floor dysfunction (PFD) is a term used to identify various impairments of the pelvic floor muscles that support the pelvic organs and promote continence (99, 107).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.urinary_incontinence
+type: Concept
+canonical_name: Urinary Incontinence
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.pelvic_floor_dysfunction
+definition: >
+  UI is an involuntary loss of urine, and SUI is an involuntary loss of urine with any physical exertion (22, 150).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stress_urinary_incontinence
+type: Concept
+canonical_name: Stress Urinary Incontinence
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.pelvic_floor_dysfunction
+definition: >
+  UI is an involuntary loss of urine, and SUI is an involuntary loss of urine with any physical exertion (22, 150).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: risk_factor.sleep_loss_injury_athletes
+type: RiskFactor
+canonical_name: Sleep Loss
+semantic_type: Behavioral
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: increases_risk_of
+    target: concept.injury
+definition: >
+  a loss in sleep for athletes is a known risk factor for increased injury risk (15, 16, 157).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.sleep_deprivation_female_collegiate_athletes
+type: Threshold
+canonical_name: Sleep Deprivation
+semantic_type: Duration
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Female collegiate athletes may be particularly likely to have low sleep durations that are consistent with sleep deprivation (<7 h/night), in association with daytime sleepiness and dysfunction (30, 69).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.improving_female_health_outcomes
+type: Recommendation
+canonical_name: Recommendations for Improving Female Health Outcomes
+semantic_type: Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 450
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  To help females improve their health outcomes, strength and conditioning professionals should do the following:
+  Recommend working with appropriate medical staff to provide resources and services as needed when they have identified signs and symptoms of concerns that increase risk of health issues
+  Encourage females to seek services from a mental health provider when initial symptoms of mental health disorders arise
+  Educate females on the appropriate amount and quality of sleep needed and the important role it plays in the body’s recovery and for decreasing risk of injury
+  Provide information to females about the variety of impairments that can occur in the pelvic floor and encourage females to seek a specialized physical therapist in PFD when signs and symptoms occur
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.pelvic_floor_dysfunction_management
+type: Recommendation
+canonical_name: Recommendation for Pelvic Floor Dysfunction Management
+semantic_type: Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Programs should include prevention, lifestyle modifications, pelvic floor strengthening, biofeedback, and pharmacological interventions. Female athletes should be taught how to properly engage their pelvic floor muscles and abdominal wall muscles, and in some cases may need to see a physical therapist that specializes in PFD.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.prevalence_ui_female_athletes
+type: Evidence
+canonical_name: Prevalence of Urinary Incontinence in Female Athletes
+semantic_type: Statistical
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  It has been reported that UI in female athletes occurs 5 times more compared to male athletes, and 2.7 times more compared to sedentary females (42, 150, 164, 172). Female athletes have an overall 27% prevalence of UI compared to male athletes, and a 36% prevalence of UI compared to sedentary females (42, 150, 164, 172).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.similar_short_term_muscle_hypertrophy_gains
+type: Evidence
+canonical_name: Similar Short-Term Muscle Hypertrophy Gains Between Sexes
+semantic_type: Comparative
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 451
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  When sophisticated techniques (e.g., computed tomography) are used to accurately measure changes in muscle cross-sectional area, relative short-term (up to 16 weeks) gains in muscle hypertrophy are similar between sexes (43, 67).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.greater_mitochondrial_respiration_females
+type: Evidence
+canonical_name: Greater Mitochondrial Respiration in Females
+semantic_type: Comparative
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 453
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cardinale (2018), who determined that females have close to 33% greater mitochondrial respiration than males.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.female_athletes_more_fatigue_resistant
+type: Evidence
+canonical_name: Female Athletes More Fatigue Resistant During Prolonged Events
+semantic_type: Comparative
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 452
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Female endurance athletes have been shown to be more fatigue resistant during prolonged events, despite having overall lower aerobic capacity (V̇O2max) relative to body size and slower performance times than males (17, 48).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.greater_proportion_type_i_fibers_females
+type: Evidence
+canonical_name: Greater Proportion of Type I Oxidative Fibers in Females
+semantic_type: Comparative
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 453
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This is thought to be due to muscle fiber type distribution (165), with females having a greater proportion of type I oxidative fibers on average.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.greater_fat_oxidation_females
+type: Evidence
+canonical_name: Greater Fat Oxidation in Females
+semantic_type: Comparative
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 453
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Females therefore oxidize a greater amount of fat and a lesser amount of carbohydrate and protein (40, 170).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.no_significant_testosterone_elevations_females
+type: Evidence
+canonical_name: No Significant Testosterone Elevations in Females After Acute Resistance Exercise
+semantic_type: Comparative
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 454
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  With an acute bout of resistance exercise, females do not exhibit significant elevations in testosterone concentrations (95, 177).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.gh_increase_acute_resistance_exercise_females
+type: Evidence
+canonical_name: GH Increase Two- to Fourfold After Acute Resistance Exercise in Females
+semantic_type: Comparative
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 455
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Following an acute resistance exercise bout in females, circulating GH concentrations increase two- to fourfold (66, 83).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.attenuated_cortisol_response_females
+type: Evidence
+canonical_name: Attenuated Cortisol Response to Acute Exercise in Females
+semantic_type: Comparative
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 456
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  several investigations have demonstrated that in comparison to males, the cortisol response to acute exercise is attenuated in females (58, 66, 140).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.menstrual_cycle_phases_estrogen_progesterone
+type: Figure
+canonical_name: Phases of the Menstrual Cycle and Concomitant Changes in Estrogen and Progesterone
+semantic_type: Illustration
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.2"
+  section_title: "Training Responses and Adaptations"
+  book_page: 458
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  FIGURE 8.1 Phases of the menstrual cycle and the concomitant changes in estrogen and progesterone.
+  Reprinted by permission from W.L. Kenney, J.H. Wilmore, and D.L. Costill, “Sex Differences in Sport and Exercise,” in Physiology of Sport and Exercise, 9th ed. (Human Kinetics, 2024).
+attributes: []
+purpose: []
+related_concepts: []

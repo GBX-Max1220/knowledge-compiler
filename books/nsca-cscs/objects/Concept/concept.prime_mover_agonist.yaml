@@ -1,0 +1,32 @@
+id: concept.prime_mover_agonist
+type: Concept
+canonical_name: Prime mover (agonist)
+semantic_type: MuscleFunction
+aliases:
+- agonist
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Exercise
+  section: Skeletal Musculature
+  section_title: Skeletal Musculature
+  book_page: 105
+  pdf_page: 105
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The muscle most directly involved in bringing about a movement is called
+  the prime mover, or agonist.
+
+  '
+attributes:
+- directly_involved
+purpose:
+- bring about movement
+related_concepts:
+- concept.antagonist
+- concept.synergist

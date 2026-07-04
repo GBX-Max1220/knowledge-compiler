@@ -1,0 +1,31 @@
+id: recommendation.use_of_semi_ballistic_exercises_for_power_development
+type: Recommendation
+canonical_name: Use of Semi-Ballistic Exercises for Power Development
+semantic_type: Training Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training Program Design
+  section: '18.2'
+  section_title: 'Step 2: Exercise Selection'
+  book_page: 1205
+  pdf_page: 1205
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Semi-ballistic exercises, such as weightlifting exercises and
+  their derivatives, can also be used effectively for the development of power because
+  they provide the potential to emphasize a velocity- or force-dominant stimulus (figure
+  18.6) (21, 170-173).
+
+  '
+context:
+  goal: development of power
+citations:
+- '21'
+- 170-173

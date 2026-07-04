@@ -1,0 +1,27 @@
+id: recommendation.air_exchange_rate_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Air Exchange Rate for Strength and Conditioning Facilities
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1746
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Room air should be exchanged a minimum of 8 to 10 times per
+  hour—optimally 12 to 15 times per hour to prevent odors and stagnant air (5).
+
+  '
+context: []
+rationale: to prevent odors and stagnant air
+citations:
+- '5'

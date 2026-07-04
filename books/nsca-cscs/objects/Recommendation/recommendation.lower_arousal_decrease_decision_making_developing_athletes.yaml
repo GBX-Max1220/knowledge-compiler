@@ -1,0 +1,30 @@
+id: recommendation.lower_arousal_decrease_decision_making_developing_athletes
+type: Recommendation
+canonical_name: Lowering Arousal and Decreasing Decision-Making for Developing Athletes
+semantic_type: CoachingStrategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.2'
+  section_title: Ideal Performance State
+  book_page: 477
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Therefore, coaches should lower arousal and decrease the decision-making
+  responsibilities of developing or unseasoned athletes (players who are skilled but
+  lack competitive experience) and have them focus on simple assignments to prevent
+  attentional overload.
+
+  '
+context: Coaching developing or unseasoned athletes
+target_audience: Developing or unseasoned athletes
+rationale: To prevent attentional overload
+implementation: ''

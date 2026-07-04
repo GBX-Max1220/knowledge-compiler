@@ -1,0 +1,31 @@
+id: recommendation.guidelines_for_goal_setting
+type: Recommendation
+canonical_name: Guidelines for Goal Setting
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 503
+  pdf_page: 503
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'In general, guidelines for goal setting include the following:
+  Long-term goals and short-term goals are interdependent. Long-term goals provide
+  a sense of meaningfulness and direction for pursuing short-term goals. The attainment
+  of short-term goals provides a hierarchical sense of mastery and success that builds
+  self-confidence. Athletes should define process goals to focus on elements of their
+  performance over which they have control.
+
+  '
+rationale: []
+supporting_evidence: []
+related_concepts: []

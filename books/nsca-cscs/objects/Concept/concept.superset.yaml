@@ -1,0 +1,28 @@
+id: concept.superset
+type: Concept
+canonical_name: Superset
+semantic_type: Training Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1218
+  pdf_page: 1218
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A superset involves two sequentially performed exercises that stress
+  two opposing muscles or muscle areas (i.e., an agonist and its antagonist) (2),
+  similar to the push–pull approach.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

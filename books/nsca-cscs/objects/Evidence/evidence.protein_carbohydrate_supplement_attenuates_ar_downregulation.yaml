@@ -1,0 +1,29 @@
+id: evidence.protein_carbohydrate_supplement_attenuates_ar_downregulation
+type: Evidence
+canonical_name: Protein-Carbohydrate Supplement Attenuates AR Downregulation
+semantic_type: ResearchFinding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 323
+  pdf_page: 323
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Kraemer and colleagues (98) have shown that consumption of a protein–carbohydrate
+  supplement before and after the workout attenuates this AR downregulation.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.androgen_receptor
+- concept.protein_carbohydrate_supplement

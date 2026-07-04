@@ -1,0 +1,29 @@
+id: concept.predictive_validity
+type: Concept
+canonical_name: Predictive Validity
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.2'
+  section_title: Testing Terminology
+  book_page: 738
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.criterion_validity
+definition: 'Predictive validity is the extent to which the test score corresponds
+  with future behavior or performance.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

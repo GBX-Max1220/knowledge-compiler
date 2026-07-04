@@ -1,0 +1,536 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.cardiac_output
+type: Concept
+canonical_name: Cardiac Output
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Cardiac Output"
+  section_title: "Cardiovascular Responses — Cardiac Output"
+  book_page: 83
+  pdf_page: 83
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cardiac output is the amount of blood pumped by the heart in liters per minute and is determined by the quantity of blood ejected with each beat (stroke volume) and the heart’s rate of pumping (heart rate).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.stroke_volume
+  - concept.heart_rate
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stroke_volume
+type: Concept
+canonical_name: Stroke Volume
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Stroke Volume"
+  section_title: "Cardiovascular Responses — Stroke Volume"
+  book_page: 83
+  pdf_page: 83
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.cardiac_output
+definition: >
+  Two physiological mechanisms are responsible for the regulation of stroke volume. The first is a result of the end-diastolic volume, the volume of blood available to be pumped by the left ventricle at the end of the filling phase, or diastole. The second is due to the action of catecholamines, including epinephrine and norepinephrine, which are hormones of the sympathetic nervous system that produce a more forceful ventricular contraction and greater systolic emptying of the heart.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.end_diastolic_volume
+  - concept.catecholamines
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.frank_starling_mechanism
+type: Concept
+canonical_name: Frank-Starling Mechanism
+semantic_type: PhysiologicalMechanism
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Stroke Volume"
+  section_title: "Cardiovascular Responses — Stroke Volume"
+  book_page: 84
+  pdf_page: 84
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.physiological_mechanism
+definition: >
+  This principle, called the Frank-Starling mechanism, is related to the concept that the force of contraction is a function of the length of the fibers of the muscle wall.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.stroke_volume
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ejection_fraction
+type: Concept
+canonical_name: Ejection Fraction
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Stroke Volume"
+  section_title: "Cardiovascular Responses — Stroke Volume"
+  book_page: 84
+  pdf_page: 84
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This increase in cardiac emptying is characterized by an increase in the ejection fraction, or the fraction of the end-diastolic volume ejected from the heart (14, 17).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.end_diastolic_volume
+  - concept.stroke_volume
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.oxygen_uptake
+type: Concept
+canonical_name: Oxygen Uptake
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Oxygen Uptake"
+  section_title: "Cardiovascular Responses — Oxygen Uptake"
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Oxygen uptake is the amount of oxygen consumed by the body's tissues.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maximal_oxygen_uptake
+type: Concept
+canonical_name: Maximal Oxygen Uptake
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Oxygen Uptake"
+  section_title: "Cardiovascular Responses — Oxygen Uptake"
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.oxygen_uptake
+definition: >
+  Maximal oxygen uptake is the greatest amount of oxygen that can be used at the cellular level for the entire body.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.metabolic_equivalent
+type: Concept
+canonical_name: Metabolic Equivalent
+semantic_type: Unit
+aliases:
+  - MET
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Oxygen Uptake"
+  section_title: "Cardiovascular Responses — Oxygen Uptake"
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Resting oxygen uptake is estimated at 3.5 mL of oxygen per kilogram of body weight per minute (mL · kg−1 · min−1) for an average person; this value is defined as 1 metabolic equivalent (MET).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.oxygen_uptake
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fick_equation
+type: Concept
+canonical_name: Fick Equation
+semantic_type: Equation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Oxygen Uptake"
+  section_title: "Cardiovascular Responses — Oxygen Uptake"
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Oxygen uptake (V̇O2) can be calculated with the Fick equation, which expresses the relationship of cardiac output, oxygen uptake, and arteriovenous oxygen difference.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.cardiac_output
+  - concept.arteriovenous_oxygen_difference
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.arteriovenous_oxygen_difference
+type: Concept
+canonical_name: Arteriovenous Oxygen Difference
+semantic_type: PhysiologicalParameter
+aliases:
+  - a-vO2 difference
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Oxygen Uptake"
+  section_title: "Cardiovascular Responses — Oxygen Uptake"
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  a-vO2 difference is the arteriovenous oxygen difference (the difference in the oxygen content between arterial and venous blood) in milliliters of oxygen per 100 mL of blood.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.oxygen_uptake
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.systolic_blood_pressure
+type: Concept
+canonical_name: Systolic Blood Pressure
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Blood Pressure"
+  section_title: "Cardiovascular Responses — Blood Pressure"
+  book_page: 86
+  pdf_page: 86
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Systolic blood pressure estimates the pressure exerted against the arterial walls as blood is forcefully ejected during ventricular contraction (systole) and, when combined with heart rate, can be used to describe the myocardial oxygen consumption (work) of the heart.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.heart_rate
+  - concept.myocardial_oxygen_consumption
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.rate_pressure_product
+type: Concept
+canonical_name: Rate-Pressure Product
+semantic_type: PhysiologicalParameter
+aliases:
+  - Double Product
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Blood Pressure"
+  section_title: "Cardiovascular Responses — Blood Pressure"
+  book_page: 86
+  pdf_page: 86
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This estimate of the work of the heart is obtained according to the following equation and is referred to as the rate–pressure product, or double product.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.heart_rate
+  - concept.systolic_blood_pressure
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.diastolic_blood_pressure
+type: Concept
+canonical_name: Diastolic Blood Pressure
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Blood Pressure"
+  section_title: "Cardiovascular Responses — Blood Pressure"
+  book_page: 86
+  pdf_page: 86
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Diastolic blood pressure is used to estimate the pressure exerted against the arterial walls when no blood is being forcefully ejected through the vessels (diastole).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mean_arterial_pressure
+type: Concept
+canonical_name: Mean Arterial Pressure
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Blood Pressure"
+  section_title: "Cardiovascular Responses — Blood Pressure"
+  book_page: 86
+  pdf_page: 86
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The mean arterial pressure is the average blood pressure throughout the cardiac cycle (equation 1.4). Mean arterial pressure is not the average of systolic and diastolic pressures, because the arterial pressure usually remains nearer the diastolic level than the systolic level during a greater portion of the cardiac cycle.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.systolic_blood_pressure
+  - concept.diastolic_blood_pressure
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.mean_arterial_blood_pressure_equation
+type: Formula
+canonical_name: Mean Arterial Blood Pressure Equation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Blood Pressure"
+  section_title: "Cardiovascular Responses — Blood Pressure"
+  book_page: 87
+  pdf_page: 87
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Mean arterial blood pressure = [(Systolic blood pressure − Diastolic blood pressure) ÷ 3] + Diastolic blood pressure (1.4)
+attributes: []
+purpose: []
+related_concepts:
+  - concept.mean_arterial_pressure
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.vasoconstriction
+type: Concept
+canonical_name: Vasoconstriction
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Control of Local Circulation"
+  section_title: "Cardiovascular Responses — Control of Local Circulation"
+  book_page: 87
+  pdf_page: 87
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  vasoconstriction (reduction in vessel diameter)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.vasodilation
+type: Concept
+canonical_name: Vasodilation
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Cardiovascular Responses — Control of Local Circulation"
+  section_title: "Cardiovascular Responses — Control of Local Circulation"
+  book_page: 87
+  pdf_page: 87
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  vasodilation (increase in vessel diameter)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.minute_ventilation
+type: Concept
+canonical_name: Minute Ventilation
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Respiratory Responses"
+  section_title: "Respiratory Responses"
+  book_page: 88
+  pdf_page: 88
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  minute ventilation (the volume of air breathed per minute)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ventilatory_equivalent
+type: Concept
+canonical_name: Ventilatory Equivalent
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Respiratory Responses"
+  section_title: "Respiratory Responses"
+  book_page: 88
+  pdf_page: 88
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The ratio of minute ventilation to oxygen uptake is termed the ventilatory equivalent and ranges between 20 and 25 L of air per L of oxygen consumed.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.minute_ventilation
+  - concept.oxygen_uptake
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.anatomical_dead_space
+type:

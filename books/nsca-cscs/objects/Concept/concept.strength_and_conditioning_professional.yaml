@@ -1,0 +1,34 @@
+id: concept.strength_and_conditioning_professional
+type: Concept
+canonical_name: Strength and Conditioning Professional
+semantic_type: Healthcare Role
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1633
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.allied_health_team
+definition: 'The strength and conditioning professional typically focuses on strength,
+  power, and performance enhancement. The strength and conditioning professional also
+  plays a valuable role within the allied health team and is an integral part of the
+  rehabilitation and reconditioning process. Ideally, this person should be certified
+  by the National Strength and Conditioning Association as a Certified Strength and
+  Conditioning Specialist (CSCS) to ensure that he or she has the knowledge and background
+  to contribute to the rehabilitation process.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

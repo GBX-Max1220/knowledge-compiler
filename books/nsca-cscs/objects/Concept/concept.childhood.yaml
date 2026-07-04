@@ -1,0 +1,27 @@
+id: concept.childhood
+type: Concept
+canonical_name: Childhood
+semantic_type: LifeStage
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The term childhood refers to a period of life before the development
+  of secondary sex characteristics (e.g., pubic hair and reproductive organs)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

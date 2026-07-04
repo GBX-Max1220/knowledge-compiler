@@ -1,0 +1,30 @@
+id: recommendation.individualized_hydration_weight_changes
+type: Recommendation
+canonical_name: Individualized Hydration Strategies Based on Weight Changes
+semantic_type: HydrationGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 630
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Due to large variations in sweat rates and electrolyte concentrations,
+  athletes should measure weight changes during training and competition in specific
+  weather conditions and develop individualized hydration strategies based on this
+  information (120).
+
+  '
+attributes: []
+purpose:
+- develop individualized hydration strategies
+related_concepts: []

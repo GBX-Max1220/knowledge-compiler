@@ -1,0 +1,36 @@
+id: table_row.isometric_mid_thigh_pull_peak_force_senior_regional_75
+type: TableRow
+canonical_name: Isometric Mid-Thigh Pull Peak Force - Senior Regional 75th Percentile
+semantic_type: NormativeData
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Special Populations
+  section: '14.4'
+  section_title: Conclusion
+  book_page: 831
+  pdf_page: 831
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Descriptive percentile values for isometric mid-thigh pull peak force,
+  relative peak force, and rate of force development for male senior regional soccer
+  players at the 75th percentile.
+
+  '
+attributes:
+- percentile: '75'
+- age_group: Senior
+- level_of_competition: Regional
+- sample_size: 24
+- peak_force_N: 2995
+- relative_peak_force_N_per_kg: 42.4
+- rate_of_force_development_0_250_ms_N_per_s: 5113
+purpose:
+- Provide normative data for isometric mid-thigh pull performance in soccer players.
+related_concepts: []

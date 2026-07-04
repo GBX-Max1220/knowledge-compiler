@@ -1,0 +1,39 @@
+id: contraindication.valsalva_maneuver_seniors
+type: Contraindication
+canonical_name: Contraindications for Valsalva Maneuver in Seniors
+semantic_type: MedicalContraindication
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 429
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Individuals with absolute and relative contraindications (e.g., those
+  with coronary heart disease, uncontrolled hypertension, musculoskeletal limitations,
+  and pacemakers or defibrillators).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.coronary_heart_disease
+- concept.uncontrolled_hypertension
+- concept.musculoskeletal_limitations
+- concept.pacemaker
+- concept.defibrillator
+contraindication_type: absolute and relative
+conditions:
+- coronary heart disease
+- uncontrolled hypertension
+- musculoskeletal limitations
+- pacemakers or defibrillators

@@ -1,0 +1,16 @@
+id: recommendation.exercise_instruction_older_adults
+type: Recommendation
+canonical_name: Exercise Instruction for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 433
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1

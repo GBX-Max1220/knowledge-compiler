@@ -1,0 +1,31 @@
+id: concept.bilateral_facilitation
+type: Concept
+canonical_name: Bilateral Facilitation
+semantic_type: Physiological Phenomenon
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1134
+  pdf_page: 1134
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'It has also been demonstrated that bilateral movements exhibit a bilateral
+  facilitation in which voluntary activation of the agonist muscle group increases
+  (12, 117).
+
+  '
+attributes:
+- increased_voluntary_activation_of_agonist_muscle_group
+purpose: []
+related_concepts: []

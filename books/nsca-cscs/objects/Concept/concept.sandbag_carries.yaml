@@ -1,0 +1,35 @@
+id: concept.sandbag_carries
+type: Concept
+canonical_name: Sandbag Carries
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1127
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.weighted_carries
+definition: 'Limited research has examined frontal carries including sandbags and
+  water bags in athletic populations (22, 60). Calatayud and colleagues (22) compared
+  the muscle activity (anterior deltoid, external oblique, lumbar erector spinae,
+  and gluteus medius) associated with the performance of 20-kilogram (44 lb) clean
+  and jerks with either a barbell, sandbag, or water bag in 21 male university students.
+  While no significant differences were observed between the muscle activity when
+  lifting a barbell or sandbag, the water bag version resulted in significantly greater
+  external oblique, lumbar erector spinae, and gluteus medius activation.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

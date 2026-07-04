@@ -1,0 +1,36 @@
+id: evidence.training_induced_strength_and_power_increases_in_female_athletes
+type: Evidence
+canonical_name: Training-Induced Strength and Power Increases in Female Athletes
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.3'
+  section_title: Resistance Training Considerations
+  book_page: 460
+  pdf_page: 460
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'During progressive overload and targeted training, female athletes experience
+  substantial power and strength increases similar to male athletes (64). In a recent
+  study, maximal strength and vertical jump height were increased in collegiate volleyball
+  players by using a combination of traditional resistance training exercises and
+  weightlifting variations at various loads in addition to volleyball practice, over
+  the course of about 2.5 years of training (88). Other research supports plyometrics
+  in female basketball players and other velocity-based resistance training in cyclists
+  to improve strength, power, and muscle hypertrophy (36, 119). It has also been reported
+  that adding heavy strength training to a female athlete’s endurance training increased
+  muscle strength, performance, and size without affecting endurance running performance
+  or running economy (176).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

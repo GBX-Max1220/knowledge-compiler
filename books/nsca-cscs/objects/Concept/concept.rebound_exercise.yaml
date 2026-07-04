@@ -1,0 +1,31 @@
+id: concept.rebound_exercise
+type: Concept
+canonical_name: Rebound Exercise
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: 'Chapter 19: Program Design and Technique for Plyometric Training'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1261
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.plyometric_exercise
+definition: 'In contrast, rebound exercises are those that require physiomechanical
+  SSC contributions (e.g., drop jumps or repeat countermovement jumps).
+
+  '
+attributes:
+- requires physiomechanical SSC contributions
+purpose: []
+related_concepts:
+- concept.stretch_shortening_cycle

@@ -1,0 +1,30 @@
+id: concept.amino_acid
+type: Concept
+canonical_name: Amino Acid
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 548
+  pdf_page: 548
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.protein
+definition: 'Amino means "nitrogen containing," and amino acids are the molecules
+  that, when joined in groups of a few dozen to hundreds, form the thousands of proteins
+  occurring in nature.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

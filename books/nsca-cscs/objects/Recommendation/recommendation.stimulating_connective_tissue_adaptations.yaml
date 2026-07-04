@@ -1,0 +1,28 @@
+id: recommendation.stimulating_connective_tissue_adaptations
+type: Recommendation
+canonical_name: Stimulating Connective Tissue Adaptations (Tendons, Ligaments, Fascia)
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 320
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Long-term adaptations in tendons, ligaments, and fascia are
+  stimulated through progressive high-intensity loading patterns using external resistances.
+  High-intensity loads should be used, because low to moderate intensities do not
+  markedly change the collagen content of connective tissue. Forces should be exerted
+  throughout the full range of motion of a joint, and wherever possible multijoint
+  exercises should be used.
+
+  '
+context: connective tissue adaptations

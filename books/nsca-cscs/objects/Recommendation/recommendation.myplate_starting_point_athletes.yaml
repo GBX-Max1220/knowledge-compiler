@@ -1,0 +1,26 @@
+id: recommendation.myplate_starting_point_athletes
+type: Recommendation
+canonical_name: Dietary Evaluation Starting Point Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'MyPlate should be considered a starting point that athletes
+  can use to evaluate their diet.
+
+  '
+target_population: athletes
+rationale: ''
+exceptions: ''

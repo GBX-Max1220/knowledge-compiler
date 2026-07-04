@@ -1,0 +1,30 @@
+id: concept.general_preparatory_phase
+type: Concept
+canonical_name: General Preparatory Phase
+semantic_type: TrainingPhase
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1595
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.preparatory_period
+definition: 'The general preparatory phase typically occurs during the early part
+  of the period and often targets the development of a general physical base (38,
+  69).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

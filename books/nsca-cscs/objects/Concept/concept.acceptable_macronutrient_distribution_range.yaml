@@ -1,0 +1,28 @@
+id: concept.acceptable_macronutrient_distribution_range
+type: Concept
+canonical_name: Acceptable Macronutrient Distribution Range (AMDR)
+semantic_type: Guideline
+aliases:
+- AMDR
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 551
+  pdf_page: 551
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The Institute of Medicine (IOM) established an Acceptable Macronutrient
+  Distribution Range (AMDR) for protein, which covers a wide range of protein intake.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

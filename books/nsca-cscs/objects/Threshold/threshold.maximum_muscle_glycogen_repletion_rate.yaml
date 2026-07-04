@@ -1,0 +1,29 @@
+id: threshold.maximum_muscle_glycogen_repletion_rate
+type: Threshold
+canonical_name: Maximum Muscle Glycogen Repletion Rate
+semantic_type: Repletion
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Substrate Depletion and Repletion
+  section: '3.3'
+  section_title: Substrate Depletion and Repletion
+  book_page: 206
+  pdf_page: 206
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.glycogen_stores
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: 5 to 6 mmol/g of wet muscle mass per hour
+unit: mmol/g of wet muscle mass per hour
+condition: during the first 4 to 6 hours following exercise

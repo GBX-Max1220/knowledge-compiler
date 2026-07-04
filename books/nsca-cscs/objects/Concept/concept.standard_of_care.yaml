@@ -1,0 +1,29 @@
+id: concept.standard_of_care
+type: Concept
+canonical_name: Standard of Care
+semantic_type: Concept
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1777
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In the law of negligence, standard of care is the degree of care that
+  a reasonable person should exercise (17). Standard of care for the strength and
+  conditioning professional refers to the degree of caution and prudence that a reasonable
+  person would exercise in similar situations.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
