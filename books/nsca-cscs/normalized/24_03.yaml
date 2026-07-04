@@ -1,0 +1,626 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.nonfunctional_overreaching
+type: Concept
+canonical_name: Nonfunctional Overreaching
+semantic_type: Condition
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1701
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Underperformance and Its Relation to Overtraining and Overreaching Despite the name of this chapter, all discussions regarding overtraining and overreaching must start with the concept of underperformance.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.underperformance
+type: Concept
+canonical_name: Underperformance
+semantic_type: Condition
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1701
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Although all our efforts may go to creating training programs to optimize performance, achieving excellence can be very elusive. Seldom are all components of the training and competition processes in complete synchrony. The job of a strength and conditioning professional is to help navigate the athlete through the many hurdles standing in the way of achieving absolute peak performance. Although few, if any, may ever attain that level of performance perfection, the task of the strength and conditioning professional is to develop, prescribe, and apply the type of training program that gives the athlete the best opportunity to reach that goal. Therefore, it is not only necessary to know how to develop the appropriately challenging training program required to reach this level of performance but also to understand what is happening when performance is less than expected (i.e., underperformance).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.underperformance_vs_overtraining
+type: Concept
+canonical_name: Underperformance vs. Overtraining
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1701
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  We will see that even though overtraining and overreaching can be contributors to underperformance, many other factors can contribute as well. Many may be beyond our control, but recognizing possible contributing factors will permit the strength and conditioning professional to determine what appropriate measures can be taken to help the athlete when, despite all the effort, he or she comes up short. In summary, not all cases of underperformance are due to overtraining or overreaching (figure 24.11).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.underperformance
+  - concept.overtraining
+  - concept.overreaching
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.overtraining_as_type_of_underperformance
+type: Figure
+canonical_name: Overtraining as a Type of Underperformance
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1701
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+description: >
+  The results of overtraining are one type of underperformance, but not all types of underperformance are due to overtraining.
+
+figure_number: "24.11"
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.underperformance_vs_overtraining_causes
+type: Figure
+canonical_name: Underperformance vs. Overtraining Causes
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1701
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+description: >
+  Underperformance is not necessarily the same thing as overtraining. Solid lines depict direct causes. Dashed lines show contributing factors, not direct causes.
+
+figure_number: "24.12"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.common_training_error_timing
+type: Warning
+canonical_name: Common Training Error: Timing of Training Program with Competition Schedule
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1702
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  One common training error that can be mistaken for overtraining is due to the timing of the training program with the competition schedule. Figure 24.13 shows how even a training program that is well designed to produce enhanced performance can be ineffective if the training peak does not coincide with when the athlete needs to perform (96). At first glance, overtraining may be blamed for the underperformance, but the reality is that inappropriate timing, not excessive training, was the cause.
+
+severity: moderate
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.training_and_performance_timing
+type: Figure
+canonical_name: Training and Performance Timing
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1703
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+description: >
+  Training and performance timing. Not all impaired performances are due to overtraining. Adapted by permission from V.M. Zatsiorsky, W.J. Kraemer, and A.C. Fry, Science and Practice of Strength Training, 3rd ed. (Human Kinetics, 2021), 180.
+
+figure_number: "24.13"
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.influence_overtraining_overtraining_syndrome
+type: Figure
+canonical_name: Influence of Overtraining and Overtraining Syndrome on Performance-Related Variables
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1705
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+description: >
+  Influence of overtraining and overtraining syndrome on performance-related variables.
+
+figure_number: "24.14"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.strength_1rm
+type: TableRow
+canonical_name: Strength 1RM
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "STRENGTH"
+  sub_variable: "1RM (dynamic constant external resistance)"
+  sensitivity: "Low"
+  onset: "Last to occur"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.isometric_force
+type: TableRow
+canonical_name: Isometric Force
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "STRENGTH"
+  sub_variable: "Isometric force"
+  sensitivity: "Poor"
+  onset: "Unknown"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.isokinetic_force
+type: TableRow
+canonical_name: Isokinetic Force
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "STRENGTH"
+  sub_variable: "Isokinetic force"
+  sensitivity: "High"
+  onset: "Within 1 week"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.eccentric_strength
+type: TableRow
+canonical_name: Eccentric Strength
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "STRENGTH"
+  sub_variable: "Eccentric strength"
+  sensitivity: "Unknown"
+  onset: "Unknown"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.stimulated_force
+type: TableRow
+canonical_name: Stimulated Force
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "STRENGTH"
+  sub_variable: "Stimulated force"
+  sensitivity: "High"
+  onset: "Within 1 week"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.single_joint_strength
+type: TableRow
+canonical_name: Single Joint Strength
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "STRENGTH"
+  sub_variable: "Single joint"
+  sensitivity: "Poor"
+  onset: "If isokinetic, 1 week; if DCER, unknown"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.multijoint_strength
+type: TableRow
+canonical_name: Multijoint Strength
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "STRENGTH"
+  sub_variable: "Multijoint"
+  sensitivity: "Moderate"
+  onset: "Last to occur"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rate_of_force_development_single_joint
+type: TableRow
+canonical_name: Rate of Force Development Single Joint
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "RATE OF FORCE DEVELOPMENT"
+  sub_variable: "Single joint"
+  sensitivity: "Low"
+  onset: "Unknown"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rate_of_force_development_multijoint
+type: TableRow
+canonical_name: Rate of Force Development Multijoint
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "RATE OF FORCE DEVELOPMENT"
+  sub_variable: "Multijoint"
+  sensitivity: "Unknown"
+  onset: "Unknown"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.power_resistance_exercise
+type: TableRow
+canonical_name: Power Resistance Exercise
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.3"
+  section_title: "Nonfunctional Overreaching"
+  book_page: 1706
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "24.1"
+table_title: "Performance-Related Variables Affected by Overtraining and Overreaching"
+row_data:
+  performance_variable: "POWER"
+  sub_variable: "Resistance exercise"
+  sensitivity: "High"
+  onset: "Within 1+ weeks"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.vertical_jump_height
+type: TableRow
+canonical_name: Vertical Jump

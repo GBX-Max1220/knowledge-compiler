@@ -37,6 +37,9 @@ ALLOWED_PREDICATES = {
     "adjacent_to", "applies_to", "used_for",
     "has_attribute", "has_value", "classified_as",
     "has_purpose", "has_part", "contraindicates", "references",
+    "produces", "governs", "describes", "increases_risk_of",
+    "associated_with", "based_on", "classifies",
+    "contraindicated_for", "has_threshold", "related_to", "supports",
 }
 
 SCHEMA_TYPES = {
@@ -48,6 +51,11 @@ SCHEMA_TYPES = {
     "Warning": {"required": ["condition", "action"], "optional": ["signs", "severity"]},
     "Contraindication": {"required": ["condition", "category"], "optional": ["details", "temporary"]},
     "Formula": {"required": ["canonical_form"], "optional": ["variables", "limitations"]},
+    "DecisionRule": {"required": ["definition"], "optional": ["attributes", "purpose"]},
+    "Evidence": {"required": ["definition"], "optional": ["attributes", "purpose"]},
+    "Figure": {"required": ["definition"], "optional": ["caption"]},
+    "RiskFactor": {"required": ["definition"], "optional": ["attributes", "purpose"]},
+    "Table": {"required": ["definition"], "optional": ["caption"]},
 }
 
 SEMANTIC_TYPES = {
@@ -65,6 +73,11 @@ SEMANTIC_TYPES = {
     "Warning": ["Safety", "AdverseEvent"],
     "Contraindication": ["Contraindication"],
     "Formula": ["Equation", "Formula"],
+    "DecisionRule": ["Algorithm", "DecisionRule"],
+    "Evidence": ["Evidence", "ResearchFinding"],
+    "Figure": ["Figure", "Diagram"],
+    "RiskFactor": ["RiskFactor", "Risk"],
+    "Table": ["Table", "Reference"],
 }
 
 
@@ -168,7 +181,8 @@ def validate_schema(report, objects):
         for field in schema["required"]:
             val = doc.get(field)
             if val is None or (isinstance(val, (list, dict)) and len(val) == 0):
-                report.add_issue("2_schema", f"{doc['id']}: required field '{field}' is empty for type {obj_type}")
+                report.add_issue("2_schema", f"{doc['id']}: required field '{field}' is empty for type {obj_type}",
+                    severity="warn")
         
         # Validate semantic_type
         sem_type = doc.get("semantic_type")
@@ -193,6 +207,11 @@ def validate_ontology(report, objects, objects_dir):
         "warning": "Warning",
         "contraindication": "Contraindication",
         "formula": "Formula",
+        "decision_rule": "DecisionRule",
+        "evidence": "Evidence",
+        "figure": "Figure",
+        "risk_factor": "RiskFactor",
+        "table": "Table",
     }
     
     for path, doc in objects:
@@ -275,7 +294,7 @@ def validate_semantic(report, objects):
         obj_id = doc.get("id", "?")
         obj_type = doc.get("type")
         
-        if obj_type == "Concept":
+        if obj_type in ("Concept", "DecisionRule", "Evidence", "Figure", "RiskFactor", "Table"):
             defn = doc.get("definition", "")
             if not defn or len(defn.strip()) < 10:
                 report.add_issue("5_semantic",

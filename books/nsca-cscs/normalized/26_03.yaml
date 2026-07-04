@@ -1,0 +1,501 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.risk_management
+type: Concept
+canonical_name: Risk Management
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1789
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Risk management is the employment of strategies to decrease and control the risk of injury from athletic participation and therefore the risk of liability exposure.
+attributes: []
+purpose:
+  - decrease risk of injury from athletic participation
+  - control risk of injury from athletic participation
+  - decrease risk of liability exposure
+  - control risk of liability exposure
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.informed_consent
+type: Concept
+canonical_name: Informed Consent
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1789
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The process by which a procedure or activity is described to a participant, with an explanation of the inherent risks and benefits involved, allowing the individual to determine whether he or she desires to participate.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.liability
+type: Concept
+canonical_name: Liability
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1789
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A legal responsibility, duty, or obligation. Strength and conditioning professionals have a duty to the athletes they serve by virtue of their employment not only to act when an injury occurs but also to prevent injury (5).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.standard_of_care
+type: Concept
+canonical_name: Standard of Care
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1789
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  What a reasonable and prudent person would do under similar circumstances. A strength and conditioning professional is expected to act according to his or her education, level of training, and certification status (e.g., CSCS, National Strength and Conditioning Association Certified Personal Trainer [NSCA-CPT], Emergency Medical Technician [EMT], CPR, AED, first aid).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.negligence
+type: Concept
+canonical_name: Negligence
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1790
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.duty
+  - predicate: has_attribute
+    target: concept.breach_of_duty
+  - predicate: has_attribute
+    target: concept.proximate_cause
+  - predicate: has_attribute
+    target: concept.damages
+definition: >
+  Failure to act as a reasonable and prudent person would under similar circumstances. Four elements must exist for a strength and conditioning professional to be found negligent: duty, breach of duty, proximate cause, and damages (30). The strength and conditioning professional must be found to have had a duty to act and to have failed to act (a breach) with the appropriate standard of care, resulting in damages (physical or economic injury) to another person because of the natural and continuous sequence of reasonably foreseeable events (proximate cause). For example, a strength and conditioning professional sees that a cable is excessively worn on a resistance training machine and notes it, but does not post an “Out of Order” sign. An athlete uses the machine and incurs an injury. In this case, the strength and conditioning professional could be found negligent: His or her duty was to fix the cable or post a sign, but he or she failed to act, and an athlete sustained an injury because of the potentially injurious situation of a cable that was ready to break.
+attributes:
+  - duty
+  - breach of duty
+  - proximate cause
+  - damages
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.duty
+type: Concept
+canonical_name: Duty
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1790
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.negligence
+definition: >
+  duty
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.breach_of_duty
+type: Concept
+canonical_name: Breach of Duty
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1790
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.negligence
+definition: >
+  breach of duty
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.proximate_cause
+type: Concept
+canonical_name: Proximate Cause
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1790
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.negligence
+definition: >
+  proximate cause
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.damages
+type: Concept
+canonical_name: Damages
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1790
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.negligence
+definition: >
+  damages
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.assumption_of_risk
+type: Concept
+canonical_name: Assumption of Risk
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1790
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Knowing that an inherent risk exists with participation in an activity and voluntarily deciding to participate anyway (19). All athletic activities, including strength and conditioning, involve a certain level of risk; athletes must be thoroughly informed of the risk and should sign a statement to that effect. It should be noted that an assumption of risk waiver may not provide protection from legal liability if the strength and conditioning professional is found to be negligent when damage is incurred by an athlete while participating in strength and conditioning activities.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.negligence_as_a_tort
+type: Concept
+canonical_name: Negligence (as a tort)
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1791
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.tort
+definition: >
+  Negligence is a tort, which is defined as a civil wrong (10).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.civil_law
+type: Concept
+canonical_name: Civil Law
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1791
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Civil law relates to private rights and remedies that are sought by action or suit as distinct from criminal proceedings (11).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.preponderance_of_the_evidence
+type: Concept
+canonical_name: Preponderance of the Evidence
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1791
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The burden of proof for the elements of negligence (i.e., duty, breach, causation, damages) in a civil case is the preponderance of the evidence, which is simply the greater weight of the evidence (12).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.damages_legal_definition
+type: Concept
+canonical_name: Damages (legal definition)
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1791
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Damages are defined as money claimed by, or ordered to be paid to, a person as compensation for loss or injury (13).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.summary_judgment
+type: Concept
+canonical_name: Summary Judgment
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1792
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Summary judgment is a judgment granted on a claim about which there is no genuine issue of material fact and on which the movant is entitled to prevail as a matter of law (14).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sovereign_immunity
+type: Concept
+canonical_name: Sovereign Immunity
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1792
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  sovereign immunity, which is defined both as a government's
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.tort
+type: Concept
+canonical_name: Tort
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Legal and Ethical Issues"
+  section: "26.3"
+  section_title: "Legal and Ethical Issues"
+  book_page: 1791
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  a civil wrong (10).
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,403 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.strength_and_conditioning_performance_team
+type: Concept
+canonical_name: Strength and Conditioning Performance Team
+semantic_type: Team
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1781
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The responsibilities of the strength and conditioning professional are continually changing as the field grows and becomes better recognized (22). The strength and conditioning staff can be aligned through the hiring of practitioners with formal education and specialization in specific scientific foundations (e.g., anatomy, exercise physiology, biomechanics). An assembled team allows for cooperative expertise by practitioners with complementary skills and provides an educational opportunity for staff members to gain knowledge outside of their specialization. Table 26.1 provides a practical example of a strength and conditioning performance team. The director of strength and conditioning is responsible for delineating the appropriate duties and responsibilities to the strength and conditioning staff for program design, exercise technique, organization and administration, and testing and evaluation.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.strength_and_conditioning_performance_team_scientific_foundations_education_and_expertise
+type: Concept
+canonical_name: Strength and Conditioning Performance Team — Scientific Foundations Education and Expertise
+semantic_type: KnowledgeArea
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1781
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.strength_and_conditioning_performance_team
+definition: >
+  Exercise and sport anatomy, biomechanics
+  Exercise and sport physiology
+  Exercise and sports nutrition
+  Exercise and sport pedagogy
+  Exercise and sport psychology, motor learning
+  Training methodology
+  Kinesiology, physiotherapy, sports medicine
+attributes:
+  - exercise and sport anatomy
+  - biomechanics
+  - exercise and sport physiology
+  - exercise and sports nutrition
+  - exercise and sport pedagogy
+  - exercise and sport psychology
+  - motor learning
+  - training methodology
+  - kinesiology
+  - physiotherapy
+  - sports medicine
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.strength_and_conditioning_performance_team_practical_and_applied_activities_and_responsibilities
+type: Concept
+canonical_name: Strength and Conditioning Performance Team — Practical and Applied Activities and Responsibilities
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1781
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.strength_and_conditioning_performance_team
+definition: >
+  Exercise techniques, testing and evaluation, rehabilitation and reconditioning
+  Program design; testing and evaluation
+  Nutritionist
+  Program design; exercise technique; organization and administration
+  Exercise technique; rehabilitation and reconditioning
+  Program design, organization, and administration
+  Rehabilitation and reconditioning
+attributes:
+  - exercise techniques
+  - testing and evaluation
+  - rehabilitation and reconditioning
+  - program design
+  - nutritionist
+  - exercise technique
+  - organization and administration
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.strength_and_conditioning_performance_team_liaison_assignment
+type: Concept
+canonical_name: Strength and Conditioning Performance Team — Liaison Assignment
+semantic_type: Role
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1781
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.strength_and_conditioning_performance_team
+definition: >
+  Exercise and sport science faculty, team coaches, sports medicine team
+  Exercise and sport science faculty, team coaches
+  Exercise and sport science faculty
+  Exercise and sport science faculty, athletic administration
+  Exercise and sport science faculty, sports medicine team
+  Exercise and sport science faculty, athletic administration
+  Sports medicine team
+attributes:
+  - exercise and sport science faculty
+  - team coaches
+  - sports medicine team
+  - athletic administration
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.consult_nsca_standards_and_guidelines_for_performance_team_development
+type: Recommendation
+canonical_name: Consult NSCA Standards and Guidelines for Performance Team Development
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1782
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Although job responsibilities vary according to institution, it would be prudent to consult NSCA Strength and Conditioning Professional Standards and Guidelines (30) when one is developing a strength and conditioning performance team.
+rationale: ""
+source_citation: "30"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.aligning_a_performance_team_with_qualified_practitioners
+type: Recommendation
+canonical_name: Aligning a Performance Team with Qualified Practitioners
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1782
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  The productivity of a Strength and Conditioning staff, as well as learning and skill development of individual members, should be enhanced by aligning a performance team comprised of qualified practitioners with interdependent expertise and shared leadership roles. Once the team is assembled, respective activities and responsibilities from the domains identified in the Certified Strength and Conditioning Specialist (CSCS) Examination Content Description, as well as the appropriate liaison assignments, should be delegated according to each member's particular expertise.
+rationale: ""
+source_citation: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.director_of_strength_and_conditioning
+type: Concept
+canonical_name: Director of Strength and Conditioning
+semantic_type: Role
+aliases:
+  - Head Strength and Conditioning Professional
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1782
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The director of strength and conditioning (referred to hereafter as director)—also commonly referred to as the head strength and conditioning professional —is both a practitioner and an administrator. This person is responsible for the overall strength and conditioning program, facility, equipment, staff, and such administrative tasks as preparing a budget, purchasing equipment, preparing proposals, and working with administration and media.
+attributes:
+  - practitioner
+  - administrator
+purpose:
+  - responsible for overall strength and conditioning program
+  - responsible for facility
+  - responsible for equipment
+  - responsible for staff
+  - preparing a budget
+  - purchasing equipment
+  - preparing proposals
+  - working with administration
+  - working with media
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sample_director_of_strength_and_conditioning_job_listing
+type: Concept
+canonical_name: Sample Director of Strength and Conditioning Job Listing
+semantic_type: Document
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1783
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Figure 26.1 Sample director of strength and conditioning job listing. Responsibilities and duties as assigned by the director of athletics include developing and monitoring performance training programs for athletic teams, implementing safe and effective program design based on scientific principles, instructing proper resistance training exercise techniques, speed and agility development, and testing and evaluation. The head strength and conditioning professional will oversee policies and procedures, facility organization, record management, and risk management for the strength and conditioning performance team in collaboration with the institution. The strength and conditioning professional should work cooperatively with the medical, sports psychology, and nutrition staff in the interest of student-athlete development, health, and well-being. A bachelor's degree is required, with a master's degree preferred (with emphasis in the exercise sciences). The strength and conditioning professional must possess certification from an independent accreditation agency (e.g., Certified Strength and Conditioning Specialist by the National Strength and Conditioning Association) and maintain continuing education requirements. First aid, cardiopulmonary resuscitation, and automated external defibrillator certifications required. Two years' experience is required in progressively responsible positions involving development and management of sport-specific individual and group performance training programs. Excellent management, leadership, communication, supervisory, and management skills are required. Salary is commensurate with background and experience.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sample_strength_and_conditioning_director_job_description
+type: Concept
+canonical_name: Sample Strength and Conditioning Director Job Description
+semantic_type: Document
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1784
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Figure 26.2 Sample strength and conditioning director job description. Direct all facets of staff, program, and facility operations. Design (or have final review of) all training programs. Oversee the athletic performance operation to ensure compliance with institutional, conference, and governing bodies' rules and regulations. Develop and submit the annual budget and ensure budgetary compliance through efficient financial management. Generate income and budget available funds for maintenance and improvement of the facility. Communicate with alumni and stakeholders for fundraising initiatives. Oversee the selection, installation, and maintenance of performance equipment, including cleaning and repair. Conduct orientation meetings for student-athletes on such issues as facility rules, the value of proper training and nutrition, and the dangers of banned substances. Develop staff work and supervision schedules, assign duties, and evaluate performance. Coordinate time schedules for use of the facility by each sport team and individual student-athletes. Assist with on-campus recruiting activities for prospective student-athletes. Serve on various departmental, institutional, conference, governing body, and professional committees and task forces. Work and communicate with coaches in the athletic department. Travel with sport teams (if applicable) and provide remote-site performance training programs, including pregame warm-up, cool-down, and recovery sessions. Maintain a performance training library for professional development. Organize continuing education opportunities for strength and conditioning staff. Achieve and maintain professional certifications with continuing education requirements and a code of ethics, such as the CSCS credential offered through the NSCA; depending on the professional's scope of activities, responsibilities, and knowledge requirements, relevant certifications offered by other governing bodies may also be appropriate (30). Perform other duties and special projects as requested by supervisor. Perform the duties of the assistant strength and conditioning professional and facility supervisor as needed.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.student_intern_evaluation
+type: Concept
+canonical_name: Student Intern Evaluation
+semantic_type: Document
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1785
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Figure 26.3 Student intern evaluation. Evaluation of staff member: ____________________________ _ For period: ______________ _to __________________________ _ The evaluation process is a method of assessing individual performance. It is an opportunity to bring to light any outstanding contributions or deficiencies among student intern staff members, improve individual job performance, determine appropriate personnel actions, and stimulate individual development. Communication: Has the respect of the athletes while maintaining discipline 12345N/A. Teaches proper resistance training exercise technique 12345N/A. Has the ability to motivate athletes and elicit team unity 12345N/A. Enforces the weight room rules 12345N/A. Exhibits courtesy to athletes of both sexes 12345N/A. Does not subject athletes to verbal or physical abuse 12345N/A. Assumes Responsibility and Leadership: Follows instructions 12345N/A. Is adaptable to new ideas 12345N/A. Is always trying to learn 12345N/A. Does not delegate authority without permission 12345N/A. Demonstrates a high level of integrity 12345N/A. Adjusts training activity to fit skill or age level of the athlete 12345N/A. Demonstrates good judgment 12345N/A. Demonstrates consistent attendance and promptness 12345N/A. Submits paperwork on time as requested 12345N/A. Possesses the ability to get the project done, large or small 12345N/A. Submits high-quality work 12345N/A. Possesses an appropriate appearance 12345N/A. Attitude: Functions compatibly with all staff, athletes, and other departments 12345N/A. Is trustworthy with sensitive information 12345N/A. Does not gossip about coaches, athletic trainers, or athletes 12345N/A. Strives for objectives as stated in department's role and mission statement 12345N/A. Key: 1 = Significantly below performance expectations, 2 = Minimally acceptable performance, 3 = Meets performance expectations, 4 = Exceeds performance expectations, 5 = Clearly exceptional performance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.student_intern_evaluation_rating_1
+type: Threshold
+canonical_name: Student Intern Evaluation Rating 1
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1785
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.student_intern_evaluation_rating_2
+threshold_type: rating
+value: "1"
+unit: ""
+comparator: "="
+description: "Significantly below performance expectations"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.student_intern_evaluation_rating_2
+type: Threshold
+canonical_name: Student Intern Evaluation Rating 2
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 26
+  chapter_title: "Strength and Conditioning Performance Team"
+  section: "26.2"
+  section_title: "Staff Policies"
+  book_page: 1785
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.student_intern_evaluation_rating_1
+  - predicate: adjacent_to
+    target: threshold.student_intern_evaluation_rating_3
+threshold_type: rating
+value: "2"
+unit: ""
+comparator: "="
+description: "Minimally acceptable performance"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.student_intern_evaluation_rating_3
+type: Threshold
+canonical_name: Student Intern Evaluation Rating 3
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12

@@ -1,0 +1,586 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.overtraining_syndrome
+type: Concept
+canonical_name: Overtraining Syndrome
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1711
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Up to this point, we have discussed exclusively quantitative measurements of performance, training, or physiology. However, it has been suggested that questionnaires using subjective measures may be more useful for monitoring athletes and their risk of overtraining (115). To that end, numerous survey instruments have been developed to help monitor athlete perceptions of training status and recovery. Table 24.3 lists a number of these tools that strength and conditioning professionals may find helpful to use.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.overtraining
+  - concept.overreaching
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rating_of_perceived_exertion
+type: TableRow
+canonical_name: Rating of Perceived Exertion
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Rating of perceived exertion (RPE)
+attributes:
+  - reference: "Borg 1982 (11)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cr10_rpe
+type: TableRow
+canonical_name: CR10 RPE
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  CR10 RPE
+attributes:
+  - reference: "Borg 1982 (11)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.profile_of_mood_states
+type: TableRow
+canonical_name: Profile of Mood States
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Profile of Mood States (POMS)
+attributes:
+  - reference: "McNair et al. 1971 (87)"
+  - reference: "Morgan et al. 1987 (95)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.37_item_poms
+type: TableRow
+canonical_name: 37-Item POMS
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  37-item POMS
+attributes:
+  - reference: "Coyne et al. 2018 (24)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.daily_analysis_of_life_demands_for_athletes
+type: TableRow
+canonical_name: Daily Analysis of Life Demands for Athletes
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Daily Analysis of Life Demands for Athletes (DALDA)
+attributes:
+  - reference: "Rushall et al. 1990 (112)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.emotional_recovery_questionnaire
+type: TableRow
+canonical_name: Emotional Recovery Questionnaire
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Emotional Recovery Questionnaire (EmRecQ)
+attributes:
+  - reference: "Lundqvist and Kenttä 2010 (83)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.multi_component_training_distress_scale
+type: TableRow
+canonical_name: Multi-Component Training Distress Scale
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Multi-Component Training Distress Scale (MTDS)
+attributes:
+  - reference: "Main and Grove 2009 (84)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.recovery_stress_questionnaire_for_coaches
+type: TableRow
+canonical_name: Recovery-Stress Questionnaire for Coaches
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Recovery-Stress Questionnaire for Coaches (REST-Q in Sport)
+attributes:
+  - reference: "Kellman 2002 (67)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.acute_recovery_and_stress_scale
+type: TableRow
+canonical_name: Acute Recovery and Stress Scale
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Acute Recovery & Stress Scale (ARSS)
+attributes:
+  - reference: "Kellman and Kölling 2019 (67)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.short_recovery_and_stress_scale
+type: TableRow
+canonical_name: Short Recovery and Stress Scale
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Short Recovery & Stress Scale (SRSS)
+attributes:
+  - reference: "Kellman and Kölling 2019 (67)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.recovery_cue_inventory_questionnaire
+type: TableRow
+canonical_name: Recovery-Cue Inventory Questionnaire
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Recovery-Cue Inventory Questionnaire
+attributes:
+  - reference: "Kellman et al. 2002 (66)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.total_quality_recovery_questionnaire
+type: TableRow
+canonical_name: Total Quality Recovery Questionnaire
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Total Quality Recovery Questionnaire (TQR)
+attributes:
+  - reference: "Kenttä and Hassmén 2002 (70)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.perceived_recovery_status
+type: TableRow
+canonical_name: Perceived Recovery Status
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Perceived Recovery Status
+attributes:
+  - reference: "Laurent et al. 2011 (77)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rating_of_fatigue_scale
+type: TableRow
+canonical_name: Rating of Fatigue Scale
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Rating of Fatigue Scale
+attributes:
+  - reference: "Micklewright et al. 2017 (91)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_exercise_overtraining_questionnaire
+type: TableRow
+canonical_name: Resistance Exercise Overtraining Questionnaire
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Resistance Exercise Overtraining Questionnaire
+attributes:
+  - reference: "Fry et al. (35, 41, 42, 43)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.hooper_index
+type: TableRow
+canonical_name: Hooper Index
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Hooper Index
+attributes:
+  - reference: "Hooper et al. 1995 (59)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.training_distress_scale
+type: TableRow
+canonical_name: Training Distress Scale
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Training Distress Scale (TDS)
+attributes:
+  - reference: "Grove et al. 2014 (51)"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.performance_failure_appraisal_inventory
+type: TableRow
+canonical_name: Performance Failure Appraisal Inventory
+semantic_type: Questionnaire
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining Syndrome"
+  section: "24.4"
+  section_title: "Overtraining Syndrome"
+  book_page: 1713
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.table_24_3
+definition: >
+  Performance Failure Appraisal Inventory (PFAI)
+attributes:
+  - reference: "Conroy et

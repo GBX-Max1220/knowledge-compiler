@@ -19,7 +19,7 @@ provenance:
 evidence_level: ''
 relationships:
 - predicate: used_for
-  target: population.heart_transplant_recipients
+  target: concept.heart_transplant_recipients
 definition: 'Exercise prescription for heart transplant recipients should follow the
   general guidelines for apparently healthy individuals, with special considerations
   for the unique physiological limitations of the denervated heart. Because of the

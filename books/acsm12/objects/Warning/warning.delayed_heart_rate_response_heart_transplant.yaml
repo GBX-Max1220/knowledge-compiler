@@ -20,7 +20,7 @@ provenance:
 evidence_level: ''
 relationships:
 - predicate: associated_with
-  target: population.heart_transplant_recipients
+  target: concept.heart_transplant_recipients
 definition: 'Because of the loss of parasympathetic and sympathetic innervation, the
   heart rate response to exercise is blunted and delayed. Resting heart rate is typically
   elevated (95–115 bpm), and peak heart rate is lower than age-predicted. The heart

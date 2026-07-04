@@ -1,0 +1,609 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.ventilation_and_circulation_requirements
+type: Recommendation
+canonical_name: Ventilation and Circulation Requirements
+semantic_type: Facility Design Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1746
+  pdf_page: 1746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Ventilation and circulation are primary concerns with regard to facility design and the HVAC system. The HVAC system, a fresh air exchange system, and ceiling or box fans should provide necessary ventilation and circulation that are in accordance with ANSI/ASHRAE 62.1 requirements for health clubs and weight rooms (6). Air systems must provide air circulation at proper levels according to the needs of specific equipment areas and occupant loads (6). For example, aerobic training areas require a higher circulation rate than resistance training spaces (2). Room air should be exchanged a minimum of 8 to 10 times per hour—optimally 12 to 15 times per hour to prevent odors and stagnant air (5). If fans are used, a general guideline is two to four fans for every 1,200 square feet (111 m2).
+
+attributes: []
+
+purpose:
+  - provide necessary ventilation and circulation
+  - prevent odors and stagnant air
+
+related_concepts:
+  - threshold.room_air_exchange_rate_minimum_and_optimal
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.sound_system_volume_and_placement
+type: Recommendation
+canonical_name: Sound System Volume and Placement
+semantic_type: Facility Design Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1746
+  pdf_page: 1746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The sound volume should be less than 90 decibels so that athletes can hear instructions and coaching cues (2). To avoid damage, speakers should be elevated above the height of all training equipment. Placing speakers in the corner allows sound to project toward the middle of the room so that it is more evenly distributed. The use of headphones is not recommended. Headphones can interfere with coaching and instruction and limit athletes' awareness of their surroundings in the case of an emergency.
+
+attributes: []
+
+purpose:
+  - ensure athletes can hear instructions and coaching cues
+  - avoid damage to speakers
+  - evenly distribute sound
+
+related_concepts:
+  - threshold.sound_volume_maximum
+  - warning.headphone_use_safety_concern
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.mirror_placement_guidelines
+type: Recommendation
+canonical_name: Mirror Placement Guidelines
+semantic_type: Facility Design Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1747
+  pdf_page: 1747
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Mirrors should be placed at least 6 inches (15 cm) away from any equipment (e.g., behind a rack of dumbbells) and a minimum of 20 inches (51 cm) above the floor (4). The purpose of the height guideline is to ensure that weights do not roll, bounce, or slide into the bottom of the mirror and cause the glass to break. The standard weight plate is 18 inches (46 cm) in diameter, giving mirrors a 2-inch (5 cm) clearance if the plate is dropped near the mirror or leaned against the wall behind the mirror (14).
+
+attributes: []
+
+purpose:
+  - prevent glass breakage from weights
+
+related_concepts:
+  - threshold.mirror_distance_from_equipment
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.equipment_spacing_for_racks_barbells_and_dumbbells
+type: Recommendation
+canonical_name: Equipment Spacing for Racks, Barbells, and Dumbbells
+semantic_type: Facility Design Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1751
+  pdf_page: 1751
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Racks, barbells, and dumbbells should have a minimum of 3 feet (0.9 m) of space between equipment to allow for movement without danger to the athlete or spotter. If a spotter or multiple spotters are needed (e.g., on a rack), providing additional space may be required.
+
+attributes: []
+
+purpose:
+  - allow for movement without danger to the athlete or spotter
+
+related_concepts:
+  - threshold.minimum_space_between_racks_barbells_and_dumbbells
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.walkway_width_for_traffic_flow
+type: Recommendation
+canonical_name: Walkway Width for Traffic Flow
+semantic_type: Facility Design Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1752
+  pdf_page: 1752
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This usually creates two or three main walkways that should be 5 to 7 feet (1.5-2.1 m) wide (2, 3, 13).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - threshold.walkway_width_range
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.circuit_training_machine_spacing
+type: Recommendation
+canonical_name: Circuit Training Machine Spacing
+semantic_type: Facility Design Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1753
+  pdf_page: 1753
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stationary circuit training machines should be at least 30 inches (76 cm) (3), preferably 36 inches (91 cm), away from each other to provide a wide enough area and some extra space for safety.
+
+attributes: []
+
+purpose:
+  - provide a wide enough area and some extra space for safety
+
+related_concepts:
+  - threshold.circuit_training_machine_minimum_and_preferred_spacing
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.aerobic_equipment_floor_space_allocation
+type: Recommendation
+canonical_name: Aerobic Equipment Floor Space Allocation
+semantic_type: Facility Design Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1755
+  pdf_page: 1755
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A general guideline is to allocate approximately 40 to 60 square feet (3.7-5.6 m2) of floor space per piece of equipment (2).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - threshold.aerobic_equipment_floor_space_range
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.suspension_training_anchor_point_height
+type: Recommendation
+canonical_name: Suspension Training Anchor Point Height
+semantic_type: Facility Design Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1757
+  pdf_page: 1757
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Ideally, the anchor point should be between 7 to 9 feet (2.1-2.7 m) above the floor.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - threshold.suspension_training_anchor_point_height_range
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.room_air_exchange_rate_minimum_and_optimal
+type: Threshold
+canonical_name: Room Air Exchange Rate Minimum and Optimal
+semantic_type: Environmental Standard
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1746
+  pdf_page: 1746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Room air should be exchanged a minimum of 8 to 10 times per hour—optimally 12 to 15 times per hour to prevent odors and stagnant air (5).
+
+attributes: []
+
+purpose:
+  - prevent odors and stagnant air
+
+related_concepts: []
+
+threshold_type: range
+value: "8-10"
+unit: "exchanges per hour"
+comparator: "minimum"
+optimal_value: "12-15"
+optimal_unit: "exchanges per hour"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.sound_volume_maximum
+type: Threshold
+canonical_name: Sound Volume Maximum
+semantic_type: Environmental Standard
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1746
+  pdf_page: 1746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The sound volume should be less than 90 decibels so that athletes can hear instructions and coaching cues (2).
+
+attributes: []
+
+purpose:
+  - ensure athletes can hear instructions and coaching cues
+
+related_concepts: []
+
+threshold_type: upper_limit
+value: "90"
+unit: "decibels"
+comparator: "less_than"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.mirror_distance_from_equipment
+type: Threshold
+canonical_name: Mirror Distance from Equipment
+semantic_type: Safety Standard
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1747
+  pdf_page: 1747
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Mirrors should be placed at least 6 inches (15 cm) away from any equipment (e.g., behind a rack of dumbbells) and a minimum of 20 inches (51 cm) above the floor (4).
+
+attributes: []
+
+purpose:
+  - ensure that weights do not roll, bounce, or slide into the bottom of the mirror and cause the glass to break
+
+related_concepts: []
+
+threshold_type: lower_limit
+value: "6"
+unit: "inches"
+comparator: "at_least"
+additional_value: "20"
+additional_unit: "inches"
+additional_comparator: "minimum"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.minimum_space_between_racks_barbells_and_dumbbells
+type: Threshold
+canonical_name: Minimum Space Between Racks, Barbells, and Dumbbells
+semantic_type: Safety Standard
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1751
+  pdf_page: 1751
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Racks, barbells, and dumbbells should have a minimum of 3 feet (0.9 m) of space between equipment to allow for movement without danger to the athlete or spotter.
+
+attributes: []
+
+purpose:
+  - allow for movement without danger to the athlete or spotter
+
+related_concepts: []
+
+threshold_type: lower_limit
+value: "3"
+unit: "feet"
+comparator: "minimum"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.walkway_width_range
+type: Threshold
+canonical_name: Walkway Width Range
+semantic_type: Design Standard
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1752
+  pdf_page: 1752
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This usually creates two or three main walkways that should be 5 to 7 feet (1.5-2.1 m) wide (2, 3, 13).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+threshold_type: range
+value: "5-7"
+unit: "feet"
+comparator: "range"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.circuit_training_machine_minimum_and_preferred_spacing
+type: Threshold
+canonical_name: Circuit Training Machine Minimum and Preferred Spacing
+semantic_type: Safety Standard
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1753
+  pdf_page: 1753
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stationary circuit training machines should be at least 30 inches (76 cm) (3), preferably 36 inches (91 cm), away from each other to provide a wide enough area and some extra space for safety.
+
+attributes: []
+
+purpose:
+  - provide a wide enough area and some extra space for safety
+
+related_concepts: []
+
+threshold_type: lower_limit
+value: "30"
+unit: "inches"
+comparator: "at_least"
+optimal_value: "36"
+optimal_unit: "inches"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.aerobic_equipment_floor_space_range
+type: Threshold
+canonical_name: Aerobic Equipment Floor Space Range
+semantic_type: Design Standard
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 25
+  chapter_title: "Facility Design and Equipment Selection"
+  section: "25.2"
+  section_title: "Equipment Selection and Layout"
+  book_page: 1755
+  pdf_page: 1755
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A general guideline is to allocate approximately 40 to 60 square feet (3.7-5.6 m2) of floor space per piece of equipment (2).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+threshold_type: range
+value: "40-60"
+unit: "square feet"
+comparator: "range"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.suspension_training_anchor_point_height_range
+type: Threshold
+canonical_name: Suspension Training Anchor

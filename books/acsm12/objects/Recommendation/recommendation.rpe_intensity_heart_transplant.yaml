@@ -19,7 +19,7 @@ provenance:
 evidence_level: ''
 relationships:
 - predicate: used_for
-  target: population.heart_transplant_recipients
+  target: concept.heart_transplant_recipients
 definition: 'RPE of 11–14 on the Borg 6–20 scale is recommended.
 
   '
