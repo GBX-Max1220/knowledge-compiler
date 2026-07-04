@@ -1,0 +1,130 @@
+{
+  "condition": "raw",
+  "questions": [
+    {
+      "id": "q01_acs_fitt",
+      "type": "Concept",
+      "answer": "The FITT principle is a framework for designing and adjusting exercise programs. Each letter stands for:\n\n- **F**requency: How often you exercise (e.g., days per week).\n- **I**ntensity: How hard you work (e.g., % of max heart rate, weight lifted).\n- **T**ime: Duration of each exercise session (e.g., minutes per session).\n- **T**ype: Mode of exercise (e.g., running, cycling, resistance training)."
+    },
+    {
+      "id": "q02_acs_testing",
+      "type": "Concept",
+      "answer": "**Maximal exercise testing** requires the participant to exercise to volitional exhaustion, directly measuring peak physiological limits (e.g., VO₂max, maximal heart rate).  \n**Submaximal exercise testing** stops at a predetermined endpoint (e.g., 85% of age-predicted max heart rate or a fixed workload), using heart rate and workload responses to estimate maximal capacity without requiring maximal effort."
+    },
+    {
+      "id": "q03_acs_strength_endurance",
+      "type": "Concept",
+      "answer": "**Muscular strength** is the maximum force a muscle or muscle group can generate in a single effort (e.g., one-rep max).  \n**Muscular endurance** is the ability of a muscle to sustain repeated contractions or maintain a force over a period of time (e.g., number of push-ups performed)."
+    },
+    {
+      "id": "q04_acs_cvd_risk",
+      "type": "Threshold+Multi",
+      "answer": "Based on standard CVD risk factor criteria (e.g., ATP III guidelines), this gives him **2** risk factors:\n\n1. **Total cholesterol ≥ 240 mg/dL** (1 point).\n2. **HDL < 40 mg/dL** (1 point)."
+    },
+    {
+      "id": "q05_acs_met_mod",
+      "type": "Threshold",
+      "answer": "3.0 to 5.9 METs. Example: brisk walking (3–4 mph)."
+    },
+    {
+      "id": "q06_acs_waist",
+      "type": "Threshold",
+      "answer": "Yes. A waist circumference of 108 cm indicates substantially increased risk for metabolic and cardiovascular diseases. For health purposes, the threshold for increased risk is generally ≥102 cm for men and ≥88 cm for women."
+    },
+    {
+      "id": "q07_acs_cooper",
+      "type": "Formula",
+      "answer": "Based on the 12-minute Cooper Test, your estimated VO2max is approximately **44.5 ml/kg/min**.\n\n**Calculation:**\n- Distance = 2.8 km\n- Formula: (35.97 × distance in km) - 11.29\n- (35.97 × 2.8) - 11.29 = 100.716 - 11.29 = **44.43 ml/kg/min**\n\n**Fitness Category (for a 30-39 year old male):** Average to Good."
+    },
+    {
+      "id": "q08_acs_bf",
+      "type": "Formula",
+      "answer": "Based on the Siri equation for body density (BD), the estimated body fat percentage (BF%) is:\n\n**BF% = (495 / BD) − 450**\n\nBF% = (495 / 1.075) − 450  \nBF% ≈ 460.47 − 450  \n**BF% ≈ 10.5%**"
+    },
+    {
+      "id": "q09_acs_screening",
+      "type": "Multi-hop",
+      "answer": "Based on exercise science guidelines, she should follow these screening steps:\n\n1. **Pre-Exercise Medical Clearance**: Consult her physician due to age (≥45 years for women), sedentary status (>5 years), and chronic condition (asthma). This is recommended before starting moderate-intensity exercise.\n2. **Asthma Control Assessment**: Ensure her asthma is well-controlled (e.g., no recent exacerbations, rescue inhaler use <2x/week). If uncontrolled, delay exercise until managed.\n3. **Symptom-Limited Exercise Test**: If cleared, consider a submaximal walking test (e.g., 6-minute walk) under supervision to assess functional capacity and exercise-induced bronchoconstriction risk.\n4. **Warm-Up and Monitoring**: Begin with a 10–15 minute warm-up, monitor for dyspnea, wheezing, or chest tightness, and have a rescue inhaler available."
+    },
+    {
+      "id": "q10_acs_chest",
+      "type": "Multi-hop",
+      "answer": "The tester should **immediately stop the exercise test** and assess the patient. Follow standard emergency protocol: check vital signs, obtain a 12-lead ECG, administer oxygen if available, and activate emergency medical services (EMS) if symptoms persist or worsen."
+    },
+    {
+      "id": "q11_acs_bp",
+      "type": "Procedure",
+      "answer": "1. **Prepare the participant:** Have them sit quietly for at least 5 minutes, feet flat on the floor, back supported, and arm resting at heart level (supported on a table). No caffeine or exercise for 30 minutes prior.\n2. **Select and position the cuff:** Choose an appropriately sized cuff. Wrap it snugly around the bare upper arm, with the lower edge about 2-3 cm (1 inch) above the antecubital fossa (elbow crease).\n3. **Locate the pulse:** Palpate the brachial artery pulse in the antecubital fossa.\n4. **Inflate the cuff:** Inflate the cuff rapidly to about 20-30 mmHg above the point where the pulse disappears (palpatory estimate).\n5. **Place the stethoscope:** Place the bell or diaphragm of the stethoscope over the brachial artery pulse.\n6. **Deflate the cuff:** Release the valve slowly at a rate of 2-3 mmHg per second.\n7. **Record systolic pressure:** Note the pressure on the gauge at the point where the first clear, repetitive tapping sounds (Korotkoff Phase I) are heard.\n8. **Record diastolic pressure:** Note the pressure on the gauge at the point where the sounds disappear (Korotkoff Phase V).\n9. **Deflate completely:** Open the valve fully to release all remaining air.\n10. **Record the measurement:** Record systolic over diastolic (e.g., 120/80 mmHg). Wait 1-2 minutes before repeating for a second reading."
+    },
+    {
+      "id": "q12_acs_termination",
+      "type": "Procedure",
+      "answer": "Based on exercise science, termination criteria for an exercise test are signs or symptoms indicating it is unsafe or physiologically inappropriate to continue. They are divided into **absolute** (immediate stop) and **relative** (stop if severe or worsening).\n\n**Absolute Indications (Stop Immediately):**\n- Acute myocardial infarction or ST-segment elevation (≥1.0 mm in leads without Q waves).\n- Severe angina (chest pain) or angina-like symptoms.\n- Drop in systolic blood pressure (SBP) ≥10 mmHg from baseline despite increasing workload, or SBP <90 mmHg.\n- Signs of poor perfusion (cyanosis, pallor, cold/clammy skin).\n- Serious arrhythmias (e.g., sustained ventricular tachycardia, second/third-degree AV block, atrial fibrillation with rapid ventricular response).\n- Technical inability to monitor ECG or blood pressure.\n- Subject requests to stop.\n\n**Relative Indications (Consider Stopping):**\n- Marked dyspnea, fatigue, or leg cramps.\n- Hypertensive response (SBP >250 mmHg or diastolic BP >115 mmHg).\n- ST or QRS changes (e.g., excessive horizontal/downsloping ST depression >2 mm, or axis shift).\n- Arrhythmias less severe than absolute (e.g., supraventricular tachycardia, multifocal PVCs, couplets).\n- Development of bundle branch block or intraventricular conduction delay.\n- Exaggerated chronotropic response (heart rate not appropriate for workload).\n- Subject requests to stop due to non-cardiac reasons (e.g., musculoskeletal pain)."
+    },
+    {
+      "id": "q13_nsca_sarcomere",
+      "type": "Concept",
+      "answer": "A sarcomere is the basic functional unit of a skeletal muscle myofibril, responsible for muscle contraction. Its key components are:\n\n- **Thick filaments**: Composed primarily of myosin.\n- **Thin filaments**: Composed primarily of actin, along with troponin and tropomyosin.\n- **Z-discs (Z-lines)**: Boundaries that anchor thin filaments and define the sarcomere ends.\n- **M-line**: Central region that anchors thick filaments.\n- **H-zone**: Central area of the sarcomere containing only thick filaments.\n- **A-band**: Full length of thick filaments (includes overlapping thin filaments).\n- **I-band**: Region containing only thin filaments (between A-bands of adjacent sarcomeres)."
+    },
+    {
+      "id": "q14_nsca_sliding",
+      "type": "Concept",
+      "answer": "The sliding-filament theory explains that muscle contraction occurs when actin and myosin filaments within sarcomeres slide past each other, shortening the muscle without changing filament length. This is driven by myosin heads binding to actin, forming cross-bridges, and pulling actin inward via ATP-powered power strokes."
+    },
+    {
+      "id": "q15_nsca_ec_coupling",
+      "type": "Multi-hop",
+      "answer": "1. **Neural Signal:** An action potential travels down a motor neuron to the neuromuscular junction.\n2. **Acetylcholine Release:** The signal triggers release of acetylcholine (ACh) into the synaptic cleft.\n3. **Muscle Fiber Depolarization:** ACh binds to receptors on the muscle fiber membrane, causing an action potential that spreads via T-tubules.\n4. **Calcium Release:** The action potential triggers the sarcoplasmic reticulum to release calcium ions (Ca²⁺) into the sarcoplasm.\n5. **Cross-Bridge Formation:** Ca²⁺ binds to troponin, causing tropomyosin to shift and expose actin binding sites. Myosin heads then bind to actin.\n6. **Power Stroke:** Myosin heads pivot, pulling actin filaments toward the center of the sarcomere (contraction).\n7. **ATP Detachment:** ATP binds to myosin, causing it to release actin and reset for the next cycle."
+    },
+    {
+      "id": "q16_nsca_bone",
+      "type": "Multi-hop",
+      "answer": "Resistance training increases bone density primarily through **Wolff's Law**: bone remodels in response to mechanical stress. High-impact, weight-bearing exercises (e.g., squats, deadlifts, jumps) generate ground reaction forces and muscle pull on bone, stimulating **osteoblasts** (bone-building cells). This increases **bone mineral density (BMD)** and cross-sectional area, particularly in loaded sites (spine, hips, femurs). The effect is site-specific, load-dependent, and requires progressive overload to maintain adaptation."
+    },
+    {
+      "id": "q17_nsca_fiber",
+      "type": "Multi-hop",
+      "answer": "Yes, they will differ due to their distinct performance goals and existing physiological baselines.\n\n- **Sprinter** will prioritize **power and rate of force development**. Their resistance training will emphasize heavy loads (85-100% 1RM) and explosive movements (e.g., Olympic lifts, plyometrics) to enhance **Type IIx fiber hypertrophy** and neuromuscular efficiency.\n- **Marathon runner** will prioritize **muscular endurance and injury resilience**. Their training will use moderate loads (60-75% 1RM) with higher repetitions to improve **Type I fiber oxidative capacity** and connective tissue strength, while avoiding excessive hypertrophy that could increase metabolic cost.\n\n**Why:** The sprinter needs maximal force in minimal time; the marathon runner needs sustained force output with minimal fatigue. Resistance training is tailored to complement—not interfere with—their primary sport’s energy system and fiber-type demands."
+    },
+    {
+      "id": "q18_nsca_motor",
+      "type": "Concept",
+      "answer": "A motor unit is defined as a single alpha motor neuron and all the muscle fibers it innervates.\n\nForce production is determined by:\n1. **Rate coding** – the frequency of action potentials from the motor neuron.\n2. **Recruitment** – the number and size of motor units activated (Henneman’s size principle: smaller, low-threshold units recruited first, larger high-threshold units added for greater force)."
+    },
+    {
+      "id": "q19_nsca_joints",
+      "type": "Concept",
+      "answer": "Based on movement, the three types of joints are:\n\n1.  **Synarthrosis (Immovable):** Example – Sutures of the skull.\n2.  **Amphiarthrosis (Slightly movable):** Example – Pubic symphysis or intervertebral discs.\n3.  **Diarthrosis (Freely movable/Synovial):** Example – Knee joint or shoulder joint."
+    },
+    {
+      "id": "q20_failure",
+      "type": "Failure",
+      "answer": "A giraffe has 7 cervical vertebrae, the same number as a human."
+    },
+    {
+      "id": "q21_cross_cardiovascular",
+      "type": "Cross-book",
+      "answer": "**ACSM Aerobic Training** primarily induces central cardiovascular adaptations: increased stroke volume, left ventricular hypertrophy (eccentric), lower resting heart rate, and improved maximal cardiac output. Peripheral adaptations include increased capillary density and arteriovenous oxygen difference.\n\n**NSCA Resistance Training** primarily induces peripheral adaptations: increased left ventricular wall thickness (concentric hypertrophy), improved venous return via muscle pump, and lower blood pressure at rest (chronic). However, it does not significantly increase maximal stroke volume or cardiac output, and acute responses include higher systolic/diastolic blood pressure and heart rate due to mechanical compression and pressor response."
+    },
+    {
+      "id": "q22_cross_older",
+      "type": "Cross-book",
+      "answer": "Based on ACSM and NSCA guidelines, key exercise considerations for older adults include:\n\n- **Pre-exercise screening:** Assess health status, medications, fall risk, and chronic conditions.\n- **Program focus:** Prioritize functional capacity, balance, and mobility.\n- **Resistance training:** 2–3 days/week, 8–10 exercises, 1–3 sets of 10–15 reps at moderate intensity (RPE 5–6/10), emphasizing major muscle groups.\n- **Aerobic training:** 150 minutes/week of moderate-intensity activity (e.g., brisk walking), with low-impact options.\n- **Flexibility & balance:** Daily stretching and balance exercises (e.g., Tai Chi) to reduce fall risk.\n- **Progression:** Gradual increases in volume/intensity; allow longer recovery between sessions.\n- **Safety:** Avoid Valsalva maneuver; monitor for orthostatic hypotension; ensure proper hydration and temperature control."
+    },
+    {
+      "id": "q23_cross_program",
+      "type": "Cross-book",
+      "answer": "To combine ACSM cardio guidelines (150–300 min/week moderate-intensity or 75–150 min vigorous) with NSCA strength programming (2–4 days/week, multi-joint lifts, periodized), use a **concurrent training** approach:\n\n- **Schedule**: Alternate strength and cardio days (e.g., M/W/F strength, T/Th/Sat cardio) to minimize interference. If same-day, do strength first (to preserve neural drive) followed by low-to-moderate intensity cardio.\n- **Volume**: Keep total weekly cardio at the lower end (150 min moderate) if strength is the priority; increase to 200–300 min if endurance is the goal.\n- **Intensity**: Use NSCA’s periodization (e.g., 3–5 sets of 6–12 RM for hypertrophy/strength) and ACSM’s RPE 5–6 (moderate) or 7–8 (vigorous) for cardio.\n- **Recovery**: Prioritize 48h between same-muscle strength sessions; avoid high-impact cardio before heavy leg days.\n- **Progression**: Adjust one variable at a time (e.g., add 5–10% load or 10% cardio volume weekly) to avoid overtraining.\n\nThis balances neuromuscular and metabolic adaptations for a recreational athlete."
+    },
+    {
+      "id": "q24_cross_strength_def",
+      "type": "Cross-book",
+      "answer": "**ACSM** defines muscular strength as the maximal force a muscle or muscle group can generate during a single contraction (one-repetition maximum, or 1RM).  \n**NSCA** defines it similarly as the ability to produce force against a resistance, but emphasizes it as a skill-based quality that depends on neural and muscular factors, often contextualized within sport performance and training specificity.  \n\n*Key difference:* ACSM focuses on the maximal force output in a controlled setting; NSCA highlights its role in athletic performance and neuromuscular adaptation."
+    },
+    {
+      "id": "q25_cross_screening",
+      "type": "Cross-book",
+      "answer": "**ACSM Preparticipation Screening** focuses on identifying individuals who need medical clearance before exercise based on current physical activity level, signs/symptoms of cardiovascular/metabolic/renal disease, and known disease status. It uses a simple algorithm to determine if a medical referral is necessary.\n\n**NSCA Risk Stratification** categorizes clients into low, moderate, or high risk based on age, family history, and cardiovascular risk factors (e.g., smoking, hypertension, dyslipidemia). It guides exercise supervision and intensity, not just medical clearance.\n\n**Key Difference:** ACSM is a binary screening tool for medical referral; NSCA is a tiered system for exercise programming and supervision intensity."
+    }
+  ]
+}

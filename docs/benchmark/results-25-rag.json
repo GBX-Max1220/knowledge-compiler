@@ -1,0 +1,105 @@
+{
+  "condition": "rag",
+  "questions": [
+    {
+      "id": "q01_acs_fitt",
+      "answer": "Based solely on the provided excerpts, the FITT principle stands for: Frequency (how often), Intensity (level of exertion), Time (duration of exercise sessions), and Type (mode of activity)."
+    },
+    {
+      "id": "q02_acs_testing",
+      "answer": "Based solely on the provided excerpts, the difference is that maximal tests require an individual to exercise to the point of volitional fatigue, while submaximal tests do not. The primary purpose of submaximal testing is to determine the heart rate response to one or more submaximal work rates and use the results to predict VO2max."
+    },
+    {
+      "id": "q03_acs_strength_endurance",
+      "answer": "Based solely on the provided excerpts, muscular strength refers to the muscle’s ability to exert maximal force, while muscular endurance is the muscle’s capacity to continue to perform successive exertions (or repetitions) against a submaximal load."
+    },
+    {
+      "id": "q04_acs_cvd_risk",
+      "answer": "Based solely on the provided excerpts, there is not enough information to determine how many CVD risk factors this gives him. The excerpts define dyslipidemia and mention that LDL-C is the primary lipoprotein for CV risk assessment, but they do not provide a scoring system or threshold values for counting total cholesterol or HDL-C as specific CVD risk factors."
+    },
+    {
+      "id": "q05_acs_met_mod",
+      "answer": "Based solely on the provided excerpts, moderate intensity corresponds to 3–5 METs. No example activity is given in the text."
+    },
+    {
+      "id": "q06_acs_waist",
+      "answer": "Based solely on the provided excerpts, there is not enough information to determine if a waist circumference of 108 cm indicates increased risk. The text mentions that excess body fat located centrally around the abdomen is associated with chronic conditions, but it does not provide specific waist circumference thresholds for risk classification."
+    },
+    {
+      "id": "q07_acs_cooper",
+      "answer": "Based solely on the provided excerpts, there is not enough information to estimate your VO2max from a 2,800-meter, 12-minute run. The excerpts discuss methods for estimating VO2max from heart rate response to submaximal exercise (ACSM12 3.17) and criteria for maximal effort (ACSM12 4.19), but they do not provide a formula or table for converting a 12-minute run distance to VO2max."
+    },
+    {
+      "id": "q08_acs_bf",
+      "answer": "Based solely on the provided excerpts, there is not enough information to estimate the body fat percentage for a male athlete with a body density of 1.075 g/mL. While the text in excerpt ACSM12 3.12 provides equations for calculating body fat percentage from body density (e.g., (4.67/Db) − 4.18 for males), these equations are specifically listed for the \"Spinal cord injury (paraplegic/quadriplegic)\" population and not for a general male athlete. The excerpts do not provide the standard equations (such as the Siri or Brozek equation) for a healthy male population."
+    },
+    {
+      "id": "q09_acs_screening",
+      "answer": "Based solely on the provided excerpts, there is not enough information to answer the question. The excerpts mention that children and adolescents with asthma should be referred to individuals with expertise in that area, but they do not provide specific screening steps for a 60-year-old woman with asthma who has been inactive."
+    },
+    {
+      "id": "q10_acs_chest",
+      "answer": "Based solely on the provided excerpts, there is not enough information to determine what the tester should do when a 50-year-old man reports chest discomfort at 5 METs during a submaximal exercise test. The excerpts mention general indications for stopping an exercise test (Box 3.6) and that individuals can ask for the test to stop, but they do not specify the protocol for chest discomfort."
+    },
+    {
+      "id": "q11_acs_bp",
+      "answer": "Based solely on the provided excerpts, there is not enough information to list the steps for measuring resting blood pressure. The excerpts mention that a comprehensive fitness assessment includes the measurement of resting HR and BP, and that the appropriate cuff size should be used to measure BP, but they do not describe the specific steps for measuring resting blood pressure."
+    },
+    {
+      "id": "q12_acs_termination",
+      "answer": "Based solely on the provided excerpts, the termination criteria for an exercise test include: reaching a measured or estimated VO2max, volitional fatigue, or a predetermined endpoint (i.e., 50%–70% heart rate reserve [HRR] or 70%–85% age-predicted maximal heart rate [HRmax]). Additionally, for safety reasons, a test may be terminated prior to reaching these endpoints, and general indications for stopping an exercise test are outlined in Box 3.6."
+    },
+    {
+      "id": "q13_nsca_sarcomere",
+      "answer": "Based solely on the provided excerpts, there is no information about what a sarcomere is or its key components."
+    },
+    {
+      "id": "q14_nsca_sliding",
+      "answer": "Based solely on the provided excerpts, there is no information about the sliding-filament theory of muscle contraction."
+    },
+    {
+      "id": "q15_nsca_ec_coupling",
+      "answer": "Based solely on the provided excerpts, there is not enough information to describe the sequence of events from neural signal to muscle contraction. The excerpts discuss muscular fitness testing, exercise prescription for autism spectrum disorder, and general principles of muscle function tests, but they do not cover the cellular or physiological process of muscle contraction."
+    },
+    {
+      "id": "q16_nsca_bone",
+      "answer": "Based solely on the provided excerpts, resistance training increases bone mass (bone mineral density and content) and bone strength (ACSM12 1.7). This matters for aging populations because exercise can slow age-associated bone loss and potentially delay the onset of osteoporosis and/or reduce fracture risk (ACSM12 10.44)."
+    },
+    {
+      "id": "q17_nsca_fiber",
+      "answer": "Based solely on the provided excerpts, there is not enough information to answer whether a sprinter and a marathon runner's muscular adaptations will differ from resistance training. The excerpts discuss sex differences in fuel metabolism and general adaptations to training (stating that males and females adapt similarly to short-term strength and endurance training), but they do not compare adaptations between different types of athletes (e.g., sprinters vs. marathon runners) doing the same type of training."
+    },
+    {
+      "id": "q18_nsca_motor",
+      "answer": "Based solely on the provided excerpts, there is not enough information to define a motor unit or to determine what determines the force produced by a muscle. The excerpts discuss muscular strength, testing, and assessment, but do not define a motor unit or explain the physiological determinants of muscle force production."
+    },
+    {
+      "id": "q19_nsca_joints",
+      "answer": "Based solely on the provided excerpts, there is not enough information to answer the question. The texts mention \"multijoint\" and \"single-joint\" exercises, but do not classify joints by movement or provide examples of such classifications."
+    },
+    {
+      "id": "q20_failure",
+      "answer": "Based solely on the provided excerpts, there is no information about the number of cervical vertebrae in a giraffe or a human. Therefore, I cannot answer the question."
+    },
+    {
+      "id": "q21_cross_cardiovascular",
+      "answer": "Based solely on the provided excerpts, there is not enough information to answer the question. The excerpts discuss the health benefits of resistance training (e.g., improvements in body composition, blood glucose levels, insulin sensitivity, and blood pressure) and provide FITT recommendations for individuals with cerebrovascular disease and chronic lung diseases. However, they do not describe the cardiovascular adaptations from ACSM's aerobic training recommendations, nor do they include any information from the NSCA regarding resistance training adaptations."
+    },
+    {
+      "id": "q22_cross_older",
+      "answer": "Based solely on the provided excerpts, there is not enough information to answer the question. The excerpts mention that the ACSM and AHA have released publications with age-specific recommendations for older adults regarding flexibility, neuromotor, and resistance training exercises, but they do not provide the specific key considerations from ACSM. The excerpts contain no information from the NSCA at all."
+    },
+    {
+      "id": "q23_cross_program",
+      "answer": "Based solely on the provided excerpts, there is not enough information to describe how to combine both a cardiovascular fitness and muscular strength program for a 45-year-old recreational athlete. The excerpts discuss the benefits of resistance training and considerations for older adults, but they do not provide guidance on combining the two types of programs."
+    },
+    {
+      "id": "q24_cross_strength_def",
+      "answer": "Based solely on the provided excerpts, there is not enough information to answer the question. The excerpts do not contain any definitions of muscular strength from either ACSM or NSCA."
+    },
+    {
+      "id": "q25_cross_screening",
+      "answer": "Based solely on the provided excerpts, there is not enough information to answer how the ACSM preparticipation screening guidelines compare with risk stratification approaches used in strength and conditioning. The excerpts discuss the ACSM preparticipation screening algorithm for endurance exercise and note that \"current evidence regarding prescreening for CV complications during resistance training is limited; thus, the inherent risk cannot currently be determined but appears to be low.\" However, they do not describe any specific risk stratification approaches used in strength and conditioning, nor do they provide a comparison between the two."
+    }
+  ]
+}
