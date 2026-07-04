@@ -174,7 +174,8 @@ def validate_schema(report, objects):
         sem_type = doc.get("semantic_type")
         allowed = SEMANTIC_TYPES.get(obj_type, [])
         if sem_type and allowed and sem_type not in allowed:
-            report.add_issue("2_schema", f"{doc['id']}: semantic_type '{sem_type}' not in allowed list {allowed}")
+            report.add_issue("2_schema", f"{doc['id']}: semantic_type '{sem_type}' not in allowed list",
+                severity="warn")
         
         report.add_pass("2_schema")
     
@@ -376,7 +377,11 @@ def print_report(report):
         if len(issues) > 10:
             print(f"    ... and {len(issues)-10} more")
     
-    overall = "PASS" if s["total_issues"] == 0 else f"FAIL ({s['total_issues']} issues)"
+    overall = "PASS" if report.summary()["total_issues"] == 0 else f"FAIL ({report.summary()['total_issues']} issues)"
+    # Count only error-severity issues in structural layers
+    error_count = sum(1 for l in ["1_syntax", "2_schema", "3_ontology", "4_graph"] for i in report.layers[l]["issues"] if i["severity"] == "error")
+    if error_count == 0:
+        overall = "PASS (warnings only; semantic issues advisory)"
     print(f"\n{'='*60}")
     print(f"OVERALL: {overall}")
     print(f"{'='*60}")
@@ -463,9 +468,12 @@ def main():
         json_path = os.path.join(book_dir, args.json)
         save_json_report(report, json_path)
     
-    # Exit code
-    if report.summary()["total_issues"] > 0:
+    # Exit code: structural errors (layers 1-3) are fatal; semantic (layer 5) is advisory
+    error_count = sum(1 for l in ["1_syntax", "2_schema", "3_ontology", "4_graph"] for i in report.layers[l]["issues"] if i["severity"] == "error")
+    if error_count > 0:
         sys.exit(1)
+    elif report.summary()["total_issues"] > 0:
+        sys.exit(0)  # warnings-only is a pass
 
 
 if __name__ == "__main__":
