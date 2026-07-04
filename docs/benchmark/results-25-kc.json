@@ -1,0 +1,205 @@
+{
+  "condition": "knowledge_compiler",
+  "questions": [
+    {
+      "id": "q01_acs_fitt",
+      "type": "Concept",
+      "book": "acsm",
+      "actual_answer": "FITT stands for Frequency, Intensity, Time, and Type. These are the four key variables for designing an aerobic exercise program.",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q02_acs_testing",
+      "type": "Concept",
+      "book": "acsm",
+      "actual_answer": "VO2max is the greatest rate at which oxygen can be consumed during exhaustive exercise. It is considered the best measure of cardiorespiratory fitness and is recognized by the AHA as a clinical vital sign.",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q03_acs_strength_endurance",
+      "type": "Concept",
+      "book": "acsm",
+      "actual_answer": "Muscular Strength: The ability of muscle to exert force. Muscular Endurance: The ability of muscle to continue to perform without fatigue.",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q04_acs_cvd_risk",
+      "type": "Threshold+Multi",
+      "book": "acsm",
+      "actual_answer": "Cholesterol: LDL: <100 Desirable, 100-129 Above desirable, 130-159 Borderline high, 160-189 High, ≥190 Very high CVD risk factors: Age≥45M/55F, Smoking, Inactivity, BMI≥30, BP≥130/80, LDL≥130, FBG≥100",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q05_acs_met_mod",
+      "type": "Threshold",
+      "book": "acsm",
+      "actual_answer": "Moderate intensity: 3.0–5.9 METs",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q06_acs_waist",
+      "type": "Threshold",
+      "book": "acsm",
+      "actual_answer": "Men: >102 cm increased risk, Women: >88 cm increased risk cm",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q07_acs_cooper",
+      "type": "Formula",
+      "book": "acsm",
+      "actual_answer": "Formula: VO2max (mL·kg⁻¹·min⁻¹) = (distance in meters − 504.9) / 44.73 For 2800m: VO2max = (2800 - 504.9) / 44.73 = 51.3 mL.kg-1.min-1",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q08_acs_bf",
+      "type": "Formula",
+      "book": "acsm",
+      "actual_answer": "Formula: % body fat = (495 / body density) − 450 For density 1.075: BF% = 495/1.075 - 450 = 10.5%",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q09_acs_screening",
+      "type": "Multi-hop",
+      "book": "acsm",
+      "actual_answer": "Screening: Classify individual as currently exercising regularly or not; Assess for known CV, metabolic, or renal disease; Assess for signs or symptoms suggestive of disease Medical clearance: Screen using the ACSM preparticipation health screening algorithm. Refer for medical clearance if indicated.",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q10_acs_chest",
+      "type": "Multi-hop",
+      "book": "acsm",
+      "actual_answer": "Signs: Pain or discomfort in chest/neck/jaw/arms; Shortness of breath at rest or mild exertion; Dizziness or syncope Action: Individuals with these signs/symptoms should seek medical evaluation before initiating exercise. Termination: Monitor for absolute indications: drop in SBP ≥10 mm Hg despite increased workload, moderate-to-severe angina, CNS symptoms, signs of poor perfusion, sustained ventricular tachycardia; Monitor for relative indications: drop in SBP ≥10 mm Hg from baseline, ST or QRS changes, arrhythmias, fatigue, shortness of breath, leg cramps, claudication, hypertensive response; Terminate test if any absolute indication appears",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q11_acs_bp",
+      "type": "Procedure",
+      "book": "acsm",
+      "actual_answer": "Steps: Seat individual quietly for at least 5 minutes with back support, feet on floor, arm at heart level; Ensure no smoking or caffeine for at least 30 minutes prior; Select appropriate cuff size; Place cuff snugly around upper arm; Determine maximum inflation level; Place stethoscope bell over brachial artery; Inflate cuff to maximum inflation level; Release pressure at 2-3 mm·sec⁻¹; Record SBP at first Korotkoff sound (Phase I); Record DBP at disappearance of sound (Phase V)",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q12_acs_termination",
+      "type": "Procedure",
+      "book": "acsm",
+      "actual_answer": "Steps: Monitor for absolute indications: drop in SBP ≥10 mm Hg despite increased workload, moderate-to-severe angina, CNS symptoms, signs of poor perfusion, sustained ventricular tachycardia; Monitor for relative indications: drop in SBP ≥10 mm Hg from baseline, ST or QRS changes, arrhythmias, fatigue, shortness of breath, leg cramps, claudication, hypertensive response; Terminate test if any absolute indication appears; Consider termination for relative indications based on clinical judgment",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q13_nsca_sarcomere",
+      "type": "Concept",
+      "book": "nsca",
+      "actual_answer": "The smallest contractile unit of skeletal muscle. Myosin and actin filaments are organized longitudinally in the sarcome Thick myosin filaments (about 16 nm in diameter, or 1/10,000 the diameter of a hair) contain up to 200 myosin molecules. Thin actin filaments (about 6 nm in diameter) consist of two strands arranged in a double helix. The Z-line is in the middle of the I-band and appears as a thin, dark line running longitudinally through the I-band. Ac",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q14_nsca_sliding",
+      "type": "Concept",
+      "book": "nsca",
+      "actual_answer": "The sliding-filament theory was proposed by Huxley and Hanson in 1954 to mechanistically explain muscular contraction at the molecular level. In its simplest form, the sliding-filament theory indicates that actin filaments anchored to each end of the sarcomere slide inward on myosin filaments. This results in Z-lines being pulled toward the center of the sarcomere and in muscle fiber shortening.",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q15_nsca_ec_coupling",
+      "type": "Multi-hop",
+      "book": "nsca",
+      "actual_answer": "The junction between a motor neuron (nerve cell) and the muscle fibers it innervates. Each muscle ce An electrical nerve impulse. Discharge of an action potential arrives nearly simultaneously from the An intricate system of tubules that encases each myofibril, which terminates as vesicles in the vici A crossbridge is the connection formed between a myosin head and an actin filament during muscle con",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q16_nsca_bone",
+      "type": "Multi-hop",
+      "book": "nsca",
+      "actual_answer": "The system of the human body consisting of bones, joints, muscles, and tendons configured to allow the great variety of movements characteristic of human activity.",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q17_nsca_fiber",
+      "type": "Multi-hop",
+      "book": "nsca",
+      "actual_answer": "A motor neuron and the muscle fibers it innervates. All the muscle fibers of a motor unit contract together when they are stimulated by the motor neuron. A crossbridge is the connection formed between a myosin head and an actin filament during muscle contraction, enabling the power stroke.",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q18_nsca_motor",
+      "type": "Concept",
+      "book": "nsca",
+      "actual_answer": "A motor neuron and the muscle fibers it innervates. All the muscle fibers of a motor unit contract together when they are stimulated by the motor neuron. A crossbridge is the connection formed between a myosin head and an actin filament during muscle contraction, enabling the power stroke.",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q19_nsca_joints",
+      "type": "Concept",
+      "book": "nsca",
+      "actual_answer": "Uniaxial: Joints that operate as hinges, essentially rotating about only one axis, such as Biaxial: Joints that allow movement about two perpendicular axes, such as the ankle and w Multiaxial: Joints that allow movement about all three perpendicular axes that define space,",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q20_failure",
+      "type": "Failure",
+      "book": "none",
+      "actual_answer": "[Out of scope: information not available in provided source materials]",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q21_cross_cardiovascular",
+      "type": "Cross-book",
+      "book": "both",
+      "actual_answer": "[Cross-book: combines ACSM Ch5 aerobic + NSCA Ch6 anaerobic training adaptations]",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q22_cross_older",
+      "type": "Cross-book",
+      "book": "both",
+      "actual_answer": "[Cross-book: combines ACSM Ch6 + NSCA Ch7 older adult considerations]",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q23_cross_program",
+      "type": "Cross-book",
+      "book": "both",
+      "actual_answer": "[Cross-book: combines ACSM aerobic prescription + NSCA resistance programming]",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q24_cross_strength_def",
+      "type": "Cross-book",
+      "book": "both",
+      "actual_answer": "ACSM: The ability of muscle to exert force. [NSCA definition would need separate extraction]",
+      "accuracy": null,
+      "faithfulness": null
+    },
+    {
+      "id": "q25_cross_screening",
+      "type": "Cross-book",
+      "book": "both",
+      "actual_answer": "ACSM: Classify individual as currently exercising regularly or not; Assess for known CV, metabolic, or renal disease; Assess for signs or symptoms suggestive of disease Clearance: Screen using the ACSM preparticipation health screening algorithm. Refer for medical clearance if indicated.",
+      "accuracy": null,
+      "faithfulness": null
+    }
+  ]
+}
