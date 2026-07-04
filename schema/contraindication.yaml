@@ -1,41 +1,24 @@
-# ====================================================================
 # Schema: Contraindication
-# ====================================================================
-# A condition that prohibits or restricts an activity/procedure.
-
 type: Contraindication
-
+fields:
+  required: [condition, category]
+  optional: [details, temporary]
 header:
-  id:               string
-  type:             Contraindication
-  canonical_name:   string
-  semantic_type:    string      # "Contraindication"
-
-aliases:            string[]
-
+  id:               string      [required]
+  type:             Contraindication [required]
+  canonical_name:   string      [required]
+  semantic_type:    string      [required]
+  aliases:          string[]    [optional]
 source:
-  book:             string
-  edition:          integer
-  chapter:          integer
-  chapter_title:    string
-  section:          string
-  section_title:    string
-  book_page:        integer
-  pdf_page:         integer
-
-provenance:
-  extraction:       string
-  normalization:    string
-  reviewed:         string
-
-evidence_level:     string
-
-relationships:      object[]
-  - predicate:      string
-    target:         string
-
-# --- Type-specific body ---
-condition:          string      # the disqualifying condition
-category:           string      # "Absolute" | "Relative"
-details:            string      # explanatory text
-temporary:          boolean     # whether the contraindication is temporary
+  book:             string      [required]
+  edition:          integer     [required]
+  chapter:          integer     [required]
+  section:          string      [required]
+  book_page:        integer     [required]
+provenance:         object      [optional]
+evidence_level:     string      [optional]
+relationships:      object[]    [optional]
+condition:          string      [required]
+category:           string      [required]  # "Absolute" | "Relative"
+details:            string      [optional]
+temporary:          boolean     [optional]

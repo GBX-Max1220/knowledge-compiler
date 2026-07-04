@@ -1,42 +1,25 @@
-# ====================================================================
 # Schema: Recommendation
-# ====================================================================
-# A guideline or recommendation with target population and dosage.
-
 type: Recommendation
-
+fields:
+  required: [population, dosage]
+  optional: [evidence_grade, conditions, duration]
 header:
-  id:               string      # e.g. "recommendation.pa_minimum"
-  type:             Recommendation
-  canonical_name:   string
-  semantic_type:    string      # "Guideline" | "Prescription"
-
-aliases:            string[]
-
+  id:               string      [required]
+  type:             Recommendation [required]
+  canonical_name:   string      [required]
+  semantic_type:    string      [required]
+  aliases:          string[]    [optional]
 source:
-  book:             string
-  edition:          integer
-  chapter:          integer
-  chapter_title:    string
-  section:          string
-  section_title:    string
-  book_page:        integer
-  pdf_page:         integer
-
-provenance:
-  extraction:       string
-  normalization:    string
-  reviewed:         string
-
-evidence_level:     string
-
-relationships:      object[]
-  - predicate:      string
-    target:         string
-
-# --- Type-specific body ---
-population:           string    # target population
-goal:                 string    # purpose of the recommendation
-dosage:               string    # frequency / intensity / time / volume
-evidence_grade:        string    # A | B | C | D | E (as per source's system)
-evidence_reference:   string    # citation number / PMID
+  book:             string      [required]
+  edition:          integer     [required]
+  chapter:          integer     [required]
+  section:          string      [required]
+  book_page:        integer     [required]
+provenance:         object      [optional]
+evidence_level:     string      [optional]
+relationships:      object[]    [optional]
+population:         string      [required]
+dosage:             string      [required]
+evidence_grade:     string      [optional]
+conditions:         string[]    [optional]
+duration:           string      [optional]

@@ -1,43 +1,35 @@
 # ====================================================================
 # Schema: Procedure
 # ====================================================================
-# An ordered set of steps to accomplish a specific goal.
-# Examples: exercise testing protocol, test termination criteria.
+# A step-by-step process for performing a test or procedure.
 
 type: Procedure
 
-header:
-  id:               string      # e.g. "procedure.test_termination"
-  type:             Procedure
-  canonical_name:   string
-  semantic_type:    string      # "Protocol" | "Process"
+fields:
+  required: [goal, steps]
+  optional: [inputs, outputs, exceptions]
 
-aliases:            string[]
+header:
+  id:               string      [required]
+  type:             Procedure   [required]
+  canonical_name:   string      [required]
+  semantic_type:    string      [required]  # "Protocol" | "Process"
+  aliases:          string[]    [optional]
 
 source:
-  book:             string
-  edition:          integer
-  chapter:          integer
-  chapter_title:    string
-  section:          string
-  section_title:    string
-  book_page:        integer
-  pdf_page:         integer
+  book:             string      [required]
+  edition:          integer     [required]
+  chapter:          integer     [required]
+  section:          string      [required]
+  book_page:        integer     [required]
 
-provenance:
-  extraction:       string
-  normalization:    string
-  reviewed:         string
-
-evidence_level:     string
-
-relationships:      object[]
-  - predicate:      string
-    target:         string
+provenance:         object      [optional]
+evidence_level:     string      [optional]
+relationships:      object[]    [optional]
 
 # --- Type-specific body ---
-goal:               string      # purpose of the procedure
-inputs:             string[]    # prerequisites / equipment / conditions
-outputs:            string[]    # expected results
-steps:              string[]    # ordered list of steps
-exceptions:         string[]    # special cases / when to stop
+goal:               string      [required]  # purpose of the procedure
+steps:              string[]    [required]  # ordered list of steps
+inputs:             string[]    [optional]  # required equipment / inputs
+outputs:            string[]    [optional]  # expected outputs / results
+exceptions:         string[]    [optional]  # exceptions to the procedure

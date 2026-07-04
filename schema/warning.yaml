@@ -1,41 +1,24 @@
-# ====================================================================
 # Schema: Warning
-# ====================================================================
-# A warning about potential adverse events or safety concerns.
-
 type: Warning
-
+fields:
+  required: [condition, action]
+  optional: [signs, severity]
 header:
-  id:               string
-  type:             Warning
-  canonical_name:   string
-  semantic_type:    string      # "Safety" | "AdverseEvent"
-
-aliases:            string[]
-
+  id:               string      [required]
+  type:             Warning     [required]
+  canonical_name:   string      [required]
+  semantic_type:    string      [required]
+  aliases:          string[]    [optional]
 source:
-  book:             string
-  edition:          integer
-  chapter:          integer
-  chapter_title:    string
-  section:          string
-  section_title:    string
-  book_page:        integer
-  pdf_page:         integer
-
-provenance:
-  extraction:       string
-  normalization:    string
-  reviewed:         string
-
-evidence_level:     string
-
-relationships:      object[]
-  - predicate:      string
-    target:         string
-
-# --- Type-specific body ---
-condition:          string      # triggering condition
-signs:              string[]    # observable signs/symptoms
-action:             string      # recommended action
-severity:           string      # "high" | "medium" | "low"
+  book:             string      [required]
+  edition:          integer     [required]
+  chapter:          integer     [required]
+  section:          string      [required]
+  book_page:        integer     [required]
+provenance:         object      [optional]
+evidence_level:     string      [optional]
+relationships:      object[]    [optional]
+condition:          string      [required]
+action:             string      [required]
+signs:              string[]    [optional]
+severity:           string      [optional]  # "high" | "medium" | "low"

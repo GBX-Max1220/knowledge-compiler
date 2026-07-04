@@ -1,42 +1,24 @@
-# ====================================================================
 # Schema: Formula
-# ====================================================================
-# A mathematical formula or equation with variables and limitations.
-
 type: Formula
-
+fields:
+  required: [canonical_form]
+  optional: [variables, limitations, example]
 header:
-  id:               string
-  type:             Formula
-  canonical_name:   string
-  semantic_type:    string      # "Equation" | "Formula"
-
-aliases:            string[]
-
+  id:               string      [required]
+  type:             Formula     [required]
+  canonical_name:   string      [required]
+  semantic_type:    string      [required]
+  aliases:          string[]    [optional]
 source:
-  book:             string
-  edition:          integer
-  chapter:          integer
-  chapter_title:    string
-  section:          string
-  section_title:    string
-  book_page:        integer
-  pdf_page:         integer
-
-provenance:
-  extraction:       string
-  normalization:    string
-  reviewed:         string
-
-evidence_level:     string
-
-relationships:      object[]
-  - predicate:      string
-    target:         string
-
-# --- Type-specific body ---
-canonical_form:     string      # formula in standard notation (text)
-variables:          object[]
-  - name:           string
-    description:    string
-limitations:        string      # scope / applicability limits
+  book:             string      [required]
+  edition:          integer     [required]
+  chapter:          integer     [required]
+  section:          string      [required]
+  book_page:        integer     [required]
+provenance:         object      [optional]
+evidence_level:     string      [optional]
+relationships:      object[]    [optional]
+canonical_form:     string      [required]
+variables:          object[]    [optional]
+limitations:        string[]    [optional]
+example:            string      [optional]

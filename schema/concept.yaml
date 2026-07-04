@@ -6,36 +6,42 @@
 
 type: Concept
 
+# Fields metadata: required/optional markers
+# These are used by validate.py (SCHEMA_TYPES in scripts/validate.py)
+fields:
+  required: [definition]
+  optional: [attributes, purpose, related_concepts]
+
 header:
-  id:               string      # e.g. "concept.exercise"
-  type:             Concept
-  canonical_name:   string      # e.g. "Exercise"
-  semantic_type:    string      # "Activity" | "Entity" | "Property" | "Evidence" | "AnatomicalStructure" | ...
-  aliases:          string[]    # ONLY from original text — requires page evidence
+  id:               string      [required]  # e.g. "concept.exercise"
+  type:             Concept     [required]
+  canonical_name:   string      [required]  # e.g. "Exercise"
+  semantic_type:    string      [required]  # "Activity" | "Entity" | "Property" | "Evidence" | ...
+  aliases:          string[]    [optional]  # ONLY from original text — requires page evidence
 
 source:
-  book:             string
-  edition:          integer
-  chapter:          integer
-  chapter_title:    string
-  section:          string      # e.g. "1.2"
-  section_title:    string
-  book_page:        integer     # page number as printed in the book
-  pdf_page:         integer     # actual PDF page number
+  book:             string      [required]
+  edition:          integer     [required]
+  chapter:          integer     [required]
+  chapter_title:    string      [optional]
+  section:          string      [required]  # e.g. "1.2"
+  section_title:    string      [optional]
+  book_page:        integer     [required]  # page number as printed in the book
+  pdf_page:         integer     [optional]  # actual PDF page number
 
 provenance:
-  extraction:       string      # engine version, e.g. "reasonix-code-v1"
-  normalization:    string
-  reviewed:         string      # "human" | "auto"
+  extraction:       string      [optional]  # engine version, e.g. "reasonix-code-v1"
+  normalization:    string      [optional]
+  reviewed:         string      [optional]  # "human" | "auto"
 
-evidence_level:     string      # A | B | C | D | E | I — only when explicitly stated
+evidence_level:     string      [optional]  # A | B | C | D | E | I — only when explicitly stated
 
-relationships:      object[]
-  - predicate:      string      # is_a | part_of | used_for | has_attribute | ...
-    target:         string      # target object ID
+relationships:      object[]    [optional]
+  - predicate:      string      [required]  # is_a | part_of | used_for | has_attribute | ...
+    target:         string      [required]  # target object ID
 
 # --- Type-specific body ---
-definition:         string      # the definition text, verbatim
-attributes:         string[]    # key characteristics extracted from definition
-purpose:            string[]    # purpose/goal of the concept
-related_concepts:   string[]    # IDs of related (non-parent) concepts
+definition:         string      [required]  # the definition text, verbatim
+attributes:         string[]    [optional]  # key characteristics extracted from definition
+purpose:            string[]    [optional]  # purpose/goal of the concept
+related_concepts:   string[]    [optional]  # IDs of related (non-parent) concepts

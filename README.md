@@ -93,9 +93,20 @@ Every query returns an **object** — typed, sourced, validated — not generate
 | Formula | 3 | Cooper 12-min run, body density (Jackson-Pollock), % body fat (Siri) |
 | **Total** | **74** | **ACSM 12th Ed., Chapters 1–3** |
 
-> **Benchmark note:** Phase 0 results (10 questions) have a confidence interval width of ~30pp due to small sample size.
-> Results show a large effect size (KC 100% vs RAG 38%), but individual question-level variation is high.
-> Phase 2 (25 questions, cross-book) has improved statistical reliability.
+### Benchmark Results
+
+> ⚠️ **Alignment note:** KC operates on 74 pre-selected objects from Ch1-3, while RAG searches the full 378-chunk PDF space.
+> The search space is narrower for KC, which partially contributes to its advantage.
+> A controlled comparison would give both conditions access to the same knowledge scope.
+
+| Condition | Questions | Accuracy | 95% CI | Sample limitation |
+|-----------|:---------:|:--------:|:------:|-------------------|
+| **Knowledge Compiler** | 10 | 100% | [69%, 100%] | Small sample; one question shifts 10pp |
+| RAG on PDF (MiniLM) | 10 | 38% | [14%, 68%] | Same limitation |
+| Raw LLM (DeepSeek) | 10 | 44% | [19%, 73%] | Same limitation |
+
+> The large effect size (KC 100% vs RAG 38%) suggests a genuine advantage, but the absolute values
+> should not be over-interpreted due to small sample size. Phase 2 (25 questions) reduces this concern.
 
 > **Scope note:** v0.1 is validated on ACSM 12th Ed., Chapters 1–3. The ontology and pipeline are designed to be domain-agnostic, but cross-domain generalization (e.g., chemistry, law) has not yet been tested.
 

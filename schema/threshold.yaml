@@ -1,46 +1,49 @@
 # ====================================================================
 # Schema: Threshold
 # ====================================================================
-# A cutoff or classification boundary with a metric and range.
-# Examples: Light (1.6–2.9 METs), Vigorous (≥6.0 METs)
+# A cutoff value, range, or classification boundary.
+# Represents a quantitative threshold used for classification or decision.
 
 type: Threshold
 
-header:
-  id:               string      # e.g. "threshold.met.moderate"
-  type:             Threshold
-  canonical_name:   string      # e.g. "Moderate Intensity"
-  semantic_type:    string      # "Range" | "Cutoff"
+fields:
+  required: [metric, range]
+  optional: [unit, population, condition, numerical_value, numerical_max, comparison_operator]
 
-aliases:            string[]    # ONLY from original text
+header:
+  id:               string      [required]  # e.g. "threshold.bmi_classification"
+  type:             Threshold   [required]
+  canonical_name:   string      [required]  # e.g. "BMI Classification"
+  semantic_type:    string      [required]  # "Range" | "Cutoff"
+  aliases:          string[]    [optional]
 
 source:
-  book:             string
-  edition:          integer
-  chapter:          integer
-  chapter_title:    string
-  section:          string
-  section_title:    string
-  book_page:        integer
-  pdf_page:         integer
+  book:             string      [required]
+  edition:          integer     [required]
+  chapter:          integer     [required]
+  chapter_title:    string      [optional]
+  section:          string      [required]
+  section_title:    string      [optional]
+  book_page:        integer     [required]
+  pdf_page:         integer     [optional]
 
 provenance:
-  extraction:       string
-  normalization:    string
-  reviewed:         string
+  extraction:       string      [optional]
+  generation:       string      [optional]
+  reviewed:         string      [optional]
 
-evidence_level:     string
+evidence_level:     string      [optional]
 
-relationships:      object[]
-  - predicate:      string
-    target:         string
+relationships:      object[]    [optional]
+  - predicate:      string      [required]
+    target:         string      [required]
 
 # --- Type-specific body ---
-metric:               string    # measured quantity, e.g. "MET"
-range:                string    # human-readable range, e.g. "3.0–5.9"
-unit:                 string    # unit of measurement, e.g. "METs"
-population:           string    # applicable population, e.g. "Adults"
-condition:            string    # context, e.g. "Physical Activity Intensity Classification"
-numerical_value:      float     # lower bound (or exact value)
-numerical_max:        float     # upper bound (null if open-ended)
-comparison_operator:  string    # "range" | "≥" | "≤" | ">" | "<" | "="
+metric:             string      [required]  # what is being measured
+range:              text        [required]  # the range or classification labels
+unit:               string      [optional]  # e.g. "METs", "kg/m²"
+population:         string      [optional]  # applicable population
+condition:          string      [optional]  # condition / context
+numerical_value:    float       [optional]  # the primary numerical value
+numerical_max:      float       [optional]  # upper bound if range
+comparison_operator: string    [optional]  # "<" | "<=" | ">" | ">=" | "range"
