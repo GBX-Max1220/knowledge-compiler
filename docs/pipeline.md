@@ -6,35 +6,41 @@
 
 ```
 PDF
- │
- ▼
+ |
+ v
  [01] Chunk
- │  Extract section text from PDF using manifest.yaml
- │  Output: books/{source}/chunks/{section_id}.md
- │
- ▼
+ |  Extract section text from PDF using manifest.yaml
+ |  Output: books/{source}/chunks/{section_id}.md
+ |
+ v
  [02] Extract
- │  Label ontology items (Definition, Threshold, TableRow, ...)
- │  Output: books/{source}/extraction/{section_id}.yaml
- │
- ▼
- [03] Normalize
- │  Convert extraction items into standardized schema objects
- │  Output: books/{source}/normalized/{section_id}.yaml
- │
- ▼
- [04] Validate
- │  Check schema compliance, ID uniqueness, relationship resolution
- │  Output: books/{source}/validation/{report_name}.md
- │
- ▼
- [05] Export
- │  Generate Neo4j/Vector/JSON output for downstream consumption
- │  Output: exports/{target}/
- │
- ▼
+ |  Label ontology items (Definition, Threshold, TableRow, ...)
+ |  Output: books/{source}/extraction/{section_id}.yaml
+ |
+ v
+ [03] Generate (Normalize)
+ |  Convert extraction items into standardized schema objects
+ |  Output: books/{source}/normalized/{section_id}.yaml
+ |
+ v
+ [04] Decompose
+ |  Split normalized stage output into per-object YAML files
+ |  Infer object type from the `type` field
+ |  Output: books/{source}/objects/{Type}/{id}.yaml
+ |
+ v
+ [05] Validate
+ |  Check schema compliance, ID uniqueness, relationship resolution
+ |  Output: books/{source}/validation/{report_name}.md
+ |
+ v
+ [06] Export
+ |  Generate Neo4j/Vector/JSON output for downstream consumption
+ |  Output: exports/{target}/
+ |
+ v
  Skill
-   Agent-accessible knowledge base
+   Agent-accessible knowledge base (via knowledge_compiler.Skill)
 ```
 
 ## Stage Details

@@ -123,6 +123,7 @@ Allowed `semantic_type` values:
 | `Activity` | Concept | Exercise, Walking, Basketball |
 | `Entity` | Concept | Physical Fitness, Body Composition |
 | `Property` | Concept | Intensity, Duration, Frequency |
+| `Evidence` | Concept | Absolute SCD Risk, PA-CVD Dose-Response |
 | `Range` | Threshold | Light, Moderate, Vigorous |
 | `Guideline` | Recommendation | PA Minimum, Exercise Prescription |
 | `Protocol` | Procedure | Exercise Test, Screening Process |

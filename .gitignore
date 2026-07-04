@@ -8,6 +8,8 @@ __pycache__/
 .env
 *.env.local
 compiler.yaml
+.venv/
+venv/
 
 # Large binary
 books/acsm12/source/*.pdf

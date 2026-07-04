@@ -1,4 +1,519 @@
-# Object Index — ACSM 12th Edition
-# Every registered ID must appear here to prevent duplicates.
-
-objects: []
+objects:
+- id: concept.agility
+  type: Concept
+  canonical_name: Agility
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.balance
+  type: Concept
+  canonical_name: Balance
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 71
+- id: concept.benefits_regular_pa
+  type: Concept
+  canonical_name: Benefits of Regular Physical Activity
+  source:
+    chapter: 1
+    section: '1.5'
+    page: 85
+- id: concept.body_composition
+  type: Concept
+  canonical_name: Body Composition
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.cardiorespiratory_endurance
+  type: Concept
+  canonical_name: Cardiorespiratory Endurance
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.coordination
+  type: Concept
+  canonical_name: Coordination
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.exercise
+  type: Concept
+  canonical_name: Exercise
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.flexibility
+  type: Concept
+  canonical_name: Flexibility
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.health_related_physical_fitness
+  type: Concept
+  canonical_name: Health-Related Physical Fitness
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.met
+  type: Concept
+  canonical_name: MET
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 71
+- id: concept.msi_prevalence
+  type: Concept
+  canonical_name: MSI Prevalence
+  source:
+    chapter: 1
+    section: '1.8'
+    page: 89
+- id: concept.muscular_endurance
+  type: Concept
+  canonical_name: Muscular Endurance
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.muscular_fitness
+  type: Concept
+  canonical_name: Muscular Fitness
+  source:
+    chapter: 1
+    section: '1.6'
+    page: 87
+- id: concept.muscular_strength
+  type: Concept
+  canonical_name: Muscular Strength
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.muscular_strength_endurance_power
+  type: Concept
+  canonical_name: Muscular Strength, Endurance, and Power
+  source:
+    chapter: 3
+    section: '3.22'
+    page: 228
+- id: concept.physical_activity
+  type: Concept
+  canonical_name: Physical Activity
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 69
+- id: concept.physical_fitness
+  type: Concept
+  canonical_name: Physical Fitness
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.power
+  type: Concept
+  canonical_name: Power
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 71
+- id: concept.reaction_time
+  type: Concept
+  canonical_name: Reaction Time
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 71
+- id: concept.sedentary_behavior
+  type: Concept
+  canonical_name: Sedentary Behavior
+  source:
+    chapter: 1
+    section: '1.4'
+    page: 83
+- id: concept.skill_related_physical_fitness
+  type: Concept
+  canonical_name: Skill-Related Physical Fitness
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 70
+- id: concept.speed
+  type: Concept
+  canonical_name: Speed
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 71
+- id: concept.vo2max
+  type: Concept
+  canonical_name: Maximal Oxygen Uptake
+  source:
+    chapter: 3
+    section: '3.15'
+    page: 198
+- id: decision_rule.acsm_screening_algorithm
+  type: Concept
+  canonical_name: ACSM Preparticipation Screening Logic
+  source:
+    chapter: 2
+    section: '2.4'
+    page: 131
+- id: evidence.absolute_scd_risk_vigorous_pa
+  type: Concept
+  canonical_name: Absolute SCD Risk During Vigorous PA
+  source:
+    chapter: 1
+    section: '1.10'
+    page: 95
+- id: evidence.cardiac_rehab_complication_rates
+  type: Concept
+  canonical_name: Cardiac Rehabilitation Complication Rates
+  source:
+    chapter: 1
+    section: '1.12'
+    page: 98
+- id: evidence.exercise_testing_risk_summary
+  type: Concept
+  canonical_name: Exercise Testing Cardiac Risk
+  source:
+    chapter: 1
+    section: '1.11'
+    page: 96
+- id: evidence.habitual_inactivity_ami_risk
+  type: Concept
+  canonical_name: Habitual Inactivity and AMI Risk
+  source:
+    chapter: 1
+    section: '1.10'
+    page: 94
+- id: evidence.inverse_msi_fitness
+  type: Concept
+  canonical_name: Inverse MSI-Fitness Relationship
+  source:
+    chapter: 1
+    section: '1.8'
+    page: 89
+- id: evidence.mvpa_mitigation_sedentary_mortality
+  type: Concept
+  canonical_name: MVPA Mitigation of Sedentary Mortality Risk
+  source:
+    chapter: 1
+    section: '1.4'
+    page: 84
+- id: evidence.pa_cvd_dose_response
+  type: Concept
+  canonical_name: PA-CVD Dose-Response Evidence
+  source:
+    chapter: 1
+    section: '1.3'
+    page: 79
+- id: evidence.resistance_training_benefits
+  type: Concept
+  canonical_name: Resistance Training Health Benefits
+  source:
+    chapter: 1
+    section: '1.6'
+    page: 87
+- id: evidence.scd_ami_risk_ratios
+  type: Concept
+  canonical_name: SCD/AMI Risk Ratios During Vigorous PA
+  source:
+    chapter: 1
+    section: '1.10'
+    page: 94
+- id: evidence.scd_incidence_young_athletes
+  type: Concept
+  canonical_name: SCD Incidence in Young Athletes
+  source:
+    chapter: 1
+    section: '1.9'
+    page: 90
+- id: evidence.sedentary_health_risks
+  type: Concept
+  canonical_name: Sedentary Behavior Health Risks
+  source:
+    chapter: 1
+    section: '1.4'
+    page: 83
+- id: risk_factor.cardiovascular_event_exercise
+  type: Concept
+  canonical_name: Exercise-Related Cardiovascular Event Risk
+  source:
+    chapter: 1
+    section: '1.7'
+    page: 88
+- id: risk_factor.msi_exercise
+  type: Concept
+  canonical_name: Exercise-Related Musculoskeletal Injury Risk
+  source:
+    chapter: 1
+    section: '1.7'
+    page: 88
+- id: table.borg_rpe_scale
+  type: Concept
+  canonical_name: Borg Rating of Perceived Exertion Scale
+  source:
+    chapter: 3
+    section: '3.17'
+    page: 205
+- id: formula.body_density_skinfolds
+  type: Formula
+  canonical_name: Body Density from Skinfolds (Jackson-Pollock)
+  source:
+    chapter: 3
+    section: '3.11'
+    page: 187
+- id: formula.cooper_12min_run
+  type: Formula
+  canonical_name: Cooper 12-Minute Run Test VO2max
+  source:
+    chapter: 3
+    section: '3.19'
+    page: 215
+- id: formula.percent_body_fat_siri
+  type: Formula
+  canonical_name: Percent Body Fat from Body Density (Siri)
+  source:
+    chapter: 3
+    section: '3.11'
+    page: 189
+- id: procedure.acsm_screening_algorithm
+  type: Procedure
+  canonical_name: Using the ACSM Preparticipation Screening Algorithm
+  source:
+    chapter: 2
+    section: '2.7'
+    page: 142
+- id: procedure.informed_consent
+  type: Procedure
+  canonical_name: Informed Consent Process
+  source:
+    chapter: 2
+    section: '2.2'
+    page: 123
+- id: procedure.one_rm_testing
+  type: Procedure
+  canonical_name: 1-Repetition Maximum Testing
+  source:
+    chapter: 3
+    section: '3.25'
+    page: 237
+- id: procedure.parq_plus_screening
+  type: Procedure
+  canonical_name: PAR-Q+ Self-Guided Screening
+  source:
+    chapter: 2
+    section: '2.9'
+    page: 146
+- id: procedure.resting_blood_pressure
+  type: Procedure
+  canonical_name: Resting Blood Pressure Assessment
+  source:
+    chapter: 3
+    section: '3.8'
+    page: 174
+- id: procedure.sit_and_reach
+  type: Procedure
+  canonical_name: Sit-and-Reach Test
+  source:
+    chapter: 3
+    section: '3.28'
+    page: 244
+- id: procedure.test_termination
+  type: Procedure
+  canonical_name: Exercise Test Termination Criteria
+  source:
+    chapter: 3
+    section: '3.18'
+    page: 206
+- id: procedure.waist_circumference
+  type: Procedure
+  canonical_name: Waist Circumference Measurement
+  source:
+    chapter: 3
+    section: '3.10'
+    page: 180
+- id: procedure.ymca_cycle_protocol
+  type: Procedure
+  canonical_name: YMCA Submaximal Cycle Ergometer Protocol
+  source:
+    chapter: 3
+    section: '3.19'
+    page: 214
+- id: recommendation.acsm_aha_cardiac_event_prevention
+  type: Recommendation
+  canonical_name: ACSM-AHA Strategies to Reduce Cardiac Event Risk
+  source:
+    chapter: 1
+    section: '1.13'
+    page: 100
+- id: recommendation.acsm_aha_primary_pa_2007
+  type: Recommendation
+  canonical_name: ACSM-AHA Primary Physical Activity Recommendation
+  source:
+    chapter: 1
+    section: '1.3'
+    page: 75
+- id: recommendation.bout_duration_elimination_2018
+  type: Recommendation
+  canonical_name: Bout Duration Requirement Elimination
+  source:
+    chapter: 1
+    section: '1.3'
+    page: 78
+- id: recommendation.medical_clearance_exercise
+  type: Recommendation
+  canonical_name: Medical Clearance for Exercise
+  source:
+    chapter: 2
+    section: '2.3'
+    page: 128
+- id: recommendation.pa_any_intensity_benefits
+  type: Recommendation
+  canonical_name: Any Intensity PA Provides Benefits for Inactive
+  source:
+    chapter: 1
+    section: '1.3'
+    page: 77
+- id: recommendation.pa_weight_management
+  type: Recommendation
+  canonical_name: PA Beyond Minimum for Weight Management
+  source:
+    chapter: 1
+    section: '1.3'
+    page: 79
+- id: recommendation.pag_acsa_primary_2018
+  type: Recommendation
+  canonical_name: Physical Activity Guidelines for Americans Primary Recommendation
+  source:
+    chapter: 1
+    section: '1.3'
+    page: 78
+- id: recommendation.preparticipation_screening_young
+  type: Recommendation
+  canonical_name: Preparticipation Cardiovascular Screening for Young Athletes
+  source:
+    chapter: 1
+    section: '1.9'
+    page: 91
+- id: threshold.blood_pressure_classification
+  type: Threshold
+  canonical_name: Blood Pressure Classification
+  source:
+    chapter: 2
+    section: '2.11'
+    page: 153
+- id: threshold.bmi_classification
+  type: Threshold
+  canonical_name: BMI Classification
+  source:
+    chapter: 3
+    section: '3.10'
+    page: 177
+- id: threshold.body_fat_percent_men
+  type: Threshold
+  canonical_name: Body Fat Percentage Norms for Men
+  source:
+    chapter: 3
+    section: '3.13'
+    page: 195
+- id: threshold.body_fat_percent_women
+  type: Threshold
+  canonical_name: Body Fat Percentage Norms for Women
+  source:
+    chapter: 3
+    section: '3.13'
+    page: 195
+- id: threshold.cholesterol_classification
+  type: Threshold
+  canonical_name: Cholesterol Classification
+  source:
+    chapter: 2
+    section: '2.11'
+    page: 154
+- id: threshold.cvd_risk_factors
+  type: Threshold
+  canonical_name: CVD Risk Factor Thresholds
+  source:
+    chapter: 2
+    section: '2.11'
+    page: 150
+- id: threshold.met.light
+  type: Threshold
+  canonical_name: Light Intensity
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 71
+- id: threshold.met.moderate
+  type: Threshold
+  canonical_name: Moderate Intensity
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 71
+- id: threshold.met.vigorous
+  type: Threshold
+  canonical_name: Vigorous Intensity
+  source:
+    chapter: 1
+    section: '1.2'
+    page: 71
+- id: threshold.sedentary_met
+  type: Threshold
+  canonical_name: Sedentary Behavior Energy Expenditure
+  source:
+    chapter: 1
+    section: '1.4'
+    page: 83
+- id: threshold.waist_circumference
+  type: Threshold
+  canonical_name: Waist Circumference Risk Thresholds
+  source:
+    chapter: 3
+    section: '3.10'
+    page: 179
+- id: warning.cardiac_prodromal_symptoms
+  type: Warning
+  canonical_name: Cardiac Prodromal Symptoms
+  source:
+    chapter: 1
+    section: '1.13'
+    page: 100
+- id: warning.cardiac_rehab_mortality_without_emergency
+  type: Warning
+  canonical_name: Mortality Risk Without Emergency Management in Cardiac Rehab
+  source:
+    chapter: 1
+    section: '1.12'
+    page: 99
+- id: warning.msi_by_activity
+  type: Warning
+  canonical_name: MSI Risk by Activity Type
+  source:
+    chapter: 1
+    section: '1.8'
+    page: 89
+- id: warning.scd_ami_vigorous_pa
+  type: Warning
+  canonical_name: Transient SCD and AMI Risk During Vigorous PA
+  source:
+    chapter: 1
+    section: '1.10'
+    page: 93
+- id: warning.signs_symptoms_cv_disease
+  type: Warning
+  canonical_name: Signs and Symptoms of CV/Metabolic/Renal Disease
+  source:
+    chapter: 2
+    section: '2.4'
+    page: 133

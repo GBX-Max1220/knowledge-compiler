@@ -10,7 +10,7 @@ header:
   id:               string      # e.g. "concept.exercise"
   type:             Concept
   canonical_name:   string      # e.g. "Exercise"
-  semantic_type:    string      # "Activity" | "Entity" | "Property" | ...
+  semantic_type:    string      # "Activity" | "Entity" | "Property" | "Evidence" | ...
   aliases:          string[]    # ONLY from original text — requires page evidence
 
 source:
