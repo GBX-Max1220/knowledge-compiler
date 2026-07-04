@@ -1,0 +1,32 @@
+id: recommendation.hydration_children_adolescents_practice
+type: Recommendation
+canonical_name: Hydration Guidance for Children and Adolescents During Practice
+semantic_type: HydrationGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 630
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Hydration guidance for children and adolescents consists of 5 to 9 fluid
+  ounces (148-266 mL) of cold water or a flavored salted beverage or sport drink depending
+  on their weight. For example, children or adolescents weighing 40 kilograms (88
+  lb) should drink 5 fluid ounces (148 mL) and those weighing 60 kg (132 lb) should
+  drink 9 fluid ounces (266 mL) every 20 minutes during practice, even if they do
+  not feel thirsty (30, 37, 106).
+
+  '
+attributes: []
+purpose:
+- maintain hydration during practice
+related_concepts: []

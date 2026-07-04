@@ -1,0 +1,22 @@
+id: recommendation.walkway_width
+type: Recommendation
+canonical_name: Recommended Walkway Width
+semantic_type: null
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design and Layout
+  section: Traffic Flow
+  section_title: Traffic Flow
+  book_page: 1752
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: This usually creates two or three main walkways that should be
+  5 to 7 feet (1.5-2.1 m) wide (2

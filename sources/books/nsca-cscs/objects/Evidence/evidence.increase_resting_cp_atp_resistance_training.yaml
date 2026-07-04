@@ -1,0 +1,25 @@
+id: evidence.increase_resting_cp_atp_resistance_training
+type: Evidence
+canonical_name: Increase in Resting CP and ATP After Resistance Training
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 308
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+finding: A 28% increase in resting CP and an 18% increase in ATP concentrations following
+  five months of resistance training (i.e., 3 to 5 sets of 8-10 repetitions with 2-min
+  rest periods).
+context: resistance training adaptations
+citations:
+- '113'

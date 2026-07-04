@@ -1,0 +1,27 @@
+id: evidence.inverse_msi_fitness
+type: Concept
+canonical_name: Inverse MSI-Fitness Relationship
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.8'
+  section_title: Exercise-Related Musculoskeletal Injury
+  book_page: 89
+  pdf_page: 89
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: The risk of incurring an MSI is inversely related to physical fitness
+  and PA level. For any given dose of PA, unfit or physically inactive individuals
+  are more likely to experience MSI when compared to their more fit or more active
+  counterparts.
+attributes: []
+purpose: []
+related_concepts: []

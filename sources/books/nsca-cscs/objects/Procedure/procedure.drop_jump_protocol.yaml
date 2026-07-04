@@ -1,0 +1,62 @@
+id: procedure.drop_jump_protocol
+type: Procedure
+canonical_name: Drop Jump Protocol
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.2'
+  section_title: Monitoring Protocols
+  book_page: 790
+  pdf_page: 790
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Procedure for conducting a drop jump test.
+
+  '
+attributes: []
+purpose:
+- measure jump height
+- measure ground contact time
+- calculate reactive strength index
+related_concepts:
+- concept.drop_jump
+- concept.reactive_strength_index
+- concept.stretch_shortening_cycle
+steps:
+- order: 1
+  description: When performing a drop vertical jump, the athlete should step out before
+    free-falling from as close as possible to the height of the box rather than stepping
+    down (i.e., lowering) or jumping off (i.e., rising) the box. Box height selection
+    for an athlete can vary but is typically 20 centimeters (8 in.), 30 centimeters
+    (12 in.), or 40 centimeters (16 in.) (figure 14.11a). The higher the box, the
+    greater the plyometric demand. When using a device that is not flush with the
+    ground or base of the box when conducting the drop vertical jump test, such as
+    when using a switch mat, the strength and conditioning professional should measure
+    the box height from the top of the box to the top surface of the switch mat.
+- order: 2
+  description: The athlete steps out from the box and lands on the floor, force plate,
+    or switch mat (figure 14.11b) and, as quickly as possible, jumps again (figure
+    14.11c). Drop jumps should be performed with the athlete attempting to jump with
+    a short ground contact time while still aiming to jump as high as possible. A
+    short ground contact time is achieved by limiting flexion of the ankles, knees,
+    and hips while in contact with the ground by adopting high leg stiffness (high
+    force with shallow range of motion). It is advised that at least 2 to 3 sets are
+    performed.
+- order: 3
+  description: The most reported performance variables following drop vertical jump
+    testing are jump height (from flight time), ground contact time, and reactive
+    strength index (calculated as jump height divided by ground contact time) (91).
+    The reactive strength index is often considered an indication of how well an athlete
+    can recruit the fast component of the stretch-shortening cycle.
+- order: 4
+  description: Figure 14.12 shows an example of the force–time curve with labels pointing
+    out the peak vertical ground reaction force, contact time, and flight time when
+    measured with a force plate testing system.

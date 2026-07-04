@@ -1,0 +1,28 @@
+id: concept.diastolic_blood_pressure
+type: Concept
+canonical_name: Diastolic Blood Pressure
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Blood Pressure
+  section_title: Cardiovascular Responses — Blood Pressure
+  book_page: 86
+  pdf_page: 86
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Diastolic blood pressure is used to estimate the pressure exerted against
+  the arterial walls when no blood is being forcefully ejected through the vessels
+  (diastole).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

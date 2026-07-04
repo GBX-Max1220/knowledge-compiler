@@ -1,0 +1,32 @@
+id: warning.heat_injury_strenuous_exercise_hot_environments
+type: Warning
+canonical_name: Risk of Heat Injury During Strenuous Exercise in Hot Environments
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing
+  section: '13.4'
+  section_title: Test Selection
+  book_page: 751
+  pdf_page: 751
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Heat injury is also a risk during heavy physical exertion in hot environments,
+  especially when humidity is high. Athletes should wear light clothing in warm weather
+  and drink water ad libitum according to the dictates of thirst before and during
+  heavy physical exertion in the heat (refer to chapters 10 and 11 for more detailed
+  hydration guidelines).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.heat_injury
+- concept.hydration

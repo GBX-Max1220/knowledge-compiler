@@ -1,0 +1,27 @@
+id: evidence.positive_linear_relationship_weight_lifted_bmd
+type: Evidence
+canonical_name: Positive Linear Relationship Between Weight Lifted and BMD Increases
+semantic_type: Correlation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 314
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+claim: 'Cussler and colleagues (34) showed a positive linear relationship between
+  the amounts of weight lifted over the course of a training year and associated increases
+  in BMD.
+
+  '
+supporting_studies:
+- citation: '34'

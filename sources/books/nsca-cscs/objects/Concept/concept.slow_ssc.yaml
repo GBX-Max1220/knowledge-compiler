@@ -1,0 +1,27 @@
+id: concept.slow_ssc
+type: Concept
+canonical_name: Slow SSC
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: 'Chapter 19: Program Design and Technique for Plyometric Training — Stretch-Shortening
+    Cycle'
+  section_title: Stretch-Shortening Cycle
+  book_page: 1267
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.stretch_shortening_cycle
+definition: 'slow SSC (>0.25 s)
+
+  '
+attributes: []

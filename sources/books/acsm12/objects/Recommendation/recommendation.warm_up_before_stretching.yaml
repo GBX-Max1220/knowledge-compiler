@@ -1,0 +1,28 @@
+id: recommendation.warm_up_before_stretching
+type: Recommendation
+canonical_name: Warm-Up Before Stretching Recommendation
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.25'
+  section_title: Flexibility
+  book_page: 386
+  pdf_page: 386
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'It is recommended that individuals perform a general warm-up (e.g., light
+  aerobic activity) prior to stretching to increase muscle temperature and improve
+  the effectiveness of the stretching routine.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

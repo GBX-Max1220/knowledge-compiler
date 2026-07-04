@@ -1,0 +1,33 @@
+id: procedure.organized_warm_up_structure
+type: Procedure
+canonical_name: Organized Warm-Up Structure
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 759
+  pdf_page: 759
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An appropriately organized warm-up consists of a general warm-up followed
+  by a specific warm-up. Both types of warm-ups include body movements similar to
+  those involved in the test. An organized, instructor-led general warm-up ensures
+  uniformity. It is acceptable to allow two or three activity-specific warm-up trials,
+  depending on the test protocol, and have subsequent trials actually count toward
+  the score. Depending on the test protocol, the score can be the best or the average
+  of the post-warm-up trials (2).
+
+  '
+attributes: []
+purpose:
+- ensure uniformity
+related_concepts: []

@@ -1,0 +1,28 @@
+id: concept.maillard_reaction
+type: Concept
+canonical_name: Maillard Reaction
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 550
+  pdf_page: 550
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'During cooking, some foods will brown; this browning, called a Maillard
+  reaction, leads to compounds that can decrease the bioavailability of certain amino
+  acids.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

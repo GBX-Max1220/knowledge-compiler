@@ -1,0 +1,36 @@
+id: concept.hold_relax_with_agonist_contraction
+type: Concept
+canonical_name: Hold-relax with agonist contraction
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Mobility Training
+  section: '15.2'
+  section_title: Mobility Training
+  book_page: 887
+  pdf_page: 887
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.proprioceptive_neuromuscular_facilitation
+definition: 'The hold-relax with agonist contraction technique is identical to hold-relax
+  in the first two phases (figures 15.9 and 15.10). During the third phase, a partner
+  applies force to the antagonist muscle groups while the athlete is required to maintain
+  the position through a concentric action of the agonist, thus adding to the stretch
+  force (figure 15.11). Following the isometric hold, the athlete flexes the hip,
+  thereby moving further into the new ROM. With this technique, the final stretch
+  should be greater, primarily because of reciprocal inhibition (i.e., activation
+  of the hip flexors) (63) and secondarily because of autogenic inhibition (i.e.,
+  activation of the hamstrings) (63).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

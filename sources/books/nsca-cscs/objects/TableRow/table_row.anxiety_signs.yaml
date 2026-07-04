@@ -1,0 +1,15 @@
+id: table_row.anxiety_signs
+type: TableRow
+canonical_name: Anxiety Signs
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 506
+  pdf_page: 506
+provenance: null

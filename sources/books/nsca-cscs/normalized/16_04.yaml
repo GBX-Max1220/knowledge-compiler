@@ -1,0 +1,468 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.lying_barbell_triceps_extension_starting_position_athlete
+type: Procedure
+canonical_name: Lying Barbell Triceps Extension — Starting Position (Athlete)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1056
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Lie in a supine position on a bench in the five-point body contact position.
+  Grasp the bar from the spotter with a closed, pronated grip about 12 inches (30 cm) wide.
+  Position the bar over the chest with the elbows fully extended and the arms parallel.
+  Point the elbows toward the knees (not out to the sides).
+  All repetitions begin from this position.
+
+attributes:
+  - supine position
+  - five-point body contact position
+  - closed pronated grip
+  - grip width: 12 inches (30 cm)
+  - elbows fully extended
+  - arms parallel
+  - elbows pointed toward knees
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lying_barbell_triceps_extension_starting_position_spotter
+type: Procedure
+canonical_name: Lying Barbell Triceps Extension — Starting Position (Spotter)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1056
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand erect and very close to the head of the bench (but do not distract the athlete).
+  Place the feet shoulder-width apart in a staggered stance with the knees slightly flexed.
+  Grasp the bar with a closed, alternated grip.
+  Hand the bar to the athlete.
+  Guide the bar to a position over the athlete's chest.
+  Release the bar smoothly.
+
+attributes:
+  - erect stance
+  - close to head of bench
+  - feet shoulder-width apart
+  - staggered stance
+  - knees slightly flexed
+  - closed alternated grip
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lying_barbell_triceps_extension_downward_movement_phase_athlete
+type: Procedure
+canonical_name: Lying Barbell Triceps Extension — Downward Movement Phase (Athlete)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1056
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Keeping the upper arms stationary, allow the elbows to slowly flex to lower the bar toward the face.
+  Keep the wrists stiff and the upper arms perpendicular to the floor and parallel to each other.
+  Lower the bar until it almost touches the head or face.
+  Maintain the five-point body contact position.
+
+attributes:
+  - upper arms stationary
+  - elbows slowly flex
+  - wrists stiff
+  - upper arms perpendicular to floor
+  - upper arms parallel to each other
+  - bar lowered until almost touches head or face
+  - five-point body contact position maintained
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lying_barbell_triceps_extension_downward_movement_phase_spotter
+type: Procedure
+canonical_name: Lying Barbell Triceps Extension — Downward Movement Phase (Spotter)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1056
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Place the hands close to—but not touching—the bar as it descends.
+  Slightly flex the knees, hips, and torso and keep the back neutral when following the bar.
+
+attributes:
+  - hands close to bar but not touching
+  - knees slightly flexed
+  - hips slightly flexed
+  - torso slightly flexed
+  - back neutral
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lying_barbell_triceps_extension_upward_movement_phase_athlete
+type: Procedure
+canonical_name: Lying Barbell Triceps Extension — Upward Movement Phase (Athlete)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1056
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Push the bar upward by extending the elbows back to the starting position.
+  Keep the wrists stiff and the elbows pointed toward the knees.
+  Keep the upper arms parallel to each other and perpendicular to the floor.
+  Maintain the five-point body contact position.
+  At the end of the set, signal the spotter to take the bar.
+  Keep a grip on the bar until the spotter removes it.
+
+attributes:
+  - elbows extend to push bar upward
+  - wrists stiff
+  - elbows pointed toward knees
+  - upper arms parallel to each other
+  - upper arms perpendicular to floor
+  - five-point body contact position maintained
+  - signal spotter at end of set
+  - keep grip until spotter removes bar
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lying_barbell_triceps_extension_upward_movement_phase_spotter
+type: Procedure
+canonical_name: Lying Barbell Triceps Extension — Upward Movement Phase (Spotter)
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1057
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Keep the hands close to—but not touching—the bar as it ascends.
+  Slightly extend the knees, hips, and torso and keep the back neutral when following the bar.
+  At the athlete's signal after the set is completed, grasp the bar with an alternated grip, take it from the athlete, and set it on the floor.
+
+attributes:
+  - hands close to bar but not touching
+  - knees slightly extended
+  - hips slightly extended
+  - torso slightly extended
+  - back neutral
+  - grasp bar with alternated grip at athlete's signal
+  - take bar from athlete
+  - set bar on floor
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.triceps_pushdown_machine_starting_position
+type: Procedure
+canonical_name: Triceps Pushdown (Machine) — Starting Position
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1058
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Grasp the bar with a closed, pronated grip 6 to 12 inches (16-30 cm) wide.
+  Stand erect with feet shoulder-width apart, knees slightly flexed. Place the body close enough to the machine to allow the cable to hang straight down when it is held in the starting position.
+  Pull the bar down to position the upper arms against the sides of the torso.
+  Flex the elbows to position the forearms parallel to the floor or slightly above.
+  All repetitions begin from this position.
+
+attributes:
+  - closed pronated grip
+  - grip width: 6 to 12 inches (16-30 cm)
+  - erect stance
+  - feet shoulder-width apart
+  - knees slightly flexed
+  - body close to machine
+  - cable hangs straight down
+  - upper arms against sides of torso
+  - forearms parallel to floor or slightly above
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.triceps_pushdown_machine_downward_movement_phase
+type: Procedure
+canonical_name: Triceps Pushdown (Machine) — Downward Movement Phase
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1059
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Push the bar down until the elbows are fully extended.
+  Keep the torso erect and the upper arms stationary.
+  Do not forcefully lock out the elbows.
+
+attributes:
+  - push bar down
+  - elbows fully extended
+  - torso erect
+  - upper arms stationary
+  - do not forcefully lock out elbows
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.triceps_pushdown_machine_upward_movement_phase
+type: Procedure
+canonical_name: Triceps Pushdown (Machine) — Upward Movement Phase
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1059
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Allow the elbows to slowly flex back to the starting position.
+  Keep the torso, arms, and knees in the same position.
+  At the end of the set, return the bar to its resting position.
+
+attributes:
+  - elbows slowly flex
+  - torso position maintained
+  - arms position maintained
+  - knees position maintained
+  - return bar to resting position at end of set
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.push_press_starting_position
+type: Procedure
+canonical_name: Push Press — Starting Position
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Prescription for Healthy Populations and Special Considerations"
+  section: "16.4"
+  section_title: "Spotting Techniques"
+  book_page: 1061
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Grasp the bar with a closed, pronated grip.
+  Grip should be slightly wider than shoulder-width (clean grip).
+  Step under the bar and position the feet hip-width apart and parallel to each other.
+  Move up to the bar to place it on top of the anterior deltoids and clavicles.
+  Extend the hips and knees to lift the bar off the supports.
+  Step back away from the supports and stand in the middle of the lifting platform.
+  Position the feet hip- to shoulder-width apart and even with each other, with the toes pointed slightly outward.
+  All repetitions begin from this position.
+
+attributes:
+  - closed pronated grip
+  - grip slightly wider than shoulder-width (clean grip)
+  - feet hip-width apart and parallel
+  - bar on top of anterior deltoids and clavicles
+  - hips and knees extended to lift bar
+  - stand in middle of lifting platform
+  - feet hip- to shoulder-width apart
+  - feet even with each other
+  - toes pointed slightly outward
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.push_press_preparation_phase_dip
+type: Procedure

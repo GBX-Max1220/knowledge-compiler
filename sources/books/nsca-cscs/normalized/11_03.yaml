@@ -1,0 +1,626 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.protein_per_meal_postcompetition
+type: Recommendation
+canonical_name: Protein per meal for muscle remodeling
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 636
+  pdf_page: 636
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For optimal muscle remodeling, experts suggest consuming at least 20 to 40 grams of protein per meal and eating meals every 3 to 4 hours in order to facilitate meeting daily protein targets.
+
+attributes:
+  - protein
+  - muscle_remodeling
+
+purpose:
+  - facilitate meeting daily protein targets
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.carbohydrate_and_protein_aerobic_endurance
+type: Recommendation
+canonical_name: Carbohydrate and protein intake for aerobic endurance athletes
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Aerobic endurance athletes should aim to consume 8 to 10 grams of carbohydrate during their most demanding training phases or competition and 1.4 to 2.0 grams of protein per kilogram body weight per day throughout their training.
+
+attributes:
+  - carbohydrate
+  - protein
+  - aerobic_endurance
+
+purpose:
+  - meet nutritional needs during demanding training phases
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.precompetition_meal_timing
+type: Recommendation
+canonical_name: Precompetition meal carbohydrate and protein
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Athletes who eat at least 4 hours before competition should include approximately 1 to 4 grams of carbohydrate per kilogram body weight and 0.15 to 0.25 grams of protein per kilogram body weight. If the precompetition meal is consumed 2 hours before exercise, athletes should aim for approximately 1 gram of carbohydrate per kilogram body weight and 0.15 to 0.25 grams of easily digestible protein per kilogram body weight.
+
+attributes:
+  - carbohydrate
+  - protein
+  - precompetition_meal
+
+purpose:
+  - fuel for competition
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.carbohydrate_during_prolonged_exercise
+type: Recommendation
+canonical_name: Carbohydrate intake during prolonged aerobic endurance exercise
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Athletes should consume 28 to 144 grams of a mixture of multiple types of carbohydrate (e.g., sucrose, fructose, and glucose or maltodextrin) per hour during prolonged aerobic endurance exercise to extend time until exhaustion and improve performance.
+
+attributes:
+  - carbohydrate
+  - prolonged_exercise
+  - aerobic_endurance
+
+purpose:
+  - extend time until exhaustion
+  - improve performance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.sports_drink_composition_hot_weather
+type: Recommendation
+canonical_name: Sports drink composition for hot weather
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  During prolonged activity in hot weather, athletes should consume sport drinks containing 20 to 30 mEq of sodium (460-690 mg with chloride as the anion) per liter, 2 to 5 mEq of potassium (78-195 mg) per liter, and carbohydrate in a concentration of 5% to 10%.
+
+attributes:
+  - sodium
+  - potassium
+  - carbohydrate
+  - sports_drink
+  - hot_weather
+
+purpose:
+  - hydration during prolonged activity in hot weather
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.postexercise_carbohydrate_and_protein
+type: Recommendation
+canonical_name: Postexercise carbohydrate and protein intake
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  After exercise, approximately 1.2 to 2.0 grams of carbohydrate per kilogram body weight should be consumed within 30 minutes after stopping the exercise. The addition of protein appears to facilitate glycogen replenishment if carbohydrate intake is below 1.2 grams per kilogram.
+
+attributes:
+  - carbohydrate
+  - protein
+  - postexercise
+
+purpose:
+  - glycogen replenishment
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.postexercise_protein_aerobic
+type: Recommendation
+canonical_name: Postexercise protein intake for aerobic endurance
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  As a general guideline, at least 20 to 40 grams of high-quality protein should also be consumed within a 2-hour time period after aerobic endurance exercise (sooner may be better, though the exact time period has yet to be elucidated in the research).
+
+attributes:
+  - protein
+  - postexercise
+  - aerobic_endurance
+
+purpose:
+  - recovery after aerobic endurance exercise
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.glycogen_synthesis_postexercise
+type: Recommendation
+canonical_name: Glycogen synthesis after exercise
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For faster glycogen synthesis, athletes should eat or drink a high-carbohydrate meal immediately after exercise and at regular intervals thereafter. This is especially important for athletes who train again less than 24 hours after their initial training session.
+
+attributes:
+  - carbohydrate
+  - glycogen_synthesis
+  - postexercise
+
+purpose:
+  - faster glycogen synthesis
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.carbohydrate_strength_speed_athletes
+type: Recommendation
+canonical_name: Carbohydrate intake for strength and speed athletes
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Athletes should consider supplementing with carbohydrate before and during competition to maintain strength and minimize muscle breakdown. In general, strength or speed athletes should consume 5 to 6 grams of carbohydrate per kilogram body weight per day during peak training periods. As little as 30 grams of carbohydrate after training may reduce muscle breakdown.
+
+attributes:
+  - carbohydrate
+  - strength_athletes
+  - speed_athletes
+
+purpose:
+  - maintain strength
+  - minimize muscle breakdown
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.carbohydrate_post_weightlifting
+type: Recommendation
+canonical_name: Carbohydrate intake after weightlifting or strength competition
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Because low glycogen can impair muscle force, athletes should consume higher-energy carbohydrates immediately following weightlifting or strength and power competitions if they must compete or train again over the course of the 24-hour period after their initial competition. Otherwise, they can consume enough carbohydrate over the course of the day to restore glycogen levels before the next bout of training or competition.
+
+attributes:
+  - carbohydrate
+  - weightlifting
+  - strength_competition
+
+purpose:
+  - restore glycogen levels
+  - prevent impaired muscle force
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.protein_strength_speed_athletes
+type: Recommendation
+canonical_name: Protein intake for strength and speed athletes
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In general, strength or speed athletes should consume 1.4 to 2.0 grams of protein per kilogram body weight per day, even if their sport or training includes an aerobic endurance component. After resistance training, younger individuals should consume at least 20 to 50 grams (providing about 8.5 to 20 grams of essential amino acids) of a high-quality, high-leucine protein (2-3 g), while older adults should consume 40 grams or more to maximally stimulate muscle protein synthesis in the acute time period after training. If the exercise was performed in a fasted state (first thing in the morning or more than 3 hours after the last protein-rich meal), the protein should be consumed within 30 minutes after the end of the session; but if the exercise was performed in a fed state (preexercise protein-rich meal or supplement), this postexercise time window may be considerably longer.
+
+attributes:
+  - protein
+  - strength_athletes
+  - speed_athletes
+
+purpose:
+  - stimulate muscle protein synthesis
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.carbohydrate_muscle_damaging_exercise
+type: Recommendation
+canonical_name: Carbohydrate intake after muscle-damaging exercise
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Between 30 and 100 grams of high-energy carbohydrates should be consumed after muscle-damaging exercise to reduce muscle protein breakdown.
+
+attributes:
+  - carbohydrate
+  - muscle_damaging_exercise
+
+purpose:
+  - reduce muscle protein breakdown
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.leucine_protein_adult_athletes
+type: Recommendation
+canonical_name: Leucine-rich protein intake for adult athletes
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 637
+  pdf_page: 637
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Adult athletes should eat meals containing at least 20 to 30 grams of a higher-leucine protein.
+
+attributes:
+  - protein
+  - leucine
+  - adult_athletes
+
+purpose:
+  - meet protein needs
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.carbohydrate_muscle_damaging_exercise_page638
+type: Recommendation
+canonical_name: Carbohydrate intake after muscle-damaging exercise (page 638)
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 638
+  pdf_page: 638
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Ingestion of between 30 and 100 grams of energy-dense, moderate to high glycemic index carbohydrates may be consumed after muscle-damaging exercise to help reduce muscle protein breakdown.
+
+attributes:
+  - carbohydrate
+  - glycemic_index
+  - muscle_damaging_exercise
+
+purpose:
+  - reduce muscle protein breakdown
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.protein_resistance_training_younger_older
+type: Recommendation
+canonical_name: Protein intake after resistance training for younger and older adults
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 638
+  pdf_page: 638
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  After resistance training, younger individuals should consume at least 20 to 50 grams (providing about 8.5 to 20 grams of essential amino acids) of a high-quality, high-leucine protein (>2-3 g), while older adults should consume 40 grams or more to maximally stimulate muscle protein synthesis in the acute time period after training.
+
+attributes:
+  - protein
+  - leucine
+  - resistance_training
+  - younger_individuals
+  - older_adults
+
+purpose:
+  - stimulate muscle protein synthesis
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.leucine_protein_meals_every_3_4_hours
+type: Recommendation
+canonical_name: Leucine-rich protein meals every 3 to 4 hours
+semantic_type: Nutrition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Athletic Performance"
+  section: "11.3"
+  section_title: "Postcompetition Nutrition"
+  book_page: 638
+  pdf_page: 638
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"

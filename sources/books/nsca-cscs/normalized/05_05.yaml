@@ -1,0 +1,552 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.detraining
+type: Concept
+canonical_name: Detraining
+semantic_type: Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 332
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Detraining is the term given to a decrement in performance and loss of the accumulated physiological adaptations following the cessation of anaerobic training or when there is a substantial reduction in frequency, volume, intensity, or any combination of these variables.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.minimal_essential_strain
+type: Concept
+canonical_name: Minimal Essential Strain
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 336
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  minimal essential strain (MES)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.strength_increase_untrained
+type: Threshold
+canonical_name: Strength Increase Untrained
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.strength_increase_moderately_trained
+definition: ""
+value: "40%"
+unit: "%"
+context: "mean strength increase in untrained participants over periods ranging from four weeks to two years"
+citation: "10"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.strength_increase_moderately_trained
+type: Threshold
+canonical_name: Strength Increase Moderately Trained
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.strength_increase_untrained
+  - predicate: adjacent_to
+    target: threshold.strength_increase_trained
+definition: ""
+value: "20%"
+unit: "%"
+context: "mean strength increase in moderately trained participants over periods ranging from four weeks to two years"
+citation: "10"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.strength_increase_trained
+type: Threshold
+canonical_name: Strength Increase Trained
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.strength_increase_moderately_trained
+  - predicate: adjacent_to
+    target: threshold.strength_increase_advanced
+definition: ""
+value: "16%"
+unit: "%"
+context: "mean strength increase in trained participants over periods ranging from four weeks to two years"
+citation: "10"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.strength_increase_advanced
+type: Threshold
+canonical_name: Strength Increase Advanced
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.strength_increase_trained
+  - predicate: adjacent_to
+    target: threshold.strength_increase_elite
+definition: ""
+value: "10%"
+unit: "%"
+context: "mean strength increase in advanced participants over periods ranging from four weeks to two years"
+citation: "10"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.strength_increase_elite
+type: Threshold
+canonical_name: Strength Increase Elite
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.strength_increase_advanced
+definition: ""
+value: "2%"
+unit: "%"
+context: "mean strength increase in elite participants over periods ranging from four weeks to two years"
+citation: "10"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_peak_power_jump_squat
+type: Threshold
+canonical_name: Optimal Load for Peak Power in Jump Squat
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+value: "0% of 1RM"
+unit: "% of 1RM"
+context: "optimal load for maximizing absolute peak power output in the jump squat"
+citation: "31"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_peak_power_trained_power_athletes_squat
+type: Threshold
+canonical_name: Optimal Load for Peak Power in Trained Power Athletes (Squat)
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+value: "30% to 60% of squat 1RM"
+unit: "% of squat 1RM"
+context: "peak power output is maximized in trained power athletes with higher loads"
+citation: "16"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_peak_power_squat
+type: Threshold
+canonical_name: Optimal Load for Peak Power in Squat
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+value: "56% of 1RM"
+unit: "% of 1RM"
+context: "peak power in the squat is maximized"
+citation: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_peak_power_power_clean
+type: Threshold
+canonical_name: Optimal Load for Peak Power in Power Clean
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+value: "80% of 1RM"
+unit: "% of 1RM"
+context: "peak power in the power clean"
+citation: "31"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.optimal_load_peak_power_bench_press_throw
+type: Threshold
+canonical_name: Optimal Load for Peak Power in Bench Press Throw
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+value: "46% to 62% of bench press 1RM"
+unit: "% of bench press 1RM"
+context: "peak power output can be maximized during the ballistic bench press throw"
+citation: "15, 128"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.vo2max_increase_heavy_resistance_training_untrained
+type: Threshold
+canonical_name: V̇O2max Increase from Heavy Resistance Training in Untrained People
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 332
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+value: "5% to 8%"
+unit: "%"
+context: "In untrained people, heavy resistance training can increase V̇O2max"
+citation: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.strength_retention_detraining_up_to_4_weeks
+type: Evidence
+canonical_name: Strength Retention During Detraining (Up to 4 Weeks)
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 333
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+evidence_text: >
+  Strength performance in general is readily maintained for up to four weeks of inactivity, but in highly trained athletes, eccentric force and sport-specific power may decline significantly faster (124).
+citation: "124"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.strength_retention_detraining_14_days_trained_weightlifters
+type: Evidence
+canonical_name: Strength Retention During Detraining (14 Days in Trained Weightlifters)
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 333
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+evidence_text: >
+  In trained weightlifters, removing the training stimulus for 14 days did not significantly affect 1RM strength performance in the bench press (−1.7%) and squat (−0.9%), isometric (−7%) and isokinetic concentric knee extension force (−2.3%), or vertical jump performance (1.2%) (108).
+citation: "108"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.strength_loss_detraining_8_to_12_weeks
+type: Evidence
+canonical_name: Strength Loss During Detraining (8 to 12 Weeks)
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 333
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+evidence_text: >
+  Longer periods of training cessation are accompanied by significantly pronounced declines in the strength performance of strength-trained athletes (124), but this loss is still limited to 7% to 12% during periods of inactivity ranging from 8 to 12 weeks.
+citation: "124"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.fast_twitch_fiber_csa_decline_detraining_14_days
+type: Evidence
+canonical_name: Fast-Twitch Fiber CSA Decline During Detraining (14 Days)
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 334
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+evidence_text: >
+  In 12 trained weightlifters, Hortobagyi and colleagues (78) observed a decline of 6.4% in fast-twitch fiber CSA in 14 days.
+citation: "78"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.body_composition_changes_resistance_training
+type: Evidence
+canonical_name: Body Composition Changes from Resistance Training
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+evidence_text: >
+  Resistance training can increase fat-free mass and reduce body fat by up to 9% (116).
+citation: "116"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.aerobic_capacity_circuit_high_intensity_training
+type: Evidence
+canonical_name: Aerobic Capacity and Circuit/High-Intensity Training
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 332
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+evidence_text: >
+  Circuit training, high-intensity interval training, and programs using high volume, high intensities, and short rest periods (i.e., 30 s or less) have been shown to improve V̇O2max (25).
+citation: "25"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.motor_performance_improvements_resistance_training
+type: Evidence
+canonical_name: Motor Performance Improvements from Resistance Training
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.5"
+  section_title: "Cardiovascular Adaptations"
+  book_page: 332
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+evidence_text: >
+  Resistance training has been shown to increase running economy, vertical and broad jumps, sprint speed, cycling power, tennis serve velocity, swinging and throwing velocity, and kicking performance (116).
+citation: "116"
+---
+# ontology: knowledge-compiler/v1

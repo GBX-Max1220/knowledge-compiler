@@ -1,0 +1,31 @@
+id: evidence.vitamin_d_supplementation_effect_on_muscular_strength_and_power
+type: Evidence
+canonical_name: Vitamin D Supplementation Effect on Muscular Strength and Power
+semantic_type: Effect
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A meta-analysis of 11 randomized control trials and 436 athletes showed
+  that vitamin D supplementation only had a small or trivial effect on upper and lower
+  body muscular strength or power (150).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.vitamin_d
+- concept.muscular_strength
+- concept.muscular_power

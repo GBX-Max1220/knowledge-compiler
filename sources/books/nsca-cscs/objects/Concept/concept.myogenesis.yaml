@@ -1,0 +1,28 @@
+id: concept.myogenesis
+type: Concept
+canonical_name: Myogenesis
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.2'
+  section_title: Muscular Adaptations
+  book_page: 300
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When muscle fibers contract, Akt/mTOR signaling increases dramatically,
+  and this response is critical for increasing muscle protein synthesis and subsequent
+  growth (a process known as myogenesis).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

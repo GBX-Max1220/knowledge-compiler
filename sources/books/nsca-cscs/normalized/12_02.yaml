@@ -1,0 +1,499 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.selective_androgen_receptor_modulators
+type: Concept
+canonical_name: Selective Androgen Receptor Modulators
+semantic_type: Substance
+aliases:
+  - SARMs
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 683
+  pdf_page: 683
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Selective androgen receptor modulators (SARMs) are tissue-selective agonists of androgen receptors in tissues such as muscle and bone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.peptides
+type: Concept
+canonical_name: Peptides
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 683
+  pdf_page: 683
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The development of novel peptides, or short chains of amino acids that regulate cellular functions and biochemical processes, has been an emerging frontier in pharmaceutical development alongside SARMs and, similar to SARMs, has potential for selective agonism and thus limited side effects.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.fda_warning_on_sarms
+type: Warning
+canonical_name: FDA Warning on SARMs
+semantic_type: Warning
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 685
+  pdf_page: 685
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  The FDA issued a warning to consumers that SARMs have been associated with serious or life-threatening health problems that include increased risk of heart attack or stroke, liver injury, sleep disturbances, sexual dysfunction, and miscarriage.
+severity: serious
+affected_population: consumers
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.human_chorionic_gonadotropin
+type: Concept
+canonical_name: Human Chorionic Gonadotropin
+semantic_type: Substance
+aliases:
+  - HCG
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 688
+  pdf_page: 688
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Human chorionic gonadotropin (HCG) is a hormone obtained from the placenta of pregnant women and is very closely related in structure and function to luteinizing hormone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.insulin
+type: Concept
+canonical_name: Insulin
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 689
+  pdf_page: 689
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Insulin is a potent anabolic hormone. It is secreted by the pancreas in response to elevations in blood glucose or specific amino acid (e.g., leucine) concentrations. Its role is to facilitate the uptake of glucose and amino acids into the cell. Since insulin increases protein synthesis, it is considered an anabolic hormone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.human_growth_hormone
+type: Concept
+canonical_name: Human Growth Hormone
+semantic_type: Substance
+aliases:
+  - HGH
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 690
+  pdf_page: 690
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Human growth hormone (HGH), a protein secreted from the anterior pituitary gland, has several important physiological functions that enhance its ergogenic effect. It is anabolic due to its stimulation of bone and skeletal muscle growth, but it also has important metabolic functions such as maintaining blood glucose levels, increasing the uptake of glucose and amino acids into muscle cells (67), and stimulating release of fatty acids from the fat cells.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.erythropoietin
+type: Concept
+canonical_name: Erythropoietin
+semantic_type: Substance
+aliases:
+  - EPO
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 694
+  pdf_page: 694
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Erythropoietin (EPO) is produced in the kidneys and stimulates the production of new red blood cells. It is also a protein hormone that can be produced by recombinant DNA techniques and is reportedly being abused by athletes (64).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.beta_adrenergic_agonists
+type: Concept
+canonical_name: β-Adrenergic Agonists
+semantic_type: Substance
+aliases:
+  - β-agonists
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 695
+  pdf_page: 695
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Synthetic β-adrenergic agonists, or β-agonists, are substances chemically related to epinephrine, a hormone produced in the adrenal medulla that regulates physiological effects, such as lipolysis (the breakdown of fat) and thermogenesis (increased energy expenditure resulting in the production of heat).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.beta_blockers
+type: Concept
+canonical_name: β-Blockers
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 696
+  pdf_page: 696
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  β-Blockers are a class of drugs that block the β-adrenergic receptors, preventing the catecholamines (i.e., norepinephrine and epinephrine) from binding.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.essential_amino_acids
+type: Concept
+canonical_name: Essential Amino Acids
+semantic_type: Substance
+aliases:
+  - EAAs
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 699
+  pdf_page: 699
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Essential amino acids (EAAs) are not produced in the body and must be obtained through the diet. They include histidine, isoleucine, leucine, valine, lysine, methionine, phenylalanine, threonine, and tryptophan.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.branched_chain_amino_acids
+type: Concept
+canonical_name: Branched-Chain Amino Acids
+semantic_type: Substance
+aliases:
+  - BCAAs
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 700
+  pdf_page: 700
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Prior work in animal models further identified that of the eight EAAs, it is the branched-chain amino acids (BCAAs) —isoleucine, leucine, and valine—that are responsible for increasing muscle protein synthesis (83).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.adverse_effects_of_hgh_abuse
+type: Warning
+canonical_name: Adverse Effects of HGH Abuse
+semantic_type: Warning
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 692
+  pdf_page: 692
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  Adverse side effects for HGH abuse are diabetes in prone individuals; cardiovascular dysfunction; muscle, joint, and bone pain; hypertension; abnormal growth of organs; and accelerated osteoarthritis (16).
+severity: serious
+affected_population: individuals who abuse HGH
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.adverse_effects_of_epo_misuse
+type: Warning
+canonical_name: Adverse Effects of EPO Misuse
+semantic_type: Warning
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 695
+  pdf_page: 695
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  The increase in hematocrit resulting from EPO injection presents a significant health risk. Increases in red blood cell number increase blood viscosity (the thickening of the blood). This poses several problems that include increased risk of blood clotting, elevations in systolic blood pressure and accentuation of the exercise pressor response stroke, and cerebral or pulmonary embolism (22, 42, 82).
+severity: serious
+affected_population: individuals who misuse EPO
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.adverse_effects_of_insulin_misuse
+type: Warning
+canonical_name: Adverse Effects of Insulin Misuse
+semantic_type: Warning
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 690
+  pdf_page: 690
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  Possible outcomes in a previously healthy athlete include immediate death or coma due to severe hypoglycemia (106).
+severity: life-threatening
+affected_population: previously healthy athletes who misuse insulin
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.efficacy_of_testosterone_precursors
+type: Evidence
+canonical_name: Efficacy of Testosterone Precursors
+semantic_type: Evidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 681
+  pdf_page: 681
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+evidence_text: >
+  Studies examining the efficacy of testosterone precursors have produced varying results. No significant differences in strength or body composition were seen in middle-aged men performing a resistance training program while supplementing with either DHEA, androstenedione (100 mg), or a placebo for three months (219). When DHEA supplementation (150 mg) was examined in a group of younger males (19-29 years) on a two-weeks-on, one-week-off cycle for eight weeks, there were no gains in strength or lean tissue (33). Additionally, the investigators were unable to see any changes in serum testosterone, estrone, estradiol, or lipid concentrations with supplementation. Even in studies using higher dosages (300 mg) of androstenedione for eight weeks, in a similar two-weeks-on, one-week-off protocol, no significant effect was observed in strength, muscle size, or testosterone concentrations (33). However, androstenedione supplementation did cause an increase in serum concentrations of estradiol and estrone and was associated with lower high-density lipoprotein (HDL) levels.
+evidence_type: study_summary
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.efficacy_of_sarms_in_healthy_individuals
+type: Evidence
+canonical_name: Efficacy of SARMs in Healthy Individuals
+semantic_type: Evidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 684
+  pdf_page: 684
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+evidence_text: >
+  For example, three weeks of LGD-4033 (e.g., ligandrol) use has been shown to promote dose-dependent increases in lean body mass among healthy young and middle-aged men (15). As is often observed with oral androgen administration, these improvements in lean body mass were observed alongside a dose-dependent suppression of total testosterone, sex hormone–binding globulin (SHBG), high-density lipoprotein cholesterol (HDL-C), and triglycerides (15). Similarly, other SARMs such as GSK2881078 and GTx-024 (enobosarm) have been shown to cause dose-dependent increases in lean mass and decreases in HDL-C, SHBG, and total testosterone, suggestive of significant androgen receptor agonism (43, 157), as well as decreased triglycerides, very-low-density lipoprotein, and apolipoprotein A1 (43).
+evidence_type: study_summary
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.efficacy_of_epo_administration
+type: Evidence
+canonical_name: Efficacy of EPO Administration
+semantic_type: Evidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Hormones"
+  section: "12.2"
+  section_title: "Hormones"
+  book_page: 694
+  pdf_page: 694
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+evidence_text: >
+  A 2013 systematic review and meta-analysis indicated that EPO administration promotes increases in hemoglobin and hematocrit of 5% to 17%

@@ -1,0 +1,27 @@
+id: table_row.shoulder_press_test
+type: TableRow
+canonical_name: Shoulder Press Test
+semantic_type: Assessment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.26'
+  section_title: Muscular Endurance
+  book_page: 237
+  pdf_page: 237
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A test of muscular endurance involving shoulder presses.
+
+  '
+attributes: []
+purpose:
+- assess muscular endurance
+related_concepts: []

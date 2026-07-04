@@ -1,0 +1,1123 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.chronic_adaptations_to_aerobic_exercise
+type: Concept
+canonical_name: Chronic Adaptations to Aerobic Exercise
+semantic_type: Physiological Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Understanding the effects of aerobic endurance training on the body systems is important for assessing physical or athletic performance and determining the impact of training programs. This section deals with the effects of aerobic endurance training on the cardiovascular, respiratory, nervous, muscular, bone and connective tissue, and endocrine systems of the body (table 6.1).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.aerobic_endurance_training
+  - concept.cardiovascular_system
+  - concept.respiratory_system
+  - concept.nervous_system
+  - concept.muscular_system
+  - concept.bone_and_connective_tissue
+  - concept.endocrine_system
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.performance_muscular_strength
+type: TableRow
+canonical_name: Performance Muscular Strength
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Muscular strength"
+  - adaptation: "No change"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.performance_muscular_endurance
+type: TableRow
+canonical_name: Performance Muscular Endurance
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Muscular endurance"
+  - adaptation: "Increases for low power output"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.performance_aerobic_power
+type: TableRow
+canonical_name: Performance Aerobic Power
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Aerobic power"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.performance_exercise_economy
+type: TableRow
+canonical_name: Performance Exercise Economy
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Exercise economy"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.performance_maximal_rate_of_force_production
+type: TableRow
+canonical_name: Performance Maximal Rate of Force Production
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Maximal rate of force production"
+  - adaptation: "No change or decreases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.performance_anaerobic_power
+type: TableRow
+canonical_name: Performance Anaerobic Power
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Anaerobic power"
+  - adaptation: "No change"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.performance_sprint_speed
+type: TableRow
+canonical_name: Performance Sprint Speed
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Sprint speed"
+  - adaptation: "No change"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiovascular_function_heart_rate_resting_and_submaximal_exercise
+type: TableRow
+canonical_name: Cardiovascular Function Heart Rate Resting and Submaximal Exercise
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Heart rate"
+  - condition: "Resting and submaximal exercise"
+  - adaptation: "Decreases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiovascular_function_heart_rate_maximal_exercise
+type: TableRow
+canonical_name: Cardiovascular Function Heart Rate Maximal Exercise
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Heart rate"
+  - condition: "Maximal exercise"
+  - adaptation: "No change or decreases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiovascular_function_stroke_volume
+type: TableRow
+canonical_name: Cardiovascular Function Stroke Volume
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Stroke volume"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiovascular_function_cardiac_output_resting_or_submaximal_exercise
+type: TableRow
+canonical_name: Cardiovascular Function Cardiac Output Resting or Submaximal Exercise
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Cardiac output"
+  - condition: "Resting or submaximal exercise"
+  - adaptation: "No change or decreases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiovascular_function_cardiac_output_maximal_exercise
+type: TableRow
+canonical_name: Cardiovascular Function Cardiac Output Maximal Exercise
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Cardiac output"
+  - condition: "Maximal exercise"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.muscle_fibers_fiber_size
+type: TableRow
+canonical_name: Muscle Fibers Fiber Size
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Fiber size"
+  - adaptation: "No change or increases slightly"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.muscle_fibers_capillary_density
+type: TableRow
+canonical_name: Muscle Fibers Capillary Density
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Capillary density"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.muscle_fibers_mitochondrial_density
+type: TableRow
+canonical_name: Muscle Fibers Mitochondrial Density
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Mitochondrial density"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.muscle_fibers_cytoplasmic_density
+type: TableRow
+canonical_name: Muscle Fibers Cytoplasmic Density
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Cytoplasmic density"
+  - adaptation: "No change"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.muscle_fibers_myosin_heavy_chain_protein
+type: TableRow
+canonical_name: Muscle Fibers Myosin Heavy Chain Protein
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Myosin heavy chain protein"
+  - adaptation: "No change or decreases in amount"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.muscle_fibers_myofibrillar_packing_density
+type: TableRow
+canonical_name: Muscle Fibers Myofibrillar Packing Density
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Myofibrillar packing density"
+  - adaptation: "No change"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.muscle_fibers_myofibrillar_volume
+type: TableRow
+canonical_name: Muscle Fibers Myofibrillar Volume
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Myofibrillar volume"
+  - adaptation: "No change"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.enzyme_activity_creatine_phosphokinase
+type: TableRow
+canonical_name: Enzyme Activity Creatine Phosphokinase
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Creatine phosphokinase"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.enzyme_activity_myokinase
+type: TableRow
+canonical_name: Enzyme Activity Myokinase
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Myokinase"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.enzyme_activity_phosphofructokinase
+type: TableRow
+canonical_name: Enzyme Activity Phosphofructokinase
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Phosphofructokinase"
+  - adaptation: "Variable"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.enzyme_activity_lactate_dehydrogenase
+type: TableRow
+canonical_name: Enzyme Activity Lactate Dehydrogenase
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Lactate dehydrogenase"
+  - adaptation: "Variable"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.enzyme_activity_sodium_potassium_atpase
+type: TableRow
+canonical_name: Enzyme Activity Sodium Potassium ATPase
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 341
+  pdf_page: 341
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Sodium–potassium ATPase"
+  - adaptation: "May slightly increase"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.metabolic_energy_stores_stored_atp
+type: TableRow
+canonical_name: Metabolic Energy Stores Stored ATP
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Stored ATP"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.metabolic_energy_stores_stored_creatine_phosphate
+type: TableRow
+canonical_name: Metabolic Energy Stores Stored Creatine Phosphate
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Stored creatine phosphate"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.metabolic_energy_stores_stored_glycogen
+type: TableRow
+canonical_name: Metabolic Energy Stores Stored Glycogen
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Stored glycogen"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.metabolic_energy_stores_stored_triglycerides
+type: TableRow
+canonical_name: Metabolic Energy Stores Stored Triglycerides
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Stored triglycerides"
+  - adaptation: "Increase"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.metabolic_energy_stores_fat_oxidation
+type: TableRow
+canonical_name: Metabolic Energy Stores Fat Oxidation
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Fat oxidation"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.connective_tissue_ligament_strength
+type: TableRow
+canonical_name: Connective Tissue Ligament Strength
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Ligament strength"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.connective_tissue_tendon_strength
+type: TableRow
+canonical_name: Connective Tissue Tendon Strength
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Tendon strength"
+  - adaptation: "Increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.connective_tissue_collagen_content
+type: TableRow
+canonical_name: Connective Tissue Collagen Content
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Collagen content"
+  - adaptation: "Variable"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.connective_tissue_bone_density
+type: TableRow
+canonical_name: Connective Tissue Bone Density
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Bone density"
+  - adaptation: "No change or increases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.body_composition_percent_body_fat
+type: TableRow
+canonical_name: Body Composition Percent Body Fat
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "% body fat"
+  - adaptation: "Decreases"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.body_composition_fat_free_mass
+type: TableRow
+canonical_name: Body Composition Fat Free Mass
+semantic_type: Table Row
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Chronic Adaptations to Aerobic Exercise"
+  section: "6.1"
+  section_title: "Chronic Adaptations to Aerobic Exercise"
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: table.physiological_adaptations_to_aerobic_endurance_training
+definition: ""
+attributes:
+  - variable: "Fat-free mass"
+  - adaptation: "No change"
+purpose: []
+related_concepts:

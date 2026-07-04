@@ -1,0 +1,28 @@
+id: concept.glycolysis
+type: Concept
+canonical_name: Glycolysis
+semantic_type: Metabolic Pathway
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Glycolytic System
+  section_title: Glycolytic System
+  book_page: 182
+  pdf_page: 182
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Glycolysis is the breakdown of carbohydrate—either as glycogen stored
+  in the muscle or glucose delivered via the blood—to resynthesize ATP (22, 145).
+
+  '
+attributes: []
+purpose:
+- resynthesize ATP
+related_concepts: []

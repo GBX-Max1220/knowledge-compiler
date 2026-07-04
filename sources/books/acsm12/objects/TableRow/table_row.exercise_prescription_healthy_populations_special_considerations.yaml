@@ -1,0 +1,36 @@
+id: table_row.exercise_prescription_healthy_populations_special_considerations
+type: TableRow
+canonical_name: Exercise Prescription for Healthy Populations With Special Considerations
+semantic_type: Table
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Exercise Prescription
+  section: '6.9'
+  section_title: Exercise Prescription
+  book_page: 445
+  pdf_page: 445
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A table providing exercise prescription guidelines for healthy populations
+  with special considerations, including columns for population, frequency, intensity,
+  time, type, volume, and progression.
+
+  '
+attributes:
+- population
+- frequency
+- intensity
+- time
+- type
+- volume
+- progression
+purpose:
+- guide exercise prescription for healthy populations with special considerations
+related_concepts: []

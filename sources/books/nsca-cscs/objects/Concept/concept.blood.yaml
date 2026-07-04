@@ -1,0 +1,44 @@
+id: concept.blood
+type: Concept
+canonical_name: Blood
+semantic_type: BodyFluid
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Blood
+  section_title: Blood
+  book_page: 76
+  pdf_page: 76
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.circulatory_system
+definition: 'Two paramount functions of blood are the transport of oxygen from the
+  lungs to the tissues for use in cellular metabolism and the removal of carbon dioxide,
+  the most abundant by-product of metabolism, from the tissues to the lungs. The transport
+  of oxygen is accomplished by hemoglobin, the iron–protein molecule carried by the
+  red blood cells. Hemoglobin also has an additional important role as an acid–base
+  buffer, a regulator of hydrogen ion concentration, which is crucial to the rates
+  of chemical reactions in cells. Red blood cells, the major component of blood, have
+  other functions as well. For instance, they contain a large quantity of carbonic
+  anhydrase, which catalyzes the reaction between carbon dioxide and water to facilitate
+  carbon dioxide removal.
+
+  '
+attributes:
+- transports_oxygen
+- removes_carbon_dioxide
+- contains_hemoglobin
+- contains_red_blood_cells
+related_concepts:
+- concept.hemoglobin
+- concept.red_blood_cells
+- concept.lungs
+- concept.carbonic_anhydrase

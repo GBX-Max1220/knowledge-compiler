@@ -1,0 +1,15 @@
+id: formula.substrate_level_phosphorylation_2
+type: Formula
+canonical_name: Substrate-Level Phosphorylation Reaction 2
+semantic_type: Chemical Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Energy Yield of Glycolysis
+  section_title: Energy Yield of Glycolysis
+  book_page: 190
+  pdf_page: 190
+provenance: null

@@ -1,0 +1,29 @@
+id: threshold.blood_pressure_exercise_hypertension
+type: Threshold
+canonical_name: Blood Pressure Threshold for Exercise in Hypertension
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Special Considerations
+  section: '8.5'
+  section_title: Special Considerations
+  book_page: 577
+  pdf_page: 577
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Resting SBP >200 mm Hg or DBP >110 mm Hg
+
+  '
+attributes:
+- systolic_blood_pressure
+- diastolic_blood_pressure
+purpose:
+- exercise in hypertension
+related_concepts: []

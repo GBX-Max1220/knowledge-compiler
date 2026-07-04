@@ -1,0 +1,28 @@
+id: concept.muscle_fiber
+type: Concept
+canonical_name: Muscle Fiber
+semantic_type: Cell
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 56
+  pdf_page: 56
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.motor_unit
+definition: 'Muscle fibers are innervated by motor neurons.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

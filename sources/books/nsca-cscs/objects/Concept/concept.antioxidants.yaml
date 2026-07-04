@@ -1,0 +1,32 @@
+id: concept.antioxidants
+type: Concept
+canonical_name: Antioxidants
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Antioxidants are substances that modify cell-signaling pathways and counteract
+  oxidative stress-induced cell damage caused by reactive oxygen and nitrogen species
+  (free radicals).
+
+  '
+attributes: []
+purpose:
+- modify cell-signaling pathways
+- counteract oxidative stress-induced cell damage
+related_concepts:
+- concept.free_radicals
+- concept.oxidative_stress

@@ -1,0 +1,30 @@
+id: recommendation.stimulating_bone_formation
+type: Recommendation
+canonical_name: Stimulating Bone Formation
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 316
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Select multijoint, compound exercises that involve many muscle
+  groups at once. Select some exercises that direct axial force vectors through the
+  spine and hip. Use both heavy-load exercises and ballistic or high-impact exercises
+  to expose the bone to different intensities of force. Use multidirectional movements
+  that incorporate all planes of motion to stimulate growth in different areas of
+  the bone. Use the principle of progressive overload to stress the musculoskeletal
+  system and continue to progressively increase load as the tissues become accustomed
+  to the stimulus.
+
+  '
+context: bone formation

@@ -1,0 +1,29 @@
+id: concept.clean_grip
+type: Concept
+canonical_name: Clean Grip
+semantic_type: Handgrip
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16.1'
+  section_title: Exercise Technique for Free Weight and Machine Training
+  book_page: 950
+  pdf_page: 950
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.handgrips
+definition: 'The clean grip is slightly wider than shoulder-width apart, outside of
+  the knees.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

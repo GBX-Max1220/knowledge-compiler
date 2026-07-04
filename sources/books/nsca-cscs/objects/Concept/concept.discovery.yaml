@@ -1,0 +1,29 @@
+id: concept.discovery
+type: Concept
+canonical_name: Discovery
+semantic_type: Instructional Style
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.6'
+  section_title: Psychological Techniques
+  book_page: 528
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.instructional_style
+definition: 'Discovery instructs the athlete on the overarching goal of the task and
+  the athlete receives little to no direction.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

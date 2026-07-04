@@ -1,0 +1,63 @@
+id: concept.weighted_carries
+type: Concept
+canonical_name: Weighted Carries
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1126
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.farmers_walk
+- predicate: has_attribute
+  target: concept.yoke_walk
+- predicate: has_attribute
+  target: concept.sandbag_carries
+- predicate: has_attribute
+  target: concept.unilateral_carries
+definition: 'Strongman competitions commonly involve a range of weighted carries including
+  the farmer''s walk, yoke walk, or sandbag or keg carries, with regular gym programs
+  potentially also involving Zercher carries (using a barbell held across the elbows
+  on the upper abdominals) or unilateral carries in which the load is held overhead
+  or by one hip (i.e., suitcase carry). A primary advantage of these exercises is
+  that they often involve horizontal motion and unilateral ground contact and require
+  coordinated activity of many muscles of the body. Weighted carries may therefore
+  develop total body and trunk stability, grip strength (for farmer''s walks) as well
+  as the ability to produce high levels of anterior–posterior and vertical impulse
+  to initiate propulsion and to be able to absorb these forces on impact at heel strike
+  (163). These exercises therefore may mimic performance in a range of occupational
+  and sporting demands (62, 87) or create substantial metabolic demands that can be
+  exploited in a metabolic or anaerobic conditioning circuit (55, 163).
+
+  '
+attributes:
+- horizontal motion
+- unilateral ground contact
+- coordinated activity of many muscles
+purpose:
+- develop total body stability
+- develop trunk stability
+- develop grip strength
+- produce high levels of anterior-posterior impulse
+- produce high levels of vertical impulse
+- initiate propulsion
+- absorb forces on impact at heel strike
+- mimic performance in occupational demands
+- mimic performance in sporting demands
+- create substantial metabolic demands
+related_concepts:
+- concept.farmers_walk
+- concept.yoke_walk
+- concept.sandbag_carries
+- concept.unilateral_carries

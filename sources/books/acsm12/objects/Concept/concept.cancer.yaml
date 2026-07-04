@@ -1,0 +1,24 @@
+id: concept.cancer
+type: Concept
+canonical_name: Cancer
+semantic_type: Disease
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.7'
+  section_title: Cancer
+  book_page: 794
+  pdf_page: 794
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []

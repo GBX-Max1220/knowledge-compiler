@@ -1,0 +1,30 @@
+id: concept.metabolic_equivalent
+type: Concept
+canonical_name: Metabolic Equivalent
+semantic_type: Unit
+aliases:
+- MET
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Oxygen Uptake
+  section_title: Cardiovascular Responses — Oxygen Uptake
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Resting oxygen uptake is estimated at 3.5 mL of oxygen per kilogram of
+  body weight per minute (mL · kg−1 · min−1) for an average person; this value is
+  defined as 1 metabolic equivalent (MET).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.oxygen_uptake

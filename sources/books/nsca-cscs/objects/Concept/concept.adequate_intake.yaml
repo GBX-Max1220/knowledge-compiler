@@ -1,0 +1,30 @@
+id: concept.adequate_intake
+type: Concept
+canonical_name: Adequate Intake
+semantic_type: Nutrient Intake Standard
+aliases:
+- AI
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 545
+  pdf_page: 545
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.dietary_reference_intakes
+definition: 'Adequate Intake (AI)— The average daily nutrient intake level recommended
+  when a RDA cannot be established.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

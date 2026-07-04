@@ -1,0 +1,29 @@
+id: concept.a_band
+type: Concept
+canonical_name: A-band
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.5
+  section_title: Sectional view of a muscle fiber
+  book_page: 48
+  pdf_page: 48
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.sarcomere
+definition: 'The dark A-band corresponds with the alignment of the myosin filaments.
+
+  '
+attributes:
+- dark
+purpose: []
+related_concepts: []

@@ -1,0 +1,33 @@
+id: table_row.rest_periods_muscular_endurance
+type: TableRow
+canonical_name: Rest Periods Muscular Endurance
+semantic_type: Rest Period
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.21'
+  section_title: Time (Rest Periods of Resistance Training Exercises)
+  book_page: 371
+  pdf_page: 371
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: table.rest_periods_between_sets_and_exercises
+definition: 'For the goal of muscular endurance, the rest period between sets and
+  exercises is ≤30 seconds.
+
+  '
+attributes:
+  goal: Muscular endurance
+  rest_period: ≤30 s
+purpose:
+- muscular endurance
+related_concepts:
+- concept.muscular_endurance

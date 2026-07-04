@@ -1,0 +1,37 @@
+id: table_row.isometric_exercises
+type: TableRow
+canonical_name: Isometric Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Isometric exercises are resistance training exercises in which the muscle
+  contracts without changing length and no visible joint movement occurs. The muscle
+  is activated against an immovable object or by holding a static position.
+
+  '
+attributes:
+- no_joint_movement
+- static_muscle_contraction
+- muscle_length_unchanged
+purpose:
+- improve muscular strength at specific joint angles
+- enhance muscular endurance
+- provide low-impact training option
+related_concepts:
+- concept.resistance_training
+- concept.isotonic_exercises
+- concept.isokinetic_exercises

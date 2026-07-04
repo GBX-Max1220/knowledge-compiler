@@ -1,0 +1,35 @@
+id: concept.igf_binding_proteins
+type: Concept
+canonical_name: IGF Binding Proteins (IGFBPs)
+semantic_type: Protein
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System in Resistance Training
+  section: '4.3'
+  section_title: Endocrine System in Resistance Training
+  book_page: 263
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.insulin_like_growth_factors_and_binding_proteins
+definition: 'IGF binding proteins (IGFBPs) are a group of proteins that regulate the
+  bioavailability and activity of IGFs. There are six main types of IGFBPs (IGFBP-1
+  to IGFBP-6) found in humans, each with distinct binding affinities, tissue distributions,
+  and biological functions. IGFBPs can inhibit or enhance the action of IGFs by doing
+  the following: 1. Binding IGFs with high affinity, which prevents their interaction
+  with IGF receptors and modulates their half-life, transport, and tissue localization;
+  2. Regulating IGF turnover and clearance in the circulation; 3. Interacting with
+  cellular components, influencing various cellular processes independently of IGFs.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

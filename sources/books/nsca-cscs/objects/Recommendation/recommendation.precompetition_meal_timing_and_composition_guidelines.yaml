@@ -1,0 +1,34 @@
+id: recommendation.precompetition_meal_timing_and_composition_guidelines
+type: Recommendation
+canonical_name: Precompetition Meal Timing and Composition Guidelines
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Precompetition Nutrition
+  section_title: Precompetition Nutrition
+  book_page: 614
+  pdf_page: 614
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'All precompetition meals should take timing, meal and fluid
+  composition, event or sport, and individual athlete preferences into account. In
+  order to minimize the potential for stomach upset, smaller quantities of fluids
+  and food should be consumed when the precompetition meal is consumed closer in temporal
+  proximity to competition. Precompetition foods and beverages should be familiar
+  to the athlete (i.e., tried in practice), low in fat and fiber so that they empty
+  rapidly from the stomach and minimize any potential for gastrointestinal distress,
+  and moderate in protein (protein promotes longer-lasting satiety and accelerates
+  recovery) (7).
+
+  '
+rationale: []
+target_population: []
+application_context: []

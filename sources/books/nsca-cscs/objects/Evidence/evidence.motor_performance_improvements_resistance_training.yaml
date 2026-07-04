@@ -1,0 +1,26 @@
+id: evidence.motor_performance_improvements_resistance_training
+type: Evidence
+canonical_name: Motor Performance Improvements from Resistance Training
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Cardiovascular Adaptations
+  book_page: 332
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+evidence_text: 'Resistance training has been shown to increase running economy, vertical
+  and broad jumps, sprint speed, cycling power, tennis serve velocity, swinging and
+  throwing velocity, and kicking performance (116).
+
+  '
+citation: '116'

@@ -1,0 +1,30 @@
+id: threshold.basic_strength_phase_volume
+type: Threshold
+canonical_name: Basic Strength Phase Volume
+semantic_type: Volume
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22 — Periodization — Periodization Periods — Preparatory Period
+    — Basic Strength Phase
+  section_title: Basic Strength Phase
+  book_page: 1597
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: applies_to
+  target: concept.basic_strength_phase
+definition: The basic strength phase involves higher intensity (80%-95% of the 1RM)
+  and moderate to high volumes (2 to 6 sets of 2 to 6 repetitions).
+value: 2 to 6 sets of 2 to 6 repetitions
+unit: sets and repetitions
+range: 2-6 sets, 2-6 reps
+comparison: range
+context: basic strength phase

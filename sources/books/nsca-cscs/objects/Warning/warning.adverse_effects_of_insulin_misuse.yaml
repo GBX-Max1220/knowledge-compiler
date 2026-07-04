@@ -1,0 +1,30 @@
+id: warning.adverse_effects_of_insulin_misuse
+type: Warning
+canonical_name: Adverse Effects of Insulin Misuse
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 690
+  pdf_page: 690
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: 'Possible outcomes in a previously healthy athlete include immediate
+  death or coma due to severe hypoglycemia (106).
+
+  '
+severity: life-threatening
+affected_population: previously healthy athletes who misuse insulin

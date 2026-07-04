@@ -1,0 +1,27 @@
+id: concept.figure_4_2
+type: Concept
+canonical_name: Figure 4.2
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.2'
+  section_title: Signaling Concepts
+  book_page: 242
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A schematic representation of the classic lock-and-key theory for hormonal
+  action at the cell receptor level.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,41 @@
+id: evidence.efficacy_of_testosterone_precursors
+type: Evidence
+canonical_name: Efficacy of Testosterone Precursors
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 681
+  pdf_page: 681
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+evidence_text: 'Studies examining the efficacy of testosterone precursors have produced
+  varying results. No significant differences in strength or body composition were
+  seen in middle-aged men performing a resistance training program while supplementing
+  with either DHEA, androstenedione (100 mg), or a placebo for three months (219).
+  When DHEA supplementation (150 mg) was examined in a group of younger males (19-29
+  years) on a two-weeks-on, one-week-off cycle for eight weeks, there were no gains
+  in strength or lean tissue (33). Additionally, the investigators were unable to
+  see any changes in serum testosterone, estrone, estradiol, or lipid concentrations
+  with supplementation. Even in studies using higher dosages (300 mg) of androstenedione
+  for eight weeks, in a similar two-weeks-on, one-week-off protocol, no significant
+  effect was observed in strength, muscle size, or testosterone concentrations (33).
+  However, androstenedione supplementation did cause an increase in serum concentrations
+  of estradiol and estrone and was associated with lower high-density lipoprotein
+  (HDL) levels.
+
+  '
+evidence_type: study_summary

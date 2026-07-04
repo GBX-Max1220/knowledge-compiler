@@ -1,0 +1,30 @@
+id: evidence.muscle_fiber_type_iix_transformation_after_resistance_training
+type: Evidence
+canonical_name: Muscle Fiber Type IIx Transformation After Resistance Training
+semantic_type: ResearchFinding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 328
+  pdf_page: 328
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'the transformation of type IIx to type IIa fibers was almost complete
+  in the S group (19.1%±7.9% type IIx before training to 1.9%±0.8% after training)
+  and C group (14.11%±7.2% before to 1.6%±0.8% after).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.muscle_fiber_type_iix
+- concept.muscle_fiber_type_iia

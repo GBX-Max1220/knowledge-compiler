@@ -1,0 +1,37 @@
+id: recommendation.mental_health_support_considerations
+type: Recommendation
+canonical_name: Mental Health Support Considerations
+semantic_type: Recommendation
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 511
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Social norms and the environment should be considered when helping an
+  athlete seek mental health support. Athletes in team sports may wish to have privacy
+  while getting support. Because social stigmas and mental health treatment can sometimes
+  clash, the strength and conditioning professional should attempt to be aware of
+  individual preferences and readiness for support. Not all mental health issues are
+  covered in this chapter (e.g., substance abuse, eating disorders, bullying or hazing,
+  body dysmorphia, gender identity, social phobias, and trauma) so further education
+  is recommended for strength and conditioning professionals as they work with diverse
+  populations of athletes.
+
+  '
+attributes: []
+purpose:
+- help an athlete seek mental health support
+- be aware of individual preferences and readiness for support
+- further education for strength and conditioning professionals
+related_concepts: []

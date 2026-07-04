@@ -1,0 +1,28 @@
+id: recommendation.resistance_exercise_intensity_cancer_survivors
+type: Recommendation
+canonical_name: Resistance Exercise Intensity for Cancer Survivors
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.29'
+  section_title: Exercise Prescription
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_cancer_survivors
+definition: 'Intensity: 60%–70% 1-RM for upper body and 60%–80% 1-RM for lower body.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

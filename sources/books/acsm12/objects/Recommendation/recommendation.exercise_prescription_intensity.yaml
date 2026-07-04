@@ -1,0 +1,36 @@
+id: recommendation.exercise_prescription_intensity
+type: Recommendation
+canonical_name: Exercise Prescription — Intensity
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Prescription for Individuals With Cardiovascular and Pulmonary
+    Diseases
+  section: '8.29'
+  section_title: Exercise Prescription
+  book_page: 608
+  pdf_page: 608
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+definition: 'Intensity: The intensity of aerobic exercise should be prescribed using
+  the heart rate reserve (HRR) method, the peak heart rate method, or the rating of
+  perceived exertion (RPE) method. The target heart rate range is typically 40% to
+  80% of HRR or 64% to 91% of peak heart rate. RPE of 12 to 16 on the Borg 6–20 scale
+  is often used.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.heart_rate_reserve
+- concept.peak_heart_rate
+- concept.rating_of_perceived_exertion

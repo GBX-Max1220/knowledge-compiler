@@ -1,0 +1,31 @@
+id: concept.cross_training
+type: Concept
+canonical_name: Cross-Training
+semantic_type: Training Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 220
+  pdf_page: 220
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In contrast, cross-training deliberately involves incorporating different
+  types of exercise with the same underlying metabolic adaptation profile (i.e., enhancing
+  aerobic capacity), without overstressing the primary activity muscles (e.g., including
+  rowing in a program for a runner), often with the aim of complementing the main
+  sport performance.
+
+  '
+attributes: []
+purpose:
+- complement the main sport performance
+related_concepts: []

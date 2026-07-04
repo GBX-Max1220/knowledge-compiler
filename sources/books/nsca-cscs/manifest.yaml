@@ -1,0 +1,2892 @@
+book:
+  title: Essentials of Strength Training and Conditioning
+  edition: 5
+  total_pages: 1876
+chapters:
+- id: 1
+  title: Structure and Function of Body Systems
+  pdf_pages:
+    start: 38
+    end: 103
+    n_pages: 66
+  sections:
+  - id: '1.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Musculoskeletal System
+    pdf_pages:
+      start: 38
+      end: 103
+    estimated_complexity: 3
+    estimated_tokens: 220
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '1.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Neuromuscular System
+    pdf_pages:
+      start: 38
+      end: 103
+    estimated_complexity: 3
+    estimated_tokens: 200
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '1.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Cardiovascular System
+    pdf_pages:
+      start: 38
+      end: 103
+    estimated_complexity: 3
+    estimated_tokens: 210
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '1.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Respiratory System
+    pdf_pages:
+      start: 38
+      end: 103
+    estimated_complexity: 3
+    estimated_tokens: 180
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '1.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Acute Responses to Aerobic Exercise
+    pdf_pages:
+      start: 38
+      end: 103
+    estimated_complexity: 3
+    estimated_tokens: 350
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '1.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Cardiovascular and Respiratory Responses to Anaerobic Exercise
+    pdf_pages:
+      start: 38
+      end: 103
+    estimated_complexity: 3
+    estimated_tokens: 620
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 2
+  title: Biomechanics of Resistance Exercise
+  pdf_pages:
+    start: 104
+    end: 173
+    n_pages: 70
+  sections:
+  - id: '2.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Skeletal Musculature
+    pdf_pages:
+      start: 104
+      end: 173
+    estimated_complexity: 3
+    estimated_tokens: 200
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '2.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Anatomical Planes and Major Body Movements
+    pdf_pages:
+      start: 104
+      end: 173
+    estimated_complexity: 3
+    estimated_tokens: 420
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '2.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Human Strength and Power
+    pdf_pages:
+      start: 104
+      end: 173
+    estimated_complexity: 3
+    estimated_tokens: 240
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '2.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Sources of Resistance to Muscle Contraction
+    pdf_pages:
+      start: 104
+      end: 173
+    estimated_complexity: 3
+    estimated_tokens: 430
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '2.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Joint Biomechanics: Concerns in Resistance Training'
+    pdf_pages:
+      start: 104
+      end: 173
+    estimated_complexity: 3
+    estimated_tokens: 510
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 3
+  title: Bioenergetics of Exercise and Training
+  pdf_pages:
+    start: 174
+    end: 226
+    n_pages: 53
+  sections:
+  - id: '3.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Essential Terminology
+    pdf_pages:
+      start: 174
+      end: 226
+    estimated_complexity: 3
+    estimated_tokens: 210
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '3.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Biological Energy Systems
+    pdf_pages:
+      start: 174
+      end: 226
+    estimated_complexity: 3
+    estimated_tokens: 250
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '3.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Substrate Depletion and Repletion
+    pdf_pages:
+      start: 174
+      end: 226
+    estimated_complexity: 3
+    estimated_tokens: 330
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '3.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Bioenergetic Limiting Factors in Exercise Performance
+    pdf_pages:
+      start: 174
+      end: 226
+    estimated_complexity: 3
+    estimated_tokens: 530
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '3.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Oxygen Uptake and the Aerobic and Anaerobic Contributions to Exercise
+    pdf_pages:
+      start: 174
+      end: 226
+    estimated_complexity: 3
+    estimated_tokens: 690
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '3.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Metabolic Specificity of Training
+    pdf_pages:
+      start: 174
+      end: 226
+    estimated_complexity: 3
+    estimated_tokens: 330
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 4
+  title: Endocrine Responses to Resistance Exercise and Training
+  pdf_pages:
+    start: 227
+    end: 280
+    n_pages: 54
+  sections:
+  - id: '4.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Historical Perspective on Interest in the Endocrine System
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 580
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Endocrine Terminology, Functions, and Mechanisms
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 480
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Understanding Signaling Concepts
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 320
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Functions of the Endocrine System in Resistance Exercise and Training
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 690
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Importance of Recruitment of Muscle Tissue
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 420
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Muscle as the Target for Hormone Interactions
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 450
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Role of Receptors in Mediating Hormonal Changes
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 470
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.8'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Categories of Hormones
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 220
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.9'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Amine Hormone Interactions
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 260
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.10'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Training-Mediated Hormonal Responses and Mechanisms
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 510
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.11'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Interpreting Hormonal Changes in Peripheral Blood
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 490
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.12'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Adaptations in the Endocrine System From Resistance Training
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 600
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.13'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Primary Anabolic Hormones in Muscle Development
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 470
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.14'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Growth Hormone
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.15'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Insulin-Like Growth Factors and Binding Proteins
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 480
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.16'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - IGF Responses to Exercise
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 250
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.17'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Training Adaptations and IGF and Binding Proteins
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 490
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.18'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Adrenal Gland, Cortisol, and Its Role in Resistance Exercise
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 600
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.19'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Catecholamines and Their Role in Resistance Exercise and Training
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 650
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '4.20'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Other Hormonal Considerations in Resistance Training
+    pdf_pages:
+      start: 227
+      end: 280
+    estimated_complexity: 3
+    estimated_tokens: 520
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 5
+  title: Adaptations to Anaerobic Training
+  pdf_pages:
+    start: 281
+    end: 338
+    n_pages: 58
+  sections:
+  - id: '5.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Neural Adaptations
+    pdf_pages:
+      start: 281
+      end: 338
+    estimated_complexity: 3
+    estimated_tokens: 180
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '5.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Muscular Adaptations
+    pdf_pages:
+      start: 281
+      end: 338
+    estimated_complexity: 3
+    estimated_tokens: 200
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '5.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Connective Tissue Adaptations
+    pdf_pages:
+      start: 281
+      end: 338
+    estimated_complexity: 3
+    estimated_tokens: 290
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '5.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Endocrine Responses and Adaptations to Anaerobic Training
+    pdf_pages:
+      start: 281
+      end: 338
+    estimated_complexity: 3
+    estimated_tokens: 570
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '5.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Cardiovascular Adaptations to Anaerobic Training
+    pdf_pages:
+      start: 281
+      end: 338
+    estimated_complexity: 3
+    estimated_tokens: 480
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '5.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Compatibility of Aerobic and Anaerobic Modes of Training
+    pdf_pages:
+      start: 281
+      end: 338
+    estimated_complexity: 3
+    estimated_tokens: 560
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '5.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Detraining
+    pdf_pages:
+      start: 281
+      end: 338
+    estimated_complexity: 3
+    estimated_tokens: 100
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 6
+  title: Adaptations to Aerobic Training
+  pdf_pages:
+    start: 339
+    end: 383
+    n_pages: 45
+  sections:
+  - id: '6.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Chronic Adaptations to Aerobic Exercise
+    pdf_pages:
+      start: 339
+      end: 383
+    estimated_complexity: 3
+    estimated_tokens: 390
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '6.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Adaptations to Aerobic Endurance Training
+    pdf_pages:
+      start: 339
+      end: 383
+    estimated_complexity: 3
+    estimated_tokens: 410
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '6.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - External and Individual Factors Influencing Adaptations to Aerobic Endurance
+      Training
+    pdf_pages:
+      start: 339
+      end: 383
+    estimated_complexity: 3
+    estimated_tokens: 850
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '6.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Detraining
+    pdf_pages:
+      start: 339
+      end: 383
+    estimated_complexity: 3
+    estimated_tokens: 100
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 7
+  title: Age-Related Differences and Their Implications for Resistance Training
+  pdf_pages:
+    start: 384
+    end: 437
+    n_pages: 54
+  sections:
+  - id: '7.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Youth Populations
+    pdf_pages:
+      start: 384
+      end: 437
+    estimated_complexity: 3
+    estimated_tokens: 170
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '7.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Older Adults
+    pdf_pages:
+      start: 384
+      end: 437
+    estimated_complexity: 3
+    estimated_tokens: 120
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 8
+  title: Sex-Related Differences and Their Implications for Resistance Training
+  pdf_pages:
+    start: 438
+    end: 464
+    n_pages: 27
+  sections:
+  - id: '8.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Implications of Resistance Training for Females
+    pdf_pages:
+      start: 438
+      end: 464
+    estimated_complexity: 3
+    estimated_tokens: 470
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '8.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Training Responses and Adaptations
+    pdf_pages:
+      start: 438
+      end: 464
+    estimated_complexity: 3
+    estimated_tokens: 340
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '8.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Resistance Training Considerations
+    pdf_pages:
+      start: 438
+      end: 464
+    estimated_complexity: 3
+    estimated_tokens: 340
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 9
+  title: Psychological Foundations of Performance
+  pdf_pages:
+    start: 465
+    end: 535
+    n_pages: 71
+  sections:
+  - id: '9.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Role of Sport Psychology
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 240
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Ideal Performance State
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 230
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Energy Management: Arousal, Anxiety, and Stress'
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 470
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Theoretical Tenets of Arousal, Anxiety, and Motivation on Performance
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 690
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Motivation
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 100
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Attention and Focus
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 190
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Psychological Techniques for Improved Performance
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 490
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.8'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Mental Health and Strength and Conditioning
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 430
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.9'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Psychological Impact of Injury in Sport
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 390
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '9.10'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Enhancing Motor Skill Acquisition and Learning
+    pdf_pages:
+      start: 465
+      end: 535
+    estimated_complexity: 3
+    estimated_tokens: 460
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 10
+  title: Basic Nutritional Factors Affecting Health
+  pdf_pages:
+    start: 536
+    end: 612
+    n_pages: 77
+  sections:
+  - id: '10.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Role of Sports Nutrition Professionals
+    pdf_pages:
+      start: 536
+      end: 612
+    estimated_complexity: 3
+    estimated_tokens: 380
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '10.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Standard Nutrition Guidelines
+    pdf_pages:
+      start: 536
+      end: 612
+    estimated_complexity: 3
+    estimated_tokens: 290
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '10.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Macronutrients
+    pdf_pages:
+      start: 536
+      end: 612
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '10.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Vitamins
+    pdf_pages:
+      start: 536
+      end: 612
+    estimated_complexity: 3
+    estimated_tokens: 80
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '10.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Minerals
+    pdf_pages:
+      start: 536
+      end: 612
+    estimated_complexity: 3
+    estimated_tokens: 80
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '10.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Fluid and Electrolytes
+    pdf_pages:
+      start: 536
+      end: 612
+    estimated_complexity: 3
+    estimated_tokens: 220
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 11
+  title: Nutrition Strategies for Maximizing Performance
+  pdf_pages:
+    start: 613
+    end: 658
+    n_pages: 46
+  sections:
+  - id: '11.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Precompetition, During-Event, and Postcompetition Nutrition
+    pdf_pages:
+      start: 613
+      end: 658
+    estimated_complexity: 3
+    estimated_tokens: 590
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '11.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Nutrition Strategies for Altering Body Composition
+    pdf_pages:
+      start: 613
+      end: 658
+    estimated_complexity: 3
+    estimated_tokens: 500
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '11.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Relative Energy Deficiency in Sport (RED-S)
+    pdf_pages:
+      start: 613
+      end: 658
+    estimated_complexity: 3
+    estimated_tokens: 430
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '11.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Feeding and Eating Disorders
+    pdf_pages:
+      start: 613
+      end: 658
+    estimated_complexity: 3
+    estimated_tokens: 280
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 12
+  title: Performance-Enhancing Substances and Methods
+  pdf_pages:
+    start: 659
+    end: 728
+    n_pages: 70
+  sections:
+  - id: '12.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Types of Performance-Enhancing Substances
+    pdf_pages:
+      start: 659
+      end: 728
+    estimated_complexity: 3
+    estimated_tokens: 410
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '12.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Hormones
+    pdf_pages:
+      start: 659
+      end: 728
+    estimated_complexity: 3
+    estimated_tokens: 80
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '12.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Dietary Supplements
+    pdf_pages:
+      start: 659
+      end: 728
+    estimated_complexity: 3
+    estimated_tokens: 190
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 13
+  title: Principles of Test Selection and Administration
+  pdf_pages:
+    start: 729
+    end: 763
+    n_pages: 35
+  sections:
+  - id: '13.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Reasons for Testing
+    pdf_pages:
+      start: 729
+      end: 763
+    estimated_complexity: 3
+    estimated_tokens: 190
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '13.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Testing Terminology
+    pdf_pages:
+      start: 729
+      end: 763
+    estimated_complexity: 3
+    estimated_tokens: 190
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '13.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Evaluation of Test Quality
+    pdf_pages:
+      start: 729
+      end: 763
+    estimated_complexity: 3
+    estimated_tokens: 260
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '13.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Test Selection
+    pdf_pages:
+      start: 729
+      end: 763
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '13.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Test Administration
+    pdf_pages:
+      start: 729
+      end: 763
+    estimated_complexity: 3
+    estimated_tokens: 190
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 14
+  title: Administration, Scoring, and Interpretation of Selected Tests
+  pdf_pages:
+    start: 764
+    end: 853
+    n_pages: 90
+  sections:
+  - id: '14.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Measuring Parameters of Athletic Performance
+    pdf_pages:
+      start: 764
+      end: 853
+    estimated_complexity: 3
+    estimated_tokens: 440
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '14.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Monitoring Protocols, Procedures, and Equipment
+    pdf_pages:
+      start: 764
+      end: 853
+    estimated_complexity: 3
+    estimated_tokens: 470
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '14.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Statistical Evaluation of Test Data
+    pdf_pages:
+      start: 764
+      end: 853
+    estimated_complexity: 3
+    estimated_tokens: 350
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 15
+  title: Performance Preparation, Mobility, and Flexibility
+  pdf_pages:
+    start: 854
+    end: 946
+    n_pages: 93
+  sections:
+  - id: '15.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Performance Preparation—The Warm-Up
+    pdf_pages:
+      start: 854
+      end: 946
+    estimated_complexity: 3
+    estimated_tokens: 350
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '15.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Flexibility
+    pdf_pages:
+      start: 854
+      end: 946
+    estimated_complexity: 3
+    estimated_tokens: 110
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '15.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Types of Stretching
+    pdf_pages:
+      start: 854
+      end: 946
+    estimated_complexity: 3
+    estimated_tokens: 190
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '15.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Programming Considerations for Stretching
+    pdf_pages:
+      start: 854
+      end: 946
+    estimated_complexity: 3
+    estimated_tokens: 410
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 16
+  title: Exercise Technique for Free Weight and Machine Training
+  pdf_pages:
+    start: 947
+    end: 1087
+    n_pages: 141
+  sections:
+  - id: '16.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Fundamentals of Exercise Technique
+    pdf_pages:
+      start: 947
+      end: 1087
+    estimated_complexity: 3
+    estimated_tokens: 340
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '16.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Spotting Free Weight Exercises
+    pdf_pages:
+      start: 947
+      end: 1087
+    estimated_complexity: 3
+    estimated_tokens: 300
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 17
+  title: Exercise Technique for Alternative Modes and Nontraditional Implement Training
+  pdf_pages:
+    start: 1088
+    end: 1185
+    n_pages: 98
+  sections:
+  - id: '17.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - General Guidelines
+    pdf_pages:
+      start: 1088
+      end: 1185
+    estimated_complexity: 3
+    estimated_tokens: 180
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '17.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Bodyweight Training Methods
+    pdf_pages:
+      start: 1088
+      end: 1185
+    estimated_complexity: 3
+    estimated_tokens: 270
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '17.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Core Stability and Balance Training Methods
+    pdf_pages:
+      start: 1088
+      end: 1185
+    estimated_complexity: 3
+    estimated_tokens: 430
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '17.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Variable-Resistance Training Methods
+    pdf_pages:
+      start: 1088
+      end: 1185
+    estimated_complexity: 3
+    estimated_tokens: 360
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '17.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Nontraditional Implement Training Methods
+    pdf_pages:
+      start: 1088
+      end: 1185
+    estimated_complexity: 3
+    estimated_tokens: 410
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '17.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Unilateral Training
+    pdf_pages:
+      start: 1088
+      end: 1185
+    estimated_complexity: 3
+    estimated_tokens: 190
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 18
+  title: Program Design for Resistance Training
+  pdf_pages:
+    start: 1186
+    end: 1259
+    n_pages: 74
+  sections:
+  - id: '18.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Principles of Anaerobic Exercise Prescription
+    pdf_pages:
+      start: 1186
+      end: 1259
+    estimated_complexity: 3
+    estimated_tokens: 450
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '18.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Step 1: Needs Analysis'
+    pdf_pages:
+      start: 1186
+      end: 1259
+    estimated_complexity: 3
+    estimated_tokens: 220
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '18.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Step 2: Exercise Selection'
+    pdf_pages:
+      start: 1186
+      end: 1259
+    estimated_complexity: 3
+    estimated_tokens: 260
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '18.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Step 3: Training Frequency'
+    pdf_pages:
+      start: 1186
+      end: 1259
+    estimated_complexity: 3
+    estimated_tokens: 260
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '18.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Step 4: Exercise Order'
+    pdf_pages:
+      start: 1186
+      end: 1259
+    estimated_complexity: 3
+    estimated_tokens: 220
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '18.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Step 5: Training Load and Repetitions'
+    pdf_pages:
+      start: 1186
+      end: 1259
+    estimated_complexity: 3
+    estimated_tokens: 370
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '18.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Step 6: Volume'
+    pdf_pages:
+      start: 1186
+      end: 1259
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '18.8'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - 'Step 7: Rest Periods'
+    pdf_pages:
+      start: 1186
+      end: 1259
+    estimated_complexity: 3
+    estimated_tokens: 200
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 19
+  title: Program Design and Technique for Plyometric Training
+  pdf_pages:
+    start: 1260
+    end: 1397
+    n_pages: 138
+  sections:
+  - id: '19.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Plyometric Mechanics and Physiology
+    pdf_pages:
+      start: 1260
+      end: 1397
+    estimated_complexity: 3
+    estimated_tokens: 350
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '19.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Program Design
+    pdf_pages:
+      start: 1260
+      end: 1397
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '19.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Program Length
+    pdf_pages:
+      start: 1260
+      end: 1397
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '19.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Warm-Up
+    pdf_pages:
+      start: 1260
+      end: 1397
+    estimated_complexity: 3
+    estimated_tokens: 70
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '19.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Age Considerations
+    pdf_pages:
+      start: 1260
+      end: 1397
+    estimated_complexity: 3
+    estimated_tokens: 180
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '19.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Plyometrics and Other Forms of Exercise
+    pdf_pages:
+      start: 1260
+      end: 1397
+    estimated_complexity: 3
+    estimated_tokens: 390
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '19.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Safety Considerations
+    pdf_pages:
+      start: 1260
+      end: 1397
+    estimated_complexity: 3
+    estimated_tokens: 210
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 20
+  title: Program Design and Technique for Speed and Agility Training
+  pdf_pages:
+    start: 1398
+    end: 1511
+    n_pages: 114
+  sections:
+  - id: '20.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Speed and Agility Mechanics
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 270
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '20.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Neurophysiological Basis for Speed
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 340
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '20.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Running Speed
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 130
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '20.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Methods of Developing Speed
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 270
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '20.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Agility Performance and Change-of-Direction Ability
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 510
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '20.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Methods of Developing Agility
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 290
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '20.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Program Design
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '20.8'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Speed Development Strategies
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 280
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '20.9'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Agility Development Strategies
+    pdf_pages:
+      start: 1398
+      end: 1511
+    estimated_complexity: 3
+    estimated_tokens: 300
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 21
+  title: Program Design and Technique for Aerobic Endurance and Metabolic Training
+  pdf_pages:
+    start: 1512
+    end: 1578
+    n_pages: 67
+  sections:
+  - id: '21.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Factors Related to Aerobic Endurance Performance
+    pdf_pages:
+      start: 1512
+      end: 1578
+    estimated_complexity: 3
+    estimated_tokens: 480
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '21.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Designing an Aerobic Endurance Program
+    pdf_pages:
+      start: 1512
+      end: 1578
+    estimated_complexity: 3
+    estimated_tokens: 380
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '21.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Types of Aerobic Endurance Training Programs
+    pdf_pages:
+      start: 1512
+      end: 1578
+    estimated_complexity: 3
+    estimated_tokens: 440
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '21.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Application of Program Design to Training Seasons
+    pdf_pages:
+      start: 1512
+      end: 1578
+    estimated_complexity: 3
+    estimated_tokens: 490
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '21.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Special Issues Related to Aerobic Endurance Training
+    pdf_pages:
+      start: 1512
+      end: 1578
+    estimated_complexity: 3
+    estimated_tokens: 520
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 22
+  title: Periodization
+  pdf_pages:
+    start: 1579
+    end: 1629
+    n_pages: 51
+  sections:
+  - id: '22.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Central Concepts Related to Periodization
+    pdf_pages:
+      start: 1579
+      end: 1629
+    estimated_complexity: 3
+    estimated_tokens: 410
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '22.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Periodization and Planning the Training Process
+    pdf_pages:
+      start: 1579
+      end: 1629
+    estimated_complexity: 3
+    estimated_tokens: 470
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '22.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Models of Periodization
+    pdf_pages:
+      start: 1579
+      end: 1629
+    estimated_complexity: 3
+    estimated_tokens: 230
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '22.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Periodization Hierarchy
+    pdf_pages:
+      start: 1579
+      end: 1629
+    estimated_complexity: 3
+    estimated_tokens: 230
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '22.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Periodization Periods
+    pdf_pages:
+      start: 1579
+      end: 1629
+    estimated_complexity: 3
+    estimated_tokens: 210
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '22.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Applying Sport Seasons to the Periodization Periods
+    pdf_pages:
+      start: 1579
+      end: 1629
+    estimated_complexity: 3
+    estimated_tokens: 510
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '22.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Undulating Versus Linear Periodization Models
+    pdf_pages:
+      start: 1579
+      end: 1629
+    estimated_complexity: 3
+    estimated_tokens: 450
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '22.8'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Example of an Annual Training Plan
+    pdf_pages:
+      start: 1579
+      end: 1629
+    estimated_complexity: 3
+    estimated_tokens: 340
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 23
+  title: Rehabilitation, Reconditioning, and Medical Issues
+  pdf_pages:
+    start: 1630
+    end: 1678
+    n_pages: 49
+  sections:
+  - id: '23.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Allied Health Team
+    pdf_pages:
+      start: 1630
+      end: 1678
+    estimated_complexity: 3
+    estimated_tokens: 180
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '23.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Types of Injury
+    pdf_pages:
+      start: 1630
+      end: 1678
+    estimated_complexity: 3
+    estimated_tokens: 150
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '23.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Tissue Healing
+    pdf_pages:
+      start: 1630
+      end: 1678
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '23.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Goals of Rehabilitation and Reconditioning
+    pdf_pages:
+      start: 1630
+      end: 1678
+    estimated_complexity: 3
+    estimated_tokens: 420
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '23.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Program Design
+    pdf_pages:
+      start: 1630
+      end: 1678
+    estimated_complexity: 3
+    estimated_tokens: 140
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '23.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Reducing Risk of Injury and Reinjury
+    pdf_pages:
+      start: 1630
+      end: 1678
+    estimated_complexity: 3
+    estimated_tokens: 360
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '23.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Medical Conditions
+    pdf_pages:
+      start: 1630
+      end: 1678
+    estimated_complexity: 3
+    estimated_tokens: 180
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 24
+  title: Overreaching, Overtraining, and Recovery
+  pdf_pages:
+    start: 1679
+    end: 1726
+    n_pages: 48
+  sections:
+  - id: '24.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Periodization and the General Adaptation Syndrome
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 490
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '24.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Overtraining and Overreaching
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 290
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '24.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Overtraining Continuum
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 220
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '24.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Factors Contributing to Overreaching and Overtraining
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 530
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '24.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Underperformance and Its Relation to Overtraining and Overreaching
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 660
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '24.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Performance-Related Variables Affected by Overtraining and Overreaching
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 710
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '24.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Physiological Mechanisms Associated With Overreaching and Overtraining
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 700
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '24.8'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Assessment of Overreaching and Overtraining
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 430
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '24.9'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Recovery Methods and Strategies
+    pdf_pages:
+      start: 1679
+      end: 1726
+    estimated_complexity: 3
+    estimated_tokens: 310
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 25
+  title: Facility Design, Layout, and Organization
+  pdf_pages:
+    start: 1727
+    end: 1774
+    n_pages: 48
+  sections:
+  - id: '25.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - General Aspects of New Facility Design
+    pdf_pages:
+      start: 1727
+      end: 1774
+    estimated_complexity: 3
+    estimated_tokens: 380
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '25.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Existing Strength and Conditioning Facilities
+    pdf_pages:
+      start: 1727
+      end: 1774
+    estimated_complexity: 3
+    estimated_tokens: 450
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '25.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Satellite Training Facilities
+    pdf_pages:
+      start: 1727
+      end: 1774
+    estimated_complexity: 3
+    estimated_tokens: 290
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '25.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Outdoor Training Spaces
+    pdf_pages:
+      start: 1727
+      end: 1774
+    estimated_complexity: 3
+    estimated_tokens: 230
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '25.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Assessing Athletic Program Needs
+    pdf_pages:
+      start: 1727
+      end: 1774
+    estimated_complexity: 3
+    estimated_tokens: 320
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '25.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Designing the Strength and Conditioning Facility
+    pdf_pages:
+      start: 1727
+      end: 1774
+    estimated_complexity: 3
+    estimated_tokens: 480
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '25.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Arranging Equipment in the Strength and Conditioning Facility
+    pdf_pages:
+      start: 1727
+      end: 1774
+    estimated_complexity: 3
+    estimated_tokens: 610
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '25.8'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Maintaining and Cleaning Surfaces and Equipment
+    pdf_pages:
+      start: 1727
+      end: 1774
+    estimated_complexity: 3
+    estimated_tokens: 470
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+- id: 26
+  title: Facility Policies, Procedures, and Legal Issues
+  pdf_pages:
+    start: 1775
+    end: 1876
+    n_pages: 102
+  sections:
+  - id: '26.1'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Mission Statement and Program Goals
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 350
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.2'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Program Objectives
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 180
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.3'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Strength and Conditioning Performance Team
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 420
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.4'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Legal and Ethical Issues
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 240
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.5'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Staff Policies and Activities
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 290
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.6'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Facility Administration
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 230
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.7'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Emergency Planning and Response
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 310
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.8'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Answers to Study Questions
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 260
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.9'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Index
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 50
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.10'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - About the Editors
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 170
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.11'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Contributors
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 120
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending
+  - id: '26.12'
+    title: !!python/object/new:PyPDF2.generic._base.TextStringObject
+    - Contributors to Previous Editions
+    pdf_pages:
+      start: 1775
+      end: 1876
+    estimated_complexity: 3
+    estimated_tokens: 330
+    contains:
+      definitions: 'yes'
+      recommendations: 'no'
+      procedures: 'no'
+      tables: 'yes'
+      figures: 'yes'
+      thresholds: 'no'
+    status: pending

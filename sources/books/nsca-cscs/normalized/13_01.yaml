@@ -1,0 +1,593 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.test
+type: Concept
+canonical_name: Test
+semantic_type: Procedure
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 733
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A procedure for assessing ability in a particular endeavor.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.monitoring
+type: Concept
+canonical_name: Monitoring
+semantic_type: Process
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 733
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Taking repeat measures of an athlete to help guide the training process with appropriate data.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.field_test
+type: Concept
+canonical_name: Field Test
+semantic_type: Test
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 733
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.test
+definition: >
+  A test used to assess ability that is performed away from the laboratory and does not require extensive training or expensive equipment (11).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.measurement
+type: Concept
+canonical_name: Measurement
+semantic_type: Process
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 733
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The process of collecting test data (15).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.evaluation
+type: Concept
+canonical_name: Evaluation
+semantic_type: Process
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 733
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The process of analyzing test results for the purpose of making decisions. For example, a strength and conditioning professional examines the results of physical performance tests to determine whether the athlete's training program is effective in helping achieve the training goals or whether modifications in the program are needed.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pretest
+type: Concept
+canonical_name: Pretest
+semantic_type: Test
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 734
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.test
+definition: >
+  A test administered before the beginning of training to determine the athlete's initial basic ability levels. A pretest allows the strength and conditioning professional to design the training program in keeping with the athlete's initial training level and the overall program objectives.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.midtest
+type: Concept
+canonical_name: Midtest
+semantic_type: Test
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 734
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.test
+definition: >
+  A test administered one or more times during the training period to assess progress and modify the program as needed to maximize benefit.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.formative_evaluation
+type: Concept
+canonical_name: Formative Evaluation
+semantic_type: Process
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 734
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Periodic reevaluation based on midtests administered during the training, usually at regular intervals (2). It enables monitoring of the athlete's progress and adjustment of the training program according to the athlete's individual needs. It also allows evaluation of different training methods and collection of normative data. Regular modification of the training program based on formative evaluation keeps the training program fresh and interesting and helps avoid physical and mental staleness.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.posttest
+type: Concept
+canonical_name: Posttest
+semantic_type: Test
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 735
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.test
+definition: >
+  Test administered after the training period to determine the success of the training program in achieving the training objectives.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.validity
+type: Concept
+canonical_name: Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 736
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Validity refers to the degree to which a test or test item measures what it is supposed to measure and is one of the most important characteristics of testing (2, 25).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.construct_validity
+type: Concept
+canonical_name: Construct Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 736
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.validity
+definition: >
+  Construct validity is the ability of a test to represent the underlying construct (the theory developed to organize and explain some aspects of existing knowledge and observations). Construct validity refers to overall validity, or the extent to which the test actually measures what it was designed to measure (24).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.convergent_validity
+type: Concept
+canonical_name: Convergent Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 736
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.construct_validity
+definition: >
+  Convergent validity is evidenced by high positive correlations between results of the test being assessed and those of the recognized measure of the construct (the "gold standard").
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.discriminant_validity
+type: Concept
+canonical_name: Discriminant Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 736
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.construct_validity
+definition: >
+  Discriminant validity is the ability of a test to distinguish between two different constructs and is evidenced by a low correlation between the results of the test and those of tests of a different construct (2).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.face_validity
+type: Concept
+canonical_name: Face Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 737
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.validity
+definition: >
+  Face validity is the appearance to the athlete and other casual observers that the test measures what it is purported to measure.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.content_validity
+type: Concept
+canonical_name: Content Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 737
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.validity
+definition: >
+  Content validity is the assessment by experts that the testing covers all relevant subtopics or component abilities in appropriate proportions (1).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.criterion_validity
+type: Concept
+canonical_name: Criterion Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 737
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.validity
+definition: >
+  Criterion validity is the extent to which test scores are associated with some other measure of the same ability.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.concurrent_validity
+type: Concept
+canonical_name: Concurrent Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 738
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.criterion_validity
+definition: >
+  Concurrent validity is the extent to which test scores are associated with those of other accepted tests that measure the same ability.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.predictive_validity
+type: Concept
+canonical_name: Predictive Validity
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 738
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.criterion_validity
+definition: >
+  Predictive validity is the extent to which the test score corresponds with future behavior or performance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.reliability
+type: Concept
+canonical_name: Reliability
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 738
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Reliability is a measure of the degree of consistency or repeatability of a test (2, 8).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.intrasubject_variability
+type: Concept
+canonical_name: Intrasubject Variability
+semantic_type: Property
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 13
+  chapter_title: "Principles of Test Selection and Administration"
+  section: "13.1"
+  section_title: "Principles of Test Selection and Administration"
+  book_page: 739
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Intrasubject variability is a lack of consistent performance by the person being tested.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.interrater_reliability
+type: Concept
+canonical_name: Interrater Reliability
+semantic_type: Property
+aliases:
+  - objectivity
+  - interrater agreement

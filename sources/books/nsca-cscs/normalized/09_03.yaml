@@ -1,0 +1,673 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.attention
+type: Concept
+canonical_name: Attention
+semantic_type: Cognitive Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 486
+  pdf_page: 486
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Attention is defined as the processing of both external and internal cues that come to awareness.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.selective_attention
+type: Concept
+canonical_name: Selective Attention
+semantic_type: Cognitive Process
+aliases: ["level of focus"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 486
+  pdf_page: 486
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.attention
+
+definition: >
+  The ability to inhibit awareness of some stimuli in order to process others is termed selective attention, and it suppresses task-irrelevant cues (e.g., people on the sidelines, planes flying over the stadium) in order to process the task-relevant cues in the limited attentional space.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.selective_attention_level_of_focus
+type: Concept
+canonical_name: Selective Attention (Level of Focus)
+semantic_type: Cognitive Process
+aliases: ["level of focus"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 487
+  pdf_page: 487
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.selective_attention
+
+definition: >
+  Selective attention, commonly referred to by athletes as their level of focus, is the suppression of task-irrelevant stimuli and thoughts.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.diaphragmatic_breathing
+type: Concept
+canonical_name: Diaphragmatic Breathing
+semantic_type: Technique
+aliases: ["belly breathing"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 490
+  pdf_page: 490
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  One simple technique for reaching a higher level of physical and mental relaxation is diaphragmatic breathing (63). Referred to as belly breathing, this form of breathing is a basic stress management technique and a precursor to virtually all other mental training techniques.
+
+attributes: []
+
+purpose:
+  - reaching a higher level of physical relaxation
+  - reaching a higher level of mental relaxation
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.progressive_muscle_relaxation
+type: Concept
+canonical_name: Progressive Muscle Relaxation
+semantic_type: Technique
+aliases: ["PMR"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 491
+  pdf_page: 491
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Progressive muscle relaxation is a technique by which psychological and physical arousal are self-regulated through the control of skeletal muscle tension.
+
+attributes: []
+
+purpose:
+  - self-regulate psychological arousal
+  - self-regulate physical arousal
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.autogenic_training
+type: Concept
+canonical_name: Autogenic Training
+semantic_type: Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 492
+  pdf_page: 492
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This technique, referred to as autogenic training, consists of a series of exercises designed to produce physical sensations in the body—generally warmth and heaviness (64).
+
+attributes: []
+
+purpose:
+  - produce physical sensations in the body
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.systematic_desensitization
+type: Concept
+canonical_name: Systematic Desensitization
+semantic_type: Technique
+aliases: ["SD"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 493
+  pdf_page: 493
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Systematic desensitization combines mental and physical techniques that allow an athlete to replace a fear response to various cues with a relaxation response.
+
+attributes: []
+
+purpose:
+  - replace a fear response to various cues with a relaxation response
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.counterconditioning
+type: Concept
+canonical_name: Counterconditioning
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 493
+  pdf_page: 493
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.systematic_desensitization
+
+definition: >
+  This adaptive, learned replacement process, the principle behind SD, is called counterconditioning.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.imagery
+type: Concept
+canonical_name: Imagery
+semantic_type: Cognitive Skill
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 494
+  pdf_page: 494
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Imagery is a cognitive skill in which the athlete creates or re-creates an experience in his or her mind (64).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.self_confidence
+type: Concept
+canonical_name: Self-Confidence
+semantic_type: Psychological State
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 496
+  pdf_page: 496
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Self-confidence is the belief that one can successfully perform a desired behavior (64).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.self_efficacy
+type: Concept
+canonical_name: Self-Efficacy
+semantic_type: Psychological State
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 496
+  pdf_page: 496
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.self_confidence
+
+definition: >
+  Self-efficacy, a situationally specific form of self-confidence, is the perception of one’s ability to perform a given task in a specific situation (4).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.self_talk
+type: Concept
+canonical_name: Self-Talk
+semantic_type: Cognitive Process
+aliases: ["intrapersonal communication"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 498
+  pdf_page: 498
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Self-talk, or intrapersonal communication, is the inner dialogue we have with ourselves (64).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.goal_setting
+type: Concept
+canonical_name: Goal Setting
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 499
+  pdf_page: 499
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Goal setting can be characterized as a process whereby progressively challenging standards of performance are pursued with a defined criterion of task performance that increases the likelihood of perceived success (35).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.process_goals
+type: Concept
+canonical_name: Process Goals
+semantic_type: Goal Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 500
+  pdf_page: 500
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.goal_setting
+
+definition: >
+  Process goals are those over whose achievement the athlete has control. They focus on the actions the individual must engage in during performance to execute the skill well.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.outcome_goals
+type: Concept
+canonical_name: Outcome Goals
+semantic_type: Goal Type
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 500
+  pdf_page: 500
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.goal_setting
+
+definition: >
+  On the other hand, outcome goals are ones over which the athlete has little control; typically, winning is the primary focus.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.reinforcement_strategy
+type: Recommendation
+canonical_name: Application of Positive and Negative Reinforcement
+semantic_type: Coaching Strategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 486
+  pdf_page: 486
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Coaches should generally subscribe to a reinforcement strategy to assist athletes to focus on what they do correctly. Punishment should be used sparingly, because it increases the likelihood that athletes will focus on what they are doing incorrectly.
+
+context: []
+
+rationale: []
+
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.arousal_control_techniques
+type: Recommendation
+canonical_name: Use of Arousal Control Techniques
+semantic_type: Performance Strategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 494
+  pdf_page: 494
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  An athlete should employ arousal reduction techniques when performing a new skill or one that is complex or when performing in high-pressure situations. Athletes should employ arousal enhancement techniques when executing simple skills, ones that are well learned, or in situations of minimal pressure.
+
+context: []
+
+rationale: []
+
+contraindications: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.diaphragmatic_breathing_technique
+type: Procedure
+canonical_name: Diaphragmatic Breathing Technique
+semantic_type: Relaxation Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Energy Management: Arousal and Anxiety"
+  section: "9.3"
+  section_title: "Energy Management: Arousal and Anxiety"
+  book_page: 491
+  pdf_page: 491
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+steps:
+  - step_number: 1
+    description: "Direct attention to the abdominal region."
+  - step_number: 2
+    description: "Start from a standing position so that breathing is not inhibited."
+  - step_number: 3
+    description: "Let the arms hang loosely and concentrate on relaxing, particularly in the neck and shoulder region, by first taking a couple of deep breaths."
+  - step_number: 4
+    description: "Relax the abdominal muscles so that they appear flaccid."
+  - step_number: 5
+    description: "Initiate each breath simultaneously with the relaxed protrusion of the abdomen; placing a hand on the abdomen gives feedback to ensure that the abdomen protrudes with the initiation of each breath."
+  - step_number: 6
+    description: "With each breath the abdomen should become naturally distended."
+  - step_number: 7
+    description: "When this portion of the technique is performed properly, the diaphragm (a muscle at the base of the lungs) contracts and drops, allowing a deeper breath to occur. This is the first stage of taking a maximal inhalation."
+  -

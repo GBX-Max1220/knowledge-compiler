@@ -1,0 +1,13 @@
+id: concept.saturated_fatty_acids
+type: Concept
+canonical_name: Saturated Fatty Acids
+semantic_type: Nutrient
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.3'
+  section_title: Macronutrients
+  book_page: 567

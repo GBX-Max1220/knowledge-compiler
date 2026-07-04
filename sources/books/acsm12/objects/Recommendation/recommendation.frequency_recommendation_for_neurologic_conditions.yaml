@@ -1,0 +1,41 @@
+id: recommendation.frequency_recommendation_for_neurologic_conditions
+type: Recommendation
+canonical_name: Frequency Recommendation for Neurologic Conditions
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Individuals with Neurologic Diseases
+  section: '11.4'
+  section_title: Exercise Prescription
+  book_page: 965
+  pdf_page: 965
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_for_individuals_with_neurologic_diseases
+definition: 'Aerobic exercise: 3–5 d·wk⁻¹. Resistance exercise: 2–3 d·wk⁻¹. Flexibility
+  exercise: 2–3 d·wk⁻¹ (with daily stretching preferred for those with spasticity).
+  Neuromotor exercise: 2–3 d·wk⁻¹.
+
+  '
+attributes:
+- aerobic exercise: 3–5 d·wk⁻¹
+- resistance exercise: 2–3 d·wk⁻¹
+- flexibility exercise: 2–3 d·wk⁻¹
+- flexibility exercise with spasticity: daily stretching preferred
+- neuromotor exercise: 2–3 d·wk⁻¹
+purpose:
+- specify frequency of exercise for individuals with neurologic conditions
+related_concepts:
+- concept.aerobic_exercise
+- concept.resistance_exercise
+- concept.flexibility_exercise
+- concept.neuromotor_exercise
+- concept.spasticity

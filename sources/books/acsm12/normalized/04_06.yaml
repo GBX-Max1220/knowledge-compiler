@@ -1,0 +1,638 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.absolute_indications_for_terminating_exercise_testing
+type: Threshold
+canonical_name: Absolute Indications for Terminating Exercise Testing
+semantic_type: Clinical Decision Rule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: threshold.drop_in_systolic_blood_pressure_of_10_mm_hg_from_baseline_with_ischemia
+  - predicate: has_attribute
+    target: threshold.moderate_to_severe_angina
+  - predicate: has_attribute
+    target: threshold.increasing_nervous_system_symptoms
+  - predicate: has_attribute
+    target: threshold.signs_of_poor_perfusion
+  - predicate: has_attribute
+    target: threshold.technical_difficulties_monitoring_ecg_or_systolic_blood_pressure
+  - predicate: has_attribute
+    target: threshold.subjects_request_to_stop
+  - predicate: has_attribute
+    target: threshold.sustained_ventricular_tachycardia
+  - predicate: has_attribute
+    target: threshold.st_elevation_1_mm_in_leads_without_diagnostic_q_waves
+  - predicate: has_attribute
+    target: threshold.st_or_qrs_changes_marked_st_depression_or_marked_axis_shift
+
+definition: >
+  Absolute Indications for Terminating Exercise Testing
+
+attributes: []
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.relative_indications_for_terminating_exercise_testing
+type: Threshold
+canonical_name: Relative Indications for Terminating Exercise Testing
+semantic_type: Clinical Decision Rule
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: threshold.drop_in_systolic_blood_pressure_of_10_mm_hg_from_baseline_without_ischemia
+  - predicate: has_attribute
+    target: threshold.st_or_qrs_changes_excessive_st_depression_or_marked_axis_shift
+  - predicate: has_attribute
+    target: threshold.arrhythmias_other_than_sustained_ventricular_tachycardia
+  - predicate: has_attribute
+    target: threshold.fatigue_shortness_of_breath_wheezing_leg_cramps_or_claudication
+  - predicate: has_attribute
+    target: threshold.development_of_bundle_branch_block
+  - predicate: has_attribute
+    target: threshold.increasing_chest_pain
+  - predicate: has_attribute
+    target: threshold.hypertensive_response_systolic_blood_pressure_250_mm_hg_diastolic_115_mm_hg
+
+definition: >
+  Relative Indications for Terminating Exercise Testing
+
+attributes: []
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hypertensive_response_systolic_blood_pressure_250_mm_hg_diastolic_115_mm_hg
+type: Threshold
+canonical_name: Hypertensive Response Thresholds for Test Termination
+semantic_type: Vital Sign Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.relative_indications_for_terminating_exercise_testing
+
+definition: >
+  Hypertensive response (systolic blood pressure >250 mm Hg; diastolic blood pressure >115 mm Hg)
+
+attributes:
+  - systolic blood pressure >250 mm Hg
+  - diastolic blood pressure >115 mm Hg
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.st_elevation_1_mm_in_leads_without_diagnostic_q_waves
+type: Threshold
+canonical_name: ST Elevation Threshold for Test Termination
+semantic_type: ECG Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  ST elevation (≥1 mm) in leads without diagnostic Q waves (other than V1 or aVR)
+
+attributes:
+  - ST elevation ≥1 mm
+  - leads without diagnostic Q waves
+  - other than V1 or aVR
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.st_or_qrs_changes_marked_st_depression_or_marked_axis_shift
+type: Threshold
+canonical_name: ST Depression Threshold for Test Termination
+semantic_type: ECG Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  ST or QRS changes such as marked ST depression (>2 mm of horizontal or downsloping ST-segment depression) or marked axis shift
+
+attributes:
+  - ST depression >2 mm
+  - horizontal ST-segment depression
+  - downsloping ST-segment depression
+  - marked axis shift
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.drop_in_systolic_blood_pressure_of_10_mm_hg_from_baseline_with_ischemia
+type: Threshold
+canonical_name: Systolic Blood Pressure Drop Threshold for Test Termination (with ischemia)
+semantic_type: Vital Sign Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood pressure despite an increase in workload, when accompanied by other evidence of ischemia
+
+attributes:
+  - drop in systolic blood pressure ≥10 mm Hg
+  - from baseline systolic blood pressure
+  - despite an increase in workload
+  - accompanied by other evidence of ischemia
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.drop_in_systolic_blood_pressure_of_10_mm_hg_from_baseline_without_ischemia
+type: Threshold
+canonical_name: Systolic Blood Pressure Drop Threshold for Test Termination (without ischemia)
+semantic_type: Vital Sign Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.relative_indications_for_terminating_exercise_testing
+
+definition: >
+  Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood pressure despite an increase in workload, in the absence of other evidence of ischemia
+
+attributes:
+  - drop in systolic blood pressure ≥10 mm Hg
+  - from baseline systolic blood pressure
+  - despite an increase in workload
+  - in the absence of other evidence of ischemia
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.moderate_to_severe_angina
+type: Threshold
+canonical_name: Moderate-to-Severe Angina
+semantic_type: Symptom Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  Moderate-to-severe angina (see Table 4.1)
+
+attributes:
+  - moderate-to-severe angina
+
+purpose:
+  - terminate exercise testing
+
+related_concepts:
+  - table_row.table_4_1
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.increasing_nervous_system_symptoms
+type: Threshold
+canonical_name: Increasing Nervous System Symptoms
+semantic_type: Symptom Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  Increasing nervous system symptoms (e.g., ataxia, dizziness, or near-syncope)
+
+attributes:
+  - increasing nervous system symptoms
+  - ataxia
+  - dizziness
+  - near-syncope
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.signs_of_poor_perfusion
+type: Threshold
+canonical_name: Signs of Poor Perfusion
+semantic_type: Clinical Sign Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  Signs of poor perfusion (cyanosis or pallor)
+
+attributes:
+  - signs of poor perfusion
+  - cyanosis
+  - pallor
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.technical_difficulties_monitoring_ecg_or_systolic_blood_pressure
+type: Threshold
+canonical_name: Technical Difficulties Monitoring ECG or Systolic Blood Pressure
+semantic_type: Technical Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  Technical difficulties monitoring the ECG or systolic blood pressure
+
+attributes:
+  - technical difficulties monitoring ECG
+  - technical difficulties monitoring systolic blood pressure
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.subjects_request_to_stop
+type: Threshold
+canonical_name: Subject's Request to Stop
+semantic_type: Patient-Reported Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  Subject's request to stop
+
+attributes: []
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.sustained_ventricular_tachycardia
+type: Threshold
+canonical_name: Sustained Ventricular Tachycardia
+semantic_type: Arrhythmia Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.absolute_indications_for_terminating_exercise_testing
+
+definition: >
+  Sustained ventricular tachycardia
+
+attributes:
+  - sustained ventricular tachycardia
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.st_or_qrs_changes_excessive_st_depression_or_marked_axis_shift
+type: Threshold
+canonical_name: ST or QRS Changes Excessive ST Depression or Marked Axis Shift
+semantic_type: ECG Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.relative_indications_for_terminating_exercise_testing
+
+definition: >
+  ST or QRS changes such as excessive ST depression (>2 mm of horizontal or downsloping ST-segment depression) or marked axis shift
+
+attributes:
+  - ST depression >2 mm
+  - horizontal ST-segment depression
+  - downsloping ST-segment depression
+  - marked axis shift
+
+purpose:
+  - terminate exercise testing
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.arrhythmias_other_than_sustained_ventricular_tachycardia
+type: Threshold
+canonical_name: Arrhythmias Other Than Sustained Ventricular Tachycardia
+semantic_type: Arrhythmia Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health Screening and Risk Classification"
+  section: "4.6"
+  section_title: "Monitoring and Test Termination"
+  book_page: 285
+  pdf_page: 285
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: threshold.relative_indications_for_terminating_exercise_testing
+
+definition: >
+  Arrhythmias other than sustained ventricular tachycardia, including multifocal PVCs, triplets

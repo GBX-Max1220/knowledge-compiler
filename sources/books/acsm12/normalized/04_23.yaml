@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: figure.clinical_exercise_tests_with_imaging
+type: Figure
+canonical_name: Clinical Exercise Tests With Imaging
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Clinical Exercise Testing and Interpretation"
+  section: "4.23"
+  section_title: "Clinical Exercise Tests With Imaging"
+  book_page: 316
+  pdf_page: 316
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 4.23 — Clinical Exercise Tests With Imaging
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

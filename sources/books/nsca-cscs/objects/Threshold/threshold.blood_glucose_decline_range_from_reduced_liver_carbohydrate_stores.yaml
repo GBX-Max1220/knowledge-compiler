@@ -1,0 +1,27 @@
+id: threshold.blood_glucose_decline_range_from_reduced_liver_carbohydrate_stores
+type: Threshold
+canonical_name: Blood Glucose Decline Range from Reduced Liver Carbohydrate Stores
+semantic_type: Decline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Substrate Depletion and Repletion
+  section: '3.3'
+  section_title: Substrate Depletion and Repletion
+  book_page: 205
+  pdf_page: 205
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: 2.5 to 3.0 mmol/L
+unit: mmol/L
+condition: Reduced liver carbohydrate stores

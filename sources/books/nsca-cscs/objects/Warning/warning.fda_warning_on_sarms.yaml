@@ -1,0 +1,32 @@
+id: warning.fda_warning_on_sarms
+type: Warning
+canonical_name: FDA Warning on SARMs
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 685
+  pdf_page: 685
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: 'The FDA issued a warning to consumers that SARMs have been associated
+  with serious or life-threatening health problems that include increased risk of
+  heart attack or stroke, liver injury, sleep disturbances, sexual dysfunction, and
+  miscarriage.
+
+  '
+severity: serious
+affected_population: consumers

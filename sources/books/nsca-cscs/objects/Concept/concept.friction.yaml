@@ -1,0 +1,28 @@
+id: concept.friction
+type: Concept
+canonical_name: Friction
+semantic_type: PhysicalPhenomenon
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 156
+  pdf_page: 156
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Friction is the force that resists sliding and is encountered when one
+  attempts to move an object whose surface is pressed against the surface of another
+  object.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

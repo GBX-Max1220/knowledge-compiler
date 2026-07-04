@@ -1,0 +1,36 @@
+id: concept.sarcoplasmic_reticulum
+type: Concept
+canonical_name: Sarcoplasmic Reticulum
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.5
+  section_title: Sectional view of a muscle fiber
+  book_page: 50
+  pdf_page: 50
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Each myofibril is encased by an intricate system of tubules, called the
+  sarcoplasmic reticulum (figure 1.5, page 5), which terminates as vesicles in the
+  vicinity of the Z-lines. Calcium ions are stored in the sarcoplasmic reticulum,
+  and muscle activation leads to the release of these calcium stores to facilitate
+  muscular contraction.
+
+  '
+attributes:
+- intricate_system_of_tubules
+- stores_calcium_ions
+purpose:
+- store calcium ions
+- release calcium ions for muscular contraction
+related_concepts:
+- concept.myofibril
+- concept.z_line

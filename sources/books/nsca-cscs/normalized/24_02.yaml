@@ -1,0 +1,525 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.overreaching
+type: Concept
+canonical_name: Overreaching
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1691
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.overtraining_continuum
+definition: >
+  A lesser form of stressful training than overtraining is called overreaching (OR) and is defined as follows: An accumulation of training and/or non-training stress resulting in short-term decrement in performance capacity with or without related physiological and psychological signs and symptoms of maladaptation in which restoration of performance capacity may take from several days to several weeks (88, 89).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.functional_overreaching
+  - concept.nonfunctional_overreaching
+  - concept.performance_stagnation
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.functional_overreaching
+type: Concept
+canonical_name: Functional Overreaching
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1692
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.overreaching
+definition: >
+  Functional overreaching (FOR) can be beneficial provided appropriate recovery is allowed.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.nonfunctional_overreaching
+type: Concept
+canonical_name: Nonfunctional Overreaching
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1692
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.overreaching
+definition: >
+  Nonfunctional overreaching (NFOR) is somewhat similar to functional overreaching with two very important differences. First, the short-term accumulated fatigue is greater, and, second, the recovery takes longer (88, 89, 126). In the case of NFOR, the individual does not experience any super compensation and is only able to return to his or her baseline performance levels (see figure 24.1 on page 778) (88, 89, 93, 108, 125, 126).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.performance_stagnation
+type: Concept
+canonical_name: Performance Stagnation
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1691
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.overreaching
+definition: >
+  The most subtle type is performance stagnation.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sympathetic_overtraining_syndrome
+type: Concept
+canonical_name: Sympathetic Overtraining Syndrome
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1691
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.overtraining_continuum
+definition: >
+  The primary characteristic of sympathetic overtraining syndrome is an increased epinephrine response to exercise and training (36, 37, 38, 40, 41, 139).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.allostatic_load
+type: Concept
+canonical_name: Allostatic Load
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1698
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A simple description of the allostatic load is the wear and tear on the body (103).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.overtraining_continuum
+type: Concept
+canonical_name: Overtraining Continuum
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1694
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  All the different types and severities of overtraining and overreaching can collectively make an overtraining continuum (figure 24.7).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.overreaching
+  - concept.sympathetic_overtraining_syndrome
+  - concept.parasympathetic_overtraining_syndrome
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_24_6
+type: Concept
+canonical_name: Figure 24.6
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1691
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Different types of performance impairment due to an overtraining syndrome. Being overreached or overtrained results in decreased performance. The primary differences include the recovery times, whether performance is ultimately enhanced, and the magnitude of other symptoms that occur.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_24_7
+type: Concept
+canonical_name: Figure 24.7
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1694
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The overreaching/overtraining continuum. SOTS = sympathetic overtraining syndrome; POTS = parasympathetic overtraining syndrome.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_24_8
+type: Concept
+canonical_name: Figure 24.8
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1696
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Although many factors can contribute to poor performance, overtraining, as the name implies, is due to excessive training, inadequate recovery, or both.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_24_9
+type: Concept
+canonical_name: Figure 24.9
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1697
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Excessive levels of training volume and intensity can contribute to overtraining.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_24_10
+type: Concept
+canonical_name: Figure 24.10
+semantic_type: Figure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1699
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Allostatic load includes all contributing factors to overtraining and overtraining syndrome (OTS). Solid lines notate required factors or direct causes. Dashed lines show contributing factors, not direct causes.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: risk_factor.training_volume_and_intensity
+type: RiskFactor
+canonical_name: Training Volume and Intensity
+semantic_type: RiskFactor
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1697
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: contributes_to
+    target: concept.overtraining
+definition: >
+  Excessive amounts of either training volume or intensity can combine to produce an overtraining stimulus.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: risk_factor.lack_of_variation_in_training_load
+type: RiskFactor
+canonical_name: Lack of Variation in Training Load
+semantic_type: RiskFactor
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1697
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: contributes_to
+    target: concept.overtraining
+definition: >
+  Another training error is a lack of variation in the training load (126), which can be quantified by calculating the coefficient of variation (%CV; SD/ x–) for the training load (29, 82, 139).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: risk_factor.allostatic_load
+type: RiskFactor
+canonical_name: Allostatic Load
+semantic_type: RiskFactor
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1698
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: contributes_to
+    target: concept.overtraining
+definition: >
+  Collectively, the allostatic load can create a large stress that must be considered by the strength and conditioning professional when planning training programs to avoid overtraining.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.functional_overreaching
+type: Recommendation
+canonical_name: Functional Overreaching
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1692
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Functional overreaching (FOR) can be beneficial provided appropriate recovery is allowed.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.recognizing_red_s
+type: Recommendation
+canonical_name: Recognizing RED-S
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1693
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  To adequately address the serious condition of RED-S, trained professionals need to be involved, but the strength and conditioning professional must be able to recognize when help of this type is needed.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.coefficient_of_variation
+type: Formula
+canonical_name: Coefficient of Variation
+semantic_type: Formula
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: "Overtraining"
+  section: "24.2"
+  section_title: "Functional Overreaching"
+  book_page: 1697
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  coefficient of variation (%CV; SD/ x–) for the training load (29, 82, 139).
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,27 @@
+id: concept.proprioceptors
+type: Concept
+canonical_name: Proprioceptors
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 64
+  pdf_page: 64
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Proprioceptors are specialized sensory receptors located within joints,
+  muscles, and tendons.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

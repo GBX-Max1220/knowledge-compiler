@@ -1,0 +1,596 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.core_exercises
+type: Concept
+canonical_name: Core Exercises
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1203
+  pdf_page: 1203
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Core exercises recruit one or more large muscle areas (i.e., chest, shoulder, back, hip, or thigh), involve two or more primary joints (multijoint exercises; e.g., split squat, bench press, bent-over row), and receive priority when one is selecting exercises because of their direct application to the sport and enhanced dynamic correspondence (i.e., transference of gym-based training to improved performance in athletic tasks).
+
+attributes:
+  - recruits large muscle areas
+  - involves two or more primary joints
+  - multijoint exercises
+  - receives priority in exercise selection
+  - direct application to sport
+  - enhanced dynamic correspondence
+
+purpose:
+  - improve performance in athletic tasks
+
+related_concepts:
+  - concept.assistance_exercises
+  - concept.structural_exercise
+  - concept.power_exercise
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.assistance_exercises
+type: Concept
+canonical_name: Assistance Exercises
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1203
+  pdf_page: 1203
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Assistance exercises usually recruit smaller muscle areas (i.e., upper arm, abdominal muscles, calf, neck, forearm, lower back, or anterior lower leg), involve only one primary joint (single-joint exercises; e.g., knee extension and flexion, biceps curls), and are considered less important for improving sport performance.
+
+attributes:
+  - recruits smaller muscle areas
+  - involves only one primary joint
+  - single-joint exercises
+  - considered less important for improving sport performance
+
+purpose:
+  - injury prevention
+  - rehabilitation
+
+related_concepts:
+  - concept.core_exercises
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.structural_exercise
+type: Concept
+canonical_name: Structural Exercise
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1205
+  pdf_page: 1205
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.core_exercises
+
+definition: >
+  A core exercise that emphasizes loading the spine directly (e.g., back squat) or indirectly (e.g., power clean) can be further described as a structural exercise. More specifically, a structural exercise involves muscular stabilization of posture during performance of the lifting movement (e.g., maintaining a rigid torso and a neutral spine during the back squat).
+
+attributes:
+  - emphasizes loading the spine directly or indirectly
+  - involves muscular stabilization of posture during performance of the lifting movement
+
+purpose: []
+
+related_concepts:
+  - concept.power_exercise
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.power_exercise
+type: Concept
+canonical_name: Power Exercise
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1205
+  pdf_page: 1205
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.structural_exercise
+
+definition: >
+  A structural exercise that is performed very quickly or explosively is considered a power exercise.
+
+attributes:
+  - performed very quickly or explosively
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.emphasis_on_strength_development_for_weak_athletes
+type: Recommendation
+canonical_name: Emphasis on Strength Development for Weak Athletes
+semantic_type: Training Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1205
+  pdf_page: 1205
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  It should be noted, however, that in weak athletes, or those with a low training age, emphasizing strength development has been shown to enhance power output to an equal or greater extent than ballistic training (26, 28, 29).
+
+context:
+  population: weak athletes or those with a low training age
+  goal: enhance power output
+
+citations:
+  - "26"
+  - "28"
+  - "29"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.use_of_ballistic_tasks_for_power_development
+type: Recommendation
+canonical_name: Use of Ballistic Tasks for Power Development
+semantic_type: Training Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1205
+  pdf_page: 1205
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  As such, ballistic tasks that emphasize movement velocity (e.g., loaded jumps) should be programmed to emphasize power development.
+
+context:
+  goal: emphasize power development
+
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.use_of_semi_ballistic_exercises_for_power_development
+type: Recommendation
+canonical_name: Use of Semi-Ballistic Exercises for Power Development
+semantic_type: Training Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1205
+  pdf_page: 1205
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Semi-ballistic exercises, such as weightlifting exercises and their derivatives, can also be used effectively for the development of power because they provide the potential to emphasize a velocity- or force-dominant stimulus (figure 18.6) (21, 170-173).
+
+context:
+  goal: development of power
+
+citations:
+  - "21"
+  - "170-173"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.application_of_assistance_exercises_for_injury_prevention_and_rehabilitation
+type: Recommendation
+canonical_name: Application of Assistance Exercises for Injury Prevention and Rehabilitation
+semantic_type: Training Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1203
+  pdf_page: 1203
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  A common application of assistance exercises is for injury prevention and rehabilitation, because these exercises often isolate a specific muscle or muscle group. The muscles that are predisposed to injury from the unique demands of a sport skill (e.g., the shoulder external rotators for overhand pitching) or those that require reconditioning after an injury (e.g., a quadriceps contusion) can be specifically conditioned by an assistance exercise. However, it is important that the chosen exercises improve a physical characteristic within the program (flexibility, strength, etc.) and that the professional prescribes them appropriately with specific volumes and intensities.
+
+context:
+  application: injury prevention and rehabilitation
+
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.training_status
+type: Concept
+canonical_name: Training Status
+semantic_type: Condition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1196
+  pdf_page: 1196
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  An athlete's current condition or level of preparedness to begin a new or revised program (training status) is an important consideration in the design of training programs.
+
+attributes: []
+
+purpose:
+  - important consideration in the design of training programs
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_status_beginner
+type: TableRow
+canonical_name: Resistance Training Status Beginner
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1196
+  pdf_page: 1196
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.resistance_training_status_intermediate
+
+table_id: "Table 18.1"
+row_data:
+  resistance_training_status: Beginner (untrained)
+  resistance_training_background: Not training or just began training
+  training_age: "<2 months"
+  frequency_per_week: "≤1-2"
+  training_stress: None or low
+  technique_experience_and_skill: None or minimal
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_status_intermediate
+type: TableRow
+canonical_name: Resistance Training Status Intermediate
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1196
+  pdf_page: 1196
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.resistance_training_status_beginner
+  - predicate: adjacent_to
+    target: table_row.resistance_training_status_advanced
+
+table_id: "Table 18.1"
+row_data:
+  resistance_training_status: Intermediate (moderately resistance trained)
+  resistance_training_background: Currently training
+  training_age: "2-6 months"
+  frequency_per_week: "≤2-3"
+  training_stress: Medium
+  technique_experience_and_skill: Basic
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_status_advanced
+type: TableRow
+canonical_name: Resistance Training Status Advanced
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1196
+  pdf_page: 1196
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.resistance_training_status_intermediate
+
+table_id: "Table 18.1"
+row_data:
+  resistance_training_status: Advanced (well resistance trained)
+  resistance_training_background: Currently training
+  training_age: "≥1 year"
+  frequency_per_week: "≥3-4"
+  training_stress: High
+  technique_experience_and_skill: High
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.training_priorities_off_season
+type: TableRow
+canonical_name: Training Priorities Off-Season
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1201
+  pdf_page: 1201
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.training_priorities_preseason
+
+table_id: "Table 18.2"
+row_data:
+  sport_season: Off-season
+  priority_given_to_sport_practice: Low
+  priority_given_to_resistance_training: High
+  resistance_training_goal: Hypertrophy and muscular endurance (initially); strength and power (later)
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.training_priorities_preseason
+type: TableRow
+canonical_name: Training Priorities Preseason
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1201
+  pdf_page: 1201
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.training_priorities_off_season
+  - predicate: adjacent_to
+    target: table_row.training_priorities_in_season
+
+table_id: "Table 18.2"
+row_data:
+  sport_season: Preseason
+  priority_given_to_sport_practice: Medium
+  priority_given_to_resistance_training: Medium
+  resistance_training_goal: Sport and movement specific (i.e., strength, power, or muscular endurance, depending on the sport)
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.training_priorities_in_season
+type: TableRow
+canonical_name: Training Priorities In-Season
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 1201
+  pdf_page: 1201
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.training_priorities_preseason
+  - predicate: adjacent_to
+    target: table_row.training_priorities_postseason
+
+table_id: "Table 18.2"
+row_data:
+  sport_season: In-season
+  priority_given_to_sport_practice: High
+  priority_given_to_resistance_training: Low
+  resistance_training_goal: Maintenance of preseason training goal; if in-season is long, these goals may alternate between different characteristics (e.g., strength and power)
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.training_priorities_postseason
+type: TableRow
+canonical_name: Training Priorities Postseason
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.2"
+  section_title: "Step 2: Exercise Selection"
+  book_page: 

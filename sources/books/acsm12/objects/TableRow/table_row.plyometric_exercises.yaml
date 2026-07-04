@@ -1,0 +1,38 @@
+id: table_row.plyometric_exercises
+type: TableRow
+canonical_name: Plyometric Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Plyometric exercises are explosive resistance training exercises that
+  involve rapid stretching of a muscle (eccentric phase) followed immediately by a
+  forceful contraction (concentric phase). This stretch-shortening cycle enhances
+  power output. Examples include box jumps, depth jumps, and medicine ball throws.
+
+  '
+attributes:
+- explosive_movements
+- stretch_shortening_cycle
+- rapid_eccentric_to_concentric_transition
+purpose:
+- develop muscular power
+- improve athletic performance
+- enhance reactive ability
+related_concepts:
+- concept.resistance_training
+- concept.power_training
+- concept.stretch_shortening_cycle

@@ -1,0 +1,33 @@
+id: recommendation.general_exercise_prescription_recommendations_for_healthy_populations
+type: Recommendation
+canonical_name: General Exercise Prescription Recommendations for Healthy Populations
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Exercise Prescription
+  section: '6.14'
+  section_title: Exercise Prescription
+  book_page: 460
+  pdf_page: 460
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: recommendation.exercise_prescription
+definition: 'The general recommendations for exercise prescription for healthy populations
+  are summarized in Table 6.1. The FITT-VP principle (Frequency, Intensity, Time,
+  Type, Volume, and Progression) is used to provide the framework for the development
+  of an individualized exercise prescription.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.fitt_vp_principle
+- concept.exercise_prescription

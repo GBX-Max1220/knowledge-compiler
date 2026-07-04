@@ -1,0 +1,26 @@
+id: threshold.st_segment_elevation_precordial_leads
+type: Threshold
+canonical_name: ST Segment Elevation Precordial Leads
+semantic_type: ECG Waveform Measurement
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Electrocardiogram
+  section: '4.13'
+  section_title: Electrocardiogram
+  book_page: 298
+  pdf_page: 298
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'ST segment: elevation <2 mm in precordial leads.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

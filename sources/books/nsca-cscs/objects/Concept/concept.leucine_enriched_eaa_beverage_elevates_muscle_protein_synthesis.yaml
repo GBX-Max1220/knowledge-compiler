@@ -1,0 +1,32 @@
+id: concept.leucine_enriched_eaa_beverage_elevates_muscle_protein_synthesis
+type: Concept
+canonical_name: Leucine-Enriched EAA Beverage Elevates Muscle Protein Synthesis
+semantic_type: Research Finding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Dietary Supplements
+  section: '12.3'
+  section_title: Dietary Supplements
+  book_page: 701
+  pdf_page: 701
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Pasiakos and colleagues (166) reported that a leucine-enriched EAA beverage
+  resulted in a significant elevation of muscle protein synthesis compared to a normal
+  leucine-containing EAA beverage. In this study, trained males ingested one of two
+  different 10-gram EAA beverages during cycling exercise—one containing 3.5 grams
+  of leucine (46 mg/kg body mass) and the other containing 1.87 grams of leucine (~25
+  mg/kg body mass). After the exercise bout (during a 3-hr assessment period), muscle
+  protein synthesis was 33% greater in the leucine-enriched EAA beverage.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

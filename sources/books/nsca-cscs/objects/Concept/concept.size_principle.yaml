@@ -1,0 +1,28 @@
+id: concept.size_principle
+type: Concept
+canonical_name: Size Principle
+semantic_type: Principle
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 60
+  pdf_page: 60
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Weighted contractions will recruit both lower threshold slow-twitch and
+  higher threshold fast-twitch motor units.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.motor_unit_recruitment

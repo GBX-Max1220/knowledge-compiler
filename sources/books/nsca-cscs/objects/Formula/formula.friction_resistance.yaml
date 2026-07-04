@@ -1,0 +1,35 @@
+id: formula.friction_resistance
+type: Formula
+canonical_name: Friction Resistance Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 156
+  pdf_page: 156
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: describes
+  target: concept.friction
+definition: ''
+formula_text: FR = k × FN (2.9)
+variables:
+- symbol: FR
+  description: Friction resistance force
+- symbol: k
+  description: Constant
+- symbol: FN
+  description: Normal force
+units: []
+purpose: []
+related_concepts:
+- concept.friction

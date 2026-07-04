@@ -1,0 +1,158 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.aerobic_exercise_progression_rate_based_on_fitness_level
+type: Threshold
+canonical_name: Aerobic Exercise Progression Rate Based on Fitness Level
+semantic_type: Progression Rate
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Progression of Aerobic Exercise"
+  section: "5.17"
+  section_title: "Progression of Aerobic Exercise"
+  book_page: 362
+  pdf_page: 362
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.aerobic_exercise_progression_rate_for_low_to_moderate_fitness_individuals
+  - predicate: adjacent_to
+    target: threshold.aerobic_exercise_progression_rate_for_higher_fitness_individuals
+
+definition: >
+  The rate of progression depends on the individual's fitness level, health status, age, and goals. For apparently healthy individuals, the duration of exercise can be increased by 5–10 min every 1–2 weeks, especially during the first 4–6 wk of an exercise program.
+
+attributes:
+  - progression_rate
+  - duration_increase
+  - frequency
+
+purpose:
+  - guide aerobic exercise progression
+
+related_concepts:
+  - concept.aerobic_exercise
+  - concept.fitness_level
+
+threshold_value:
+  value: "5–10 min every 1–2 weeks"
+  unit: "min/week"
+  condition: "apparently healthy individuals, especially during first 4–6 wk of exercise program"
+  context: "duration increase per 1–2 weeks"
+
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.aerobic_exercise_progression_rate_for_low_to_moderate_fitness_individuals
+type: Threshold
+canonical_name: Aerobic Exercise Progression Rate for Low-to-Moderate Fitness Individuals
+semantic_type: Progression Rate
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Progression of Aerobic Exercise"
+  section: "5.17"
+  section_title: "Progression of Aerobic Exercise"
+  book_page: 362
+  pdf_page: 362
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.aerobic_exercise_progression_rate_based_on_fitness_level
+  - predicate: adjacent_to
+    target: threshold.aerobic_exercise_progression_rate_for_higher_fitness_individuals
+
+definition: >
+  For individuals with low to moderate fitness, a more gradual increase of 5–10 min every 2–4 wk is recommended.
+
+attributes:
+  - progression_rate
+  - duration_increase
+  - frequency
+
+purpose:
+  - guide aerobic exercise progression for low to moderate fitness individuals
+
+related_concepts:
+  - concept.aerobic_exercise
+  - concept.low_fitness
+  - concept.moderate_fitness
+
+threshold_value:
+  value: "5–10 min every 2–4 weeks"
+  unit: "min/week"
+  condition: "individuals with low to moderate fitness"
+  context: "duration increase per 2–4 weeks"
+
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.aerobic_exercise_progression_rate_for_higher_fitness_individuals
+type: Threshold
+canonical_name: Aerobic Exercise Progression Rate for Higher Fitness Individuals
+semantic_type: Progression Rate
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Progression of Aerobic Exercise"
+  section: "5.17"
+  section_title: "Progression of Aerobic Exercise"
+  book_page: 362
+  pdf_page: 362
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.aerobic_exercise_progression_rate_based_on_fitness_level
+  - predicate: adjacent_to
+    target: threshold.aerobic_exercise_progression_rate_for_low_to_moderate_fitness_individuals
+
+definition: >
+  For those with higher fitness levels, the duration can be increased more rapidly, such as 5–10 min every 1–2 wk.
+
+attributes:
+  - progression_rate
+  - duration_increase
+  - frequency
+
+purpose:
+  - guide aerobic exercise progression for higher fitness individuals
+
+related_concepts:
+  - concept.aerobic_exercise
+  - concept.higher_fitness
+
+threshold_value:
+  value: "5–10 min every 1–2 weeks"
+  unit: "min/week"
+  condition: "individuals with higher fitness levels"
+  context: "duration increase per 1–2 weeks"

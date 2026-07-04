@@ -1,0 +1,34 @@
+id: threshold.mes_bone_formation
+type: Threshold
+canonical_name: MES Threshold for Bone Formation
+semantic_type: Biological
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 311
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.minimal_essential_strain
+definition: ''
+threshold_type: stimulus
+value: ''
+unit: ''
+comparator: ''
+range: ''
+context: 'Consistently exceeding these thresholds signals osteoblasts to migrate to
+  the region experiencing the stress and to form bone, while forces that fall below
+  the MES do not present an appropriate stimulus for new bone formation.
+
+  '
+adjacent_to: []

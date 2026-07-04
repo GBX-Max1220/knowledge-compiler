@@ -1,0 +1,32 @@
+id: threshold.stage_1_hypertension
+type: Threshold
+canonical_name: Stage 1 Hypertension Threshold
+semantic_type: BloodPressure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.13'
+  section_title: Hypertension
+  book_page: 729
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.stages_of_hypertension
+- predicate: adjacent_to
+  target: threshold.stage_2_hypertension
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: SBP 130–139 mm Hg or DBP 80–89 mm Hg
+condition: Stage 1
+unit: mm Hg
+operator: range

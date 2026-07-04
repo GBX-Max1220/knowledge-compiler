@@ -1,0 +1,10 @@
+id: concept.thermoneutral
+type: Concept
+canonical_name: Thermoneutral
+semantic_type: EnvironmentalCondition
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38

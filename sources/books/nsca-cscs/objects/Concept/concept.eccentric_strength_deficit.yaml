@@ -1,0 +1,33 @@
+id: concept.eccentric_strength_deficit
+type: Concept
+canonical_name: Eccentric Strength Deficit
+semantic_type: Physiological Phenomenon
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1112
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.strength_deficit
+definition: 'This practice creates a unique loading problem because it is well documented
+  that muscles are stronger during eccentric (i.e., lengthening) versus concentric
+  (i.e., shortening) muscle actions, resulting in what is referred to as an eccentric
+  strength deficit (figure 17.5) (51, 91).
+
+  '
+attributes:
+- muscles stronger during eccentric vs concentric muscle actions
+purpose: []
+related_concepts:
+- concept.accentuated_eccentric_loading

@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.considerations_for_exercise_testing_and_prescription_for_transgender_and_gender_diverse_individuals_1
+type: TableRow
+canonical_name: Considerations for Exercise Testing and Prescription for Transgender and Gender Diverse Individuals Row 1
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: ""
+  section: "6.22"
+  section_title: "Transgender and Gender Diverse Individuals"
+  book_page: 484
+  pdf_page: 484
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 6.6 Considerations for Exercise Testing and Prescription for Transgender and Gender Diverse Individuals
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

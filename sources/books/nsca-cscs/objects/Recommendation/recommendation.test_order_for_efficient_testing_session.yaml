@@ -1,0 +1,32 @@
+id: recommendation.test_order_for_efficient_testing_session
+type: Recommendation
+canonical_name: Test Order for Efficient Testing Session
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 758
+  pdf_page: 758
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The test order should also be designed to require minimal recovery time
+  between tests, allowing for a more efficient testing session. An effort should be
+  made to administer fatiguing anaerobic capacity tests and aerobic tests on a different
+  day than the other tests. However, if performed on the same day, these tests should
+  be performed last, after an extended rest period.
+
+  '
+attributes: []
+purpose:
+- require minimal recovery time between tests
+- allow for a more efficient testing session
+related_concepts: []

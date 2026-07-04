@@ -1,0 +1,31 @@
+id: concept.anaerobic_muscular_power
+type: Concept
+canonical_name: Anaerobic or Maximum Muscular Power
+semantic_type: Physical Fitness Component
+aliases:
+- High-Speed Strength
+- Maximal Anaerobic Muscular Power
+- Anaerobic Power
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Athletic Performance
+  section: '14.1'
+  section_title: Measuring Parameters of Athletic Performance
+  book_page: 765
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'High-speed muscular strength or maximal anaerobic muscular power (or
+  anaerobic power) is related to the ability of muscle tissue to exert high force
+  while contracting at a high speed.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

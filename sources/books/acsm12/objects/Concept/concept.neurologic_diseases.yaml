@@ -1,0 +1,11 @@
+id: concept.neurologic_diseases
+type: Concept
+canonical_name: Neurologic Diseases
+semantic_type: Entity
+source:
+  book: ACSM Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  section: '1.0'
+  book_page: 1
+definition: Neurologic Diseases is a concept in exercise science.

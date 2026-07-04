@@ -1,0 +1,29 @@
+id: table_row.stretching_vs_alternatives_rom
+type: TableRow
+canonical_name: Comparison of Stretching and Alternative Modalities for Increasing
+  ROM
+semantic_type: Table
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Clinical Exercise Testing and Interpretation
+  section: '5.28'
+  section_title: Alternatives to Stretching to Increase ROM
+  book_page: 392
+  pdf_page: 392
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Table 5.5 provides a comparison of stretching and alternative modalities
+  for increasing range of motion (ROM).
+
+  '
+attributes: []
+purpose:
+- compare stretching and alternative modalities for increasing ROM
+related_concepts: []

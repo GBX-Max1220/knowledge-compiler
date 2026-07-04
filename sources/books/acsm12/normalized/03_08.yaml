@@ -1,0 +1,50 @@
+# ontology: knowledge-compiler/v1
+# Section: 3.8 — Resting HR and BP Measurement
+# Pages: 173–174
+
+---
+id: procedure.resting_blood_pressure
+type: Procedure
+canonical_name: Resting Blood Pressure Assessment
+semantic_type: Protocol
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "3.8"
+  section_title: "Resting HR and BP Measurement"
+  book_page: 174
+  pdf_page: 174
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+goal: Accurately measure resting blood pressure
+inputs:
+  - sphygmomanometer
+  - stethoscope
+  - appropriate cuff size
+outputs:
+  - systolic blood pressure
+  - diastolic blood pressure
+steps:
+  - Seat individual quietly for at least 5 minutes with back support, feet on floor, arm at heart level
+  - Ensure no smoking or caffeine for at least 30 minutes prior
+  - Select appropriate cuff size
+  - Place cuff snugly around upper arm
+  - Determine maximum inflation level
+  - Place stethoscope bell over brachial artery
+  - Inflate cuff to maximum inflation level
+  - Release pressure at 2-3 mm·sec⁻¹
+  - Record SBP at first Korotkoff sound (Phase I)
+  - Record DBP at disappearance of sound (Phase V)
+exceptions:
+  - Measuring supine and standing values may be indicated in certain populations

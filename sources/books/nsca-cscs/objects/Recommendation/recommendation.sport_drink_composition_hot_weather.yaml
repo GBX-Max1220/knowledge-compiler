@@ -1,0 +1,30 @@
+id: recommendation.sport_drink_composition_hot_weather
+type: Recommendation
+canonical_name: Sport Drink Composition for Prolonged Activity in Hot Weather (Recommendation)
+semantic_type: NutritionGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 630
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'During prolonged activity in hot weather, the Institute of Medicine recommends
+  sport drinks containing 20 to 30 mEq of sodium (460-690 mg with chloride as the
+  anion) per liter, 2 to 5 mEq of potassium (78-195 mg) per liter, and carbohydrate
+  in a concentration of 5% to 10% (2).
+
+  '
+attributes: []
+purpose:
+- maintain hydration during prolonged activity in hot weather
+related_concepts: []

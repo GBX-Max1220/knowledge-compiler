@@ -1,0 +1,26 @@
+id: table_row.interval_training_phosphagen
+type: TableRow
+canonical_name: Interval Training for Phosphagen System
+semantic_type: TrainingGuidelineRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetic Limiting Factors
+  section: '3.4'
+  section_title: Bioenergetic Limiting Factors
+  book_page: 218
+  pdf_page: 218
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_reference: Table 3.6
+row_data:
+  percent_max_power: 90-100
+  primary_system_stressed: Phosphagen
+  typical_exercise_time: 5-10 s
+  range_work_to_rest_ratios: 1:12 to 1:20

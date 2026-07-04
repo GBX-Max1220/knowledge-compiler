@@ -1,0 +1,30 @@
+id: table_row.fibromyalgia
+type: TableRow
+canonical_name: Fibromyalgia
+semantic_type: Medical Condition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Clinical Considerations for Special Populations
+  section: '10.13'
+  section_title: Fibromyalgia
+  book_page: 813
+  pdf_page: 813
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A chronic condition characterized by widespread musculoskeletal pain,
+  fatigue, and tenderness in localized areas. The table provides specific exercise
+  testing and prescription considerations for individuals with fibromyalgia.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.chronic_pain
+- concept.exercise_prescription

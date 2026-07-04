@@ -1,0 +1,33 @@
+id: concept.excess_postexercise_oxygen_consumption
+type: Concept
+canonical_name: Excess Postexercise Oxygen Consumption
+semantic_type: PhysiologicalPhenomenon
+aliases:
+- oxygen debt
+- recovery O2
+- EPOC
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetic Limiting Factors
+  section: '3.4'
+  section_title: Bioenergetic Limiting Factors
+  book_page: 211
+  pdf_page: 211
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Postexercise oxygen uptake has been termed the oxygen debt (85, 109),
+  recovery O2 (109), or the excess postexercise oxygen consumption (EPOC) (22). The
+  EPOC is the oxygen uptake above resting values used to restore homeostasis to the
+  pre-exercise condition (141).
+
+  '
+attributes: []
+purpose:
+- restore homeostasis to the pre-exercise condition
+related_concepts: []

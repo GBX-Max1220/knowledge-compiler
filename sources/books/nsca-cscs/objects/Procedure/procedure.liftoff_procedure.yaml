@@ -1,0 +1,32 @@
+id: procedure.liftoff_procedure
+type: Procedure
+canonical_name: Liftoff Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16'
+  section_title: Use of a Liftoff
+  book_page: 959
+  pdf_page: 959
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+procedure_text: 'Typically, the athlete signals that he or she is ready; the spotter
+  says, "One, two, three," and on "three" the bar is moved into position.
+
+  '
+steps:
+- step_number: 1
+  description: The athlete signals that he or she is ready.
+- step_number: 2
+  description: The spotter says, 'One, two, three.'
+- step_number: 3
+  description: On 'three,' the bar is moved into position.
+purpose:
+- move the bar into position for the athlete to begin the exercise

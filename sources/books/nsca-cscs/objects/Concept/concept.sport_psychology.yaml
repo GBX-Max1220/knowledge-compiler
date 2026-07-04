@@ -1,0 +1,28 @@
+id: concept.sport_psychology
+type: Concept
+canonical_name: Sport Psychology
+semantic_type: Discipline
+aliases: []
+source:
+  book: Essentials of Strength and Training Conditioning
+  edition: 5
+  chapter: 9
+  chapter_title: Psychological Foundations of Performance
+  section: '9.1'
+  section_title: Psychological Foundations of Performance
+  book_page: 467
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Sport psychology is a multifaceted discipline, drawing on constructs
+  of exercise science and psychological principles, that seeks to understand the influence
+  of behavioral processes and cognitions on sport performance.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

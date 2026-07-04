@@ -1,0 +1,27 @@
+id: recommendation.hydration_temperature_regulation
+type: Recommendation
+canonical_name: Hydration and Temperature Regulation
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Pay attention to hydration and temperature regulation, as some individuals
+  with ID may have impaired thermoregulation.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

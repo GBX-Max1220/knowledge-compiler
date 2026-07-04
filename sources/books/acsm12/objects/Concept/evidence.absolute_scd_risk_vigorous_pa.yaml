@@ -1,0 +1,26 @@
+id: evidence.absolute_scd_risk_vigorous_pa
+type: Concept
+canonical_name: Absolute SCD Risk During Vigorous PA
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.10'
+  section_title: Exercise-Related Cardiac Events in Adults
+  book_page: 95
+  pdf_page: 95
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: SCD occurs every 1.5 million episodes of vigorous PA in men and every
+  36.5 million episodes of MVPA in women. 1 death per 396,000 hours of jogging in
+  30- to 60-year-old men.
+attributes: []
+purpose: []
+related_concepts: []

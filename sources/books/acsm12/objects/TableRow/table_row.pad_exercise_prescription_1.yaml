@@ -1,0 +1,29 @@
+id: table_row.pad_exercise_prescription_1
+type: TableRow
+canonical_name: Exercise Prescription for Individuals With Peripheral Arterial Disease
+  - Row 1
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Prescription for Special Populations
+  section: '8.27'
+  section_title: Peripheral Arterial Disease
+  book_page: 605
+  pdf_page: 605
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Row 1 of Table 8.8: Exercise Prescription for Individuals With Peripheral
+  Arterial Disease.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.peripheral_arterial_disease

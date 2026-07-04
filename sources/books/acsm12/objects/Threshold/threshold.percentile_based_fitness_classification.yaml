@@ -1,0 +1,41 @@
+id: threshold.percentile_based_fitness_classification
+type: Threshold
+canonical_name: Percentile-Based Fitness Classification Thresholds
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Interpretation of Results
+  section: '3.21'
+  section_title: Interpretation of Results
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.very_poor_fitness_classification
+- predicate: adjacent_to
+  target: threshold.poor_fitness_classification
+- predicate: adjacent_to
+  target: threshold.fair_fitness_classification
+- predicate: adjacent_to
+  target: threshold.good_fitness_classification
+- predicate: adjacent_to
+  target: threshold.excellent_fitness_classification
+- predicate: adjacent_to
+  target: threshold.superior_fitness_classification
+definition: 'The classification categories are based on percentile rankings: Very
+  Poor (< 20th percentile), Poor (20th–39th percentile), Fair (40th–59th percentile),
+  Good (60th–79th percentile), Excellent (80th–94th percentile), and Superior (≥ 95th
+  percentile).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

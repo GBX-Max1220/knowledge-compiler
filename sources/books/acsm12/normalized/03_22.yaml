@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+# Section: 3.22 — Muscular Fitness
+# Pages: 228
+
+---
+id: concept.muscular_strength_endurance_power
+type: Concept
+canonical_name: Muscular Strength, Endurance, and Power
+semantic_type: Entity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "3.22"
+  section_title: "Muscular Fitness"
+  book_page: 228
+  pdf_page: 228
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: Muscular strength is the muscle's ability to exert maximal force. Muscular endurance is the muscle's capacity to continue to perform successive exertions against a submaximal load. Muscular power is the ability to exert force per unit of time.
+attributes:
+  - strength
+  - endurance
+  - power
+purpose: []
+related_concepts: []

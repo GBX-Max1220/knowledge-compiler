@@ -1,0 +1,38 @@
+id: table_row.parkinsons_disease_exercise_considerations
+type: TableRow
+canonical_name: Parkinson's Disease Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription for Special Populations
+  section: '11.19'
+  section_title: Exercise Training Considerations for Neurologic Diseases
+  book_page: 987
+  pdf_page: 987
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Exercise training considerations for Parkinson''s Disease, including
+  specific modifications and precautions for exercise prescription in this neurologic
+  condition.
+
+  '
+attributes:
+- disease: Parkinson's Disease
+- considerations: Balance impairment and risk of falls; rigidity and bradykinesia
+    may affect movement; medication timing affects motor function
+- recommendations: Aerobic exercise 3-5 days/week at moderate intensity; resistance
+    training 2-3 days/week; balance training; flexibility exercises; exercise during
+    'on' medication periods
+purpose:
+- guide exercise prescription for Parkinson's Disease
+- ensure safe and effective exercise training
+related_concepts:
+- concept.parkinsons_disease
+- concept.exercise_prescription

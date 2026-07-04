@@ -1,0 +1,35 @@
+id: concept.minimum_effective_dose
+type: Concept
+canonical_name: Minimum Effective Dose
+semantic_type: Principle
+aliases:
+- MED
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  book_page: 1514
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'MED was originally used in the pharmaceutical industry to reflect the
+  understanding that there is a minimum dose of medication needed to elicit the desired
+  physiological response; the use of medications results in varying side effects,
+  and the higher the dose of medication, the greater the side effects. In strength
+  and conditioning, this term has been adapted to applying the minimum amount of training
+  stimuli required to maximize adaptations while simultaneously minimizing the damage
+  and injury risks associated with training.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

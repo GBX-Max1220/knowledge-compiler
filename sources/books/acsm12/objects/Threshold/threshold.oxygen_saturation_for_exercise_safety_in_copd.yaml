@@ -1,0 +1,31 @@
+id: threshold.oxygen_saturation_for_exercise_safety_in_copd
+type: Threshold
+canonical_name: Oxygen Saturation Threshold for Exercise Safety in COPD
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Prescription for Special Populations
+  section: '8.44'
+  section_title: Chronic Obstructive Pulmonary Disease
+  book_page: 635
+  pdf_page: 635
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Thresholds for oxygen saturation (SpO2) during exercise, such as a cutoff
+  for desaturation requiring supplemental oxygen.
+
+  '
+attributes: []
+purpose:
+- ensure exercise safety in COPD patients
+related_concepts:
+- concept.chronic_obstructive_pulmonary_disease
+- concept.oxygen_saturation
+- concept.supplemental_oxygen

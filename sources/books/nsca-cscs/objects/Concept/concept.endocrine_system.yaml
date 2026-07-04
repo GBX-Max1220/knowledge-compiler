@@ -1,0 +1,27 @@
+id: concept.endocrine_system
+type: Concept
+canonical_name: Endocrine System
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.1'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 453
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The endocrine system is responsible for regulating physiological responses
+  and adaptations to the various stressors encountered, including physical activity.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

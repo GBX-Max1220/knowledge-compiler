@@ -1,0 +1,258 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.multiple_sclerosis_exercise_considerations
+type: TableRow
+canonical_name: Multiple Sclerosis Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "11.19"
+  section_title: "Exercise Training Considerations for Neurologic Diseases"
+  book_page: 987
+  pdf_page: 987
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise training considerations for Multiple Sclerosis, including specific modifications and precautions for exercise prescription in this neurologic condition.
+
+attributes:
+  - disease: "Multiple Sclerosis"
+  - considerations: "Heat sensitivity may exacerbate symptoms; avoid overheating during exercise; consider water-based or cooling strategies"
+  - recommendations: "Moderate-intensity aerobic exercise 2-3 days/week; resistance training 2 days/week; flexibility exercises; monitor for fatigue and heat intolerance"
+
+purpose:
+  - guide exercise prescription for Multiple Sclerosis
+  - ensure safe and effective exercise training
+
+related_concepts:
+  - concept.multiple_sclerosis
+  - concept.exercise_prescription
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.parkinsons_disease_exercise_considerations
+type: TableRow
+canonical_name: Parkinson's Disease Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "11.19"
+  section_title: "Exercise Training Considerations for Neurologic Diseases"
+  book_page: 987
+  pdf_page: 987
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise training considerations for Parkinson's Disease, including specific modifications and precautions for exercise prescription in this neurologic condition.
+
+attributes:
+  - disease: "Parkinson's Disease"
+  - considerations: "Balance impairment and risk of falls; rigidity and bradykinesia may affect movement; medication timing affects motor function"
+  - recommendations: "Aerobic exercise 3-5 days/week at moderate intensity; resistance training 2-3 days/week; balance training; flexibility exercises; exercise during 'on' medication periods"
+
+purpose:
+  - guide exercise prescription for Parkinson's Disease
+  - ensure safe and effective exercise training
+
+related_concepts:
+  - concept.parkinsons_disease
+  - concept.exercise_prescription
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.stroke_exercise_considerations
+type: TableRow
+canonical_name: Stroke Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "11.19"
+  section_title: "Exercise Training Considerations for Neurologic Diseases"
+  book_page: 987
+  pdf_page: 987
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise training considerations for Stroke, including specific modifications and precautions for exercise prescription in this neurologic condition.
+
+attributes:
+  - disease: "Stroke"
+  - considerations: "Hemiparesis or unilateral weakness; balance and coordination deficits; cognitive impairments may affect exercise adherence; risk of falls"
+  - recommendations: "Aerobic exercise 3-5 days/week at moderate intensity; resistance training 2-3 days/week; balance and coordination training; flexibility exercises; use of supportive devices as needed"
+
+purpose:
+  - guide exercise prescription for Stroke
+  - ensure safe and effective exercise training
+
+related_concepts:
+  - concept.stroke
+  - concept.exercise_prescription
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.spinal_cord_injury_exercise_considerations
+type: TableRow
+canonical_name: Spinal Cord Injury Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "11.19"
+  section_title: "Exercise Training Considerations for Neurologic Diseases"
+  book_page: 987
+  pdf_page: 987
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise training considerations for Spinal Cord Injury, including specific modifications and precautions for exercise prescription in this neurologic condition.
+
+attributes:
+  - disease: "Spinal Cord Injury"
+  - considerations: "Level of injury determines muscle function; autonomic dysreflexia risk; impaired thermoregulation; pressure ulcer risk; bowel and bladder considerations"
+  - recommendations: "Upper body aerobic exercise 3-5 days/week; resistance training for innervated muscles 2-3 days/week; flexibility exercises; monitor for autonomic dysreflexia; use appropriate seating and positioning"
+
+purpose:
+  - guide exercise prescription for Spinal Cord Injury
+  - ensure safe and effective exercise training
+
+related_concepts:
+  - concept.spinal_cord_injury
+  - concept.exercise_prescription
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.traumatic_brain_injury_exercise_considerations
+type: TableRow
+canonical_name: Traumatic Brain Injury Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "11.19"
+  section_title: "Exercise Training Considerations for Neurologic Diseases"
+  book_page: 987
+  pdf_page: 987
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise training considerations for Traumatic Brain Injury, including specific modifications and precautions for exercise prescription in this neurologic condition.
+
+attributes:
+  - disease: "Traumatic Brain Injury"
+  - considerations: "Cognitive impairments may affect learning and adherence; balance and coordination deficits; fatigue; behavioral or emotional changes; seizure risk"
+  - recommendations: "Aerobic exercise 3-5 days/week at moderate intensity; resistance training 2-3 days/week; balance and coordination training; flexibility exercises; structured and repetitive instructions; monitor for signs of overexertion"
+
+purpose:
+  - guide exercise prescription for Traumatic Brain Injury
+  - ensure safe and effective exercise training
+
+related_concepts:
+  - concept.traumatic_brain_injury
+  - concept.exercise_prescription
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.neurologic_disease_general_considerations
+type: TableRow
+canonical_name: Neurologic Disease General Exercise Considerations
+semantic_type: ClinicalGuideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "11.19"
+  section_title: "Exercise Training Considerations for Neurologic Diseases"
+  book_page: 987
+  pdf_page: 987
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  General exercise training considerations for neurologic diseases, including common modifications and precautions applicable across multiple conditions.
+
+attributes:
+  - disease: "General Neurologic Disease"
+  - considerations: "Individualized exercise prescription based on disease severity and progression; monitor for fatigue, balance impairment, and fall risk; consider medication timing and side effects; adapt environment for safety"
+  - recommendations: "Aerobic exercise 3-5 days/week; resistance training 2-3 days/week; flexibility and balance training; gradual progression; multidisciplinary approach including physical therapy"
+
+purpose:
+  - guide exercise prescription for neurologic diseases
+  - ensure safe and effective exercise training across conditions
+
+related_concepts:
+  - concept.neurologic_disease
+  - concept.exercise_prescription
+---

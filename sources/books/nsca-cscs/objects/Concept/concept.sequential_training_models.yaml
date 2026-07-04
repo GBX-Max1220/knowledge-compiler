@@ -1,0 +1,30 @@
+id: concept.sequential_training_models
+type: Concept
+canonical_name: Sequential Training Models
+semantic_type: TrainingModel
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1589
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Sequential training models, as shown in figure 22.5, were created to
+  address the limitations associated with the parallel model of training, such as
+  the inability to simultaneously develop multiple motor and technical abilities,
+  the need for longer preparation periods, and the inability to accommodate dense
+  competitive schedules (38, 52).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,30 @@
+id: concept.arteriovenous_oxygen_difference
+type: Concept
+canonical_name: Arteriovenous Oxygen Difference
+semantic_type: PhysiologicalParameter
+aliases:
+- a-vO2 difference
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Oxygen Uptake
+  section_title: Cardiovascular Responses — Oxygen Uptake
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'a-vO2 difference is the arteriovenous oxygen difference (the difference
+  in the oxygen content between arterial and venous blood) in milliliters of oxygen
+  per 100 mL of blood.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.oxygen_uptake

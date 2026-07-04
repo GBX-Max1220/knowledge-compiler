@@ -1,0 +1,28 @@
+id: evidence.androgen_receptor_downregulation_after_high_volume_protocol
+type: Evidence
+canonical_name: Androgen Receptor Downregulation After High-Volume Protocol
+semantic_type: ResearchFinding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 322
+  pdf_page: 322
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'the higher-volume protocol elicited significant downregulation of AR
+  content 1 hour after the workout.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.androgen_receptor

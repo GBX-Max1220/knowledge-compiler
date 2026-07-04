@@ -1,0 +1,32 @@
+id: threshold.exercise_avoidance_in_cold_wind_chill
+type: Threshold
+canonical_name: Exercise Avoidance in Cold Wind Chill
+semantic_type: EnvironmentalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Exercise should be avoided or modified in extreme cold conditions, particularly
+  when wind chill values are below -27°C (-16.6°F), due to increased risk of frostbite
+  and hypothermia.
+
+  '
+attributes:
+- threshold_type: below
+- value: -27°C (-16.6°F)
+- unit: °C
+purpose: []
+related_concepts:
+- warning.contraindication_for_exercise_in_extreme_cold

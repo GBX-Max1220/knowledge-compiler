@@ -1,0 +1,30 @@
+id: threshold.fair_fitness_classification
+type: Threshold
+canonical_name: Fair Fitness Classification
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Interpretation of Results
+  section: '3.21'
+  section_title: Interpretation of Results
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.poor_fitness_classification
+- predicate: adjacent_to
+  target: threshold.good_fitness_classification
+definition: 'Fair (40th–59th percentile)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

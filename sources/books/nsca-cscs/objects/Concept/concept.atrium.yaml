@@ -1,0 +1,30 @@
+id: concept.atrium
+type: Concept
+canonical_name: Atrium
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.03'
+  section_title: Cardiovascular System
+  book_page: 67
+  pdf_page: 67
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.heart
+definition: 'The right and left atria deliver blood into the right and left ventricles.
+
+  '
+attributes: []
+purpose:
+- deliver blood into ventricles
+related_concepts:
+- concept.ventricle

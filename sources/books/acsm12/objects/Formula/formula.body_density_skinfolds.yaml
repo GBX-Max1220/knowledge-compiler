@@ -1,0 +1,25 @@
+id: formula.body_density_skinfolds
+type: Formula
+canonical_name: Body Density from Skinfolds (Jackson-Pollock)
+semantic_type: Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '3.11'
+  section_title: Densitometry
+  book_page: 187
+  pdf_page: 187
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+canonical_form: Body density = 1.097 − 0.00046971(∑7SF) + 0.00000056(∑7SF)² − 0.00012828(age)
+variables:
+- '{''name'': ''∑7SF'', ''description'': ''Sum of 7 skinfold measurements (mm)''}'
+- '{''name'': ''age'', ''description'': ''Age in years''}'
+limitations: Validated for specific populations

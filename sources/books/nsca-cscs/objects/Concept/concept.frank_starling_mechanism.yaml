@@ -1,0 +1,31 @@
+id: concept.frank_starling_mechanism
+type: Concept
+canonical_name: Frank-Starling Mechanism
+semantic_type: PhysiologicalMechanism
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Stroke Volume
+  section_title: Cardiovascular Responses — Stroke Volume
+  book_page: 84
+  pdf_page: 84
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.physiological_mechanism
+definition: 'This principle, called the Frank-Starling mechanism, is related to the
+  concept that the force of contraction is a function of the length of the fibers
+  of the muscle wall.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.stroke_volume

@@ -1,0 +1,11 @@
+id: concept.total_energy_expenditure
+type: Concept
+canonical_name: Total Energy Expenditure
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Total Energy Expenditure is a concept in strength and conditioning.

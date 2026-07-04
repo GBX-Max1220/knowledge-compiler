@@ -1,0 +1,39 @@
+id: warning.valsalva_maneuver_side_effects
+type: Warning
+canonical_name: Valsalva Maneuver Side Effects
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 164
+  pdf_page: 164
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+warning_text: 'However, pressure in the chest associated with the Valsalva maneuver
+  can have the undesirable side effect of exerting compressive force on the heart,
+  making it more difficult for blood to return to the heart. Also, the Valsalva maneuver
+  can transiently raise blood pressure to slightly elevated levels (20).
+
+  '
+severity: moderate
+conditions:
+- Performance of Valsalva maneuver
+consequences:
+- Compressive force on the heart
+- Difficulty for blood to return to the heart
+- Transiently raised blood pressure
+mitigations: []
+citations:
+- reference_number: '20'
+  page_number: 164
+related_concepts:
+- concept.valsalva_maneuver

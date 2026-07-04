@@ -1,0 +1,32 @@
+id: procedure.lying_barbell_triceps_extension_downward_movement_phase_spotter
+type: Procedure
+canonical_name: Lying Barbell Triceps Extension — Downward Movement Phase (Spotter)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '16.4'
+  section_title: Spotting Techniques
+  book_page: 1056
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Place the hands close to—but not touching—the bar as it descends. Slightly
+  flex the knees, hips, and torso and keep the back neutral when following the bar.
+
+  '
+attributes:
+- hands close to bar but not touching
+- knees slightly flexed
+- hips slightly flexed
+- torso slightly flexed
+- back neutral
+purpose: []
+related_concepts: []

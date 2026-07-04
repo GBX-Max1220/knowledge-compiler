@@ -1,0 +1,541 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.minimally_compliant_facility
+type: Concept
+canonical_name: Minimally Compliant Facility
+semantic_type: Facility
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1735
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A minimally compliant facility must be in agreement with mandated building codes and regulations, including accessibility (i.e., wheelchair access and ADA compliance), HVAC, electrical, lighting, flooring, storage, square footage, safety spaces, and overhead clearance and must possess well-maintained equipment and surfaces.
+attributes:
+  - in agreement with mandated building codes and regulations
+  - accessible
+  - wheelchair access
+  - ADA compliance
+  - HVAC
+  - electrical
+  - lighting
+  - flooring
+  - storage
+  - square footage
+  - safety spaces
+  - overhead clearance
+  - well-maintained equipment
+  - well-maintained surfaces
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.safety_cushion
+type: Concept
+canonical_name: Safety Cushion
+semantic_type: Space
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1753
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Safety spacing in the weight room is generally referred to as a safety cushion.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.predesign_phase
+type: Concept
+canonical_name: Predesign Phase
+semantic_type: Process
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1729
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.facility_design_phases
+definition: >
+  The predesign phase is the first step in building a new facility. This phase should consist of a needs analysis, a feasibility study, and master plan formation.
+attributes:
+  - first step in building a new facility
+  - consists of a needs analysis
+  - consists of a feasibility study
+  - consists of master plan formation
+purpose: []
+related_concepts:
+  - concept.needs_analysis
+  - concept.feasibility_study
+  - concept.master_plan
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.needs_analysis
+type: Concept
+canonical_name: Needs Analysis
+semantic_type: Process
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1729
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.predesign_phase
+definition: >
+  The needs analysis is the step when the designers and experts collaborate to determine the needs of the strength and conditioning program (10).
+attributes: []
+purpose:
+  - determine the needs of the strength and conditioning program
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.feasibility_study
+type: Concept
+canonical_name: Feasibility Study
+semantic_type: Process
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1730
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.predesign_phase
+definition: >
+  The second part of the predesign phase is called a feasibility study. This process should analyze strengths, weaknesses, opportunities, and threats (known as a SWOT analysis) (10).
+attributes:
+  - analyzes strengths
+  - analyzes weaknesses
+  - analyzes opportunities
+  - analyzes threats
+purpose: []
+related_concepts:
+  - concept.swot_analysis
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.master_plan
+type: Concept
+canonical_name: Master Plan
+semantic_type: Plan
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1730
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.predesign_phase
+definition: >
+  The master plan is the general plan for all phases of the new facility. The master plan should include the building and construction plan, facility design, budget information, and an operational plan to act on once the facility is completed (10).
+attributes:
+  - includes building and construction plan
+  - includes facility design
+  - includes budget information
+  - includes operational plan
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.design_phase
+type: Concept
+canonical_name: Design Phase
+semantic_type: Process
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1731
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.facility_design_phases
+definition: >
+  The design phase is the second phase in the process of building a new facility. In the design phase, ideas from the committee come together with regard to the structure and design elements of the facility.
+attributes:
+  - second phase in the process of building a new facility
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.construction_phase
+type: Concept
+canonical_name: Construction Phase
+semantic_type: Process
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1732
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.facility_design_phases
+definition: >
+  The construction phase is the period of time from the beginning of building the facility until completion.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.preoperation_phase
+type: Concept
+canonical_name: Preoperation Phase
+semantic_type: Process
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1732
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.facility_design_phases
+definition: >
+  The preoperation phase consists of the final steps before the facility can open.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.swot_analysis
+type: Concept
+canonical_name: SWOT Analysis
+semantic_type: Process
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1730
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This process should analyze strengths, weaknesses, opportunities, and threats (known as a SWOT analysis) (10).
+attributes:
+  - analyzes strengths
+  - analyzes weaknesses
+  - analyzes opportunities
+  - analyzes threats
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.ceiling_height_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Ceiling Height for Strength and Conditioning Facilities
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1743
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  A recommended height is 12 to 14 feet (3.7-4.3 m), which should give enough clearance to allow athletes to comfortably perform most activities (14, 18).
+context: []
+rationale: "should give enough clearance to allow athletes to comfortably perform most activities"
+citations:
+  - "14"
+  - "18"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.lighting_levels_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Lighting Levels for Strength and Conditioning Facilities
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1744
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Lighting is recommended between 20 to 30 foot candles (fc; 1 fc = lumen/ft2) or 200 to 300 lux (lx; 1 lx = lumen/m2) at floor level for general gym areas and up to 50 foot candles or 500 lux for dedicated resistance training and group exercise areas (2, 11, 18).
+context:
+  - general gym areas
+  - dedicated resistance training areas
+  - group exercise areas
+rationale: []
+citations:
+  - "2"
+  - "11"
+  - "18"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.room_temperature_range_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Room Temperature Range for Strength and Conditioning Facilities
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1745
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Most sources indicate that between 68 °F and 78 °F (20-26 °C) is an appropriate temperature range, with many suggesting an optimal range of 68 °F to 74 °F (20-23 °C) (2, 5, 18).
+context: []
+rationale: []
+citations:
+  - "2"
+  - "5"
+  - "18"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.maximum_relative_humidity_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Maximum Relative Humidity for Strength and Conditioning Facilities
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1745
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  In any space where there is physical activity, relative humidity should not exceed 60%.
+context: []
+rationale: []
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.air_exchange_rate_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Air Exchange Rate for Strength and Conditioning Facilities
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1746
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Room air should be exchanged a minimum of 8 to 10 times per hour—optimally 12 to 15 times per hour to prevent odors and stagnant air (5).
+context: []
+rationale: "to prevent odors and stagnant air"
+citations:
+  - "5"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.sound_volume_sound_systems_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Sound Volume for Sound Systems in Strength and Conditioning Facilities
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1746
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  The sound volume should be less than 90 decibels so that athletes can hear instructions and coaching cues (2).
+context: []
+rationale: "so that athletes can hear instructions and coaching cues"
+citations:
+  - "2"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.mirror_placement_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Mirror Placement in Strength and Conditioning Facilities
+aliases: []
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Design, Layout, and Organization"
+  section: "25"
+  section_title: "Facility Design, Layout, and Organization"
+  book_page: 1747
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Mirrors should be placed at least 6 inches (15 cm) away from any equipment (e.g., behind a rack of dumbbells) and a minimum of 20 inches (51 cm) above the floor (4).
+context: []
+rationale: []
+citations:
+  - "4"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.minimum_space_between_equipment
+type: Recommendation
+canonical_name: Recommended Minimum Space Between Equipment
+aliases: []
+source:
+  book

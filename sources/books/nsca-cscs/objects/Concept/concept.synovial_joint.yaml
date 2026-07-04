@@ -1,0 +1,34 @@
+id: concept.synovial_joint
+type: Concept
+canonical_name: Synovial Joint
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 39
+  pdf_page: 39
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.joint
+definition: 'Joints that allow considerable movement, e.g., elbow and knee. Movements
+  in relation to sports and exercise mainly occur at synovial joints, whose most important
+  features are low friction and large range of motion. Articulating bone ends are
+  covered with smooth hyaline cartilage, and the entire joint is enclosed in a capsule
+  filled with synovial fluid.
+
+  '
+attributes:
+- low friction
+- large range of motion
+purpose: []
+related_concepts: []

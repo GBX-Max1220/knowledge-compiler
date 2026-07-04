@@ -1,0 +1,29 @@
+id: concept.myofibers
+type: Concept
+canonical_name: Myofibers
+semantic_type: Cell
+aliases:
+- muscle fibers
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: 'Another term for muscle fibers.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

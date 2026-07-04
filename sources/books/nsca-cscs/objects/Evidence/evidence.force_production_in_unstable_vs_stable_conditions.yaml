@@ -1,0 +1,30 @@
+id: evidence.force_production_in_unstable_vs_stable_conditions
+type: Evidence
+canonical_name: Force Production in Unstable vs. Stable Conditions
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.2'
+  section_title: Muscular Adaptations
+  book_page: 297
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+claim: Leg extension forces were 70% lower in unstable than stable conditions.
+supporting_data:
+- value: 70%
+  unit: '%'
+  context: lower force in unstable conditions
+citations: []

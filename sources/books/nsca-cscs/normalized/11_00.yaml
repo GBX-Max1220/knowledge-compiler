@@ -1,0 +1,449 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.precompetition_meal
+type: Concept
+canonical_name: Precompetition Meal
+semantic_type: Nutritional_Strategy
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Precompetition Nutrition"
+  section_title: "Precompetition Nutrition"
+  book_page: 614
+  pdf_page: 614
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The precompetition meal helps provide fluid to maintain adequate hydration,
+  carbohydrate to maximize blood glucose and stored glycogen levels, and protein
+  to reduce muscle soreness (7, 31).
+attributes:
+  - provides_fluid
+  - provides_carbohydrate
+  - provides_protein
+purpose:
+  - maintain adequate hydration
+  - maximize blood glucose levels
+  - maximize stored glycogen levels
+  - reduce muscle soreness
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.glycogen
+type: Concept
+canonical_name: Glycogen
+semantic_type: Biomolecule
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Precompetition Nutrition"
+  section_title: "Precompetition Nutrition"
+  book_page: 614
+  pdf_page: 614
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Glycogen is the main form of energy used during high-intensity (>70% V̇O2max)
+  exercise; once these stores become depleted, the athlete will experience
+  muscular fatigue (60).
+attributes:
+  - main_energy_source_for_high_intensity_exercise
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.precompetition_meal_timing_and_composition_guidelines
+type: Recommendation
+canonical_name: Precompetition Meal Timing and Composition Guidelines
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Precompetition Nutrition"
+  section_title: "Precompetition Nutrition"
+  book_page: 614
+  pdf_page: 614
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  All precompetition meals should take timing, meal and fluid composition, event
+  or sport, and individual athlete preferences into account. In order to minimize
+  the potential for stomach upset, smaller quantities of fluids and food should
+  be consumed when the precompetition meal is consumed closer in temporal
+  proximity to competition. Precompetition foods and beverages should be familiar
+  to the athlete (i.e., tried in practice), low in fat and fiber so that they
+  empty rapidly from the stomach and minimize any potential for gastrointestinal
+  distress, and moderate in protein (protein promotes longer-lasting satiety and
+  accelerates recovery) (7).
+rationale: []
+target_population: []
+application_context: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.minimizing_gastrointestinal_issues_before_competition
+type: Recommendation
+canonical_name: Minimizing Gastrointestinal Issues Before Competition
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Minimizing Gastrointestinal Issues"
+  section_title: "Minimizing Gastrointestinal Issues"
+  book_page: 615
+  pdf_page: 615
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  To minimize the likelihood of stomach discomfort during competition, athletes
+  should do the following: Try food in practice first. Always try new foods
+  during several practice sessions before competition (7). When the meal is
+  closer in time to the start of the game or event, consume smaller amounts of
+  food and liquids. Avoid high-fat and high-fiber foods. Both fat and fiber slow
+  down the rate of digestion. When food is still being digested as an athlete
+  exercises, he or she may experience stomach cramps (7). Avoid sugar alcohols.
+  Despite their name, sugar alcohols contain no alcohol, but their chemical
+  structure resembles that of both sugar and alcohol. Sugar alcohols are a type
+  of carbohydrate that is not completely absorbed in the gut. Consequently,
+  consumption can cause gas, bloating, and cramping and may have a laxative
+  effect. Sugar alcohols are found in some low-carbohydrate and sugar-free
+  products, including sugar-free gum, toothpaste, and energy drinks. The two
+  sugar alcohols most likely to cause gastrointestinal issues are sorbitol and
+  mannitol (4). Any product that could result in consumption of 20 grams of
+  mannitol must carry this warning on the label: "Excess consumption may have a
+  laxative effect." Individual responses to sugar alcohol vary. Sugar alcohols
+  include xylitol (the most common one found in dental products), erythritol,
+  sorbitol, mannitol, maltitol, isomalt, lactitol, hydrogenated starch
+  hydrolysates, and hydrogenated glucose syrups (4).
+rationale: []
+target_population: []
+application_context: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.warning_label_for_mannitol
+type: Warning
+canonical_name: Warning Label for Mannitol
+semantic_type: Regulatory_Warning
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Minimizing Gastrointestinal Issues"
+  section_title: "Minimizing Gastrointestinal Issues"
+  book_page: 615
+  pdf_page: 615
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+warning_text: >
+  Any product that could result in consumption of 20 grams of mannitol must
+  carry this warning on the label: "Excess consumption may have a laxative
+  effect."
+severity: moderate
+condition: consumption of 20 grams of mannitol
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.precompetition_nutrition_for_aerobic_endurance_athletes_general_guidelines
+type: Recommendation
+canonical_name: Precompetition Nutrition for Aerobic Endurance Athletes - General Guidelines
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 617
+  pdf_page: 617
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Athletes should prehydrate, if necessary, several hours before exercise to
+  allow for fluid absorption and urine output. Their urine specific gravity
+  (USG) reading should be <1.02 (120). Athletes who tend to get nauseated
+  easily, who have experienced diarrhea during competition, who get anxious or
+  experience precompetition jitters, or who compete in high-intensity sports
+  (jarring movements can increase the likelihood of stomach upset), as well as
+  those who are competing in the heat, may want to consider eating at least 4
+  hours before competition, as well as trying a variety of types of low-fiber
+  carbohydrate options. Aerobic endurance athletes who eat at least 4 hours
+  before competition should include approximately 1 to 4 grams of carbohydrate
+  per kilogram body weight and 0.15 to 0.25 grams of protein per kilogram body
+  weight (131). If the precompetition meal is consumed 2 hours before exercise,
+  athletes should aim for approximately 1 gram of carbohydrate per kilogram body
+  weight. Athletes should follow an individualized hydration plan. During
+  prolonged activity in hot weather, they should consume a sport drink
+  containing 20 to 30 mEq of sodium (460-690 mg with chloride as the anion) per
+  liter, 2 to 5 mEq of potassium (78-195 mg) per liter, and carbohydrate in a
+  concentration of 5% to 10% (120). When consumed closer to the start of
+  competition, the preexercise meal should be smaller. Additionally, liquid
+  sources of carbohydrate may be preferable when the preexercise meal is 1 hour
+  before the event because they are emptied from the stomach faster than solid
+  food (7). Gels, gummies, and similar sources of carbohydrate are also digested
+  very quickly.
+rationale: []
+target_population: []
+application_context: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.urine_specific_gravity_threshold_for_prehydration
+type: Threshold
+canonical_name: Urine Specific Gravity Threshold for Prehydration
+semantic_type: Hydration_Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 617
+  pdf_page: 617
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+threshold_value: "<1.02"
+unit: ""
+context: "urine specific gravity (USG) reading"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.carbohydrate_intake_threshold_for_precompetition_meal_4_hours_before
+type: Threshold
+canonical_name: Carbohydrate Intake Threshold for Precompetition Meal 4+ Hours Before
+semantic_type: Nutritional_Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 617
+  pdf_page: 617
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+threshold_value: "1 to 4"
+unit: "grams per kilogram body weight"
+context: "carbohydrate intake for aerobic endurance athletes eating at least 4 hours before competition"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.protein_intake_threshold_for_precompetition_meal_4_hours_before
+type: Threshold
+canonical_name: Protein Intake Threshold for Precompetition Meal 4+ Hours Before
+semantic_type: Nutritional_Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 617
+  pdf_page: 617
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+threshold_value: "0.15 to 0.25"
+unit: "grams per kilogram body weight"
+context: "protein intake for aerobic endurance athletes eating at least 4 hours before competition"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.carbohydrate_intake_threshold_for_precompetition_meal_2_hours_before
+type: Threshold
+canonical_name: Carbohydrate Intake Threshold for Precompetition Meal 2 Hours Before
+semantic_type: Nutritional_Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 617
+  pdf_page: 617
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+threshold_value: "1"
+unit: "gram per kilogram body weight"
+context: "carbohydrate intake if precompetition meal is consumed 2 hours before exercise"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.carbohydrate_intake_threshold_for_precompetition_meal_1_hour_before
+type: Threshold
+canonical_name: Carbohydrate Intake Threshold for Precompetition Meal 1 Hour Before
+semantic_type: Nutritional_Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 618
+  pdf_page: 618
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+threshold_value: "0.5"
+unit: "gram per kilogram body weight"
+context: "carbohydrate intake if precompetition meal is consumed 1 hour before exercise"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.precompetition_food_and_fluid_recommendations_1_hour
+type: TableRow
+canonical_name: Precompetition Food and Fluid Recommendations 1 Hour
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 618
+  pdf_page: 618
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "Table 11.1"
+row_data:
+  time_before_competition: "1 h"
+  food_recommendations: "0.5 g carbohydrate per kilogram body weight"
+  fluid_recommendations: ""
+  sample_precompetition_meals_for_a_68_kg_150_lb_athlete: "1 small banana"
+  sample_meals_based_on_food_and_fluid_recommendations: "8 fl oz (237 mL) sport drink"
+  carbohydrate_content: "34 g carbohydrate"
+  fluid_content: "8 fl oz (237 mL) fluid"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.precompetition_food_and_fluid_recommendations_2_hours
+type: TableRow
+canonical_name: Precompetition Food and Fluid Recommendations 2 Hours
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 618
+  pdf_page: 618
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "Table 11.1"
+row_data:
+  time_before_competition: "2 h"
+  food_recommendations: "1 g carbohydrate per kilogram body weight"
+  fluid_recommendations: "If not adequately hydrated, sip on 3-5 mL (0.10-0.17 fl oz) of fluid per kilogram body weight (120)"
+  sample_precompetition_meals_for_a_68_kg_150_lb_athlete: "68 g carbohydrate | 7-12 fl oz (207-355 mL) fluid"
+  sample_meals_based_on_food_and_fluid_recommendations: "2.5 cups (525 g) boiled, plain potato, flesh only | 2 mini bagels with 1 tbsp (20 g) jam | 8 fl oz (237 mL) sport drink"
+  carbohydrate_content: "66 g carbohydrate | 72 g carbohydrate"
+  fluid_content: "8 g protein | 8 fl oz (237 mL) fluid"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.precompetition_food_and_fluid_recommendations_4_hours_or_more
+type: TableRow
+canonical_name: Precompetition Food and Fluid Recommendations 4 Hours or More
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Nutrition and Performance"
+  section: "Aerobic Endurance Sports"
+  section_title: "Aerobic Endurance Sports"
+  book_page: 618
+  pdf_page: 618
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "Table 11.1"
+row_data:
+  time

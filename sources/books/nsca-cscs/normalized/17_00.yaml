@@ -1,0 +1,482 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.anatomical_core
+type: Concept
+canonical_name: Anatomical Core
+semantic_type: Body Region
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1096
+  pdf_page: 1096
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.core
+definition: >
+  Typically, the anatomical core is defined as the axial skeleton and all the soft tissues with proximal attachments that originate on the axial skeleton (13, 14). It is important to note that the appendicular skeleton includes the pelvic and shoulder girdles, while the soft tissues include the articular cartilage and fibrocartilage, ligaments, tendons, muscles, and fascia (13).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.core
+type: Concept
+canonical_name: Core
+semantic_type: Body Region
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1096
+  pdf_page: 1096
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.anatomical_core
+definition: >
+  The term core is commonly used in the popular media and in some training journals (13) to refer to the trunk or, more specifically, the lumbopelvic region of the body (151). However, interpretation of the scientific literature appears to make an accurate or consistent definition of the core tenuous at best (13, 153).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bodyweight_training_methods
+type: Concept
+canonical_name: Bodyweight Training Methods
+semantic_type: Training Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1091
+  pdf_page: 1091
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Bodyweight training methods are among the most basic methods for performing resistance training. Specifically, with these types of exercises, the body weight of the individual is used to provide resistance (56).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.suspension_training
+type: Concept
+canonical_name: Suspension Training
+semantic_type: Training Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1093
+  pdf_page: 1093
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Suspension training is an alternative method for performing bodyweight resistance training that allows for the modification of the resistance applied during numerous upper and lower body exercise options (90).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.suspension_trainers
+type: Concept
+canonical_name: Suspension Trainers
+semantic_type: Equipment
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1093
+  pdf_page: 1093
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: used_for
+    target: concept.suspension_training
+definition: >
+  Performing this type of training uses devices, referred to as suspension trainers (e.g., TRX®), that are typically constructed with sturdy and adjustable straps that have handles or foot straps attached to one end. These devices are generally suspended from a singular or multiple centralized attachment points above the user's head (e.g., wall, squat rack, doorjamb, ceiling) allowing the straps to hang perpendicular to the floor (31, 113).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.isolation_exercises
+type: Concept
+canonical_name: Isolation Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1097
+  pdf_page: 1097
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Isolation exercises typically consist of dynamic or isometric muscle actions designed to isolate specific core musculature without the contribution of the lower and upper extremities (14).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.variable_resistance_training_methods
+type: Concept
+canonical_name: Variable-Resistance Training Methods
+semantic_type: Training Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1102
+  pdf_page: 1102
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  These variable-resistance methods attempt to alter the resistance, so the muscle maximizes force application throughout the full range of motion (130, 145).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.accentuated_eccentric_loading
+type: Concept
+canonical_name: Accentuated Eccentric Loading
+semantic_type: Training Method
+aliases:
+  - augmented eccentric loading
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1113
+  pdf_page: 1113
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  One variable resistance training strategy that addresses this differential is the use of accentuated eccentric loading (AEL), which is sometimes referred to as augmented eccentric loading (95, 132). With this loading strategy, an additional load is applied during the eccentric phase of the movement and then removed during the concentric phase of the movement.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.farmers_walk
+type: Concept
+canonical_name: Farmer's Walk
+semantic_type: Exercise
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1126
+  pdf_page: 1126
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.weighted_carries
+definition: >
+  The farmer's walk requires the athlete to hold a load at the sides in each hand while walking forward (87, 147).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.yoke_walk
+type: Concept
+canonical_name: Yoke Walk
+semantic_type: Exercise
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1127
+  pdf_page: 1127
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.weighted_carries
+definition: >
+  The yoke walk is another common strongman event whereby a heavy frame is carried on the shoulders of the athlete over a set distance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.kettlebell
+type: Concept
+canonical_name: Kettlebell
+semantic_type: Equipment
+aliases:
+  - kettleball
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1128
+  pdf_page: 1128
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In Western literature the term kettlebell is used to refer to a weighted implement consisting of a ball with a handle, which is probably better termed a kettleball (28).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.landmine
+type: Concept
+canonical_name: Landmine
+semantic_type: Equipment
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1132
+  pdf_page: 1132
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The landmine resistance training device is a useful device for performing loaded rotational resistance training exercises (4). The performance of this exercise involves placing the end of a standard Olympic barbell (i.e., 20 kg [44 lb]) into a metal cylinder that is attached to a standard squat rack or stand-alone base attachment through a universal joint (4).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bilateral_facilitation
+type: Concept
+canonical_name: Bilateral Facilitation
+semantic_type: Physiological Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1135
+  pdf_page: 1135
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  It has also been demonstrated that bilateral movements exhibit a bilateral facilitation in which voluntary activation of the agonist muscle group increases (12, 117).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bilateral_deficit
+type: Concept
+canonical_name: Bilateral Deficit
+semantic_type: Physiological Phenomenon
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1135
+  pdf_page: 1135
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  They are often used to reduce a bilateral deficit, where asymmetries in force production are observed between unilateral and bilateral movements (67).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.breathing_pattern_for_alternative_methods
+type: Recommendation
+canonical_name: Breathing Pattern for Alternative Methods
+semantic_type: Breathing Technique
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1090
+  pdf_page: 1090
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  As with more traditional exercises, the breathing pattern often recommended with these alternative methods is for the athlete to exhale through the sticking point (concentric portion) and to inhale during the less stressful portion (eccentric portion) of the movement.
+rationale: []
+conditions: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.general_guidelines_for_alternative_modes_and_nontraditional_implement_exercises
+type: Recommendation
+canonical_name: General Guidelines for Alternative Modes and Nontraditional Implement Exercises
+semantic_type: Exercise Guideline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1092
+  pdf_page: 1092
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Ensure proper body alignment via selection of a stable body position. If the exercise is a freestanding ground-based exercise, place the feet slightly wider than shoulder width and keep them flat on the ground. Use the appropriate grip for the exercise based on the type of exercise (see chapter 16 for more detail). Exhale during the concentric portion of the exercise and inhale during the eccentric phase. With heavy loads (80% of maximal voluntary contraction or greater) or with lighter loads performed to failure, the Valsalva maneuver may be a useful technique for maintaining spinal stability.
+rationale: []
+conditions: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.use_of_chains_for_experienced_athletes
+type: Recommendation
+canonical_name: Use of Chains for Experienced Athletes
+semantic_type: Training Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  section: "17"
+  section_title: "Exercise Technique for Alternative Modes and Nontraditional Implement Training"
+  book_page: 1105
+  pdf_page: 1105
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  As a general rule, Baker (8) recommends that the use of chains be reserved for experienced intermediate- and elite-level athletes who have stable

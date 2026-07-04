@@ -1,0 +1,28 @@
+id: concept.creatine_kinase
+type: Concept
+canonical_name: Creatine Kinase
+semantic_type: Enzyme
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Phosphagen System
+  section_title: Phosphagen System
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Creatine kinase is the enzyme that catalyzes the synthesis of ATP from
+  CP and ADP in the following reaction: ADP + CP ↔ Creatine kinase ATP + Creatine
+  (3.2)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

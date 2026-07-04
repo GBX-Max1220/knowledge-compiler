@@ -1,0 +1,29 @@
+id: table_row.vertical_jump_reference
+type: TableRow
+canonical_name: Vertical Jump Reference Value
+semantic_type: Reference Value
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.27'
+  section_title: Muscular Power
+  book_page: 239
+  pdf_page: 239
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.muscular_power
+table_name: Table 3.7 — Reference Values for Muscular Power Tests
+row_data:
+  test: vertical jump
+  reference_values: provided in Table 3.7
+description: 'Reference values for the vertical jump test as provided in Table 3.7.
+
+  '

@@ -1,0 +1,31 @@
+id: concept.receptor_downregulation
+type: Concept
+canonical_name: Receptor Downregulation
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.2'
+  section_title: Signaling Concepts
+  book_page: 241
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When a muscle fiber has reached its capacity for protein incorporation,
+  or when a chronically elevated concentration of a hormone causes overstimulation,
+  receptors may become desensitized or unresponsive—a condition known as receptor
+  downregulation; a classic example of this phenomenon is insulin resistance, which
+  can be caused by chronically elevated circulating insulin concentrations.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.insulin_resistance

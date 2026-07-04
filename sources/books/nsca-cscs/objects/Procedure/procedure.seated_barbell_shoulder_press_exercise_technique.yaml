@@ -1,0 +1,34 @@
+id: procedure.seated_barbell_shoulder_press_exercise_technique
+type: Procedure
+canonical_name: Seated Barbell Shoulder Press Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique Guidelines
+  section: '16.3'
+  section_title: Exercise Technique Guidelines
+  book_page: 1049
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A seated barbell shoulder press exercise technique that can also be performed
+  with two dumbbells, using a closed, pronated grip. The technique includes starting
+  positions for the athlete and spotter, downward movement phase, and upward movement
+  phase.
+
+  '
+attributes:
+- five-point body contact position
+- closed pronated grip
+- grip slightly wider than shoulder width
+- wrists stiff
+purpose:
+- strengthen shoulders
+related_concepts: []

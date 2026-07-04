@@ -1,0 +1,27 @@
+id: concept.primary_ossification_center
+type: Concept
+canonical_name: Primary Ossification Center
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.3'
+  section_title: Conclusion
+  book_page: 436
+  pdf_page: 436
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'During the developmental years, the primary ossification center where
+  most bone formation occurs is referred to as the diaphysis.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

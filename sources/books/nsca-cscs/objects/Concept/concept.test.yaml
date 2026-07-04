@@ -1,0 +1,26 @@
+id: concept.test
+type: Concept
+canonical_name: Test
+semantic_type: Procedure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 13
+  chapter_title: Principles of Test Selection and Administration
+  section: '13.1'
+  section_title: Principles of Test Selection and Administration
+  book_page: 733
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A procedure for assessing ability in a particular endeavor.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,32 @@
+id: concept.adrenal_cortex
+type: Concept
+canonical_name: Adrenal Cortex
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.4'
+  section_title: Muscle Tissue Recruitment
+  book_page: 266
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.adrenal_gland
+definition: 'The adrenal cortex is stimulated by adrenocorticotropic hormone (ACTH)
+  from the anterior pituitary gland to produce and release cortisol.
+
+  '
+attributes: []
+purpose:
+- produce cortisol
+- release cortisol
+related_concepts:
+- concept.cortisol

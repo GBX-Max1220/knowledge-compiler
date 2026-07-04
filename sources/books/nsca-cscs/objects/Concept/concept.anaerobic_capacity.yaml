@@ -1,0 +1,27 @@
+id: concept.anaerobic_capacity
+type: Concept
+canonical_name: Anaerobic Capacity
+semantic_type: Physical Fitness Component
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Athletic Performance
+  section: '14.1'
+  section_title: Measuring Parameters of Athletic Performance
+  book_page: 767
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Anaerobic capacity is the maximal rate of energy production by the combined
+  phosphagen and anaerobic glycolytic energy systems for moderate-duration activities.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

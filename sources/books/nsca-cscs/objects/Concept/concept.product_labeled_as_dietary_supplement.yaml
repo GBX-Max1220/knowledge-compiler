@@ -1,0 +1,32 @@
+id: concept.product_labeled_as_dietary_supplement
+type: Concept
+canonical_name: Product Labeled as Dietary Supplement
+semantic_type: Definition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Types of Performance-Enhancing Substances
+  book_page: 663
+  pdf_page: 663
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.dietary_supplement_definition
+definition: 'The product must also be labeled as a dietary supplement, such that the
+  label must include the term dietary supplement or equivalent and therefore cannot
+  also be advertised for use as a conventional food or as the sole item within a meal
+  or diet.
+
+  '
+attributes:
+- labeled_as_dietary_supplement
+purpose: []
+related_concepts: []

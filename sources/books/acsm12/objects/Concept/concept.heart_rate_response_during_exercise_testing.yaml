@@ -1,0 +1,11 @@
+id: concept.heart_rate_response_during_exercise_testing
+type: Concept
+canonical_name: Heart Rate Response During Exercise Testing
+semantic_type: Entity
+source:
+  book: ACSM Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  section: '1.0'
+  book_page: 1
+definition: Heart Rate Response During Exercise Testing is a concept in exercise science.

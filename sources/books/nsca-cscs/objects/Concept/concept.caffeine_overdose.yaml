@@ -1,0 +1,11 @@
+id: concept.caffeine_overdose
+type: Concept
+canonical_name: Caffeine Overdose
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Caffeine Overdose is a concept in strength and conditioning.

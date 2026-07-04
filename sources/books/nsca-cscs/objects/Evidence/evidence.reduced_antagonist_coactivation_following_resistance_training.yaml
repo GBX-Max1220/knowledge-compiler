@@ -1,0 +1,30 @@
+id: evidence.reduced_antagonist_coactivation_following_resistance_training
+type: Evidence
+canonical_name: Reduced Antagonist Coactivation Following Resistance Training
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.2'
+  section_title: Muscular Adaptations
+  book_page: 297
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+claim: A number of studies have shown reduced antagonist coactivation following resistance
+  training, resulting in an increase in net force without an increase in agonist motor
+  unit recruitment.
+supporting_data: []
+citations:
+- (71, 130)

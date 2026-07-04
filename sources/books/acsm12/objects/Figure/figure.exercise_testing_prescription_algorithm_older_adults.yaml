@@ -1,0 +1,27 @@
+id: figure.exercise_testing_prescription_algorithm_older_adults
+type: Figure
+canonical_name: Figure 6.3 — Exercise Testing and Prescription Algorithm for Older
+  Adults
+semantic_type: Algorithm Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '6.17'
+  section_title: Older Adults
+  book_page: 466
+  pdf_page: 466
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Figure 6.3 — Exercise Testing and Prescription Algorithm for Older Adults
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,32 @@
+id: threshold.signs_of_poor_perfusion
+type: Threshold
+canonical_name: Signs of Poor Perfusion
+semantic_type: Clinical Sign Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Classification
+  section: '4.6'
+  section_title: Monitoring and Test Termination
+  book_page: 285
+  pdf_page: 285
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: threshold.absolute_indications_for_terminating_exercise_testing
+definition: 'Signs of poor perfusion (cyanosis or pallor)
+
+  '
+attributes:
+- signs of poor perfusion
+- cyanosis
+- pallor
+purpose:
+- terminate exercise testing
+related_concepts: []

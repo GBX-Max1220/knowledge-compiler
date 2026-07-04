@@ -1,0 +1,29 @@
+id: evidence.concurrent_training_improves_performance_in_highly_trained_runners
+type: Evidence
+canonical_name: Concurrent Training Improves Performance in Highly Trained Runners
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+evidence_text: 'Sedano and colleagues (134) reported improvements in performance of
+  highly trained runners as a result of concurrent endurance, resistance, and plyometric
+  training. There was no reduction in V̇O2max over the 12 weeks in runners who participated
+  in resistance and plyometric training. Furthermore, the concurrent training improved
+  performance measures such as maximal strength, peak running velocity, and 3-kilometer
+  (1.7 miles) time trial compared to endurance training alone.
+
+  '
+citations:
+- '134'

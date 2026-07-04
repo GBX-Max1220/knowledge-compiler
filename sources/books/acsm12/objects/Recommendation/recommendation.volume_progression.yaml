@@ -1,0 +1,28 @@
+id: recommendation.volume_progression
+type: Recommendation
+canonical_name: Volume Progression Recommendation
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.23'
+  section_title: Volume of Resistance Training Exercise
+  book_page: 376
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Progression in volume should occur by first increasing the number
+  of repetitions, then the number of sets, and finally the frequency of training.
+
+  '
+population: ''
+parameters: []
+purpose: []
+related_concepts: []

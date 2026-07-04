@@ -1,0 +1,35 @@
+id: recommendation.youth_resistance_training_frequency
+type: Recommendation
+canonical_name: Youth Resistance Training Frequency
+semantic_type: Training
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 416
+  pdf_page: 416
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Two or three nonconsecutive training sessions per week are recommended;
+  however, youth with higher training ages may participate in more frequent resistance
+  training sessions per week.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.youth
+recommendation_text: Two or three nonconsecutive training sessions per week are recommended;
+  however, youth with higher training ages may participate in more frequent resistance
+  training sessions per week.
+population: youth
+condition: higher training ages
+action: participate in more frequent resistance training sessions per week

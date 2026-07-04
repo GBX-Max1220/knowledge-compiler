@@ -1,0 +1,28 @@
+id: recommendation.coaching_instructions_novice_weightlifting
+type: Recommendation
+canonical_name: Coaching Instructions for Novice Weightlifting Athletes
+semantic_type: CoachingStrategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.2'
+  section_title: Ideal Performance State
+  book_page: 477
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'In coaching weightlifting athletes during an important meet,
+  instructions to novice competitors should be simple, clear, and direct.
+
+  '
+context: Coaching weightlifting athletes during an important meet
+target_audience: Novice weightlifting competitors
+rationale: ''
+implementation: ''

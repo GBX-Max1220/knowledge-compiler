@@ -1,0 +1,542 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.energy_substrates
+type: Concept
+canonical_name: Energy Substrates
+semantic_type: Molecule
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 203
+  pdf_page: 203
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Molecules that provide starting materials for bioenergetic reactions, including phosphagens (ATP and CP), glucose, glycogen, lactate, free fatty acids, and amino acids.
+attributes:
+  - phosphagens
+  - ATP
+  - CP
+  - glucose
+  - glycogen
+  - lactate
+  - free fatty acids
+  - amino acids
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.phosphagen_depletion_and_repletion
+type: Concept
+canonical_name: Phosphagen Depletion and Repletion
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 203
+  pdf_page: 203
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.energy_substrates
+definition: >
+  Phosphagen concentrations in muscle are more rapidly depleted as a result of high-intensity anaerobic exercise compared to aerobic exercise (66, 89). CP can decrease markedly (50%-70%) during the first stage of high-intensity exercise of short and moderate duration (5-30 s) and can be almost completely depleted as a result of very intense exercise to exhaustion (86, 93, 97, 110). Muscle ATP concentrations may decrease only slightly (34) or may decrease up to 50% to 60% (145) of the pre-exercise levels during experimentally induced fatigue.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.cp_depletion_range_during_high_intensity_exercise
+  - concept.atp_depletion_range_during_fatigue
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.cp_depletion_range_during_high_intensity_exercise
+type: Threshold
+canonical_name: CP Depletion Range During High-Intensity Exercise
+semantic_type: Depletion
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 203
+  pdf_page: 203
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.phosphagen_depletion_and_repletion
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "50%-70%"
+unit: "%"
+condition: "during the first stage of high-intensity exercise of short and moderate duration (5-30 s)"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.atp_depletion_range_during_fatigue
+type: Threshold
+canonical_name: ATP Depletion Range During Fatigue
+semantic_type: Depletion
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 203
+  pdf_page: 203
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.phosphagen_depletion_and_repletion
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "50% to 60%"
+unit: "%"
+condition: "during experimentally induced fatigue"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.phosphagen_repletion_time
+type: Threshold
+canonical_name: Phosphagen Repletion Time
+semantic_type: Repletion
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 204
+  pdf_page: 204
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.phosphagen_depletion_and_repletion
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "3 to 5 minutes"
+unit: "minutes"
+condition: "complete ATP resynthesis"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.cp_half_repletion_time
+type: Threshold
+canonical_name: CP Half-Repletion Time
+semantic_type: Repletion
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 204
+  pdf_page: 204
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.phosphagen_depletion_and_repletion
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "30 seconds"
+unit: "seconds"
+condition: "half of the CP stores are replenished"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.glycogen_stores
+type: Concept
+canonical_name: Glycogen Stores
+semantic_type: Molecule
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 204
+  pdf_page: 204
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.energy_substrates
+definition: >
+  Approximately 300 to 400 grams (11-14 oz) of glycogen are stored in the body's total muscle and about 70 to 100 grams (2-4 oz) in the liver (137).
+attributes:
+  - muscle
+  - liver
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.muscle_glycogenolysis_rate_by_exercise_intensity
+type: Threshold
+canonical_name: Muscle Glycogenolysis Rate by Exercise Intensity
+semantic_type: Rate
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 205
+  pdf_page: 205
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.glycogen_stores
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "0.7, 1.4, and 3.4 mmol · kg−1 · min−1"
+unit: "mmol · kg−1 · min−1"
+condition: "Increases in relative exercise intensity of 50%, 75%, and 100% of maximal oxygen uptake"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.blood_glucose_threshold_for_hypoglycemic_reactions
+type: Threshold
+canonical_name: Blood Glucose Threshold for Hypoglycemic Reactions
+semantic_type: Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 205
+  pdf_page: 205
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "less than 2.5 mmol/L"
+unit: "mmol/L"
+condition: "exercise-induced"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.blood_glucose_decline_range_from_reduced_liver_carbohydrate_stores
+type: Threshold
+canonical_name: Blood Glucose Decline Range from Reduced Liver Carbohydrate Stores
+semantic_type: Decline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 205
+  pdf_page: 205
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "2.5 to 3.0 mmol/L"
+unit: "mmol/L"
+condition: "Reduced liver carbohydrate stores"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.muscle_glycogen_depletion_range_during_high_intensity_intermittent_exercise
+type: Threshold
+canonical_name: Muscle Glycogen Depletion Range During High-Intensity Intermittent Exercise
+semantic_type: Depletion
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 206
+  pdf_page: 206
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.glycogen_stores
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "20%-60%"
+unit: "%"
+condition: "Very high-intensity, intermittent exercise, such as high-intensity resistance training, with relatively few sets (low total volume)"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.optimal_carbohydrate_intake_for_muscle_glycogen_repletion
+type: Recommendation
+canonical_name: Optimal Carbohydrate Intake for Muscle Glycogen Repletion
+semantic_type: Intake
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 206
+  pdf_page: 206
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+attributes: []
+purpose:
+  - muscle glycogen repletion
+related_concepts: []
+recommendation: "0.7 to 3.0 grams of carbohydrate per kilogram of body weight is ingested every 2 hours following exercise"
+condition: "following exercise"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.maximum_muscle_glycogen_repletion_rate
+type: Threshold
+canonical_name: Maximum Muscle Glycogen Repletion Rate
+semantic_type: Repletion
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 206
+  pdf_page: 206
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.glycogen_stores
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "5 to 6 mmol/g of wet muscle mass per hour"
+unit: "mmol/g of wet muscle mass per hour"
+condition: "during the first 4 to 6 hours following exercise"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.muscle_glycogen_complete_repletion_time
+type: Threshold
+canonical_name: Muscle Glycogen Complete Repletion Time
+semantic_type: Repletion
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 206
+  pdf_page: 206
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.glycogen_stores
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+value: "24 hours"
+unit: "hours"
+condition: "provided that sufficient carbohydrate is ingested"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.event_duration_0_6_s
+type: TableRow
+canonical_name: Event Duration 0-6 s
+semantic_type: Energy System
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 201
+  pdf_page: 201
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: table_row.event_duration_6_30_s
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+table_id: "Table 3.2"
+row_data:
+  duration: "0-6 s"
+  intensity: "Extremely high"
+  primary_energy_system: "Phosphagen"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.event_duration_6_30_s
+type: TableRow
+canonical_name: Event Duration 6-30 s
+semantic_type: Energy System
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 201
+  pdf_page: 201
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: table_row.event_duration_30_s_to_2_min
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+table_id: "Table 3.2"
+row_data:
+  duration: "6-30 s"
+  intensity: "Very high"
+  primary_energy_system: "Phosphagen and fast glycolysis"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.event_duration_30_s_to_2_min
+type: TableRow
+canonical_name: Event Duration 30 s to 2 min
+semantic_type: Energy System
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Substrate Depletion and Repletion"
+  section: "3.3"
+  section_title: "Substrate Depletion and Repletion"
+  book_page: 201
+  pdf_page: 201
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: table_row.event_duration_2_3_min
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []

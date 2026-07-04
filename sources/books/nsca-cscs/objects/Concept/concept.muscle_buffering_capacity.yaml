@@ -1,0 +1,28 @@
+id: concept.muscle_buffering_capacity
+type: Concept
+canonical_name: Muscle Buffering Capacity
+semantic_type: Property
+aliases:
+- MBC
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 706
+  pdf_page: 706
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The ability to regulate H+ concentration in skeletal muscle during high-intensity
+  exercise has been termed muscle buffering capacity (MBC).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

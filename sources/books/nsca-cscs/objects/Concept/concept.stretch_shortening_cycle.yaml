@@ -1,0 +1,29 @@
+id: concept.stretch_shortening_cycle
+type: Concept
+canonical_name: Stretch-shortening cycle
+semantic_type: Phenomenon
+aliases:
+- SSC
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1407
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An eccentric–concentric coupling phenomenon in which muscle–tendon complexes
+  are rapidly and forcibly lengthened, or stretch loaded, and immediately shortened
+  in a reactive or elastic manner, resulting in enhanced concentric force production.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

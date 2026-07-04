@@ -1,0 +1,35 @@
+id: formula.fluid_resistance
+type: Formula
+canonical_name: Fluid Resistance Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 158
+  pdf_page: 158
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: describes
+  target: concept.fluid_resistance
+definition: ''
+formula_text: FR = k × v (2.10)
+variables:
+- symbol: FR
+  description: Fluid resistance force
+- symbol: k
+  description: Constant
+- symbol: v
+  description: Velocity
+units: []
+purpose: []
+related_concepts:
+- concept.fluid_resistance

@@ -1,0 +1,31 @@
+id: concept.exercise_physiologist
+type: Concept
+canonical_name: Exercise Physiologist
+semantic_type: Healthcare Role
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1634
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.allied_health_team
+definition: 'An exercise physiologist has a formal background in the exercise sciences
+  and uses his or her expertise to assist with the design of a conditioning program
+  that carefully considers the body''s metabolic response to exercise and the ways
+  in which that reaction aids the healing process.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

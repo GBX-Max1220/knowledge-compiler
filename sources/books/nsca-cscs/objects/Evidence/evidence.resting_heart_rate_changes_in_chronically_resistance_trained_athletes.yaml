@@ -1,0 +1,29 @@
+id: evidence.resting_heart_rate_changes_in_chronically_resistance_trained_athletes
+type: Evidence
+canonical_name: Resting Heart Rate Changes in Chronically Resistance-Trained Athletes
+semantic_type: ResearchFinding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 324
+  pdf_page: 324
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In chronically resistance-trained athletes (e.g., bodybuilders, powerlifters,
+  weightlifters), both average and lower-than-average resting heart rates (60-78 beats/min)
+  have been reported compared to those in untrained individuals.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.resting_heart_rate

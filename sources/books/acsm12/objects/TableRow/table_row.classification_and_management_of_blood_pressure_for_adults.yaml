@@ -1,0 +1,27 @@
+id: table_row.classification_and_management_of_blood_pressure_for_adults
+type: TableRow
+canonical_name: Table 9.6 — Classification and Management of Blood Pressure for Adults
+semantic_type: ReferenceTable
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.13'
+  section_title: Hypertension
+  book_page: 731
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.hypertension
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+table_reference: Table 9.6

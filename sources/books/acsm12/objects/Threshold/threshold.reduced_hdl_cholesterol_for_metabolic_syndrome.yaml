@@ -1,0 +1,34 @@
+id: threshold.reduced_hdl_cholesterol_for_metabolic_syndrome
+type: Threshold
+canonical_name: Reduced HDL Cholesterol Threshold for Metabolic Syndrome
+semantic_type: Laboratory Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Diagnosis and Comorbidities
+  section: '10.20'
+  section_title: Diagnosis and Comorbidities
+  book_page: 835
+  pdf_page: 835
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: threshold.diagnostic_thresholds_for_metabolic_syndrome
+definition: 'reduced HDL cholesterol (<40 mg·dL⁻¹ [1.0 mmol·L⁻¹] in men and <50 mg·dL⁻¹
+  [1.3 mmol·L⁻¹] in women)
+
+  '
+attributes:
+- men: <40 mg·dL⁻¹
+- men: 1.0 mmol·L⁻¹
+- women: <50 mg·dL⁻¹
+- women: 1.3 mmol·L⁻¹
+purpose:
+- diagnose metabolic syndrome
+related_concepts: []

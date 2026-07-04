@@ -1,0 +1,29 @@
+id: concept.nonessential_amino_acid
+type: Concept
+canonical_name: Nonessential Amino Acid
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 548
+  pdf_page: 548
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.amino_acid
+definition: 'Four amino acids can be synthesized by the human body and are therefore
+  considered "nonessential" because they do not need to be consumed in the diet.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

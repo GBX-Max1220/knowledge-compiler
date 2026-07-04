@@ -1,0 +1,31 @@
+id: concept.concentric_muscle_action
+type: Concept
+canonical_name: Concentric Muscle Action
+semantic_type: Physiological Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: ''
+  section: '2.4'
+  section_title: Sources of Resistance to Muscle Contraction
+  book_page: 143
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.muscle_action_types
+definition: 'In a concentric muscle action, the muscle shortens because the contractile
+  force is greater than the resistive force. The forces generated within the muscle
+  and acting to shorten it are greater than the external forces acting at its tendons
+  to stretch it. Swimming and cycling involve concentric muscle action almost exclusively.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

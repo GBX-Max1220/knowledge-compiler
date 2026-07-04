@@ -1,0 +1,29 @@
+id: concept.supercompensation
+type: Concept
+canonical_name: Supercompensation
+semantic_type: Phenomenon
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1582
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'If the training stress is appropriately structured and not excessive,
+  these adaptive responses can result in specific biochemical, structural, and mechanical
+  adjustments that further elevate the athlete''s performance capacity, resulting
+  in what is termed supercompensation (91).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

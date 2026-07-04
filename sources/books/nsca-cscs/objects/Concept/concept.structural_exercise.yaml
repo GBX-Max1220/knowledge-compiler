@@ -1,0 +1,35 @@
+id: concept.structural_exercise
+type: Concept
+canonical_name: Structural Exercise
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training Program Design
+  section: '18.2'
+  section_title: 'Step 2: Exercise Selection'
+  book_page: 1205
+  pdf_page: 1205
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.core_exercises
+definition: 'A core exercise that emphasizes loading the spine directly (e.g., back
+  squat) or indirectly (e.g., power clean) can be further described as a structural
+  exercise. More specifically, a structural exercise involves muscular stabilization
+  of posture during performance of the lifting movement (e.g., maintaining a rigid
+  torso and a neutral spine during the back squat).
+
+  '
+attributes:
+- emphasizes loading the spine directly or indirectly
+- involves muscular stabilization of posture during performance of the lifting movement
+purpose: []
+related_concepts:
+- concept.power_exercise

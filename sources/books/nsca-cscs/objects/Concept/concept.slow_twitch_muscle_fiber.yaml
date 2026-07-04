@@ -1,0 +1,30 @@
+id: concept.slow_twitch_muscle_fiber
+type: Concept
+canonical_name: Slow-Twitch Muscle Fiber
+semantic_type: Cell
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 58
+  pdf_page: 58
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.muscle_fiber
+definition: 'Muscle fibers that develop force and relax slowly and have a longer twitch
+  time.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.fast_twitch_muscle_fiber

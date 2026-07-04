@@ -1,0 +1,26 @@
+id: recommendation.alcohol_consumption_moderation
+type: Recommendation
+canonical_name: Alcohol Consumption Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 544
+  pdf_page: 544
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Alcohol has calories but few nutrients; adults of legal drinking
+  age who choose to drink should do so in moderation.
+
+  '
+target_population: adults of legal drinking age who choose to drink
+rationale: Alcohol has calories but few nutrients
+exceptions: ''

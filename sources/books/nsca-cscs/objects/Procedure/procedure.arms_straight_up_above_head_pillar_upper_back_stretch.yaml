@@ -1,0 +1,29 @@
+id: procedure.arms_straight_up_above_head_pillar_upper_back_stretch
+type: Procedure
+canonical_name: Arms Straight Up Above Head (Pillar) (Upper Back Stretch)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 901
+  pdf_page: 901
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: '1. Stand with the arms in front of the torso, fingers interlocked with
+  palms facing out. 2. Slowly straighten the arms above the head with the palms up.
+  3. Continue to reach upward with the hands and arms. 4. While continuing to reach
+  upward, slowly reach slightly backward.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

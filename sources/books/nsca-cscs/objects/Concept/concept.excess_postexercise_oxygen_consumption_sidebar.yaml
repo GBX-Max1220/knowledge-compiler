@@ -1,0 +1,28 @@
+id: concept.excess_postexercise_oxygen_consumption_sidebar
+type: Concept
+canonical_name: Excess Postexercise Oxygen Consumption (Concept)
+semantic_type: PhysiologicalPhenomenon
+aliases:
+- EPOC
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetic Limiting Factors
+  section: '3.4'
+  section_title: Bioenergetic Limiting Factors
+  book_page: 212
+  pdf_page: 212
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Excess postexercise oxygen consumption (EPOC) refers to the prolonged
+  increase in V̇O2 that may be observed for hours after exercise (58).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

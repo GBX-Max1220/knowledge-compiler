@@ -1,0 +1,26 @@
+id: concept.minimal_essential_strain
+type: Concept
+canonical_name: Minimal Essential Strain
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Cardiovascular Adaptations
+  book_page: 336
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'minimal essential strain (MES)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

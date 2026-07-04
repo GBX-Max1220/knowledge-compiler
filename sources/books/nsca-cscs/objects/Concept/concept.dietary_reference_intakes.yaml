@@ -1,0 +1,39 @@
+id: concept.dietary_reference_intakes
+type: Concept
+canonical_name: Dietary Reference Intakes
+semantic_type: Nutrient Intake Standards
+aliases:
+- DRIs
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 545
+  pdf_page: 545
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.recommended_dietary_allowance
+- predicate: has_attribute
+  target: concept.adequate_intake
+- predicate: has_attribute
+  target: concept.tolerable_upper_intake_level
+- predicate: has_attribute
+  target: concept.estimated_average_requirement
+definition: 'The Dietary Reference Intakes (DRIs), developed by the U.S. Department
+  of Agriculture (USDA) and of Health and Human Services (HHS), are a complete set
+  of nutrient intakes for use when evaluating and planning diets for healthy individuals.
+
+  '
+attributes: []
+purpose:
+- evaluating diets for healthy individuals
+- planning diets for healthy individuals
+related_concepts: []

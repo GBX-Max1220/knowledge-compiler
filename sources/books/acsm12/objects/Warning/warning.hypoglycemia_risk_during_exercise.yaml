@@ -1,0 +1,30 @@
+id: warning.hypoglycemia_risk_during_exercise
+type: Warning
+canonical_name: Hypoglycemia Risk During Exercise
+semantic_type: Clinical Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Exercise Prescription for Special Populations
+  section: '9.21'
+  section_title: Special Considerations
+  book_page: 746
+  pdf_page: 746
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Individuals taking insulin or insulin secretagogues are at increased
+  risk for hypoglycemia during and after exercise. To reduce the risk of hypoglycemia,
+  individuals should monitor their blood glucose before, during, and after exercise.
+  If blood glucose is <100 mg·dL⁻¹ (5.6 mmol·L⁻¹), additional carbohydrate intake
+  may be needed before exercise.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,28 @@
+id: concept.valsalva_maneuver
+type: Concept
+canonical_name: Valsalva Maneuver
+semantic_type: Breathing Technique
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16.1'
+  section_title: Exercise Technique for Free Weight and Machine Training
+  book_page: 953
+  pdf_page: 953
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The Valsalva maneuver involves expiring against a closed glottis, which,
+  when combined with contracting the abdomen and rib cage muscles, creates rigid compartments
+  of fluid in the lower torso and air in the upper torso (i.e., the "fluid ball").
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

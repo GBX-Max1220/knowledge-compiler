@@ -1,0 +1,685 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.overtraining_syndrome
+type: Concept
+canonical_name: Overtraining Syndrome
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1722
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Overtraining syndrome can affect numerous physiological systems that in turn can contribute to impaired performance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.factors_contributing_to_overtraining_syndrome
+type: Concept
+canonical_name: Factors Contributing to Overtraining Syndrome
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1723
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Summary of factors contributing to overtraining syndrome and different levels of performance impairment. Additionally, many factors other than overtraining can result in underperformance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.addisonoid_syndrome
+type: Concept
+canonical_name: Addisonoid syndrome
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Addisonoid syndrome
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adrenal_exhaustion
+type: Concept
+canonical_name: Adrenal exhaustion
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  adrenal exhaustion
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adrenaline
+type: Concept
+canonical_name: Adrenaline
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  adrenaline
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.allostatic_load
+type: Concept
+canonical_name: Allostatic load
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  allostatic load
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.antecedents
+type: Concept
+canonical_name: Antecedents
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  antecedents
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.autonomic_nervous_system
+type: Concept
+canonical_name: Autonomic nervous system
+semantic_type: Body System
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  autonomic nervous system
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.catecholamines
+type: Concept
+canonical_name: Catecholamines
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  catecholamines
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.coefficient_of_variation
+type: Concept
+canonical_name: Coefficient of variation
+semantic_type: Metric
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  coefficient of variation
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.down_regulation
+type: Concept
+canonical_name: Down-regulation
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  down-regulation
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.epinephrine
+type: Concept
+canonical_name: Epinephrine
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  epinephrine
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.functional_overreaching
+type: Concept
+canonical_name: Functional overreaching
+semantic_type: Condition
+aliases:
+  - FOR
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  functional overreaching (FOR)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.general_adaptation_syndrome
+type: Concept
+canonical_name: General adaptation syndrome
+semantic_type: Concept
+aliases:
+  - GAS
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  general adaptation syndrome (GAS)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.nonfunctional_overreaching
+type: Concept
+canonical_name: Nonfunctional overreaching
+semantic_type: Condition
+aliases:
+  - NFOR
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  nonfunctional overreaching (NFOR)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.overreaching
+type: Concept
+canonical_name: Overreaching
+semantic_type: Condition
+aliases:
+  - OR
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  overreaching (OR)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.overtraining
+type: Concept
+canonical_name: Overtraining
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  overtraining
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.overtraining_syndrome_ots
+type: Concept
+canonical_name: Overtraining syndrome
+semantic_type: Condition
+aliases:
+  - OTS
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  overtraining syndrome (OTS)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.parasympathetic_overtraining_syndrome
+type: Concept
+canonical_name: Parasympathetic overtraining syndrome
+semantic_type: Condition
+aliases:
+  - POTS
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  parasympathetic overtraining syndrome (POTS)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.performance_stagnation
+type: Concept
+canonical_name: Performance stagnation
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  performance stagnation
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.recovery
+type: Concept
+canonical_name: Recovery
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  recovery
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.relative_energy_deficiency_syndrome
+type: Concept
+canonical_name: Relative energy deficiency syndrome
+semantic_type: Condition
+aliases:
+  - RED-S
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  relative energy deficiency syndrome (RED-S)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stress
+type: Concept
+canonical_name: Stress
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  stress
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sympathetic_overtraining_syndrome
+type: Concept
+canonical_name: Sympathetic overtraining syndrome
+semantic_type: Condition
+aliases:
+  - SOTS
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 24
+  chapter_title: ""
+  section: "24.5"
+  section_title: "Recovery Strategies"
+  book_page: 1724
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  sympathetic overtraining syndrome (SOTS)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.underperformance
+type: Concept
+can

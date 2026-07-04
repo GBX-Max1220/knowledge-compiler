@@ -1,0 +1,38 @@
+id: evidence.efficacy_of_preworkout_energy_drinks_for_resistance_exercise
+type: Evidence
+canonical_name: Efficacy of Preworkout Energy Drinks for Resistance Exercise
+semantic_type: Research Finding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 721
+  pdf_page: 721
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Forbes and colleagues (70) gave 15 physically active college-aged students
+  a commercially available energy drink or an isocaloric noncaffeinated placebo 60
+  minutes before exercise. The energy drink was standardized with 2 milligrams of
+  caffeine per kilogram body mass. The exercise bout consisted of 3 sets of 70% 1RM
+  bench press conducted to failure on each set with 1 minute of rest between each
+  set. The energy drink significantly increased bench press performance as compared
+  to the placebo treatment. Other studies investigating the effects of preworkout
+  energy drink consumption have also reported improvements in upper and lower body
+  total lifting volume (54, 86).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.energy_drink
+- concept.bench_press_performance
+- concept.upper_body_total_lifting_volume
+- concept.lower_body_total_lifting_volume

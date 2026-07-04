@@ -1,0 +1,591 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.accentuated_eccentric_loading
+type: Concept
+canonical_name: Accentuated Eccentric Loading
+semantic_type: Training Method
+aliases:
+  - Augmented Eccentric Loading
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1113
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.resistance_training_strategy
+
+definition: >
+  One variable resistance training strategy that addresses this differential is the use of accentuated eccentric loading (AEL), which is sometimes referred to as augmented eccentric loading (95, 132). With this loading strategy, an additional load is applied during the eccentric phase of the movement and then removed during the concentric phase of the movement.
+
+attributes:
+  - additional load applied during eccentric phase
+  - load removed during concentric phase
+
+purpose:
+  - address differential between eccentric and concentric strength
+
+related_concepts:
+  - concept.eccentric_strength_deficit
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.eccentric_strength_deficit
+type: Concept
+canonical_name: Eccentric Strength Deficit
+semantic_type: Physiological Phenomenon
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1112
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.strength_deficit
+
+definition: >
+  This practice creates a unique loading problem because it is well documented that muscles are stronger during eccentric (i.e., lengthening) versus concentric (i.e., shortening) muscle actions, resulting in what is referred to as an eccentric strength deficit (figure 17.5) (51, 91).
+
+attributes:
+  - muscles stronger during eccentric vs concentric muscle actions
+
+purpose: []
+
+related_concepts:
+  - concept.accentuated_eccentric_loading
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.determining_resistance_with_resistance_bands_load_calculation
+type: Recommendation
+canonical_name: Determining Resistance With Resistance Bands — Load Calculation
+semantic_type: Load Calculation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1109
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Based on the recommendations of Baker (8), an athlete who wants to train at a 5RM load of 150 kilograms (331 lb) with bands would subtract the average of the two band positions (i.e., top and bottom) and reduce the load on the bar by that amount. So if the band exerts a zero resistance load at the bottom of the movement and a load of 26.6 kilograms (58.6 lb) at the top position (i.e., lockout in the bench press), based on the length of the band achieved as it is stretched, the athlete would subtract 13.3 kilograms (29.3 lb) from the total weight on the bar without the bands to get 136 to 137 kilograms (300-302 lb).
+
+conditions:
+  - athlete wants to train at a 5RM load of 150 kilograms (331 lb) with bands
+
+citations:
+  - "Baker (8)"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.accentuated_eccentric_loading_advanced_training_tactic_warning
+type: Recommendation
+canonical_name: Accentuated Eccentric Loading — Advanced Training Tactic Warning
+semantic_type: Training Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1114
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Accentuated eccentric loading (AEL) is an advanced training tactic and should be reserved for athletes with extensive resistance training experience.
+
+conditions:
+  - athlete has extensive resistance training experience
+
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.accentuated_eccentric_loading_plyometric_exercise_load_recommendation
+type: Recommendation
+canonical_name: Accentuated Eccentric Loading — Plyometric Exercise Load Recommendation
+semantic_type: Load Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1115
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Ultimately, based on the available evidence, loads of 20% to 30% of body mass should be implemented during AEL when attempting to potentiate performance during the concentric phase of a plyometric jumping activity (91).
+
+conditions:
+  - attempting to potentiate performance during the concentric phase of a plyometric jumping activity
+
+citations:
+  - "91"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.tire_flipping_injury_mitigation
+type: Recommendation
+canonical_name: Tire Flipping — Injury Mitigation
+semantic_type: Safety Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1122
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  To mitigate this injury risk, it is generally recommended that the tires used should be dry and have sufficient tread to allow the athlete to maintain grip and properly execute the exercise (21). Additionally, it is important that the tire is selected based on the individual athlete's strength levels and that the movement is performed with appropriate exercise technique so that injury risk is minimized.
+
+conditions:
+  - athlete is performing tire flip exercise
+
+citations:
+  - "21"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.strongman_training_injury_risk
+type: Warning
+canonical_name: Strongman Training — Injury Risk
+semantic_type: Injury Risk
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1121
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  Perhaps as a consequence of the common usage of the tire flip, yoke walk, and stone lift by strongman athletes, two systematic reviews have reported greater injury rates in strongman athletes when compared to other strength sport athletes such as weightlifters, powerlifters, and bodybuilders (74, 121).
+
+severity: high
+
+citations:
+  - "74"
+  - "121"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.tire_flipping_biceps_tear_risk
+type: Warning
+canonical_name: Tire Flipping — Biceps Tear Risk
+semantic_type: Injury Risk
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1122
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  The most common injury associated with the tire flip is biceps tears (158), which may occur when the hands slip on the tire.
+
+severity: high
+
+citations:
+  - "158"
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.hookes_law_for_resistance_bands
+type: Formula
+canonical_name: Hooke's Law for Resistance Bands
+semantic_type: Physical Law
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1108
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+formula_text: "Tension = Stiffness (k) × Deformation (d)"
+
+variables:
+  - name: Tension
+    symbol: T
+    unit: ""
+  - name: Stiffness
+    symbol: k
+    unit: ""
+  - name: Deformation
+    symbol: d
+    unit: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.accentuated_eccentric_loading_eccentric_load_magnitudes
+type: Threshold
+canonical_name: Accentuated Eccentric Loading — Eccentric Load Magnitudes
+semantic_type: Load Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1114
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.accentuated_eccentric_loading_supramaximal_load_range
+
+threshold_type: range
+value: "<100% of concentric 1RM"
+label: submaximal
+unit: "% of concentric 1RM"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.accentuated_eccentric_loading_eccentric_load_magnitudes_maximal
+type: Threshold
+canonical_name: Accentuated Eccentric Loading — Eccentric Load Magnitudes Maximal
+semantic_type: Load Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1114
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.accentuated_eccentric_loading_eccentric_load_magnitudes
+  - predicate: adjacent_to
+    target: threshold.accentuated_eccentric_loading_supramaximal_load_range
+
+threshold_type: value
+value: "100% of concentric 1RM"
+label: maximal
+unit: "% of concentric 1RM"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.accentuated_eccentric_loading_supramaximal_load_range
+type: Threshold
+canonical_name: Accentuated Eccentric Loading — Supramaximal Load Range
+semantic_type: Load Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1115
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.accentuated_eccentric_loading_eccentric_load_magnitudes_maximal
+
+threshold_type: range
+value: ">100% of concentric 1RM"
+label: supramaximal
+unit: "% of concentric 1RM"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.accentuated_eccentric_loading_supramaximal_load_range_105_120
+type: Threshold
+canonical_name: Accentuated Eccentric Loading — Supramaximal Load Range 105-120
+semantic_type: Load Range
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1115
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: range
+value: "105% to 120% of the concentric 1RM"
+label: supramaximal AEL
+unit: "% of concentric 1RM"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.accentuated_eccentric_loading_differential_for_acute_performance_gains
+type: Threshold
+canonical_name: Accentuated Eccentric Loading — Differential for Acute Performance Gains
+semantic_type: Performance Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1115
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: value
+value: ">40%"
+label: differential between AEL and concentric load
+unit: "%"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_band_tension_difference_between_equal_bands
+type: Threshold
+canonical_name: Resistance Band — Tension Difference Between Equal Bands
+semantic_type: Variability Range
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1108
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: range
+value: "3.2% to 5.2%"
+label: difference between two supposedly equal bands
+unit: "%"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_band_mean_tension_difference
+type: Threshold
+canonical_name: Resistance Band — Mean Tension Difference
+semantic_type: Variability Range
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1108
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+threshold_type: range
+value: "8% to 19%"
+label: difference in mean tension between bands
+unit: "%"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.resistance_band_substitution_percentage_for_back_squat
+type: Threshold
+canonical_name: Resistance Band — Substitution Percentage for Back Squat
+semantic_type: Load Substitution
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Core Stability and Balance Training"
+  section: "17.2"
+  section_title: "Core Stability and Balance Training"
+  book_page: 1107
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+ 

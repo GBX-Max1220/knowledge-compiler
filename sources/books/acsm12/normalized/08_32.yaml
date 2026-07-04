@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.preexercise_assessment_components
+type: TableRow
+canonical_name: Preexercise Assessment Components
+semantic_type: Table
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.32"
+  section_title: "Preexercise Assessment"
+  book_page: 613
+  pdf_page: 613
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 8.1 — Preexercise Assessment Components. The content of this table is not provided in the extraction text.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

@@ -1,0 +1,25 @@
+id: risk_factor.cardiovascular_event_exercise
+type: Concept
+canonical_name: Exercise-Related Cardiovascular Event Risk
+semantic_type: Entity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.7'
+  section_title: Risks Associated With Physical Activity and Exercise
+  book_page: 88
+  pdf_page: 88
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: Adverse cardiovascular events such as sudden cardiac death (SCD) and acute
+  myocardial infarction (AMI) are usually associated with vigorous-intensity exercise.
+attributes: []
+purpose: []
+related_concepts: []

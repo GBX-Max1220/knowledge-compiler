@@ -1,0 +1,27 @@
+id: figure.fluid_ball
+type: Figure
+canonical_name: Figure 2.15 — The Fluid Ball
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 163
+  pdf_page: 163
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+figure_number: '2.15'
+figure_title: The Fluid Ball
+caption: The fluid ball resulting from contraction of the deep abdominal muscles and
+  the diaphragm.
+description: ''
+related_concepts:
+- concept.fluid_ball

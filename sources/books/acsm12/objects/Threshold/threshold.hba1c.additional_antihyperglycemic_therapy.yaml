@@ -1,0 +1,35 @@
+id: threshold.hba1c.additional_antihyperglycemic_therapy
+type: Threshold
+canonical_name: HbA1c Threshold for Additional Antihyperglycemic Therapy
+semantic_type: ClinicalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Pharmacological Treatment Options
+  section: '10.14'
+  section_title: Pharmacological Treatment Options
+  book_page: 819
+  pdf_page: 819
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'If HbA1c remains ≥7.0% after 3 months of metformin monotherapy, consider
+  adding a second agent such as a sulfonylurea, DPP-4 inhibitor, or SGLT2 inhibitor.
+
+  '
+attributes:
+- hba1c: ≥7.0
+- unit: '%'
+- duration: 3 months
+purpose:
+- add second antihyperglycemic agent
+related_concepts:
+- concept.metformin
+- concept.sulfonylurea
+- concept.dpp4_inhibitor
+- concept.sglt2_inhibitor

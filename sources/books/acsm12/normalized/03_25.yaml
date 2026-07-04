@@ -1,0 +1,46 @@
+# ontology: knowledge-compiler/v1
+# Section: 3.25 — Muscular Strength
+# Pages: 231–236
+
+---
+id: procedure.one_rm_testing
+type: Procedure
+canonical_name: 1-Repetition Maximum Testing
+semantic_type: Protocol
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "3.25"
+  section_title: "Muscular Strength"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+goal: Determine the maximum weight an individual can lift once
+inputs:
+  - resistance training equipment
+  - spotter
+outputs:
+  - 1-RM value
+steps:
+  - Complete familiarization/practice sessions before testing
+  - Warm up with submaximal repetitions of the exercise
+  - Select initial weight at ~50-70% of perceived capacity
+  - Attempt the lift with proper form
+  - If successful, rest 3-5 minutes and increase weight
+  - Repeat until failure occurs (unable to complete lift with proper form)
+  - Record the last successfully completed weight as the 1-RM
+  - Complete within 4 trials to avoid fatigue
+exceptions:
+  - Older adults or clinical populations may use multiple-RM tests (e.g., 10-RM) instead

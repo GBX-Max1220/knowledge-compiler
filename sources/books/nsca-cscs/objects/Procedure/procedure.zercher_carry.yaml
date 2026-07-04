@@ -1,0 +1,30 @@
+id: procedure.zercher_carry
+type: Procedure
+canonical_name: Zercher Carry
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Nontraditional Implements
+  section: '17.4'
+  section_title: Nontraditional Implements
+  book_page: 1154
+  pdf_page: 1154
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A loaded carry exercise where a barbell is held in the crooks of the
+  elbows against the upper abdominal region while walking.
+
+  '
+attributes:
+- requires_barbell
+- loaded_carry
+purpose:
+- strengthen gastrocnemius
+- strengthen soleus

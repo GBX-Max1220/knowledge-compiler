@@ -1,0 +1,552 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.anterior_cruciate_ligament
+type: Concept
+canonical_name: Anterior Cruciate Ligament
+semantic_type: AnatomicalStructure
+aliases:
+  - ACL
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 444
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  It is important for strength and conditioning professionals to be aware of anterior cruciate ligament (ACL) injuries in female athletes, particularly in sports such as soccer, lacrosse, and basketball (3, 4).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.patellofemoral_pain_syndrome
+type: Concept
+canonical_name: Patellofemoral Pain Syndrome
+semantic_type: Condition
+aliases:
+  - PFPS
+  - runner's knee
+  - jumper's knee
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 446
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Patellofemoral pain syndrome (PFPS) is a broad term used for pain arising from the patellofemoral joint, also known as runner's knee or jumper's knee (24).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bone_stress_injury
+type: Concept
+canonical_name: Bone Stress Injury
+semantic_type: Condition
+aliases:
+  - stress fracture
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 446
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Bone stress injuries, including stress fractures, have regularly been shown to occur at a higher rate in female athletes than in male athletes (34, 153). The accumulation of repetitive stress, bone stress injuries frequently occur in athletes (1, 153) and are considered overuse injuries, where abnormal bone remodeling occurs (180).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.relative_energy_deficiency_in_sport
+type: Concept
+canonical_name: Relative Energy Deficiency in Sport
+semantic_type: Condition
+aliases:
+  - RED-S
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 446
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  ...relative energy deficiency in sport (RED-S) (124).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.concussion
+type: Concept
+canonical_name: Concussion
+semantic_type: Condition
+aliases:
+  - mild traumatic brain injury
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 447
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A concussion, or mild traumatic brain injury, is an impact to the head or body that causes the brain to move rapidly back and forth in the skull, which disrupts normal brain function (73).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mental_health
+type: Concept
+canonical_name: Mental Health
+semantic_type: Concept
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 448
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Mental health has gained increasingly more attention in athletes with a focus on sport organizations and practitioners to take a holistic approach when training athletes (33, 57, 77, 149).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pelvic_floor_dysfunction
+type: Concept
+canonical_name: Pelvic Floor Dysfunction
+semantic_type: Condition
+aliases:
+  - PFD
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Pelvic floor dysfunction (PFD) is a term used to identify various impairments of the pelvic floor muscles that support the pelvic organs and promote continence (99, 107).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.urinary_incontinence
+type: Concept
+canonical_name: Urinary Incontinence
+semantic_type: Condition
+aliases:
+  - UI
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  UI is an involuntary loss of urine, and SUI is an involuntary loss of urine with any physical exertion (22, 150).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.stress_urinary_incontinence
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stress_urinary_incontinence
+type: Concept
+canonical_name: Stress Urinary Incontinence
+semantic_type: Condition
+aliases:
+  - SUI
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.urinary_incontinence
+definition: >
+  UI is an involuntary loss of urine, and SUI is an involuntary loss of urine with any physical exertion (22, 150).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.endocrine_system
+type: Concept
+canonical_name: Endocrine System
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 453
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The endocrine system is responsible for regulating physiological responses and adaptations to the various stressors encountered, including physical activity.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.testosterone
+type: Concept
+canonical_name: Testosterone
+semantic_type: Hormone
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 454
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Testosterone is present in much higher concentrations in males than in females, but females produce testosterone in small quantities in the ovaries and the adrenal gland (52).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.growth_hormone
+type: Concept
+canonical_name: Growth Hormone
+semantic_type: Hormone
+aliases:
+  - GH
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 455
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Growth hormones (GH) have a primary role in muscle tissue remodeling and repair but do not function alone, because muscle protein synthesis is triggered with the growth factor known as IGF-1.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.igf_1
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cortisol
+type: Concept
+canonical_name: Cortisol
+semantic_type: Hormone
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 456
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cortisol is an important hormone that helps regulate blood glucose levels as well as inflammation.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.estradiol
+type: Concept
+canonical_name: Estradiol
+semantic_type: Hormone
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 457
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In menstruating adult females, the primary form of estrogen is estradiol, which has been shown to directly affect the structure and function of muscle, tendon, and ligaments, as well as contribute to muscle mass and strength (37).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.estrogen
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.progesterone
+type: Concept
+canonical_name: Progesterone
+semantic_type: Hormone
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 456
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Progesterone rises and peaks during the second half of the cycle, and there is a second but lesser peak of estradiol.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.estradiol
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.menstrual_cycle
+type: Concept
+canonical_name: Menstrual Cycle
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 456
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Females experience the menstrual cycle during adolescence and adulthood, approximately between the ages of 12 and 50 (56).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteogenesis
+type: Concept
+canonical_name: Osteogenesis
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 451
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  It is also known that higher intensities of resistance training promote greater degrees of osteogenesis (103)...
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pregnancy
+type: Concept
+canonical_name: Pregnancy
+semantic_type: PhysiologicalState
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 441
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Pregnancy occurs only when pubertal sexual development is complete and prior to menopause (average age between 12-51 years).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.general_exercise_during_pregnancy_first_trimester
+type: Recommendation
+canonical_name: General Exercise Recommendations During Pregnancy — First Trimester
+semantic_type: ExerciseRecommendation
+aliases: []
+source:
+  book: "Essentials of Strength Training and Conditioning"
+  edition: 5
+  chapter: 8
+  chapter_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  section: "8.1"
+  section_title: "Sex-Related Differences and Their Implications for Resistance Training"
+  book_page: 443
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Continue activity at prepregnancy levels and intensities but monitor for adverse signs and symptoms. Misinterpretation of maximum heart rate, reaching it sooner in pregnancy. Use combined approach of heart rate and perceived exertion to monitor intensity. Initiate pelvic floor exercises to assist in labor and delivery and help with urinary incontinence. Increase squatting activities with body weight and loaded to maintain strength and improve labor and delivery. Increase water intake.
+rationale: []
+target_population: "Pregnant females in the first trimester"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.general_exercise_during_pregnancy_second_trimester
+type: Recommendation

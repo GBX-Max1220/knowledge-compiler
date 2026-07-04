@@ -1,0 +1,11 @@
+id: concept.headache
+type: Concept
+canonical_name: Headache
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Headache is a concept in strength and conditioning.

@@ -1,0 +1,36 @@
+id: procedure.step_up_exercise_technique
+type: Procedure
+canonical_name: Step-Up Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique Guidelines
+  section: '16.3'
+  section_title: Exercise Technique Guidelines
+  book_page: 1031
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A step-up exercise technique involving a box 12 to 18 inches (30-46 cm)
+  high, or high enough to create a 90-degree angle at the knee joint when the foot
+  is on the box. The technique includes starting positions for the athlete and spotter,
+  upward movement phase, and downward movement phase.
+
+  '
+attributes:
+- closed pronated grip
+- parallel feet
+- erect torso
+- neutral spine
+purpose:
+- improve lower body strength
+- improve balance
+related_concepts:
+- threshold.step_up_box_height_range

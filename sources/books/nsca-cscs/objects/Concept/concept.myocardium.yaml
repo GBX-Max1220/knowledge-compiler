@@ -1,0 +1,16 @@
+id: concept.myocardium
+type: Concept
+canonical_name: Myocardium
+semantic_type: Tissue
+aliases:
+- heart muscle
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.03'
+  section_title: Cardiovascular System
+  book_page: 71
+definition: The myocardium is the thick, middle layer of the heart wall composed of
+  cardiac muscle tissue responsible for the contractile function of the heart.

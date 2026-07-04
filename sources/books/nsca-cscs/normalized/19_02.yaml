@@ -1,0 +1,533 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.plyometric_program_design_variables
+type: Concept
+canonical_name: Plyometric Program Design Variables
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1276
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Effective plyometric programs include the same variables that are essential to any training program design: mode, intensity, frequency, recovery, volume, and progression.
+attributes:
+  - mode
+  - intensity
+  - frequency
+  - recovery
+  - volume
+  - progression
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.frequency_plyometric_training
+type: Concept
+canonical_name: Frequency (Plyometric Training)
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1276
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.plyometric_program_design_variables
+definition: >
+  Frequency refers to the number of plyometric training sessions per week, typically ranging from one to four.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.plyometric_training_frequency_guidelines
+type: Recommendation
+canonical_name: Plyometric Training Frequency Guidelines
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1276
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  During the season, one session per week is appropriate for American football players, while two or three sessions per week are common for track and field athletes (2). During the off-season, plyometric training frequency may increase to two or three sessions per week for American football players and to three or four sessions per week for track and field athletes (2).
+population:
+  - American football players
+  - track and field athletes
+context: "in-season and off-season"
+citations:
+  - "2"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.recovery_time_between_plyometric_sessions
+type: Recommendation
+canonical_name: Recovery Time Between Plyometric Sessions
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1276
+  pdf_page: null
+  book_page_end: 1277
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Forty-eight to 72 hours between plyometric sessions is a typical recovery time guideline for prescribing plyometrics (19); using these typical recovery times, athletes commonly perform two to three plyometric sessions per week.
+population: []
+context: ""
+citations:
+  - "19"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.recovery_between_plyometric_repetitions_and_sets
+type: Recommendation
+canonical_name: Recovery Between Plyometric Repetitions and Sets
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1277
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Recovery for depth jumps may consist of 5 to 10 seconds of rest between repetitions and 2 to 5 minutes between sets. The time between sets is determined by a proper work-to-rest ratio (i.e., 1:5 to 1:10) and is specific to the volume and type of drill being performed.
+population: []
+context: "depth jumps"
+citations: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.volume_plyometric_training
+type: Concept
+canonical_name: Volume (Plyometric Training)
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1277
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.plyometric_program_design_variables
+definition: >
+  Plyometric volume is typically expressed as the number of repetitions and sets performed during a given training session (table 19.6). Lower body plyometric volume is normally given as the number of foot contacts (each time a foot, or the feet together, contact the surface) per workout (2, 19) but may also be expressed as distance, as with plyometric bounding.
+attributes: []
+purpose: []
+related_concepts:
+  - table_row.plyometric_volumes
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_beginner_low
+type: TableRow
+canonical_name: Plyometric Volumes Beginner Low
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Beginner (no experience)"
+  intensity_level_of_the_plyometric_drill: "Low"
+  volume: "80 to 100"
+  unit: "contacts per session"
+note: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_beginner_moderate
+type: TableRow
+canonical_name: Plyometric Volumes Beginner Moderate
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Beginner (no experience)"
+  intensity_level_of_the_plyometric_drill: "Moderate"
+  volume: "Nr to 40"
+  unit: "contacts per session"
+note: "Nr = not recommended"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_beginner_high
+type: TableRow
+canonical_name: Plyometric Volumes Beginner High
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Beginner (no experience)"
+  intensity_level_of_the_plyometric_drill: "High"
+  volume: "Nr"
+  unit: "contacts per session"
+note: "Nr = not recommended"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_intermediate_low
+type: TableRow
+canonical_name: Plyometric Volumes Intermediate Low
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Intermediate (some experience)"
+  intensity_level_of_the_plyometric_drill: "Low"
+  volume: "100 to 120"
+  unit: "contacts per session"
+note: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_intermediate_moderate
+type: TableRow
+canonical_name: Plyometric Volumes Intermediate Moderate
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Intermediate (some experience)"
+  intensity_level_of_the_plyometric_drill: "Moderate"
+  volume: "20 to 100"
+  unit: "contacts per session"
+note: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_intermediate_high
+type: TableRow
+canonical_name: Plyometric Volumes Intermediate High
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Intermediate (some experience)"
+  intensity_level_of_the_plyometric_drill: "High"
+  volume: "Nr to 20"
+  unit: "contacts per session"
+note: "Nr = not recommended"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_advanced_low
+type: TableRow
+canonical_name: Plyometric Volumes Advanced Low
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Advanced (considerable experience)"
+  intensity_level_of_the_plyometric_drill: "Low"
+  volume: "120 to 200"
+  unit: "contacts per session"
+note: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_advanced_moderate
+type: TableRow
+canonical_name: Plyometric Volumes Advanced Moderate
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Advanced (considerable experience)"
+  intensity_level_of_the_plyometric_drill: "Moderate"
+  volume: "20 to 120"
+  unit: "contacts per session"
+note: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plyometric_volumes_advanced_high
+type: TableRow
+canonical_name: Plyometric Volumes Advanced High
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_id: "19.6"
+table_title: "Plyometric Volumes"
+row_data:
+  plyometric_experience_level: "Advanced (considerable experience)"
+  intensity_level_of_the_plyometric_drill: "High"
+  volume: "20 to 40"
+  unit: "contacts per session"
+note: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.progressive_overload_plyometric_training
+type: Concept
+canonical_name: Progressive Overload (Plyometric Training)
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1278
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.plyometric_program_design_variables
+definition: >
+  Plyometrics is a form of resistance training and thus must follow the principles of progressive overload, which is the systematic increase in training frequency, volume, and intensity in various combinations.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.program_length_for_plyometric_training
+type: Recommendation
+canonical_name: Program Length for Plyometric Training
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 19
+  chapter_title: "Plyometric Training"
+  section: "19.2"
+  section_title: "Plyometric Program Design"
+  book_page: 1281
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Currently, most programs range from 6 to 10 weeks (2, 34); however, vertical jump height improves as quickly as four weeks after the start of a plyometric training program (54).
+population: []
+context: ""
+citations:
+  - "2"
+  - "34"
+  - "54"
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.steps_for_implementing_a_plyometric_training_program
+type: Procedure
+canonical_name: Steps for Implementing a Plyometric Training Program
+semantic_type: Procedure
+aliases: []
+source:
+  book: "AC

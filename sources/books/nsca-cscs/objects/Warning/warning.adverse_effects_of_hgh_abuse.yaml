@@ -1,0 +1,31 @@
+id: warning.adverse_effects_of_hgh_abuse
+type: Warning
+canonical_name: Adverse Effects of HGH Abuse
+semantic_type: Warning
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 692
+  pdf_page: 692
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: 'Adverse side effects for HGH abuse are diabetes in prone individuals;
+  cardiovascular dysfunction; muscle, joint, and bone pain; hypertension; abnormal
+  growth of organs; and accelerated osteoarthritis (16).
+
+  '
+severity: serious
+affected_population: individuals who abuse HGH

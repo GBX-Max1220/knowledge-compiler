@@ -1,0 +1,31 @@
+id: recommendation.rest_period_between_tests_battery
+type: Recommendation
+canonical_name: Rest Period Between Tests in a Battery
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing
+  section: '13.4'
+  section_title: Test Selection
+  book_page: 756
+  pdf_page: 756
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When administering a test battery (e.g., one in which wrestlers perform
+  maximal repetition pull-up and push-up tests for assessment of local muscular endurance),
+  tests should be separated by at least 5 minutes to prevent the effects of fatigue
+  from confounding test results (also see the following section, Sequence of Tests).
+
+  '
+attributes: []
+purpose:
+- prevent the effects of fatigue from confounding test results
+related_concepts:
+- concept.test_battery

@@ -1,0 +1,26 @@
+id: threshold.accentuated_eccentric_loading_eccentric_load_magnitudes
+type: Threshold
+canonical_name: Accentuated Eccentric Loading — Eccentric Load Magnitudes
+semantic_type: Load Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1114
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.accentuated_eccentric_loading_supramaximal_load_range
+threshold_type: range
+value: <100% of concentric 1RM
+label: submaximal
+unit: '% of concentric 1RM'

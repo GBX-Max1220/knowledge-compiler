@@ -1,0 +1,30 @@
+id: concept.aerobic_glycolysis
+type: Concept
+canonical_name: Aerobic Glycolysis
+semantic_type: MetabolicProcess
+aliases:
+- Slow Glycolysis
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Biological Energy Systems
+  section: '3.2'
+  section_title: Biological Energy Systems
+  book_page: 184
+  pdf_page: 184
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'However, when pyruvate is shuttled into the mitochondria to undergo the
+  Krebs cycle, the ATP resynthesis rate is slower because of the numerous reactions
+  but can occur for a longer duration if the exercise intensity is low enough. This
+  process is often referred to as aerobic glycolysis (or slow glycolysis).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

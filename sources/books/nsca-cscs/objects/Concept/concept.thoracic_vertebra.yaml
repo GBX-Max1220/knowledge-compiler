@@ -1,0 +1,24 @@
+id: concept.thoracic_vertebra
+type: Concept
+canonical_name: Thoracic Vertebra
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 41
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.vertebral_column
+definition: Thoracic vertebrae are the twelve vertebrae of the upper and middle back
+  (T1-T12), articulating with the ribs.

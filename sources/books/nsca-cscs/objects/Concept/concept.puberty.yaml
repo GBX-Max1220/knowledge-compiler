@@ -1,0 +1,27 @@
+id: concept.puberty
+type: Concept
+canonical_name: Puberty
+semantic_type: LifeStage
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 387
+  pdf_page: 387
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Puberty refers to a period of time in which secondary sex characteristics
+  develop and a child transitions to young adulthood.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

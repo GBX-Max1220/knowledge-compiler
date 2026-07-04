@@ -1,0 +1,26 @@
+id: concept.blood_pressure_response
+type: Concept
+canonical_name: Blood Pressure Response
+semantic_type: PhysiologicalResponse
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.11'
+  section_title: Blood Pressure Response
+  book_page: 297
+  pdf_page: 297
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Blood Pressure Response
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

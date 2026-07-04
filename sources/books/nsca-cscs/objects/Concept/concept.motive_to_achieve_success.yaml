@@ -1,0 +1,29 @@
+id: concept.motive_to_achieve_success
+type: Concept
+canonical_name: Motive to Achieve Success
+semantic_type: PsychologicalConstruct
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.2'
+  section_title: Ideal Performance State
+  book_page: 483
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.achievement_motivation
+definition: 'Relates to the capacity to experience pride in one’s accomplishments
+  and is characterized by a desire to challenge oneself and evaluate one’s abilities.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

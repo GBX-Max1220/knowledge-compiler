@@ -1,0 +1,11 @@
+id: concept.hemodynamic_responses
+type: Concept
+canonical_name: Hemodynamic Responses
+semantic_type: Entity
+source:
+  book: ACSM Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  section: '1.0'
+  book_page: 1
+definition: Hemodynamic Responses is a concept in exercise science.

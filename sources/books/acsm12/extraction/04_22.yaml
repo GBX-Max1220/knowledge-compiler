@@ -1,0 +1,137 @@
+TYPE
+Procedure
+
+TITLE
+Clinical Exercise Test Data and Prognosis — Data Collection and Interpretation
+
+PAGE
+314–315
+
+SECTION
+4.22 — Clinical Exercise Test Data and Prognosis
+
+ORIGINAL TEXT
+Clinical Exercise Test Data and Prognosis
+
+The clinical exercise test provides valuable diagnostic and prognostic information. The data collected during the test should be systematically reviewed and interpreted to guide patient management. Key variables to assess include exercise capacity, hemodynamic responses, electrocardiographic changes, and symptom development. Exercise capacity, often expressed in metabolic equivalents (METs), is one of the strongest predictors of prognosis. A low exercise capacity (<5 METs) is associated with a worse prognosis, whereas a high exercise capacity (>10 METs) generally indicates a favorable prognosis. The Duke Treadmill Score (DTS) is a commonly used prognostic tool that incorporates exercise time, ST-segment deviation, and anginal symptoms during the test. The DTS is calculated as: exercise time (minutes) – (5 × ST-segment deviation [mm]) – (4 × angina index). The angina index is 0 for no angina, 1 for nonlimiting angina, and 2 for exercise-limiting angina. Patients are stratified into low-risk (DTS ≥5), moderate-risk (DTS –10 to 4), and high-risk (DTS ≤–11) categories. Heart rate recovery (HRR) at 1 min postexercise is also a significant prognostic indicator; a value ≤12 beats·min⁻¹ is considered abnormal and is associated with increased mortality. Chronotropic incompetence, defined as failure to achieve 85% of age-predicted maximal heart rate, is another marker of poor prognosis. Blood pressure responses, including an exaggerated systolic BP response (≥210 mm Hg in men or ≥190 mm Hg in women) or a hypotensive response during exercise, also carry prognostic significance. The presence of exercise-induced ventricular arrhythmias, particularly frequent or complex forms, is associated with an increased risk of cardiovascular events. Figure 4.5 provides a summary of the prognostic variables derived from the clinical exercise test.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Capacity Prognostic Thresholds
+
+PAGE
+314–315
+
+SECTION
+4.22 — Clinical Exercise Test Data and Prognosis
+
+ORIGINAL TEXT
+A low exercise capacity (<5 METs) is associated with a worse prognosis, whereas a high exercise capacity (>10 METs) generally indicates a favorable prognosis.
+
+END
+
+TYPE
+Formula
+
+TITLE
+Duke Treadmill Score Calculation
+
+PAGE
+314–315
+
+SECTION
+4.22 — Clinical Exercise Test Data and Prognosis
+
+ORIGINAL TEXT
+The DTS is calculated as: exercise time (minutes) – (5 × ST-segment deviation [mm]) – (4 × angina index). The angina index is 0 for no angina, 1 for nonlimiting angina, and 2 for exercise-limiting angina.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Duke Treadmill Score Risk Stratification
+
+PAGE
+314–315
+
+SECTION
+4.22 — Clinical Exercise Test Data and Prognosis
+
+ORIGINAL TEXT
+Patients are stratified into low-risk (DTS ≥5), moderate-risk (DTS –10 to 4), and high-risk (DTS ≤–11) categories.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Heart Rate Recovery Abnormal Threshold
+
+PAGE
+314–315
+
+SECTION
+4.22 — Clinical Exercise Test Data and Prognosis
+
+ORIGINAL TEXT
+Heart rate recovery (HRR) at 1 min postexercise is also a significant prognostic indicator; a value ≤12 beats·min⁻¹ is considered abnormal and is associated with increased mortality.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Chronotropic Incompetence
+
+PAGE
+314–315
+
+SECTION
+4.22 — Clinical Exercise Test Data and Prognosis
+
+ORIGINAL TEXT
+Chronotropic incompetence, defined as failure to achieve 85% of age-predicted maximal heart rate, is another marker of poor prognosis.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exaggerated Systolic Blood Pressure Response Thresholds
+
+PAGE
+314–315
+
+SECTION
+4.22 — Clinical Exercise Test Data and Prognosis
+
+ORIGINAL TEXT
+Blood pressure responses, including an exaggerated systolic BP response (≥210 mm Hg in men or ≥190 mm Hg in women) or a hypotensive response during exercise, also carry prognostic significance.
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 4.5 — Prognostic Variables from Clinical Exercise Test
+
+PAGE
+314–315
+
+SECTION
+4.22 — Clinical Exercise Test Data and Prognosis
+
+ORIGINAL TEXT
+Figure 4.5 provides a summary of the prognostic variables derived from the clinical exercise test.
+
+END

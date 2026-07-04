@@ -1,0 +1,33 @@
+id: threshold.increasing_nervous_system_symptoms
+type: Threshold
+canonical_name: Increasing Nervous System Symptoms
+semantic_type: Symptom Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Classification
+  section: '4.6'
+  section_title: Monitoring and Test Termination
+  book_page: 285
+  pdf_page: 285
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: threshold.absolute_indications_for_terminating_exercise_testing
+definition: 'Increasing nervous system symptoms (e.g., ataxia, dizziness, or near-syncope)
+
+  '
+attributes:
+- increasing nervous system symptoms
+- ataxia
+- dizziness
+- near-syncope
+purpose:
+- terminate exercise testing
+related_concepts: []

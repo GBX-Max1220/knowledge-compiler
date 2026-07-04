@@ -1,0 +1,609 @@
+# ontology: knowledge-compiler/v1
+
+id: warning.hypothermia_risk_factors
+type: Warning
+canonical_name: Hypothermia Risk Factors
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Hypothermia occurs when the body's core temperature falls below 35°C (95°F). Risk factors for hypothermia include cold water immersion, inadequate clothing, wet clothing, fatigue, dehydration, poor nutrition, and certain medications.
+
+attributes:
+  - risk_factors: ["cold water immersion", "inadequate clothing", "wet clothing", "fatigue", "dehydration", "poor nutrition", "certain medications"]
+
+purpose: []
+
+related_concepts:
+  - threshold.hypothermia_core_temperature
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.frostbite_risk_factors
+type: Warning
+canonical_name: Frostbite Risk Factors
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Frostbite occurs when tissue freezes, most commonly affecting the fingers, toes, ears, nose, and cheeks. Risk factors include prolonged exposure to cold temperatures, inadequate protective clothing, and wind chill.
+
+attributes:
+  - affected_areas: ["fingers", "toes", "ears", "nose", "cheeks"]
+  - risk_factors: ["prolonged exposure to cold temperatures", "inadequate protective clothing", "wind chill"]
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.trench_foot_risk_factors
+type: Warning
+canonical_name: Trench Foot Risk Factors
+semantic_type: MedicalCondition
+aliases: ["Immersion Foot"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Trench foot, or immersion foot, results from prolonged exposure to cold and wet conditions, typically between 0°C and 10°C (32°F to 50°F). It can occur even when temperatures are above freezing.
+
+attributes:
+  - temperature_range: "0°C to 10°C (32°F to 50°F)"
+
+purpose: []
+
+related_concepts:
+  - threshold.trench_foot_temperature_range
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.chilblains_risk_factors
+type: Warning
+canonical_name: Chilblains Risk Factors
+semantic_type: MedicalCondition
+aliases: ["Pernio"]
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Chilblains (pernio) are painful inflammatory lesions of the skin caused by repeated exposure to cold but nonfreezing temperatures.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.layered_clothing_for_cold_injury_prevention
+type: Recommendation
+canonical_name: Layered Clothing for Cold Injury Prevention
+semantic_type: PreventionStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  To prevent cold injuries, individuals should wear appropriate clothing in layers, including a moisture-wicking base layer, an insulating middle layer, and a wind- and water-resistant outer layer.
+
+attributes:
+  - layers: ["moisture-wicking base layer", "insulating middle layer", "wind- and water-resistant outer layer"]
+
+purpose:
+  - prevent cold injuries
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.hydration_and_nutrition_for_cold_injury_prevention
+type: Recommendation
+canonical_name: Hydration and Nutrition for Cold Injury Prevention
+semantic_type: PreventionStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Maintain adequate hydration and nutrition during cold exposure to help preserve core temperature and prevent hypothermia.
+
+attributes: []
+
+purpose:
+  - preserve core temperature
+  - prevent hypothermia
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.avoid_alcohol_and_tobacco_during_cold_exposure
+type: Recommendation
+canonical_name: Avoid Alcohol and Tobacco During Cold Exposure
+semantic_type: PreventionStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Avoid alcohol and tobacco use during cold exposure, as alcohol impairs thermoregulation and judgment, and tobacco reduces peripheral blood flow.
+
+attributes: []
+
+purpose:
+  - prevent cold injuries
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.signs_and_symptoms_of_hypothermia
+type: Warning
+canonical_name: Signs and Symptoms of Hypothermia
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Signs and symptoms of hypothermia include shivering, confusion, drowsiness, slurred speech, loss of coordination, and eventually loss of consciousness.
+
+attributes:
+  - signs_and_symptoms: ["shivering", "confusion", "drowsiness", "slurred speech", "loss of coordination", "loss of consciousness"]
+
+purpose: []
+
+related_concepts:
+  - warning.hypothermia_risk_factors
+  - threshold.hypothermia_core_temperature
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.signs_and_symptoms_of_frostbite
+type: Warning
+canonical_name: Signs and Symptoms of Frostbite
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Signs and symptoms of frostbite include numbness, tingling, pale or waxy skin, and blisters in severe cases.
+
+attributes:
+  - signs_and_symptoms: ["numbness", "tingling", "pale or waxy skin", "blisters"]
+
+purpose: []
+
+related_concepts:
+  - warning.frostbite_risk_factors
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rewarming_for_hypothermia
+type: Recommendation
+canonical_name: Rewarming for Hypothermia
+semantic_type: TreatmentStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For hypothermia, rewarm the individual gradually using warm blankets, warm fluids (if conscious), and body-to-body contact. Avoid rapid rewarming or vigorous movement.
+
+attributes:
+  - methods: ["warm blankets", "warm fluids (if conscious)", "body-to-body contact"]
+  - contraindications: ["rapid rewarming", "vigorous movement"]
+
+purpose:
+  - treat hypothermia
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.frostbite_management
+type: Recommendation
+canonical_name: Frostbite Management
+semantic_type: TreatmentStrategy
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For frostbite, rewarm the affected area in warm water (37°C to 39°C; 98.6°F to 102.2°F) for 15 to 30 minutes. Do not rub or massage the area, and avoid direct heat sources.
+
+attributes:
+  - water_temperature: "37°C to 39°C (98.6°F to 102.2°F)"
+  - duration: "15 to 30 minutes"
+  - contraindications: ["rubbing or massaging the area", "direct heat sources"]
+
+purpose:
+  - treat frostbite
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.contraindication_for_exercise_in_extreme_cold
+type: Warning
+canonical_name: Contraindication for Exercise in Extreme Cold
+semantic_type: Contraindication
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise should be avoided or modified in extreme cold conditions, particularly when wind chill values are below -27°C (-16.6°F), due to increased risk of frostbite and hypothermia.
+
+attributes:
+  - wind_chill_threshold: "-27°C (-16.6°F)"
+
+purpose: []
+
+related_concepts:
+  - threshold.exercise_avoidance_in_cold_wind_chill
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hypothermia_core_temperature
+type: Threshold
+canonical_name: Hypothermia Core Temperature
+semantic_type: PhysiologicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Hypothermia occurs when the body's core temperature falls below 35°C (95°F).
+
+attributes:
+  - threshold_type: "below"
+  - value: "35°C (95°F)"
+  - unit: "°C"
+
+purpose: []
+
+related_concepts:
+  - warning.hypothermia_risk_factors
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.trench_foot_temperature_range
+type: Threshold
+canonical_name: Trench Foot Temperature Range
+semantic_type: EnvironmentalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Trench foot, or immersion foot, results from prolonged exposure to cold and wet conditions, typically between 0°C and 10°C (32°F to 50°F).
+
+attributes:
+  - threshold_type: "range"
+  - min_value: "0°C (32°F)"
+  - max_value: "10°C (50°F)"
+  - unit: "°C"
+
+purpose: []
+
+related_concepts:
+  - warning.trench_foot_risk_factors
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.frostbite_rewarming_water_temperature
+type: Threshold
+canonical_name: Frostbite Rewarming Water Temperature
+semantic_type: TreatmentThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For frostbite, rewarm the affected area in warm water (37°C to 39°C; 98.6°F to 102.2°F) for 15 to 30 minutes.
+
+attributes:
+  - threshold_type: "range"
+  - min_value: "37°C (98.6°F)"
+  - max_value: "39°C (102.2°F)"
+  - unit: "°C"
+  - duration: "15 to 30 minutes"
+
+purpose: []
+
+related_concepts:
+  - recommendation.frostbite_management
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.exercise_avoidance_in_cold_wind_chill
+type: Threshold
+canonical_name: Exercise Avoidance in Cold Wind Chill
+semantic_type: EnvironmentalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.12"
+  section_title: "Medical Considerations: Cold Injuries"
+  book_page: 540
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise should be avoided or modified in extreme cold conditions, particularly when wind chill values are below -27°C (-16.6°F), due to increased risk of frostbite and hypothermia.
+
+attributes:
+  - threshold_type: "below"
+  - value: "-27°C (-16.6°F)"
+  - unit: "°C"
+
+purpose: []
+
+related_concepts:
+  - warning.contraindication_for_exercise_in_extreme_cold

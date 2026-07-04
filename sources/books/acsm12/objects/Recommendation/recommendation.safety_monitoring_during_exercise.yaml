@@ -1,0 +1,27 @@
+id: recommendation.safety_monitoring_during_exercise
+type: Recommendation
+canonical_name: Safety Monitoring During Exercise
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Monitor for signs of fatigue, discomfort, or overexertion, as individuals
+  with ID may not be able to communicate these effectively.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

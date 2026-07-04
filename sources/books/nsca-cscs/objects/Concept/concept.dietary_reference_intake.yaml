@@ -1,0 +1,33 @@
+id: concept.dietary_reference_intake
+type: Concept
+canonical_name: Dietary Reference Intake
+semantic_type: Standard
+aliases:
+- DRI
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Dietary Reference Intake (DRI): A set of nutrient recommendations that
+  include the values Recommended Dietary Allowance (RDA), Adequate Intake (AI), Estimated
+  Average Requirement (EAR), and the Tolerable Upper Level Intake (UL).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.recommended_dietary_allowance
+- concept.adequate_intake
+- concept.estimated_average_requirement
+- concept.tolerable_upper_level_intake

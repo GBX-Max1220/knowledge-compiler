@@ -1,0 +1,34 @@
+id: recommendation.lighting_levels_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Lighting Levels for Strength and Conditioning Facilities
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1744
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Lighting is recommended between 20 to 30 foot candles (fc; 1
+  fc = lumen/ft2) or 200 to 300 lux (lx; 1 lx = lumen/m2) at floor level for general
+  gym areas and up to 50 foot candles or 500 lux for dedicated resistance training
+  and group exercise areas (2, 11, 18).
+
+  '
+context:
+- general gym areas
+- dedicated resistance training areas
+- group exercise areas
+rationale: []
+citations:
+- '2'
+- '11'
+- '18'

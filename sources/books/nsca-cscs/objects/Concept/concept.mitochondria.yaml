@@ -1,0 +1,28 @@
+id: concept.mitochondria
+type: Concept
+canonical_name: Mitochondria
+semantic_type: Organelle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Adaptations to Aerobic Endurance Training
+  section: '6'
+  section_title: Adaptations to Aerobic Endurance Training
+  book_page: 348
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Mitochondria are the organelles in cells that are responsible for aerobically
+  producing adenosine triphosphate (ATP) via oxidation of pyruvate and lactate (the
+  products of glycolysis) and free fatty acids.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,372 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.aerobic_endurance_testing_heat
+type: Recommendation
+canonical_name: Guidelines for Aerobic Endurance Testing in the Heat
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 753
+  pdf_page: 753
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Follow these guidelines to minimize health risks and obtain accurate results when testing athletes in hot environments (9, 23, 30).
+
+attributes: []
+
+purpose:
+  - minimize health risks
+  - obtain accurate results
+
+related_concepts:
+  - concept.heat_injury
+  - concept.hyponatremia
+  - concept.heat_acclimation
+  - concept.hydration
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.symptoms_medical_referral_testing
+type: Warning
+canonical_name: Symptoms Warranting Medical Referral During Testing
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 752
+  pdf_page: 752
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Medical referral may be warranted for an athlete who persistently has any of the following symptoms: chest pressure, pain, or discomfort; listlessness; light-headedness; dizziness; confusion; headache; deeply reddened or cold and clammy skin; irregular pulse; bone or joint pain; blurred vision; nausea; or shortness of breath, rapid pulse, or weakness either not commensurate with the level of exertion or unresponsive to rest. Such symptoms can occur long after exercise is terminated. Even symptoms that occur only once, if severe (such as loss of consciousness), call for immediate medical attention.
+
+attributes:
+  - chest pressure
+  - chest pain
+  - chest discomfort
+  - listlessness
+  - light-headedness
+  - dizziness
+  - confusion
+  - headache
+  - deeply reddened skin
+  - cold and clammy skin
+  - irregular pulse
+  - bone pain
+  - joint pain
+  - blurred vision
+  - nausea
+  - shortness of breath
+  - rapid pulse
+  - weakness
+
+purpose: []
+
+related_concepts:
+  - concept.medical_referral
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.heat_injury_strenuous_exercise_hot_environments
+type: Warning
+canonical_name: Risk of Heat Injury During Strenuous Exercise in Hot Environments
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 751
+  pdf_page: 751
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Heat injury is also a risk during heavy physical exertion in hot environments, especially when humidity is high. Athletes should wear light clothing in warm weather and drink water ad libitum according to the dictates of thirst before and during heavy physical exertion in the heat (refer to chapters 10 and 11 for more detailed hydration guidelines).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.heat_injury
+  - concept.hydration
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.exacerbating_heart_problems_maximal_exertion
+type: Warning
+canonical_name: Risk of Exacerbating Heart Problems During Maximal Exertion
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 751
+  pdf_page: 751
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Strenuous exercise, such as maximal runs or 1-repetition maximum (1RM) tests, can uncover or worsen existing heart problems, such as impaired blood flow to the heart muscle and irregular heartbeats. Standard medical screening cannot always reveal hidden heart problems, which occasionally result in fatality among young athletes (30).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.heart_problems
+  - concept.maximal_exertion
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.test_sequencing_order
+type: Recommendation
+canonical_name: Test Sequencing Order
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 757
+  pdf_page: 757
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A logical sequence, although there are some variations, is to administer tests in this order:
+  1. Nonfatiguing tests (e.g., height, weight, flexibility, skinfolds and girth measurements, vertical jump)
+  2. Agility tests (e.g., T-test, 5-10-5 test, 5-0-5 test, Illinois test)
+  3. Maximum power and strength tests (e.g., 1RM power clean, 1RM squat, 1RM bench press)
+  4. Sprint tests (e.g., 40 m sprint with split times at 10 m and 20 m)
+  5. Local muscular endurance tests (e.g., push-up test, partial curl-up, YMCA bench press test)
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.nonfatiguing_tests
+  - concept.agility_tests
+  - concept.maximum_power_tests
+  - concept.maximum_strength_tests
+  - concept.sprint_tests
+  - concept.local_muscular_endurance_tests
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_periods_between_test_attempts
+type: Recommendation
+canonical_name: Rest Periods Between Test Attempts
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 756
+  pdf_page: 756
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  There should be at least 2 minutes of rest between attempts that are not close to the athlete's maximum and 3 minutes between attempts that are close to the maximum, as judged by the relative difficulty of the previous trial or testing set (21).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rest_period_between_tests_battery
+type: Recommendation
+canonical_name: Rest Period Between Tests in a Battery
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 756
+  pdf_page: 756
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  When administering a test battery (e.g., one in which wrestlers perform maximal repetition pull-up and push-up tests for assessment of local muscular endurance), tests should be separated by at least 5 minutes to prevent the effects of fatigue from confounding test results (also see the following section, Sequence of Tests).
+
+attributes: []
+
+purpose:
+  - prevent the effects of fatigue from confounding test results
+
+related_concepts:
+  - concept.test_battery
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_13_2_temperature_limits_humidity
+type: Concept
+canonical_name: Figure 13.2 Temperature Limits at Various Ranges of Relative Humidity for Strenuous Exercise Testing
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 752
+  pdf_page: 752
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 13.2 lists temperature limits at various ranges of relative humidity for strenuous exercise testing, and the sidebar lists guidelines for aerobic endurance testing in the heat.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - recommendation.aerobic_endurance_testing_heat
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.symptoms_hyponatremia
+type: Warning
+canonical_name: Symptoms of Hyponatremia
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing"
+  section: "13.4"
+  section_title: "Test Selection"
+  book_page: 753
+  pdf_page: 753
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Be aware of the symptoms of hyponatremia or water intoxication, a potentially fatal condition in which excess water intake reduces blood sodium to dangerously low levels. Symptoms may include extremely diluted urine in combination with bloated skin, altered consciousness, or loss of consciousness, with no increase in body temperature. A victim of hyponatremia should never be given fluid and should be treated by a physician.
+
+attributes:
+  - extremely diluted urine
+  - bloated skin
+  - altered consciousness
+  - loss of consciousness
+
+purpose: []
+
+related_concepts:
+  - concept.hyponatremia
+  - concept.water_intoxication

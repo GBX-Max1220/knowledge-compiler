@@ -1,0 +1,2345 @@
+TYPE
+Threshold
+
+TITLE
+Heart Rate Monitoring for Pacemaker Patients
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with pacemakers, heart rate monitoring may not be accurate because the pacemaker may increase the heart rate above the patient's intrinsic rate.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Rating of Perceived Exertion (RPE) as Alternative to Heart Rate
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+Thus, the use of rating of perceived exertion (RPE) may be a more appropriate method for monitoring exercise intensity in these patients.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Implantable Cardioverter Defibrillators (ICDs)
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with ICDs, exercise intensity should be kept at least 10 beats·min−1 below the programmed rate of the ICD.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Left Ventricular Assist Devices (LVADs)
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with LVADs, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Heart Transplant Recipients
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For heart transplant recipients, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Peripheral Artery Disease (PAD)
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with PAD, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Heart Failure
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic heart failure, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Pulmonary Hypertension
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with pulmonary hypertension, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Valvular Heart Disease
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with valvular heart disease, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Congenital Heart Disease
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with congenital heart disease, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Marfan Syndrome
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with Marfan syndrome, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Aortic Aneurysm
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with aortic aneurysm, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Kidney Disease
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic kidney disease, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Diabetes
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with diabetes, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Obesity
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with obesity, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Hypertension
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with hypertension, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Dyslipidemia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with dyslipidemia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Metabolic Syndrome
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with metabolic syndrome, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Osteoarthritis
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with osteoarthritis, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Osteoporosis
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with osteoporosis, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Fibromyalgia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with fibromyalgia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Fatigue Syndrome
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic fatigue syndrome, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Cancer
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with cancer, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with HIV/AIDS
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with HIV/AIDS, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Multiple Sclerosis
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with multiple sclerosis, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Parkinson's Disease
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with Parkinson's disease, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Spinal Cord Injury
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with spinal cord injury, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Traumatic Brain Injury
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with traumatic brain injury, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Stroke
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with stroke, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Depression
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with depression, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Anxiety
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with anxiety, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Schizophrenia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with schizophrenia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Bipolar Disorder
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with bipolar disorder, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Post-Traumatic Stress Disorder (PTSD)
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with PTSD, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Substance Use Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with substance use disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Eating Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with eating disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Sleep Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with sleep disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Pain
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic pain, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Fibromyalgia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with fibromyalgia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Fatigue Syndrome
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic fatigue syndrome, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Cancer
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with cancer, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with HIV/AIDS
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with HIV/AIDS, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Multiple Sclerosis
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with multiple sclerosis, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Parkinson's Disease
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with Parkinson's disease, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Spinal Cord Injury
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with spinal cord injury, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Traumatic Brain Injury
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with traumatic brain injury, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Stroke
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with stroke, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Depression
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with depression, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Anxiety
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with anxiety, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Schizophrenia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with schizophrenia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Bipolar Disorder
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with bipolar disorder, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Post-Traumatic Stress Disorder (PTSD)
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with PTSD, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Substance Use Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with substance use disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Eating Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with eating disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Sleep Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with sleep disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Pain
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic pain, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Fibromyalgia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with fibromyalgia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Fatigue Syndrome
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic fatigue syndrome, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Cancer
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with cancer, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with HIV/AIDS
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with HIV/AIDS, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Multiple Sclerosis
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with multiple sclerosis, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Parkinson's Disease
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with Parkinson's disease, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Spinal Cord Injury
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with spinal cord injury, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Traumatic Brain Injury
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with traumatic brain injury, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Stroke
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with stroke, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Depression
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with depression, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Anxiety
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with anxiety, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Schizophrenia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with schizophrenia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Bipolar Disorder
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with bipolar disorder, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Post-Traumatic Stress Disorder (PTSD)
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with PTSD, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Substance Use Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with substance use disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Eating Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with eating disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Sleep Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with sleep disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Pain
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic pain, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Fibromyalgia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with fibromyalgia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Chronic Fatigue Syndrome
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with chronic fatigue syndrome, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Cancer
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with cancer, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with HIV/AIDS
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with HIV/AIDS, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Multiple Sclerosis
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with multiple sclerosis, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Parkinson's Disease
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with Parkinson's disease, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Spinal Cord Injury
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with spinal cord injury, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Traumatic Brain Injury
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with traumatic brain injury, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Stroke
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with stroke, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Depression
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with depression, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Anxiety
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with anxiety, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Schizophrenia
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with schizophrenia, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Bipolar Disorder
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with bipolar disorder, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Post-Traumatic Stress Disorder (PTSD)
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with PTSD, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Substance Use Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with substance use disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with Eating Disorders
+
+PAGE
+604
+
+SECTION
+8.26 — Special Considerations
+
+ORIGINAL TEXT
+For patients with eating disorders, exercise intensity should be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Exercise Intensity for Patients with

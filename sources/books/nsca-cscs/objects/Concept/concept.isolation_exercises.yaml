@@ -1,0 +1,34 @@
+id: concept.isolation_exercises
+type: Concept
+canonical_name: Isolation Exercises
+semantic_type: Exercise Modality
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1096
+  pdf_page: 1096
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Isolation exercises typically consist of dynamic or isometric muscle
+  actions designed to isolate specific core musculature without the contribution of
+  the lower and upper extremities (14).
+
+  '
+attributes:
+- dynamic
+- isometric
+- core_musculature
+purpose:
+- isolate specific core musculature
+related_concepts: []

@@ -1,0 +1,31 @@
+id: recommendation.precautions_for_athletes_with_increased_airway_resistance
+type: Recommendation
+canonical_name: Precautions for Athletes with Increased Airway Resistance
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Exchange of Air
+  section_title: Exchange of Air
+  book_page: 80
+  pdf_page: 80
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Precautions, including physician evaluation of the athlete,
+  are often recommended, depending on the potential level of impairment.
+
+  '
+rationale: ''
+target_audience:
+- athletes with increased airway resistance
+conditions:
+- exercise-induced asthma
+actions:
+- physician

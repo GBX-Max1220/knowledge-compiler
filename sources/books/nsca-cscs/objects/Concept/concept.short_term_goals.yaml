@@ -1,0 +1,28 @@
+id: concept.short_term_goals
+type: Concept
+canonical_name: Short-Term Goals
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 501
+  pdf_page: 501
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Short-term goals are generally those that are directly related to current
+  training or competition and are guidelines that can be attained in a relatively
+  short time frame.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

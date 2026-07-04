@@ -1,0 +1,32 @@
+id: concept.water_soluble_vitamins
+type: Concept
+canonical_name: Water-Soluble Vitamins
+semantic_type: Nutrient
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Water-soluble vitamins, including the B vitamins and vitamin C, dissolve
+  in water and are transported in the blood. With the exception of vitamin B12, which
+  is stored in the liver for years, water-soluble vitamins are not stored in appreciable
+  amounts in the body; instead the body uses what is needed and then excretes the
+  remaining amounts in urine (165).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.b_vitamins
+- concept.vitamin_c

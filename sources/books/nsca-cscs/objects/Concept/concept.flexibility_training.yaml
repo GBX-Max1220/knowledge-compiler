@@ -1,0 +1,28 @@
+id: concept.flexibility_training
+type: Concept
+canonical_name: Flexibility Training
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Performance Preparation, Mobility, and Flexibility
+  section: '15.1'
+  section_title: Performance Preparation, Mobility, and Flexibility
+  book_page: 854
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Flexibility training, on the other hand, aims to increase the range of
+  motion around a joint, normally through the use of different forms of stretching.
+
+  '
+attributes: []
+purpose:
+- increase the range of motion around a joint
+related_concepts: []

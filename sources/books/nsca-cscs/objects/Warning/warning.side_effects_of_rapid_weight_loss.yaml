@@ -1,0 +1,31 @@
+id: warning.side_effects_of_rapid_weight_loss
+type: Warning
+canonical_name: Side Effects of Rapid Weight Loss
+semantic_type: Risk
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 647
+  pdf_page: 647
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Athletes who attempt to lose too much weight too quickly may lose lean
+  body mass, feel fatigued, experience headaches or mood swings, put their training
+  and performance in jeopardy, and suffer from several potentially serious side effects.
+  These include dehydration, heat illness, muscle cramping, fatigue, dizziness, suppressed
+  immune system functioning, hormone imbalances, hyperthermia, reduced muscle strength,
+  decreased plasma and blood volume, low blood pressure, electrolyte imbalances, kidney
+  failure (diuretic abuse), fainting, and death (in extreme cases) (38).
+
+  '
+severity: critical
+context: rapid weight loss in athletes

@@ -1,0 +1,366 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.training_load_and_repetitions
+type: Concept
+canonical_name: Training Load and Repetitions
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1226
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Once the actual 1RM is measured or estimated, the athlete's training load is calculated as a percentage of the 1RM. Alternatively, a xRM test may be performed based on goal repetitions, thereby eliminating computations or estimations.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.1rm_testing
+type: Concept
+canonical_name: 1RM Testing
+semantic_type: Procedure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1226
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  To assign training loads based on a percentage of the 1RM, the strength and conditioning professional must first determine the athlete's 1RM. This method of assessment is typically reserved for resistance-trained athletes who are classified as intermediate or advanced and have exercise technique experience in the exercises being tested; however, 1RM testing can be safely performed with youth (19), adolescents (49), inexperienced adults (24), and older adults (127). Individuals who are untrained, inexperienced, injured, or medically supervised may not be appropriate participants for 1RM testing.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.1rm_testing_safety
+type: Warning
+canonical_name: 1RM Testing Safety Warning
+semantic_type: Warning
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1226
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+warning_text: >
+  One-repetition maximum testing requires an adequate training status and lifting experience, because the assessment of maximal strength places significant stress on the involved muscles, connective tissues, and joints, although this has been shown to be appropriate and reliable in youth and collegiate athletes with approximately 6 months' experience in the power clean and back squat (24, 49). However, it may be more appropriate to complete a 3RM test instead of a maximal 1RM test because ignoring an athlete's training status and exercise technique experience diminishes the safety and accuracy of 1RM test results.
+severity: moderate
+conditions:
+  - condition: "inadequate training status"
+  - condition: "lack of lifting experience"
+  - condition: "ignoring athlete's training status and exercise technique experience"
+consequences:
+  - consequence: "diminished safety of 1RM test results"
+  - consequence: "diminished accuracy of 1RM test results"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_selection_for_1rm_testing
+type: Recommendation
+canonical_name: Exercise Selection for 1RM Testing
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1226
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  When selecting exercises for 1RM testing, the strength and conditioning professional should choose core exercises, because the large muscle groups and multiple joints are better able to handle the heavy loads. Despite this guideline, an exercise should not be selected for 1RM testing if it cannot provide valid and reliable data (i.e., does not accurately and consistently assess maximal muscular strength). For instance, the large upper back musculature and multiple joints involved in the bent-over row exercise can probably tolerate the loads for a 1RM test, but maintaining a correct body position throughout testing would be extremely difficult. The weaker stabilizing muscles of the lower back might become very fatigued after several testing sets, resulting in a loss of proper exercise technique and an invalid test.
+rationale: >
+  Core exercises involve large muscle groups and multiple joints that are better able to handle heavy loads. Exercises that cannot provide valid and reliable data should not be selected.
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.1rm_testing_protocol
+type: Procedure
+canonical_name: 1RM Testing Protocol
+semantic_type: Procedure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1227
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+steps:
+  - step_number: 1
+    instruction: "Instruct the athlete to warm up with a light resistance that easily allows 5 to 10 repetitions."
+  - step_number: 2
+    instruction: "Provide a 1-minute rest period."
+  - step_number: 3
+    instruction: "Estimate a warm-up load that will allow the athlete to complete three to five repetitions by adding 10 to 20 pounds (4-9 kg) or 5% to 10% for upper body exercise or 30 to 40 pounds (14-18 kg) or 10% to 20% for lower body exercise."
+  - step_number: 4
+    instruction: "Provide a 2-minute rest period."
+  - step_number: 5
+    instruction: "Estimate a conservative, near-maximal load that will allow the athlete to complete two or three repetitions by adding 10 to 20 pounds (4-9 kg) or 5% to 10% for upper body exercise or 30 to 40 pounds (14-18 kg) or 10% to 20% for lower body exercise."
+  - step_number: 6
+    instruction: "Provide a 2- to 4-minute rest period."
+  - step_number: 7
+    instruction: "Make a load increase: 10 to 20 pounds (4-9 kg) or 5% to 10% for upper body exercise or 30 to 40 pounds (14-18 kg) or 10% to 20% for lower body exercise."
+  - step_number: 8
+    instruction: "Instruct the athlete to attempt a 1RM."
+  - step_number: 9
+    instruction: "If the athlete was successful, provide a 2- to 4-minute rest period and go back to step 7. If the athlete failed, provide a 2- to 4-minute rest period; then decrease the load by subtracting 5 to 10 pounds (2-4 kg) or 2.5% to 5% for upper body exercise or 15 to 20 pounds (7-9 kg) or 5% to 10% for lower body exercise. AND then go back to step 8. Continue increasing or decreasing the load until the athlete can complete one repetition with proper exercise technique. Ideally, the athlete's 1RM will be measured within three to five testing sets."
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.estimating_a_1rm
+type: Concept
+canonical_name: Estimating a 1RM
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1227
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  When maximal strength testing is not warranted, testing with a 3RM or 5RM load (and then estimating or predicting the 1RM) can be a suitable secondary option. This approach is appropriate for nearly all athletes, provided they can demonstrate the proper technique in the exercise tested. Core and assistance exercises can be selected for RM testing, but excessive warm-up and testing sets may fatigue the athlete and compromise the accuracy of the test. It should be noted, however, that the level of accuracy of predicting a 1RM from other xRM tests becomes less accurate (i.e., commonly resulting in overestimations of the 1RM) as the number of repetitions completed increases and may also be affected by the type of training with which the athlete is familiar (134). Additionally, power exercises do not lend themselves well to xRM testing above 5 repetitions for repeated testing sets because technique can deteriorate rapidly (71). Lower (and more accurate) xRM determinations using heavier loads can be made once the athlete has sufficient training and technique experience.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.multiple_rm_testing_protocol
+type: Procedure
+canonical_name: Multiple RM Testing Protocol
+semantic_type: Procedure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1227
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+steps:
+  - step_number: 1
+    instruction: "The protocol for multiple RM testing is similar to that for 1RM testing, but each set requires multiple repetitions, not one."
+  - step_number: 2
+    instruction: "After the completion of warm-up sets, the athlete's sequential load changes for the 10RM test are smaller than those listed in figure 18.8 (approximately one-half)."
+  - step_number: 3
+    instruction: "Continue the process of testing until a load allowing the selected number of repetitions is determined."
+  - step_number: 4
+    instruction: "An experienced strength and conditioning professional will be able to adjust the loads so that the multiple RM can be measured within 3 to 5 testing sets."
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.xrm_testing_based_on_goal_repetitions
+type: Concept
+canonical_name: xRM Testing Based on Goal Repetitions
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1229
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A third option for determining training loads requires the strength and conditioning professional to first decide on the number of repetitions (i.e., the goal repetitions) the athlete will perform in the actual program for the exercise being tested. For example, if the strength and conditioning professional decides that the athlete should perform 6 repetitions for the bench press exercise in the training program, the xRM testing protocol should have the athlete perform the exercise with a load that will result in 6 repetitions (6RM). Core and assistance exercises can be selected for xRM testing, but as previously mentioned, high-repetition testing sets can create significant fatigue and may compromise the accuracy of the tested xRM. This effect seems to be more problematic for exercises that involve multiple joints and large muscle areas due to their high metabolic demand (138, 185). Further, xRM testing (and subsequent load assignments) for assistance exercises should be at or above an 8RM to minimize the isolative stress on the involved joint and connective tissue (2, 46). In other words, even if an athlete is following a muscular strength training program that involves 2RM loads for the core exercises, the heaviest load the assistance exercises should be assigned is an 8RM.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.assistance_exercise_load_limitation
+type: Recommendation
+canonical_name: Assistance Exercise Load Limitation
+semantic_type: Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1229
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  xRM testing (and subsequent load assignments) for assistance exercises should be at or above an 8RM to minimize the isolative stress on the involved joint and connective tissue (2, 46). In other words, even if an athlete is following a muscular strength training program that involves 2RM loads for the core exercises, the heaviest load the assistance exercises should be assigned is an 8RM.
+rationale: >
+  To minimize the isolative stress on the involved joint and connective tissue.
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.estimating_1rm_and_training_loads_1rm_100
+type: TableRow
+canonical_name: Estimating 1RM and Training Loads - 1RM 100
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1229
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_name: "Table 18.9 — Estimating 1RM and Training Loads"
+row_data:
+  maximum_repetitions_rm: 1
+  percent_1rm: 100
+  load_pounds_or_kilograms: 10
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.estimating_1rm_and_training_loads_2rm_95
+type: TableRow
+canonical_name: Estimating 1RM and Training Loads - 2RM 95
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1229
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_name: "Table 18.9 — Estimating 1RM and Training Loads"
+row_data:
+  maximum_repetitions_rm: 2
+  percent_1rm: 95
+  load_pounds_or_kilograms: 10
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.estimating_1rm_and_training_loads_3rm_93
+type: TableRow
+canonical_name: Estimating 1RM and Training Loads - 3RM 93
+semantic_type: TableRow
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training Program Design"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1229
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+table_name: "Table 18.9 — Estimating 1RM and Training Loads"
+row_data:
+  maximum_repetitions_rm: 3
+  percent_1rm: 93
+  load_pounds_or_kilograms: 9
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.estimating_1rm_and_training_loads_4rm_90
+type: TableRow
+canonical_name: Estimating 1RM and Training Loads - 4RM 90
+semantic_type: TableRow
+aliases: []
+source:
+  book:

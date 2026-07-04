@@ -1,0 +1,27 @@
+id: concept.active_stretch
+type: Concept
+canonical_name: Active Stretch
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Performance Preparation, Mobility, and Flexibility
+  section: '15'
+  section_title: Performance Preparation, Mobility, and Flexibility
+  book_page: 879
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An active stretch occurs when the person stretching supplies the necessary
+  forces to enable the end position to be reached.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

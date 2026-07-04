@@ -1,0 +1,26 @@
+id: table_row.wind_chill_temperature_index_1
+type: TableRow
+canonical_name: Wind Chill Temperature Index Row 1
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise in Cold Environments
+  section: '7.11'
+  section_title: Exercise in Cold Environments
+  book_page: 538
+  pdf_page: 538
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Table 7.5 Wind Chill Temperature Index
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

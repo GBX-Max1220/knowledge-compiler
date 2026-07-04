@@ -1,0 +1,34 @@
+id: table_row.general_exercise_recommendations_and_associated_signs_and_symptoms_of_exercising_during_pregnancy_second_trimester
+type: TableRow
+canonical_name: General Exercise Recommendations and Associated Signs and Symptoms
+  of Exercising During Pregnancy Second Trimester
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.0'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 443
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_name: General Exercise Recommendations and Associated Signs and Symptoms of
+  Exercising During Pregnancy
+row_data:
+  trimester: Second
+  details: Avoid supine positions and exercises; switch to incline, side-lying, or
+    vertical positions. Continue pelvic floor exercises to assist in labor and delivery
+    and help with urinary incontinence.
+citations:
+- 86a
+- 89b
+- 96a
+- 162a
+- 186a
+- 187a

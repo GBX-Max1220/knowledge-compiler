@@ -1,0 +1,29 @@
+id: concept.ventilatory_equivalent
+type: Concept
+canonical_name: Ventilatory Equivalent
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Respiratory Responses
+  section_title: Respiratory Responses
+  book_page: 88
+  pdf_page: 88
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The ratio of minute ventilation to oxygen uptake is termed the ventilatory
+  equivalent and ranges between 20 and 25 L of air per L of oxygen consumed.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.minute_ventilation
+- concept.oxygen_uptake

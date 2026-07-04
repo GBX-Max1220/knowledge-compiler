@@ -1,0 +1,540 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.training_specificity
+type: Concept
+canonical_name: Training Specificity
+semantic_type: Principle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1513
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Training specificity refers to the distinct adaptations to the physiological systems that arise from the training program.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.minimum_effective_dose
+type: Concept
+canonical_name: Minimum Effective Dose
+semantic_type: Principle
+aliases: ["MED"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1514
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  MED was originally used in the pharmaceutical industry to reflect the understanding that there is a minimum dose of medication needed to elicit the desired physiological response; the use of medications results in varying side effects, and the higher the dose of medication, the greater the side effects. In strength and conditioning, this term has been adapted to applying the minimum amount of training stimuli required to maximize adaptations while simultaneously minimizing the damage and injury risks associated with training.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maximum_tolerated_dose
+type: Concept
+canonical_name: Maximum Tolerated Dose
+semantic_type: Principle
+aliases: ["MTD"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1514
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This can be considered the maximum training workload that provides measurable benefits to the athlete.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maximal_aerobic_capacity
+type: Concept
+canonical_name: Maximal Aerobic Capacity
+semantic_type: Physiological_Measure
+aliases: ["V̇O2max"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1516
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  high maximal aerobic capacity (V̇O2max) is necessary for success in aerobic endurance events (87).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.lactate_threshold
+type: Concept
+canonical_name: Lactate Threshold
+semantic_type: Physiological_Measure
+aliases: ["LT"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1517
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Lactate threshold is that speed of movement or percentage of V̇O2max at which a specific blood lactate concentration is observed (i.e., 4 mmol/L of blood) or the point at which blood lactate concentration begins to increase above resting levels (136).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maximal_lactate_steady_state
+type: Concept
+canonical_name: Maximal Lactate Steady State
+semantic_type: Physiological_Measure
+aliases: ["MLSS"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1517
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The MLSS is defined as the exercise intensity at which maximal lactate production is equal to maximal lactate clearance within the body (14).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_economy
+type: Concept
+canonical_name: Exercise Economy
+semantic_type: Physiological_Measure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1518
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A measure of the energy cost of activity at a given exercise velocity is referred to as exercise economy.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_mode
+type: Concept
+canonical_name: Exercise Mode
+semantic_type: Training_Variable
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1520
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Exercise mode refers to the specific activity performed by the athlete: cycling, running, swimming, and so on.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.training_frequency
+type: Concept
+canonical_name: Training Frequency
+semantic_type: Training_Variable
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1520
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Training frequency refers to the number of training sessions conducted per day or per week.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.heart_rate_reserve
+type: Concept
+canonical_name: Heart Rate Reserve
+semantic_type: Physiological_Measure
+aliases: ["HRR"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1525
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  HRR is the difference between an athlete's maximal heart rate and their resting heart rate (24).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.age_predicted_maximal_heart_rate
+type: Concept
+canonical_name: Age-Predicted Maximal Heart Rate
+semantic_type: Physiological_Measure
+aliases: ["APMHR"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1525
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  the individual's age-predicted maximal heart rate (APMHR) is often used as the basis for determining exercise intensity.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.metabolic_equivalent
+type: Concept
+canonical_name: Metabolic Equivalent
+semantic_type: Unit
+aliases: ["MET"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1529
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  One metabolic equivalent (MET) is equal to 3.5 ml · kg−1 · min−1 of oxygen consumption and is considered the amount of oxygen required by the body at rest (3).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_duration
+type: Concept
+canonical_name: Exercise Duration
+semantic_type: Training_Variable
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1532
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Exercise duration refers to the length of time of the training session.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.extensive_endurance_training
+type: Concept
+canonical_name: Extensive Endurance Training
+semantic_type: Training_Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1537
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  the term extensive endurance training is a more appropriate term and the one used in this text.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.pace_tempo_training
+type: Concept
+canonical_name: Pace/Tempo Training
+semantic_type: Training_Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1539
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Pace/tempo training employs an intensity at or slightly higher than race competition intensity.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.interval_training
+type: Concept
+canonical_name: Interval Training
+semantic_type: Training_Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1540
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Interval training involves exercise at intensities close to V̇O2max.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.high_intensity_interval_training
+type: Concept
+canonical_name: High-Intensity Interval Training
+semantic_type: Training_Method
+aliases: ["HIIT"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1540
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  High-intensity interval training (HIIT) is a form of training that uses repeated high-intensity exercise bouts above MLSS or critical V̇O2 interspersed with brief recovery periods (76).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fartlek_training
+type: Concept
+canonical_name: Fartlek Training
+semantic_type: Training_Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1541
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Fartlek training (the word Fartlek originates from the Swedish term for speed play) is a combination of several of the previously mentioned types of training.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cross_training
+type: Concept
+canonical_name: Cross-Training
+semantic_type: Training_Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 21
+  chapter_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  section: "21"
+  section_title: "Program Design and Technique for Aerobic Endurance and Metabolic Training"
+  book_page: 1551
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cross-training is a mode of training that can be used to maintain general conditioning in athletes during periods of reduced training due to injury or during recovery from a training cycle (96).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.detraining
+type: Concept
+canonical_name: Detraining
+semantic_type: Physiological_Response
+aliases: []
+source:

@@ -1,0 +1,250 @@
+```TYPE
+Definition
+
+TITLE
+Oxygen Transport in Blood
+
+PAGE
+92
+
+SECTION
+— Blood Transport of Gases and Metabolic By-Products
+
+ORIGINAL TEXT
+Oxygen is carried in blood either dissolved in the plasma or combined with hemoglobin. Because oxygen is not readily soluble in fluids, only about 3 mL of oxygen can be carried per liter of plasma.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Hemoglobin Oxygen-Carrying Capacity
+
+PAGE
+92
+
+SECTION
+— Blood Transport of Gases and Metabolic By-Products
+
+ORIGINAL TEXT
+Men have about 15 to 16 g of hemoglobin per 100 mL of blood, and women have about 14 g of hemoglobin per 100 mL of blood. One gram of hemoglobin can carry 1.34 mL of oxygen; thus, the oxygen-carrying capacity of 100 mL of blood is about 20 mL of oxygen in men and a little less in women (27).
+
+PARENT
+Oxygen Transport in Blood
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Carbon Dioxide Transport in Blood
+
+PAGE
+92-93
+
+SECTION
+— Blood Transport of Gases and Metabolic By-Products
+
+ORIGINAL TEXT
+The way in which carbon dioxide is removed from the system has some similarities to oxygen transport, but the vast amount of carbon dioxide is removed by a more complex process. After carbon dioxide is formed in the cell, it easily diffuses across the cell membranes and is subsequently transported to the lungs. As with oxygen, only a limited quantity of carbon dioxide— about 5% of that produced during metabolism—is carried in the plasma; similar to the situation with oxygen, this limited amount of carbon dioxide contributes to establishing the partial pressure of carbon dioxide in the blood. Some carbon dioxide is also transported via hemoglobin, but this amount is limited (27). The greatest amount of carbon dioxide removal (approximately 70%) is from the combination with water and delivery to the lungs in the form of bicarbonate (HCO3−). The initial step in this reversible reaction is the combination of carbon dioxide in solution with water in the red blood cells to form carbonic acid. The reaction would normally be quite slow except for the impact of the enzyme carbonic anhydrase, which significantly speeds up this process. Once carbonic acid is formed, it is broken down to hydrogen ions and bicarbonate ions. Because hemoglobin is a significant acid–base buffer, hydrogen ions combine with hemoglobin. This process helps to maintain the pH of the blood. Bicarbonate ions diffuse from the red blood cells to the plasma, while chloride ions diffuse into the blood cells to replace them (17, 27).
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Bicarbonate Transport System
+
+PAGE
+93
+
+SECTION
+— Blood Transport of Gases and Metabolic By-Products
+
+ORIGINAL TEXT
+The greatest amount of carbon dioxide removal (approximately 70%) is from the combination with water and delivery to the lungs in the form of bicarbonate (HCO3−). The initial step in this reversible reaction is the combination of carbon dioxide in solution with water in the red blood cells to form carbonic acid. The reaction would normally be quite slow except for the impact of the enzyme carbonic anhydrase, which significantly speeds up this process. Once carbonic acid is formed, it is broken down to hydrogen ions and bicarbonate ions. Because hemoglobin is a significant acid–base buffer, hydrogen ions combine with hemoglobin. This process helps to maintain the pH of the blood. Bicarbonate ions diffuse from the red blood cells to the plasma, while chloride ions diffuse into the blood cells to replace them (17, 27).
+
+PARENT
+Carbon Dioxide Transport in Blood
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```
+
+```
+TYPE
+Threshold
+
+TITLE
+Muscular Contraction Blood Flow Impediment Threshold
+
+PAGE
+95
+
+SECTION
+— Acute Cardiovascular Responses to Anaerobic Exercise
+
+ORIGINAL TEXT
+Muscular contractions greater than 20% of maximal voluntary contraction impede peripheral blood flow within the muscle during a set, but blood flow increases during the subsequent rest period (reactive hyperemia) (25).
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Peak Blood Pressure and Heart Rate During High-Intensity Leg Press
+
+PAGE
+95
+
+SECTION
+— Acute Cardiovascular Responses to Anaerobic Exercise
+
+ORIGINAL TEXT
+Peak blood pressures of 320/250 mmHg and a heart rate of 170 beats/min have been reported during a high-intensity (i.e., 95% of 1RM) leg press exercise (26).
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Plasma Volume Reduction During Anaerobic Exercise
+
+PAGE
+95
+
+SECTION
+— Acute Cardiovascular Responses to Anaerobic Exercise
+
+ORIGINAL TEXT
+In addition, intrathoracic pressure increases, and plasma volume reductions of up to 22% have been reported (34, 36).
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```
+
+```
+TYPE
+Evidence
+
+TITLE
+Ventilation Rate During Resistance Exercise Recovery
+
+PAGE
+96
+
+SECTION
+— Ventilatory Response to Anaerobic Exercise
+
+ORIGINAL TEXT
+Ventilation rates of more than 60 L/min have been reported (35), and the rest interval length had a large effect such that short rest intervals (30 s to 1 min) produced the most substantial elevation.
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Ventilatory Equivalent for Oxygen
+
+PAGE
+96
+
+SECTION
+— Ventilatory Response to Anaerobic Exercise
+
+ORIGINAL TEXT
+Additionally, improved ventilation efficiency, as characterized by reduced ventilatory equivalent for oxygen (the ratio of air ventilated to oxygen used by the tissues, V̇E/V̇O2), is observed in trained versus untrained individuals (3).
+
+PARENT
+(Optional)
+
+CHILDREN
+(Optional)
+
+RELATIONSHIPS
+(Optional)
+
+END
+```

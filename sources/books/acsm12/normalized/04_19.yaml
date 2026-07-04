@@ -1,0 +1,73 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.maximal_cardiorespiratory_stress
+type: Concept
+canonical_name: Maximal Cardiorespiratory Stress
+semantic_type: Physiological_Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.19"
+  section_title: "Maximal Versus Peak Cardiorespiratory Stress"
+  book_page: 310
+  pdf_page: 310
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Maximal cardiorespiratory stress.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.peak_cardiorespiratory_stress
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.peak_cardiorespiratory_stress
+type: Concept
+canonical_name: Peak Cardiorespiratory Stress
+semantic_type: Physiological_Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.19"
+  section_title: "Maximal Versus Peak Cardiorespiratory Stress"
+  book_page: 310
+  pdf_page: 310
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Peak cardiorespiratory stress.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.maximal_cardiorespiratory_stress

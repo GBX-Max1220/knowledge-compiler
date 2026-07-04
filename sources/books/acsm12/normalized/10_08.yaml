@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.physical_activity_in_cancer_survivors
+type: Concept
+canonical_name: Physical Activity in Cancer Survivors
+semantic_type: HealthTopic
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Clinical Considerations for Special Populations"
+  section: "10.8"
+  section_title: "Overview of Importance of Physical Activity in Cancer Survivors"
+  book_page: 795
+  pdf_page: 795
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This section provides an overview of the importance of physical activity in cancer survivors.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

@@ -1,0 +1,56 @@
+id: procedure.double_arm_linear_bound
+type: Procedure
+canonical_name: Double-Arm Linear Bound
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1341
+  pdf_page: 1341
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An exercise drill involving a bounding movement with double arm action,
+  designed to cover as great a distance as possible during each stride.
+
+  '
+attributes:
+- intensity_level: Medium
+- direction: Horizontal and vertical
+- arm_action: Double arm
+purpose:
+- cover as great a distance as possible during each stride
+related_concepts: []
+steps:
+- step_number: 1
+  description: Get into a comfortable, upright stance with feet hip-width apart.
+- step_number: 2
+  description: Jog at a comfortable pace; begin the drill with the right foot forward.
+- step_number: 3
+  description: Push off with the right foot as it contacts the ground. During push-off,
+    bring the left leg forward by flexing the thigh to a position approximately parallel
+    with the ground, the knee at 90 degrees, and the ankle dorsiflexed.
+- step_number: 4
+  description: During this flight phase of the drill, reach forward with both arms.
+    Sequence the arm swing so that they come forward from behind the body into landing,
+    and forward from the hips to reach in front of the body during takeoff.
+- step_number: 5
+  description: Land with an active flat-foot on the left leg and immediately repeat
+    the sequence on the opposite side.
+common_errors:
+- Not achieving sufficient horizontal velocity to initiate the driving action of the
+  bound
+- Coordination errors between arm and leg action; both arms should be forward as the
+  athlete takes off and behind as the athlete lands
+- Overreaching with the lead leg
+notes:
+- A bound is an exaggeration of the running gait; the goal is to cover as great a
+  distance as possible during each stride.

@@ -1,0 +1,39 @@
+id: recommendation.frequency_chronic_disease
+type: Recommendation
+canonical_name: Frequency of Exercise for Chronic Disease Populations
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Exercise Prescription for Individuals with Chronic Diseases and Health
+    Conditions
+  section: '10.34'
+  section_title: Exercise Prescription
+  book_page: 855
+  pdf_page: 855
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_chronic_diseases
+definition: 'Aerobic exercise is recommended on most, preferably all, days of the
+  week for individuals with chronic diseases and health conditions. For those with
+  arthritis, joint pain, or other musculoskeletal limitations, lower-impact activities
+  (e.g., walking, cycling, swimming) are recommended.
+
+  '
+attributes:
+- aerobic_exercise
+- most_days
+- preferably_all_days
+purpose:
+- guide frequency of aerobic exercise for chronic disease populations
+related_concepts:
+- concept.arthritis
+- concept.joint_pain
+- concept.musculoskeletal_limitations

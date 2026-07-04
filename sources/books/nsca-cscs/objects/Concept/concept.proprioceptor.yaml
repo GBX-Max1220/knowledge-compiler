@@ -1,0 +1,30 @@
+id: concept.proprioceptor
+type: Concept
+canonical_name: Proprioceptor
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 64
+  pdf_page: 64
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Specialized sensory receptors located within joints, muscles, and tendons
+  that are sensitive to pressure and tension and relay information concerning muscle
+  dynamics to the central nervous system.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.muscle_spindle
+- concept.proprioception

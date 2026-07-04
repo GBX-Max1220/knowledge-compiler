@@ -1,0 +1,325 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.oxygen_transport_in_blood
+type: Concept
+canonical_name: Oxygen Transport in Blood
+semantic_type: PhysiologicalProcess
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Blood Transport of Gases and Metabolic By-Products"
+  section_title: "Blood Transport of Gases and Metabolic By-Products"
+  book_page: 92
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Oxygen is carried in blood either dissolved in the plasma or combined with hemoglobin. Because oxygen is not readily soluble in fluids, only about 3 mL of oxygen can be carried per liter of plasma.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hemoglobin_oxygen_carrying_capacity
+type: Concept
+canonical_name: Hemoglobin Oxygen-Carrying Capacity
+semantic_type: PhysiologicalProperty
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Blood Transport of Gases and Metabolic By-Products"
+  section_title: "Blood Transport of Gases and Metabolic By-Products"
+  book_page: 92
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.oxygen_transport_in_blood
+
+definition: >
+  Men have about 15 to 16 g of hemoglobin per 100 mL of blood, and women have about 14 g of hemoglobin per 100 mL of blood. One gram of hemoglobin can carry 1.34 mL of oxygen; thus, the oxygen-carrying capacity of 100 mL of blood is about 20 mL of oxygen in men and a little less in women (27).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.carbon_dioxide_transport_in_blood
+type: Concept
+canonical_name: Carbon Dioxide Transport in Blood
+semantic_type: PhysiologicalProcess
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Blood Transport of Gases and Metabolic By-Products"
+  section_title: "Blood Transport of Gases and Metabolic By-Products"
+  book_page: 92
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The way in which carbon dioxide is removed from the system has some similarities to oxygen transport, but the vast amount of carbon dioxide is removed by a more complex process. After carbon dioxide is formed in the cell, it easily diffuses across the cell membranes and is subsequently transported to the lungs. As with oxygen, only a limited quantity of carbon dioxide— about 5% of that produced during metabolism—is carried in the plasma; similar to the situation with oxygen, this limited amount of carbon dioxide contributes to establishing the partial pressure of carbon dioxide in the blood. Some carbon dioxide is also transported via hemoglobin, but this amount is limited (27). The greatest amount of carbon dioxide removal (approximately 70%) is from the combination with water and delivery to the lungs in the form of bicarbonate (HCO3−). The initial step in this reversible reaction is the combination of carbon dioxide in solution with water in the red blood cells to form carbonic acid. The reaction would normally be quite slow except for the impact of the enzyme carbonic anhydrase, which significantly speeds up this process. Once carbonic acid is formed, it is broken down to hydrogen ions and bicarbonate ions. Because hemoglobin is a significant acid–base buffer, hydrogen ions combine with hemoglobin. This process helps to maintain the pH of the blood. Bicarbonate ions diffuse from the red blood cells to the plasma, while chloride ions diffuse into the blood cells to replace them (17, 27).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.bicarbonate_transport_system
+type: Concept
+canonical_name: Bicarbonate Transport System
+semantic_type: PhysiologicalProcess
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Blood Transport of Gases and Metabolic By-Products"
+  section_title: "Blood Transport of Gases and Metabolic By-Products"
+  book_page: 93
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.carbon_dioxide_transport_in_blood
+
+definition: >
+  The greatest amount of carbon dioxide removal (approximately 70%) is from the combination with water and delivery to the lungs in the form of bicarbonate (HCO3−). The initial step in this reversible reaction is the combination of carbon dioxide in solution with water in the red blood cells to form carbonic acid. The reaction would normally be quite slow except for the impact of the enzyme carbonic anhydrase, which significantly speeds up this process. Once carbonic acid is formed, it is broken down to hydrogen ions and bicarbonate ions. Because hemoglobin is a significant acid–base buffer, hydrogen ions combine with hemoglobin. This process helps to maintain the pH of the blood. Bicarbonate ions diffuse from the red blood cells to the plasma, while chloride ions diffuse into the blood cells to replace them (17, 27).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.muscular_contraction_blood_flow_impediment
+type: Threshold
+canonical_name: Muscular Contraction Blood Flow Impediment Threshold
+semantic_type: PhysiologicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Acute Cardiovascular Responses to Anaerobic Exercise"
+  section_title: "Acute Cardiovascular Responses to Anaerobic Exercise"
+  book_page: 95
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: ""
+threshold_type: percentage
+value: "20%"
+unit: "%"
+condition: "maximal voluntary contraction"
+context: "Muscular contractions greater than 20% of maximal voluntary contraction impede peripheral blood flow within the muscle during a set, but blood flow increases during the subsequent rest period (reactive hyperemia) (25)."
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.peak_blood_pressure_and_heart_rate_during_high_intensity_leg_press
+type: Concept
+canonical_name: Peak Blood Pressure and Heart Rate During High-Intensity Leg Press
+semantic_type: PhysiologicalResponse
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Acute Cardiovascular Responses to Anaerobic Exercise"
+  section_title: "Acute Cardiovascular Responses to Anaerobic Exercise"
+  book_page: 95
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Peak blood pressures of 320/250 mmHg and a heart rate of 170 beats/min have been reported during a high-intensity (i.e., 95% of 1RM) leg press exercise (26).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.plasma_volume_reduction_during_anaerobic_exercise
+type: Concept
+canonical_name: Plasma Volume Reduction During Anaerobic Exercise
+semantic_type: PhysiologicalResponse
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Acute Cardiovascular Responses to Anaerobic Exercise"
+  section_title: "Acute Cardiovascular Responses to Anaerobic Exercise"
+  book_page: 95
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In addition, intrathoracic pressure increases, and plasma volume reductions of up to 22% have been reported (34, 36).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ventilation_rate_during_resistance_exercise_recovery
+type: Concept
+canonical_name: Ventilation Rate During Resistance Exercise Recovery
+semantic_type: PhysiologicalResponse
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Ventilatory Response to Anaerobic Exercise"
+  section_title: "Ventilatory Response to Anaerobic Exercise"
+  book_page: 96
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Ventilation rates of more than 60 L/min have been reported (35), and the rest interval length had a large effect such that short rest intervals (30 s to 1 min) produced the most substantial elevation.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ventilatory_equivalent_for_oxygen
+type: Concept
+canonical_name: Ventilatory Equivalent for Oxygen
+semantic_type: PhysiologicalMeasure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: null
+  chapter_title: null
+  section: "Ventilatory Response to Anaerobic Exercise"
+  section_title: "Ventilatory Response to Anaerobic Exercise"
+  book_page: 96
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Additionally, improved ventilation efficiency, as characterized by reduced ventilatory equivalent for oxygen (the ratio of air ventilated to oxygen used by the tissues, V̇E/V̇O2), is observed in trained versus untrained individuals (3).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

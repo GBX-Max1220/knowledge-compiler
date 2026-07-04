@@ -1,0 +1,27 @@
+id: concept.older_adult
+type: Concept
+canonical_name: Older Adult
+semantic_type: PopulationGroup
+aliases:
+- senior
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The terms older and senior include men and women over 65 years of age.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

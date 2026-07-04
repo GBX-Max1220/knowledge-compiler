@@ -1,0 +1,29 @@
+id: concept.training_status
+type: Concept
+canonical_name: Training Status
+semantic_type: Condition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training Program Design
+  section: '18.2'
+  section_title: 'Step 2: Exercise Selection'
+  book_page: 1196
+  pdf_page: 1196
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An athlete''s current condition or level of preparedness to begin a new
+  or revised program (training status) is an important consideration in the design
+  of training programs.
+
+  '
+attributes: []
+purpose:
+- important consideration in the design of training programs
+related_concepts: []

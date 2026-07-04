@@ -1,0 +1,35 @@
+id: table_row.bench_press_back_squat_vertical_jump_standing_long_jump_female_ncaa_division_iii_field_hockey
+type: TableRow
+canonical_name: Bench Press, Back Squat, Vertical Jump, and Standing Long Jump in
+  Female NCAA Division III Athletes - Field Hockey
+semantic_type: NormativeData
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Special Populations
+  section: '14.4'
+  section_title: Conclusion
+  book_page: 831
+  pdf_page: 831
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Descriptive data for bench press, back squat, vertical jump, and standing
+  long jump in female NCAA Division III athletes playing field hockey.
+
+  '
+attributes:
+- sport: Field hockey
+- bench_press_kg: 43.9 ± 7.4
+- back_squat_kg: 78.4 ± 16.44
+- vertical_jump_cm: 44.1 ± 6.5
+- standing_long_jump_cm: 174.4 ± 16.5
+purpose:
+- Provide descriptive data for strength and power assessments in female collegiate
+  athletes.
+related_concepts: []

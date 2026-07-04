@@ -1,0 +1,41 @@
+id: procedure.skinfold_measurements_obtaining
+type: Procedure
+canonical_name: Skinfold Measurements — Obtaining a Skinfold Measurement Procedure
+semantic_type: Assessment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.3'
+  section_title: Statistical Evaluation of Test Data
+  book_page: 814
+  pdf_page: 814
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Skinfold measurements should be made on dry skin, before exercise, to
+  ensure maximum validity and reliability (70). The number of sites and equations
+  should be selected based on the population tested (see table 14.35 near the end
+  of the chapter). Grasp the skin firmly with the thumb and index finger to form a
+  fold of skin and subcutaneous fat. Place the caliper prongs perpendicular to the
+  fold 0.5 inch to 1 inch (approximately 1-2 cm) from the thumb and index finger.
+  Release the caliper grip so that its spring tension is exerted on the skinfold.
+  Between 1 and 2 seconds after the grip on the caliper has been released, read the
+  dial on the caliper to the nearest 0.5 millimeter. Obtain one measurement from each
+  test site, and then repeat all test sites for a second trial. If the measurements
+  do not differ by more than 10%, average the two measurements to the nearest 0.5
+  millimeter. Otherwise, take one or more additional measurements until two of the
+  measurements are within 10%, and average those two measurements to the nearest 0.5
+  millimeter.
+
+  '
+attributes: []
+purpose:
+- estimate body composition
+related_concepts:
+- concept.body_composition

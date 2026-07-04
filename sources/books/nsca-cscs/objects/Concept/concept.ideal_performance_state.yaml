@@ -1,0 +1,38 @@
+id: concept.ideal_performance_state
+type: Concept
+canonical_name: Ideal Performance State
+semantic_type: State
+aliases: []
+source:
+  book: Essentials of Strength and Training Conditioning
+  edition: 5
+  chapter: 9
+  chapter_title: Psychological Foundations of Performance
+  section: '9.1'
+  section_title: Psychological Foundations of Performance
+  book_page: 469
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The ideal performance state has been studied from a number of perspectives.
+  Williams and Krane (68) listed the following characteristics that athletes typically
+  report about this state: Absence of fear—no fear of failure; No thinking about or
+  analysis of performance (related to the motor stage of automaticity); A narrow focus
+  of attention concentrated on the activity itself; A sense of effortlessness— an
+  involuntary experience; A sense of personal control; A distortion of time and space,
+  in which time seems to slow.
+
+  '
+attributes:
+- absence of fear
+- no thinking about or analysis of performance
+- narrow focus of attention concentrated on the activity itself
+- sense of effortlessness
+- sense of personal control
+- distortion of time and space
+purpose: []
+related_concepts: []

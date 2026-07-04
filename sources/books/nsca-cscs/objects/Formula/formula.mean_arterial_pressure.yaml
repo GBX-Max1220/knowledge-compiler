@@ -1,0 +1,32 @@
+id: formula.mean_arterial_pressure
+type: Formula
+canonical_name: Mean Arterial Pressure Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 87
+  pdf_page: 87
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: Mean arterial blood pressure = [(Systolic blood pressure − Diastolic blood
+  pressure) ÷ 3] + Diastolic blood pressure
+variables:
+- name: Systolic blood pressure
+  description: systolic blood pressure
+  unit: mmHg
+- name: Diastolic blood pressure
+  description: diastolic blood pressure
+  unit: mmHg
+equation: Mean arterial blood pressure = [(Systolic blood pressure − Diastolic blood
+  pressure) ÷ 3] + Diastolic blood pressure
+reference_number: '1.4'

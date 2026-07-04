@@ -1,0 +1,60 @@
+id: procedure.flat_dumbbell_fly
+type: Procedure
+canonical_name: Flat Dumbbell Fly
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Special Populations
+  section: '16.2'
+  section_title: Machine Exercises
+  book_page: 994
+  pdf_page: 994
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: procedure.dumbbell_fly
+definition: 'Starting Position: Athlete Grasp two dumbbells using a closed, neutral
+  grip. Lie in a supine position on a bench in the five-point body contact position.
+  Signal the spotter for assistance in moving the dumbbells into the starting position.
+  Press the dumbbells in unison to an extended-elbow position above the chest. Slightly
+  flex the elbows and point them out to the sides. All repetitions begin from this
+  position. Starting Position: Spotter Position one knee on the floor with the foot
+  of the other leg forward and flat on the floor (or kneel on both knees). Grasp the
+  athlete''s forearms near the wrists. At the athlete''s signal, assist with moving
+  the dumbbells to a position over the athlete''s chest. Release the athlete''s forearms
+  smoothly. Downward Movement Phase: Athlete Lower the dumbbells in a wide arc until
+  they are level with the shoulders or chest. Keep the dumbbell handles parallel to
+  each other as the elbows move downward. Keep the wrists stiff and the elbows held
+  in a slightly flexed position. Keep the hands, wrists, forearms, elbows, upper arms,
+  and shoulders in the same vertical plane. Maintain the five-point body contact position.
+  Downward Movement Phase: Spotter Keep the hands near—but not touching—the athlete''s
+  forearms near the wrists as the dumbbells descend. Upward Movement Phase: Athlete
+  Raise the dumbbells up toward each other in a wide arc back to the starting position.
+  Keep the wrists stiff and the elbows held in a slightly flexed position. Keep the
+  hands, wrists, forearms, elbows, upper arms, and shoulders in the same vertical
+  plane. Maintain the five-point body contact position. Upward Movement Phase: Spotter
+  Keep the hands near—but not touching—the athlete''s forearms near the wrists as
+  the dumbbells ascend.
+
+  '
+attributes:
+- closed_neutral_grip
+- supine_position
+- flat_bench
+- five_point_body_contact_position
+- spotter_assistance
+purpose:
+- strengthen chest muscles
+- strengthen shoulder muscles
+related_concepts:
+- concept.dumbbell
+- concept.flat_bench
+- concept.five_point_body_contact_position
+- concept.spotter

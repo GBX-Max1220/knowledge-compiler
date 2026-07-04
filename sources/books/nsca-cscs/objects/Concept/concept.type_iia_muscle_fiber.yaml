@@ -1,0 +1,31 @@
+id: concept.type_iia_muscle_fiber
+type: Concept
+canonical_name: Type IIa Muscle Fiber
+semantic_type: Cell
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 58
+  pdf_page: 58
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.fast_twitch_muscle_fiber
+definition: 'A type of muscle fiber classified by histochemical staining for myosin
+  ATPase content, also known as fast-twitch.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.type_i_muscle_fiber
+- concept.type_iix_muscle_fiber

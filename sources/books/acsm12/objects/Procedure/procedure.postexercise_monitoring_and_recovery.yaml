@@ -1,0 +1,35 @@
+id: procedure.postexercise_monitoring_and_recovery
+type: Procedure
+canonical_name: Postexercise Monitoring and Recovery
+semantic_type: Clinical Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.7'
+  section_title: Postexercise
+  book_page: 294
+  pdf_page: 294
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Following exercise testing, the patient should be monitored during recovery
+  until heart rate, blood pressure, and ECG have returned to near baseline levels.
+  The recovery period is important for detecting abnormal responses that may not be
+  present during exercise, such as ST-segment depression or ventricular arrhythmias.
+  Patients should be observed for at least 6–8 min after exercise, or longer if clinically
+  indicated. The patient should be seated or supine during recovery, and the ECG should
+  be monitored continuously. Blood pressure should be measured at 1–2 min intervals
+  during recovery.
+
+  '
+attributes: []
+purpose:
+- detect abnormal responses that may not be present during exercise, such as ST-segment
+  depression or ventricular arrhythmias
+related_concepts: []

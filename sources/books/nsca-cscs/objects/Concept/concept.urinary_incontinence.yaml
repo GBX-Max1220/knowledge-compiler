@@ -1,0 +1,29 @@
+id: concept.urinary_incontinence
+type: Concept
+canonical_name: Urinary Incontinence
+semantic_type: Condition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.2'
+  section_title: Training Responses and Adaptations
+  book_page: 449
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.pelvic_floor_dysfunction
+definition: 'UI is an involuntary loss of urine, and SUI is an involuntary loss of
+  urine with any physical exertion (22, 150).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

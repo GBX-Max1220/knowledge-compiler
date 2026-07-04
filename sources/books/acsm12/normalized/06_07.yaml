@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: figure.health_screening_flow_chart
+type: Figure
+canonical_name: Health Screening Flow Chart
+semantic_type: Flow Chart
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Health Screening"
+  section: "6.7"
+  section_title: "Health Screening"
+  book_page: 440
+  pdf_page: 440
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 6.1 — Health Screening Flow Chart.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

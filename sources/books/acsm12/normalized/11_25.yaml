@@ -1,0 +1,719 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_testing_individuals_with_intellectual_disability
+type: Recommendation
+canonical_name: Exercise Testing Recommendations for Individuals with Intellectual Disability
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with intellectual disability (ID) may have difficulty understanding instructions or performing exercise tests. Therefore, it is important to use simple language, demonstrate the test procedures, and allow for practice trials before the actual test.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.pre_exercise_testing_considerations_intellectual_disability
+type: Recommendation
+canonical_name: Pre-Exercise Testing Considerations for Intellectual Disability
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with intellectual disability (ID) may have difficulty understanding instructions or performing exercise tests. Therefore, it is important to use simple language, demonstrate the test procedures, and allow for practice trials before the actual test.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.test_selection_individuals_intellectual_disability
+type: Recommendation
+canonical_name: Test Selection for Individuals with Intellectual Disability
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For individuals with ID, submaximal exercise tests are often preferred over maximal tests because they are easier to perform and require less motivation and cooperation.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.motivation_encouragement_during_testing
+type: Recommendation
+canonical_name: Motivation and Encouragement During Testing
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  During exercise testing, provide frequent encouragement and positive reinforcement to maintain motivation and effort.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.familiarization_testing_environment
+type: Recommendation
+canonical_name: Familiarization with Testing Environment
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Familiarization with the testing environment and equipment is essential for obtaining valid and reliable test results in individuals with ID.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.accommodations_sensory_sensitivities
+type: Recommendation
+canonical_name: Accommodations for Sensory Sensitivities
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Be aware of potential sensory sensitivities (e.g., to loud noises, bright lights, or certain textures) and make appropriate accommodations.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.inclusion_caregivers_support_staff
+type: Recommendation
+canonical_name: Inclusion of Caregivers or Support Staff
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Whenever possible, include a caregiver or support staff member who is familiar with the individual to assist with communication and behavior management.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.medication_review_intellectual_disability
+type: Recommendation
+canonical_name: Medication Review for Individuals with Intellectual Disability
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Review medications that may affect heart rate or exercise performance, such as antipsychotics or anticonvulsants.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_considerations_intellectual_disability
+type: Recommendation
+canonical_name: Exercise Prescription Considerations for Intellectual Disability
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise prescriptions should be individualized and may need to be modified based on the individual's cognitive abilities, physical limitations, and behavioral characteristics.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.simple_concrete_instructions
+type: Recommendation
+canonical_name: Use of Simple and Concrete Instructions
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Use simple, concrete instructions and avoid abstract concepts when explaining exercise tasks.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.visual_aids_exercise_instruction
+type: Recommendation
+canonical_name: Visual Aids for Exercise Instruction
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Visual aids, such as pictures or videos, can be helpful in demonstrating exercises.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.structured_predictable_exercise_routines
+type: Recommendation
+canonical_name: Structured and Predictable Exercise Routines
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Provide a structured and predictable routine to reduce anxiety and improve adherence.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.positive_reinforcement_exercise_adherence
+type: Recommendation
+canonical_name: Positive Reinforcement for Exercise Adherence
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Use positive reinforcement and rewards to encourage participation and adherence.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.safety_monitoring_during_exercise
+type: Recommendation
+canonical_name: Safety Monitoring During Exercise
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Monitor for signs of fatigue, discomfort, or overexertion, as individuals with ID may not be able to communicate these effectively.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.fall_prevention_during_exercise
+type: Recommendation
+canonical_name: Fall Prevention During Exercise
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Ensure a safe exercise environment to prevent falls and injuries, particularly for those with balance or coordination difficulties.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.hydration_temperature_regulation
+type: Recommendation
+canonical_name: Hydration and Temperature Regulation
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Pay attention to hydration and temperature regulation, as some individuals with ID may have impaired thermoregulation.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.gradual_progression_exercise_intensity
+type: Recommendation
+canonical_name: Gradual Progression of Exercise Intensity
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Gradually increase exercise intensity and duration to avoid injury and promote long-term adherence.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.social_interaction_group_exercise
+type: Recommendation
+canonical_name: Social Interaction and Group Exercise
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Incorporate social interaction and group activities when possible, as these can enhance motivation and enjoyment.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.collaboration_healthcare_providers
+type: Recommendation
+canonical_name: Collaboration with Healthcare Providers
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Collaborate with healthcare providers, including physicians, physical therapists, and occupational therapists, to develop comprehensive exercise programs.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.regular_reassessment_exercise_program
+type: Recommendation
+canonical_name: Regular Reassessment of Exercise Program
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Special Considerations for Individuals With Intellectual Disability"
+  section: "11.25"
+  section_title: "Special Considerations for Individuals With Intellectual Disability"
+  book_page: 1002
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Regularly reassess the exercise program and make adjustments as needed based on the individual's progress and changing needs.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

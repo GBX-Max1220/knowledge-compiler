@@ -1,0 +1,28 @@
+id: concept.complex_training
+type: Concept
+canonical_name: Complex Training
+semantic_type: TrainingMethod
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1287
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'However, many athletes may benefit from complex training, a combination
+  of resistance training and plyometric training within the same training session
+  to enhance fast and slow force expression.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

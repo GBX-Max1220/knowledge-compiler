@@ -1,0 +1,31 @@
+id: concept.bilateral_deficit
+type: Concept
+canonical_name: Bilateral Deficit
+semantic_type: Physiological Phenomenon
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1134
+  pdf_page: 1134
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'They are often used to reduce a bilateral deficit, where asymmetries
+  in force production are observed between unilateral and bilateral movements (67).
+
+  '
+attributes:
+- asymmetries_in_force_production
+purpose:
+- reduce bilateral deficit
+related_concepts: []

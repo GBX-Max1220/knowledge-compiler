@@ -1,0 +1,17 @@
+# Extraction: Section 3.11 — Densitometry
+# Pages: 187–191
+
+---
+TYPE: Formula
+TITLE: Body Density from Skinfolds (Jackson-Pollock 7-Site)
+PAGE: 187
+SECTION: 3.11
+ORIGINAL: Body density = 1.097 − 0.00046971 (sum of 7 skinfolds) + 0.00000056 (sum of 7 skinfolds)² − 0.00012828 (age).
+END
+---
+TYPE: Formula
+TITLE: Percent Body Fat from Body Density (Siri)
+PAGE: 189
+SECTION: 3.11
+ORIGINAL: Percent body fat = (495 / body density) − 450.
+END

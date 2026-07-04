@@ -1,0 +1,31 @@
+id: concept.parallel_elastic_component
+type: Concept
+canonical_name: Parallel Elastic Component
+semantic_type: AnatomicalStructure
+aliases:
+- PEC
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1263
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The series elastic component (SEC) and parallel elastic component (PEC)
+  are two elastic structures that can be stretched within the muscle during plyometric
+  exercises. The SEC includes tendons and muscle fiber crossbridges. The PEC contains
+  collagenous structures (e.g., fascicular membranes), which provide stability and
+  protection to musculature.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

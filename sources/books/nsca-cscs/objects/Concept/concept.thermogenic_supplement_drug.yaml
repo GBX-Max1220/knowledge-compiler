@@ -1,0 +1,31 @@
+id: concept.thermogenic_supplement_drug
+type: Concept
+canonical_name: Thermogenic Supplement/Drug
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 723
+  pdf_page: 723
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A thermogenic supplement or drug works by elevating basal metabolic rate,
+  thereby increasing energy expenditure and ultimately resulting in fat loss.
+
+  '
+attributes:
+- elevates_basal_metabolic_rate
+- increases_energy_expenditure
+- results_in_fat_loss
+purpose:
+- fat loss
+related_concepts: []

@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.future_directions
+type: Concept
+canonical_name: Future Directions
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.29"
+  section_title: "Future Directions"
+  book_page: 394
+  pdf_page: 394
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This section contains no labelable content (definitions, recommendations, procedures, thresholds, warnings, contraindications, risk factors, evidence, formulas, figures, tables, or decision rules).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

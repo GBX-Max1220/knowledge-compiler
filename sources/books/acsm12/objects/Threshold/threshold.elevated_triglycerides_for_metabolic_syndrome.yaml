@@ -1,0 +1,31 @@
+id: threshold.elevated_triglycerides_for_metabolic_syndrome
+type: Threshold
+canonical_name: Elevated Triglycerides Threshold for Metabolic Syndrome
+semantic_type: Laboratory Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Diagnosis and Comorbidities
+  section: '10.20'
+  section_title: Diagnosis and Comorbidities
+  book_page: 835
+  pdf_page: 835
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: threshold.diagnostic_thresholds_for_metabolic_syndrome
+definition: 'elevated triglycerides (≥150 mg·dL⁻¹ [1.7 mmol·L⁻¹])
+
+  '
+attributes:
+- ≥150 mg·dL⁻¹
+- 1.7 mmol·L⁻¹
+purpose:
+- diagnose metabolic syndrome
+related_concepts: []

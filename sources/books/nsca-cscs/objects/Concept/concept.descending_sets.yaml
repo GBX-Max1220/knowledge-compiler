@@ -1,0 +1,27 @@
+id: concept.descending_sets
+type: Concept
+canonical_name: Descending Sets
+semantic_type: TrainingMethod
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1288
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Descending sets require multiple high-force exercises to be completed
+  before the execution of high-velocity exercises.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,29 @@
+id: concept.fused_tetanic_contraction
+type: Concept
+canonical_name: Fused Tetanic Contraction
+semantic_type: Physiological Process
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 57
+  pdf_page: 57
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A high activation frequency leads to the merging of twitches in what
+  has been termed fused tetanic contraction.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.twitch_summation
+- concept.unfused_tetanic_contraction

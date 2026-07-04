@@ -1,0 +1,33 @@
+id: concept.purkinje_fibers
+type: Concept
+canonical_name: Purkinje Fibers
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.03'
+  section_title: Cardiovascular System
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.conduction_system
+definition: 'The Purkinje fibers more completely penetrate the ventricles, and the
+  impulse travels quickly throughout the entire ventricular system and causes both
+  ventricles to contract at approximately the same time.
+
+  '
+attributes: []
+purpose:
+- conduct impulses throughout ventricles
+- cause both ventricles to contract at approximately same time
+related_concepts:
+- concept.ventricle

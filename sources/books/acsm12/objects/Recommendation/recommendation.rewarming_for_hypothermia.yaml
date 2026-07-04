@@ -1,0 +1,35 @@
+id: recommendation.rewarming_for_hypothermia
+type: Recommendation
+canonical_name: Rewarming for Hypothermia
+semantic_type: TreatmentStrategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For hypothermia, rewarm the individual gradually using warm blankets,
+  warm fluids (if conscious), and body-to-body contact. Avoid rapid rewarming or vigorous
+  movement.
+
+  '
+attributes:
+- methods:
+  - warm blankets
+  - warm fluids (if conscious)
+  - body-to-body contact
+- contraindications:
+  - rapid rewarming
+  - vigorous movement
+purpose:
+- treat hypothermia

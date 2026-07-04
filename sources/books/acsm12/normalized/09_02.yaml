@@ -1,0 +1,38 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.general_exercise_recommendations_diabetes_1
+type: TableRow
+canonical_name: General Exercise Recommendations for Individuals With Diabetes Mellitus
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.2"
+  section_title: "Diabetes Mellitus"
+  book_page: 707
+  pdf_page: 707
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  General exercise recommendations for individuals with diabetes mellitus as outlined in Table 9.1.
+
+attributes: []
+
+purpose:
+  - guide exercise prescription for diabetes mellitus management
+
+related_concepts:
+  - concept.diabetes_mellitus
+---

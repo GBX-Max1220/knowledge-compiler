@@ -1,0 +1,31 @@
+id: concept.variable_resistance
+type: Concept
+canonical_name: Variable Resistance
+semantic_type: Training Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1101
+  pdf_page: 1101
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'These variable-resistance methods attempt to alter the resistance, so
+  the muscle maximizes force application throughout the full range of motion (130,
+  145).
+
+  '
+attributes: []
+purpose:
+- maximize force application throughout full range of motion
+related_concepts: []

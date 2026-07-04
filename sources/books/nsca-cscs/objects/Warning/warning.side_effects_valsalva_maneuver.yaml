@@ -1,0 +1,34 @@
+id: warning.side_effects_valsalva_maneuver
+type: Warning
+canonical_name: Side Effects of Valsalva Maneuver
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16'
+  section_title: Breathing Considerations
+  book_page: 953
+  pdf_page: 953
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+warning_text: 'Be aware, however, that the resulting increase in intra-abdominal pressure
+  has potentially detrimental side effects, such as dizziness, disorientation, excessively
+  high blood pressure, and blackouts.
+
+  '
+severity: moderate
+risk_factors:
+- increase in intra-abdominal pressure
+side_effects:
+- dizziness
+- disorientation
+- excessively high blood pressure
+- blackouts
+context:
+- Valsalva maneuver

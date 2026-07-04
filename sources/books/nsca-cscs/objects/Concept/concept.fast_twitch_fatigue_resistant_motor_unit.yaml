@@ -1,0 +1,29 @@
+id: concept.fast_twitch_fatigue_resistant_motor_unit
+type: Concept
+canonical_name: Fast-Twitch/Fatigue-Resistant Motor Unit
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 56
+  pdf_page: 56
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.fast_twitch_motor_unit
+definition: 'A type of motor unit that is fast-twitch and fatigue-resistant.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.fast_twitch_fatigable_motor_unit

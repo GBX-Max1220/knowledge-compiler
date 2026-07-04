@@ -1,0 +1,28 @@
+id: concept.duty_cycle
+type: Concept
+canonical_name: Duty Cycle
+semantic_type: TrainingConcept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetic Limiting Factors
+  section: '3.4'
+  section_title: Bioenergetic Limiting Factors
+  book_page: 218
+  pdf_page: 218
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'High-intensity interval training is often discussed in terms of duty
+  cycles involving a high-intensity work phase followed by a lower-intensity recovery
+  phase.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,27 @@
+id: recommendation.maximum_relative_humidity_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Maximum Relative Humidity for Strength and Conditioning
+  Facilities
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1745
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'In any space where there is physical activity, relative humidity
+  should not exceed 60%.
+
+  '
+context: []
+rationale: []
+citations: []

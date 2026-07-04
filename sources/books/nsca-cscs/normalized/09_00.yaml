@@ -1,0 +1,588 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.sport_psychology
+type: Concept
+canonical_name: Sport Psychology
+semantic_type: Discipline
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 467
+  pdf_page: 467
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Sport psychology is a multifaceted discipline, drawing on constructs of exercise science and psychological principles, that seeks to understand the influence of behavioral processes and cognitions on sport performance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ideal_performance_state
+type: Concept
+canonical_name: Ideal Performance State
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 469
+  pdf_page: 469
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The ideal performance state has been studied from a number of perspectives. Williams and Krane (68) listed the following characteristics that athletes typically report about this state: Absence of fear—no fear of failure; No thinking about or analysis of performance (related to the motor stage of automaticity); A narrow focus of attention concentrated on the activity itself; A sense of effortlessness—an involuntary experience; A sense of personal control; A distortion of time and space, in which time seems to slow
+attributes:
+  - absence of fear
+  - no thinking about performance
+  - narrow focus of attention
+  - sense of effortlessness
+  - sense of personal control
+  - distortion of time and space
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.emotions
+type: Concept
+canonical_name: Emotions
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 471
+  pdf_page: 471
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Emotions are temporary feeling states that occur in response to events and that have both physiological and psychological components (19).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.arousal
+type: Concept
+canonical_name: Arousal
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 472
+  pdf_page: 472
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Arousal is simply a blend of physiological and psychological activation in an individual and refers to the intensity of motivation at any given moment (64).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.anxiety
+type: Concept
+canonical_name: Anxiety
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 472
+  pdf_page: 472
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.arousal
+definition: >
+  Anxiety is a subcategory of arousal in that it is a negatively perceived emotional state characterized by nervousness, worry, apprehension, or fear and is associated with a physiological activation of the body (64).
+attributes:
+  - nervousness
+  - worry
+  - apprehension
+  - fear
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cognitive_anxiety
+type: Concept
+canonical_name: Cognitive Anxiety
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 472
+  pdf_page: 472
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.anxiety
+definition: >
+  Because anxiety requires the individual's negative perception of a situation, it incorporates a cognitive component, called cognitive anxiety, as well as the physical reaction, or somatic anxiety, evidenced through physical symptoms such as tense muscles, tachycardia (fast heart rate), and upset stomach.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.somatic_anxiety
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.somatic_anxiety
+type: Concept
+canonical_name: Somatic Anxiety
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 472
+  pdf_page: 472
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.anxiety
+definition: >
+  Because anxiety requires the individual's negative perception of a situation, it incorporates a cognitive component, called cognitive anxiety, as well as the physical reaction, or somatic anxiety, evidenced through physical symptoms such as tense muscles, tachycardia (fast heart rate), and upset stomach.
+attributes:
+  - tense muscles
+  - tachycardia
+  - upset stomach
+purpose: []
+related_concepts:
+  - concept.cognitive_anxiety
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.state_anxiety
+type: Concept
+canonical_name: State Anxiety
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 473
+  pdf_page: 473
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  State anxiety refers to a subjective experience of apprehension and uncertainty accompanied by elevated autonomic and voluntary neural outflow and increased endocrine activity (57).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.trait_anxiety
+type: Concept
+canonical_name: Trait Anxiety
+semantic_type: Trait
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 473
+  pdf_page: 473
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Trait anxiety is a personality variable or disposition relating to the probability that one will perceive an environment as threatening.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stress
+type: Concept
+canonical_name: Stress
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 475
+  pdf_page: 475
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Stress is defined as a substantial imbalance between demand (physical, psychological, or both) and perceived response capability, under conditions in which failure to meet that demand has important consequences (51).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stressor
+type: Concept
+canonical_name: Stressor
+semantic_type: Event
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 475
+  pdf_page: 475
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A stressor is an environmental or cognitive event that precipitates stress (i.e., the stress response).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.stress
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.distress
+type: Concept
+canonical_name: Distress
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 475
+  pdf_page: 475
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.stress
+definition: >
+  Stress can be described as a negative (distress) or a positive (eustress) state.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.eustress
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.eustress
+type: Concept
+canonical_name: Eustress
+semantic_type: State
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 475
+  pdf_page: 475
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.stress
+definition: >
+  Stress can be described as a negative (distress) or a positive (eustress) state.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.distress
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.drive_theory
+type: Concept
+canonical_name: Drive Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 476
+  pdf_page: 476
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hull's drive theory (56) proposes that as an individual's arousal or state anxiety increases, so too does performance.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.arousal
+  - concept.state_anxiety
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.inverted_u_theory
+type: Concept
+canonical_name: Inverted-U Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 478
+  pdf_page: 478
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Basically, this theory states that arousal facilitates performance up to an optimal level, beyond which further increases in arousal are associated with reduced performance.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.arousal
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.individual_zones_of_optimal_functioning_theory
+type: Concept
+canonical_name: Individual Zones of Optimal Functioning Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 479
+  pdf_page: 479
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hanin (23) noted the interactions of individual factors that affect optimal arousal for performance and developed the individual zones of optimal functioning theory.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.arousal
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.catastrophe_theory
+type: Concept
+canonical_name: Catastrophe Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 480
+  pdf_page: 480
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  In this model, the catastrophe theory, somatic arousal has a curvilinear, inverted-U relationship to athletic performance, whereas cognitive anxiety shows a steady negative relationship to performance.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.somatic_anxiety
+  - concept.cognitive_anxiety
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.reversal_theory
+type: Concept
+canonical_name: Reversal Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 481
+  pdf_page: 481
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Kerr's (30) interpretation of reversal theory posits that the way in which arousal and anxiety affect performance depends on the individual's interpretation of that arousal.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.arousal
+  - concept.anxiety
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.motivation
+type: Concept
+canonical_name: Motivation
+semantic_type: Construct
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 482
+  pdf_page: 482
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Motivation can be defined as the intensity and direction of effort (64).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.intrinsic_motivation
+type: Concept
+canonical_name: Intrinsic Motivation
+semantic_type: Construct
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Psychological Foundations of Performance"
+  section: "9"
+  section_title: "Psychological Foundations of Performance"
+  book_page: 482
+  pdf_page: 482
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"

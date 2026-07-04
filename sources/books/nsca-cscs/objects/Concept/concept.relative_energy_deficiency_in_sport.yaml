@@ -1,0 +1,30 @@
+id: concept.relative_energy_deficiency_in_sport
+type: Concept
+canonical_name: Relative Energy Deficiency in Sport
+semantic_type: Syndrome
+aliases:
+- RED-S
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Relative energy deficiency in sport (RED-S) encompasses various physiological
+  dysfunctions resulting from low energy availability (LEA), where an athlete''s energy
+  intake does not match the energy expended during exercise.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.low_energy_availability

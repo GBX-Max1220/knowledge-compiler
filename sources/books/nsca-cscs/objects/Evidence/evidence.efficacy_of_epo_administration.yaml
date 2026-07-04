@@ -1,0 +1,26 @@
+id: evidence.efficacy_of_epo_administration
+type: Evidence
+canonical_name: Efficacy of EPO Administration
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 694
+  pdf_page: 694
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+evidence_text: A 2013 systematic review and meta-analysis indicated that EPO administration
+  promotes increases in hemoglobin and hematocrit of 5% to 17%

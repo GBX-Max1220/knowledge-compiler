@@ -1,0 +1,288 @@
+TYPE
+Definition
+
+TITLE
+Sensitivity
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Sensitivity is the ability of a test to correctly identify those individuals with the disease (i.e., true positive rate).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Specificity
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Specificity is the ability of a test to correctly identify those individuals without the disease (i.e., true negative rate).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Predictive Value
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Predictive value is the likelihood that a given test result correctly identifies an individual as having or not having the disease.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Sensitivity Threshold
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Sensitivity is the ability of a test to correctly identify those individuals with the disease (i.e., true positive rate).
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Specificity Threshold
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Specificity is the ability of a test to correctly identify those individuals without the disease (i.e., true negative rate).
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Calculating Sensitivity
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Sensitivity = TP / (TP + FN) × 100
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Calculating Specificity
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Specificity = TN / (TN + FP) × 100
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Calculating Positive Predictive Value
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Positive predictive value = TP / (TP + FP) × 100
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Calculating Negative Predictive Value
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Negative predictive value = TN / (TN + FN) × 100
+
+END
+
+TYPE
+Definition
+
+TITLE
+Positive Predictive Value
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Positive predictive value is the probability that a person with a positive test result actually has the disease.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Negative Predictive Value
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+Negative predictive value is the probability that a person with a negative test result truly does not have the disease.
+
+END
+
+TYPE
+Definition
+
+TITLE
+True Positive
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+True positive (TP) = individuals with the disease who have a positive test result.
+
+END
+
+TYPE
+Definition
+
+TITLE
+False Positive
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+False positive (FP) = individuals without the disease who have a positive test result.
+
+END
+
+TYPE
+Definition
+
+TITLE
+True Negative
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+True negative (TN) = individuals without the disease who have a negative test result.
+
+END
+
+TYPE
+Definition
+
+TITLE
+False Negative
+
+PAGE
+311
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+False negative (FN) = individuals with the disease who have a negative test result.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Disease Prevalence Impact on Predictive Value
+
+PAGE
+312
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+As disease prevalence decreases, the positive predictive value decreases and the negative predictive value increases.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Disease Prevalence Impact on Predictive Value (Inverse)
+
+PAGE
+312
+
+SECTION
+4.21 — Sensitivity, Specificity, and Predictive Value
+
+ORIGINAL TEXT
+As disease prevalence increases, the positive predictive value increases and the negative predictive value decreases.
+
+END

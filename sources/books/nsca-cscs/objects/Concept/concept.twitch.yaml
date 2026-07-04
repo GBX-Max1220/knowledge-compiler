@@ -1,0 +1,27 @@
+id: concept.twitch
+type: Concept
+canonical_name: Twitch
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Activation of Muscles
+  section_title: Activation of Muscles
+  book_page: 57
+  pdf_page: 57
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The brief contraction that occurs in response to one action potential
+  is referred to as a twitch.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

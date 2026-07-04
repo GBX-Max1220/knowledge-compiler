@@ -1,0 +1,28 @@
+id: recommendation.avoid_hyponatremia
+type: Recommendation
+canonical_name: Avoiding Hyponatremia
+semantic_type: Hydration
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.5'
+  section_title: Minerals
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: To avoid hyponatremia, fluid intake should not exceed sweat losses
+  (athletes should not weigh more after they finish exercising than they did at the
+  start of their training session), and athletes should consume sodium through either
+  sport drinks or food (3, 120).

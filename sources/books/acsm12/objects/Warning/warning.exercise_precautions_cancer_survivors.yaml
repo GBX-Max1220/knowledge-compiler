@@ -1,0 +1,39 @@
+id: warning.exercise_precautions_cancer_survivors
+type: Warning
+canonical_name: Exercise Precautions for Cancer Survivors
+semantic_type: Safety
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.29'
+  section_title: Exercise Prescription
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Special considerations: Avoid exercise if hemoglobin <8.0 g·dL−1. Avoid
+  exercise if platelet count <50,000·μL−1. Avoid exercise if absolute neutrophil count
+  <0.5 × 109·L−1. Avoid exercise if temperature >100°F (38°C). Avoid exercise if severe
+  fatigue, anemia, or ataxia. Avoid exercise if uncontrolled pain. Avoid exercise
+  if uncontrolled nausea or vomiting. Avoid exercise if uncontrolled dyspnea. Avoid
+  exercise if uncontrolled cardiac conditions (e.g., unstable angina, uncontrolled
+  arrhythmias, uncontrolled heart failure). Avoid exercise if uncontrolled metabolic
+  conditions (e.g., uncontrolled diabetes, uncontrolled thyroid disease). Avoid exercise
+  if uncontrolled orthopedic conditions (e.g., acute fracture, acute tendonitis, acute
+  bursitis). Avoid exercise if uncontrolled psychiatric conditions (e.g., severe depression,
+  severe anxiety, severe cognitive impairment). Avoid exercise if uncontrolled infection.
+  Avoid exercise if uncontrolled electrolyte abnormalities. Avoid exercise if uncontrolled
+  dehydration. Avoid exercise if uncontrolled malnutrition. Avoid exercise if uncontrolled
+  cachexia. Avoid exercise if uncontrolled lymphedema.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

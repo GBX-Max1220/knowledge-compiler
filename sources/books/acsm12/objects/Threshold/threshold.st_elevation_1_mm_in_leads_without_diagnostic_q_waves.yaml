@@ -1,0 +1,33 @@
+id: threshold.st_elevation_1_mm_in_leads_without_diagnostic_q_waves
+type: Threshold
+canonical_name: ST Elevation Threshold for Test Termination
+semantic_type: ECG Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Classification
+  section: '4.6'
+  section_title: Monitoring and Test Termination
+  book_page: 285
+  pdf_page: 285
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: threshold.absolute_indications_for_terminating_exercise_testing
+definition: 'ST elevation (≥1 mm) in leads without diagnostic Q waves (other than
+  V1 or aVR)
+
+  '
+attributes:
+- ST elevation ≥1 mm
+- leads without diagnostic Q waves
+- other than V1 or aVR
+purpose:
+- terminate exercise testing
+related_concepts: []

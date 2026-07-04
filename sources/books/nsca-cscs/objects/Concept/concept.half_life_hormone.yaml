@@ -1,0 +1,28 @@
+id: concept.half_life_hormone
+type: Concept
+canonical_name: Half-Life (Hormone)
+semantic_type: TemporalProperty
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System and Resistance Exercise
+  section: Binding Proteins
+  section_title: Binding Proteins
+  book_page: 236
+  pdf_page: 236
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Hormones are often transported in the blood by various binding proteins
+  (4, 6), which serve as a temporary storage location and protect the hormones from
+  degradation, thereby extending their lifetime in the body (called the half-life).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

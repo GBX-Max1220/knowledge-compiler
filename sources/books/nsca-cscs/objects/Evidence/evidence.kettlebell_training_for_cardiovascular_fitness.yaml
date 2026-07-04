@@ -1,0 +1,29 @@
+id: evidence.kettlebell_training_for_cardiovascular_fitness
+type: Evidence
+canonical_name: Kettlebell training for cardiovascular fitness
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1128
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+evidence_text: 'While kettlebell swings appear to have a positive impact on cardiovascular
+  fitness, it is important to note that this activity does not offer the same level
+  of cardiovascular benefit as treadmill running or more traditional aerobic exercise
+  (65).
+
+  '
+findings: []
+population: ''
+methodology: ''

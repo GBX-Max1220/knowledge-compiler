@@ -1,0 +1,43 @@
+id: recommendation.minimizing_gastrointestinal_issues_before_competition
+type: Recommendation
+canonical_name: Minimizing Gastrointestinal Issues Before Competition
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Minimizing Gastrointestinal Issues
+  section_title: Minimizing Gastrointestinal Issues
+  book_page: 615
+  pdf_page: 615
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'To minimize the likelihood of stomach discomfort during competition,
+  athletes should do the following: Try food in practice first. Always try new foods
+  during several practice sessions before competition (7). When the meal is closer
+  in time to the start of the game or event, consume smaller amounts of food and liquids.
+  Avoid high-fat and high-fiber foods. Both fat and fiber slow down the rate of digestion.
+  When food is still being digested as an athlete exercises, he or she may experience
+  stomach cramps (7). Avoid sugar alcohols. Despite their name, sugar alcohols contain
+  no alcohol, but their chemical structure resembles that of both sugar and alcohol.
+  Sugar alcohols are a type of carbohydrate that is not completely absorbed in the
+  gut. Consequently, consumption can cause gas, bloating, and cramping and may have
+  a laxative effect. Sugar alcohols are found in some low-carbohydrate and sugar-free
+  products, including sugar-free gum, toothpaste, and energy drinks. The two sugar
+  alcohols most likely to cause gastrointestinal issues are sorbitol and mannitol
+  (4). Any product that could result in consumption of 20 grams of mannitol must carry
+  this warning on the label: "Excess consumption may have a laxative effect." Individual
+  responses to sugar alcohol vary. Sugar alcohols include xylitol (the most common
+  one found in dental products), erythritol, sorbitol, mannitol, maltitol, isomalt,
+  lactitol, hydrogenated starch hydrolysates, and hydrogenated glucose syrups (4).
+
+  '
+rationale: []
+target_population: []
+application_context: []

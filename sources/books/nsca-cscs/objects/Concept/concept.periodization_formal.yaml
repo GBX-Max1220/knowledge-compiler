@@ -1,0 +1,28 @@
+id: concept.periodization_formal
+type: Concept
+canonical_name: Periodization (Concept)
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1582
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Periodization is the logical and systematic process of sequencing and
+  integrating training interventions in order to manage the training process and to
+  increase the potential of achieving peak performance at appropriate time points.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

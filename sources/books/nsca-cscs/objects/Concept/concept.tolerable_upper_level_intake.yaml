@@ -1,0 +1,30 @@
+id: concept.tolerable_upper_level_intake
+type: Concept
+canonical_name: Tolerable Upper Level Intake
+semantic_type: Standard
+aliases:
+- UL
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 579
+  pdf_page: 579
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Tolerable Upper Level Intake (UL): The highest daily intake of a nutrient
+  that is likely to not pose a risk of adverse health effects in most of the general
+  population.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.dietary_reference_intake

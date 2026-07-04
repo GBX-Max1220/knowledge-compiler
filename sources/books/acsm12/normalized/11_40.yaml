@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: figure.algorithm_for_exercise_testing_in_persons_with_multiple_sclerosis
+type: Figure
+canonical_name: Algorithm for Exercise Testing in Persons with Multiple Sclerosis
+semantic_type: Algorithm
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Testing"
+  section: "11.40"
+  section_title: "Exercise Testing"
+  book_page: 1037
+  pdf_page: 1037
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 11.1 — Algorithm for exercise testing in persons with multiple sclerosis.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

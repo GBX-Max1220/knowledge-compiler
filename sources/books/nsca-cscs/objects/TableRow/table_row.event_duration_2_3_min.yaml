@@ -1,0 +1,11 @@
+id: table_row.event_duration_2_3_min
+type: TableRow
+canonical_name: Event Duration 2 3 Min
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Event Duration 2 3 Min is a concept in strength and conditioning.

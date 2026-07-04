@@ -1,0 +1,1292 @@
+{
+  "book": "acsm12",
+  "timestamp": "2026-07-04T23:31:54.696416",
+  "objects": 145,
+  "edges": 58,
+  "types": {
+    "Concept": 50,
+    "Figure": 3,
+    "Formula": 4,
+    "Procedure": 13,
+    "Recommendation": 8,
+    "TableRow": 29,
+    "Threshold": 33,
+    "Warning": 5
+  },
+  "total_issues": 311,
+  "by_layer": {
+    "1_syntax": {
+      "passed": 145,
+      "failed": 0
+    },
+    "2_schema": {
+      "passed": 142,
+      "failed": 195
+    },
+    "3_ontology": {
+      "passed": 165,
+      "failed": 0
+    },
+    "4_graph": {
+      "passed": 1,
+      "failed": 0
+    },
+    "5_semantic": {
+      "passed": 145,
+      "failed": 116
+    }
+  },
+  "issues": {
+    "1_syntax": [],
+    "2_schema": [
+      {
+        "severity": "warn",
+        "message": "concept.balance: semantic_type 'Ability' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.basic_principles_and_guidelines: semantic_type 'Concept' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.body_composition: semantic_type 'Attribute' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.cardiorespiratory_endurance: semantic_type 'Attribute' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.cardiorespiratory_fitness: semantic_type 'Physiological Capacity' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.comprehensive_health_fitness_evaluation: semantic_type 'Process' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.flexibility: semantic_type 'Attribute' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.health_related_physical_fitness: semantic_type 'Attribute' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.introduction: semantic_type 'Section' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.maximal_exercise_testing: semantic_type 'Procedure' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.muscular_endurance: semantic_type 'Attribute' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.muscular_power: semantic_type 'Physiological Concept' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.muscular_strength: semantic_type 'Attribute' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.other_techniques_for_health_related_physical_fitness_testing: semantic_type 'Concept' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.physical_fitness: semantic_type 'Attribute' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.principles_of_health_related_physical_fitness_testing: semantic_type 'Concept' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.purposes_of_health_related_physical_fitness_testing: semantic_type 'Concept' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.rationale: semantic_type 'Concept' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.risk_stratification_for_individuals_with_clinical_conditions_and_medical_fitness_facilities: semantic_type 'Process' not in allowed list"
+      },
+      {
+        "severity": "warn",
+        "message": "concept.submaximal_exercise_testing: semantic_type 'Procedure' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "figure.acsm_preparticipation_screening_algorithm: unknown type 'Figure'"
+      },
+      {
+        "severity": "error",
+        "message": "figure.cardiorespiratory_fitness_classification_example: unknown type 'Figure'"
+      },
+      {
+        "severity": "error",
+        "message": "figure.preparticipation_health_screening_algorithm: unknown type 'Figure'"
+      },
+      {
+        "severity": "error",
+        "message": "formula.power: required field 'canonical_form' is empty for type Formula"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.alternative_self_guided_method_for_preparticipation_evaluation: required field 'goal' is empty for type Procedure"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.alternative_self_guided_method_for_preparticipation_evaluation: required field 'steps' is empty for type Procedure"
+      },
+      {
+        "severity": "warn",
+        "message": "procedure.alternative_self_guided_method_for_preparticipation_evaluation: semantic_type 'Procedure' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.organizing_the_fitness_test: required field 'goal' is empty for type Procedure"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.organizing_the_fitness_test: required field 'steps' is empty for type Procedure"
+      },
+      {
+        "severity": "warn",
+        "message": "procedure.organizing_the_fitness_test: semantic_type 'Procedure' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.pretest_instructions_for_fitness_testing: required field 'goal' is empty for type Procedure"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.pretest_instructions_for_fitness_testing: required field 'steps' is empty for type Procedure"
+      },
+      {
+        "severity": "warn",
+        "message": "procedure.pretest_instructions_for_fitness_testing: semantic_type 'Procedure' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.submaximal_exercise_test_protocol_selection_and_conduct: required field 'goal' is empty for type Procedure"
+      },
+      {
+        "severity": "warn",
+        "message": "procedure.submaximal_exercise_test_protocol_selection_and_conduct: semantic_type 'Procedure' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.bicep_curl_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.bicep_curl_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.bicep_curl_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.body_composition_classification: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.body_composition_classification: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.body_composition_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.bridge_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.bridge_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.bridge_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.calf_raise_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.calf_raise_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.calf_raise_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.cardiorespiratory_fitness_classification: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.cardiorespiratory_fitness_classification: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.cardiorespiratory_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.curl_up_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.curl_up_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.curl_up_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.dip_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.dip_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.dip_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.heel_raise_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.heel_raise_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.heel_raise_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_abduction_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_abduction_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.hip_abduction_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_adduction_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_adduction_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.hip_adduction_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_extension_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_extension_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.hip_extension_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_curl_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_curl_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.leg_curl_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_extension_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_extension_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.leg_extension_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_raise_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_raise_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.leg_raise_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.lunge_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.lunge_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.lunge_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.margaria_kalamen_stair_climb_test_reference: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.margaria_kalamen_stair_climb_test_reference: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.margaria_kalamen_stair_climb_test_reference: semantic_type 'Reference Value' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.plank_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.plank_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.plank_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.pull_up_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.pull_up_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.pull_up_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.push_up_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.push_up_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.push_up_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.risk_classification_table_2_3: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.risk_classification_table_2_3: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.risk_classification_table_2_3: semantic_type 'Reference Table' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.row_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.row_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.row_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.shoulder_press_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.shoulder_press_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.shoulder_press_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.side_plank_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.side_plank_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.side_plank_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.squat_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.squat_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.squat_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.toe_raise_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.toe_raise_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.toe_raise_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.triceps_extension_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.triceps_extension_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.triceps_extension_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.trunk_lift_test: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.trunk_lift_test: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.trunk_lift_test: semantic_type 'Assessment' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.vertical_jump_reference: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.vertical_jump_reference: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.vertical_jump_reference: semantic_type 'Reference Value' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.wingate_anaerobic_test_reference: required field 'table_ref' is empty for type TableRow"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.wingate_anaerobic_test_reference: required field 'fields' is empty for type TableRow"
+      },
+      {
+        "severity": "warn",
+        "message": "table_row.wingate_anaerobic_test_reference: semantic_type 'Reference Value' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.blood_pressure_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.bmi_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_composition_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_composition_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.body_composition_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_fat_percent_men: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_fat_percent_women: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cardiorespiratory_fitness_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cardiorespiratory_fitness_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.cardiorespiratory_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cholesterol_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cvd_risk_factors: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.excellent_fitness_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.excellent_fitness_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.excellent_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_fitness_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_fitness_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.fair_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_muscular_strength: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_muscular_strength: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.fair_muscular_strength: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.good_fitness_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.good_fitness_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.good_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.healthy_body_composition: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.healthy_body_composition: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.healthy_body_composition: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.light: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.light: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.met.light: semantic_type 'Physiological' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.moderate: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.moderate: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.met.moderate: semantic_type 'Physiological' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.vigorous: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.vigorous: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.met.vigorous: semantic_type 'Physiological' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.muscular_strength_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.muscular_strength_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.muscular_strength_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.obese_body_composition: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.obese_body_composition: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.obese_body_composition: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.overfat_body_composition: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.overfat_body_composition: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.overfat_body_composition: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.percentile_based_fitness_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.percentile_based_fitness_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.percentile_based_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_fitness_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_fitness_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.poor_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_muscular_strength: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_muscular_strength: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.poor_muscular_strength: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.high: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.high: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.risk.high: semantic_type 'Risk Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.low: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.low: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.risk.low: semantic_type 'Risk Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.moderate: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.moderate: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.risk.moderate: semantic_type 'Risk Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.superior_fitness_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.superior_fitness_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.superior_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.underfat_body_composition: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.underfat_body_composition: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.underfat_body_composition: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.very_poor_fitness_classification: required field 'metric' is empty for type Threshold"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.very_poor_fitness_classification: required field 'range' is empty for type Threshold"
+      },
+      {
+        "severity": "warn",
+        "message": "threshold.very_poor_fitness_classification: semantic_type 'Classification' not in allowed list"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.waist_circumference: required field 'range' is empty for type Threshold"
+      }
+    ],
+    "3_ontology": [],
+    "4_graph": [],
+    "5_semantic": [
+      {
+        "severity": "error",
+        "message": "concept.introduction: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.maximal_exercise_testing: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.rationale: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "concept.submaximal_exercise_testing: Concept definition is empty or too short"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.alternative_self_guided_method_for_preparticipation_evaluation: Procedure has no steps"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.organizing_the_fitness_test: Procedure has no steps"
+      },
+      {
+        "severity": "error",
+        "message": "procedure.pretest_instructions_for_fitness_testing: Procedure has no steps"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.bicep_curl_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.body_composition_classification: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.bridge_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.calf_raise_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.cardiorespiratory_fitness_classification: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.curl_up_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.dip_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.heel_raise_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_abduction_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_adduction_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.hip_extension_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_curl_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_extension_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.leg_raise_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.lunge_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.margaria_kalamen_stair_climb_test_reference: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.plank_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.pull_up_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.push_up_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.risk_classification_table_2_3: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.row_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.shoulder_press_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.side_plank_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.squat_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.toe_raise_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.triceps_extension_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.trunk_lift_test: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.vertical_jump_reference: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "table_row.wingate_anaerobic_test_reference: TableRow has no fields"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.blood_pressure_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.blood_pressure_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.bmi_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.bmi_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_composition_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_composition_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_composition_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_fat_percent_men: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_fat_percent_men: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_fat_percent_women: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.body_fat_percent_women: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cardiorespiratory_fitness_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cardiorespiratory_fitness_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cardiorespiratory_fitness_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cholesterol_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cholesterol_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cvd_risk_factors: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.cvd_risk_factors: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.excellent_fitness_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.excellent_fitness_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.excellent_fitness_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_fitness_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_fitness_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_fitness_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_muscular_strength: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_muscular_strength: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.fair_muscular_strength: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.good_fitness_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.good_fitness_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.good_fitness_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.healthy_body_composition: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.healthy_body_composition: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.healthy_body_composition: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.light: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.light: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.light: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.moderate: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.moderate: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.moderate: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.vigorous: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.vigorous: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.met.vigorous: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.muscular_strength_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.muscular_strength_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.muscular_strength_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.obese_body_composition: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.obese_body_composition: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.obese_body_composition: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.overfat_body_composition: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.overfat_body_composition: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.overfat_body_composition: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.percentile_based_fitness_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.percentile_based_fitness_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.percentile_based_fitness_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_fitness_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_fitness_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_fitness_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_muscular_strength: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_muscular_strength: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.poor_muscular_strength: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.high: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.high: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.high: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.low: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.low: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.low: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.moderate: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.moderate: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.risk.moderate: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.superior_fitness_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.superior_fitness_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.superior_fitness_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.underfat_body_composition: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.underfat_body_composition: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.underfat_body_composition: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.very_poor_fitness_classification: Threshold has no metric"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.very_poor_fitness_classification: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.very_poor_fitness_classification: Threshold has no numerical_value"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.waist_circumference: Threshold has no range"
+      },
+      {
+        "severity": "error",
+        "message": "threshold.waist_circumference: Threshold has no numerical_value"
+      }
+    ]
+  }
+}

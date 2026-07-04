@@ -1,0 +1,28 @@
+id: concept.creatine
+type: Concept
+canonical_name: Creatine
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 712
+  pdf_page: 712
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Creatine is a nitrogenous organic compound that is synthesized naturally
+  in the body, primarily in the liver, and helps to supply energy to all cells in
+  the body.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,719 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiorespiratory_frequency
+type: TableRow
+canonical_name: Cardiorespiratory Frequency
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For cardiorespiratory exercise training, the general recommendation for frequency is 3–5 days per week.
+
+attributes:
+  - frequency
+  - cardiorespiratory
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.cardiorespiratory_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiorespiratory_intensity
+type: TableRow
+canonical_name: Cardiorespiratory Intensity
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For cardiorespiratory exercise training, the general recommendation for intensity is moderate (40–59% VO2R or HRR) to vigorous (60–89% VO2R or HRR).
+
+attributes:
+  - intensity
+  - cardiorespiratory
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.cardiorespiratory_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiorespiratory_time
+type: TableRow
+canonical_name: Cardiorespiratory Time
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For cardiorespiratory exercise training, the general recommendation for time (duration) is 30–60 minutes per day of moderate-intensity exercise, or 20–60 minutes per day of vigorous-intensity exercise, or a combination of moderate and vigorous exercise to achieve a total of 150–300 minutes per week of moderate-intensity or 75–150 minutes per week of vigorous-intensity aerobic physical activity.
+
+attributes:
+  - time
+  - cardiorespiratory
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.cardiorespiratory_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiorespiratory_type
+type: TableRow
+canonical_name: Cardiorespiratory Type
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For cardiorespiratory exercise training, the general recommendation for type is regular, purposeful exercise that involves major muscle groups and is continuous and rhythmic in nature.
+
+attributes:
+  - type
+  - cardiorespiratory
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.cardiorespiratory_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiorespiratory_volume
+type: TableRow
+canonical_name: Cardiorespiratory Volume
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For cardiorespiratory exercise training, the general recommendation for volume is a weekly total of at least 500–1000 MET-minutes per week.
+
+attributes:
+  - volume
+  - cardiorespiratory
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.cardiorespiratory_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiorespiratory_progression
+type: TableRow
+canonical_name: Cardiorespiratory Progression
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For cardiorespiratory exercise training, the general recommendation for progression is a gradual increase in frequency, intensity, time, or volume over time, with adjustments based on individual tolerance and goals.
+
+attributes:
+  - progression
+  - cardiorespiratory
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.cardiorespiratory_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_frequency
+type: TableRow
+canonical_name: Resistance Frequency
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For resistance exercise training, the general recommendation for frequency is 2–3 days per week for each major muscle group, with at least 48 hours separating training sessions for the same muscle group.
+
+attributes:
+  - frequency
+  - resistance
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.muscular_strength
+  - concept.muscular_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_intensity
+type: TableRow
+canonical_name: Resistance Intensity
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For resistance exercise training, the general recommendation for intensity is 60–70% of the 1-repetition maximum (1-RM) for moderate intensity and 70–85% of 1-RM for vigorous intensity for novice to intermediate individuals, and 70–100% of 1-RM for advanced individuals.
+
+attributes:
+  - intensity
+  - resistance
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.muscular_strength
+  - concept.muscular_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_time
+type: TableRow
+canonical_name: Resistance Time
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For resistance exercise training, the general recommendation for time (rest intervals) is 2–3 minutes between sets for heavy loads (85% 1-RM or greater) and 1–2 minutes for moderate loads (70–85% 1-RM).
+
+attributes:
+  - time
+  - resistance
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.muscular_strength
+  - concept.muscular_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_type
+type: TableRow
+canonical_name: Resistance Type
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For resistance exercise training, the general recommendation for type is a variety of exercises targeting all major muscle groups, including multi-joint and single-joint exercises.
+
+attributes:
+  - type
+  - resistance
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.muscular_strength
+  - concept.muscular_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_volume
+type: TableRow
+canonical_name: Resistance Volume
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For resistance exercise training, the general recommendation for volume is 2–4 sets per exercise, with 8–12 repetitions for muscular strength and 15–25 repetitions for muscular endurance.
+
+attributes:
+  - volume
+  - resistance
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.muscular_strength
+  - concept.muscular_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_progression
+type: TableRow
+canonical_name: Resistance Progression
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For resistance exercise training, the general recommendation for progression is a gradual increase in resistance (load) or volume (sets/repetitions) over time, typically when the individual can perform 1–2 repetitions above the target number.
+
+attributes:
+  - progression
+  - resistance
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.muscular_strength
+  - concept.muscular_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.flexibility_frequency
+type: TableRow
+canonical_name: Flexibility Frequency
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For flexibility exercise training, the general recommendation for frequency is 2–3 days per week, with daily stretching being most effective.
+
+attributes:
+  - frequency
+  - flexibility
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.flexibility_intensity
+type: TableRow
+canonical_name: Flexibility Intensity
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For flexibility exercise training, the general recommendation for intensity is stretching to the point of feeling tightness or slight discomfort.
+
+attributes:
+  - intensity
+  - flexibility
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.flexibility_time
+type: TableRow
+canonical_name: Flexibility Time
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For flexibility exercise training, the general recommendation for time (duration) is holding each stretch for 10–30 seconds for static stretching, with a total of 60 seconds per exercise.
+
+attributes:
+  - time
+  - flexibility
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.flexibility_type
+type: TableRow
+canonical_name: Flexibility Type
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For flexibility exercise training, the general recommendation for type is static, dynamic, and/or proprioceptive neuromuscular facilitation (PNF) stretching, with static stretching being the most common.
+
+attributes:
+  - type
+  - flexibility
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.flexibility_volume
+type: TableRow
+canonical_name: Flexibility Volume
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For flexibility exercise training, the general recommendation for volume is 2–4 repetitions of each stretch, accumulating 60 seconds per stretch.
+
+attributes:
+  - volume
+  - flexibility
+
+purpose:
+  - guide exercise prescription
+
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.flexibility_progression
+type: TableRow
+canonical_name: Flexibility Progression
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.19"
+  section_title: "Exercise Prescription"
+  book_page: 477
+  pdf_page: 477
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For flexibility exercise training, the general recommendation for progression is a gradual increase in the range of motion, duration, or frequency of stretching.
+
+attributes:
+  - progression
+ 

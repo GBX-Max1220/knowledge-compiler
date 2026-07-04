@@ -1,0 +1,31 @@
+id: concept.power_stroke
+type: Concept
+canonical_name: Power Stroke
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Sliding-Filament Theory of Muscular Contraction
+  section_title: Sliding-Filament Theory of Muscular Contraction
+  book_page: 53
+  pdf_page: 53
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The energy-dependent inward movement of actin filaments over the myosin
+  filaments through what is termed the power stroke, are the bases for muscle contraction.
+
+  '
+attributes:
+- energy_dependent
+purpose:
+- basis for muscle contraction
+related_concepts:
+- concept.actin_filament
+- concept.myosin_filament

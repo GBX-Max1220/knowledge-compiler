@@ -1,0 +1,406 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.weighted_carries
+type: Concept
+canonical_name: Weighted Carries
+semantic_type: Exercise
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1126
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.farmers_walk
+  - predicate: has_attribute
+    target: concept.yoke_walk
+  - predicate: has_attribute
+    target: concept.sandbag_carries
+  - predicate: has_attribute
+    target: concept.unilateral_carries
+definition: >
+  Strongman competitions commonly involve a range of weighted carries including the farmer's walk, yoke walk, or sandbag or keg carries, with regular gym programs potentially also involving Zercher carries (using a barbell held across the elbows on the upper abdominals) or unilateral carries in which the load is held overhead or by one hip (i.e., suitcase carry). A primary advantage of these exercises is that they often involve horizontal motion and unilateral ground contact and require coordinated activity of many muscles of the body. Weighted carries may therefore develop total body and trunk stability, grip strength (for farmer's walks) as well as the ability to produce high levels of anterior–posterior and vertical impulse to initiate propulsion and to be able to absorb these forces on impact at heel strike (163). These exercises therefore may mimic performance in a range of occupational and sporting demands (62, 87) or create substantial metabolic demands that can be exploited in a metabolic or anaerobic conditioning circuit (55, 163).
+attributes:
+  - horizontal motion
+  - unilateral ground contact
+  - coordinated activity of many muscles
+purpose:
+  - develop total body stability
+  - develop trunk stability
+  - develop grip strength
+  - produce high levels of anterior-posterior impulse
+  - produce high levels of vertical impulse
+  - initiate propulsion
+  - absorb forces on impact at heel strike
+  - mimic performance in occupational demands
+  - mimic performance in sporting demands
+  - create substantial metabolic demands
+related_concepts:
+  - concept.farmers_walk
+  - concept.yoke_walk
+  - concept.sandbag_carries
+  - concept.unilateral_carries
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.farmers_walk
+type: Concept
+canonical_name: Farmer's Walk
+semantic_type: Exercise
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1126
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.weighted_carries
+definition: >
+  The farmer's walk requires the athlete to hold a load at the sides in each hand while walking forward (87, 147). The farmer's walk can be performed with static loads (e.g., farmer's bar handles or a heavy dumbbell) or variable loads (e.g., water-filled objects) (147). Regardless of the type of load used, the farmer's walk offers a unique activation pattern of the core (87), although research in the scientific literature is very limited in supporting the use of this exercise as a strength and conditioning tool.
+attributes:
+  - static loads
+  - variable loads
+purpose:
+  - unique activation pattern of the core
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.yoke_walk
+type: Concept
+canonical_name: Yoke Walk
+semantic_type: Exercise
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1126
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.weighted_carries
+definition: >
+  The yoke walk is another common strongman event whereby a heavy frame is carried on the shoulders of the athlete over a set distance. As McGill and colleagues (87) observed significantly greater spinal compression forces during the performance of the yoke walk when compared to six other strongman events, it is likely that this exercise has the potential to challenge and improve core stability. However, it must be performed with appropriate loads and technique to reduce the risk of injury, especially since Winwood and colleagues (154) reported that 213 strongman athletes ranked this exercise as the second most dangerous strongman lift in terms of injury risk. Similar to the farmer's walk (71), faster yoke walks were characterized by increased stride length and stride rate, lower limb range of motion, and reduced ground contact time (61). Based on the impulse–momentum relationship, it would appear that weighted carries (e.g., farmer's and yoke walks) require the production of high levels of anterior–posterior and vertical forces over short contact times, perhaps suggesting some potential to improve horizontal motion such as acceleration sprinting or initiating body contact in tackling or blocking opponents in contact or combat sports.
+attributes:
+  - heavy frame carried on shoulders
+purpose:
+  - challenge core stability
+  - improve core stability
+  - improve horizontal motion
+  - improve acceleration sprinting
+  - initiate body contact in tackling
+  - initiate body contact in blocking opponents
+related_concepts:
+  - concept.farmers_walk
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sandbag_carries
+type: Concept
+canonical_name: Sandbag Carries
+semantic_type: Exercise
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1127
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.weighted_carries
+definition: >
+  Limited research has examined frontal carries including sandbags and water bags in athletic populations (22, 60). Calatayud and colleagues (22) compared the muscle activity (anterior deltoid, external oblique, lumbar erector spinae, and gluteus medius) associated with the performance of 20-kilogram (44 lb) clean and jerks with either a barbell, sandbag, or water bag in 21 male university students. While no significant differences were observed between the muscle activity when lifting a barbell or sandbag, the water bag version resulted in significantly greater external oblique, lumbar erector spinae, and gluteus medius activation.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.unilateral_carries
+type: Concept
+canonical_name: Unilateral Carries
+semantic_type: Exercise
+aliases:
+  - suitcase carry
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1127
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.weighted_carries
+definition: >
+  Unilateral carries with the load positioned overhead (e.g., kettlebell or dumbbell) or at the hip via a kettlebell, dumbbell, or farmer's handle (suitcase carry) impose a unique frontal plane challenge to the athlete (87). These carries may be advanced total body exercises that will improve lateral trunk flexor muscles (e.g., obliques and quadratus lumborum) and scapular control, thereby allowing better lateral stabilization of the spine than more traditional exercises such as dumbbell side bends or side planks.
+attributes:
+  - load positioned overhead
+  - load positioned at the hip
+purpose:
+  - improve lateral trunk flexor muscles
+  - improve scapular control
+  - allow better lateral stabilization of the spine
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.technique_tips_for_weighted_carries
+type: Recommendation
+canonical_name: Technique Tips for Weighted Carries
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1127
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Irrespective of where the load is positioned on the body, the athlete should look to move in a similar way to normal walking. For example, during the carrying component of the exercise, the athlete should retain a predominantly neutral and vertical spinal position with no substantial hyperextension, flexion, or lateral spinal flexion. The athlete should use loads that challenge his or her desired walking speed, step length, step rate, and ground contact time but are still within his or her ability to maintain core and total body stability. In order to achieve this, the athlete will need to concentrate on keeping the loads in the same relative position to his or her center of mass throughout the carry. To achieve this, the athlete will need to stiffen the spine in response to the likely perturbations these awkward loads impose on the system during the walking phase. This may require some breath holding, which can be challenging due to the high spinal compressive forces (especially observed in the yoke walk) or if the load is positioned on the chest as in Zercher, sandbag, and keg carries, because such loads can further restrict typical respiration patterns.
+rationale: ""
+target_audience: ""
+application_context: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.kettlebell
+type: Concept
+canonical_name: Kettlebell
+semantic_type: Equipment
+aliases:
+  - girya
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1128
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The word kettlebell comes from the Russian word girya, which refers to a cast iron cannonball with a handle on it (28). In Western literature the term kettlebell is used to refer to a weighted implement consisting of a ball with a handle, which is probably better termed a kettleball (28).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.kettlebell_training_for_cardiovascular_fitness
+type: Evidence
+canonical_name: Kettlebell training for cardiovascular fitness
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1128
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+evidence_text: >
+  While kettlebell swings appear to have a positive impact on cardiovascular fitness, it is important to note that this activity does not offer the same level of cardiovascular benefit as treadmill running or more traditional aerobic exercise (65).
+findings: []
+population: ""
+methodology: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.kettlebell_training_for_strength_development
+type: Evidence
+canonical_name: Kettlebell training for strength development
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1129
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+evidence_text: >
+  When used with clinical and recreationally trained populations, kettlebell training has been reported to increase muscular strength levels compared to no training (68, 103). Additionally, when a battery of kettlebell exercises (i.e., swings, goblet squats, accelerated swings) is performed across a six-week training intervention, there appears to be an increase in muscular strength and vertical jump performance in recreationally trained men (103). However, these strength gains are significantly lower than those typically seen with traditional weightlifting-based training methods. Specifically, Otto and colleagues (103) reported that six weeks of weightlifting training resulted in a 4% increase in vertical jump performance, while kettlebell swings increased jumping performance by only 0.8%. Additionally, back squat strength was increased by 13.6% after six weeks of traditional weightlifting training, while the kettlebell training resulted in only a 4.5% increase (103).
+findings: []
+population: ""
+methodology: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.kettlebell_training_recommendation
+type: Recommendation
+canonical_name: Kettlebell training recommendation
+semantic_type: ""
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1129
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+recommendation_text: >
+  Based on the contemporary body of scientific knowledge, it appears that kettlebells are probably best used as general preparation exercise and that more traditional training methods such as weightlifting are more effective for developing maximal strength and jumping performance capacity.
+rationale: ""
+target_audience: ""
+application_context: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.types_of_kettlebells
+type: Concept
+canonical_name: Types of Kettlebells
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1129
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: has_attribute
+    target: concept.cast_iron_kettlebell
+  - predicate: has_attribute
+    target: concept.sport_kettlebell
+definition: >
+  When working with kettlebells, one must consider the type of kettlebell, of which there are two: the cast iron (figure 17.9) and the sport kettlebell (figure 17.10) (28). The cast iron, or fitness, kettlebells are cast from iron and range in size depending on their weight. The sport or competition kettlebells are made from steel and have universal design and measurements. Specifically, the size of the kettlebell does not change regardless of the weight, and the various weights are indicated by different colors (28). Besides the structural differences in the size and dimensions of the cast iron and sport kettlebell, the other difference is that the cast iron kettlebell is less expensive and probably more prevalent in strength and conditioning facilities.
+attributes:
+  - cast iron kettlebell
+  - sport kettlebell
+purpose: []
+related_concepts:
+  - concept.cast_iron_kettlebell
+  - concept.sport_kettlebell
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cast_iron_kettlebell
+type: Concept
+canonical_name: Cast Iron Kettlebell
+semantic_type: Equipment
+aliases:
+  - fitness kettlebell
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Variable-Resistance Training"
+  section: "17.3"
+  section_title: "Variable-Resistance Training"
+  book_page: 1129
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.types_of_kettlebells
+definition: >
+  The cast iron, or fitness, kettlebells are cast from iron and range in size depending on their weight.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sport_kettlebell
+type: Concept
+canonical_name: Sport Kettlebell
+semantic_type: Equipment
+aliases:
+  - competition kettlebell

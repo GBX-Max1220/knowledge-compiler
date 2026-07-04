@@ -1,0 +1,34 @@
+id: procedure.lunge_walk_with_front_leg_extension
+type: Procedure
+canonical_name: Lunge Walk with Front Leg Extension
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Program Design Considerations
+  section: '15.4'
+  section_title: Program Design Considerations
+  book_page: 925
+  pdf_page: 925
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Take an exaggerated step directly forward with the right leg and assume
+  a lunge stance, keeping the right knee directly over the right foot and the rear
+  (left) knee about an inch or so off the floor (note: this preparatory position is
+  not shown). Flex the torso forward with the hands reaching toward the right foot.
+  From this position, lift the hips up and back, extending the right knee to a fully
+  (or nearly so) extended position. This will cause the left knee to extend as well
+  and result in a stretch of the hamstring muscles. After the stretch is held, extend
+  the torso to an erect position, step the rear (left) foot forward, and repeat on
+  the other side.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

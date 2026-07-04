@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.special_considerations
+type: Concept
+canonical_name: Special Considerations
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: ""
+  section: "7.9"
+  section_title: "Special Considerations"
+  book_page: 536
+  pdf_page: 536
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  No definition provided in the original text.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

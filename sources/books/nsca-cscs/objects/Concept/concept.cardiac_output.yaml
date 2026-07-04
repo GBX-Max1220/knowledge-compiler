@@ -1,0 +1,30 @@
+id: concept.cardiac_output
+type: Concept
+canonical_name: Cardiac Output
+semantic_type: PhysiologicalParameter
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Cardiovascular Responses — Cardiac Output
+  section_title: Cardiovascular Responses — Cardiac Output
+  book_page: 83
+  pdf_page: 83
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Cardiac output is the amount of blood pumped by the heart in liters per
+  minute and is determined by the quantity of blood ejected with each beat (stroke
+  volume) and the heart’s rate of pumping (heart rate).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.stroke_volume
+- concept.heart_rate

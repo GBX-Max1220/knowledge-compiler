@@ -1,0 +1,29 @@
+id: procedure.behind_neck_stretch_chicken_wing_posterior_of_upper_arm_stretch
+type: Procedure
+canonical_name: Behind-Neck Stretch (Chicken Wing) (Posterior of Upper Arm Stretch)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 899
+  pdf_page: 899
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: '1. Standing or sitting, abduct the right shoulder and flex the elbow.
+  2. Reach the right hand down toward the left scapula. 3. Grasp the right elbow with
+  the left hand. 4. Pull the elbow behind the head with the left hand to increase
+  shoulder abduction. 5. Repeat on the other side.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

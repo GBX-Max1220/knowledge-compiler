@@ -1,0 +1,28 @@
+id: concept.quantitative_computed_tomography
+type: Concept
+canonical_name: Quantitative Computed Tomography
+semantic_type: Technology
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Consequently, there is increasing interest in employing other bone imaging
+  techniques, such as quantitative computed tomography (QCT), to evaluate bone microarchitecture
+  (105).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

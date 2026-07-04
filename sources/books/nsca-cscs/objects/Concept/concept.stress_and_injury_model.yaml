@@ -1,0 +1,48 @@
+id: concept.stress_and_injury_model
+type: Concept
+canonical_name: Stress and Injury Model
+semantic_type: Theoretical Framework
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 514
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.personality_factors_stress_and_injury_model
+- predicate: has_attribute
+  target: concept.history_of_stressors_stress_and_injury_model
+- predicate: has_attribute
+  target: concept.coping_resources_stress_and_injury_model
+definition: 'The stress and injury model is a theoretical framework that attempts
+  to explain the effects of pre-injury psychological factors on athletic injury (3).
+  Revised by Williams and Andersen (68), the model suggests that three unique factors
+  can influence an athlete''s stress response, separately or together, contributing
+  to an athlete''s risk and frequency of injury (figure 9.4). It includes athletes''
+  personality factors such as state or trait anxiety levels, mood states, and perceived
+  locus of control of situations and events; history of stressors such as life events,
+  academic stressors, daily hassles, and previous injury history; and coping resources
+  such as social support, stress management techniques, mental skills, and nutritional
+  and lifestyle habits.
+
+  '
+attributes:
+- personality factors
+- history of stressors
+- coping resources
+purpose: []
+related_concepts:
+- concept.personality_factors_stress_and_injury_model
+- concept.history_of_stressors_stress_and_injury_model
+- concept.coping_resources_stress_and_injury_model
+- figure.figure_9.4_the_stress_and_injury_model

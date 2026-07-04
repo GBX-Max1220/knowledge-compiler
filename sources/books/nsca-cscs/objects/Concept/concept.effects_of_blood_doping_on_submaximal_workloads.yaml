@@ -1,0 +1,27 @@
+id: concept.effects_of_blood_doping_on_submaximal_workloads
+type: Concept
+canonical_name: Effects of Blood Doping on Submaximal Workloads
+semantic_type: null
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Factors Influencing Adaptations
+  section: '6.3'
+  section_title: Factors Influencing Adaptations
+  book_page: 377
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'At standardized submaximal workloads, blood doping has also been associated
+  with decreased heart rate and blood lactate as well as higher pH values (138).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

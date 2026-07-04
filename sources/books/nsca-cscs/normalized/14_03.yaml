@@ -1,0 +1,428 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.star_excursion_balance_test
+type: Procedure
+canonical_name: Star Excursion Balance Test Procedure
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 811
+  pdf_page: 811
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The athlete stands in the center of a grid with eight lines (120 cm [47 in.]) extending out at 45-degree increments as shown in figure 14.27 (115, 126). The athlete maintains a single-leg stance facing in one direction while reaching with the contralateral leg as far as possible for each taped line, touching the farthest point possible and then returning to the bilateral position. Within a single trial, the athlete remains facing in the beginning direction and the stance leg remains the same, with the other leg doing all of the reaching. The distance from the center of the star to the touch position is measured. The starting direction and support leg are chosen randomly. Three trials are performed for each condition and averaged. A 15-second rest is allowed between each reach. Trials are discarded if the athlete does not touch the line, lifts the stance foot from the center grid, loses balance, or does not maintain start and return positions for 1 full second. Athletes should be given a minimum of four practice trials before being tested (103). It has been suggested that testing the anteromedial, medial, and posteromedial positions is sufficient for most situations (66).
+
+attributes: []
+
+purpose:
+  - assess dynamic balance
+
+related_concepts:
+  - concept.balance
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.sit_and_reach_test
+type: Procedure
+canonical_name: Sit-and-Reach Test Procedure
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 812
+  pdf_page: 812
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Tape the measuring stick or tape measure to the floor. Place one piece of tape about 24 inches (61 cm) long across the measuring stick and at a right angle to it at the 15-inch (38 cm) mark. Have the athlete warm up with nonballistic exercises involving the hamstrings and lower back (e.g., by walking rapidly for 3-5 min); performing several repetitions of flexing forward from a standing, knees-extended position, reaching toward the toes, then reaching upward toward the ceiling (all without jerking); jogging in place while trying to kick the heels into the upper thighs from behind; and finishing with standing toe-touching or similar stretching on the floor. Have the athlete sit shoeless with the measuring stick between the legs with its zero end toward the body, the feet 12 inches (30 cm) apart, the toes pointed upward, and the heels nearly touching the edge of the taped line at the 15-inch (38 cm) mark (figure 14.28a). The athlete slowly reaches forward with both hands as far as possible on the measuring stick, holding this position momentarily. To get the best stretch, the athlete should exhale and drop the head between the arms when reaching. Be sure the athlete keeps the hands adjacent to each other and does not lead with one hand. The fingertips should remain in contact with the measuring stick (figure 14.28b). The tester may hold the athlete's knees down, if necessary, to keep them straight. A score of less than 15 inches indicates that the athlete could not reach the bottom of the feet. The best of three trials is recorded to the nearest 0.25 inch or 1 centimeter.
+
+attributes: []
+
+purpose:
+  - assess flexibility
+
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.overhead_squat
+type: Procedure
+canonical_name: Overhead Squat Procedure
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 813
+  pdf_page: 813
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The athlete holds the wooden dowel overhead with the shoulders fully flexed and with elbows locked. The grip should be twice shoulder-width using biacromial width as the reference measurement point for shoulder width. Biacromial width is the distance between the widest bony points at the superior portion of both shoulders. The feet are approximately shoulder-width apart, with toes pointing forward or slightly out (figure 14.29a). The athlete then squats down; the initial action is flexion of the hips and knees. The heels remain in contact with the floor at all times. The lowering continues until the crease of the hips is below the top of the knee. The athlete should be able to hold this position with the torso remaining upright (parallel to the tibia) and the wooden dowel (or barbell) comfortably overhead (figure 14.29b). The athlete performs a minimum of 5 repetitions, and the tester views the movement from the side. The assessment is qualitative and the goal is to assess the movement competency, with the movement scored as pass/fail. It is important that the athlete be warmed up and familiarized with the movement patterns to increase the test validity.
+
+attributes: []
+
+purpose:
+  - assess movement competency
+
+related_concepts:
+  - concept.movement_competency
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.skinfold_measurements_obtaining
+type: Procedure
+canonical_name: Skinfold Measurements — Obtaining a Skinfold Measurement Procedure
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 814
+  pdf_page: 814
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Skinfold measurements should be made on dry skin, before exercise, to ensure maximum validity and reliability (70). The number of sites and equations should be selected based on the population tested (see table 14.35 near the end of the chapter). Grasp the skin firmly with the thumb and index finger to form a fold of skin and subcutaneous fat. Place the caliper prongs perpendicular to the fold 0.5 inch to 1 inch (approximately 1-2 cm) from the thumb and index finger. Release the caliper grip so that its spring tension is exerted on the skinfold. Between 1 and 2 seconds after the grip on the caliper has been released, read the dial on the caliper to the nearest 0.5 millimeter. Obtain one measurement from each test site, and then repeat all test sites for a second trial. If the measurements do not differ by more than 10%, average the two measurements to the nearest 0.5 millimeter. Otherwise, take one or more additional measurements until two of the measurements are within 10%, and average those two measurements to the nearest 0.5 millimeter.
+
+attributes: []
+
+purpose:
+  - estimate body composition
+
+related_concepts:
+  - concept.body_composition
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.skinfold_measurements_measuring
+type: Procedure
+canonical_name: Skinfold Measurements — Measuring the Selected Site and Calculating the Body Fat Percentage Procedure
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 814
+  pdf_page: 814
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  There are specific equations for estimating body density (Db) (then, in turn, percent body fat [%BF]) for different populations. First, select the equation appropriate for the athlete from table 14.35 near the end of the chapter. Refer to the chosen equation and related instructions and mark the skin at the appropriate anatomical sites (69, 120): Chest —a diagonal fold one-half the distance between the anterior axillary line and the nipple for men (figure 14.30a). Thigh —a vertical fold on the anterior aspect of the thigh, midway between the hip and knee joints (figure 14.30b). Abdomen —a vertical fold 1 inch (2.5 cm) to the right (relative to the athlete) of the umbilicus (figure 14.30c). Triceps —a vertical fold on the posterior midline of the upper arm (over the triceps muscle), halfway between the acromion and the olecranon processes (the arm should be in anatomical position with the elbow extended and relaxed [figure 14.30d]). Suprailium—a diagonal fold above the crest of the ilium at the spot where an imaginary line would come down from the anterior axillary line (figure 14.30e) (some prefer the measure to be taken more laterally, at the midaxillary line). Midaxilla—a vertical fold on the midaxillary line at the level of the xiphoid process of the sternum (figure 14.30f). Subscapula —a fold taken on a diagonal line that extends from the vertebral border to a point 0.5 inch to 1 inch (1 to 2 cm) from the inferior angle of the scapula (figure 14.30g). Calf—a vertical fold along the medial side of the calf, at the level of maximum calf circumference (figure 14.30h). Using the appropriate population-specific equation from table 14.35, calculate the estimated body density from the skinfolds (61). Enter the body density into the appropriate population-specific equation from table 14.36 near the end of the chapter to calculate the percent body fat from the body density (69). Note that there are no universally accepted norms for body composition. When strength and conditioning professionals assess an athlete's body composition, they must account for a standard error of the estimate (SEE) and report a range of percentages that the athlete falls into. Note that the minimum SEE for population-specific skinfold equations is ±3% to ±5%. Therefore, if a 25-year-old male athlete's body fat is measured at 24%, there is a minimum of a 6% range (21%-27%).
+
+attributes: []
+
+purpose:
+  - estimate body composition
+
+related_concepts:
+  - concept.body_composition
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.bioelectrical_impedance
+type: Procedure
+canonical_name: Bioelectrical Impedance (BIA) Procedure
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Program the device with the athlete's sex, weight, and height. Have the athlete either hold the electrodes in the hands or stand barefoot on the electrodes depending on the type of device. Press the start button and wait the specified duration of time for that device (usually under 5 seconds). From the measuring device, obtain and record the body composition measurements provided. This means of evaluating body composition is best done under similar circumstances. To most effectively monitor body composition changes, it is recommended that testing be done first thing in the morning before the athlete has exercised, before food or water consumption, and after having voided.
+
+attributes: []
+
+purpose:
+  - estimate body composition
+
+related_concepts:
+  - concept.body_composition
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.girth_measurements
+type: Procedure
+canonical_name: Girth Measurements Procedure
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 820
+  pdf_page: 820
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Position the athlete in a relaxed anatomical position for each measurement (unless otherwise indicated for a particular measurement). Measure the following sites (81); see figure 14.31: Chest —at nipple level in males and at maximum circumference (above the breasts) in females. Right upper arm—at the point of maximal circumference with the elbow fully extended, palm up, and arm abducted to parallel with the floor. Right forearm—at the point of maximal circumference with the elbow fully extended, palm up, and arm abducted to parallel with the floor. Waist (abdomen) —at the level of the umbilicus. Hips (buttocks) —at the maximal protrusion of the buttocks with the heels together. Right thigh —at the point of maximal circumference, usually just below the buttocks. Right calf—at the point of maximal circumference between the knee and ankle.
+
+attributes: []
+
+purpose:
+  - assess body composition
+
+related_concepts:
+  - concept.body_composition
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.difference_score
+type: Concept
+canonical_name: Difference Score
+semantic_type: Statistical Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 821
+  pdf_page: 821
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A difference score is the difference between an athlete's score at the beginning and end of a training period or between any two separate testing times.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.statistics
+type: Concept
+canonical_name: Statistics
+semantic_type: Scientific Discipline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 821
+  pdf_page: 821
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Statistics is the science of collecting, classifying, analyzing, and interpreting numerical data (27, 145).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.descriptive_statistics
+type: Concept
+canonical_name: Descriptive Statistics
+semantic_type: Statistical Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 821
+  pdf_page: 821
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.statistics
+
+definition: >
+  Descriptive statistics summarizes or describes a large group of data. It is used when all the information about a population is known.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mean
+type: Concept
+canonical_name: Mean
+semantic_type: Statistical Measure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"
+  section: "14.3"
+  section_title: "Statistical Evaluation of Test Data"
+  book_page: 822
+  pdf_page: 822
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.descriptive_statistics
+
+definition: >
+  Mean —the average of the scores (i.e., the sum of the scores divided by the number of scores). This is the most commonly used measure of central tendency.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.central_tendency
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.median
+type: Concept
+canonical_name: Median
+semantic_type: Statistical Measure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 14
+  chapter_title: "Exercise Testing"

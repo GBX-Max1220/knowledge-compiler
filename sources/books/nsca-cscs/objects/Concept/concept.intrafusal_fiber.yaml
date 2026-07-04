@@ -1,0 +1,30 @@
+id: concept.intrafusal_fiber
+type: Concept
+canonical_name: Intrafusal Fiber
+semantic_type: Cell
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 65
+  pdf_page: 65
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.muscle_spindle
+definition: 'Modified muscle fibers that run parallel to the normal, or extrafusal,
+  fibers.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.extrafusal_fiber

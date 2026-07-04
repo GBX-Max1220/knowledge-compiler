@@ -1,0 +1,37 @@
+id: table_row.star_excursion_balance_test_sebt
+type: TableRow
+canonical_name: Star Excursion Balance Test (SEBT)
+semantic_type: Test
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing and Prescription
+  section: '13.3'
+  section_title: Evaluation of Test Quality
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Evaluates dynamic balance and neuromuscular control by having individuals
+  maintain single-leg stance while reaching with their free leg in eight different
+  directions arranged in a star pattern, measuring their maximum reach distance in
+  each direction.
+
+  '
+attributes:
+  physical_characteristic: Balance and stability
+  test_name: Star excursion balance test (SEBT)
+  sport_application_examples:
+  - General
+  description: Evaluates dynamic balance and neuromuscular control by having individuals
+    maintain single-leg stance while reaching with their free leg in eight different
+    directions arranged in a star pattern, measuring their maximum reach distance
+    in each direction
+purpose: []
+related_concepts: []

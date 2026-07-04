@@ -1,0 +1,28 @@
+id: concept.individualization
+type: Concept
+canonical_name: Individualization
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1191
+  pdf_page: 1191
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The training goals and needs of each athlete are unique and should therefore
+  command a training program suited specifically for them; this training principle
+  is termed individualization.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

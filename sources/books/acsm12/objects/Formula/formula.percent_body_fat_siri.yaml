@@ -1,0 +1,24 @@
+id: formula.percent_body_fat_siri
+type: Formula
+canonical_name: Percent Body Fat from Body Density (Siri)
+semantic_type: Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '3.11'
+  section_title: Densitometry
+  book_page: 189
+  pdf_page: 189
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+canonical_form: '% body fat = (495 / body density) − 450'
+variables:
+- '{''name'': ''body density'', ''description'': ''Body density in g·cm⁻³''}'
+limitations: Two-component model assumes constant density of fat-free mass

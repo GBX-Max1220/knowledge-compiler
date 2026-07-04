@@ -1,0 +1,29 @@
+id: evidence.recovery_in_anaerobic_power_output_related_to_endurance_fitness
+type: Evidence
+canonical_name: Recovery in Anaerobic Power Output Related to Endurance Fitness
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 220
+  pdf_page: 220
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+evidence_text: 'In fact, several studies have demonstrated that recovery in anaerobic
+  power output is related to endurance fitness (14, 15, 74). Bogdanis and colleagues
+  (14) reported positive relationships in power recovery in the first 10 seconds of
+  a cycling sprint, the resynthesis of PCr, and endurance fitness (V̇O2max).
+
+  '
+citations:
+- '14'
+- '15'
+- '74'

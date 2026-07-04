@@ -1,0 +1,2198 @@
+Based on the provided text, here are the ontology-labeled extraction items.
+
+---
+
+TYPE
+Definition
+
+TITLE
+Anabolic Steroid
+
+PAGE
+666
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Anabolic steroids are the synthetic (human-made) derivatives of the male sex hormone testosterone.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Androgenic Properties
+
+PAGE
+666
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+These androgenic properties include the full development of the primary sexual characteristics of the male.
+
+PARENT
+Anabolic Steroid
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Ergogenic Aid
+
+PAGE
+660
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Although an ergogenic aid can be any substance, mechanical aid, or training method that improves sport performance, for the purposes of this chapter the term refers specifically to pharmacologic aids.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Dietary Supplement
+
+PAGE
+663
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+A product (other than tobacco) intended to supplement the diet that contains one or more of the following dietary ingredients: A vitamin, A mineral, An herb or other botanical, An amino acid, A dietary substance for use by humans to supplement the diet by increasing the total dietary intake, A concentrate, metabolite, constituent, extract, or combination of any ingredient listed above. The product must also be labeled as a dietary supplement, such that the label must include the term dietary supplement or equivalent and therefore cannot also be advertised for use as a conventional food or as the sole item within a meal or diet.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Selective Androgen Receptor Modulators (SARMs)
+
+PAGE
+683
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Selective androgen receptor modulators (SARMs) are tissue-selective agonists of androgen receptors in tissues such as muscle and bone.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Peptides
+
+PAGE
+683
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+The development of novel peptides, or short chains of amino acids that regulate cellular functions and biochemical processes, has been an emerging frontier in pharmaceutical development alongside SARMs and, similar to SARMs, has potential for selective agonism and thus limited side effects.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Human Chorionic Gonadotropin (HCG)
+
+PAGE
+688
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Human chorionic gonadotropin (HCG) is a hormone obtained from the placenta of pregnant women and is very closely related in structure and function to luteinizing hormone.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Insulin
+
+PAGE
+689
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Insulin is a potent anabolic hormone.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Human Growth Hormone (HGH)
+
+PAGE
+690
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Human growth hormone (HGH), a protein secreted from the anterior pituitary gland, has several important physiological functions that enhance its ergogenic effect.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Erythropoietin (EPO)
+
+PAGE
+693
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Erythropoietin (EPO) is produced in the kidneys and stimulates the production of new red blood cells.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+β-Adrenergic Agonists (β-Agonists)
+
+PAGE
+695
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Synthetic β-adrenergic agonists, or β-agonists, are substances chemically related to epinephrine, a hormone produced in the adrenal medulla that regulates physiological effects, such as lipolysis (the breakdown of fat) and thermogenesis (increased energy expenditure resulting in the production of heat).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+β-Blockers
+
+PAGE
+696
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+β-Blockers are a class of drugs that block the β-adrenergic receptors, preventing the catecholamines (i.e., norepinephrine and epinephrine) from binding.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Essential Amino Acids (EAAs)
+
+PAGE
+699
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Essential amino acids (EAAs) are not produced in the body and must be obtained through the diet.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Branched-Chain Amino Acids (BCAAs)
+
+PAGE
+700
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Prior work in animal models further identified that of the eight EAAs, it is the branched-chain amino acids (BCAAs) —isoleucine, leucine, and valine—that are responsible for increasing muscle protein synthesis (83).
+
+PARENT
+Essential Amino Acids (EAAs)
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+β-Hydroxy-β-Methylbutyrate (HMB)
+
+PAGE
+703
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+β-Hydroxy-β-methylbutyrate (HMB) is a derivative of the EAA leucine and its metabolite α-ketoisocaproic acid.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Muscle Buffering Capacity (MBC)
+
+PAGE
+706
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+The ability to regulate H+ concentration in skeletal muscle during high-intensity exercise has been termed muscle buffering capacity (MBC).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Creatine
+
+PAGE
+712
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Creatine is a nitrogenous organic compound that is synthesized naturally in the body, primarily in the liver, and helps to supply energy to all cells in the body.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Caffeine
+
+PAGE
+718
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Caffeine is a multifaceted supplement used in athletics and is popular among both aerobic endurance and resistance training athletes.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Ephedrine
+
+PAGE
+723
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Another stimulant, ephedrine, has been widely used throughout the world for temporary relief from the symptoms of bronchial asthma, bronchitis, allergies, shortness of breath, cold and flu symptoms, and other ailments.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Definition
+
+TITLE
+Citrus Aurantium
+
+PAGE
+724
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Citrus aurantium is from a fruit commonly known as bitter orange and is often used as an Asian herbal medicine to treat digestive problems (80, 100).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Recommendation
+
+TITLE
+Athlete's First Priority Before Using Supplements
+
+PAGE
+661
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+An athlete’s first priority should be to apply sound principles of training, including adequate nutrition, before using any nutritional supplement or ergogenic aid. Before purchasing or consuming a product, an athlete should seek guidance from qualified professionals to make sure the choice is legal, safe, and effective.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Recommendation
+
+TITLE
+Guidance on Arginine Supplementation
+
+PAGE
+703
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Due to its inability to increase nitric oxide production, enhance muscle blood flow, or improve endurance exercise performance, oral arginine supplementation is not recommended for healthy athletes.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Recommendation
+
+TITLE
+Caffeine Dosage Recommendation
+
+PAGE
+720
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+In doses of 3 to 9 milligrams per kilogram body weight consumed approximately 60 minutes before exercise or during prolonged exercise, caffeine is ergogenic. No further benefit is observed when it is consumed at higher dosages (≥9 mg/kg).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Warning
+
+TITLE
+Risk of Unintended Doping from Contaminated Supplements
+
+PAGE
+660
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Another concern that athletes need to be aware of with the use of dietary supplements is the risk of unintended doping originating from contaminated products. The presence of undeclared compounds in the composition of dietary supplements is a serious concern (131).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Warning
+
+TITLE
+FDA Warning on SARMs
+
+PAGE
+685
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Accordingly, the FDA issued a warning to consumers that SARMs have been associated with serious or life-threatening health problems that include increased risk of heart attack or stroke, liver injury, sleep disturbances, sexual dysfunction, and miscarriage.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Warning
+
+TITLE
+Risk of Death from Insulin Misuse
+
+PAGE
+690
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Possible outcomes in a previously healthy athlete include immediate death or coma due to severe hypoglycemia (106).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Warning
+
+TITLE
+Risk of Acromegaly from HGH Abuse
+
+PAGE
+693
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Although growth hormone used as replacement therapy for people with growth hormone or IGF-1 deficiency can be effective and can have minimal adverse consequences, the dosages that are likely used by athletes may pose a significant risk for acromegaly.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Warning
+
+TITLE
+Cardiovascular Risk from EPO
+
+PAGE
+695
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Consequently, aerobic endurance athletes should avoid this drug because of the significant cardiovascular risk, leading to possible death, associated with its administration.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Warning
+
+TITLE
+Risk of Paresthesia from β-Alanine
+
+PAGE
+708
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+The reason for the smaller dosing strategies is to prevent the only reported adverse effect of β-alanine supplementation, which is the symptom of paresthesia (tingling, pricking, or numbness of a person’s skin) (9).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Warning
+
+TITLE
+Gastrointestinal Side Effects of Sodium Bicarbonate
+
+PAGE
+710
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Dosages above this amount have been associated with unpleasant side effects such as diarrhea, cramping, nausea, and vomiting.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Warning
+
+TITLE
+Adverse Effects of Ephedrine
+
+PAGE
+724
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Further, Shekelle and colleagues (188) reported that the use of ephedra-containing dietary supplements or ephedrine plus caffeine was associated with an increased incidence of nausea, vomiting, psychiatric symptoms such as anxiety and change in mood, autonomic hyperactivity, palpitations, and, in a few cases, death.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Anabolic Steroids on Muscle Mass and Strength
+
+PAGE
+675
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+When anabolic steroids are given in doses similar to those used by recreationally trained and competitive athletes, increases in muscle protein synthesis are seen (98). These increases in protein synthesis are likely responsible for the increases observed in lean body mass in both recreationally trained and competitive athletes taking anabolic steroids (107, 210).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Creatine on Strength Performance
+
+PAGE
+715
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Most studies examining the effect of creatine supplementation on strength performance have been fairly consistent in showing significant ergogenic benefits (figure 12.5) (217). Strength increases in the bench press, squat, and power clean may be two to three times higher in trained athletes supplementing with creatine compared to placebo (113).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Caffeine on Aerobic Endurance
+
+PAGE
+719
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Initial studies dealing with the effect of caffeine supplementation on aerobic endurance performance indicated a 21-minute improvement in the time to exhaustion (from 75 min in a placebo trial to 96 min in the caffeine trial) during cycling at 80% of V̇O2max (49).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of EPO on Aerobic Capacity
+
+PAGE
+694
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+A 2013 systematic review and meta-analysis indicated that EPO administration promotes increases in hemoglobin and hematocrit of 5% to 17% and 8% to 19%, respectively (108). These increases are accompanied by increases in aerobic capacity and maximal power output of 7% to 10%, which are in turn linked with improvements in time to exhaustion in open endpoint exercise for both trained (9%-17%) and untrained (22%-50%) individuals (108).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of HMB in Untrained Individuals
+
+PAGE
+704
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+In previously untrained individuals initiating a resistance training program lasting four to eight weeks, HMB has been shown to exert significantly greater improvements in strength and lean body mass as compared to a placebo (158, 164).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of β-Alanine on Exercise Performance
+
+PAGE
+708
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Mean carnosine levels increased by 58% at week 4 and an additional 15% at week 10. Additionally, 13% and 16% increases in total work done during cycle ergometry were seen at weeks 4 and 10, respectively.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Sodium Bicarbonate on High-Intensity Exercise
+
+PAGE
+709
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+McNaughton and colleagues (148) have demonstrated improved short-term, high-intensity work from acute sodium bicarbonate supplementation.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Preworkout Energy Drinks on Resistance Exercise
+
+PAGE
+721
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+The energy drink significantly increased bench press performance as compared to the placebo treatment.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Ephedrine and Caffeine Combination
+
+PAGE
+723
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Studies examining the ergogenic effect of ephedrine have shown it to be effective only when it is taken in combination with caffeine (21).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Citrus Aurantium Combination
+
+PAGE
+724
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+When citrus aurantium is combined with caffeine and other herbal products, significant improvements in time to fatigue have been reported (199).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Leucine on Muscle Protein Synthesis
+
+PAGE
+700
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Of the BCAAs, it appears that leucine is the key amino acid for stimulating muscle protein synthesis (126) via the Akt/mechanistic target of rapamycin (mTOR) pathway (figure 12.4).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of SARMs on Lean Body Mass
+
+PAGE
+684
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+For example, three weeks of LGD-4033 (e.g., ligandrol) use has been shown to promote dose-dependent increases in lean body mass among healthy young and middle-aged men (15).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of HCG on Testosterone Production
+
+PAGE
+689
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+When injected into men, HCG can increase testicular testosterone production; testosterone levels can nearly double within four days after a large intramuscular injection (48).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of HGH on Body Composition
+
+PAGE
+691
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+In men with established growth hormone deficiencies, nightly injections of recombinant HGH for six months resulted in an average increase of 12 pounds (5.4 kg) in lean body mass and a similar amount of fat loss (184).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of L-Carnitine on Recovery
+
+PAGE
+711
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Interestingly, several studies have suggested that L-carnitine may enhance recovery from exercise (119, 216).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of β-Blockers on Shooting Accuracy
+
+PAGE
+697
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Several studies have shown that β-blockers can improve both slow and fast shooting accuracy (7, 135).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Alcohol on Performance
+
+PAGE
+697
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+For example, isometric and dynamic strength loss induced by strenuous eccentric exercise is exacerbated by high-dose postexercise alcohol consumption (~6.3 standard drinks over 1.5 hours, where a standard drink contains 14 g of pure alcohol) in young men (14), although strength trained women may be protected from this effect (137).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Testosterone Precursors
+
+PAGE
+681
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+No significant differences in strength or body composition were seen in middle-aged men performing a resistance training program while supplementing with either DHEA, androstenedione (100 mg), or a placebo for three months (219).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Arginine
+
+PAGE
+702
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+However, in research investigating arginine’s effectiveness in healthy populations, it was reported that time to exhaustion, local muscular endurance, and intermittent anaerobic exercise performance were not improved as a result of supplementation (95, 142, 214).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Evidence
+
+TITLE
+Efficacy of Sodium Citrate
+
+PAGE
+710
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+The data are equivocal in terms of the effectiveness of sodium citrate’s ergogenic potential during short-duration, high-intensity exercise, with some investigations reporting no benefit (13, 211) and others having observed an ergogenic effect (141, 149).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Figure
+
+TITLE
+Figure 12.1
+
+PAGE
+666
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Figure 12.1 National Collegiate Athletic Association banned drug classes.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Figure
+
+TITLE
+Figure 12.2
+
+PAGE
+677
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+FIGURE 12.2 Changes in lean body mass with anabolic steroid administration and following drug cessation.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Figure
+
+TITLE
+Figure 12.3
+
+PAGE
+687
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+FIGURE 12.3 Changes in total body lean mass in response to short-term LGD-4033 administration in healthy young men (squares), GSK2881078 administration in older men and postmenopausal women (gender symbols), and GTx-024 in older men and women (triangles).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Figure
+
+TITLE
+Figure 12.4
+
+PAGE
+701
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+FIGURE 12.4  Role of leucine in muscle protein synthesis.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Figure
+
+TITLE
+Figure 12.5
+
+PAGE
+715
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+FIGURE 12.5 Approximate changes in performance variables following creatine supplementation.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Table
+
+TITLE
+Table 12.1
+
+PAGE
+671
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+TABLE 12.1  Generic and Trade Names of Anabolic Steroids Commonly Used by Athletes
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Table
+
+TITLE
+Table 12.2
+
+PAGE
+680
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+TABLE 12.2  Signs and Symptoms of Ergogenic Aid Abuse
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Table
+
+TITLE
+Table 12.3
+
+PAGE
+684
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+TABLE 12.3  Example Selective Androgen Receptor Modulators (SARMs) Popular Among Recreational Users
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Table
+
+TITLE
+Table 12.4
+
+PAGE
+686
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+TABLE 12.4  Example Peptide Hormone Classes and Specific Peptides Used by Recreational Users Explicitly Named on the WADA Banned List
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Threshold
+
+TITLE
+Caffeine Dosage Threshold for Ergogenic Effect
+
+PAGE
+720
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+In doses of 3 to 9 milligrams per kilogram body weight consumed approximately 60 minutes before exercise or during prolonged exercise, caffeine is ergogenic. No further benefit is observed when it is consumed at higher dosages (≥9 mg/kg).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Threshold
+
+TITLE
+Sodium Bicarbonate Dosage Threshold for Performance
+
+PAGE
+710
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+It appears that a sodium bicarbonate dose ranging from 0.3 to 0.5 grams per kilogram body mass, 60 to 180 minutes before exercise, is optimal for improvement of performance (97).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Threshold
+
+TITLE
+Sodium Bicarbonate Dosage Threshold for Side Effects
+
+PAGE
+710
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Dosages above this amount have been associated with unpleasant side effects such as diarrhea, cramping, nausea, and vomiting.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Threshold
+
+TITLE
+Lethal Caffeine Dose
+
+PAGE
+721
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+A lethal dose of caffeine is typically in excess of 5 grams, which equates to about 42 cups of coffee at 120 milligrams of caffeine per cup (128) or twenty-five 200-milligram tablets of caffeine.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Threshold
+
+TITLE
+Muscle Creatine Saturation Limit
+
+PAGE
+714
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Once creatine concentrations in skeletal muscle reach 150 to 160 mmol per kilogram dry weight, additional supplementation appears to be unable to further increase muscle creatine concentrations (92).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Threshold
+
+TITLE
+Leucine Threshold for Muscle Protein Synthesis
+
+PAGE
+700
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Norton and coworkers (159) demonstrated in rodent models that a leucine threshold for stimulating muscle protein synthesis exists.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Decision Rule
+
+TITLE
+Athlete's Decision-Making Process for Supplements
+
+PAGE
+661
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Athletes should focus on using appropriately periodized strength and conditioning methods and sound nutritional practices designed to enhance performance. If these two factors are addressed, at that point the athlete can consider using sport supplements or ergogenic aids.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Decision Rule
+
+TITLE
+HMB Effectiveness Based on Training Status
+
+PAGE
+705
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+β-Hydroxy-β-methylbutyrate is most effective when an adequate training stimulus is provided. For untrained individuals, this does not likely require high-volume training. For trained individuals, a high-intensity, high-volume resistance training program is likely needed for benefits to be realized with HMB supplementation.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Decision Rule
+
+TITLE
+β-Alanine Effectiveness Based on Exercise Type
+
+PAGE
+708
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Artioli and colleagues (9) stated that β-alanine ingestion is capable of improving performance in exercises resulting in an extreme intramuscular acidotic environment, such as multiple bouts of high-intensity exercises lasting more than 60 seconds, as well as single bouts undertaken when fatigue is already present. High-intensity exercises performed with a lower level of acidosis are unlikely to benefit from β-alanine supplementation.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Contraindication
+
+TITLE
+Contraindication for EPO Use
+
+PAGE
+695
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Consequently, aerobic endurance athletes should avoid this drug because of the significant cardiovascular risk, leading to possible death, associated with its administration.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Risk Factor
+
+TITLE
+Risk Factor for Adverse Events from Anabolic Steroids
+
+PAGE
+679
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Anecdotally, it appears that a disproportionate magnitude of use and incidence of adverse events are evident in bodybuilders (who are also known for consuming several other drugs—such as diuretics, thyroid hormones, insulin, and anti-estrogens—that relieve some side effects but potentiate other risk factors as well) compared to strength and power athletes.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Risk Factor
+
+TITLE
+Risk Factor for Cardiovascular Disease from Testosterone Precursors
+
+PAGE
+682
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+However, androstenedione supplementation did cause an increase in serum concentrations of estradiol and estrone and was associated with lower high-density lipoprotein (HDL) levels. These results suggest that although performance changes may not occur in athletes taking this supplement, they may be at higher risk for some of the negative side effects associated with anabolic steroid use.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Risk Factor
+
+TITLE
+Risk Factor for Death from EPO
+
+PAGE
+695
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+The deaths of a number of competitive cyclists have been related to EPO administration (82).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Procedure
+
+TITLE
+Typical Creatine Supplementation Regimen
+
+PAGE
+714
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+A typical creatine supplementation regimen involves a loading dose of 20 to 25 grams daily for five days, or 0.3 grams per kilogram body mass if an individual wishes to dose relative to body weight, followed by a maintenance dose of 2 grams per day (121).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Procedure
+
+TITLE
+Typical Anabolic Steroid Stacking Regimen
+
+PAGE
+670
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Athletes typically use anabolic steroids in a stacking regimen, in which they administer several different drugs simultaneously (167).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Procedure
+
+TITLE
+Typical Anabolic Steroid Cycling Pattern
+
+PAGE
+670
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Most users take anabolic steroids in a cyclic pattern, meaning they use the drugs for several weeks or months and alternate these cycles with periods of discontinued use (167).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Procedure
+
+TITLE
+Typical Anabolic Steroid Pyramid Pattern
+
+PAGE
+670
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+Often users administer the drugs in a pyramid (step-up) pattern in which dosages are steadily increased over several weeks (115).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Procedure
+
+TITLE
+Sodium Bicarbonate Supplementation Protocol
+
+PAGE
+710
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+It appears that a sodium bicarbonate dose ranging from 0.3 to 0.5 grams per kilogram body mass, 60 to 180 minutes before exercise, is optimal for improvement of performance (97).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+---
+
+TYPE
+Procedure
+
+TITLE
+β-Alanine Supplementation Dosing Strategy
+
+PAGE
+708
+
+SECTION
+12.1 — Performance-Enhancing Substances and Methods
+
+ORIGINAL TEXT
+In many β-alanine trials, the total daily amount of β-alanine ingestion was

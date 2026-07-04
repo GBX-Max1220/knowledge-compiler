@@ -1,0 +1,32 @@
+id: concept.allostatic_load
+type: Concept
+canonical_name: Allostatic Load
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 24
+  chapter_title: Overreaching, Overtraining, and Recovery
+  section: '24'
+  section_title: Overreaching, Overtraining, and Recovery
+  book_page: 1697
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Often overlooked aspects of an overtraining syndrome are contributing
+  factors outside the training hall or the competition arena. These are many and varied,
+  and in the context of overtraining they have been termed the allostatic load (86,
+  107). Collectively, the cumulative causes of stress (i.e., antecedents) produce
+  the various stress responses (i.e., allostatic load) (71, 86). The allostatic load
+  is created by various antecedents (i.e., contributing factors) that produce adverse
+  responses of the body that are part of the stress responses.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,46 @@
+id: concept.skeletal_muscle
+type: Concept
+canonical_name: Skeletal Muscle
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.musculoskeletal_system
+definition: 'The system of muscles that enables the skeleton to move. Each skeletal
+  muscle contains muscle tissue made up of a variety of cell types (with the most
+  notable being muscle fibers), connective tissue, nerves, blood vessels, and a plethora
+  of cell types between muscle fibers that serve different functions.
+
+  '
+attributes:
+- muscle fibers
+- connective tissue
+- nerves
+- blood vessels
+purpose:
+- enable movement of the skeleton
+related_concepts:
+- concept.epimysium
+- concept.perimysium
+- concept.endomysium
+- concept.tendon
+- concept.motor_unit
+- concept.neuromuscular_junction
+- concept.sarcomere
+- concept.myofibril
+- concept.myosin
+- concept.actin

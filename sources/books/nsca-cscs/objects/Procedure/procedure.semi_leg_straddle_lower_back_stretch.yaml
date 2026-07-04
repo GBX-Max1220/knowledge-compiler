@@ -1,0 +1,15 @@
+id: procedure.semi_leg_straddle_lower_back_stretch
+type: Procedure
+canonical_name: Semi-Leg Straddle (Lower Back Stretch)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 903
+  pdf_page: 903
+provenance: extraction

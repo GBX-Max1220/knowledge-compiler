@@ -1,0 +1,30 @@
+id: recommendation.clothing_considerations_for_exercise_in_rain_or_wind
+type: Recommendation
+canonical_name: Clothing Considerations for Exercise in Rain or Wind
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.14'
+  section_title: Clothing Considerations
+  book_page: 546
+  pdf_page: 546
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An outer layer that is wind and water resistant should be worn in rainy
+  or windy conditions.
+
+  '
+attributes:
+- wind_resistant_outer_layer
+- water_resistant_outer_layer
+purpose:
+- protection in rainy or windy conditions
+related_concepts: []

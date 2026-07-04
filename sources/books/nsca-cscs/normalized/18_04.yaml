@@ -1,0 +1,684 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_order
+type: Concept
+canonical_name: Exercise Order
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1216
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise order refers to a sequence of resistance exercises performed during one training session.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.power_other_core_then_assistance_exercises_order
+type: Recommendation
+canonical_name: Power, Other Core, Then Assistance Exercises Order
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1217
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Power exercises such as weightlifting movements and their derivatives (e.g., snatch, hang power clean, jump shrug) and other ballistic exercises (e.g., jump squat or hexagonal barbell jump) should be performed first in a training session, followed by other non-power core exercises, and then assistance exercises.
+
+rationale: []
+
+supporting_evidence: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.core_then_assistance_exercises_order_when_power_exercises_not_selected
+type: Recommendation
+canonical_name: Core Then Assistance Exercises Order When Power Exercises Not Selected
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1217
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  If power exercises are not selected in step 2 (exercise selection), the recommended order of exercises is core exercises (ideally with the most demanding exercises first) and then assistance exercises.
+
+rationale: []
+
+supporting_evidence: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.alternating_lower_and_upper_body_exercises
+type: Recommendation
+canonical_name: Alternating Lower and Upper Body Exercises
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1218
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  One method of providing the opportunity for athletes to recover more fully between exercises is to alternate lower body exercises with upper body exercises.
+
+rationale: []
+
+supporting_evidence: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.lower_body_exercises_first_when_alternating
+type: Recommendation
+canonical_name: Lower Body Exercises First When Alternating
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1218
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  When choosing an order between lower and upper body exercises, strength and conditioning professionals should consider prescribing lower body exercises first since these movements typically involve more muscle mass and may place a greater overall stress on the body due to the absolute loads that will be used.
+
+rationale: []
+
+supporting_evidence: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.circuit_training
+type: Concept
+canonical_name: Circuit Training
+semantic_type: Training Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1218
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  If the exercises are performed with minimal rest periods (20-30 s), this method is also referred to as circuit training (generally not optimal for the development of maximal strength)—a method sometimes also used to improve cardiovascular endurance (58, 130), although to a lesser extent than conventional aerobic exercise training.
+
+attributes: []
+
+purpose:
+  - improve cardiovascular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.alternating_push_and_pull_exercises
+type: Recommendation
+canonical_name: Alternating Push and Pull Exercises
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1218
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Another method of improving efficiency of training when time is limited is to alternate pushing exercises (e.g., bench press, shoulder press, triceps extension) with pulling exercises (e.g., lat pulldown, bent-over row, biceps curl) (2).
+
+rationale: []
+
+supporting_evidence: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.superset
+type: Concept
+canonical_name: Superset
+semantic_type: Training Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1219
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A superset involves two sequentially performed exercises that stress two opposing muscles or muscle areas (i.e., an agonist and its antagonist) (2), similar to the push–pull approach.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.compound_set
+type: Concept
+canonical_name: Compound Set
+semantic_type: Training Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.4"
+  section_title: "Step 4: Exercise Order"
+  book_page: 1219
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A compound set involves sequentially performing two different exercises for the same muscle group (2).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.load
+type: Concept
+canonical_name: Load
+semantic_type: Training Variable
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1221
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Load most simply refers to the amount of weight assigned to an exercise set and is often characterized as the most critical aspect of a resistance training program (50, 106, 162, 163).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mechanical_work
+type: Concept
+canonical_name: Mechanical Work
+semantic_type: Physical Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1221
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Mechanical work can be defined as the product of force and displacement (sometimes referred to as distance).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.volume_load
+type: Concept
+canonical_name: Volume-Load
+semantic_type: Training Variable
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1221
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Volume–load is a proxy for work, because displacement and force production are not measured in applied settings.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.volume_load_displacement
+type: Concept
+canonical_name: Volume-Load Displacement
+semantic_type: Training Variable
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1222
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  When monitoring training load, load displacement can be accounted for by calculating volume–load displacement, which multiplies volume–load by the displacement of the exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.1_repetition_maximum
+type: Concept
+canonical_name: 1-Repetition Maximum
+semantic_type: Measurement
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1223
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Load is commonly described as either a certain percentage of a 1-repetition maximum (1RM)—the greatest amount of weight that can be lifted with proper technique for only 1 repetition—or the most weight lifted for a specified number of repetitions, an xRM.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.percent_1rm_100
+type: TableRow
+canonical_name: Percent 1RM 100
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1224
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.8"
+row_data:
+  percent_1rm: "100"
+  repetitions_allowed: "1"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.percent_1rm_95
+type: TableRow
+canonical_name: Percent 1RM 95
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1224
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.8"
+row_data:
+  percent_1rm: "95"
+  repetitions_allowed: "2"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.percent_1rm_93
+type: TableRow
+canonical_name: Percent 1RM 93
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1224
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.8"
+row_data:
+  percent_1rm: "93"
+  repetitions_allowed: "3"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.percent_1rm_90
+type: TableRow
+canonical_name: Percent 1RM 90
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1224
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.8"
+row_data:
+  percent_1rm: "90"
+  repetitions_allowed: "4"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.percent_1rm_87
+type: TableRow
+canonical_name: Percent 1RM 87
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1224
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.8"
+row_data:
+  percent_1rm: "87"
+  repetitions_allowed: "5"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.percent_1rm_85
+type: TableRow
+canonical_name: Percent 1RM 85
+semantic_type: ""
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Resistance Training"
+  section: "18.5"
+  section_title: "Step 5: Training Load and Repetitions"
+  book_page: 1224
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+table_id: "Table 18.8"
+row_data

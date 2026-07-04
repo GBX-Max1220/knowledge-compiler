@@ -1,0 +1,63 @@
+id: warning.ephedrine_adverse_effects
+type: Warning
+canonical_name: Ephedrine Adverse Effects
+semantic_type: Adverse Effect
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 723
+  pdf_page: 723
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.nausea
+- predicate: has_attribute
+  target: concept.vomiting
+- predicate: has_attribute
+  target: concept.psychiatric_symptoms
+- predicate: has_attribute
+  target: concept.anxiety
+- predicate: has_attribute
+  target: concept.change_in_mood
+- predicate: has_attribute
+  target: concept.autonomic_hyperactivity
+- predicate: has_attribute
+  target: concept.palpitations
+- predicate: has_attribute
+  target: concept.death
+definition: 'Ephedra, also called ma huang, is a plant that contains ephedrine. In
+  the United States before 2004, most over-the-counter sport and weight-loss products
+  contained ephedra. However, in April 2004, the FDA banned all products containing
+  ephedra after determining that it posed an unreasonable risk to those who used it.
+  The FDA ban was based on a report published by the Rand Institute (188) indicating
+  that 16,000 adverse events were linked to the use of ephedra-containing dietary
+  supplements. Further, Shekelle and colleagues (188) reported that the use of ephedra-containing
+  dietary supplements or ephedrine plus caffeine was associated with an increased
+  incidence of nausea, vomiting, psychiatric symptoms such as anxiety and change in
+  mood, autonomic hyperactivity, palpitations, and, in a few cases, death. As a result
+  of the many adverse effects, ephedrine use has been banned by most sport governing
+  bodies, including the International Olympic Committee.
+
+  '
+attributes:
+- nausea
+- vomiting
+- psychiatric_symptoms
+- anxiety
+- change_in_mood
+- autonomic_hyperactivity
+- palpitations
+- death
+purpose: []
+related_concepts:
+- concept.ephedrine
+- concept.ma_huang

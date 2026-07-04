@@ -1,0 +1,28 @@
+id: concept.program_objectives
+type: Concept
+canonical_name: Program Objectives
+semantic_type: Concept
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1778
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.program_goals
+definition: 'Specific means of attaining program goals.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

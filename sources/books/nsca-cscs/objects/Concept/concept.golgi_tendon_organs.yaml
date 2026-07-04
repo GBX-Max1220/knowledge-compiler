@@ -1,0 +1,52 @@
+id: concept.golgi_tendon_organs
+type: Concept
+canonical_name: Golgi Tendon Organs
+semantic_type: Anatomical Structure
+aliases:
+- GTOs
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Golgi Tendon Organs
+  book_page: 67
+  pdf_page: 67
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.proprioception
+definition: 'Golgi tendon organs (GTOs) are proprioceptors located in tendons near
+  the myotendinous junction and are in series—that is, attached end to end, with extrafusal
+  muscle fibers (figure 1.10). Golgi tendon organs are activated when the tendon attached
+  to an active muscle is stretched. As tension in the muscle and tendons increases,
+  the discharge of the GTOs increases. The sensory neuron of the GTO synapses with
+  an inhibitory interneuron in the spinal cord, which in turn synapses with and inhibits
+  a motor neuron that serves the same muscle. The result is a reduction in tension
+  within the muscle and tendon. Thus, whereas spindles facilitate activation of the
+  muscle, neural input from GTOs inhibits muscle activation. The GTOs'' inhibitory
+  process is thought to provide a mechanism that protects against the development
+  of excessive tension. The effect of GTOs is therefore minimal at low forces, but
+  when an extremely heavy load is placed on the muscle, reflexive inhibition mediated
+  by the GTOs causes the muscle to relax. The ability of the motor cortex to override
+  this inhibition may be one of the fundamental adaptations to heavy resistance training.
+
+  '
+attributes:
+- proprioceptors
+- located in tendons near the myotendinous junction
+- in series with extrafusal muscle fibers
+- activated when tendon attached to active muscle is stretched
+- discharge increases with tension
+- synapses with inhibitory interneuron
+- inhibits motor neuron serving same muscle
+purpose:
+- reduce tension within muscle and tendon
+- protect against development of excessive tension
+related_concepts:
+- concept.muscle_spindles

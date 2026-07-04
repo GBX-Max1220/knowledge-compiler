@@ -1,0 +1,30 @@
+id: evidence.efficacy_of_citrus_aurantium_combined_with_caffeine
+type: Evidence
+canonical_name: Efficacy of Citrus Aurantium Combined with Caffeine
+semantic_type: Research Finding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 724
+  pdf_page: 724
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When citrus aurantium is combined with caffeine and other herbal products,
+  significant improvements in time to fatigue have been reported (199).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.citrus_aurantium
+- concept.caffeine
+- concept.time_to_fatigue

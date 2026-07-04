@@ -1,0 +1,27 @@
+id: concept.exercise_snacking
+type: Concept
+canonical_name: Exercise Snacking
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 431
+  pdf_page: 431
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Exercise "snacking," defined as multiple short bouts (e.g., <10 mins)
+  of muscle strengthening exercise
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,28 @@
+id: recommendation.immediate_feedback_of_test_scores
+type: Recommendation
+canonical_name: Immediate Feedback of Test Scores
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 759
+  pdf_page: 759
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Whenever possible, tell athletes their test scores immediately after
+  each trial to motivate them to perform better on subsequent trials (2).
+
+  '
+attributes: []
+purpose:
+- motivate athletes to perform better on subsequent trials
+related_concepts: []

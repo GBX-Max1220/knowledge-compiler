@@ -1,0 +1,30 @@
+id: concept.polysaccharide
+type: Concept
+canonical_name: Polysaccharide
+semantic_type: Molecule
+aliases:
+- Complex Carbohydrate
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 559
+  pdf_page: 559
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.carbohydrate
+definition: 'Polysaccharides, also known as complex carbohydrates, contain up to thousands
+  of glucose units.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

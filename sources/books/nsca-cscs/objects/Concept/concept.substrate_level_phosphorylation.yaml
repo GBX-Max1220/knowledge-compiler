@@ -1,0 +1,27 @@
+id: concept.substrate_level_phosphorylation
+type: Concept
+canonical_name: Substrate-Level Phosphorylation
+semantic_type: MetabolicProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Biological Energy Systems
+  section: '3.2'
+  section_title: Biological Energy Systems
+  book_page: 190
+  pdf_page: 190
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In contrast, substrate-level phosphorylation refers to the direct resynthesis
+  of ATP from ADP during a single reaction in the metabolic pathways.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

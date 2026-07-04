@@ -1,0 +1,520 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.skeletal_muscle_macrostructure_and_microstructure
+type: Concept
+canonical_name: Skeletal Muscle Macrostructure and Microstructure
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.musculoskeletal_system
+definition: >
+  Each skeletal muscle contains muscle tissue made up of a variety of cell types (with the most notable being muscle fibers), connective tissue, nerves, blood vessels, and a plethora of cell types between muscle fibers that serve different functions. Fibrous connective tissue, or epimysium, covers the body's more than 430 skeletal muscles. The epimysium is contiguous with the tendons at the ends of the muscle (figure 1.3). The tendon is attached to bone periosteum, a specialized connective tissue covering all bones. Notably, muscle contractions pull on tendons, and in turn, this moves bones that are attached to the associated tendons. Limb muscles have two attachments to bone, including proximal (closer to the trunk) and distal (farther from the trunk) attachments. The two attachments of trunk muscles are termed superior (closer to the head) and inferior (closer to the feet). Muscle cells, often called muscle fibers or myofibers, are long (sometimes running the entire length of a muscle), cylindrical cells 50 to 100 μm in diameter (about the diameter of a human hair). Muscle fibers have all their nuclei situated on the outer periphery of the cell and have a striated appearance when viewed with a microscope under low magnification. Under the epimysium the muscle fibers are grouped in bundles (fasciculi) that may consist of up to 150 fibers, with the bundles surrounded by connective tissue called perimysium. Each muscle fiber is surrounded by connective tissue called endomysium, which is encircled by and is contiguous with the muscle fiber membrane, or sarcolemma (41). All the connective tissue—epimysium, perimysium, and endomysium—is contiguous with the tendon, so tension developed in a muscle cell is transmitted to the tendon and the bone to which it is attached (figure 1.3).
+attributes:
+  - muscle_tissue
+  - connective_tissue
+  - nerves
+  - blood_vessels
+  - cell_types
+purpose: []
+related_concepts:
+  - concept.epimysium
+  - concept.perimysium
+  - concept.endomysium
+  - concept.sarcolemma
+  - concept.muscle_fibers
+  - concept.myofibers
+  - concept.fasciculi
+  - concept.tendon
+  - concept.periosteum
+  - concept.proximal_attachment
+  - concept.distal_attachment
+  - concept.superior_attachment
+  - concept.inferior_attachment
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.epimysium
+type: Concept
+canonical_name: Epimysium
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Fibrous connective tissue that covers the body's more than 430 skeletal muscles.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.perimysium
+type: Concept
+canonical_name: Perimysium
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Connective tissue surrounding each fasciculus (group of muscle fibers).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.endomysium
+type: Concept
+canonical_name: Endomysium
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Connective tissue surrounding each individual muscle fiber, which is encircled by and is contiguous with the muscle fiber membrane, or sarcolemma.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sarcolemma
+type: Concept
+canonical_name: Sarcolemma
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  The muscle fiber membrane.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_fibers
+type: Concept
+canonical_name: Muscle Fibers
+semantic_type: Cell
+aliases:
+  - myofibers
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Long (sometimes running the entire length of a muscle), cylindrical cells 50 to 100 μm in diameter (about the diameter of a human hair). Muscle fibers have all their nuclei situated on the outer periphery of the cell and have a striated appearance when viewed with a microscope under low magnification.
+attributes:
+  - long
+  - cylindrical
+  - 50_to_100_μm_diameter
+  - nuclei_on_outer_periphery
+  - striated_appearance
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.myofibers
+type: Concept
+canonical_name: Myofibers
+semantic_type: Cell
+aliases:
+  - muscle fibers
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Another term for muscle fibers.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.fasciculi
+type: Concept
+canonical_name: Fasciculi
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Bundles of muscle fibers that may consist of up to 150 fibers.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.tendon
+type: Concept
+canonical_name: Tendon
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  Attached to bone periosteum. Muscle contractions pull on tendons, and in turn, this moves bones that are attached to the associated tendons.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.periosteum
+type: Concept
+canonical_name: Periosteum
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  A specialized connective tissue covering all bones.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.proximal_attachment
+type: Concept
+canonical_name: Proximal Attachment
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  One of two attachments of limb muscles to bone, closer to the trunk.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.distal_attachment
+type: Concept
+canonical_name: Distal Attachment
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  One of two attachments of limb muscles to bone, farther from the trunk.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.superior_attachment
+type: Concept
+canonical_name: Superior Attachment
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  One of two attachments of trunk muscles to bone, closer to the head.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.inferior_attachment
+type: Concept
+canonical_name: Inferior Attachment
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  One of two attachments of trunk muscles to bone, closer to the feet.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.neuromuscular_junction
+type: Concept
+canonical_name: Neuromuscular Junction
+semantic_type: AnatomicalStructure
+aliases:
+  - motor end plate
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 43
+  pdf_page: 43
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: >
+  The junction between a motor neuron (nerve cell) and the muscle fibers it innervates. Each muscle cell has only one neuromuscular junction, although a single motor neuron innervates many muscle fibers, sometimes hundreds or even thousands.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.motor_unit
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.motor_unit
+type: Concept
+canonical_name: Motor Unit
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"
+  section_title: "Structure and Function of Body Systems"
+  book_page: 43
+  pdf_page: 43
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.neuromuscular_junction
+definition: >
+  A motor neuron and the muscle fibers it innervates. All the muscle fibers of a motor unit contract together when they are stimulated by the motor neuron.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_fiber_interior_structure
+type: Concept
+canonical_name: Muscle Fiber Interior Structure
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Structure and Function of Body Systems"
+  section: "1"

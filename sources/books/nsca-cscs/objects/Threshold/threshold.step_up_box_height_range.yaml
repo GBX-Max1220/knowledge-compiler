@@ -1,0 +1,35 @@
+id: threshold.step_up_box_height_range
+type: Threshold
+canonical_name: Step-Up Box Height Range
+semantic_type: Equipment Specification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique Guidelines
+  section: '16.3'
+  section_title: Exercise Technique Guidelines
+  book_page: 1031
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The box used should be 12 to 18 inches (30-46 cm) high, or high enough
+  to create a 90-degree angle at the knee joint when the foot is on the box.
+
+  '
+value:
+  min: 12
+  max: 18
+  unit: inches
+  metric_min: 30
+  metric_max: 46
+  metric_unit: cm
+condition: high enough to create a 90-degree angle at the knee joint when the foot
+  is on the box
+related_concepts:
+- procedure.step_up_exercise_technique

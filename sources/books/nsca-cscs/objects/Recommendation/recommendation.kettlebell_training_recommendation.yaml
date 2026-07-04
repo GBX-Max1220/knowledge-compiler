@@ -1,0 +1,29 @@
+id: recommendation.kettlebell_training_recommendation
+type: Recommendation
+canonical_name: Kettlebell training recommendation
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1129
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Based on the contemporary body of scientific knowledge, it appears
+  that kettlebells are probably best used as general preparation exercise and that
+  more traditional training methods such as weightlifting are more effective for developing
+  maximal strength and jumping performance capacity.
+
+  '
+rationale: ''
+target_audience: ''
+application_context: ''

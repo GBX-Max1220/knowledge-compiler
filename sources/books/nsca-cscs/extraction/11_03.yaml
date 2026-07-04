@@ -1,0 +1,516 @@
+Based on the provided text, here are the ontology-labeled extraction items.
+
+```
+TYPE
+Recommendation
+
+PAGE
+636
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+For optimal muscle remodeling, experts suggest consuming at least 20 to 40 grams of protein per meal and eating meals every 3 to 4 hours (81, 107) in order to facilitate meeting daily protein targets.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Aerobic endurance athletes should aim to consume 8 to 10 grams of carbohydrate during their most demanding training phases or competition and 1.4 to 2.0 grams of protein per kilogram body weight per day throughout their training.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Athletes who eat at least 4 hours before competition should include approximately 1 to 4 grams of carbohydrate per kilogram body weight and 0.15 to 0.25 grams of protein per kilogram body weight (131). If the precompetition meal is consumed 2 hours before exercise, athletes should aim for approximately 1 gram of carbohydrate per kilogram body weight (120) and 0.15 to 0.25 grams of easily digestible protein per kilogram body weight.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Athletes should consume 28 to 144 grams of a mixture of multiple types of carbohydrate (e.g., sucrose, fructose, and glucose or maltodextrin) per hour during prolonged aerobic endurance exercise to extend time until exhaustion and improve performance (32, 34, 66, 137).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+During prolonged activity in hot weather, athletes should consume sport drinks containing 20 to 30 mEq of sodium (460-690 mg with chloride as the anion) per liter, 2 to 5 mEq of potassium (78-195 mg) per liter, and carbohydrate in a concentration of 5% to 10% (2).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+After exercise, approximately 1.2 to 2.0 grams of carbohydrate per kilogram body weight should be consumed within 30 minutes after stopping the exercise. The addition of protein appears to facilitate glycogen replenishment if carbohydrate intake is below 1.2 grams per kilogram.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+as a general guideline, at least 20 to 40 grams of high-quality protein should also be consumed within a 2-hour time period after aerobic endurance exercise (sooner may be better, though the exact time period has yet to be elucidated in the research) (77).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+For faster glycogen synthesis, athletes should eat or drink a high-carbohydrate meal immediately after exercise and at regular intervals thereafter. This is especially important for athletes who train again less than 24 hours after their initial training session (61).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Athletes should consider supplementing with carbohydrate before and during competition to maintain strength and minimize muscle breakdown (47). In general, strength or speed athletes should consume 5 to 6 grams of carbohydrate per kilogram body weight per day during peak training periods. As little as 30 grams of carbohydrate after training may reduce muscle breakdown.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Because low glycogen can impair muscle force, athletes should consume higher-energy carbohydrates immediately following weightlifting or strength and power competitions if they must compete or train again over the course of the 24-hour period after their initial competition. Otherwise, they can consume enough carbohydrate over the course of the day to restore glycogen levels before the next bout of training or competition (47, 104).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+In general, strength or speed athletes should consume 1.4 to 2.0 grams of protein per kilogram body weight per day, even if their sport or training includes an aerobic endurance component. After resistance training, younger individuals should consume at least 20 to 50 grams (providing about 8.5 to 20 grams of essential amino acids) of a high-quality, high-leucine protein (2-3 g), while older adults should consume 40 grams or more to maximally stimulate muscle protein synthesis in the acute time period after training (109). If the exercise was performed in a fasted state (first thing in the morning or more than 3 hours after the last protein-rich meal), the protein should be consumed within 30 minutes after the end of the session; but if the exercise was performed in a fed state (preexercise protein-rich meal or supplement), this postexercise time window may be considerably longer (10).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Between 30 and 100 grams of high-energy carbohydrates should be consumed after muscle-damaging exercise to reduce muscle protein breakdown (18, 43).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+637
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Adult athletes should eat meals containing at least 20 to 30 grams of a higher-leucine protein.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+638
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Ingestion of between 30 and 100 grams of energy-dense, moderate to high glycemic index carbohydrates may be consumed after muscle-damaging exercise to help reduce muscle protein breakdown (18, 43).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+638
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+After resistance training, younger individuals should consume at least 20 to 50 grams (providing about 8.5 to 20 grams of essential amino acids) of a high-quality, high-leucine protein (>2-3 g), while older adults should consume 40 grams or more to maximally stimulate muscle protein synthesis in the acute time period after training (109).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+638
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Adult athletes should eat meals containing at least 20 to 40 grams of a higher-leucine protein every 3 to 4 hours.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+638
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Maintain adequate hydration by preventing water weight losses exceeding 2% of body weight.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+638
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+During prolonged training or competition, consider a carbohydrate-electrolyte beverage to delay fatigue and improve performance, particularly if performing after an overnight fast (6, 142).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+638
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Fully replace glycogen stores before the next training session or competition.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+638
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Consume protein after training or games to minimize muscle damage and soreness (42).
+
+END
+```
+
+```
+TYPE
+Table
+
+TITLE
+TABLE 11.3 Sport-Specific Protein Needs
+
+PAGE
+638-641
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+TABLE 11.3  Sport-Specific Protein Needs
+
+Sport	Daily protein needs in grams per kilogram body weight	Sample daily protein intake	Postexercise protein needs	Postexercise protein examples
+Low to moderate aerobic endurance activity (e.g., jogging, triathlon)	1.4-1.8	150 lb (68 kg) individual: 1 cup (240 g) higher-protein Greek yogurt (18-22 g protein) Grilled chicken sandwich (28 g protein) Spaghetti with 4 oz (113 g) meatballs (20 g protein) Salmon (6 oz [170 g]) (34 g protein)	0.2-0.5 g per kilogram body weight	1 higher-protein nutrition bar (20 g protein) 1 cup (240 g) higher-protein Greek yogurt (18-22 g protein)
+Elite aerobic endurance athlete or one who trains intensely	>1.6	140 lb (64 kg) individual: 1 cup (240 g) higher-protein Greek yogurt (18-22 g protein) Grilled chicken sandwich (28 g protein) Spaghetti with 6 oz (170 g) meatballs (30 g protein) 95% lean beef (4 oz [113 g]) (30 g protein) 1/2 cup low-fat cottage cheese (12 g protein)	0.2-0.5 g per kilogram body weight	20 fl oz (591 mL) 1% milk or higher-protein soy milk (20 g protein) 1 scoop whey protein (20-25 g protein)
+American football	1.6-2.2, though likely at the upper end of this range for those playing at an intense level	240 lb (109 kg) individual: 5 large eggs (30 g protein) Roast beef sandwich (28 g protein) 8 oz (227 g) grilled salmon (45 g protein) 6 oz (170 g) chicken thighs with 1 cup (185 g) cooked quinoa (50 g protein) 1 cup (240 g) higher-protein Greek yogurt (18-22 g protein) 12 fl oz (355 mL) 1% milk with 1 scoop whey protein (34 g protein)	Not clarified by research; therefore, athletes may want to follow the guidelines for resistance training and consume a minimum of 30 g of a fast, high-quality, leucine-rich (2-3 g leucine) protein	Tofu and berry shake (1/2 cup [125 g] tofu, 1 scoop soy protein powder, 1/2 cup [75 g] mixed berries) (23 g protein) 1 scoop whey protein with 4 tbsp (32 g) powdered peanut butter (38 g protein)
+Gymnastics	Dietary restriction increases protein needs up to 2.2 (if they restrict calories); no studies conducted on gymnasts’ protein needs	105 lb (48 kg) individual: 3 large egg omelet with 1 oz (28 g) cheese (25 g protein) 5.3 oz (150 g) Greek yogurt with 1 oz (28 g) almonds and 1/2 cup (75 g) berries (18 g protein) Chicken shawarma wrap (4 oz [113 g] grilled chicken, 1 whole wheat pita, 2 tbsp [30 g] hummus [37 g protein]) 3 oz (85 g) shrimp with 1/2 cup (85 g) black beans (29 g protein)	0.2-0.5 g per kilogram body weight	1 cup (210 g) low-fat cottage cheese with 1/2 cup (75 g) pineapple chunks (25 g protein) 2 scoops (60 g) plant-based protein powder, 1 cup (237 mL) almond milk, 1 tbsp (15 g) chia seeds (28 g protein)
+Team sports	Likely 1.6-2.0 g, depending on the sport and intensity of exercise	165 lb (75 kg) individual: Follow the sample daily meal plan for the elite aerobic endurance athlete above and add 5 oz (142 g) chicken thighs with 1 cup (185 g) cooked quinoa (43 g protein)	~0.2-0.5 g per kg per hour (minimum of 20 g)	1 scoop of whey protein in 8 fl oz (237 mL) skim milk (30 g protein)
+Weightlifting	1.6-2.0	212 lb (96 kg) individual: 4 large eggs omelet with 1 oz (28 g) cheese (30 g protein) 6 oz (170 g) grilled salmon with 1 cup (185 g) cooked quinoa (42 g protein) 6 oz (170 g) sirloin steak (46 g protein) 6 oz (170 g) shrimp, 1/2 cup (85 g) black beans, 2 soft taco size whole grain tortillas (58 g protein)	Studies have used 20-70 g protein in close temporal proximity to resistance exercise, though a protein containing approximately 2-3 g leucine per serving of protein is recommended	1 scoop egg or whey protein (or 2 scoops plant-based protein) with 4 tbsp (32 g) powdered peanut butter (38 g protein)
+Wrestling	2.2, though dietary restriction increases protein needs	190 lb (86 kg) individual: Follow the sample daily meal plan for the weightlifter, but add the following: 1 cup (210 g) low-fat cottage cheese, 1/2 cup (75 g) pineapple chunks (25 g protein)	0.2-0.5 g per kilogram (minimum of 20 g of high-quality protein)	1 scoop of whey protein in 8 fl oz (237 mL) skim milk (28 g protein) or 2 scoops of whey protein in water (30-44 g protein)
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Basal Metabolic Rate (BMR)
+
+PAGE
+642
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Basal metabolic rate (BMR) is by far the largest contributor to total energy expenditure, accounting for approximately 65% to 70% of daily energy expenditure (63, 114). It is a measure of the calories required for maintaining normal body functions such as respiration, blood circulation, and gastrointestinal and renal processing.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Resting Metabolic Rate (RMR)
+
+PAGE
+642
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Resting metabolic rate is often used instead of BMR due to the ease of measurement (an overnight fast is not required), yet it is 10% to 20% higher than BMR due to increased energy expenditure resulting from recent food intake or physical activity completed earlier in the day.
+
+END
+```
+
+```
+TYPE
+Definition
+
+TITLE
+Thermic Effect of Food
+
+PAGE
+643
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+The thermic effect of food, also known as diet-induced thermogenesis, is the increase in energy expenditure above the RMR that can be measured for several hours following a meal. The thermic effect of food includes the energy cost of digestion, absorption, metabolism, and storage of food in the body. The thermic effect of food accounts for approximately 10% to 15% of total calories burned each day (63, 114).
+
+END
+```
+
+```
+TYPE
+Formula
+
+TITLE
+Cunningham Equation
+
+PAGE
+643
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+RMR = 500 + 22 (FFM in kg)
+
+END
+```
+
+```
+TYPE
+Table
+
+TITLE
+TABLE 11.4 Physical Activity Level Values and Activity Coefficients
+
+PAGE
+644
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+TABLE 11.4  Physical Activity Level Values and Activity Coefficients
+
+Physical activity level (PAL)*	Examples	Physical activity coefficient (males/females)
+Sedentary (≥1.0 to <1.4)	Common activities of daily living (ADLs)	1.00/1.00
+Low active (≥1.4 to <1.6)	ADLs and 30-60 min of daily moderate activity	1.11/1.12
+Active (≥1.6 to <1.9)	ADLs and ≥1 h of daily moderate activity	1.25/1.27
+Very active (≥1.9 to <2.5)	ADLs and ≥ 1 h of daily moderate activity and 1 more h of vigorous activity or 2 h of moderate activity	1.48/1.45
+*PAL = ratio of energy expenditure to basal daily energy expenditure (“1.0” means total energy expenditure equals basal daily energy expenditure).
+Reprinted by permission from L.M. Burke and E.S. Rawson, “Fueling and Nutrition,” in NSCA’s Essentials of Sport Science, edited for the National Strength and Conditioning Association by D.N. French and L. Torres Ronda (Human Kinetics, 2022), 366.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+643
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+A general guideline, which should be adjusted based on the athlete, is to consume approximately 500 additional calories per day in order to gain weight (113).
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+643
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+In addition to increasing total calorie intake, athletes should ensure that they are eating enough protein to maximize gains in lean body mass: 1.6 to 2.2 grams per kilogram body weight per day.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+644
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+regular nutrition counseling (or coaching) by a sports dietitian or sports nutritionist with an advanced degree is a recommended strategy for facilitating greater weight gain.
+
+END
+```
+
+```
+TYPE
+Recommendation
+
+PAGE
+645
+
+SECTION
+11.3 — Postcompetition Nutrition
+
+ORIGINAL TEXT
+Athletes who want to maintain muscle and lose body fat while dieting should consume about 1.8 to 2.7 grams protein per kilogram body weight per day (or approximately 2.3-3.1 g protein per kilogram fat-free mass per day) in addition to maintaining a moderate energy deficit of approximately 500 calories per day (91).
+
+END
+```

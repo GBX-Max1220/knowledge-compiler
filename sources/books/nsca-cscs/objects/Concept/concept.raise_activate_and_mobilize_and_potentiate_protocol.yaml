@@ -1,0 +1,14 @@
+id: concept.raise_activate_and_mobilize_and_potentiate_protocol
+type: Concept
+canonical_name: Raise, Activate and Mobilize, and Potentiate Protocol
+semantic_type: Protocol
+aliases:
+- RAMP protocol
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Performance Preparation, Mobility, and Flexibility
+  section: '15'
+  section_title: null
+  book_page: 1

@@ -1,0 +1,32 @@
+id: recommendation.emphasis_on_strength_development_for_weak_athletes
+type: Recommendation
+canonical_name: Emphasis on Strength Development for Weak Athletes
+semantic_type: Training Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training Program Design
+  section: '18.2'
+  section_title: 'Step 2: Exercise Selection'
+  book_page: 1205
+  pdf_page: 1205
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'It should be noted, however, that in weak athletes, or those
+  with a low training age, emphasizing strength development has been shown to enhance
+  power output to an equal or greater extent than ballistic training (26, 28, 29).
+
+  '
+context:
+  population: weak athletes or those with a low training age
+  goal: enhance power output
+citations:
+- '26'
+- '28'
+- '29'

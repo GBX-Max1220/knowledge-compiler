@@ -1,0 +1,28 @@
+id: concept.adenosine_triphosphatase
+type: Concept
+canonical_name: Adenosine Triphosphatase
+semantic_type: Enzyme
+aliases:
+- ATPase
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Essential Terminology
+  section_title: Essential Terminology
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The hydrolysis of ATP is catalyzed by the presence of an enzyme called
+  adenosine triphosphatase (ATPase).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

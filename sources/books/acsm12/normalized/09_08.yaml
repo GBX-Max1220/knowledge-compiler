@@ -1,0 +1,228 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.ldl_optimal_desirable
+type: TableRow
+canonical_name: LDL-C Optimal/Desirable
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Dyslipidemia"
+  section: "9.8"
+  section_title: "Dyslipidemia"
+  book_page: 725
+  pdf_page: 725
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Classification of LDL-C, Non–HDL-C, and Apo B levels as Optimal/Desirable.
+
+attributes:
+  - ldl_c: "<100 mg·dL⁻¹"
+  - non_hdl_c: "<130 mg·dL⁻¹"
+  - apo_b: "<90 mg·dL⁻¹"
+  - classification: "Optimal/Desirable"
+
+purpose: []
+
+related_concepts:
+  - concept.ldl_cholesterol
+  - concept.non_hdl_cholesterol
+  - concept.apolipoprotein_b
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.ldl_near_optimal
+type: TableRow
+canonical_name: LDL-C Near Optimal/Above Desirable
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Dyslipidemia"
+  section: "9.8"
+  section_title: "Dyslipidemia"
+  book_page: 725
+  pdf_page: 725
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.ldl_optimal_desirable
+  - predicate: adjacent_to
+    target: table_row.ldl_borderline_high
+
+definition: >
+  Classification of LDL-C, Non–HDL-C, and Apo B levels as Near Optimal/Above Desirable.
+
+attributes:
+  - ldl_c: "100–129 mg·dL⁻¹"
+  - non_hdl_c: "130–159 mg·dL⁻¹"
+  - apo_b: "90–109 mg·dL⁻¹"
+  - classification: "Near Optimal/Above Desirable"
+
+purpose: []
+
+related_concepts:
+  - concept.ldl_cholesterol
+  - concept.non_hdl_cholesterol
+  - concept.apolipoprotein_b
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.ldl_borderline_high
+type: TableRow
+canonical_name: LDL-C Borderline High
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Dyslipidemia"
+  section: "9.8"
+  section_title: "Dyslipidemia"
+  book_page: 725
+  pdf_page: 725
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.ldl_near_optimal
+  - predicate: adjacent_to
+    target: table_row.ldl_high
+
+definition: >
+  Classification of LDL-C, Non–HDL-C, and Apo B levels as Borderline High.
+
+attributes:
+  - ldl_c: "130–159 mg·dL⁻¹"
+  - non_hdl_c: "160–189 mg·dL⁻¹"
+  - apo_b: "110–129 mg·dL⁻¹"
+  - classification: "Borderline High"
+
+purpose: []
+
+related_concepts:
+  - concept.ldl_cholesterol
+  - concept.non_hdl_cholesterol
+  - concept.apolipoprotein_b
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.ldl_high
+type: TableRow
+canonical_name: LDL-C High
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Dyslipidemia"
+  section: "9.8"
+  section_title: "Dyslipidemia"
+  book_page: 725
+  pdf_page: 725
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.ldl_borderline_high
+  - predicate: adjacent_to
+    target: table_row.ldl_very_high
+
+definition: >
+  Classification of LDL-C, Non–HDL-C, and Apo B levels as High.
+
+attributes:
+  - ldl_c: "160–189 mg·dL⁻¹"
+  - non_hdl_c: "190–219 mg·dL⁻¹"
+  - apo_b: "130–149 mg·dL⁻¹"
+  - classification: "High"
+
+purpose: []
+
+related_concepts:
+  - concept.ldl_cholesterol
+  - concept.non_hdl_cholesterol
+  - concept.apolipoprotein_b
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.ldl_very_high
+type: TableRow
+canonical_name: LDL-C Very High
+semantic_type: Classification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Dyslipidemia"
+  section: "9.8"
+  section_title: "Dyslipidemia"
+  book_page: 726
+  pdf_page: 726
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: table_row.ldl_high
+
+definition: >
+  Classification of LDL-C, Non–HDL-C, and Apo B levels as Very High.
+
+attributes:
+  - ldl_c: "≥190 mg·dL⁻¹"
+  - non_hdl_c: "≥220 mg·dL⁻¹"
+  - apo_b: "≥150 mg·dL⁻¹"
+  - classification: "Very High"
+
+purpose: []
+
+related_concepts:
+  - concept.ldl_cholesterol
+  - concept.non_hdl_cholesterol
+  - concept.apolipoprotein_b

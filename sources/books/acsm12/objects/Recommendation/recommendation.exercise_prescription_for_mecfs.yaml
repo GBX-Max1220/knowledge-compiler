@@ -1,0 +1,35 @@
+id: recommendation.exercise_prescription_for_mecfs
+type: Recommendation
+canonical_name: Exercise Prescription for ME/CFS
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Clinical Considerations for Special Populations
+  section: '10.18'
+  section_title: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+  book_page: 831
+  pdf_page: 831
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.myalgic_encephalomyelitis_chronic_fatigue_syndrome
+recommendation_text: 'Exercise prescription for individuals with ME/CFS should begin
+  with a very low intensity and duration, such as 2–5 minutes of gentle stretching
+  or light activity, and should be carefully monitored to avoid triggering postexertional
+  malaise.
+
+  '
+parameters:
+  intensity: very low
+  duration: 2–5 minutes
+  type: gentle stretching or light activity
+target_population:
+- individuals with ME/CFS
+contraindications: []

@@ -1,0 +1,37 @@
+id: concept.muscle_fibers
+type: Concept
+canonical_name: Muscle Fibers
+semantic_type: Cell
+aliases:
+- myofibers
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.skeletal_muscle_macrostructure_and_microstructure
+definition: 'Long (sometimes running the entire length of a muscle), cylindrical cells
+  50 to 100 μm in diameter (about the diameter of a human hair). Muscle fibers have
+  all their nuclei situated on the outer periphery of the cell and have a striated
+  appearance when viewed with a microscope under low magnification.
+
+  '
+attributes:
+- long
+- cylindrical
+- 50_to_100_μm_diameter
+- nuclei_on_outer_periphery
+- striated_appearance
+purpose: []
+related_concepts: []

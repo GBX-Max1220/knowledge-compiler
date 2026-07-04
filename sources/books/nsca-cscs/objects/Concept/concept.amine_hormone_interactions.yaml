@@ -1,0 +1,32 @@
+id: concept.amine_hormone_interactions
+type: Concept
+canonical_name: Amine Hormone Interactions
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.2'
+  section_title: Signaling Concepts
+  book_page: 247
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.categories_of_hormones
+definition: 'Amine hormones are indeed synthesized from amino acids, including those
+  derived from tyrosine (such as epinephrine, norepinephrine, and dopamine) and tryptophan
+  (such as serotonin), and primarily exert their effects by binding to membrane receptors.
+  These hormones typically act through secondary messenger systems, similar to polypeptide
+  hormones.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

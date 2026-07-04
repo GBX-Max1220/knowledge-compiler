@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: figure.treadmill_and_cycle_ergometer_protocols
+type: Figure
+canonical_name: Treadmill and Cycle Ergometer Protocols
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: ""
+  section: "4.5"
+  section_title: "Testing Mode and Protocol"
+  book_page: 282
+  pdf_page: 282
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 4.1 provides examples of treadmill and cycle ergometer protocols.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

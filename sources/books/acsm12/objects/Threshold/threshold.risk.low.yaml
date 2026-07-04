@@ -1,0 +1,32 @@
+id: threshold.risk.low
+type: Threshold
+canonical_name: Low Risk
+semantic_type: Risk Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Health Screening
+  section: '2.6'
+  section_title: Algorithm Components
+  book_page: 139
+  pdf_page: 139
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.risk.moderate
+definition: 'Asymptomatic individuals with ≤1 risk factor.
+
+  '
+attributes:
+- asymptomatic
+- risk_factor_count: ≤1
+purpose:
+- classify risk for medical examination and exercise testing
+related_concepts:
+- concept.risk_classification

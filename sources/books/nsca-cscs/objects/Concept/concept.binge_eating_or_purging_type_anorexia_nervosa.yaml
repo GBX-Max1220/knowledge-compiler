@@ -1,0 +1,11 @@
+id: concept.binge_eating_or_purging_type_anorexia_nervosa
+type: Concept
+canonical_name: Binge-Eating or Purging Type Anorexia Nervosa
+semantic_type: Subtype
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  section: 1
+  book_page: 1

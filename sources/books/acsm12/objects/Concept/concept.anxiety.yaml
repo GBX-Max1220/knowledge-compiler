@@ -1,0 +1,26 @@
+id: concept.anxiety
+type: Concept
+canonical_name: Anxiety
+semantic_type: EmotionalResponse
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise for Special Populations
+  section: '11.9'
+  section_title: Anxiety
+  book_page: 972
+  pdf_page: 972
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A normal emotional response to a real or perceived threat.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

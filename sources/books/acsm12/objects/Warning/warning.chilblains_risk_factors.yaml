@@ -1,0 +1,28 @@
+id: warning.chilblains_risk_factors
+type: Warning
+canonical_name: Chilblains Risk Factors
+semantic_type: MedicalCondition
+aliases:
+- Pernio
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Chilblains (pernio) are painful inflammatory lesions of the skin caused
+  by repeated exposure to cold but nonfreezing temperatures.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

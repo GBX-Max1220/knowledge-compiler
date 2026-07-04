@@ -1,0 +1,27 @@
+id: evidence.attenuated_cortisol_response_females
+type: Evidence
+canonical_name: Attenuated Cortisol Response to Acute Exercise in Females
+semantic_type: Comparative
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.2'
+  section_title: Training Responses and Adaptations
+  book_page: 456
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'several investigations have demonstrated that in comparison to males,
+  the cortisol response to acute exercise is attenuated in females (58, 66, 140).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

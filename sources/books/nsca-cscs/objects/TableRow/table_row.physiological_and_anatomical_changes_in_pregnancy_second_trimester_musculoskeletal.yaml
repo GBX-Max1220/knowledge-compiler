@@ -1,0 +1,32 @@
+id: table_row.physiological_and_anatomical_changes_in_pregnancy_second_trimester_musculoskeletal
+type: TableRow
+canonical_name: Physiological and Anatomical Changes in Pregnancy Second Trimester
+  Musculoskeletal
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.0'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 442
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_name: Physiological and Anatomical Changes in Pregnancy
+row_data:
+  trimester: Second
+  category: Musculoskeletal
+  details: Changes in center of gravity; Increase in loss of balance
+citations:
+- 86a
+- 89b
+- 96a
+- 162a
+- 186a
+- 187a

@@ -1,0 +1,26 @@
+id: concept.principles_of_health_related_physical_fitness_testing
+type: Concept
+canonical_name: Principles of Health-Related Physical Fitness Testing
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.24'
+  section_title: Principles
+  book_page: 229
+  pdf_page: 229
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Principles
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

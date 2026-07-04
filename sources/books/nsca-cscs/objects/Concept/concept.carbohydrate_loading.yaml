@@ -1,0 +1,33 @@
+id: concept.carbohydrate_loading
+type: Concept
+canonical_name: Carbohydrate Loading
+semantic_type: Strategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 620
+  pdf_page: 620
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Although there are many different variations of carbohydrate loading,
+  all include high carbohydrate intake in the days leading up to an event to maximize
+  glycogen stores and therefore carbohydrate availability in the later stages of the
+  event (32).
+
+  '
+attributes:
+- high_carbohydrate_intake
+purpose:
+- maximize glycogen stores
+- maximize carbohydrate availability
+related_concepts:
+- concept.glycogen

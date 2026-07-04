@@ -1,0 +1,27 @@
+id: threshold.moderate_altitude_adaptation_period
+type: Threshold
+canonical_name: Moderate Altitude Adaptation Period
+semantic_type: Time
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Aerobic Endurance Training Adaptations
+  section: '6.2'
+  section_title: Aerobic Endurance Training Adaptations
+  book_page: 363
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A minimum of three to six weeks is needed to adapt at moderate altitude
+  (2,200 to 3,000 ft [608 to 914 m]).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

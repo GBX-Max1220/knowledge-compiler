@@ -1,0 +1,34 @@
+id: concept.skeletal_muscle_pump
+type: Concept
+canonical_name: Skeletal Muscle Pump
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: What Is the Skeletal Muscle Pump?
+  section_title: What Is the Skeletal Muscle Pump?
+  book_page: 75
+  pdf_page: 75
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.circulatory_system
+definition: 'The skeletal muscle pump is the assistance that contracting muscles provide
+  to the circulatory system. The muscle pump works with the venous system, which contains
+  the one-way valves for blood return to the heart. The contracting muscle compresses
+  the veins, but since the blood can flow only in the direction of the valves, it
+  is returned to the heart.
+
+  '
+attributes: []
+related_concepts:
+- concept.veins
+- concept.venous_return
+- concept.heart

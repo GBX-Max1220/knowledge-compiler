@@ -1,0 +1,33 @@
+id: concept.categories_of_hormones
+type: Concept
+canonical_name: Categories of Hormones
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.2'
+  section_title: Signaling Concepts
+  book_page: 242
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Hormones can be classified into three main categories based on their
+  molecular structure: steroid, peptide (or polypeptide), and amine hormones.
+
+  '
+attributes:
+- steroid
+- peptide
+- amine
+purpose: []
+related_concepts:
+- concept.steroid_hormone_interactions
+- concept.polypeptide_hormone_interactions
+- concept.amine_hormone_interactions

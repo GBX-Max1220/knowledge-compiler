@@ -1,0 +1,28 @@
+id: evidence.androgen_receptor_upregulation_after_resistance_training
+type: Evidence
+canonical_name: Androgen Receptor Upregulation After Resistance Training
+semantic_type: ResearchFinding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Endocrine Responses to Anaerobic Training
+  section: '5.4'
+  section_title: Endocrine Responses to Anaerobic Training
+  book_page: 322
+  pdf_page: 322
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Resistance training has been shown to upregulate AR content within 48
+  to 72 hours after the workout (73).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.androgen_receptor

@@ -1,0 +1,34 @@
+id: threshold.ldl_cholesterol.statin_therapy_diabetes
+type: Threshold
+canonical_name: LDL Cholesterol Threshold for Statin Therapy in Diabetes
+semantic_type: ClinicalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Pharmacological Treatment Options
+  section: '10.14'
+  section_title: Pharmacological Treatment Options
+  book_page: 819
+  pdf_page: 819
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.ldl_cholesterol.statin_therapy_initiation
+definition: 'Statin therapy is recommended for patients with diabetes aged 40–75 years
+  with LDL cholesterol 70–189 mg/dL.
+
+  '
+attributes:
+- ldl_cholesterol: 70–189
+- unit: mg/dL
+- age: 40–75 years
+purpose:
+- initiate statin therapy
+related_concepts:
+- concept.diabetes

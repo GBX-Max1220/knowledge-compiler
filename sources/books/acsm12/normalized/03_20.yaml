@@ -1,0 +1,59 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.submaximal_exercise_test_protocol_selection_and_conduct
+type: Procedure
+canonical_name: Submaximal Exercise Test Protocol Selection and Conduct
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Submaximal Exercise Tests"
+  section: "3.20"
+  section_title: "Submaximal Exercise Tests"
+  book_page: 219
+  pdf_page: 219
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Submaximal exercise tests are often used to estimate cardiorespiratory fitness (CRF) from the heart rate response to several submaximal work rates. The rationale for using submaximal rather than maximal exercise tests is that most daily physical activity is performed at submaximal intensities, and maximal exercise testing requires a high level of subject motivation and is not without risk in certain populations. The primary assumptions of submaximal exercise tests are that a steady-state heart rate is achieved at each exercise work rate and that the maximum heart rate (HRmax) for a given age is uniform among individuals. The accuracy of estimating CRF from submaximal exercise tests is dependent on the accuracy of the age-predicted HRmax equation (see Chapter 4). The standard error of estimate (SEE) for estimating CRF from submaximal exercise tests is typically 10%–20% (i.e., 3.5–7.0 mL·kg⁻¹·min⁻¹). Therefore, the results of submaximal exercise tests should be interpreted with caution.
+
+attributes: []
+
+purpose:
+  - estimate cardiorespiratory fitness (CRF) from the heart rate response to several submaximal work rates
+
+related_concepts:
+  - concept.cardiorespiratory_fitness
+  - concept.maximum_heart_rate
+  - concept.age_predicted_heart_rate_max
+
+steps:
+  - step_number: 1
+    description: "Use a multistage protocol with at least two stages, each lasting 2–3 min to achieve a steady-state HR."
+  - step_number: 2
+    description: "The initial work rate should be low and adjusted according to the estimated fitness level of the individual."
+  - step_number: 3
+    description: "The test should be terminated when 70% HRmax (or 85% HRmax for those with a higher fitness level) is reached, or when signs or symptoms of exercise intolerance appear."
+  - step_number: 4
+    description: "HR should be measured during the last 15–30 s of each stage."
+  - step_number: 5
+    description: "BP should be measured during the last minute of each stage."
+  - step_number: 6
+    description: "RPE should be measured during the last minute of each stage."
+  - step_number: 7
+    description: "The test should be terminated if the subject requests to stop or if abnormal signs or symptoms occur."
+
+contraindications: []
+warnings: []
+---

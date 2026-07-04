@@ -1,0 +1,28 @@
+id: concept.training_frequency
+type: Concept
+canonical_name: Training Frequency
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Resistance Training
+  section: '18.3'
+  section_title: 'Step 3: Training Frequency'
+  book_page: 1211
+  pdf_page: 1211
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Training frequency refers to the number of training sessions completed
+  in a given time period. For a resistance training program, a common time period
+  is one week.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

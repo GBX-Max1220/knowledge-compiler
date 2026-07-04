@@ -1,0 +1,36 @@
+id: procedure.bioelectrical_impedance
+type: Procedure
+canonical_name: Bioelectrical Impedance (BIA) Procedure
+semantic_type: Assessment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.3'
+  section_title: Statistical Evaluation of Test Data
+  book_page: 819
+  pdf_page: 819
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Program the device with the athlete''s sex, weight, and height. Have
+  the athlete either hold the electrodes in the hands or stand barefoot on the electrodes
+  depending on the type of device. Press the start button and wait the specified duration
+  of time for that device (usually under 5 seconds). From the measuring device, obtain
+  and record the body composition measurements provided. This means of evaluating
+  body composition is best done under similar circumstances. To most effectively monitor
+  body composition changes, it is recommended that testing be done first thing in
+  the morning before the athlete has exercised, before food or water consumption,
+  and after having voided.
+
+  '
+attributes: []
+purpose:
+- estimate body composition
+related_concepts:
+- concept.body_composition

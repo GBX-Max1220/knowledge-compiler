@@ -1,0 +1,29 @@
+id: recommendation.static_stretch_duration
+type: Recommendation
+canonical_name: Static Stretch Duration Recommendation
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 892
+  pdf_page: 892
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'As to the appropriate duration for a static stretch, 15 to 30 seconds
+  is generally recommended (81) and has been shown to be more effective than shorter
+  durations (66). Evidence supports the use of 30 seconds (4-6) and suggests diminishing
+  returns beyond this duration.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

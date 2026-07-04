@@ -1,0 +1,28 @@
+id: recommendation.stretching_intensity_guideline
+type: Recommendation
+canonical_name: Stretching Intensity Guideline
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 892
+  pdf_page: 892
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When performing static stretches, athletes should hold the stretch at
+  a position of mild discomfort (not pain); joint integrity should never be compromised
+  to increase ROM.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,31 @@
+id: concept.glycogen_stores
+type: Concept
+canonical_name: Glycogen Stores
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Substrate Depletion and Repletion
+  section: '3.3'
+  section_title: Substrate Depletion and Repletion
+  book_page: 204
+  pdf_page: 204
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.energy_substrates
+definition: 'Approximately 300 to 400 grams (11-14 oz) of glycogen are stored in the
+  body''s total muscle and about 70 to 100 grams (2-4 oz) in the liver (137).
+
+  '
+attributes:
+- muscle
+- liver
+purpose: []
+related_concepts: []

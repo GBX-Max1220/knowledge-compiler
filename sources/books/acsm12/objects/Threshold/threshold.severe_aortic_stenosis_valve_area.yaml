@@ -1,0 +1,28 @@
+id: threshold.severe_aortic_stenosis_valve_area
+type: Threshold
+canonical_name: Severe Aortic Stenosis — Valve Area Threshold
+semantic_type: ClinicalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.28'
+  section_title: Exercise Testing
+  book_page: 845
+  pdf_page: 845
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: threshold.exercise_testing_contraindication_chronic_disease
+definition: 'valve area <0.75 cm²
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

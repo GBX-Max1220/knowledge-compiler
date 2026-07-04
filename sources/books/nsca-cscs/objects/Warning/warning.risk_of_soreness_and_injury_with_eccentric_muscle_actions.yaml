@@ -1,0 +1,27 @@
+id: warning.risk_of_soreness_and_injury_with_eccentric_muscle_actions
+type: Warning
+canonical_name: Risk of Soreness and Injury with Eccentric Muscle Actions
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: ''
+  section: '2.4'
+  section_title: Sources of Resistance to Muscle Contraction
+  book_page: 144
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: associated_with
+  target: concept.eccentric_muscle_action
+definition: 'The forces generated within the muscle and acting to shorten it are less
+  than the external forces acting at its tendons to stretch it (which increases the
+  risk of soreness and injury).
+
+  '
+severity: ''

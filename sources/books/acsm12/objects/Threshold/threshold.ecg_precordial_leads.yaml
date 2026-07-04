@@ -1,0 +1,32 @@
+id: threshold.ecg_precordial_leads
+type: Threshold
+canonical_name: ECG Precordial Leads
+semantic_type: Electrode Placement
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Electrocardiogram
+  section: '4.13'
+  section_title: Electrocardiogram
+  book_page: 298
+  pdf_page: 298
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Precordial (chest) leads (V1–V6) are unipolar leads that measure the
+  electrical potential at six specific positions on the chest relative to the Wilson
+  central terminal: V1: 4th intercostal space at the right sternal border; V2: 4th
+  intercostal space at the left sternal border; V3: midway between V2 and V4; V4:
+  5th intercostal space at the midclavicular line; V5: anterior axillary line at the
+  same horizontal level as V4; V6: midaxillary line at the same horizontal level as
+  V4 and V5.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

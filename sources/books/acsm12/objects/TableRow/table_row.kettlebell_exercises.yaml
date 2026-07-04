@@ -1,0 +1,38 @@
+id: table_row.kettlebell_exercises
+type: TableRow
+canonical_name: Kettlebell Exercises
+semantic_type: Exercise Type
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.22'
+  section_title: Types of Resistance Training Exercises
+  book_page: 372
+  pdf_page: 372
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Kettlebell exercises are resistance training exercises performed using
+  a cast-iron weight with a handle. The offset center of mass creates unique training
+  demands, requiring greater stabilization and coordination. Common exercises include
+  swings, cleans, snatches, and Turkish get-ups.
+
+  '
+attributes:
+- offset_center_of_mass
+- requires_stabilization
+- uses_handle_weight
+purpose:
+- develop functional strength and power
+- improve cardiovascular endurance
+- enhance grip strength and coordination
+related_concepts:
+- concept.resistance_training
+- concept.free_weight_exercises
+- concept.functional_training

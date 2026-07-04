@@ -1,0 +1,30 @@
+id: concept.maximal_aerobic_capacity
+type: Concept
+canonical_name: Maximal Aerobic Capacity
+semantic_type: Physiological_Measure
+aliases:
+- V̇O2max
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  book_page: 1516
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'high maximal aerobic capacity (V̇O2max) is necessary for success in aerobic
+  endurance events (87).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

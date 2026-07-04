@@ -1,0 +1,28 @@
+id: evidence.muscle_fiber_type_shift_with_aerobic_endurance_training
+type: Evidence
+canonical_name: Muscle Fiber Type Shift with Aerobic Endurance Training
+semantic_type: TrainingAdaptation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Aerobic Endurance Training Adaptations
+  section: '6.2'
+  section_title: Aerobic Endurance Training Adaptations
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Research indicates that after a period of aerobic endurance training
+  such as marathon training, there is a shift toward type I fibers associated with
+  the higher volume of aerobic endurance training.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

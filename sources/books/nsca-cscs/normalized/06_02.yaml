@@ -1,0 +1,508 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.aerobic_power_maximal_oxygen_uptake
+type: Concept
+canonical_name: Aerobic Power (Maximal Oxygen Uptake)
+semantic_type: PhysiologicalVariable
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Arguably the most significant change in physiological variables with aerobic exercise training is an increase in maximal oxygen uptake (V̇O2max), the criterion index of cardiovascular fitness. The V̇O2max is determined in part by genetics and by the training program undertaken by the athlete.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.lactate_threshold
+type: Concept
+canonical_name: Lactate Threshold
+semantic_type: PhysiologicalVariable
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Aerobic training increases the absolute lactate threshold, allowing the highly trained individual to work at both a higher relative and absolute percentage of his or her V̇O2max than a less-trained individual.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.effective_use_of_substrate
+type: Concept
+canonical_name: Effective Use of Substrate
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Carbohydrates are the preferred source of fuel for high-intensity intermittent exercise in many team sports. Aerobic exercise training results in a greater use of fat as a substrate for exercise with a relative sparing of carbohydrate.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_economy
+type: Concept
+canonical_name: Exercise Economy
+semantic_type: PhysiologicalVariable
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The economy of exercise is mostly a function of biomechanics and technique, which are influenced by the athlete's metabolic, cardiovascular, and neuromuscular efficiency and training (7).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.repeated_sprint_sequence_interval_session
+type: Concept
+canonical_name: Repeated Sprint-Sequence Interval Session
+semantic_type: TrainingSession
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 357
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A repeated sprint-sequence interval session can generally be defined as at least two short bouts of ≥10 seconds with a short recovery period of ≤60 seconds; however, this will depend on the athletes' goals (50).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.altitude_acclimatization_acute_adjustments
+type: Concept
+canonical_name: Altitude Acclimatization — Acute Adjustments
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 360
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  At elevations greater than 3,900 feet (1,189 m), acute physiological adjustments begin to occur to compensate for the reduced partial pressure of oxygen in the atmosphere (61).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.heat_acclimatization
+type: Concept
+canonical_name: Heat Acclimatization
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 365
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Repeated exposure over a long period of time (often referred to as natural exposure) to a hot environment can result in thermoregulatory and physiological adaptations referred to as heat acclimatization, which can improve an athlete's heat tolerance (10).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.heat_acclimation
+type: Concept
+canonical_name: Heat Acclimation
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 365
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An athlete can undertake heat acclimation protocols (often referred to as artificial exposure) to expose the body to such hot environments, thereby raising core and skin temperatures and increase sweating to elicit the same adaptations (124).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.altitude_threshold_for_acute_physiological_adjustments
+type: Threshold
+canonical_name: Altitude Threshold for Acute Physiological Adjustments
+semantic_type: Altitude
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 360
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  At elevations greater than 3,900 feet (1,189 m), acute physiological adjustments begin to occur to compensate for the reduced partial pressure of oxygen in the atmosphere (61).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.altitude_threshold_for_decreased_maximal_oxygen_uptake_and_aerobic_performance
+type: Threshold
+canonical_name: Altitude Threshold for Decreased Maximal Oxygen Uptake and Aerobic Performance
+semantic_type: Altitude
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 362
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  arterial oxygen saturation decreases and results in decreases in maximal oxygen uptake and aerobic performance at altitudes above 3,900 feet (1,189 m).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.moderate_altitude_adaptation_period
+type: Threshold
+canonical_name: Moderate Altitude Adaptation Period
+semantic_type: Time
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 363
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A minimum of three to six weeks is needed to adapt at moderate altitude (2,200 to 3,000 ft [608 to 914 m]).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.heat_acclimation_adaptation_rate_75_percent_within_first_four_to_six_days
+type: Threshold
+canonical_name: Heat Acclimation Adaptation Rate — 75% Within First Four to Six Days
+semantic_type: Time
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  the majority of the adaptations (~75%) reported to occur within the first four to six days (121).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.heat_acclimation_decay_rate_2.5_percent_loss_per_day
+type: Threshold
+canonical_name: Heat Acclimation Decay Rate — 2.5% Loss Per Day
+semantic_type: Rate
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  for every day that passes without exposure to the heat, there is a 2.5% loss of adaptations (28).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.full_heat_acclimation_adaptation_loss_period
+type: Threshold
+canonical_name: Full Heat Acclimation Adaptation Loss Period
+semantic_type: Time
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 368
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Typically, full heat acclimation adaptations are expected to be lost after a month if there is no repeated exercise heat stress (128).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.vo2max_increase_in_elite_vs_untrained_individuals
+type: Evidence
+canonical_name: V̇O2max Increase in Elite vs. Untrained Individuals
+semantic_type: TrainingAdaptation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Elite athletes may show minor changes in V̇O2max with training (5%-10%), while untrained individuals may increase V̇O2max by as much as 20% (67, 75).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.lactate_threshold_example_performance_impact
+type: Evidence
+canonical_name: Lactate Threshold Example — Performance Impact
+semantic_type: TrainingAdaptation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Two individuals can have the same V̇O2max, perhaps 50 mL · kg−1 · min−1; however, if one has a lactate threshold of 80% of V̇O2max (i.e., threshold occurs at 40 mL · kg−1 · min−1) whereas the other's occurs at 70% (i.e., 35 mL · kg−1 · min−1), the first individual will be able to maintain a power output equivalent to 5 mL · kg−1· min−1 higher than the second individual.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.muscle_fiber_type_shift_with_aerobic_endurance_training
+type: Evidence
+canonical_name: Muscle Fiber Type Shift with Aerobic Endurance Training
+semantic_type: TrainingAdaptation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 356
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Research indicates that after a period of aerobic endurance training such as marathon training, there is a shift toward type I fibers associated with the higher volume of aerobic endurance training.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.aerobic_power_improvement_range
+type: Evidence
+canonical_name: Aerobic Power Improvement Range
+semantic_type: TrainingAdaptation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Aerobic Endurance Training Adaptations"
+  section: "6.2"
+  section_title: "Aerobic Endurance Training Adaptations"
+  book_page: 357
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Aerobic endurance training can improve an athlete's aerobic power by 5% to 30%, depending, in part, on the starting fitness level as well as the genetic potential of the individual (5).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.adaptation_timeline_for_maximal_oxygen_consumption
+type: Evidence

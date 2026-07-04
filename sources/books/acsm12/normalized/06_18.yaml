@@ -1,0 +1,133 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.light
+type: Threshold
+canonical_name: Light Intensity MET Range
+semantic_type: MET Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Testing"
+  section: "6.18"
+  section_title: "Exercise Testing"
+  book_page: 469
+  pdf_page: 469
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.moderate
+
+definition: >
+  Light intensity physical activity is defined as 1.6–2.9 METs.
+
+attributes:
+  - intensity: light
+  - unit: METs
+  - range: "1.6–2.9"
+
+purpose:
+  - classify exercise intensity
+
+related_concepts:
+  - concept.met
+  - concept.exercise_intensity
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.moderate
+type: Threshold
+canonical_name: Moderate Intensity MET Range
+semantic_type: MET Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Testing"
+  section: "6.18"
+  section_title: "Exercise Testing"
+  book_page: 469
+  pdf_page: 469
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.light
+  - predicate: adjacent_to
+    target: threshold.met.vigorous
+
+definition: >
+  Moderate intensity physical activity is defined as 3.0–5.9 METs.
+
+attributes:
+  - intensity: moderate
+  - unit: METs
+  - range: "3.0–5.9"
+
+purpose:
+  - classify exercise intensity
+
+related_concepts:
+  - concept.met
+  - concept.exercise_intensity
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.vigorous
+type: Threshold
+canonical_name: Vigorous Intensity MET Threshold
+semantic_type: MET Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Testing"
+  section: "6.18"
+  section_title: "Exercise Testing"
+  book_page: 469
+  pdf_page: 469
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.moderate
+
+definition: >
+  Vigorous intensity physical activity is defined as ≥6.0 METs.
+
+attributes:
+  - intensity: vigorous
+  - unit: METs
+  - range: "≥6.0"
+
+purpose:
+  - classify exercise intensity
+
+related_concepts:
+  - concept.met
+  - concept.exercise_intensity

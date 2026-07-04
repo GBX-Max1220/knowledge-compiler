@@ -1,0 +1,27 @@
+id: threshold.chronotropic_incompetence
+type: Threshold
+canonical_name: Chronotropic Incompetence (Threshold)
+semantic_type: Exercise ECG Criteria
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Electrocardiogram
+  section: '4.13'
+  section_title: Electrocardiogram
+  book_page: 300
+  pdf_page: 300
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Chronotropic incompetence is defined as failure to achieve ≥85% of the
+  age-predicted maximal heart rate (APMHR) at peak exercise.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

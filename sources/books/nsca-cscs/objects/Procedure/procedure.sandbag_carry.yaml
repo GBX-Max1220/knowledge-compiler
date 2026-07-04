@@ -1,0 +1,96 @@
+id: procedure.sandbag_carry
+type: Procedure
+canonical_name: Sandbag Carry
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Nontraditional Implements
+  section: '17.4'
+  section_title: Nontraditional Implements
+  book_page: 1152
+  pdf_page: 1152
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An exercise that involves carrying a sandbag from a starting position
+  similar to a barbell deadlift, transitioning through a liftoff and full squat position,
+  and then walking with the sandbag held against the chest.
+
+  '
+attributes:
+- requires_sandbag
+- loaded_carry
+purpose:
+- strengthen gastrocnemius
+- strengthen soleus
+- strengthen gluteus maximus
+- strengthen rectus femoris
+- strengthen gluteus medius
+- strengthen erector spinae
+- strengthen internal and external obliques
+related_concepts:
+- concept.sandbag
+- concept.gastrocnemius
+- concept.soleus
+- concept.gluteus_maximus
+- concept.rectus_femoris
+- concept.gluteus_medius
+- concept.erector_spinae
+- concept.internal_and_external_obliques
+steps:
+- phase: Starting Position
+  description: 'Adopt a position just behind the center of the sandbag, similar to
+    the starting position of a barbell deadlift. The sandbag can be positioned length
+    ways in the intended direction of the carry or positioned across the body. Due
+    to the width of the sandbag, it may be necessary to rotate the hips outward, with
+    the elbows inside the knees. Wedge the fingers under the sides of the sandbag
+    so that the hands act as hooks under each side of the sandbag.
+
+    '
+- phase: Liftoff Position
+  description: 'After strongly bracing the spine and ensuring a strong grip on the
+    sandbag, forcibly push the feet into the ground and row the sandbag into your
+    chest. If the sandbag is quite heavy, transition into a full squat position. However,
+    if the sandbag is light to moderately heavy, it may be possible to bypass the
+    full squat position and, via forceful hip extension, stand up from this position
+    and initiate the carrying phase.
+
+    '
+- phase: Full Squat Position
+  description: 'As the sandbag approaches the chest at the end of the liftoff phase,
+    drop the hips rapidly into a deep squat position so that the sandbag is tightly
+    held against the chest and resting on the upper thighs. Once secure and balanced
+    in this position, initiate the concentric phase of the squat movement by vigorously
+    extending the hip and knee joints while continuing to strongly pull the sandbag
+    into the chest. Arms may be kept on the side of or above the sandbag, depending
+    on personal preference.
+
+    '
+- phase: Carrying Phase
+  description: 'From here, adopt a walking movement pattern, initially focusing on
+    performing a series of short, fast steps, which will increase total body balance
+    and stability. When building up speed, increase the length of the steps and further
+    reduce ground contact times. Note: Lean back a little during the walking phase
+    so as not to lose balance forward due to the sandbag positioned in front of the
+    center of mass.
+
+    '
+- phase: Ending Position
+  description: 'After completing the set distance, lean slightly forward and drop
+    the sandbag to the floor.
+
+    '
+muscles_involved:
+- gastrocnemius
+- soleus
+- gluteus maximus
+- rectus femoris
+- gluteus medius
+- erector spinae
+- internal and external obliques

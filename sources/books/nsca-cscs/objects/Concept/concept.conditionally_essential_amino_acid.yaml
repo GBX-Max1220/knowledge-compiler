@@ -1,0 +1,30 @@
+id: concept.conditionally_essential_amino_acid
+type: Concept
+canonical_name: Conditionally Essential Amino Acid
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 548
+  pdf_page: 548
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.amino_acid
+definition: 'Finally, seven amino acids are considered conditionally essential. These
+  amino acids are typically not essential but become essential, and therefore must
+  be obtained through the diet, during times of illness and stress.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,29 @@
+id: concept.type_i_type_iia_and_type_iix_fibers
+type: Concept
+canonical_name: Type I, Type IIa, and Type IIx Fibers
+semantic_type: CellType
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Muscle Fiber Types
+  section_title: Muscle Fiber Types
+  book_page: 58
+  pdf_page: 58
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Regarding muscle fiber classification, histochemical staining for myosin
+  ATPase content was also used for years to classify myofibers as type I (slow-twitch),
+  type IIa (fast-twitch), and type IIx (fast-twitch).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.slow_twitch_and_fast_twitch_muscle_fibers

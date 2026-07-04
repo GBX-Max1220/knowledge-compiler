@@ -1,0 +1,33 @@
+# ontology: knowledge-compiler/v1
+# Section: 3.17 — CRF Test Sequence and Measures
+# Pages: 202–205
+
+---
+id: table.borg_rpe_scale
+type: Concept
+canonical_name: Borg Rating of Perceived Exertion Scale
+semantic_type: Entity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "3.17"
+  section_title: "CRF Test Sequence and Measures"
+  book_page: 205
+  pdf_page: 205
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+definition: "6: No exertion, 7: Extremely light, 8, 9: Very light, 10, 11: Light, 12, 13: Somewhat hard, 14, 15: Hard (heavy), 16, 17: Very hard, 18, 19: Extremely hard, 20: Maximal exertion."
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,29 @@
+id: concept.athletic_profile
+type: Concept
+canonical_name: Athletic Profile
+semantic_type: Assessment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Athletic Performance
+  section: '14.1'
+  section_title: Developing an Athletic Profile
+  book_page: 825
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'To determine the sport-specific training status of an athlete, the strength
+  and conditioning professional can combine the results of selected tests to generate
+  an athletic profile, which is a group of test results related to sport-specific
+  abilities that are important for quality performance in a sport or sport position.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,28 @@
+id: recommendation.exercise_timing_and_insulin_adjustment
+type: Recommendation
+canonical_name: Exercise Timing and Insulin Adjustment
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Exercise Prescription for Special Populations
+  section: '9.21'
+  section_title: Special Considerations
+  book_page: 746
+  pdf_page: 746
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Individuals should be advised to avoid exercise during periods of peak
+  insulin action. Insulin adjustments may be necessary to prevent hypoglycemia. The
+  timing of exercise relative to meals and insulin administration should be individualized.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

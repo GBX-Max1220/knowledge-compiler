@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.depression
+type: Concept
+canonical_name: Depression
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.10"
+  section_title: "Depression"
+  book_page: 973
+  pdf_page: 973
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Depression is a common and serious medical illness that negatively affects how you feel, the way you think, and how you act.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

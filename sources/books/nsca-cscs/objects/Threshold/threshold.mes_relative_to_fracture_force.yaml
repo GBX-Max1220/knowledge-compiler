@@ -1,0 +1,33 @@
+id: threshold.mes_relative_to_fracture_force
+type: Threshold
+canonical_name: MES Relative to Fracture Force
+semantic_type: Biological
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 311
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.minimal_essential_strain
+definition: ''
+threshold_type: ratio
+value: 1/10
+unit: ''
+comparator: approximately
+range: ''
+context: 'The MES is thought to be approximately 1/10 of the force required to fracture
+  bone.
+
+  '
+adjacent_to: []

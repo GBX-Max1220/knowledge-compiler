@@ -1,0 +1,81 @@
+id: concept.conduction_system
+type: Concept
+canonical_name: Conduction System
+semantic_type: Anatomical System
+aliases:
+- specialized electrical conduction system
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Cardiovascular System — Heart — Conduction System
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.heart
+- predicate: has_attribute
+  target: concept.sinoatrial_sa_node
+- predicate: has_attribute
+  target: concept.internodal_pathways
+- predicate: has_attribute
+  target: concept.atrioventricular_av_node
+- predicate: has_attribute
+  target: concept.atrioventricular_av_bundle
+- predicate: has_attribute
+  target: concept.left_bundle_branch
+- predicate: has_attribute
+  target: concept.right_bundle_branch
+- predicate: has_attribute
+  target: concept.purkinje_fibers
+definition: 'A specialized electrical conduction system (figure 1.12) controls the
+  mechanical contraction of the heart. The conduction system is composed of the sinoatrial
+  (SA) node —the intrinsic pacemaker—where rhythmic electrical impulses are normally
+  initiated; the internodal pathways that conduct the impulse from the SA node to
+  the atrioventricular node; the atrioventricular (AV) node, where the impulse is
+  delayed slightly before passing into the ventricles; the atrioventricular (AV) bundle,
+  which conducts the impulse to the ventricles; and the left bundle branch and right
+  bundle branch, which further divide into the Purkinje fibers and conduct impulses
+  to all parts of the ventricles. The SA node is a small area of specialized muscle
+  tissue located in the upper lateral wall of the right atrium. The fibers of the
+  node are contiguous with the muscle fibers of the atrium, with the result that each
+  electrical impulse that begins in the SA node normally spreads immediately into
+  the atria. The conductive system is organized so that the impulse does not travel
+  into the ventricles too rapidly, allowing time for the atria to contract and empty
+  blood into the ventricles before ventricular contraction begins. It is primarily
+  the AV node and its associated conductive fibers that delay each impulse entering
+  into the ventricles. The AV node is located in the posterior septal wall of the
+  right atrium (41). The left and right bundle branches lead from the AV bundle into
+  the ventricles. Except for their initial portion, where they penetrate the AV barrier,
+  these conduction fibers have functional characteristics quite opposite those of
+  the AV nodal fibers. They are large and transmit impulses at a much higher velocity
+  than the AV nodal fibers. Because these fibers give way to the Purkinje fibers,
+  which more completely penetrate the ventricles, the impulse travels quickly throughout
+  the entire ventricular system and causes both ventricles to contract at approximately
+  the same time (41). The SA node normally controls heart rhythmicity because its
+  discharge rate is considerably greater (60-80 times per minute) than that of either
+  the AV node (40-60 times per minute) or the ventricular fibers (15-40 times per
+  minute). Each time the SA node discharges, its impulse is conducted into the AV
+  node and the ventricular fibers, discharging their excitable membranes. Thus, these
+  potentially self-excitatory tissues are discharged before self-excitation can actually
+  occur.
+
+  '
+attributes:
+- sinoatrial (SA) node
+- internodal pathways
+- atrioventricular (AV) node
+- atrioventricular (AV) bundle
+- left bundle branch
+- right bundle branch
+- Purkinje fibers
+purpose:
+- control mechanical contraction of the heart
+related_concepts: []

@@ -1,0 +1,27 @@
+id: concept.difference_score
+type: Concept
+canonical_name: Difference Score
+semantic_type: Statistical Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.3'
+  section_title: Statistical Evaluation of Test Data
+  book_page: 821
+  pdf_page: 821
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A difference score is the difference between an athlete''s score at the
+  beginning and end of a training period or between any two separate testing times.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

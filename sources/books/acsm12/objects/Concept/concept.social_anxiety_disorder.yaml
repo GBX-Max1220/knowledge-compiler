@@ -1,0 +1,31 @@
+id: concept.social_anxiety_disorder
+type: Concept
+canonical_name: Social Anxiety Disorder
+semantic_type: Disorder
+aliases:
+- Social Phobia
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise for Special Populations
+  section: '11.9'
+  section_title: Anxiety
+  book_page: 972
+  pdf_page: 972
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.anxiety_disorders
+definition: 'Social anxiety disorder (social phobia) is characterized by marked fear
+  or anxiety about social situations in which the individual is exposed to possible
+  scrutiny by others.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

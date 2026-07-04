@@ -1,0 +1,40 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.general_exercise_recommendations_for_healthy_populations
+type: Recommendation
+canonical_name: General Exercise Recommendations for Healthy Populations
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: ""
+  section: "6.10"
+  section_title: "Special Considerations"
+  book_page: 452
+  pdf_page: 452
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The general recommendations for exercise prescription for healthy populations are provided in Chapter 6. However, special considerations may be necessary for certain populations, including children and adolescents, pregnant and postpartum women, and older adults. These special considerations are addressed in the following sections.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.exercise_prescription
+  - concept.children_and_adolescents
+  - concept.pregnant_and_postpartum_women
+  - concept.older_adults
+---

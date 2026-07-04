@@ -1,0 +1,33 @@
+id: recommendation.static_stretching_guidelines_and_precautions
+type: Recommendation
+canonical_name: Static Stretching Guidelines and Precautions
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 895
+  pdf_page: 895
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Get into a position that facilitates relaxation. Move to the point in
+  the ROM where you experience a sensation of mild discomfort. If performing partner-assisted
+  PNF stretching, communicate clearly with your partner. Hold stretches for 15 to
+  30 seconds. Repeat unilateral stretches on both sides. Decrease stretch intensity
+  if you experience pain, radiating symptoms, or loss of sensation. Use caution when
+  stretching a hypermobile joint. Avoid combination movements that involve the spine
+  (e.g., extension and lateral flexion). Stabilizing muscles should be active to protect
+  other joints and prevent unwanted movements.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

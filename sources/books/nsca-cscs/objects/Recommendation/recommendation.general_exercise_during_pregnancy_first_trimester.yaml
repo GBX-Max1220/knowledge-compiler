@@ -1,0 +1,31 @@
+id: recommendation.general_exercise_during_pregnancy_first_trimester
+type: Recommendation
+canonical_name: General Exercise Recommendations During Pregnancy — First Trimester
+semantic_type: ExerciseRecommendation
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 8
+  chapter_title: Sex-Related Differences and Their Implications for Resistance Training
+  section: '8.1'
+  section_title: Sex-Related Differences and Their Implications for Resistance Training
+  book_page: 443
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Continue activity at prepregnancy levels and intensities but
+  monitor for adverse signs and symptoms. Misinterpretation of maximum heart rate,
+  reaching it sooner in pregnancy. Use combined approach of heart rate and perceived
+  exertion to monitor intensity. Initiate pelvic floor exercises to assist in labor
+  and delivery and help with urinary incontinence. Increase squatting activities with
+  body weight and loaded to maintain strength and improve labor and delivery. Increase
+  water intake.
+
+  '
+rationale: []
+target_population: Pregnant females in the first trimester

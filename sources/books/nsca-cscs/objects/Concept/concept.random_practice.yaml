@@ -1,0 +1,29 @@
+id: concept.random_practice
+type: Concept
+canonical_name: Random Practice
+semantic_type: Practice Schedule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.6'
+  section_title: Psychological Techniques
+  book_page: 526
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.practice_schedule
+definition: 'In random practice, multiple skills are practiced in a random order during
+  a given practice session.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

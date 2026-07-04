@@ -1,0 +1,28 @@
+id: concept.acetylcholine
+type: Concept
+canonical_name: Acetylcholine
+semantic_type: Molecule
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 56
+  pdf_page: 56
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A neurotransmitter that is secreted at each of the neuromuscular junctions
+  contained within the motor unit.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.neuromuscular_junction

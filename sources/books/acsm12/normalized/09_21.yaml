@@ -1,0 +1,287 @@
+# ontology: knowledge-compiler/v1
+
+id: warning.special_considerations_exercise_diabetes_foot_care
+type: Warning
+canonical_name: Special Considerations for Exercise in Individuals with Diabetes
+semantic_type: Clinical Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.21"
+  section_title: "Special Considerations"
+  book_page: 746
+  pdf_page: 746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with diabetes should be educated about the appropriate foot care to prevent and/or treat foot problems. Proper footwear is essential to prevent foot injury. Individuals with diabetes should inspect their feet daily for blisters, redness, or other signs of irritation. If foot problems are present, non-weight-bearing exercise is recommended.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.hypoglycemia_risk_during_exercise
+type: Warning
+canonical_name: Hypoglycemia Risk During Exercise
+semantic_type: Clinical Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.21"
+  section_title: "Special Considerations"
+  book_page: 746
+  pdf_page: 746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals taking insulin or insulin secretagogues are at increased risk for hypoglycemia during and after exercise. To reduce the risk of hypoglycemia, individuals should monitor their blood glucose before, during, and after exercise. If blood glucose is <100 mg·dL⁻¹ (5.6 mmol·L⁻¹), additional carbohydrate intake may be needed before exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.hyperglycemia_and_ketosis_risk
+type: Warning
+canonical_name: Hyperglycemia and Ketosis Risk
+semantic_type: Clinical Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.21"
+  section_title: "Special Considerations"
+  book_page: 746
+  pdf_page: 746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise should be avoided if blood glucose is >250 mg·dL⁻¹ (13.9 mmol·L⁻¹) and ketones are present, or if blood glucose is >300 mg·dL⁻¹ (16.7 mmol·L⁻¹) without ketones.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_timing_and_insulin_adjustment
+type: Recommendation
+canonical_name: Exercise Timing and Insulin Adjustment
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.21"
+  section_title: "Special Considerations"
+  book_page: 746
+  pdf_page: 746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals should be advised to avoid exercise during periods of peak insulin action. Insulin adjustments may be necessary to prevent hypoglycemia. The timing of exercise relative to meals and insulin administration should be individualized.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.cardiovascular_autonomic_neuropathy_considerations
+type: Warning
+canonical_name: Cardiovascular Autonomic Neuropathy Considerations
+semantic_type: Clinical Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.21"
+  section_title: "Special Considerations"
+  book_page: 746
+  pdf_page: 746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with cardiovascular autonomic neuropathy may have an attenuated heart rate response to exercise, blunted blood pressure response, and impaired thermoregulation. These individuals should be monitored closely during exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.retinopathy_and_exercise_precautions
+type: Warning
+canonical_name: Retinopathy and Exercise Precautions
+semantic_type: Clinical Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.21"
+  section_title: "Special Considerations"
+  book_page: 746
+  pdf_page: 746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In individuals with proliferative or severe nonproliferative diabetic retinopathy, vigorous aerobic or resistance exercise may increase the risk of vitreous hemorrhage or retinal detachment. Such individuals should avoid activities that involve straining, Valsalva maneuver, or jarring.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.peripheral_neuropathy_and_weight_bearing_exercise
+type: Recommendation
+canonical_name: Peripheral Neuropathy and Weight-Bearing Exercise
+semantic_type: Clinical Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.21"
+  section_title: "Special Considerations"
+  book_page: 746
+  pdf_page: 746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with peripheral neuropathy and loss of protective sensation should avoid prolonged weight-bearing exercise and consider non-weight-bearing activities such as swimming, cycling, or arm ergometry.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.nephropathy_and_exercise_intensity
+type: Warning
+canonical_name: Nephropathy and Exercise Intensity
+semantic_type: Clinical Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "9.21"
+  section_title: "Special Considerations"
+  book_page: 746
+  pdf_page: 746
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with diabetic nephropathy should avoid high-intensity exercise that causes a significant increase in blood pressure. Exercise intensity should be moderate, and blood pressure should be monitored.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

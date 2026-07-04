@@ -1,0 +1,759 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.physical_activity
+type: Concept
+canonical_name: Physical Activity
+semantic_type: Activity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Bodily movement produced by the contraction of skeletal muscle that
+  substantially increases energy expenditure.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise
+type: Concept
+canonical_name: Exercise
+semantic_type: Activity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.physical_activity
+
+definition: >
+  A type of PA consisting of planned, structured, and
+  repetitive bodily movement done to improve and/or
+  maintain one or more components of physical fitness.
+
+attributes:
+  - planned
+  - structured
+  - repetitive
+
+purpose:
+  - improve physical fitness
+  - maintain physical fitness
+
+related_concepts:
+  - concept.physical_fitness
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.physical_fitness
+type: Concept
+canonical_name: Physical Fitness
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A set of attributes or characteristics individuals have or achieve
+  that relate to their ability to perform physical activity.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.health_related_physical_fitness
+type: Concept
+canonical_name: Health-Related Physical Fitness
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.physical_fitness
+
+definition: >
+  Components of physical fitness that have a relationship with good health.
+
+attributes:
+  - cardiorespiratory endurance
+  - body composition
+  - muscular strength
+  - muscular endurance
+  - flexibility
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cardiorespiratory_endurance
+type: Concept
+canonical_name: Cardiorespiratory Endurance
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+
+definition: >
+  The ability of the circulatory and respiratory systems to supply
+  oxygen during sustained physical activity.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.body_composition
+type: Concept
+canonical_name: Body Composition
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+
+definition: >
+  The relative amounts of muscle, fat, bone, and other vital parts of the body.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscular_strength
+type: Concept
+canonical_name: Muscular Strength
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+
+definition: >
+  The ability of muscle to exert force.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscular_endurance
+type: Concept
+canonical_name: Muscular Endurance
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+
+definition: >
+  The ability of muscle to continue to perform without fatigue.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.flexibility
+type: Concept
+canonical_name: Flexibility
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.health_related_physical_fitness
+
+definition: >
+  The range of motion available at a joint.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.skill_related_physical_fitness
+type: Concept
+canonical_name: Skill-Related Physical Fitness
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.physical_fitness
+
+definition: >
+  Components of physical fitness that have a relationship with enhanced
+  sports performance.
+
+attributes:
+  - agility
+  - balance
+  - coordination
+  - speed
+  - power
+  - reaction time
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.agility
+type: Concept
+canonical_name: Agility
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.skill_related_physical_fitness
+
+definition: >
+  The ability to change the position of the body in space with speed and accuracy.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.balance
+type: Concept
+canonical_name: Balance
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.skill_related_physical_fitness
+
+definition: >
+  The maintenance of equilibrium while stationary or moving.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.coordination
+type: Concept
+canonical_name: Coordination
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.skill_related_physical_fitness
+
+definition: >
+  The ability to use the senses, such as sight and hearing, together with
+  body parts in performing motor tasks smoothly and accurately.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.speed
+type: Concept
+canonical_name: Speed
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.skill_related_physical_fitness
+
+definition: >
+  The ability to perform a movement within a short period of time.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.power
+type: Concept
+canonical_name: Power
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.skill_related_physical_fitness
+
+definition: >
+  The ability or rate at which one can perform work.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.reaction_time
+type: Concept
+canonical_name: Reaction Time
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.skill_related_physical_fitness
+
+definition: >
+  The time elapsed between stimulation and the beginning of the reaction to it.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.light
+type: Threshold
+canonical_name: Light-Intensity MET Threshold
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.moderate
+
+definition: >
+  Light-intensity PA is defined as 1.6–2.9 METs.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+threshold_type: MET
+value: "1.6–2.9"
+unit: METs
+comparison: range
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.moderate
+type: Threshold
+canonical_name: Moderate-Intensity MET Threshold
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.light
+  - predicate: adjacent_to
+    target: threshold.met.vigorous
+
+definition: >
+  Moderate-intensity PA is defined as 3.0–5.9 METs.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+threshold_type: MET
+value: "3.0–5.9"
+unit: METs
+comparison: range
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.met.vigorous
+type: Threshold
+canonical_name: Vigorous-Intensity MET Threshold
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.2"
+  section_title: "Physical Activity and Fitness Terminology"
+  book_page: 70
+  pdf_page: 70
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.met.moderate
+
+definition: >
+  Vigorous-intensity PA is defined as ≥6.0 METs.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+threshold_type: MET
+value: "≥6.0"
+unit: METs
+comparison: greater_than_or_equal
+---

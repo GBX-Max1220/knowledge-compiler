@@ -1,0 +1,32 @@
+id: concept.formative_evaluation
+type: Concept
+canonical_name: Formative Evaluation
+semantic_type: Process
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 13
+  chapter_title: Principles of Test Selection and Administration
+  section: '13.1'
+  section_title: Principles of Test Selection and Administration
+  book_page: 734
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Periodic reevaluation based on midtests administered during the training,
+  usually at regular intervals (2). It enables monitoring of the athlete''s progress
+  and adjustment of the training program according to the athlete''s individual needs.
+  It also allows evaluation of different training methods and collection of normative
+  data. Regular modification of the training program based on formative evaluation
+  keeps the training program fresh and interesting and helps avoid physical and mental
+  staleness.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,27 @@
+id: threshold.arterial_hemoglobin_oxygen_saturation_at_sea_level
+type: Threshold
+canonical_name: Arterial Hemoglobin Oxygen Saturation at Sea Level
+semantic_type: null
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Factors Influencing Adaptations
+  section: '6.3'
+  section_title: Factors Influencing Adaptations
+  book_page: 374
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'the breathing of ambient air at sea level by healthy people results in
+  arterial hemoglobin oxygen saturation between 95% to 98%.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

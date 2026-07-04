@@ -1,0 +1,35 @@
+id: recommendation.exercise_program_duration_for_anxiety
+type: Recommendation
+canonical_name: Exercise Program Duration for Anxiety
+semantic_type: Treatment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise for Special Populations
+  section: '11.9'
+  section_title: Anxiety
+  book_page: 972
+  pdf_page: 972
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_for_anxiety_disorders
+recommendation_text: 'A minimum of 8–12 weeks of exercise training is recommended
+  to achieve clinically meaningful reductions in anxiety symptoms.
+
+  '
+rationale: ''
+population: ''
+modality: ''
+intensity: ''
+frequency: ''
+duration: ''
+volume: ''
+progression: ''
+special_considerations: []

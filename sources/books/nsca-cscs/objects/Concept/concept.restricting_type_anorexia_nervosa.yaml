@@ -1,0 +1,29 @@
+id: concept.restricting_type_anorexia_nervosa
+type: Concept
+canonical_name: Restricting Type Anorexia Nervosa
+semantic_type: Subtype
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 652
+  pdf_page: 652
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.anorexia_nervosa
+definition: 'The restricting type does not regularly binge eat or purge, while the
+  binge-eating or purging type regularly engages in binge eating or purging.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

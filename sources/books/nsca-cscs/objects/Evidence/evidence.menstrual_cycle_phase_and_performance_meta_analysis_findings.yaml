@@ -1,0 +1,31 @@
+id: evidence.menstrual_cycle_phase_and_performance_meta_analysis_findings
+type: Evidence
+canonical_name: Menstrual Cycle Phase and Performance — Meta-Analysis Findings
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.3'
+  section_title: Resistance Training Considerations
+  book_page: 460
+  pdf_page: 460
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The most recent evidence on menstrual cycle and performance from meta-analyses
+  did not conclude any systematic relationship between performance and menstrual cycle
+  phase in trained female athletes (38, 50, 111, 112). Other considerations are necessary
+  to consider, such as varying menstrual cycle symptoms among female athletes and
+  the effect on their sleep and recovery during all stages of the menstrual cycle
+  (110).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

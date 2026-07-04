@@ -1,0 +1,223 @@
+# ontology: knowledge-compiler/v1
+# Section: 1.3 — Public Health Perspective for Current Recommendations
+# Source: ACSM's Guidelines for Exercise Testing and Prescription, 12th Ed.
+# Pages: 75–81
+
+---
+id: recommendation.acsm_aha_primary_pa_2007
+type: Recommendation
+canonical_name: ACSM-AHA Primary Physical Activity Recommendation
+semantic_type: Guideline
+aliases:
+  - 2007 ACSM-AHA Recommendation
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.3"
+  section_title: "Public Health Perspective for Current Recommendations"
+  book_page: 75
+  pdf_page: 75
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: references
+    target: concept.physical_activity
+
+population: "Healthy adults aged 18–65 years"
+goal: "Health benefits from physical activity"
+dosage: >
+  Moderate-intensity aerobic PA: minimum 30 minutes on 5 d · wk⁻¹,
+  OR vigorous-intensity aerobic activity: minimum 20 minutes on 3 d · wk⁻¹.
+  Combinations of moderate- and vigorous-intensity exercise can be combined.
+  Moderate-intensity activity can be accumulated in bouts of ≥10 minutes.
+  Additionally, activities that maintain or increase muscular strength
+  and endurance for a minimum of 2 d · wk⁻¹.
+evidence_grade: ""
+evidence_reference: "(3)"
+---
+id: recommendation.pag_acsa_primary_2018
+type: Recommendation
+canonical_name: Physical Activity Guidelines for Americans Primary Recommendation
+semantic_type: Guideline
+aliases:
+  - 2018 PAG Recommendation
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.3"
+  section_title: "Public Health Perspective for Current Recommendations"
+  book_page: 78
+  pdf_page: 78
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: references
+    target: concept.physical_activity
+
+population: "Adults"
+goal: "Substantial health benefits from physical activity"
+dosage: >
+  At least 150–300 min · wk⁻¹ of moderate-intensity OR 75–150 min · wk⁻¹
+  of vigorous-intensity aerobic physical activity, or equivalent combination.
+  Aerobic activity should be spread throughout the week.
+  Additional benefits beyond 300 min · wk⁻¹ moderate-intensity equivalent.
+  Muscle strengthening activities of moderate or greater intensity involving
+  all major muscle groups on 2 or more d · wk⁻¹.
+evidence_grade: ""
+evidence_reference: "(6)"
+---
+id: recommendation.bout_duration_elimination_2018
+type: Recommendation
+canonical_name: Bout Duration Requirement Elimination
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.3"
+  section_title: "Public Health Perspective for Current Recommendations"
+  book_page: 78
+  pdf_page: 78
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+population: "Adults"
+goal: "Allow any duration of PA to count toward recommendations"
+dosage: >
+  Elimination of the ≥10-minute bout requirement. Bouts of PA less
+  than 10 minutes are now recognized as providing favorable health outcomes.
+evidence_grade: ""
+evidence_reference: "(6, 16)"
+---
+id: recommendation.pa_weight_management
+type: Recommendation
+canonical_name: PA Beyond Minimum for Weight Management
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.3"
+  section_title: "Public Health Perspective for Current Recommendations"
+  book_page: 79
+  pdf_page: 79
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+population: "Adults seeking to manage or prevent weight gain and obesity"
+goal: "Prevent or reverse weight gain and/or obesity"
+dosage: >
+  PA beyond the minimum recommendations combined with proper nutrition.
+evidence_grade: ""
+evidence_reference: "(17, 19)"
+---
+id: evidence.pa_cvd_dose_response
+type: Concept
+canonical_name: PA-CVD Dose-Response Evidence
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.3"
+  section_title: "Public Health Perspective for Current Recommendations"
+  book_page: 79
+  pdf_page: 79
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A meta-analysis of 23 sex-specific cohorts representing 1,325,004
+  person-years of follow-up showed a strong inverse dose-response
+  relationship between PA and risk for CVD independent of baseline
+  levels of PA or CRF.
+
+attributes: []
+purpose: []
+related_concepts:
+  - concept.physical_activity
+---
+id: recommendation.pa_any_intensity_benefits
+type: Recommendation
+canonical_name: Any Intensity PA Provides Benefits for Inactive
+semantic_type: Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "1.3"
+  section_title: "Public Health Perspective for Current Recommendations"
+  book_page: 77
+  pdf_page: 77
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+population: "Inactive adults"
+goal: "Health benefits"
+dosage: >
+  PA of any intensity (light, moderate, or vigorous) can provide
+  health benefits for those who are inactive. Health benefits can
+  be experienced following just a single bout of moderate-to-vigorous
+  physical activity (MVPA). Any bout of MVPA, regardless of duration,
+  can be included when quantifying daily or weekly volumes of PA.
+evidence_grade: ""
+evidence_reference: "(16)"
+---

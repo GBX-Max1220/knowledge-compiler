@@ -1,0 +1,29 @@
+id: recommendation.demonstration_of_test_performance
+type: Recommendation
+canonical_name: Demonstration of Test Performance
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 759
+  pdf_page: 759
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'As an important supplement to reading test instructions aloud, the test
+  administrator or a competent assistant should demonstrate proper test performance
+  when possible.
+
+  '
+attributes: []
+purpose:
+- supplement reading test instructions aloud
+related_concepts: []

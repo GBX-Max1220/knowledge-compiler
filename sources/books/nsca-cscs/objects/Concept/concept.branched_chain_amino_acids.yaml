@@ -1,0 +1,29 @@
+id: concept.branched_chain_amino_acids
+type: Concept
+canonical_name: Branched-Chain Amino Acids
+semantic_type: Substance
+aliases:
+- BCAAs
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 700
+  pdf_page: 700
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Prior work in animal models further identified that of the eight EAAs,
+  it is the branched-chain amino acids (BCAAs) —isoleucine, leucine, and valine—that
+  are responsible for increasing muscle protein synthesis (83).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

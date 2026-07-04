@@ -1,0 +1,27 @@
+id: concept.caffeine
+type: Concept
+canonical_name: Caffeine
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Performance-Enhancing Substances and Methods
+  section: '12.1'
+  section_title: Performance-Enhancing Substances and Methods
+  book_page: 718
+  pdf_page: 718
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Caffeine is a multifaceted supplement used in athletics and is popular
+  among both aerobic endurance and resistance training athletes.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

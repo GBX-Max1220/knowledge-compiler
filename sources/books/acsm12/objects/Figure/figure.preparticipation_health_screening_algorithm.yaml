@@ -1,0 +1,30 @@
+id: figure.preparticipation_health_screening_algorithm
+type: Figure
+canonical_name: Preparticipation Health Screening Algorithm (Figure)
+semantic_type: Algorithm
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Health Screening
+  section: '2.6'
+  section_title: Algorithm Components
+  book_page: 139
+  pdf_page: 139
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Figure 2.1: Preparticipation Health Screening Algorithm
+
+  '
+attributes: []
+purpose:
+- guide preparticipation health screening decisions
+related_concepts:
+- threshold.risk.low
+- threshold.risk.moderate
+- threshold.risk.high

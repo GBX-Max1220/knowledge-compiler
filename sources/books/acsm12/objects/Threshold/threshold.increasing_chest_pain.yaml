@@ -1,0 +1,11 @@
+id: threshold.increasing_chest_pain
+type: Threshold
+canonical_name: Increasing Chest Pain
+semantic_type: Entity
+source:
+  book: ACSM Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  section: '1.0'
+  book_page: 1
+definition: Increasing Chest Pain is a concept in exercise science.

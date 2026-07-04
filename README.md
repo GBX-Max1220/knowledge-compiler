@@ -1,18 +1,22 @@
 ﻿# Knowledge Compiler
 
-**Compile expert textbooks into typed, validated, machine-readable knowledge objects that power deterministic AI Skills.**
+**A deterministic knowledge layer for AI agents.**
+
+Knowledge Compiler transforms expert textbooks into **Knowledge IR** — a typed, validated,
+backend-independent intermediate representation that decouples knowledge extraction from consumption.
 
 ```
-PDF → Compiler → Objects → Registry → Skill → Agent → Evaluation
+Source → Knowledge IR → Target Backend (YAML / Neo4j / RDF / Skill / MCP)
 ```
 
 Most AI systems that use textbooks do one of two things:
 - **RAG** — retrieve chunks of raw text. Fast but unstructured. No guarantees on what the model will find.
 - **Fine-tuning** — expensive, opaque, hard to update.
 
-This is a third path: **compile textbooks into typed, validated, machine-readable knowledge objects** that an agent can query directly.
+This is a third path: **compile knowledge into a deterministic, auditable, composable intermediate representation** that an agent can query directly.
 
-> **Example source:** ACSM's *Guidelines for Exercise Testing and Prescription*, 12th Ed. (Chapters 1–3)
+> **Current sources:** ACSM 12th Ed. (707 objects) + NSCA-CSCS 5th Ed. (1598 objects)
+> **Total: 2305 validated Knowledge IR nodes**
 
 ---
 
@@ -41,7 +45,8 @@ Not a chunk. Not a guess. **A typed decision chain with page-level citations.**
 ```python
 from knowledge_compiler import Skill
 
-skill = Skill("books/acsm12")
+# Load compiled Knowledge IR
+skill = Skill("sources/books/acsm12")
 
 # Safety check — what signs suggest I should see a doctor?
 warnings = skill.get("warning.signs_symptoms_cv_disease")
@@ -92,6 +97,21 @@ Every query returns an **object** — typed, sourced, validated — not generate
 
 ---
 
+## Why Knowledge IR?
+
+Knowledge Compiler addresses four fundamental problems that RAG and fine-tuning cannot solve:
+
+| Problem | RAG | Fine-tuning | **Knowledge IR** |
+|---------|-----|-------------|----------------|
+| **Determinism** | ❌ Same query, different answer | ❌ Same input, same weights | ✅ Same query, same objects, same result |
+| **Auditability** | ❌ Chunk-level at best | ❌ Source forgotten | ✅ Page-level citation on every fact |
+| **Composability** | ❌ Retrieval only | ❌ Static | ✅ Object → Agent → Workflow |
+| **Maintainability** | ❌ Re-embed entire corpus | ❌ Re-train entire model | ✅ Add/remove one object |
+
+These properties do not depend on model context window size. Even with infinite context, a deterministic, auditable, composable knowledge layer provides guarantees that probabilistic retrieval cannot.
+
+---
+
 ## How it's different
 
 | | RAG | Fine-tuning | RAG + Knowledge Compiler |
@@ -112,6 +132,8 @@ Knowledge Compiler is a **complement to RAG, not a replacement**. The typed obje
 
 Every object passes 5 layers. Validation is **deterministic and fully automated** — no LLM judges, no probabilistic scoring.
 
+> 📖 See [`docs/knowledge-ir.md`](docs/knowledge-ir.md) for the formal definition of Knowledge IR.
+
 1. **Syntax** — YAML parses, required fields exist
 2. **Schema** — type-specific fields complete (Threshold has `range`, Procedure has `steps`)
 3. **Ontology** — all relationship targets resolve, predicates are in allowlist
@@ -126,17 +148,18 @@ Every object passes 5 layers. Validation is **deterministic and fully automated*
 
 ```
 knowledge-compiler/
-├── ontology_spec.md          # Language spec for the compiler
+├── ontology_spec.md          # Language spec for the Knowledge IR
 ├── schema/                   # Type definitions (8 files)
 ├── prompts/                  # Pipeline prompts (6 files)
 ├── scripts/                  # Automation
 ├── compiler/                 # CLI + task queue + provider abstraction
-├── books/acsm12/
-│   ├── objects/              # 74 validated objects ← core asset
-│   ├── skill/                # Agent skill definition + evaluation set
-│   ├── registry.yaml         # Canonical name → ID mapping
-│   └── validation/           # 5-layer validation report
-├── docs/                     # Pipeline + schema + ontology docs
+├── sources/                  # Source documents compiled into IR
+│   └── books/                # Textbook sources
+│       ├── acsm12/           # 707 IR nodes (12 chapters)
+│       └── nsca-cscs/        # 1598 IR nodes (26 chapters)
+│   (future: papers/ guidelines/ wiki/)
+├── knowledge_compiler/       # Skill API for querying compiled IR
+├── docs/                     # Pipeline + schema + ontology + IR docs
 └── releases/                 # Release plans
 ```
 

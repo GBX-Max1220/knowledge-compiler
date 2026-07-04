@@ -1,0 +1,27 @@
+id: concept.periodization
+type: Concept
+canonical_name: Periodization
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1579
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The process of organizing these programming strategies is generally referred
+  to as periodization.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

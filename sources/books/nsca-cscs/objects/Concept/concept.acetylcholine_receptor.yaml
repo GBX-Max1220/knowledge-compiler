@@ -1,0 +1,29 @@
+id: concept.acetylcholine_receptor
+type: Concept
+canonical_name: Acetylcholine Receptor
+semantic_type: Molecule
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 56
+  pdf_page: 56
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Receptors present on the sarcolemma of muscle fibers that are activated
+  by secreted acetylcholine.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.sarcolemma
+- concept.acetylcholine

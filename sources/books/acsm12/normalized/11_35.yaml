@@ -1,0 +1,63 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.exercise_testing_neurologic
+type: Procedure
+canonical_name: Exercise Testing for Individuals with Neurologic Diseases, Conditions, and Disorders
+semantic_type: Clinical Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Testing for Individuals with Neurologic Diseases, Conditions, and Disorders"
+  section: "11.35"
+  section_title: "Exercise Testing"
+  book_page: 1023
+  pdf_page: 1023
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: procedure.exercise_testing
+
+definition: >
+  Exercise testing for individuals with neurologic diseases, conditions, and disorders should follow the general guidelines for exercise testing as described in Chapter 4. However, special considerations are necessary for this population. The mode of testing should be appropriate for the individual's functional capacity and neurologic deficit. For example, a treadmill or cycle ergometer may be used for ambulatory individuals, whereas a cycle ergometer or arm ergometer may be used for individuals with lower extremity impairments. For individuals with significant balance or coordination problems, a recumbent cycle ergometer or a seated stepper may be more appropriate. The testing protocol should be individualized and may need to be modified to accommodate the individual's specific limitations. The exercise test should be supervised by a qualified health care professional with experience in working with individuals with neurologic conditions. The test should be terminated according to the absolute and relative indications for terminating an exercise test as described in Chapter 4. Additionally, the test should be terminated if the individual experiences any neurologic symptoms such as dizziness, lightheadedness, or worsening of neurologic symptoms.
+
+attributes:
+  - individualized
+  - modified
+
+purpose:
+  - assess functional capacity
+  - assess neurologic deficit
+
+related_concepts:
+  - concept.neurologic_disease
+  - concept.neurologic_condition
+  - concept.neurologic_disorder
+  - concept.functional_capacity
+  - concept.neurologic_deficit
+  - concept.balance_problem
+  - concept.coordination_problem
+  - concept.dizziness
+  - concept.lightheadedness
+  - concept.worsening_neurologic_symptoms
+
+steps:
+  - step: "Select appropriate mode of testing based on individual's functional capacity and neurologic deficit."
+    details: "For ambulatory individuals, a treadmill or cycle ergometer may be used. For individuals with lower extremity impairments, a cycle ergometer or arm ergometer may be used. For individuals with significant balance or coordination problems, a recumbent cycle ergometer or a seated stepper may be more appropriate."
+  - step: "Individualize and modify the testing protocol to accommodate the individual's specific limitations."
+    details: ""
+  - step: "Supervise the exercise test by a qualified health care professional with experience in working with individuals with neurologic conditions."
+    details: ""
+  - step: "Terminate the test according to the absolute and relative indications for terminating an exercise test as described in Chapter 4."
+    details: ""
+  - step: "Terminate the test if the individual experiences any neurologic symptoms such as dizziness, lightheadedness, or worsening of neurologic symptoms."
+    details: ""

@@ -1,0 +1,34 @@
+id: threshold.slow_ssc_vs_fast_ssc_ground_contact_time
+type: Threshold
+canonical_name: Slow SSC vs. Fast SSC Ground Contact Time
+semantic_type: Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: 'Chapter 19: Program Design and Technique for Plyometric Training — Stretch-Shortening
+    Cycle'
+  section_title: Stretch-Shortening Cycle
+  book_page: 1267
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: concept.slow_ssc
+- predicate: adjacent_to
+  target: concept.fast_ssc
+definition: 'To this end, Schmidtbleicher (56) categorized plyometric activities as
+  either slow SSC (>0.25 s) or fast SSC (<0.25 s), depending on their ground contact
+  time.
+
+  '
+value: 0.25 s
+unit: seconds
+comparator: '='
+context: ground contact time

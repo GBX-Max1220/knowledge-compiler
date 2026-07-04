@@ -1,0 +1,26 @@
+id: concept.diastole
+type: Concept
+canonical_name: Diastole
+semantic_type: Physiological Process
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.03'
+  section_title: Cardiovascular System
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Ventricular relaxation.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

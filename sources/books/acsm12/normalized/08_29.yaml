@@ -1,0 +1,346 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+type: Recommendation
+canonical_name: Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases — General Principles
+semantic_type: Clinical Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The exercise prescription for individuals with cardiovascular and pulmonary diseases should be individualized and based on the results of the exercise test and the patient's clinical status. The FITT (Frequency, Intensity, Time, and Type) principle is used to develop the exercise prescription.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.frequency
+  - concept.intensity
+  - concept.time
+  - concept.type
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_frequency
+type: Recommendation
+canonical_name: Exercise Prescription — Frequency
+semantic_type: Clinical Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+
+definition: >
+  Frequency: Aerobic exercise is recommended on most, preferably all, days of the week.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_intensity
+type: Recommendation
+canonical_name: Exercise Prescription — Intensity
+semantic_type: Clinical Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+
+definition: >
+  Intensity: The intensity of aerobic exercise should be prescribed using the heart rate reserve (HRR) method, the peak heart rate method, or the rating of perceived exertion (RPE) method. The target heart rate range is typically 40% to 80% of HRR or 64% to 91% of peak heart rate. RPE of 12 to 16 on the Borg 6–20 scale is often used.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.heart_rate_reserve
+  - concept.peak_heart_rate
+  - concept.rating_of_perceived_exertion
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_time
+type: Recommendation
+canonical_name: Exercise Prescription — Time
+semantic_type: Clinical Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+
+definition: >
+  Time: Aerobic exercise sessions should last 20 to 60 minutes of continuous or intermittent (accumulated in bouts of at least 10 minutes) activity.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_type
+type: Recommendation
+canonical_name: Exercise Prescription — Type
+semantic_type: Clinical Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+
+definition: >
+  Type: Large muscle group activities such as walking, cycling, and swimming are recommended.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.figure_8_1_exercise_prescription_algorithm
+type: Concept
+canonical_name: Figure 8.1 — Exercise Prescription Algorithm
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: related_to
+    target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+
+definition: >
+  Figure 8.1 provides an algorithm for developing an exercise prescription for individuals with cardiovascular and pulmonary diseases.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_resistance_training
+type: Recommendation
+canonical_name: Exercise Prescription — Resistance Training
+semantic_type: Clinical Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+
+definition: >
+  Resistance training is recommended as an adjunct to aerobic training. It should include 8 to 10 exercises involving the major muscle groups, performed 2 to 3 days per week. One set of 10 to 15 repetitions to moderate fatigue is recommended.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.exercise_prescription_safety_considerations
+type: Warning
+canonical_name: Exercise Prescription — Safety Considerations
+semantic_type: Safety Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: associated_with
+    target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+
+definition: >
+  Patients should be monitored for signs and symptoms of exercise intolerance, including angina, excessive dyspnea, dizziness, or significant changes in heart rate and blood pressure. Exercise should be stopped if these occur.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_prescription_warm_up_cool_down
+type: Recommendation
+canonical_name: Exercise Prescription — Warm-up and Cool-down
+semantic_type: Clinical Guideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases"
+  section: "8.29"
+  section_title: "Exercise Prescription"
+  book_page: 608
+  pdf_page: 608
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+
+definition: >
+  A warm-up period of 5 to 10 minutes of low-intensity aerobic activity and stretching, and a cool-down period of 5 to 10 minutes of gradually decreasing intensity, should be included in each exercise session.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

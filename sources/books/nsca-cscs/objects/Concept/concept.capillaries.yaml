@@ -1,0 +1,35 @@
+id: concept.capillaries
+type: Concept
+canonical_name: Capillaries
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.14
+  section_title: The arterial (right) and venous (left) components of the circulatory
+    system.
+  book_page: 75
+  pdf_page: 75
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.circulatory_system
+definition: 'The function of capillaries is to facilitate exchange of oxygen, fluid,
+  nutrients, electrolytes, hormones, and other substances between the blood and the
+  interstitial fluid in the various tissues of the body. The capillary walls are very
+  thin and are permeable to these, but not all, substances (41).
+
+  '
+attributes:
+- thin_walls
+- permeable
+related_concepts:
+- concept.blood
+- concept.interstitial_fluid

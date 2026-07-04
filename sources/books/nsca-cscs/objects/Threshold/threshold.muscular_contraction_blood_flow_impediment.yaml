@@ -1,0 +1,28 @@
+id: threshold.muscular_contraction_blood_flow_impediment
+type: Threshold
+canonical_name: Muscular Contraction Blood Flow Impediment Threshold
+semantic_type: PhysiologicalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: null
+  section: Acute Cardiovascular Responses to Anaerobic Exercise
+  section_title: Acute Cardiovascular Responses to Anaerobic Exercise
+  book_page: 95
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+threshold_type: percentage
+value: 20%
+unit: '%'
+condition: maximal voluntary contraction
+context: Muscular contractions greater than 20% of maximal voluntary contraction impede
+  peripheral blood flow within the muscle during a set, but blood flow increases during
+  the subsequent rest period (reactive hyperemia) (25).

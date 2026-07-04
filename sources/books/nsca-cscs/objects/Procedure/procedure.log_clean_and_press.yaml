@@ -1,0 +1,124 @@
+id: procedure.log_clean_and_press
+type: Procedure
+canonical_name: Log Clean and Press
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Nontraditional Implements
+  section: '17.4'
+  section_title: Nontraditional Implements
+  book_page: 1148
+  pdf_page: 1148
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A strongman exercise that consists of quickly and forcefully picking
+  a log up from the ground to the front of the shoulders and then pressing it overhead.
+  The log clean consists of three phases but occurs in two motions, with a pause of
+  the log at the shoulders. The log can either be cleaned and pressed each repetition
+  or cleaned once and pressed for multiple repetitions.
+
+  '
+attributes:
+- requires_log
+- explosive
+- strongman_training
+purpose:
+- strengthen gluteus maximus
+- strengthen hamstrings
+- strengthen quadriceps
+- strengthen deltoids
+- strengthen triceps brachii
+- strengthen trapezius
+related_concepts:
+- concept.log
+- concept.gluteus_maximus
+- concept.semimembranosus
+- concept.semitendinosus
+- concept.biceps_femoris
+- concept.vastus_lateralis
+- concept.vastus_intermedius
+- concept.vastus_medialis
+- concept.rectus_femoris
+- concept.deltoids
+- concept.triceps_brachii
+- concept.trapezius
+steps:
+- phase: Starting Position
+  description: 'Stand with the feet placed between hip- and shoulder-width apart with
+    the toes pointed forward or slightly outward. Squat down with the hips lower than
+    the shoulders, and grasp the log with a closed, neutral grip. Place the hands
+    on the log handles with the arms slightly outside of the knees and the elbows
+    fully extended. Place the feet flat on the floor, and position the log in front
+    of the shins and over the balls of the feet. All repetitions begin with the back
+    in a neutral spine position, scapulae depressed and retracted, head in line with
+    the vertebral column, and shoulders over or slightly in front of the log.
+
+    '
+- phase: 'Upward Movement Phase: First Pull'
+  description: 'Lift the log off the ground by extending the hips and knees. Keep
+    the torso-to-floor angle constant; do not let the hips rise before the shoulders.
+    Keep the elbows extended and the shoulders over or slightly ahead of the log.
+
+    '
+- phase: 'Upward Movement Phase: Transition'
+  description: 'As the log passes the knees, pull the log into the body by dropping
+    into a full squat position while ensuring the elbows are about shoulder height
+    and positioned slightly behind or above the hands. Briefly pause in this position
+    with the log on the thighs.
+
+    '
+- phase: 'Upward Movement Phase: Second Pull'
+  description: 'Forcefully jump upward by extending the hips and knees and plantar
+    flexing the ankles. Ensure the log is kept close to the body throughout this phase,
+    whereby it essentially rolls up the upper body toward the shoulders.
+
+    '
+- phase: 'Upward Movement Phase: Catch'
+  description: 'After the lower body has fully extended, pull the body under the log
+    and rotate the arms around under the log, similar to the catch in the power clean.
+    Simultaneously flex the hips and knees to a quarter- or half-squat position. Rack
+    the log across the front of the clavicles and anterior deltoids.
+
+    '
+- phase: 'Preparation Phase: Dip'
+  description: 'Flex the hips and knees at a slow to moderate speed to move the log
+    in a straight path downward. Continue the dip to a depth not to exceed a quarter
+    squat. Keep the feet flat on the floor, the torso erect, and the upper arms directly
+    under the log.
+
+    '
+- phase: 'Upward Movement Phase: Drive'
+  description: 'Immediately on reaching the lowest position of the dip, reverse the
+    movement by forcefully and quickly extending the hips and knees and then the elbows
+    to move the log overhead.
+
+    '
+- phase: Downward Movement Phase
+  description: 'Lower the log by gradually reducing the muscular tension of the arms
+    to allow a controlled descent of the log to the shoulders. Simultaneously flex
+    the hips and knees to cushion the impact of the log on the shoulders, and then
+    return the log to the floor. If sufficient drop pads are available, it is possible
+    to drop the log from overhead to the floor. In order to do this safely, push the
+    bar slightly forward from the finished overhead position while retaining some
+    grip on the handles for a part of the descent.
+
+    '
+muscles_involved:
+- gluteus maximus
+- semimembranosus
+- semitendinosus
+- biceps femoris
+- vastus lateralis
+- vastus intermedius
+- vastus medialis
+- rectus femoris
+- deltoids
+- triceps brachii
+- trapezius

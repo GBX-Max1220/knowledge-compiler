@@ -1,0 +1,31 @@
+id: threshold.hypothermia_core_temperature
+type: Threshold
+canonical_name: Hypothermia Core Temperature
+semantic_type: PhysiologicalThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Hypothermia occurs when the body''s core temperature falls below 35°C
+  (95°F).
+
+  '
+attributes:
+- threshold_type: below
+- value: 35°C (95°F)
+- unit: °C
+purpose: []
+related_concepts:
+- warning.hypothermia_risk_factors

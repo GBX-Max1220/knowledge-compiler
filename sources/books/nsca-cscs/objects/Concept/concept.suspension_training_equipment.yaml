@@ -1,0 +1,27 @@
+id: concept.suspension_training_equipment
+type: Concept
+canonical_name: Suspension Training Equipment
+semantic_type: Equipment
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design and Layout
+  section: Suspension Training Equipment
+  section_title: Suspension Training Equipment
+  book_page: 1756
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Suspension training equipment refers to commercially available ring,
+  handle, or strap setups (8).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

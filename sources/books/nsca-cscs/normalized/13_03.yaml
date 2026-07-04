@@ -1,0 +1,481 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.test_selection
+type: Concept
+canonical_name: Test Selection
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 743
+  pdf_page: 743
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  When evaluating tests for high levels of validity and reliability, the strength and conditioning professional must rely on her or his knowledge and practical experience with the sport. The strength and conditioning professional must consider sport specificity (e.g., metabolic energy systems, biomechanical movement patterns), athlete experience, training status, age, and environmental factors when selecting tests.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.classification_of_exercises_for_assessment
+type: Concept
+canonical_name: Classification of Exercises for Assessment
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 743
+  pdf_page: 743
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The categorization of exercises facilitates the creation of a comprehensive testing battery that accurately evaluates an athlete’s capabilities across various movement patterns and muscle groups. Understanding the classification system assists strength and conditioning professionals in designing targeted training programs tailored to individual needs and goals. The classification of exercises for assessment typically encompasses several key dimensions of specificity: Movement patterns. Exercises can be classified based on the primary movement patterns they involve, such as pushing, pulling, squatting, hinging, rotating, and stabilizing (7, 8). Each movement pattern places specific demands on the musculoskeletal system and requires distinct biomechanical considerations. By including tests that cover a spectrum of movement patterns, practitioners can obtain a complete understanding of an athlete’s functional capabilities. Muscle groups targeted. Another crucial dimension for classification is the muscle groups targeted during an exercise. This classification helps identify potential muscle imbalances or weaknesses that may predispose athletes to injury or limit their performance. Primary energy system. Exercises can also be categorized based on the primary energy system they predominantly engage, such as the phosphagen system, glycolytic system, or oxidative system. Different energy systems contribute to various aspects of athletic performance, including power, strength, and endurance. Assessing performance across these energy systems provides valuable insights into an athlete’s metabolic capacity and helps tailor conditioning strategies accordingly. Skill level and complexity. Exercise classification should also consider the skill level and complexity involved in performing a particular movement. Basic compound movements like squats, deadlifts, and presses may serve as foundational tests for assessing general strength and movement proficiency. Conversely, more advanced or sport-specific movements require greater neuromuscular coordination and may be included to evaluate athletic prowess in specific contexts.
+attributes:
+  - movement_patterns
+  - muscle_groups_targeted
+  - primary_energy_system
+  - skill_level_and_complexity
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.movement_patterns
+type: Concept
+canonical_name: Movement Patterns
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 743
+  pdf_page: 743
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.classification_of_exercises_for_assessment
+definition: >
+  Exercises can be classified based on the primary movement patterns they involve, such as pushing, pulling, squatting, hinging, rotating, and stabilizing (7, 8). Each movement pattern places specific demands on the musculoskeletal system and requires distinct biomechanical considerations. By including tests that cover a spectrum of movement patterns, practitioners can obtain a complete understanding of an athlete’s functional capabilities.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_groups_targeted
+type: Concept
+canonical_name: Muscle Groups Targeted
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 743
+  pdf_page: 743
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.classification_of_exercises_for_assessment
+definition: >
+  Another crucial dimension for classification is the muscle groups targeted during an exercise. This classification helps identify potential muscle imbalances or weaknesses that may predispose athletes to injury or limit their performance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.primary_energy_system
+type: Concept
+canonical_name: Primary Energy System
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 743
+  pdf_page: 743
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.classification_of_exercises_for_assessment
+definition: >
+  Exercises can also be categorized based on the primary energy system they predominantly engage, such as the phosphagen system, glycolytic system, or oxidative system. Different energy systems contribute to various aspects of athletic performance, including power, strength, and endurance. Assessing performance across these energy systems provides valuable insights into an athlete’s metabolic capacity and helps tailor conditioning strategies accordingly.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.skill_level_and_complexity
+type: Concept
+canonical_name: Skill Level and Complexity
+semantic_type: Concept
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 743
+  pdf_page: 743
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.classification_of_exercises_for_assessment
+definition: >
+  Exercise classification should also consider the skill level and complexity involved in performing a particular movement. Basic compound movements like squats, deadlifts, and presses may serve as foundational tests for assessing general strength and movement proficiency. Conversely, more advanced or sport-specific movements require greater neuromuscular coordination and may be included to evaluate athletic prowess in specific contexts.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.yo_yo_intermittent_recovery_test
+type: TableRow
+canonical_name: Yo-Yo Intermittent Recovery Test
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Measures aerobic fitness and ability to recover between bouts of high-intensity exercise.
+attributes:
+  physical_characteristic: Aerobic capacity
+  test_name: Yo-Yo intermittent recovery test
+  sport_application_examples:
+    - Soccer
+    - Hockey
+  description: "Measures aerobic fitness and ability to recover between bouts of high-intensity exercise"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.vo2max_test
+type: TableRow
+canonical_name: V̇O2max Test
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Measures maximum oxygen uptake during incremental exercise, indicating aerobic endurance capacity.
+attributes:
+  physical_characteristic: Aerobic capacity
+  test_name: V̇O2max test
+  sport_application_examples:
+    - Aerobic endurance sports
+  description: "Measures maximum oxygen uptake during incremental exercise, indicating aerobic endurance capacity"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.t_test
+type: TableRow
+canonical_name: T-Test
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Assesses agility by measuring the time taken to navigate a T-shaped course.
+attributes:
+  physical_characteristic: Agility
+  test_name: T-test
+  sport_application_examples:
+    - Soccer
+    - Basketball
+    - American football
+  description: "Assesses agility by measuring the time taken to navigate a T-shaped course"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.illinois_test
+type: TableRow
+canonical_name: Illinois Test
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Measures agility and speed by timing the performance through a set course with changes of direction.
+attributes:
+  physical_characteristic: Agility
+  test_name: Illinois test
+  sport_application_examples:
+    - Soccer
+    - Rugby
+    - American football
+  description: "Measures agility and speed by timing the performance through a set course with changes of direction"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.wingate_anaerobic_test
+type: TableRow
+canonical_name: Wingate Anaerobic Test
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Assesses anaerobic power and capacity by measuring power output on a cycle ergometer over 30 s.
+attributes:
+  physical_characteristic: Anaerobic capacity
+  test_name: Wingate anaerobic test
+  sport_application_examples:
+    - Cycling
+    - Hockey
+  description: "Assesses anaerobic power and capacity by measuring power output on a cycle ergometer over 30 s"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.height_body_mass_arm_span_circumferences_and_limb_lengths
+type: TableRow
+canonical_name: Height, Body Mass, Arm Span, Circumferences, and Limb Lengths
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Measures the dimensions and proportions of the human body.
+attributes:
+  physical_characteristic: Anthropometry
+  test_name: Height, body mass, arm span, circumferences, and limb lengths
+  sport_application_examples:
+    - General
+  description: "Measures the dimensions and proportions of the human body"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.balance_error_scoring_system_bess
+type: TableRow
+canonical_name: Balance Error Scoring System (BESS)
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Assesses static balance by counting errors during six 20-s stance conditions performed on firm and foam surfaces, with errors including opening eyes, lifting hands from hips, stepping or stumbling, or moving from the test position.
+attributes:
+  physical_characteristic: Balance and stability
+  test_name: Balance error scoring system (BESS)
+  sport_application_examples:
+    - General
+  description: "Assesses static balance by counting errors during six 20-s stance conditions performed on firm and foam surfaces, with errors including opening eyes, lifting hands from hips, stepping or stumbling, or moving from the test position"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.star_excursion_balance_test_sebt
+type: TableRow
+canonical_name: Star Excursion Balance Test (SEBT)
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Evaluates dynamic balance and neuromuscular control by having individuals maintain single-leg stance while reaching with their free leg in eight different directions arranged in a star pattern, measuring their maximum reach distance in each direction.
+attributes:
+  physical_characteristic: Balance and stability
+  test_name: Star excursion balance test (SEBT)
+  sport_application_examples:
+    - General
+  description: "Evaluates dynamic balance and neuromuscular control by having individuals maintain single-leg stance while reaching with their free leg in eight different directions arranged in a star pattern, measuring their maximum reach distance in each direction"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.air_displacement_plethysmography
+type: TableRow
+canonical_name: Air Displacement Plethysmography
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 13
+  chapter_title: "Exercise Testing and Prescription"
+  section: "13.3"
+  section_title: "Evaluation of Test Quality"
+  book_page: 745
+  pdf_page: 745
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Measures body composition by calculating body volume and density through the displacement of air in a sealed chamber (e.g., the Bod Pod device).
+attributes:
+  physical_characteristic: Body composition
+  test_name: Air displacement plethysmography
+  sport_application_examples:
+    - General
+  description: "Measures body composition by calculating body volume and density through the displacement of air in a sealed chamber (e.g., the Bod Pod device)"
+purpose: []

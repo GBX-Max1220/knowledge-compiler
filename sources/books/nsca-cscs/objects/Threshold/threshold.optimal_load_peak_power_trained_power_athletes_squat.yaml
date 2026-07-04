@@ -1,0 +1,24 @@
+id: threshold.optimal_load_peak_power_trained_power_athletes_squat
+type: Threshold
+canonical_name: Optimal Load for Peak Power in Trained Power Athletes (Squat)
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Cardiovascular Adaptations
+  book_page: 331
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+value: 30% to 60% of squat 1RM
+unit: '% of squat 1RM'
+context: peak power output is maximized in trained power athletes with higher loads
+citation: '16'

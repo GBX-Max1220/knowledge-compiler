@@ -1,0 +1,12 @@
+{
+  "section": "2.12",
+  "file_id": "02_12",
+  "stage": "extract",
+  "status": "pending",
+  "created": "2026-07-04T03:53:26.895775",
+  "updated": "2026-07-04T03:53:26.895775",
+  "retries": 0,
+  "max_retries": 3,
+  "error": null,
+  "output": null
+}

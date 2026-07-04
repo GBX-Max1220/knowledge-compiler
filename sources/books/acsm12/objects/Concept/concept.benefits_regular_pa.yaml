@@ -1,0 +1,45 @@
+id: concept.benefits_regular_pa
+type: Concept
+canonical_name: Benefits of Regular Physical Activity
+semantic_type: Entity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.5'
+  section_title: Health Benefits of Regular Physical Activity and Exercise
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: Benefits of regular physical activity and/or exercise include improvement
+  in cardiovascular and respiratory function, reduction in cardiovascular disease
+  risk factors, decreased morbidity and mortality, decreased anxiety and depression,
+  improved cognitive function, enhanced physical function and independent living in
+  older individuals, enhanced well-being, enhanced quality of life, improved sleep,
+  enhanced performance, reduced risk of falls, prevention of functional limitations,
+  and effective therapy for chronic diseases in older adults.
+attributes:
+- improved cardiovascular and respiratory function
+- reduced CVD risk factors
+- decreased morbidity and mortality
+- decreased anxiety and depression
+- improved cognitive function
+- enhanced physical function in older adults
+- enhanced well-being
+- enhanced quality of life
+- improved sleep
+- enhanced performance
+- reduced fall risk
+- prevention of functional limitations
+- therapy for chronic diseases
+purpose: []
+related_concepts:
+- concept.physical_activity
+- concept.exercise

@@ -1,0 +1,32 @@
+id: concept.learning_performance_distinction
+type: Concept
+canonical_name: Learning–Performance Distinction
+semantic_type: Motor Skill Acquisition Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.6'
+  section_title: Psychological Techniques
+  book_page: 523
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.motor_skill_acquisition_concept
+definition: 'Learning is a process that results in a relatively permanent change in
+  the capability to perform a motor skill (50). Performance is the execution of the
+  skill in the current environment (29).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.learning
+- concept.performance

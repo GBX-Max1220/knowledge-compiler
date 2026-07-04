@@ -1,0 +1,27 @@
+id: evidence.physical_activity_influences_bone_mass_area_width
+type: Evidence
+canonical_name: Physical Activity Influences Bone Mass, Area, and Width More Than
+  BMD in Some Individuals
+semantic_type: Comparison
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+claim: 'In some individuals (e.g., professional soccer players), physical activity
+  seems to influence bone mass, area, and width more than BMD (174).
+
+  '
+supporting_studies:
+- citation: '174'

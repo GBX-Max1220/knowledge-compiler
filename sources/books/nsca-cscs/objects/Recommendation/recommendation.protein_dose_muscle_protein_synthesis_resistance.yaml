@@ -1,0 +1,33 @@
+id: recommendation.protein_dose_muscle_protein_synthesis_resistance
+type: Recommendation
+canonical_name: Protein Dose for Stimulating Muscle Protein Synthesis After Resistance
+  Training
+semantic_type: NutritionGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 635
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Varying amounts of protein have been used after resistance training to
+  stimulate muscle protein synthesis, though it appears that 20 to 50 grams (providing
+  about 8.5 g-20 g of essential amino acids) of a high-quality, high-leucine, fast
+  protein (one that leads to a rapid rise in amino acids in the bloodstream) in younger
+  individuals may maximally stimulate muscle protein synthesis, while 40 grams or
+  more may be necessary in older adults (59, 109).
+
+  '
+attributes: []
+purpose:
+- stimulate muscle protein synthesis after resistance training
+related_concepts: []

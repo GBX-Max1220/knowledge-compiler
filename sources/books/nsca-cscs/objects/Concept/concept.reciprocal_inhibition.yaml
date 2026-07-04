@@ -1,0 +1,27 @@
+id: concept.reciprocal_inhibition
+type: Concept
+canonical_name: Reciprocal inhibition
+semantic_type: Physiological_Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Mobility Training
+  section: '15.2'
+  section_title: Mobility Training
+  book_page: 883
+  pdf_page: 883
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Relaxation that occurs in the muscle opposing the muscle experiencing
+  the increased tension is called reciprocal inhibition (18).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

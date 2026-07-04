@@ -1,0 +1,30 @@
+id: concept.standard_of_care_legal
+type: Concept
+canonical_name: Standard of Care (Legal Terminology)
+semantic_type: Concept
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1789
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'What a reasonable and prudent person would do under similar circumstances.
+  A strength and conditioning professional is expected to act according to his or
+  her education, level of training, and certification status (e.g., CSCS, National
+  Strength and Conditioning Association Certified Personal Trainer [NSCA-CPT], Emergency
+  Medical Technician [EMT], CPR, AED, first aid).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,24 @@
+id: recommendation.use_of_chains_for_experienced_athletes
+type: Recommendation
+canonical_name: Use of Chains for Experienced Athletes
+semantic_type: Training Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1105
+  pdf_page: 1105
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: As a general rule, Baker (8) recommends that the use of chains
+  be reserved for experienced intermediate- and elite-level athletes who have stable

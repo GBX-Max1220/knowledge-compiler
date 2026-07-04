@@ -1,0 +1,28 @@
+id: concept.bradycardia
+type: Concept
+canonical_name: Bradycardia
+semantic_type: PhysiologicalCondition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Adaptations to Aerobic Endurance Training
+  section: '6'
+  section_title: Adaptations to Aerobic Endurance Training
+  book_page: 344
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Bradycardia (slower heart rate) observed in highly conditioned aerobic
+  endurance athletes, whose resting heart rates commonly range from 40 to 60 beats/min
+  (58, 108).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

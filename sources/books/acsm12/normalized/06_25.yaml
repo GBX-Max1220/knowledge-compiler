@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.fitt_vp_overload
+type: TableRow
+canonical_name: FITT-VP Overload Principle
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Exercise Prescription"
+  section: "6.25"
+  section_title: "Exercise Prescription"
+  book_page: 488
+  pdf_page: 488
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  General Principles of Exercise Prescription
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

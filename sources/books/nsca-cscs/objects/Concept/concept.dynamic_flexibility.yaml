@@ -1,0 +1,29 @@
+id: concept.dynamic_flexibility
+type: Concept
+canonical_name: Dynamic flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Mobility Training
+  section: '15.2'
+  section_title: Mobility Training
+  book_page: 873
+  pdf_page: 873
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.flexibility
+definition: 'Dynamic flexibility, on the other hand, refers to the available ROM during
+  active movements and therefore requires voluntary muscular actions.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

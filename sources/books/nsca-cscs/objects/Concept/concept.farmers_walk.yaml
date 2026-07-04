@@ -1,0 +1,37 @@
+id: concept.farmers_walk
+type: Concept
+canonical_name: Farmer's Walk
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1126
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.weighted_carries
+definition: 'The farmer''s walk requires the athlete to hold a load at the sides in
+  each hand while walking forward (87, 147). The farmer''s walk can be performed with
+  static loads (e.g., farmer''s bar handles or a heavy dumbbell) or variable loads
+  (e.g., water-filled objects) (147). Regardless of the type of load used, the farmer''s
+  walk offers a unique activation pattern of the core (87), although research in the
+  scientific literature is very limited in supporting the use of this exercise as
+  a strength and conditioning tool.
+
+  '
+attributes:
+- static loads
+- variable loads
+purpose:
+- unique activation pattern of the core
+related_concepts: []

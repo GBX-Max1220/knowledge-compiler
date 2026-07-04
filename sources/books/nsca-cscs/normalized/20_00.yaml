@@ -1,0 +1,565 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.speed
+type: Concept
+canonical_name: Speed
+semantic_type: Skill
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1398
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The skills and abilities needed to achieve high movement velocities
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.change_of_direction
+type: Concept
+canonical_name: Change of direction
+semantic_type: Skill
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1398
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The skills and abilities needed to explosively change movement direction, velocities, or modes
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.agility
+type: Concept
+canonical_name: Agility
+semantic_type: Skill
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1398
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The skills and abilities needed to change direction, velocity, or mode in response to a stimulus
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.rate_of_force_development
+type: Concept
+canonical_name: Rate of force development
+semantic_type: Property
+aliases: ["RFD"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The development of maximal force in minimal time, typically used as an indicator of explosive strength (3).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.impulse
+type: Concept
+canonical_name: Impulse
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The product of the generated force and the time required for its production, which is measured as the area under the force–time curve.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.force
+type: Concept
+canonical_name: Force
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Force represents the interaction of two physical objects. Force is a vector quantity, meaning that it has both magnitude (size) and direction. Traditionally, force is described as a push or a pull exerted on one object by another, which prevents both objects from occupying the same space.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.speed_scalar_quantity
+type: Concept
+canonical_name: Speed (scalar quantity)
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Speed is a scalar quantity, which means that it describes only how fast an object is moving. Speed is the rate at which an object covers a distance.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.velocity
+type: Concept
+canonical_name: Velocity
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Like force, velocity is a vector quantity. Velocity describes both how fast an object is traveling and its direction. In short, velocity is speed with a direction.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.acceleration
+type: Concept
+canonical_name: Acceleration
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1402
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Acceleration refers to the rate at which an object's velocity changes over time.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.momentum
+type: Concept
+canonical_name: Momentum
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1405
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Momentum is defined as the product between the mass of an object and the velocity of movement.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stretch_shortening_cycle
+type: Concept
+canonical_name: Stretch-shortening cycle
+semantic_type: Phenomenon
+aliases: ["SSC"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1407
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An eccentric–concentric coupling phenomenon in which muscle–tendon complexes are rapidly and forcibly lengthened, or stretch loaded, and immediately shortened in a reactive or elastic manner, resulting in enhanced concentric force production.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.spring_mass_model
+type: Concept
+canonical_name: Spring–mass model
+semantic_type: Model
+aliases: ["SMM"]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1409
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The SMM (figure 20.3) is a mathematical model that depicts sprinting as a type of human locomotion in which the displacement of a body mass is the aftereffect from energy produced and is delivered through the collective coiling and extension of spring-like actions within muscle architecture (11, 29, 37, 39).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sprinting
+type: Concept
+canonical_name: Sprinting
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1414
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Sprinting is a series of coupled flight and support phases, known as strides (e.g., right foot contact to next right foot contact, essentially comprised of two steps—right to left, left to right), orchestrated in an attempt to displace the athlete's body down the track at maximal acceleration or velocity (or both), usually over brief distances and durations.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.step_length
+type: Concept
+canonical_name: Step length
+semantic_type: Measurement
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1414
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Step length (distance between the toe and heel of two consecutive footsteps)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.step_frequency
+type: Concept
+canonical_name: Step frequency
+semantic_type: Measurement
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1414
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Step frequency (or rate; number of steps per second) (63)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mobility
+type: Concept
+canonical_name: Mobility
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1431
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Mobility is the freedom of an athlete's limb to move through a desired range of motion
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.flexibility
+type: Concept
+canonical_name: Flexibility
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1431
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Flexibility is a joint's total range of motion.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.backpedaling
+type: Concept
+canonical_name: Backpedaling
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1446
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Backpedaling (rearward locomotion with periods of double limb support and one foot in contact with the ground between contralateral foot strikes)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.backward_running
+type: Concept
+canonical_name: Backward running
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1446
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Backward running (rearward locomotion involving single-leg support throughout foot–ground contact and both feet simultaneously in the air between foot strikes) (101)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.periodization
+type: Concept
+canonical_name: Periodization
+semantic_type: Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Program Design and Technique for Speed and Agility Training"
+  section: "20"
+  section_title: "Program Design and Technique for Speed and Agility Training"
+  book_page: 1462
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Periodization is the strategic manipulation of an athlete's preparedness through the employment of sequenced training phases defined by cycles and stages of workload (see chapter 22).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.perception_action_coupling
+type: Concept
+canonical_name: Perception–action coupling

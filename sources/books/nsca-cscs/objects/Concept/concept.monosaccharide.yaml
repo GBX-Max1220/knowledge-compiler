@@ -1,0 +1,28 @@
+id: concept.monosaccharide
+type: Concept
+canonical_name: Monosaccharide
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 555
+  pdf_page: 555
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.carbohydrate
+definition: 'Monosaccharides (glucose, fructose, and galactose) are single-sugar molecules.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

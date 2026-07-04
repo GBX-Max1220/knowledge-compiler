@@ -1,0 +1,32 @@
+id: concept.postexertional_malaise
+type: Concept
+canonical_name: Postexertional Malaise
+semantic_type: Symptom
+aliases:
+- PEM
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Clinical Considerations for Special Populations
+  section: '10.18'
+  section_title: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+  book_page: 831
+  pdf_page: 831
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.myalgic_encephalomyelitis_chronic_fatigue_syndrome
+definition: 'The hallmark symptom of ME/CFS, defined as a worsening of symptoms following
+  even minor physical, cognitive, or emotional exertion, with symptom exacerbation
+  typically delayed by 24 hours or more and lasting for days or weeks.
+
+  '
+attributes:
+- hallmark
+purpose: []
+related_concepts: []

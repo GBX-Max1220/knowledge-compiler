@@ -1,0 +1,37 @@
+id: concept.absolute_vs_relative_muscle_strength_in_females_and_males
+type: Concept
+canonical_name: Absolute vs. Relative Muscle Strength in Females and Males
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.3'
+  section_title: Resistance Training Considerations
+  book_page: 459
+  pdf_page: 459
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Sex-related differences in hypertrophy and muscle mass (106, 132, 143)
+  indicate that absolute muscle strength in females is lower than in males (108, 117),
+  whereas males’ greater absolute strength is primarily achieved by larger muscle
+  fiber size (117, 146, 160). The absolute lower body strength of females is generally
+  closer to male values compared to the absolute values for upper body strength (10,
+  82, 84, 117). When considered on a relative basis, sex-related differences in muscular
+  strength are greatly reduced. Females have similar number of muscle fibers as males,
+  and strength is similar when normalized to muscle volume (113, 117). When expressed
+  relative to body weight, the lower body strength of females is similar to that of
+  males, while the upper body strength of females is still somewhat less (10, 82,
+  84, 117). If comparisons are made relative to fat-free mass, differences in strength
+  between males and females tend to disappear (10, 82, 84, 117).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

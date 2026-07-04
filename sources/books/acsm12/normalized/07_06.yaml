@@ -1,0 +1,242 @@
+# ontology: knowledge-compiler/v1
+
+id: warning.altitude_illness
+type: Warning
+canonical_name: Altitude Illness Warning
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.6"
+  section_title: "Medical Considerations: Altitude Illnesses and Preexisting Conditions"
+  book_page: 532
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Altitude illnesses (e.g., acute mountain sickness [AMS], high-altitude cerebral edema [HACE], and high-altitude pulmonary edema [HAPE]) can occur in unacclimatized individuals ascending to altitudes >2,500 m (~8,200 ft). The risk of altitude illness is increased with rapid ascent, a history of altitude sickness, and individual susceptibility.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.altitude_illness
+  - concept.acute_mountain_sickness
+  - concept.high_altitude_cerebral_edema
+  - concept.high_altitude_pulmonary_edema
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.preexisting_conditions_altitude
+type: Warning
+canonical_name: Preexisting Conditions and Altitude Warning
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.6"
+  section_title: "Medical Considerations: Altitude Illnesses and Preexisting Conditions"
+  book_page: 532
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with preexisting medical conditions (e.g., cardiovascular disease, pulmonary disease, sickle cell trait, pregnancy) may be at increased risk for complications at altitude and should consult a physician before traveling to high altitude.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.cardiovascular_disease
+  - concept.pulmonary_disease
+  - concept.sickle_cell_trait
+  - concept.pregnancy
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.altitude_acclimatization
+type: Recommendation
+canonical_name: Altitude Acclimatization Recommendation
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.6"
+  section_title: "Medical Considerations: Altitude Illnesses and Preexisting Conditions"
+  book_page: 532
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Gradual ascent is recommended to allow for acclimatization; above 2,500 m, ascent should be limited to an increase in sleeping altitude of no more than 500 m per day.
+
+attributes: []
+
+purpose:
+  - allow for acclimatization
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.altitude_illness_risk
+type: Threshold
+canonical_name: Altitude Threshold for Illness Risk
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.6"
+  section_title: "Medical Considerations: Altitude Illnesses and Preexisting Conditions"
+  book_page: 532
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Altitude illnesses (e.g., acute mountain sickness [AMS], high-altitude cerebral edema [HACE], and high-altitude pulmonary edema [HAPE]) can occur in unacclimatized individuals ascending to altitudes >2,500 m (~8,200 ft).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.altitude_illness
+  - concept.acute_mountain_sickness
+  - concept.high_altitude_cerebral_edema
+  - concept.high_altitude_pulmonary_edema
+
+threshold_value: ">2,500 m"
+threshold_unit: "m"
+comparison_operator: ">"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.risk_factors_altitude_illness
+type: Concept
+canonical_name: Risk Factors for Altitude Illness
+semantic_type: RiskFactor
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.6"
+  section_title: "Medical Considerations: Altitude Illnesses and Preexisting Conditions"
+  book_page: 532
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The risk of altitude illness is increased with rapid ascent, a history of altitude sickness, and individual susceptibility.
+
+attributes:
+  - rapid ascent
+  - history of altitude sickness
+  - individual susceptibility
+
+purpose: []
+
+related_concepts:
+  - concept.altitude_illness
+---
+# ontology: knowledge-compiler/v1
+
+id: contraindication.preexisting_conditions_high_altitude
+type: Contraindication
+canonical_name: Preexisting Conditions Contraindication for High Altitude
+semantic_type: Contraindication
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Medical Considerations"
+  section: "7.6"
+  section_title: "Medical Considerations: Altitude Illnesses and Preexisting Conditions"
+  book_page: 532
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with preexisting medical conditions (e.g., cardiovascular disease, pulmonary disease, sickle cell trait, pregnancy) may be at increased risk for complications at altitude and should consult a physician before traveling to high altitude.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.cardiovascular_disease
+  - concept.pulmonary_disease
+  - concept.sickle_cell_trait
+  - concept.pregnancy
+
+contraindication_for: concept.high_altitude_travel

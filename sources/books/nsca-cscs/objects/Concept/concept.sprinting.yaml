@@ -1,0 +1,30 @@
+id: concept.sprinting
+type: Concept
+canonical_name: Sprinting
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1414
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Sprinting is a series of coupled flight and support phases, known as
+  strides (e.g., right foot contact to next right foot contact, essentially comprised
+  of two steps—right to left, left to right), orchestrated in an attempt to displace
+  the athlete''s body down the track at maximal acceleration or velocity (or both),
+  usually over brief distances and durations.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,28 @@
+id: concept.intracrine_action
+type: Concept
+canonical_name: Intracrine Action
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System and Resistance Exercise
+  section: Types of Hormonal Release Mechanisms
+  section_title: Types of Hormonal Release Mechanisms
+  book_page: 236
+  pdf_page: 236
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Intracrine and autocrine actions involve hormones either binding to internal
+  receptors within their producing cell or being released to bind to surface receptors
+  on the same cell.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

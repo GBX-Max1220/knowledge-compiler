@@ -1,0 +1,11 @@
+id: threshold.fair_muscular_strength
+type: Threshold
+canonical_name: Fair Muscular Strength
+semantic_type: Classification
+aliases: []
+source:
+  book: Reference
+  edition: 1
+  chapter: 1
+  section: '1.0'
+  book_page: 1

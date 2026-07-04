@@ -1,0 +1,33 @@
+id: recommendation.dynamic_stretching_guidelines_and_precautions
+type: Recommendation
+canonical_name: Dynamic Stretching Guidelines and Precautions
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '15.3'
+  section_title: Flexibility Training
+  book_page: 918
+  pdf_page: 918
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Carry out 5 to 10 repetitions for each movement, either in place or over
+  a given distance. Where possible, progressively increase the ROM on each repetition.
+  Where appropriate, increase the speed of motion in subsequent sets, but always maintain
+  control of the motion. Actively control muscular actions as you move through the
+  ROM. Where appropriate, try to replicate the movements required for sport performance.
+  Move progressively through the ROM. Move deliberately through the motion but without
+  bouncing (movement should be controlled at all times). Do not forsake good technique
+  for additional ROM.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

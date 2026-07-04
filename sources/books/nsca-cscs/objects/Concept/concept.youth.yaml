@@ -1,0 +1,32 @@
+id: concept.youth
+type: Concept
+canonical_name: Youth
+semantic_type: PopulationGroup
+aliases:
+- young athlete
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.childhood
+- predicate: is_a
+  target: concept.adolescence
+definition: 'For ease of discussion, the term youth or young athlete refers to both
+  children and adolescents.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

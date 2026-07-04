@@ -1,0 +1,40 @@
+id: procedure.margaria_kalamen_test_protocol
+type: Procedure
+canonical_name: Margaria-Kalamen Test Protocol
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.2'
+  section_title: Monitoring Protocols
+  book_page: 792
+  pdf_page: 792
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Procedure for conducting the Margaria-Kalamen test for anaerobic power.
+
+  '
+attributes: []
+purpose:
+- measure anaerobic power
+related_concepts:
+- concept.margaria_kalamen_test
+- concept.anaerobic_power
+steps:
+- order: 1
+  description: The height of each step is measured with a ruler or tape measure, and
+    the elevation from the third step to the ninth step is calculated (6 × step height).
+- order: 2
+  description: The timer start switch mechanism is placed on the third step, and the
+    stop switch mechanism is placed on the ninth step.
+- order: 3
+  description: The athlete to be tested is weighed on a scale, warms up, and practices
+    running up the stairs three steps at a time.
+- order: 4

@@ -1,0 +1,33 @@
+id: concept.nutrition_counseling
+type: Concept
+canonical_name: Nutrition Counseling
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 541
+  pdf_page: 541
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The provision of the individual guidance on appropriate food and nutrient
+  intake for those with special needs, taking into consideration health, cultural,
+  socioeconomic, functional, and psychological facts from the nutrition assessment.
+  Nutrition counseling may include advice to increase or decrease nutrients in the
+  diet; to change the timing and size of and composition of meals; to modify food
+  textures, and in extreme instances, to change the route of administration.
+
+  '
+attributes: []
+purpose:
+- provide individual guidance on appropriate food and nutrient intake for those with
+  special needs
+related_concepts: []

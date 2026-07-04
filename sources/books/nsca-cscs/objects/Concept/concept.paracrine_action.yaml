@@ -1,0 +1,27 @@
+id: concept.paracrine_action
+type: Concept
+canonical_name: Paracrine Action
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System and Resistance Exercise
+  section: Types of Hormonal Release Mechanisms
+  section_title: Types of Hormonal Release Mechanisms
+  book_page: 236
+  pdf_page: 236
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Paracrine action occurs when hormones affect adjacent cells, again bypassing
+  the bloodstream.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

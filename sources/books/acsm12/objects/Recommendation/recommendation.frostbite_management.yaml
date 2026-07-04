@@ -1,0 +1,33 @@
+id: recommendation.frostbite_management
+type: Recommendation
+canonical_name: Frostbite Management
+semantic_type: TreatmentStrategy
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For frostbite, rewarm the affected area in warm water (37°C to 39°C;
+  98.6°F to 102.2°F) for 15 to 30 minutes. Do not rub or massage the area, and avoid
+  direct heat sources.
+
+  '
+attributes:
+- water_temperature: 37°C to 39°C (98.6°F to 102.2°F)
+- duration: 15 to 30 minutes
+- contraindications:
+  - rubbing or massaging the area
+  - direct heat sources
+purpose:
+- treat frostbite

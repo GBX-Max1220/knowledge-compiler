@@ -1,0 +1,28 @@
+id: concept.athletic_motor_skill_competencies
+type: Concept
+canonical_name: Athletic Motor Skill Competencies
+semantic_type: Motor Skill
+aliases:
+- AMSC
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Administration, Scoring, and Interpretation of Selected Tests
+  section: '14'
+  section_title: Administration, Scoring, and Interpretation of Selected Tests
+  book_page: 770
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The athletic motor skill competencies (AMSC), proposed by Lloyd and colleagues
+  (90), presents foundational movement skills that underpin athletic movements.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

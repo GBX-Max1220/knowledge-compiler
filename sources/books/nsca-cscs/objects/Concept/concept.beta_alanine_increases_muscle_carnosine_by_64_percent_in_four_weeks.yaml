@@ -1,0 +1,28 @@
+id: concept.beta_alanine_increases_muscle_carnosine_by_64_percent_in_four_weeks
+type: Concept
+canonical_name: β-Alanine Increases Muscle Carnosine by 64% in Four Weeks
+semantic_type: Research Finding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Dietary Supplements
+  section: '12.3'
+  section_title: Dietary Supplements
+  book_page: 706
+  pdf_page: 706
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Harris and colleagues (104) reported that four weeks of supplementing
+  with β-alanine (4-6 g/day) resulted in a mean increase of 64% in skeletal muscle
+  β-alanine concentrations.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

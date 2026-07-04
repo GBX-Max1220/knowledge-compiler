@@ -1,0 +1,27 @@
+id: threshold.exercise_intensity_congenital_heart_disease
+type: Threshold
+canonical_name: Exercise Intensity for Patients with Congenital Heart Disease
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Special Considerations
+  section: '8.26'
+  section_title: Special Considerations
+  book_page: 604
+  pdf_page: 604
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For patients with congenital heart disease, exercise intensity should
+  be prescribed using RPE (11–14 on the 6–20 scale) and/or the talk test.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

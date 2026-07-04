@@ -1,0 +1,27 @@
+id: concept.biomechanics
+type: Concept
+canonical_name: Biomechanics
+semantic_type: ScientificDiscipline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Exercise
+  section: Chapter 2
+  section_title: Biomechanics of Resistance Exercise
+  book_page: 104
+  pdf_page: 104
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Biomechanics focuses on the mechanisms through which the components of
+  the musculoskeletal system interact to create movement.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

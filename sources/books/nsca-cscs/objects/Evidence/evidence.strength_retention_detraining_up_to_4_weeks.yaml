@@ -1,0 +1,26 @@
+id: evidence.strength_retention_detraining_up_to_4_weeks
+type: Evidence
+canonical_name: Strength Retention During Detraining (Up to 4 Weeks)
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Cardiovascular Adaptations
+  book_page: 333
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+evidence_text: 'Strength performance in general is readily maintained for up to four
+  weeks of inactivity, but in highly trained athletes, eccentric force and sport-specific
+  power may decline significantly faster (124).
+
+  '
+citation: '124'

@@ -1,0 +1,37 @@
+id: concept.accentuated_eccentric_loading
+type: Concept
+canonical_name: Accentuated Eccentric Loading
+semantic_type: Training Method
+aliases:
+- Augmented Eccentric Loading
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1113
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.resistance_training_strategy
+definition: 'One variable resistance training strategy that addresses this differential
+  is the use of accentuated eccentric loading (AEL), which is sometimes referred to
+  as augmented eccentric loading (95, 132). With this loading strategy, an additional
+  load is applied during the eccentric phase of the movement and then removed during
+  the concentric phase of the movement.
+
+  '
+attributes:
+- additional load applied during eccentric phase
+- load removed during concentric phase
+purpose:
+- address differential between eccentric and concentric strength
+related_concepts:
+- concept.eccentric_strength_deficit

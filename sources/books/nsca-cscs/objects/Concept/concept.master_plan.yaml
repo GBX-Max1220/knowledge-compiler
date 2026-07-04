@@ -1,0 +1,35 @@
+id: concept.master_plan
+type: Concept
+canonical_name: Master Plan
+semantic_type: Plan
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1730
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.predesign_phase
+definition: 'The master plan is the general plan for all phases of the new facility.
+  The master plan should include the building and construction plan, facility design,
+  budget information, and an operational plan to act on once the facility is completed
+  (10).
+
+  '
+attributes:
+- includes building and construction plan
+- includes facility design
+- includes budget information
+- includes operational plan
+purpose: []
+related_concepts: []

@@ -1,0 +1,567 @@
+TYPE
+Definition
+
+TITLE
+Strength
+
+PAGE
+127
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Though it is widely accepted that strength is the ability to exert force, there is considerable disagreement as to how strength should be measured.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Force
+
+PAGE
+127
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+For clarity, force can be thought of as how hard we push or pull something, while mass refers to the stuff (e.g., bone, muscle, and organs) that we are made of.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Mass
+
+PAGE
+127
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+For clarity, force can be thought of as how hard we push or pull something, while mass refers to the stuff (e.g., bone, muscle, and organs) that we are made of.
+
+PARENT
+Force
+
+END
+
+TYPE
+Formula
+
+TITLE
+Newton's Second Law of Motion
+
+PAGE
+127
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+F = m × a (2.1)
+
+END
+
+TYPE
+Formula
+
+TITLE
+Impulse–Momentum Relationship
+
+PAGE
+127
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+F × Δt = m × Δv (2.2)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Impulse
+
+PAGE
+127
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+where everything to the left of the equal sign describes impulse
+
+PARENT
+Impulse–Momentum Relationship
+
+END
+
+TYPE
+Definition
+
+TITLE
+Momentum
+
+PAGE
+127
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+and everything to the right of the equal sign describes momentum (more specifically, a change in momentum).
+
+PARENT
+Impulse–Momentum Relationship
+
+END
+
+TYPE
+Definition
+
+TITLE
+Vector
+
+PAGE
+128
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Finally, both impulse and momentum are vector quantities, which means that the athlete considers both magnitude (how much) and direction (which way); this is critical to sport performance.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Work
+
+PAGE
+129
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+When we apply force to an object that is moving, we are performing work. In a biomechanical context, work can be understood in a simpler form as the product of force and displacement (how far the object moves).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Mechanical Energy
+
+PAGE
+129
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Mechanical energy is the sum of potential energy and kinetic energy (equations 2.3 and 2.4)
+
+END
+
+TYPE
+Formula
+
+TITLE
+Potential Energy
+
+PAGE
+129
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Potential energy = m × g × h (2.3)
+
+END
+
+TYPE
+Formula
+
+TITLE
+Kinetic Energy
+
+PAGE
+129
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Kinetic energy = ½ m × v² (2.4)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Power
+
+PAGE
+130
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Finally, power refers to how quickly work is performed. In its simplest form, power is the amount of work divided by the time over which the force is applied.
+
+END
+
+TYPE
+Table
+
+TITLE
+Units of Measure and Conversions
+
+PAGE
+130
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+TABLE 2.1  Units of Measure and Conversions
+Quantity SI (international) unit Conversion multiplier Traditional (British) unit Conversion multiplier SI (international) unit
+Distance meter × 3.28 = foot × 0.3048 = meter
+Distance kilometer × 0.621 = mile × 1.61 = kilometer
+Angle radian × 57.3 = degree × 0.0175 = radian
+Velocity meters/second × 2.24 = miles/hour × 0.447 = meters/second
+Velocity kilometers/hour × 0.621 = miles/hour × 1.609 = kilometers/hour
+Force newton × 0.225 = pound × 4.45 = newton
+Force kilogram × 2.205 = pound × 0.4535 = kilogram
+Work, energy joule × 0.738 = foot-pound × 1.356 = joule
+Power watt × 0.0013 = horsepower × 745.7 = watt
+Torque newton-meter × 0.738 = foot-pound × 1.356 = newton-meter
+Reprinted by permission from D.W. Powell and M.A. Bryanton Jones, "Biomechanics," in NSCA's Essentials of Personal Training, 3rd ed., edited by B.J. Schoenfeld, R.L. Snarr (Human Kinetics, 2022), 45.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Peak Power
+
+PAGE
+132
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+The ability to simultaneously record force and movement characteristics such as displacement and velocity has also led to the measurement, calculation, and use of peak power, which is frequently referred to as the highest instantaneous power.
+
+END
+
+TYPE
+Warning
+
+TITLE
+Caution Regarding Peak Power
+
+PAGE
+133
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Caution is urged when considering this approach, and unless there is a specific need to know the rate of work over a single sample, it should be ignored.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Scalar Quantity
+
+PAGE
+133
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Both of these are scalar quantities, which means that they only provide a magnitude (how much) and cannot consider movement direction.
+
+PARENT
+Work
+
+END
+
+TYPE
+Definition
+
+TITLE
+Torque
+
+PAGE
+134
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+The result is a torque (τ), although moment is frequently used interchangeably.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Angular Displacement
+
+PAGE
+135
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+The subsequent movement is angular displacement (θ) which is measured in radians, and the rate of angular displacement is angular velocity (ω).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Angular Velocity
+
+PAGE
+135
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+The subsequent movement is angular displacement (θ) which is measured in radians, and the rate of angular displacement is angular velocity (ω).
+
+END
+
+TYPE
+Formula
+
+TITLE
+Radians to Degrees Conversion
+
+PAGE
+135
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+1 radian = 180 degrees ÷ π = 57.3 (2.6)
+
+END
+
+TYPE
+Formula
+
+TITLE
+Torque Calculation at a Given Joint Angle
+
+PAGE
+135
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+(25 kg ∙ g) × 0.30 m (elbow to dumbbell center) × sin(2.76 radians) = 27.4 N ∙ m (2.7)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Angular Impulse
+
+PAGE
+136
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Impulse also has a rotational equivalent (angular impulse), which is the product of torque and time (τ × Δt, where τ refers to torque, and Δt refers to the duration of the phase of interest).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Pennate Muscle
+
+PAGE
+139
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+A pennate muscle has fibers that align obliquely with the tendon, creating a featherlike arrangement.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Angle of Pennation
+
+PAGE
+139
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+The angle of pennation is defined as the angle between the muscle fibers and an imaginary line between the muscle's origin and insertion; 0 degrees corresponds to no pennation.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Recruitment
+
+PAGE
+138
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Neural control affects the maximal force output of a muscle by determining which and how many motor units are involved in a muscle contraction (recruitment) and the rate at which the motor units are fired (rate coding) (6).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Rate Coding
+
+PAGE
+138
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Neural control affects the maximal force output of a muscle by determining which and how many motor units are involved in a muscle contraction (recruitment) and the rate at which the motor units are fired (rate coding) (6).
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Neural Adaptations in Early Strength Training
+
+PAGE
+138
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Much of the improvement in strength evidenced in the first few weeks of resistance training is attributable to neural adaptations as the brain learns how to generate more force from a given amount of contractile tissue (44).
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Muscle Force and Cross-Sectional Area
+
+PAGE
+139
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+All else being equal, the force a muscle can exert is related to its cross-sectional area rather than to its volume (15, 41).
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Maximal Muscle Force Range
+
+PAGE
+139
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+Maximally contracting muscles have been found capable of generating forces of 23 to 145 pounds per square inch (psi) (16-100 N/cm2) of muscle cross-sectional area (28).
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 2.10
+
+PAGE
+126
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+FIGURE 2.10 (continued)
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 2.11
+
+PAGE
+139
+
+SECTION
+2.3 — Human Strength and Power
+
+ORIGINAL TEXT
+(figure 2.11) (28)
+
+END

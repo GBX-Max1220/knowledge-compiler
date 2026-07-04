@@ -1,0 +1,30 @@
+id: concept.insulin
+type: Concept
+canonical_name: Insulin
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Hormones
+  section: '12.2'
+  section_title: Hormones
+  book_page: 689
+  pdf_page: 689
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Insulin is a potent anabolic hormone. It is secreted by the pancreas
+  in response to elevations in blood glucose or specific amino acid (e.g., leucine)
+  concentrations. Its role is to facilitate the uptake of glucose and amino acids
+  into the cell. Since insulin increases protein synthesis, it is considered an anabolic
+  hormone.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

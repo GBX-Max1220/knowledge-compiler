@@ -1,0 +1,26 @@
+id: table_row.acsm_flexibility_recommendations
+type: TableRow
+canonical_name: ACSM Flexibility Recommendations for Healthy Adults
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.25'
+  section_title: Flexibility
+  book_page: 385
+  pdf_page: 385
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Table 5.6 provides the ACSM flexibility recommendations for healthy adults.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

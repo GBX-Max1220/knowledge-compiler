@@ -1,0 +1,39 @@
+id: recommendation.type_chronic_disease
+type: Recommendation
+canonical_name: Type of Exercise for Chronic Disease Populations
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Exercise Prescription for Individuals with Chronic Diseases and Health
+    Conditions
+  section: '10.34'
+  section_title: Exercise Prescription
+  book_page: 855
+  pdf_page: 855
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_chronic_diseases
+definition: 'Aerobic exercise modalities that involve large muscle groups and are
+  rhythmic in nature (e.g., walking, cycling, swimming, rowing) are recommended. Resistance
+  training is recommended as a complement to aerobic exercise, with a focus on major
+  muscle groups, 2–3 d·wk−1, using 8–10 exercises, 1–3 sets of 8–12 repetitions at
+  moderate intensity (40%–60% of 1-RM).
+
+  '
+attributes:
+- aerobic_exercise
+- resistance_training
+purpose:
+- guide type of exercise for chronic disease populations
+related_concepts:
+- concept.aerobic_exercise_modalities
+- concept.resistance_training
+- concept.one_repetition_maximum

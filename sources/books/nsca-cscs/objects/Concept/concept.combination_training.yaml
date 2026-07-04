@@ -1,0 +1,30 @@
+id: concept.combination_training
+type: Concept
+canonical_name: Combination Training
+semantic_type: Training Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 220
+  pdf_page: 220
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Broadly, combination training refers to any training program that includes
+  a mix of different types of exercises or activities. It does not necessarily imply
+  a specific structure or timing, just that various exercise modalities are combined
+  to achieve overall fitness improvements.
+
+  '
+attributes: []
+purpose:
+- achieve overall fitness improvements
+related_concepts: []

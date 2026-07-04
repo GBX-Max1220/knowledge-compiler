@@ -1,0 +1,31 @@
+id: concept.flexibility
+type: Concept
+canonical_name: Flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Mobility Training
+  section: '15.2'
+  section_title: Mobility Training
+  book_page: 873
+  pdf_page: 873
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.static_flexibility
+- predicate: has_attribute
+  target: concept.dynamic_flexibility
+definition: 'Flexibility is defined as the range of motion (ROM) that occurs about
+  a joint. Flexibility can be expressed statically and dynamically.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

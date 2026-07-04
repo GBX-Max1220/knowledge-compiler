@@ -1,0 +1,28 @@
+id: threshold.heart_rate_exercise_heart_failure
+type: Threshold
+canonical_name: Heart Rate Threshold for Exercise in Heart Failure
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Special Considerations
+  section: '8.5'
+  section_title: Special Considerations
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Resting HR >100 bpm or HR >120 bpm during exercise
+
+  '
+attributes:
+- heart_rate
+purpose:
+- exercise in heart failure
+related_concepts: []

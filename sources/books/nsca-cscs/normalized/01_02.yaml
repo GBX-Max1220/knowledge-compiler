@@ -1,0 +1,661 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.motor_unit
+type: Concept
+canonical_name: Motor Unit
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.4"
+  section_title: "Motor unit"
+  book_page: 47
+  pdf_page: 47
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Motor unit, consisting of a motor neuron and the muscle fibers it innervates.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.myofibril
+type: Concept
+canonical_name: Myofibril
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 47
+  pdf_page: 47
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.muscle_fiber
+
+definition: >
+  Hundreds of myofibrils (each about 1 μm in diameter, 1/100 the diameter of a hair) exist in the sarcoplasm of one muscle fiber. Myofibrils are the contractile machinery of muscle fibers.
+
+attributes:
+  - contractile
+
+purpose:
+  - contractile machinery of muscle fibers
+
+related_concepts:
+  - concept.myosin_filament
+  - concept.actin_filament
+  - concept.sarcomere
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.myosin_filament
+type: Concept
+canonical_name: Myosin Filament
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 47
+  pdf_page: 47
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.myofibril
+
+definition: >
+  The thicker myosin filaments (about 16 nm in diameter, or 1/10,000 the diameter of a hair) contain up to 200 myosin molecules. A single myosin molecule consists of two myosin heavy chain proteins and four myosin light chain proteins. This molecule also contains two head-like features (one being from each of the two heavy chains), two hinge points below each head, and two tail-like features that act to keep the two heavy chain proteins bound.
+
+attributes:
+  - thick
+  - contains_myosin_molecules
+
+purpose: []
+
+related_concepts:
+  - concept.actin_filament
+  - concept.sarcomere
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.actin_filament
+type: Concept
+canonical_name: Actin Filament
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 47
+  pdf_page: 47
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.myofibril
+
+definition: >
+  The thin actin filaments (about 6 nm in diameter) consist of two strands arranged in a double helix.
+
+attributes:
+  - thin
+  - double_helix_structure
+
+purpose: []
+
+related_concepts:
+  - concept.myosin_filament
+  - concept.sarcomere
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sarcomere
+type: Concept
+canonical_name: Sarcomere
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 47
+  pdf_page: 47
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.myofibril
+
+definition: >
+  Myosin and actin filaments are organized longitudinally in the smallest contractile unit of skeletal muscle termed the sarcomere. Sarcomeres average about 2.5 μm in length in a relaxed fiber (approximately 4,500 per centimeter of muscle length) and are repeated through the entire length of myofibrils that span the muscle fiber (4).
+
+attributes:
+  - smallest_contractile_unit
+  - average_length_relaxed: "2.5 μm"
+  - number_per_centimeter: "4,500"
+
+purpose:
+  - contractile unit of skeletal muscle
+
+related_concepts:
+  - concept.a_band
+  - concept.i_band
+  - concept.z_line
+  - concept.h_zone
+  - concept.m_line
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.a_band
+type: Concept
+canonical_name: A-band
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 48
+  pdf_page: 48
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
+definition: >
+  The dark A-band corresponds with the alignment of the myosin filaments.
+
+attributes:
+  - dark
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.i_band
+type: Concept
+canonical_name: I-band
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 48
+  pdf_page: 48
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
+definition: >
+  The light I-band corresponds with the areas in two adjacent sarcomeres that contain only actin filaments (41).
+
+attributes:
+  - light
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.z_line
+type: Concept
+canonical_name: Z-line
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 48
+  pdf_page: 48
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
+definition: >
+  The Z-line is in the middle of the I-band and appears as a thin, dark line running longitudinally through the I-band.
+
+attributes:
+  - thin
+  - dark
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.h_zone
+type: Concept
+canonical_name: H-zone
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 48
+  pdf_page: 48
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
+definition: >
+  The H-zone is the area in the center of the sarcomere, where only myosin filaments are present.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.m_line
+type: Concept
+canonical_name: M-line
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.6"
+  section_title: "General view of the myosin and actin filaments in muscle"
+  book_page: 50
+  pdf_page: 50
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.sarcomere
+
+definition: >
+  Thick filaments are anchored to specialized proteins in the M-line, which is in the center of the sarcomere (the center of the H-zone).
+
+attributes: []
+
+purpose:
+  - anchor thick filaments
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sarcoplasmic_reticulum
+type: Concept
+canonical_name: Sarcoplasmic Reticulum
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 50
+  pdf_page: 50
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Each myofibril is encased by an intricate system of tubules, called the sarcoplasmic reticulum (figure 1.5, page 5), which terminates as vesicles in the vicinity of the Z-lines. Calcium ions are stored in the sarcoplasmic reticulum, and muscle activation leads to the release of these calcium stores to facilitate muscular contraction.
+
+attributes:
+  - intricate_system_of_tubules
+  - stores_calcium_ions
+
+purpose:
+  - store calcium ions
+  - release calcium ions for muscular contraction
+
+related_concepts:
+  - concept.myofibril
+  - concept.z_line
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.action_potential
+type: Concept
+canonical_name: Action Potential
+semantic_type: PhysiologicalProcess
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Figure 1.5"
+  section_title: "Sectional view of a muscle fiber"
+  book_page: 51
+  pdf_page: 51
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Discharge of an action potential (an electrical nerve impulse) arrives nearly simultaneously from the surface to all depths of the muscle fiber.
+
+attributes:
+  - electrical_nerve_impulse
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sliding_filament_theory
+type: Concept
+canonical_name: Sliding-Filament Theory of Muscular Contraction
+semantic_type: Theory
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Sliding-Filament Theory of Muscular Contraction"
+  section_title: "Sliding-Filament Theory of Muscular Contraction"
+  book_page: 52
+  pdf_page: 52
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The sliding-filament theory was proposed by Huxley and Hanson in 1954 to mechanistically explain muscular contraction at the molecular level (22). In its simplest form, the sliding-filament theory indicates that actin filaments anchored to each end of the sarcomere slide inward on myosin filaments. This results in Z-lines being pulled toward the center of the sarcomere and in muscle fiber shortening (figure 1.7).
+
+attributes: []
+
+purpose:
+  - mechanistically explain muscular contraction at the molecular level
+
+related_concepts:
+  - concept.sarcomere
+  - concept.actin_filament
+  - concept.myosin_filament
+  - concept.z_line
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.power_stroke
+type: Concept
+canonical_name: Power Stroke
+semantic_type: PhysiologicalProcess
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Sliding-Filament Theory of Muscular Contraction"
+  section_title: "Sliding-Filament Theory of Muscular Contraction"
+  book_page: 53
+  pdf_page: 53
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The energy-dependent inward movement of actin filaments over the myosin filaments through what is termed the power stroke, are the bases for muscle contraction.
+
+attributes:
+  - energy_dependent
+
+purpose:
+  - basis for muscle contraction
+
+related_concepts:
+  - concept.actin_filament
+  - concept.myosin_filament
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.troponin
+type: Concept
+canonical_name: Troponin
+semantic_type: Protein
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Excitation–Contraction Coupling Phase"
+  section_title: "Excitation–Contraction Coupling Phase"
+  book_page: 53
+  pdf_page: 53
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Secreted calcium ions bind with a high affinity to the troponin protein, which exists at regular intervals along the actin filament (figure 1.6).
+
+attributes:
+  - binds_calcium_with_high_affinity
+
+purpose: []
+
+related_concepts:
+  - concept.actin_filament
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.tropomyosin
+type: Concept
+canonical_name: Tropomyosin
+semantic_type: Protein
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Excitation–Contraction Coupling Phase"
+  section_title: "Excitation–Contraction Coupling Phase"
+  book_page: 53
+  pdf_page: 53
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  This calcium-troponin interaction causes a shift in another protein termed tropomyosin, which is bound to troponin and spans the length of the actin filament.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.troponin
+  - concept.actin_filament
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.crossbridge_cycling
+type: Concept
+canonical_name: Crossbridge Cycling
+semantic_type: PhysiologicalProcess
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 1
+  chapter_title: "Benefits and Risks Associated With Physical Activity"
+  section: "Contraction Phase"
+  section_title: "Contraction Phase"
+  book_page: 54
+  pdf_page: 54
+
+provenance:
+ 

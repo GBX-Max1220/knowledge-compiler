@@ -1,0 +1,30 @@
+id: procedure.glute_bridge
+type: Procedure
+canonical_name: Glute Bridge
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Program Design Considerations
+  section: '15.4'
+  section_title: Program Design Considerations
+  book_page: 921
+  pdf_page: 921
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Lie supine with the knees flexed to approximately 90 degrees and the
+  feet hip-width apart and flat on the floor. Pushing the feet into the floor and
+  squeezing the glutes, lift the hips up toward the ceiling until the body attains
+  a straight-line posture. Hold for a second and then return the hips to the floor.
+  The action can use a single leg as an alternative to a double leg.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

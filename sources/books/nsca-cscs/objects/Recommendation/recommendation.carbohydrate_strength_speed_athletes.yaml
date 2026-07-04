@@ -1,0 +1,35 @@
+id: recommendation.carbohydrate_strength_speed_athletes
+type: Recommendation
+canonical_name: Carbohydrate intake for strength and speed athletes
+semantic_type: Nutrition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Athletic Performance
+  section: '11.3'
+  section_title: Postcompetition Nutrition
+  book_page: 637
+  pdf_page: 637
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Athletes should consider supplementing with carbohydrate before and during
+  competition to maintain strength and minimize muscle breakdown. In general, strength
+  or speed athletes should consume 5 to 6 grams of carbohydrate per kilogram body
+  weight per day during peak training periods. As little as 30 grams of carbohydrate
+  after training may reduce muscle breakdown.
+
+  '
+attributes:
+- carbohydrate
+- strength_athletes
+- speed_athletes
+purpose:
+- maintain strength
+- minimize muscle breakdown
+related_concepts: []

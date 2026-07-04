@@ -1,0 +1,252 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.alzheimers_disease_testing
+type: TableRow
+canonical_name: Alzheimer's Disease Testing
+semantic_type: Testing Consideration
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Testing"
+  section: "11.17"
+  section_title: "Exercise Testing"
+  book_page: 981
+  pdf_page: 981
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise testing considerations for Alzheimer's disease.
+
+attributes:
+  - condition: "Alzheimer's disease"
+  - common_impairments: ""
+  - testing_considerations: ""
+  - recommended_protocols: ""
+
+purpose:
+  - guide exercise testing for Alzheimer's disease
+
+related_concepts:
+  - concept.alzheimers_disease
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.multiple_sclerosis_testing
+type: TableRow
+canonical_name: Multiple Sclerosis Testing
+semantic_type: Testing Consideration
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Testing"
+  section: "11.17"
+  section_title: "Exercise Testing"
+  book_page: 981
+  pdf_page: 981
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise testing considerations for multiple sclerosis.
+
+attributes:
+  - condition: "Multiple sclerosis"
+  - common_impairments: ""
+  - testing_considerations: ""
+  - recommended_protocols: ""
+
+purpose:
+  - guide exercise testing for multiple sclerosis
+
+related_concepts:
+  - concept.multiple_sclerosis
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.parkinsons_disease_testing
+type: TableRow
+canonical_name: Parkinson's Disease Testing
+semantic_type: Testing Consideration
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Testing"
+  section: "11.17"
+  section_title: "Exercise Testing"
+  book_page: 981
+  pdf_page: 981
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise testing considerations for Parkinson's disease.
+
+attributes:
+  - condition: "Parkinson's disease"
+  - common_impairments: ""
+  - testing_considerations: ""
+  - recommended_protocols: ""
+
+purpose:
+  - guide exercise testing for Parkinson's disease
+
+related_concepts:
+  - concept.parkinsons_disease
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.spinal_cord_injury_testing
+type: TableRow
+canonical_name: Spinal Cord Injury Testing
+semantic_type: Testing Consideration
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Testing"
+  section: "11.17"
+  section_title: "Exercise Testing"
+  book_page: 981
+  pdf_page: 981
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise testing considerations for spinal cord injury.
+
+attributes:
+  - condition: "Spinal cord injury"
+  - common_impairments: ""
+  - testing_considerations: ""
+  - recommended_protocols: ""
+
+purpose:
+  - guide exercise testing for spinal cord injury
+
+related_concepts:
+  - concept.spinal_cord_injury
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.stroke_testing
+type: TableRow
+canonical_name: Stroke Testing
+semantic_type: Testing Consideration
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Testing"
+  section: "11.17"
+  section_title: "Exercise Testing"
+  book_page: 981
+  pdf_page: 981
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise testing considerations for stroke.
+
+attributes:
+  - condition: "Stroke"
+  - common_impairments: ""
+  - testing_considerations: ""
+  - recommended_protocols: ""
+
+purpose:
+  - guide exercise testing for stroke
+
+related_concepts:
+  - concept.stroke
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.traumatic_brain_injury_testing
+type: TableRow
+canonical_name: Traumatic Brain Injury Testing
+semantic_type: Testing Consideration
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Testing"
+  section: "11.17"
+  section_title: "Exercise Testing"
+  book_page: 981
+  pdf_page: 981
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise testing considerations for traumatic brain injury.
+
+attributes:
+  - condition: "Traumatic brain injury"
+  - common_impairments: ""
+  - testing_considerations: ""
+  - recommended_protocols: ""
+
+purpose:
+  - guide exercise testing for traumatic brain injury
+
+related_concepts:
+  - concept.traumatic_brain_injury
+---

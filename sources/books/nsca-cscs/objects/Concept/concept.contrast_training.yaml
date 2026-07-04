@@ -1,0 +1,28 @@
+id: concept.contrast_training
+type: Concept
+canonical_name: Contrast Training
+semantic_type: TrainingMethod
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1288
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Contrast training involves alternating high-load exercises and high-velocity
+  exercises in contrast pairs in a set-by-set fashion with sufficient inter-set rest
+  to avoid fatigue-induced interference.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

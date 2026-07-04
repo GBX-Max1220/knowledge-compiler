@@ -1,0 +1,541 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.step_up_exercise_technique
+type: Procedure
+canonical_name: Step-Up Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1031
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A step-up exercise technique involving a box 12 to 18 inches (30-46 cm) high, or high enough to create a 90-degree angle at the knee joint when the foot is on the box. The technique includes starting positions for the athlete and spotter, upward movement phase, and downward movement phase.
+
+attributes:
+  - closed pronated grip
+  - parallel feet
+  - erect torso
+  - neutral spine
+
+purpose:
+  - improve lower body strength
+  - improve balance
+
+related_concepts:
+  - threshold.step_up_box_height_range
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.good_morning_exercise_technique
+type: Procedure
+canonical_name: Good Morning Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1035
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A good morning exercise technique involving a bar placed on the upper back and shoulders. The technique includes a starting position, downward movement phase, and upward movement phase.
+
+attributes:
+  - closed pronated grip
+  - neutral spine
+  - high elbow position
+  - slightly flexed knees
+
+purpose:
+  - strengthen posterior chain
+  - improve hip hinge pattern
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.deadlift_exercise_technique
+type: Procedure
+canonical_name: Deadlift Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1037
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A deadlift exercise technique where the bar is positioned approximately 1 inch (3 cm) in front of the shins and over the balls of the feet. The technique includes a starting position, upward movement phase, and downward movement phase.
+
+attributes:
+  - closed pronated grip
+  - neutral spine
+  - fully extended elbows
+  - hips lower than shoulders
+
+purpose:
+  - strengthen posterior chain
+  - improve full body strength
+
+related_concepts:
+  - threshold.deadlift_bar_position_from_shins
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.stiff_leg_deadlift_exercise_technique
+type: Procedure
+canonical_name: Stiff-Leg Deadlift Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1039
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A stiff-leg deadlift exercise technique performed after the deadlift exercise to lift the bar off the floor. The technique includes a starting position, downward movement phase, and upward movement phase.
+
+attributes:
+  - slightly to moderately flexed knees
+  - neutral spine
+  - fully extended elbows
+  - back neutral or slightly arched
+
+purpose:
+  - strengthen hamstrings
+  - strengthen lower back
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.romanian_deadlift_exercise_technique
+type: Procedure
+canonical_name: Romanian Deadlift (RDL) Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1041
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A Romanian deadlift (RDL) exercise technique performed after the deadlift exercise to lift the bar off the floor. The technique includes a starting position, downward movement phase, and upward movement phase.
+
+attributes:
+  - closed pronated grip
+  - slightly flexed knees
+  - neutral spine
+  - rigid torso
+
+purpose:
+  - strengthen hamstrings
+  - strengthen glutes
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.leg_extension_machine_exercise_technique
+type: Procedure
+canonical_name: Leg (Knee) Extension (Machine) Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1043
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A leg (knee) extension machine exercise technique. The technique includes a starting position, upward movement phase, and downward movement phase.
+
+attributes:
+  - back firmly pressed against back pad
+  - legs parallel
+  - knees aligned with machine axis
+  - tight grip on handles
+
+purpose:
+  - strengthen quadriceps
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.seated_leg_curl_machine_exercise_technique
+type: Procedure
+canonical_name: Seated Leg (Knee) Curl (Machine) Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1045
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A seated leg (knee) curl machine exercise technique. The technique includes a starting position, downward movement phase, and upward movement phase.
+
+attributes:
+  - back firmly pressed against back pad
+  - legs parallel
+  - knees aligned with machine axis
+  - tight grip on handles
+
+purpose:
+  - strengthen hamstrings
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.shoulder_press_machine_exercise_technique
+type: Procedure
+canonical_name: Shoulder Press (Machine) Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1047
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A shoulder press machine exercise technique. The technique includes a starting position, upward movement phase, and downward movement phase.
+
+attributes:
+  - five-point body contact position
+  - closed pronated grip
+  - handles aligned with top of shoulders
+
+purpose:
+  - strengthen shoulders
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.seated_barbell_shoulder_press_exercise_technique
+type: Procedure
+canonical_name: Seated Barbell Shoulder Press Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1049
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A seated barbell shoulder press exercise technique that can also be performed with two dumbbells, using a closed, pronated grip. The technique includes starting positions for the athlete and spotter, downward movement phase, and upward movement phase.
+
+attributes:
+  - five-point body contact position
+  - closed pronated grip
+  - grip slightly wider than shoulder width
+  - wrists stiff
+
+purpose:
+  - strengthen shoulders
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.upright_row_exercise_technique
+type: Procedure
+canonical_name: Upright Row Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1052
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  An upright row exercise technique. The technique includes a starting position, upward movement phase, and downward movement phase.
+
+attributes:
+  - closed pronated grip
+  - grip approximately shoulder-width apart or slightly wider
+  - elbows fully extended
+  - elbows pointed out to sides
+
+purpose:
+  - strengthen shoulders
+  - strengthen upper back
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lateral_shoulder_raise_exercise_technique
+type: Procedure
+canonical_name: Lateral Shoulder Raise Exercise Technique
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1053
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A lateral shoulder raise exercise technique using two dumbbells. The technique includes a starting position, upward movement phase, and downward movement phase.
+
+attributes:
+  - closed neutral grip
+  - slightly flexed elbows
+  - erect torso
+  - shoulders back
+
+purpose:
+  - strengthen shoulders
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.step_up_box_height_range
+type: Threshold
+canonical_name: Step-Up Box Height Range
+semantic_type: Equipment Specification
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1031
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The box used should be 12 to 18 inches (30-46 cm) high, or high enough to create a 90-degree angle at the knee joint when the foot is on the box.
+
+value:
+  min: 12
+  max: 18
+  unit: inches
+  metric_min: 30
+  metric_max: 46
+  metric_unit: cm
+
+condition: "high enough to create a 90-degree angle at the knee joint when the foot is on the box"
+
+related_concepts:
+  - procedure.step_up_exercise_technique
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.deadlift_bar_position_from_shins
+type: Threshold
+canonical_name: Deadlift Bar Position from Shins
+semantic_type: Equipment Position
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique Guidelines"
+  section: "16.3"
+  section_title: "Exercise Technique Guidelines"
+  book_page: 1037
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Place the feet flat on the floor and position the bar approximately 1 inch (3 cm) in front of the shins and over the balls of the feet.
+
+value:
+  distance: 1
+  unit: inches
+  metric_distance: 3
+  metric_unit: cm
+
+condition: "over the balls of the feet"
+
+related_concepts:
+  - procedure.deadlift_exercise_technique

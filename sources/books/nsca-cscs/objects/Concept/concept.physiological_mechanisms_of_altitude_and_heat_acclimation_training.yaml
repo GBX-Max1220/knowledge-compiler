@@ -1,0 +1,32 @@
+id: concept.physiological_mechanisms_of_altitude_and_heat_acclimation_training
+type: Concept
+canonical_name: Physiological Mechanisms of Altitude and Heat Acclimation Training
+semantic_type: null
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Factors Influencing Adaptations
+  section: '6.3'
+  section_title: Factors Influencing Adaptations
+  book_page: 372
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A graphical representation of the proposed physiological mechanisms of
+  altitude and heat acclimation training and their subsequent effect on aerobic endurance
+  exercise performance. Erythropoietin = EPO; nitric oxide = NO; red cell volume =
+  RCV; vascular endothelial growth factor = VEGF; hypoxia-inducible factor alpha =
+  HIF-α; maximal aerobic capacity = V̇O2max; arteriovenous oxygen difference = a-vO2
+  diff. Solid lines indicate well-established relationship and dashed lines indicate
+  limited evidence supporting the relationship.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

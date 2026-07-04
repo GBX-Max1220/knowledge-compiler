@@ -1,0 +1,30 @@
+id: concept.myosin_heavy_chain_isoform
+type: Concept
+canonical_name: Myosin Heavy Chain Isoform
+semantic_type: Molecule
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 58
+  pdf_page: 58
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Isoforms used for myofiber classification through single fiber isolation
+  techniques and immunohistochemical staining.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.type_i_muscle_fiber
+- concept.type_iia_muscle_fiber
+- concept.type_iix_muscle_fiber

@@ -1,0 +1,28 @@
+id: concept.prevalence_of_vaping_in_us_high_school_students_2019
+type: Concept
+canonical_name: Prevalence of Vaping in US High School Students (2019)
+semantic_type: null
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Factors Influencing Adaptations
+  section: '6.3'
+  section_title: Factors Influencing Adaptations
+  book_page: 375
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Vaping is currently the most common modality of nicotine consumption
+  in young people, with 27.5% of high school students in 2019 in the United States
+  reportedly vaping (133).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

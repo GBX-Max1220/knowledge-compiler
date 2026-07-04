@@ -1,0 +1,30 @@
+id: concept.biological_maturation
+type: Concept
+canonical_name: Biological Maturation
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 390
+  pdf_page: 390
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'biological maturation, which can be measured in terms of skeletal age,
+  sexual maturation, or somatic (physique) maturation.
+
+  '
+attributes:
+- skeletal age
+- sexual maturation
+- somatic maturation
+purpose: []
+related_concepts: []

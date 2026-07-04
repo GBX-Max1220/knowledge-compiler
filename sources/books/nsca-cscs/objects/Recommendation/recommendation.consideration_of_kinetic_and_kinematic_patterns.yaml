@@ -1,0 +1,21 @@
+id: recommendation.consideration_of_kinetic_and_kinematic_patterns
+type: Recommendation
+canonical_name: Consideration of kinetic and kinematic patterns
+semantic_type: Training_Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Mobility Training
+  section: '15.2'
+  section_title: Mobility Training
+  book_page: 874
+  pdf_page: 874
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: As well as a consideration of the ROM itself, it is also important

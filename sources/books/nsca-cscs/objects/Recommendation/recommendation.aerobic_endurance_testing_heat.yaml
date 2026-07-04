@@ -1,0 +1,33 @@
+id: recommendation.aerobic_endurance_testing_heat
+type: Recommendation
+canonical_name: Guidelines for Aerobic Endurance Testing in the Heat
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing
+  section: '13.4'
+  section_title: Test Selection
+  book_page: 753
+  pdf_page: 753
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Follow these guidelines to minimize health risks and obtain accurate
+  results when testing athletes in hot environments (9, 23, 30).
+
+  '
+attributes: []
+purpose:
+- minimize health risks
+- obtain accurate results
+related_concepts:
+- concept.heat_injury
+- concept.hyponatremia
+- concept.heat_acclimation
+- concept.hydration

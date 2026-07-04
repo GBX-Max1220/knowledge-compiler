@@ -1,0 +1,31 @@
+id: recommendation.optimizing_hiit_for_athletes
+type: Recommendation
+canonical_name: Optimizing HIIT for Athletes
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 219
+  pdf_page: 219
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'To optimize HIIT training adaptations for athletes, HIIT sessions
+  should maximize the time spent at or near V̇O2max. In comparison to more general
+  interval training, during HIIT specifically, the cumulative duration and intensity
+  of the active portions of the work bouts should equate to several minutes above
+  90% of V̇O2max (24).
+
+  '
+target_population:
+- athletes
+condition: []
+citations:
+- '24'

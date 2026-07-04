@@ -1,0 +1,28 @@
+id: concept.cardiac_and_respiratory_considerations
+type: Concept
+canonical_name: Cardiac and Respiratory Considerations
+semantic_type: Topic
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.13'
+  section_title: Cardiac and Respiratory Considerations
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'This section contains no labelable content (definitions, recommendations,
+  procedures, thresholds, warnings, contraindications, risk factors, evidence, formulas,
+  figures, tables, or decision rules) as defined by the extraction ontology.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

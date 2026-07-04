@@ -1,0 +1,263 @@
+# Extraction: Section 1.2 — Physical Activity and Fitness Terminology
+# Source: ACSM's Guidelines for Exercise Testing and Prescription, 12th Ed.
+# Pages: 69–74
+
+---
+TYPE: Definition
+TITLE: Physical Activity
+PAGE: 69–70
+SECTION: 1.2
+ORIGINAL: PA is defined as any bodily movement produced by the contraction of skeletal muscles that results in an increase in caloric requirements over resting energy expenditure (7).
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+END
+
+---
+TYPE: Definition
+TITLE: Exercise
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Exercise, on the other hand, is a type of PA consisting of planned, structured, and repetitive bodily movement done to improve and/or maintain one or more components of physical fitness (7).
+RELATIONSHIPS:
+  - is_a: Physical Activity
+END
+
+---
+TYPE: Definition
+TITLE: Physical Fitness
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Physical fitness, although defined in several ways, has generally been described as a set of attributes or characteristics individuals have or achieve that relate to their ability to perform PA and activities of daily living (7).
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+END
+
+---
+TYPE: Definition
+TITLE: Health-Related Physical Fitness Components
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Health-Related Physical Fitness Components include cardiorespiratory endurance, body composition, muscular strength, muscular endurance, and flexibility.
+PARENT: Physical Fitness
+CHILDREN:
+  - Cardiorespiratory Endurance
+  - Body Composition
+  - Muscular Strength
+  - Muscular Endurance
+  - Flexibility
+RELATIONSHIPS:
+END
+
+---
+TYPE: Definition
+TITLE: Cardiorespiratory Endurance
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Cardiorespiratory endurance: the ability of the circulatory and respiratory system to supply oxygen during sustained physical activity.
+PARENT: Health-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Health-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Body Composition
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Body composition: the relative amounts of muscle, fat, bone, and other vital parts of the body.
+PARENT: Health-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Health-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Muscular Strength
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Muscular strength: the ability of muscle to exert force.
+PARENT: Health-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Health-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Muscular Endurance
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Muscular endurance: the ability of muscle to continue to perform without fatigue.
+PARENT: Health-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Health-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Flexibility
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Flexibility: the range of motion available at a joint.
+PARENT: Health-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Health-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Skill-Related Physical Fitness Components
+PAGE: 70–71
+SECTION: 1.2
+ORIGINAL: Skill-Related Physical Fitness Components include agility, coordination, balance, power, reaction time, and speed.
+PARENT: Physical Fitness
+CHILDREN:
+  - Agility
+  - Coordination
+  - Balance
+  - Power
+  - Reaction Time
+  - Speed
+RELATIONSHIPS:
+END
+
+---
+TYPE: Definition
+TITLE: Agility
+PAGE: 70
+SECTION: 1.2
+ORIGINAL: Agility: the ability to change the position of the body in space with speed and accuracy.
+PARENT: Skill-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Skill-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Coordination
+PAGE: 70–71
+SECTION: 1.2
+ORIGINAL: Coordination: the ability to use the senses, such as sight and hearing, together with body parts in performing tasks smoothly and accurately.
+PARENT: Skill-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Skill-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Balance
+PAGE: 71
+SECTION: 1.2
+ORIGINAL: Balance: the maintenance of equilibrium while stationary or moving.
+PARENT: Skill-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Skill-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Power
+PAGE: 71
+SECTION: 1.2
+ORIGINAL: Power: the ability or rate at which one can perform work.
+PARENT: Skill-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Skill-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Reaction Time
+PAGE: 71
+SECTION: 1.2
+ORIGINAL: Reaction time: the time elapsed between stimulation and the beginning of the reaction to it.
+PARENT: Skill-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Skill-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Speed
+PAGE: 71
+SECTION: 1.2
+ORIGINAL: Speed: the ability to perform a movement within a short period of time.
+PARENT: Skill-Related Physical Fitness Components
+CHILDREN:
+RELATIONSHIPS:
+  - part_of: Skill-Related Physical Fitness Components
+END
+
+---
+TYPE: Definition
+TITLE: Metabolic Equivalent (MET)
+PAGE: 71
+SECTION: 1.2
+ORIGINAL: One MET is equivalent to resting metabolic rate (~3.5 mL · kg⁻¹ · min⁻¹) or the amount of oxygen consumed while sitting at rest.
+PARENT:
+CHILDREN:
+RELATIONSHIPS:
+  - used_for: Intensity Classification
+END
+
+---
+TYPE: Threshold
+TITLE: Light Intensity (MET)
+PAGE: 71
+SECTION: 1.2
+ORIGINAL: Among adults, light-intensity PA is defined as 1.6–2.9 METs.
+RELATIONSHIPS:
+  - adjacent_to: Moderate Intensity
+END
+
+---
+TYPE: Threshold
+TITLE: Moderate Intensity (MET)
+PAGE: 71
+SECTION: 1.2
+ORIGINAL: Among adults, moderate-intensity PA is defined as 3.0–5.9 METs.
+RELATIONSHIPS:
+  - adjacent_to: Light Intensity
+  - adjacent_to: Vigorous Intensity
+END
+
+---
+TYPE: Threshold
+TITLE: Vigorous Intensity (MET)
+PAGE: 71
+SECTION: 1.2
+ORIGINAL: Among adults, vigorous-intensity PA is defined as ≥6.0 METs.
+RELATIONSHIPS:
+  - adjacent_to: Moderate Intensity
+END
+
+---
+TYPE: Table
+TITLE: Table 1.1 — METs Values of Common Physical Activities Classified as Light, Moderate, or Vigorous Intensity
+PAGE: 71–74
+SECTION: 1.2
+ORIGINAL: See chunk file for full table content.
+PARENT:
+CHILDREN:
+  - Walking slowly (2.0 MET, Light)
+  - Walking 3 mph (3.0 MET, Moderate)
+  - Walking very brisk 4 mph (5.0 MET, Moderate)
+  - Walking very very brisk 4.5 mph (6.3 MET, Vigorous)
+  - Jogging 5 mph (8.0 MET, Vigorous)
+  - Running 7 mph (11.5 MET, Vigorous)
+  - Basketball game (8.0 MET, Vigorous)
+  - etc.
+RELATIONSHIPS:
+END
+---

@@ -1,0 +1,23 @@
+id: evidence.decline_fast_twitch_fiber_csa_14_days_inactivity
+type: Evidence
+canonical_name: Decline in Fast-Twitch Fiber CSA After 14 Days of Inactivity
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 334
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+finding: A decline of 6.4% in fast-twitch fiber CSA in 14 days.
+context: detraining
+citations:
+- '78'

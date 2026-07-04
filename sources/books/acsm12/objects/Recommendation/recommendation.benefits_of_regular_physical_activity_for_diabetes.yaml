@@ -1,0 +1,33 @@
+id: recommendation.benefits_of_regular_physical_activity_for_diabetes
+type: Recommendation
+canonical_name: Benefits of Regular Physical Activity for Diabetes
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.3'
+  section_title: Benefits of Regular Physical Activity for Diabetes
+  book_page: 711
+  pdf_page: 711
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Regular physical activity is recommended for individuals with diabetes
+  because of its benefits in improving glycemic control, reducing cardiovascular disease
+  risk factors, and enhancing overall well-being.
+
+  '
+attributes: []
+purpose:
+- improve glycemic control
+- reduce cardiovascular disease risk factors
+- enhance overall well-being
+related_concepts:
+- concept.diabetes
+- concept.physical_activity

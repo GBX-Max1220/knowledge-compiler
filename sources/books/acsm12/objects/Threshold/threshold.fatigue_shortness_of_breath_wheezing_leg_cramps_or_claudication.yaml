@@ -1,0 +1,12 @@
+id: threshold.fatigue_shortness_of_breath_wheezing_leg_cramps_or_claudication
+type: Threshold
+canonical_name: Fatigue Shortness Of Breath Wheezing Leg Cramps Or Claudication
+semantic_type: Entity
+source:
+  book: ACSM Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  section: '1.0'
+  book_page: 1
+definition: Fatigue Shortness Of Breath Wheezing Leg Cramps Or Claudication is a concept
+  in exercise science.

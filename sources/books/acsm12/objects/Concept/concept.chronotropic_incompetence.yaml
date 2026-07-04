@@ -1,0 +1,31 @@
+id: concept.chronotropic_incompetence
+type: Concept
+canonical_name: Chronotropic Incompetence
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Clinical Exercise Test Data and Prognosis
+  section: '4.22'
+  section_title: Clinical Exercise Test Data and Prognosis
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.prognostic_marker
+definition: 'Chronotropic incompetence, defined as failure to achieve 85% of age-predicted
+  maximal heart rate, is another marker of poor prognosis.
+
+  '
+attributes:
+- failure to achieve 85% of age-predicted maximal heart rate
+purpose:
+- marker of poor prognosis
+related_concepts: []

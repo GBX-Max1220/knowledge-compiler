@@ -1,0 +1,42 @@
+id: formula.duke_treadmill_score
+type: Formula
+canonical_name: Duke Treadmill Score Calculation
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Clinical Exercise Test Data and Prognosis
+  section: '4.22'
+  section_title: Clinical Exercise Test Data and Prognosis
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.prognosis
+definition: 'The DTS is calculated as: exercise time (minutes) – (5 × ST-segment deviation
+  [mm]) – (4 × angina index). The angina index is 0 for no angina, 1 for nonlimiting
+  angina, and 2 for exercise-limiting angina.
+
+  '
+expression: exercise time (minutes) – (5 × ST-segment deviation [mm]) – (4 × angina
+  index)
+variables:
+- name: exercise time
+  unit: minutes
+- name: ST-segment deviation
+  unit: mm
+- name: angina index
+  values:
+  - value: 0
+    description: no angina
+  - value: 1
+    description: nonlimiting angina
+  - value: 2
+    description: exercise-limiting angina

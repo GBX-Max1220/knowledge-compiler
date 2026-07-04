@@ -1,0 +1,30 @@
+id: warning.excess_vitamin_k_interference_with_anticlotting_medications
+type: Warning
+canonical_name: Excess Vitamin K Interference with Anticlotting Medications
+semantic_type: Interaction
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.4'
+  section_title: Vitamins
+  book_page: 580
+  pdf_page: 580
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Because vitamin K helps blood clot, excess intake of this vitamin can
+  interfere with the effects of some anticlotting medications such as warfarin (Coumadin)
+  (94).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.vitamin_k
+- concept.warfarin

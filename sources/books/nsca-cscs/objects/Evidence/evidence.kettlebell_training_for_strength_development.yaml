@@ -1,0 +1,37 @@
+id: evidence.kettlebell_training_for_strength_development
+type: Evidence
+canonical_name: Kettlebell training for strength development
+semantic_type: ''
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1129
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+evidence_text: 'When used with clinical and recreationally trained populations, kettlebell
+  training has been reported to increase muscular strength levels compared to no training
+  (68, 103). Additionally, when a battery of kettlebell exercises (i.e., swings, goblet
+  squats, accelerated swings) is performed across a six-week training intervention,
+  there appears to be an increase in muscular strength and vertical jump performance
+  in recreationally trained men (103). However, these strength gains are significantly
+  lower than those typically seen with traditional weightlifting-based training methods.
+  Specifically, Otto and colleagues (103) reported that six weeks of weightlifting
+  training resulted in a 4% increase in vertical jump performance, while kettlebell
+  swings increased jumping performance by only 0.8%. Additionally, back squat strength
+  was increased by 13.6% after six weeks of traditional weightlifting training, while
+  the kettlebell training resulted in only a 4.5% increase (103).
+
+  '
+findings: []
+population: ''
+methodology: ''

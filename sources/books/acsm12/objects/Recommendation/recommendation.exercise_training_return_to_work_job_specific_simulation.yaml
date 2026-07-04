@@ -1,0 +1,27 @@
+id: recommendation.exercise_training_return_to_work_job_specific_simulation
+type: Recommendation
+canonical_name: Exercise Training for Return to Work — Job-Specific Simulation
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.41'
+  section_title: Exercise Training for Return to Work
+  book_page: 626
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Whenever possible, the exercise training should simulate the actual job
+  tasks (e.g., lifting, carrying, pushing, pulling, climbing, and repetitive arm work).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

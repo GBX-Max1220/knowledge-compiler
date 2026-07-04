@@ -1,0 +1,688 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.cleaning_and_sanitizing_surfaces_and_equipment
+type: Recommendation
+canonical_name: Cleaning and Sanitizing Surfaces and Equipment
+semantic_type: Maintenance Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Surfaces in the strength and conditioning facility should be cleaned, sanitized, and disinfected consistently to ensure that the equipment is safe and functional. Proper maintenance will reduce cost in the long run, because cleaning supplies are cheaper than replacing padding, flooring, exercise mats, and so on. Microbes will begin to grow if the surfaces are not wiped down with a germicidal cleaner.
+
+attributes: []
+
+purpose:
+  - ensure equipment is safe and functional
+  - reduce cost in the long run
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.frequency_of_cleaning_high_use_equipment_and_surfaces
+type: Recommendation
+canonical_name: Frequency of Cleaning High-Use Equipment and Surfaces
+semantic_type: Maintenance Schedule
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Equipment and surfaces that are used more often and have a greater chance of developing bacterial growth (e.g., padding and vinyl), should be cleaned daily or every other day.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.germicidal_cleaner_requirements
+type: Recommendation
+canonical_name: Germicidal Cleaner Requirements
+semantic_type: Product Specification
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  It is important that any germicidal cleaner used in the strength facility have the ability to prevent the spread of germs, including bacteria, viruses, parasites, and fungi, and illness, such as the flu, COVID-19, HIV, hepatitis, and ringworm (or other infectious rashes).
+
+attributes: []
+
+purpose:
+  - prevent the spread of germs
+  - prevent the spread of illness
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.cdc_recommended_sanitizing_and_disinfecting_protocol
+type: Recommendation
+canonical_name: CDC-Recommended Sanitizing and Disinfecting Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  After cleaning surfaces and equipment to remove any dirt and debris, the CDC recommends sanitizing and disinfecting surfaces with an EPA-registered disinfecting product to eliminate and inactivate germs to reduce the spread of illness (20).
+
+attributes: []
+
+purpose:
+  - eliminate and inactivate germs
+  - reduce the spread of illness
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.laundry_cleaning_protocol
+type: Recommendation
+canonical_name: Laundry Cleaning Protocol
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For laundry items, such as cleaning rags and gym towels, use detergent and the hottest available water setting, and dry items completely.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.nonabsorbent_floor_maintenance
+type: Recommendation
+canonical_name: Nonabsorbent Floor Maintenance
+semantic_type: Maintenance Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Nonabsorbent floors should be regularly mopped for removal of dust and grime buildup.
+
+attributes: []
+
+purpose:
+  - removal of dust and grime buildup
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.wood_weightlifting_platform_maintenance
+type: Recommendation
+canonical_name: Wood Weightlifting Platform Maintenance
+semantic_type: Maintenance Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Wood weightlifting platforms should also be checked for splintering and cracking and cleaned with an appropriate cleaner to remove dust and dirt that could cause foot slippage.
+
+attributes: []
+
+purpose:
+  - remove dust and dirt that could cause foot slippage
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.equipment_bolt_and_screw_inspection
+type: Recommendation
+canonical_name: Equipment Bolt and Screw Inspection
+semantic_type: Inspection Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  When cleaning around racks and machinery, the bolts and screws that hold the equipment to the floor should also be tightened or checked regularly (4).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.cable_and_pulley_inspection_and_repair
+type: Recommendation
+canonical_name: Cable and Pulley Inspection and Repair
+semantic_type: Inspection Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1761
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Machines that have cables and pulleys should be regularly checked and should be repaired if the cables and pulleys are loose or fraying.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.rubber_flooring_inspection
+type: Recommendation
+canonical_name: Rubber Flooring Inspection
+semantic_type: Inspection Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  If the facility has a tiled or rolled rubber floor, minimal gaps should appear between the pieces and no visible glue should extrude between the cracks.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.carpet_cleaning
+type: Recommendation
+canonical_name: Carpet Cleaning
+semantic_type: Maintenance Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Carpet should be vacuumed and cleaned regularly to prevent mold, mildew, or fungal growth.
+
+attributes: []
+
+purpose:
+  - prevent mold, mildew, or fungal growth
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.wall_and_ceiling_cleaning_frequency
+type: Recommendation
+canonical_name: Wall and Ceiling Cleaning Frequency
+semantic_type: Maintenance Schedule
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Walls and ceilings should also be cleaned at least once every week or two.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.wall_and_ceiling_cleaning_standards
+type: Recommendation
+canonical_name: Wall and Ceiling Cleaning Standards
+semantic_type: Quality Standard
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The walls and ceilings should have no dirt buildup, and there should not be any dust in the corners. Dust and cobwebs tend to build up high in the corners where the walls meet the ceiling and should be removed.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.window_and_mirror_inspection_and_replacement
+type: Recommendation
+canonical_name: Window and Mirror Inspection and Replacement
+semantic_type: Inspection Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  If the facility has windows and mirrors, they should be regularly checked for cracking and replaced as soon as a crack is noticed.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.window_and_mirror_cleaning
+type: Recommendation
+canonical_name: Window and Mirror Cleaning
+semantic_type: Maintenance Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Use a window cleaner and microfiber towel to leave the surface streak free.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.dusting_of_wall_fixtures_and_ceiling_fixtures
+type: Recommendation
+canonical_name: Dusting of Wall Fixtures and Ceiling Fixtures
+semantic_type: Maintenance Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Any windowsills, shelves, or anything hanging from the ceiling should be dusted regularly.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.hanging_exercise_equipment_inspection
+type: Recommendation
+canonical_name: Hanging Exercise Equipment Inspection
+semantic_type: Inspection Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  If exercise equipment is hanging from the ceiling, it should be regularly checked to ensure that it is tightly secured and will not fall down (4).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.equipment_inspection_for_broken_or_damaged_parts
+type: Recommendation
+canonical_name: Equipment Inspection for Broken or Damaged Parts
+semantic_type: Inspection Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The equipment should be regularly checked for broken or damaged parts, particularly those that affect functionality.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.nonfunctional_equipment_labeling_and_removal
+type: Recommendation
+canonical_name: Nonfunctional Equipment Labeling and Removal
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "NSCA's Essentials of Strength Training and Conditioning"
+  edition: 4
+  chapter: 25
+  chapter_title: "Facility Policies, Procedures, and Maintenance"
+  section: "25.3"
+  section_title: "Facility Maintenance"
+  book_page: 1762
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Nonfunctional equipment should be labeled with an "Out of Order" sign (2). If there is a delay before fixing broken equipment, it should be removed from the floor and placed in storage.
+
+attributes

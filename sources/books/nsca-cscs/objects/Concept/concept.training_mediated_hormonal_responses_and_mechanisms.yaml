@@ -1,0 +1,45 @@
+id: concept.training_mediated_hormonal_responses_and_mechanisms
+type: Concept
+canonical_name: Training-Mediated Hormonal Responses and Mechanisms
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.2'
+  section_title: Signaling Concepts
+  book_page: 248
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Electrical, chemical, and hormonal signals are transmitted from the brain,
+  active muscles, and other tissues to various endocrine glands, preparing the body''s
+  physiological systems for the demands of the workout (20, 23, 28, 32, 35, 49, 75,
+  80, 81). Heavy resistance training over months to years significantly enhances musculature
+  size, strength, and power, mediated partly through adaptive hormonal responses (47,
+  50, 70, 73, 76, 88, 95). These adaptations arise from increased levels of anabolic
+  hormones such as testosterone, growth hormone, and insulin-like growth factor-1
+  (IGF-1) that acutely rise during exercise and remain elevated after exercise. Additionally,
+  resistance exercise leads to an upregulation of hormone receptors in muscle tissues,
+  which increases the muscle''s sensitivity to these hormones and enhances protein
+  synthesis and muscle hypertrophy. The structural changes in muscle and neural adaptations
+  contribute to increased strength and power, including improvements in the rate of
+  force production and alterations in muscle fiber recruitment patterns. Resistance
+  training also positively affects bone density and the strength of connective tissues,
+  supporting increased muscular strength and overall physical performance. One critical
+  pathway in muscle protein synthesis activated by resistance training is the mammalian
+  target of the rapamycin (mTOR) pathway, which is crucial for muscle growth. These
+  complex interactions result in adaptive changes in skeletal muscle and other tissues,
+  enhancing the activation of muscle functions over time.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.mtor_pathway

@@ -1,0 +1,36 @@
+id: procedure.acsm_screening_algorithm
+type: Procedure
+canonical_name: Using the ACSM Preparticipation Screening Algorithm
+semantic_type: Protocol
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Evaluation
+  section: '2.7'
+  section_title: Using the Algorithm
+  book_page: 142
+  pdf_page: 142
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+goal: Determine need for medical clearance before exercise
+inputs:
+- individual's PA history
+- medical history
+- current symptoms
+outputs:
+- 'clearance recommendation: medical clearance needed or not needed'
+steps:
+- Classify individual as currently exercising regularly or not
+- Assess for known CV, metabolic, or renal disease
+- Assess for signs or symptoms suggestive of disease
+- Determine desired exercise intensity (moderate or vigorous)
+- Use the algorithm to determine if medical clearance is needed
+exceptions:
+- Pulmonary disease patients require special consideration
+- Algorithm should be re-administered periodically

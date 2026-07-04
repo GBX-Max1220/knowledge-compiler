@@ -1,6 +1,6 @@
 # Knowledge Compiler — 项目概览
 
-> **将教科书编译为可验证、可组合、可查询的知识对象。**
+> **确定性知识层（Deterministic Knowledge Layer）——将专家知识编译为可验证、可组合、可审计的 Knowledge IR。**
 > GitHub: https://github.com/GBX-Max1220/knowledge-compiler
 
 ---
@@ -13,19 +13,10 @@ knowledge-compiler/
 │   ├── __init__.py
 │   └── skill.py               # Skill 类：get() / resolve() / list_objects()
 │
-├── books/                     # 教材数据
-│   ├── acsm12/                # ACSM 12th Edition
-│   │   ├── source/            # PDF 源文件
-│   │   ├── manifest.yaml      # 章节结构
-│   │   ├── chunks/            # 按节分割的文本 (378 文件)
-│   │   ├── extraction/        # AI 标注结果
-│   │   ├── normalized/        # 标准化 YAML 对象
-│   │   ├── objects/           # 独立对象文件 (13 类型)
-│   │   ├── registry.yaml      # 名称 → ID 映射
-│   │   └── validation/        # 验证报告
-│   │
-│   └── nsca-cscs/             # NSCA-CSCS 5th Edition
-│       └── ...                # (同上结构)
+├── sources/                    # 源文档 → Knowledge IR
+│   └── books/                  # 教材（ACSM, NSCA）
+│       ├── acsm12/             # 707 IR nodes
+│       └── nsca-cscs/          # 1598 IR nodes
 │
 ├── schema/                    # 类型定义 (8 个 YAML)
 │   ├── concept.yaml

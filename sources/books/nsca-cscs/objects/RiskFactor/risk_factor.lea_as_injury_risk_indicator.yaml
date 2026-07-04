@@ -1,0 +1,28 @@
+id: risk_factor.lea_as_injury_risk_indicator
+type: RiskFactor
+canonical_name: LEA as Injury Risk Indicator
+semantic_type: Risk Factor
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'LEA may be one of the strongest indicators of injury risk for athletes
+  (133), with oligomenorrheic and functional hypothalamic amenorrheic (FHA) athletes
+  reporting higher percentages of severe musculoskeletal injuries resulting in greater
+  durations of time lost from sport (134).
+
+  '
+risk_factor_for: injury
+population: athletes

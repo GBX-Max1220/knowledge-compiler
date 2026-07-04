@@ -1,0 +1,27 @@
+id: recommendation.medication_review_intellectual_disability
+type: Recommendation
+canonical_name: Medication Review for Individuals with Intellectual Disability
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Review medications that may affect heart rate or exercise performance,
+  such as antipsychotics or anticonvulsants.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

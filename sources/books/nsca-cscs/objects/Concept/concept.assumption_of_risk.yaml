@@ -1,0 +1,27 @@
+id: concept.assumption_of_risk
+type: Concept
+canonical_name: Assumption of Risk
+semantic_type: Concept
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1790
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Knowing that an inherent risk exists with participation in an activity
+  and voluntarily deciding to participate anyway (19).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,30 @@
+id: warning.strongman_training_injury_risk
+type: Warning
+canonical_name: Strongman Training — Injury Risk
+semantic_type: Injury Risk
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1121
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+warning_text: 'Perhaps as a consequence of the common usage of the tire flip, yoke
+  walk, and stone lift by strongman athletes, two systematic reviews have reported
+  greater injury rates in strongman athletes when compared to other strength sport
+  athletes such as weightlifters, powerlifters, and bodybuilders (74, 121).
+
+  '
+severity: high
+citations:
+- '74'
+- '121'

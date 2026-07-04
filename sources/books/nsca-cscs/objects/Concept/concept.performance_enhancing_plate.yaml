@@ -1,0 +1,29 @@
+id: concept.performance_enhancing_plate
+type: Concept
+canonical_name: Performance Enhancing Plate
+semantic_type: Food Guidance System
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 543
+  pdf_page: 543
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Performance Enhancing Plate from the Collegiate and Professional Sports
+  Dietitians Association (CPSDA, www.sportsrd.org). This plate encourages athletes
+  on hard training days to make half their plate whole grains to fuel muscles, followed
+  by 1/4 of the plate from fruits and vegetables and the other 1/4 from proteins.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

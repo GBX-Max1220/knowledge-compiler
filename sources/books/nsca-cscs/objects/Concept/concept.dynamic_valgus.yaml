@@ -1,0 +1,23 @@
+id: concept.dynamic_valgus
+type: Concept
+canonical_name: Dynamic Valgus
+semantic_type: BiomechanicalPosition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1290
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: Inward movement of the knees—also termed dynamic valgus—is a significant
+  risk factor for knee injuries of all types, including patellofemoral pain and tears
+  or ruptures of the anterior cruciate ligament (ACL) (45).

@@ -1,0 +1,20 @@
+id: table.table_5_2
+type: Table
+canonical_name: Table 5.2
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 285
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+caption: Physiological Adaptations to Resistance Training

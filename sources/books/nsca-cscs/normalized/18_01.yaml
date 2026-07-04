@@ -1,0 +1,710 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.specificity
+type: Concept
+canonical_name: Specificity
+semantic_type: Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1187
+  pdf_page: 1187
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  One of the most basic concepts to incorporate in all training programs is specificity. The term, first suggested by DeLorme in 1945 (39), refers to the method whereby an athlete is trained in a specific manner to produce a specific adaptation or training outcome.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.said_principle
+type: Concept
+canonical_name: SAID Principle
+semantic_type: Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1187
+  pdf_page: 1187
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.specificity
+
+definition: >
+  Sometimes used interchangeably with specificity is the acronym SAID, which stands for specific adaptation to imposed demands. The underlying principle is that the type of demand placed on the body dictates the type of adaptation that will occur.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.overload
+type: Concept
+canonical_name: Overload
+semantic_type: Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1188
+  pdf_page: 1188
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Overload refers to the application of a training stimulus that exceeds what the athlete is accustomed to (i.e., increased load, sets, or repetitions [i.e., volume]) and produces an adaptation beyond the baseline abilities of the athlete.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.progression
+type: Concept
+canonical_name: Progression
+semantic_type: Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1189
+  pdf_page: 1189
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Progression, when applied properly, with loading or volume being sequential and specific to the desired adaptive response, promotes long-term training benefits.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.variation
+type: Concept
+canonical_name: Variation
+semantic_type: Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1190
+  pdf_page: 1190
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Variation within resistance training programs focuses on removing linearity by manipulating overload and specificity to promote the desired adaptations.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.reversibility
+type: Concept
+canonical_name: Reversibility
+semantic_type: Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1190
+  pdf_page: 1190
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  the removal or reduction of a training stimulus or the involution from monotonous training and poor fatigue management may cause the opposite to occur; this deterioration or loss of fitness characteristics refers to the principle of reversibility.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.individualization
+type: Concept
+canonical_name: Individualization
+semantic_type: Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1191
+  pdf_page: 1191
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The training goals and needs of each athlete are unique and should therefore command a training program suited specifically for them; this training principle is termed individualization.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.needs_analysis
+type: Concept
+canonical_name: Needs Analysis
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1194
+  pdf_page: 1194
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The strength and conditioning professional's initial task is to perform a needs analysis, a two-stage process that includes an evaluation of the requirements and characteristics of the sport and an assessment of the athlete.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.training_status
+type: Concept
+canonical_name: Training Status
+semantic_type: Attribute
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1196
+  pdf_page: 1196
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  An athlete's current condition or level of preparedness to begin a new or revised program (training status) is an important consideration in the design of training programs.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.core_exercises
+type: Concept
+canonical_name: Core Exercises
+semantic_type: Exercise Category
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1202
+  pdf_page: 1202
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Core exercises recruit one or more large muscle areas (i.e., chest, shoulder, back, hip, or thigh), involve two or more primary joints (multijoint exercises; e.g., split squat, bench press, bent-over row), and receive priority when one is selecting exercises because of their direct application to the sport and enhanced dynamic correspondence (i.e., transference of gym-based training to improved performance in athletic tasks).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.assistance_exercises
+type: Concept
+canonical_name: Assistance Exercises
+semantic_type: Exercise Category
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1202
+  pdf_page: 1202
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Assistance exercises usually recruit smaller muscle areas (i.e., upper arm, abdominal muscles, calf, neck, forearm, lower back, or anterior lower leg), involve only one primary joint (single-joint exercises; e.g., knee extension and flexion, biceps curls), and are considered less important for improving sport performance.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.structural_exercise
+type: Concept
+canonical_name: Structural Exercise
+semantic_type: Exercise Category
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1204
+  pdf_page: 1204
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.core_exercises
+
+definition: >
+  A core exercise that emphasizes loading the spine directly (e.g., back squat) or indirectly (e.g., power clean) can be further described as a structural exercise. More specifically, a structural exercise involves muscular stabilization of posture during performance of the lifting movement (e.g., maintaining a rigid torso and a neutral spine during the back squat).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.power_exercise
+type: Concept
+canonical_name: Power Exercise
+semantic_type: Exercise Category
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1204
+  pdf_page: 1204
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: is_a
+    target: concept.structural_exercise
+
+definition: >
+  A structural exercise that is performed very quickly or explosively is considered a power exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.training_frequency
+type: Concept
+canonical_name: Training Frequency
+semantic_type: Variable
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1211
+  pdf_page: 1211
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Training frequency refers to the number of training sessions completed in a given time period.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.split_routine
+type: Concept
+canonical_name: Split Routine
+semantic_type: Training Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1212
+  pdf_page: 1212
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  More highly resistance-trained (intermediate or advanced) athletes can augment their training by using a split routine in which different muscle groups are trained on different days.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_order
+type: Concept
+canonical_name: Exercise Order
+semantic_type: Variable
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1216
+  pdf_page: 1216
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Exercise order refers to a sequence of resistance exercises performed during one training session.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.superset
+type: Concept
+canonical_name: Superset
+semantic_type: Training Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1218
+  pdf_page: 1218
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A superset involves two sequentially performed exercises that stress two opposing muscles or muscle areas (i.e., an agonist and its antagonist) (2), similar to the push–pull approach.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.compound_set
+type: Concept
+canonical_name: Compound Set
+semantic_type: Training Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1218
+  pdf_page: 1218
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A compound set involves sequentially performing two different exercises for the same muscle group (2).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.load
+type: Concept
+canonical_name: Load
+semantic_type: Variable
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1221
+  pdf_page: 1221
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Load most simply refers to the amount of weight assigned to an exercise set and is often characterized as the most critical aspect of a resistance training program (50, 106, 162, 163).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mechanical_work
+type: Concept
+canonical_name: Mechanical Work
+semantic_type: Variable
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 18
+  chapter_title: "Program Design for Resistance Training"
+  section: "18.1"
+  section_title: "Program Design for Resistance Training"
+  book_page: 1221
+  pdf_page: 1221
+
+provenance:
+  extraction

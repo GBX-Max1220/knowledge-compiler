@@ -1,0 +1,36 @@
+id: concept.energy_substrates
+type: Concept
+canonical_name: Energy Substrates
+semantic_type: Molecule
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Substrate Depletion and Repletion
+  section: '3.3'
+  section_title: Substrate Depletion and Repletion
+  book_page: 203
+  pdf_page: 203
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Molecules that provide starting materials for bioenergetic reactions,
+  including phosphagens (ATP and CP), glucose, glycogen, lactate, free fatty acids,
+  and amino acids.
+
+  '
+attributes:
+- phosphagens
+- ATP
+- CP
+- glucose
+- glycogen
+- lactate
+- free fatty acids
+- amino acids
+purpose: []
+related_concepts: []

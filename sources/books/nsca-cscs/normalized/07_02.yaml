@@ -1,0 +1,686 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.osteopenia
+type: Concept
+canonical_name: Osteopenia
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 418
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Osteopenia is defined by a bone mineral density between −1 and −2.5 standard deviations (SD) of the young adult mean.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.osteoporosis
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.osteoporosis
+type: Concept
+canonical_name: Osteoporosis
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 418
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Osteoporosis is defined by a bone mineral density below −2.5 SD of the young adult mean.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.osteopenia
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sarcopenia
+type: Concept
+canonical_name: Sarcopenia
+semantic_type: MedicalCondition
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 419
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The term sarcopenia refers to a progressive and generalized skeletal muscle disorder that is associated with an increased likelihood of adverse outcomes including falls, fractures, physical disability, and mortality.
+
+attributes:
+  - progressive
+  - generalized
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.bone_mineral_density.osteopenia
+type: Threshold
+canonical_name: Osteopenia Bone Mineral Density Threshold
+semantic_type: DiagnosticThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 418
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.bone_mineral_density.osteoporosis
+
+definition: >
+  Osteopenia is defined by a bone mineral density between −1 and −2.5 standard deviations (SD) of the young adult mean.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.osteopenia
+
+threshold_value: "-1 to -2.5"
+unit: "SD"
+condition: "bone mineral density"
+operator: "range"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.bone_mineral_density.osteoporosis
+type: Threshold
+canonical_name: Osteoporosis Bone Mineral Density Threshold
+semantic_type: DiagnosticThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 418
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.bone_mineral_density.osteopenia
+
+definition: >
+  Osteoporosis is defined by a bone mineral density below −2.5 SD of the young adult mean.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.osteoporosis
+
+threshold_value: "-2.5"
+unit: "SD"
+condition: "bone mineral density"
+operator: "below"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.training_program_seniors_falls_prevention
+type: Recommendation
+canonical_name: Training Program Components for Seniors to Prevent Falls
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 421
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Seniors must engage with, and adhere to, multidimensional, periodized programs that incorporate elements of both resistance and balance training.
+
+attributes:
+  - multidimensional
+  - periodized
+
+purpose:
+  - prevent falls
+
+related_concepts:
+  - concept.resistance_training
+  - concept.balance_training
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.resistance_training_intensity_older_adults
+type: Recommendation
+canonical_name: Resistance Training Intensity for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 430
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Older adults should progress toward 2 or 3 sets of 6 to 12 repetitions of one or two multijoint exercises, working at 70% to 85% of the 1RM, two or three times per week.
+
+attributes: []
+
+purpose:
+  - improve muscular strength
+
+related_concepts: []
+
+recommendation_details:
+  sets: "2-3"
+  repetitions: "6-12"
+  intensity: "70%-85% 1RM"
+  frequency: "2-3 times per week"
+  exercises: "one or two multijoint exercises"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.power_training_load_healthy_older_adults
+type: Recommendation
+canonical_name: Power Training Load for Healthy Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 430
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Current recommendations for increasing power in healthy older adults include the performance of 1 to 3 sets per exercise with a light to moderate load (40%-60% 1RM) in concentric movements for 6 to 10 repetitions with high repetition velocity.
+
+attributes: []
+
+purpose:
+  - increase power
+
+related_concepts: []
+
+recommendation_details:
+  sets: "1-3"
+  repetitions: "6-10"
+  intensity: "40%-60% 1RM"
+  movement_type: "concentric"
+  velocity: "high repetition velocity"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.training_frequency_older_adults
+type: Recommendation
+canonical_name: Training Frequency for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 432
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A training frequency of two or three sessions per week is recommended, at least during the initial adaptation period.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+recommendation_details:
+  frequency: "2-3 sessions per week"
+  period: "initial adaptation period"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.recovery_time_between_sessions_older_adults
+type: Recommendation
+canonical_name: Recovery Time Between Sessions for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 433
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Older adults should be allowed 48 to 72 hours of recovery between exercise sessions.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+recommendation_details:
+  recovery_time: "48-72 hours"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.valsalva_maneuver_risk_older_adults
+type: Warning
+canonical_name: Valsalva Maneuver Risk for Older Adults
+semantic_type: SafetyWarning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 428
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Strength and conditioning professionals should be aware of the potential risks of breath holding (Valsalva maneuver) for older adults. While the Valsalva maneuver assists in stabilizing the trunk and vertebral column during performance of various resistance training exercises, owing to the sudden rise in systolic and diastolic blood pressure that the technique creates, this technique is generally discouraged in seniors, especially in those individuals with absolute and relative contraindications.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - contraindication.valsalva_maneuver_seniors
+
+warning_type: "risk"
+severity: "high"
+---
+# ontology: knowledge-compiler/v1
+
+id: contraindication.valsalva_maneuver_seniors
+type: Contraindication
+canonical_name: Contraindications for Valsalva Maneuver in Seniors
+semantic_type: MedicalContraindication
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 429
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Individuals with absolute and relative contraindications (e.g., those with coronary heart disease, uncontrolled hypertension, musculoskeletal limitations, and pacemakers or defibrillators).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.coronary_heart_disease
+  - concept.uncontrolled_hypertension
+  - concept.musculoskeletal_limitations
+  - concept.pacemaker
+  - concept.defibrillator
+
+contraindication_type: "absolute and relative"
+conditions:
+  - coronary heart disease
+  - uncontrolled hypertension
+  - musculoskeletal limitations
+  - pacemakers or defibrillators
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.initial_training_intensity_volume_untrained_seniors
+type: Recommendation
+canonical_name: Initial Training Intensity and Volume for Untrained Seniors
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 429
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Untrained seniors who begin resistance training should start at a relatively low exercise intensity and volume, and the exercise prescription should be individualized.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+recommendation_details:
+  population: "untrained seniors"
+  intensity: "relatively low"
+  volume: "relatively low"
+  individualization: true
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.progression_seniors_low_to_higher_intensity
+type: Recommendation
+canonical_name: Progression for Seniors from Low to Higher Intensity
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 430
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Seniors should gradually progress from 1 set of 8 to 12 repetitions at a relatively low intensity (e.g., 40%-50% 1RM) to higher training volumes and intensities (e.g., 3 sets per exercise with 60%-80% of 1RM), depending on individual needs, goals, and abilities.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+recommendation_details:
+  progression: "gradual"
+  initial:
+    sets: 1
+    repetitions: "8-12"
+    intensity: "40%-50% 1RM"
+  target:
+    sets: 3
+    intensity: "60%-80% 1RM"
+  individualization: true
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.warm_up_older_adults
+type: Recommendation
+canonical_name: Warm-Up for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 432
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Participants should warm up for 5 to 10 minutes before each exercise session. An acceptable warm-up includes low- to moderate-intensity aerobic activity and calisthenics.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+recommendation_details:
+  duration: "5-10 minutes"
+  activities:
+    - "low- to moderate-intensity aerobic activity"
+    - "calisthenics"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.range_of_motion_older_adults
+type: Recommendation
+canonical_name: Range of Motion for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 433
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  They should perform all exercises within a range of motion that is pain free.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+
+recommendation_details:
+  range_of_motion: "pain free"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.exercise_instruction_older_adults
+type: Recommendation
+canonical_name: Exercise Instruction for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: "Exercise Prescription for Special Populations"
+  section: "7.2"
+  section_title: "Older Adults"
+  book_page: 433
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"

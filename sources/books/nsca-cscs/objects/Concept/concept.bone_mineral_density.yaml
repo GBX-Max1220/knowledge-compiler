@@ -1,0 +1,28 @@
+id: concept.bone_mineral_density
+type: Concept
+canonical_name: Bone Mineral Density
+semantic_type: Measurement
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 311
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Any increase in muscle strength or mass may therefore result in a corresponding
+  increase in bone mineral density (BMD), or the quantity of mineral deposited in
+  a given area of the bone (93).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

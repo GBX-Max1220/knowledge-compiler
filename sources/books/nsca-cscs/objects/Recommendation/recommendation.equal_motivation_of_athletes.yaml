@@ -1,0 +1,28 @@
+id: recommendation.equal_motivation_of_athletes
+type: Recommendation
+canonical_name: Equal Motivation of Athletes
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: ''
+  section: '13.5'
+  section_title: Test Administration
+  book_page: 759
+  pdf_page: 759
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'It is important to motivate all athletes equally rather than giving special
+  encouragement to only some.
+
+  '
+attributes: []
+purpose:
+- motivate all athletes equally
+related_concepts: []

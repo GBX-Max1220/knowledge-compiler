@@ -1,0 +1,12 @@
+id: recommendation.dynamic_correspondence_principle
+type: Recommendation
+canonical_name: Dynamic Correspondence Principle
+semantic_type: Training_Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Human Strength and Power
+  section: '2.2'
+  book_page: 1

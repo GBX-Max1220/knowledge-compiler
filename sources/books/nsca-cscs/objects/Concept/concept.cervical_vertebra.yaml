@@ -1,0 +1,24 @@
+id: concept.cervical_vertebra
+type: Concept
+canonical_name: Cervical Vertebra
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.01'
+  section_title: Introduction and Musculoskeletal System
+  book_page: 41
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.vertebral_column
+definition: Cervical vertebrae are the seven vertebrae of the neck region (C1-C7),
+  forming the upper part of the vertebral column.

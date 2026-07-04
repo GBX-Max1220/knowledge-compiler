@@ -1,0 +1,27 @@
+id: concept.rapid_ascent
+type: Concept
+canonical_name: Rapid Ascent
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.4'
+  section_title: Rapid Ascent
+  book_page: 529
+  pdf_page: 529
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Ascending to altitudes greater than 2,500 m (approximately 8,200 ft)
+  in one day.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

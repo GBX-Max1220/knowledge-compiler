@@ -1,0 +1,13 @@
+id: threshold.excellent_muscular_strength
+type: Threshold
+canonical_name: Excellent Muscular Strength
+semantic_type: Range
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  section: '3.21'
+  book_page: 221
+metric: Muscular Strength
+range: Classification category
+numerical_value: 0

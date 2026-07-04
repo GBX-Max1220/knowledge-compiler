@@ -1,0 +1,373 @@
+TYPE
+Recommendation
+
+TITLE
+General Recommendation for Aerobic Exercise Intensity
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Intensity of aerobic exercise is prescribed relative to the individual's level of fitness and goals. The ACSM recommends that most adults engage in moderate-intensity aerobic exercise for a minimum of 30 min·d−1 on at least 5 d·wk−1 for a total of at least 150 min·wk−1, or vigorous-intensity aerobic exercise for a minimum of 20 min·d−1 on at least 3 d·wk−1 for a total of at least 75 min·wk−1, or a combination of moderate- and vigorous-intensity exercise to achieve the equivalent total volume.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Classification of Aerobic Exercise Intensity Using %HRR or %VO2R
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Very light: <30% HRR or VO2R; Light: 30%–39% HRR or VO2R; Moderate: 40%–59% HRR or VO2R; Vigorous: 60%–89% HRR or VO2R; Near-maximal to maximal: ≥90% HRR or VO2R.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Classification of Aerobic Exercise Intensity Using %HRmax
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Very light: <57% HRmax; Light: 57%–63% HRmax; Moderate: 64%–76% HRmax; Vigorous: 77%–95% HRmax; Near-maximal to maximal: ≥96% HRmax.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Classification of Aerobic Exercise Intensity Using METs
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Light: 1.6–2.9 METs; Moderate: 3.0–5.9 METs; Vigorous: ≥6.0 METs.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Classification of Aerobic Exercise Intensity Using Rating of Perceived Exertion (RPE)
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Light: RPE 9–11; Moderate: RPE 12–13; Vigorous: RPE 14–17.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Classification of Aerobic Exercise Intensity Using Talk Test
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Light: able to sing; Moderate: able to talk comfortably; Vigorous: unable to talk comfortably.
+
+END
+
+TYPE
+Table
+
+TITLE
+Table 5.3 — Classification of Exercise Intensity
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Table 5.3 provides a comprehensive classification of exercise intensity using %HRR, %VO2R, %HRmax, METs, RPE, and the Talk Test.
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Recommendation for Using Heart Rate Reserve (HRR) or VO2 Reserve (VO2R) Method
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+The HRR or VO2R method is recommended for prescribing exercise intensity because it accounts for resting heart rate or resting VO2, respectively, and provides a more individualized target.
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Recommendation for Using the Karvonen Formula
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+The Karvonen formula (Target HR = [(HRmax − HRrest) × % intensity] + HRrest) is recommended for calculating target heart rate using the HRR method.
+
+END
+
+TYPE
+Formula
+
+TITLE
+Karvonen Formula for Target Heart Rate
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Target HR = [(HRmax − HRrest) × % intensity] + HRrest
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Recommendation for Using %HRmax Method
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+The %HRmax method is a simpler alternative for prescribing exercise intensity, where target HR is calculated as HRmax × % intensity.
+
+END
+
+TYPE
+Formula
+
+TITLE
+%HRmax Method for Target Heart Rate
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Target HR = HRmax × % intensity
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Recommendation for Using METs to Prescribe Intensity
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+METs can be used to prescribe exercise intensity by converting the desired %VO2R to METs using the formula: METs = (VO2R × % intensity) + 1 MET.
+
+END
+
+TYPE
+Formula
+
+TITLE
+Conversion of %VO2R to METs
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+METs = (VO2R × % intensity) + 1 MET
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Recommendation for Using RPE to Monitor Intensity
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+RPE is recommended as a subjective method to monitor and regulate exercise intensity, particularly when heart rate is not available or when medications affect heart rate response.
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Recommendation for Using the Talk Test
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+The Talk Test is recommended as a simple, practical method for monitoring exercise intensity, especially for moderate-intensity exercise.
+
+END
+
+TYPE
+Warning
+
+TITLE
+Warning Regarding Heart Rate Response in Medicated Individuals
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+Caution should be used when prescribing exercise intensity based on heart rate in individuals taking medications that alter heart rate response (e.g., beta-blockers), as the heart rate may not accurately reflect the true exercise intensity.
+
+END
+
+TYPE
+Warning
+
+TITLE
+Warning Regarding Use of Age-Predicted HRmax
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+The age-predicted HRmax formula (HRmax = 220 − age) has a large standard deviation (±10–12 bpm) and may not be accurate for all individuals, particularly those with cardiovascular disease or those taking medications.
+
+END
+
+TYPE
+Formula
+
+TITLE
+Age-Predicted HRmax Formula
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+HRmax = 220 − age
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Recommendation for Using Directly Measured HRmax
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+When possible, directly measured HRmax from a maximal exercise test is recommended over age-predicted HRmax for prescribing exercise intensity.
+
+END
+
+TYPE
+Decision Rule
+
+TITLE
+Decision Rule for Selecting Intensity Method Based on Medication Use
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+If an individual is taking medications that affect heart rate (e.g., beta-blockers), then use RPE or the Talk Test rather than heart rate-based methods to prescribe and monitor exercise intensity.
+
+END
+
+TYPE
+Decision Rule
+
+TITLE
+Decision Rule for Selecting Intensity Method Based on Availability of Maximal Test Data
+
+PAGE
+347–356
+
+SECTION
+5.13 — Intensity of Aerobic Exercise
+
+ORIGINAL TEXT
+If directly measured HRmax from a maximal exercise test is available, then use the HRR or %HRmax method with the measured HRmax; if not, then use the age-predicted HRmax with caution.
+
+END

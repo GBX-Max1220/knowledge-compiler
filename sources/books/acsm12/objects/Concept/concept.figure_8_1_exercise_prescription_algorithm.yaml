@@ -1,0 +1,30 @@
+id: concept.figure_8_1_exercise_prescription_algorithm
+type: Concept
+canonical_name: Figure 8.1 — Exercise Prescription Algorithm
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Prescription for Individuals With Cardiovascular and Pulmonary
+    Diseases
+  section: '8.29'
+  section_title: Exercise Prescription
+  book_page: 608
+  pdf_page: 608
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: related_to
+  target: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+definition: 'Figure 8.1 provides an algorithm for developing an exercise prescription
+  for individuals with cardiovascular and pulmonary diseases.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,32 @@
+id: formula.elastic_resistance
+type: Formula
+canonical_name: Elastic Resistance Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 159
+  pdf_page: 159
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+formula_text: FR = k × x (2.11)
+variables:
+- symbol: FR
+  description: Elastic resistance force
+- symbol: k
+  description: Constant
+- symbol: x
+  description: Displacement
+units: []
+purpose: []
+related_concepts: []

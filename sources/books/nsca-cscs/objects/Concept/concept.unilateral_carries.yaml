@@ -1,0 +1,40 @@
+id: concept.unilateral_carries
+type: Concept
+canonical_name: Unilateral Carries
+semantic_type: Exercise
+aliases:
+- suitcase carry
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Variable-Resistance Training
+  section: '17.3'
+  section_title: Variable-Resistance Training
+  book_page: 1127
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.weighted_carries
+definition: 'Unilateral carries with the load positioned overhead (e.g., kettlebell
+  or dumbbell) or at the hip via a kettlebell, dumbbell, or farmer''s handle (suitcase
+  carry) impose a unique frontal plane challenge to the athlete (87). These carries
+  may be advanced total body exercises that will improve lateral trunk flexor muscles
+  (e.g., obliques and quadratus lumborum) and scapular control, thereby allowing better
+  lateral stabilization of the spine than more traditional exercises such as dumbbell
+  side bends or side planks.
+
+  '
+attributes:
+- load positioned overhead
+- load positioned at the hip
+purpose:
+- improve lateral trunk flexor muscles
+- improve scapular control
+- allow better lateral stabilization of the spine
+related_concepts: []

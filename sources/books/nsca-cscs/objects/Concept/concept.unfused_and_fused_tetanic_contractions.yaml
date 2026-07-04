@@ -1,0 +1,30 @@
+id: concept.unfused_and_fused_tetanic_contractions
+type: Concept
+canonical_name: Unfused and Fused Tetanic Contractions
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Activation of Muscles
+  section_title: Activation of Muscles
+  book_page: 57
+  pdf_page: 57
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Decreasing the time interval between twitches results in an even greater
+  force summation, and a high activation frequency leads to the merging of twitches
+  in what has been termed unfused and fused tetanic contractions (figure 1.8c and
+  d).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.twitch

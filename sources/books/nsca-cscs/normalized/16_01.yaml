@@ -1,0 +1,700 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.pronated_grip
+type: Concept
+canonical_name: Pronated Grip
+semantic_type: Handgrip
+aliases:
+  - overhand grip
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 949
+  pdf_page: 949
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  The pronated grip, with palms down and knuckles up, also called the overhand grip.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.supinated_grip
+type: Concept
+canonical_name: Supinated Grip
+semantic_type: Handgrip
+aliases:
+  - underhand grip
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 949
+  pdf_page: 949
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  The supinated grip, with palms up and knuckles down, also known as the underhand grip.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.neutral_grip
+type: Concept
+canonical_name: Neutral Grip
+semantic_type: Handgrip
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 949
+  pdf_page: 949
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  A variation of either grip is the neutral grip, in which the knuckles point laterally—as in a handshake.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.alternated_grip
+type: Concept
+canonical_name: Alternated Grip
+semantic_type: Handgrip
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 949
+  pdf_page: 949
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  The alternated grip, in which one hand is in a pronated grip and the other is in a supinated grip.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hook_grip
+type: Concept
+canonical_name: Hook Grip
+semantic_type: Handgrip
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 949
+  pdf_page: 949
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  The hook grip, which is similar to the pronated grip except that the thumb is positioned under the index and middle fingers.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.closed_grip
+type: Concept
+canonical_name: Closed Grip
+semantic_type: Handgrip
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 949
+  pdf_page: 949
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  The thumb is wrapped around the bar in all of the grips shown; this positioning is called a closed grip.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.open_grip
+type: Concept
+canonical_name: Open Grip
+semantic_type: Handgrip
+aliases:
+  - false grip
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 949
+  pdf_page: 949
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  When the thumb does not wrap around the bar, the grip is called an open or false grip.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.grip_width
+type: Concept
+canonical_name: Grip Width
+semantic_type: Handgrip
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 949
+  pdf_page: 949
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  Establishing the proper grip in an exercise involves placing the hands at the correct distance from each other (referred to as the grip width) and from the center of the bar (i.e., to maintain balance). The three grip widths (figure 16.2) are common, wide, and narrow.
+
+attributes:
+  - common
+  - wide
+  - narrow
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.clean_grip
+type: Concept
+canonical_name: Clean Grip
+semantic_type: Handgrip
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 950
+  pdf_page: 950
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  The clean grip is slightly wider than shoulder-width apart, outside of the knees.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.snatch_grip
+type: Concept
+canonical_name: Snatch Grip
+semantic_type: Handgrip
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 950
+  pdf_page: 950
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.handgrips
+
+definition: >
+  The snatch grip is a wide grip and can be determined using two types of measurements: the fist-to-opposite-shoulder method and the elbow-to-elbow method (also known as the scarecrow method); see page 469.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.five_point_body_contact_position
+type: Concept
+canonical_name: Five-Point Body Contact Position
+semantic_type: Body Position
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 951
+  pdf_page: 951
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The athlete should position the body to achieve a five-point body contact position: 1. Head is placed firmly on the bench or back pad. 2. Shoulders and upper back are placed firmly and evenly on the bench or back pad. 3. Buttocks are placed evenly on the bench or seat. 4. Right foot is flat on the floor. 5. Left foot is flat on the floor.
+
+attributes:
+  - head placed firmly on bench or back pad
+  - shoulders and upper back placed firmly and evenly on bench or back pad
+  - buttocks placed evenly on bench or seat
+  - right foot flat on floor
+  - left foot flat on floor
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sticking_point
+type: Concept
+canonical_name: Sticking Point
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The most strenuous movement of a repetition—typically soon after the transition from the eccentric phase to the concentric phase—is referred to as the sticking point.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.valsalva_maneuver
+type: Concept
+canonical_name: Valsalva Maneuver
+semantic_type: Breathing Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The Valsalva maneuver involves expiring against a closed glottis, which, when combined with contracting the abdomen and rib cage muscles, creates rigid compartments of fluid in the lower torso and air in the upper torso (i.e., the "fluid ball").
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.neutral_spine
+type: Concept
+canonical_name: Neutral Spine
+semantic_type: Body Position
+aliases:
+  - neutral spine
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A normal lordotic lumbar spine position (also called a neutral spine).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.structural_exercises
+type: Concept
+canonical_name: Structural Exercises
+semantic_type: Exercise Category
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 953
+  pdf_page: 953
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Structural exercises (those that load the vertebral column and therefore place stress on it).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.spotter
+type: Concept
+canonical_name: Spotter
+semantic_type: Role
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 956
+  pdf_page: 956
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A spotter is someone who assists in the execution of an exercise to help protect the athlete from injury.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.forced_repetitions
+type: Concept
+canonical_name: Forced Repetitions
+semantic_type: Exercise Technique
+aliases:
+  - partner-assisted reps
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 956
+  pdf_page: 956
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Forced repetitions (also referred to as partner-assisted reps).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.liftoff
+type: Concept
+canonical_name: Liftoff
+semantic_type: Exercise Technique
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 960
+  pdf_page: 960
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The term liftoff refers to moving the bar from the upright supports to a position in which the athlete can begin the exercise.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.out_of_the_rack_exercises
+type: Concept
+canonical_name: Out-of-the-Rack Exercises
+semantic_type: Exercise Category
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 16
+  chapter_title: "Exercise Technique for Free Weight and Machine Training"
+  section: "16.1"
+  section_title: "Exercise Technique for Free Weight and Machine Training"
+  book_page: 957
+  pdf_page: 957
+
+provenance:

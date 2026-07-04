@@ -1,0 +1,11 @@
+id: concept.change_in_mood
+type: Concept
+canonical_name: Change In Mood
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Change In Mood is a concept in strength and conditioning.

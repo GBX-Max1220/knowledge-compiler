@@ -1,0 +1,31 @@
+id: threshold.elevated_blood_pressure_metabolic_syndrome
+type: Threshold
+canonical_name: Elevated Blood Pressure Threshold (Metabolic Syndrome)
+semantic_type: VitalSignThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.24'
+  section_title: Metabolic Syndrome
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.metabolic_syndrome
+definition: 'elevated blood pressure (systolic ≥130 and/or diastolic ≥85 mm Hg)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: systolic ≥130 and/or diastolic ≥85 mm Hg
+unit: mm Hg
+comparison_operator: ≥

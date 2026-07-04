@@ -1,0 +1,28 @@
+id: concept.exercise_duration
+type: Concept
+canonical_name: Exercise Duration
+semantic_type: Training_Variable
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  book_page: 1532
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Exercise duration refers to the length of time of the training session.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

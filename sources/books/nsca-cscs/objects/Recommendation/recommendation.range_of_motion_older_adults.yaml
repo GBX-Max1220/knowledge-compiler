@@ -1,0 +1,29 @@
+id: recommendation.range_of_motion_older_adults
+type: Recommendation
+canonical_name: Range of Motion for Older Adults
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 433
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'They should perform all exercises within a range of motion that is pain
+  free.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_details:
+  range_of_motion: pain free

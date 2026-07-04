@@ -1,0 +1,28 @@
+id: table_row.cardiorespiratory_fitness_category_adult
+type: TableRow
+canonical_name: Cardiorespiratory Fitness Category for Adults
+semantic_type: TableRow
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Clinical Exercise Testing and Interpretation
+  section: '5.11'
+  section_title: Cardiorespiratory Fitness
+  book_page: 344
+  pdf_page: 344
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A row from Table 5.3 presenting cardiorespiratory fitness categories
+  for adults.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.cardiorespiratory_fitness

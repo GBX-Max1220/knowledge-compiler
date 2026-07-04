@@ -1,0 +1,27 @@
+id: concept.speed_scalar_quantity
+type: Concept
+canonical_name: Speed (scalar quantity)
+semantic_type: Property
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1401
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Speed is a scalar quantity, which means that it describes only how fast
+  an object is moving. Speed is the rate at which an object covers a distance.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

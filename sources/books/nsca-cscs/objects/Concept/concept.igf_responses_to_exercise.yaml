@@ -1,0 +1,33 @@
+id: concept.igf_responses_to_exercise
+type: Concept
+canonical_name: IGF Responses to Exercise
+semantic_type: PhysiologicalResponse
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System in Resistance Training
+  section: '4.3'
+  section_title: Endocrine System in Resistance Training
+  book_page: 265
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.insulin_like_growth_factors_and_binding_proteins
+definition: 'The role of IGFs extends to exercise response, where resistance exercise
+  particularly influences their production and activity. Mechanical stress from resistance
+  exercise triggers muscle fibers to produce IGF-1 locally, which then acts to stimulate
+  muscle growth and repair. This local production is often more critical than the
+  circulating levels of IGF-1, which may not consistently change with resistance exercise
+  (109, 113).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

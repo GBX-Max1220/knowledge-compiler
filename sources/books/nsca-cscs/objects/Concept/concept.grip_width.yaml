@@ -1,0 +1,34 @@
+id: concept.grip_width
+type: Concept
+canonical_name: Grip Width
+semantic_type: Handgrip
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16.1'
+  section_title: Exercise Technique for Free Weight and Machine Training
+  book_page: 949
+  pdf_page: 949
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.handgrips
+definition: 'Establishing the proper grip in an exercise involves placing the hands
+  at the correct distance from each other (referred to as the grip width) and from
+  the center of the bar (i.e., to maintain balance). The three grip widths (figure
+  16.2) are common, wide, and narrow.
+
+  '
+attributes:
+- common
+- wide
+- narrow
+purpose: []
+related_concepts: []

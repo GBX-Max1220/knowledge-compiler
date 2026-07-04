@@ -1,0 +1,27 @@
+id: recommendation.accommodations_sensory_sensitivities
+type: Recommendation
+canonical_name: Accommodations for Sensory Sensitivities
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Be aware of potential sensory sensitivities (e.g., to loud noises, bright
+  lights, or certain textures) and make appropriate accommodations.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,36 @@
+id: concept.sliding_filament_theory
+type: Concept
+canonical_name: Sliding-Filament Theory of Muscular Contraction
+semantic_type: Theory
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Sliding-Filament Theory of Muscular Contraction
+  section_title: Sliding-Filament Theory of Muscular Contraction
+  book_page: 52
+  pdf_page: 52
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The sliding-filament theory was proposed by Huxley and Hanson in 1954
+  to mechanistically explain muscular contraction at the molecular level (22). In
+  its simplest form, the sliding-filament theory indicates that actin filaments anchored
+  to each end of the sarcomere slide inward on myosin filaments. This results in Z-lines
+  being pulled toward the center of the sarcomere and in muscle fiber shortening (figure
+  1.7).
+
+  '
+attributes: []
+purpose:
+- mechanistically explain muscular contraction at the molecular level
+related_concepts:
+- concept.sarcomere
+- concept.actin_filament
+- concept.myosin_filament
+- concept.z_line

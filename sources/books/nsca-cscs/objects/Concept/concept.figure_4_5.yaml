@@ -1,0 +1,28 @@
+id: concept.figure_4_5
+type: Concept
+canonical_name: Figure 4.5
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine Responses to Resistance Exercise and Training
+  section: 'Chapter 4: Endocrine Responses to Resistance Exercise and Training'
+  section_title: 'Chapter 4: Endocrine Responses to Resistance Exercise and Training'
+  book_page: 257
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'FIGURE 4.5 Responses of (a) total testosterone and (b) free testosterone
+  in response to six sets of squats at 80% of the 1RM with 2 minutes rest between
+  sets.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

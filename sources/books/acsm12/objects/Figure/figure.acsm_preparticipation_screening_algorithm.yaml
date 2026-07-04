@@ -1,0 +1,28 @@
+id: figure.acsm_preparticipation_screening_algorithm
+type: Figure
+canonical_name: American College of Sports Medicine Preparticipation Screening Algorithm
+semantic_type: Algorithm
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Health Screening
+  section: '2.5'
+  section_title: American College of Sports Medicine Preparticipation Screening Algorithm
+  book_page: 136
+  pdf_page: 136
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'American College of Sports Medicine Preparticipation Screening Algorithm
+
+  '
+attributes: []
+purpose:
+- preparticipation health screening
+related_concepts:
+- concept.preparticipation_health_screening

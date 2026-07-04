@@ -1,0 +1,30 @@
+id: threshold.absolute_neutrophil_count_exercise_avoidance_cancer_survivors
+type: Threshold
+canonical_name: Absolute Neutrophil Count Threshold for Exercise Avoidance in Cancer
+  Survivors
+semantic_type: Laboratory
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.29'
+  section_title: Exercise Prescription
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: warning.exercise_precautions_cancer_survivors
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: <0.5 × 109
+unit: L−1
+condition: Avoid exercise

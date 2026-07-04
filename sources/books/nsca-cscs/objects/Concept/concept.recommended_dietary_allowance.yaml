@@ -1,0 +1,32 @@
+id: concept.recommended_dietary_allowance
+type: Concept
+canonical_name: Recommended Dietary Allowance
+semantic_type: Nutrient Intake Standard
+aliases:
+- RDA
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.2'
+  section_title: Standard Nutrition Guidelines
+  book_page: 545
+  pdf_page: 545
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.dietary_reference_intakes
+definition: 'Recommended Dietary Allowance (RDA)— The average daily nutrient requirement
+  adequate for meeting the needs of nearly all (97%-98%) healthy people within each
+  life stage and sex; often used to plan nutritionally adequate diets for people.
+
+  '
+attributes: []
+purpose:
+- plan nutritionally adequate diets for people
+related_concepts: []

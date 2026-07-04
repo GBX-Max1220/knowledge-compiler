@@ -1,0 +1,29 @@
+id: concept.preoperation_phase
+type: Concept
+canonical_name: Preoperation Phase
+semantic_type: Process
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1732
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.facility_design_phases
+definition: 'The preoperation phase consists of the final steps before the facility
+  can open.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

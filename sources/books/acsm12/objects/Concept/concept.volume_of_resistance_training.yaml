@@ -1,0 +1,27 @@
+id: concept.volume_of_resistance_training
+type: Concept
+canonical_name: Volume of Resistance Training
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.23'
+  section_title: Volume of Resistance Training Exercise
+  book_page: 376
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Volume of resistance training is defined as the total amount of work
+  performed in a training session or over a period of time.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

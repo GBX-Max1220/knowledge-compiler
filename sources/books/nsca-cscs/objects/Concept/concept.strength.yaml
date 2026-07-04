@@ -1,0 +1,27 @@
+id: concept.strength
+type: Concept
+canonical_name: Strength
+semantic_type: PhysicalAbility
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Human Strength and Power
+  section: '2.3'
+  section_title: Human Strength and Power
+  book_page: 127
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Though it is widely accepted that strength is the ability to exert force,
+  there is considerable disagreement as to how strength should be measured.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

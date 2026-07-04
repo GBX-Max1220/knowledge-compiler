@@ -1,0 +1,29 @@
+id: concept.steroid_hormones
+type: Concept
+canonical_name: Steroid Hormones
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine Responses to Resistance Exercise and Training
+  section: 'Chapter 4: Endocrine Responses to Resistance Exercise and Training — Categories
+    of Hormones'
+  section_title: Categories of Hormones
+  book_page: 242
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Steroid hormones, including cortisol, testosterone, and estradiol produced
+  by the adrenal cortex and/or gonads, can diffuse across cell membranes due to their
+  lipophilic (fat-soluble) nature.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

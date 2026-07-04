@@ -1,0 +1,28 @@
+id: recommendation.exercise_training_return_to_work_heart_rate_blood_pressure_monitoring
+type: Recommendation
+canonical_name: Exercise Training for Return to Work — Heart Rate and Blood Pressure
+  Monitoring
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.41'
+  section_title: Exercise Training for Return to Work
+  book_page: 626
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Heart rate and blood pressure should be monitored during exercise and
+  recovery.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

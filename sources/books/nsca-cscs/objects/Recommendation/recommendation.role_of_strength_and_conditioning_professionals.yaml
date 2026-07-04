@@ -1,0 +1,34 @@
+id: recommendation.role_of_strength_and_conditioning_professionals
+type: Recommendation
+canonical_name: Role of Strength and Conditioning Professionals Regarding Ergogenic
+  Aids
+semantic_type: Professional Responsibility
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 727
+  pdf_page: 727
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Strength and conditioning professionals play an integral part in the
+  decision-making process regarding which ergogenic aids athletes choose to take.
+  Therefore, it is imperative that strength and conditioning professionals stay up
+  to date on the latest scientific findings on what ergogenic aids are safe, effective,
+  and legal. If strength and conditioning professionals fail in this area, the athletes
+  they serve will be more susceptible to hyped marketing, potentially false advertising,
+  and influence by others who may not have the athlete’s best interests in mind.
+
+  '
+attributes: []
+purpose:
+- guide athletes in safe, effective, and legal ergogenic aid choices
+related_concepts: []

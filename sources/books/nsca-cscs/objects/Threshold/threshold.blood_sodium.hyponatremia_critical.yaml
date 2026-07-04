@@ -1,0 +1,32 @@
+id: threshold.blood_sodium.hyponatremia_critical
+type: Threshold
+canonical_name: Critical Hyponatremia Blood Sodium
+semantic_type: Laboratory
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Nutrition and Exercise
+  section: '10.5'
+  section_title: Minerals
+  book_page: 595
+  pdf_page: 595
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.blood_sodium.hyponatremia_severe
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: below 120
+unit: mmol/L
+condition: blood sodium level
+context: When blood sodium drops below 120 mmol/L, risk of developing cerebral edema,
+  seizures, coma, brain stem herniation, respiratory arrest, and risk of death increase
+  (2, 3, 6).

@@ -1,0 +1,29 @@
+id: threshold.ecg_standard_limb_leads
+type: Threshold
+canonical_name: ECG Standard Limb Leads
+semantic_type: Electrode Placement
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Electrocardiogram
+  section: '4.13'
+  section_title: Electrocardiogram
+  book_page: 298
+  pdf_page: 298
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Standard limb leads (I, II, III) are bipolar leads that measure the electrical
+  potential difference between two electrodes placed on the limbs: Lead I: right arm
+  (−) to left arm (+); Lead II: right arm (−) to left leg (+); Lead III: left arm
+  (−) to left leg (+).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

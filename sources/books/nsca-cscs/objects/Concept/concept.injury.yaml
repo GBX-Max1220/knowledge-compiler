@@ -1,0 +1,11 @@
+id: concept.injury
+type: Concept
+canonical_name: Injury
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Injury is a concept in strength and conditioning.

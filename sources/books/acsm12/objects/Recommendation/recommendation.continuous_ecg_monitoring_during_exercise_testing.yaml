@@ -1,0 +1,27 @@
+id: recommendation.continuous_ecg_monitoring_during_exercise_testing
+type: Recommendation
+canonical_name: Continuous ECG Monitoring During Exercise Testing
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.9'
+  section_title: Continuous Electrocardiographic Monitoring
+  book_page: 589
+  pdf_page: 589
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Continuous electrocardiographic (ECG) monitoring is recommended during
+  exercise testing and during the recovery period.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

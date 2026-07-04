@@ -1,0 +1,394 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_training_progression_model
+type: TableRow
+canonical_name: Resistance Training Progression Model
+semantic_type: Table
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 5.5 Resistance Training Progression Model
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.volume_of_resistance_training
+type: Concept
+canonical_name: Volume of Resistance Training
+semantic_type: Concept
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Volume of resistance training is defined as the total amount of work performed in a training session or over a period of time.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.general_volume_resistance_training
+type: Recommendation
+canonical_name: General Volume Recommendation for Resistance Training
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  For most adults, a resistance training program consisting of 2–4 sets per exercise with 8–12 repetitions per set is recommended.
+
+population: "most adults"
+
+parameters:
+  sets: "2–4"
+  repetitions: "8–12"
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.volume_older_frail_adults
+type: Recommendation
+canonical_name: Volume Recommendation for Older or Frail Adults
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  For older or frail adults, a single set of 10–15 repetitions may be sufficient to improve muscular fitness.
+
+population: "older or frail adults"
+
+parameters:
+  sets: "1"
+  repetitions: "10–15"
+
+purpose:
+  - improve muscular fitness
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.volume_progression
+type: Recommendation
+canonical_name: Volume Progression Recommendation
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+recommendation_text: >
+  Progression in volume should occur by first increasing the number of repetitions, then the number of sets, and finally the frequency of training.
+
+population: ""
+
+parameters: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.repetition_range_muscular_endurance
+type: Threshold
+canonical_name: Repetition Range for Muscular Endurance
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.repetition_range_muscular_hypertrophy
+
+threshold_type: "range"
+value: "15–25"
+unit: "repetitions per set"
+context: "muscular endurance"
+
+description: >
+  For muscular endurance, 15–25 repetitions per set is recommended.
+
+related_concepts:
+  - concept.muscular_endurance
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.repetition_range_muscular_hypertrophy
+type: Threshold
+canonical_name: Repetition Range for Muscular Hypertrophy
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.repetition_range_muscular_endurance
+  - predicate: adjacent_to
+    target: threshold.repetition_range_muscular_strength
+
+threshold_type: "range"
+value: "6–12"
+unit: "repetitions per set"
+context: "muscular hypertrophy"
+
+description: >
+  For muscular hypertrophy, 6–12 repetitions per set is recommended.
+
+related_concepts:
+  - concept.muscular_hypertrophy
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.repetition_range_muscular_strength
+type: Threshold
+canonical_name: Repetition Range for Muscular Strength
+semantic_type: Threshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.repetition_range_muscular_hypertrophy
+
+threshold_type: "range"
+value: "2–6"
+unit: "repetitions per set"
+context: "muscular strength"
+
+description: >
+  For muscular strength, 2–6 repetitions per set is recommended.
+
+related_concepts:
+  - concept.muscular_strength
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.excessive_volume_resistance_training
+type: Warning
+canonical_name: Warning Against Excessive Volume
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+warning_text: >
+  Excessive volume of resistance training may increase the risk of overtraining and injury.
+
+severity: "moderate"
+
+condition: "excessive volume of resistance training"
+
+risk: "overtraining and injury"
+
+related_concepts:
+  - concept.volume_of_resistance_training
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.single_vs_multiple_sets
+type: Evidence
+canonical_name: Evidence on Single vs. Multiple Sets
+semantic_type: Evidence
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: ""
+  section: "5.23"
+  section_title: "Volume of Resistance Training Exercise"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+evidence_text: >
+  Research indicates that multiple sets (2–4) are superior to a single set for improving muscular strength and hypertrophy in trained individuals, although single sets may be adequate for untrained individuals (ACSM, 2009).
+
+citations:
+  - "ACSM, 2009"
+
+findings:
+  - "multiple sets (2–4) are superior to a single set for improving muscular strength and hypertrophy in trained individuals"
+  - "single sets may be adequate for untrained individuals"
+
+population: "trained individuals, untrained individuals"
+
+related_concepts:
+  - concept.muscular_strength
+  - concept.muscular_hypertrophy

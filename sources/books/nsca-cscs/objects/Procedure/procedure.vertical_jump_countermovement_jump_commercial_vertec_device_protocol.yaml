@@ -1,0 +1,55 @@
+id: procedure.vertical_jump_countermovement_jump_commercial_vertec_device_protocol
+type: Procedure
+canonical_name: Vertical Jump (Countermovement Jump) — Commercial Vertec Device Protocol
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.2'
+  section_title: Monitoring Protocols
+  book_page: 786
+  pdf_page: 786
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Procedure for conducting a vertical jump (countermovement jump) using
+  a commercial Vertec device.
+
+  '
+attributes: []
+purpose:
+- measure vertical jump height
+related_concepts:
+- concept.vertical_jump
+- concept.countermovement_jump
+- concept.vertec_device
+steps:
+- order: 1
+  description: The tester adjusts the height of the stack of movable color-coded horizontal
+    plastic vanes to be within the athlete’s standing reach height. The highest vane
+    that can be reached and pushed forward with the dominant hand while the athlete
+    stands flat-footed determines the standing touch height.
+- order: 2
+  description: The vane stack is then raised by a measured distance (marked on the
+    shaft holding the vanes) so that the athlete will not jump higher or lower than
+    the set of vanes. This requires a rough estimate of how high the particular athlete
+    will jump, but a correction can be made on the second attempt if necessary.
+- order: 3
+  description: Without a preparatory or stutter step, the athlete performs a countermovement
+    by quickly flexing the knees and hips, moving the trunk forward and downward,
+    and swinging the arms backward (figure 14.8a). During the jump, the dominant arm
+    reaches upward while the nondominant arm moves downward relative to the body.
+- order: 4
+  description: At the highest point in the jump, the athlete taps the highest possible
+    vane with the fingers of the dominant hand (figure 14.8b). The score is the vertical
+    distance between the height of the highest vane tapped during the standing vertical
+    reach and the vane tapped at the highest point of the jump.
+- order: 5
+  description: The best of three trials is recorded to the nearest 0.5 inches or 1
+    centimeter (the distance between adjacent vanes).

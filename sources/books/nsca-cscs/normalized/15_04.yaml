@@ -1,0 +1,491 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.glute_bridge
+type: Procedure
+canonical_name: Glute Bridge
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 921
+  pdf_page: 921
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Lie supine with the knees flexed to approximately 90 degrees and the feet hip-width apart and flat on the floor. Pushing the feet into the floor and squeezing the glutes, lift the hips up toward the ceiling until the body attains a straight-line posture. Hold for a second and then return the hips to the floor. The action can use a single leg as an alternative to a double leg.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.inchworm
+type: Procedure
+canonical_name: Inchworm
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 921
+  pdf_page: 921
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand erect with the feet placed shoulder-width apart. While slightly flexing the knees, flex forward at the waist and place hands shoulder-width apart flat on the floor. The weight of the body should be shifted back (i.e., not directly over the hands), with the buttocks high in the air—imagine making an inverted V with the body. Move the hands alternately forward, as if taking short steps with the hands, until the body is in a push-up position. Walk the legs to the hands using small steps while keeping the knees slightly flexed. Repeat the motion over a prescribed distance.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.quadruped_reach_and_rotate
+type: Procedure
+canonical_name: Quadruped Reach and Rotate
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 922
+  pdf_page: 922
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Assume a quadruped position. Raise the left hand and extend the hand under the body, reaching as far to the right as possible. Reverse the action, pulling the left hand back to the beginning position before pulling the arm back and turning the body away from the support arm. Keep the lumbar spine in a neutral position so that the action occurs mainly in the thoracic spine. Carry out the action in a slow and controlled manner. Repeat on the other side.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lunge_walk
+type: Procedure
+canonical_name: Lunge Walk
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 923
+  pdf_page: 923
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand erect with the feet parallel to each other and shoulder-width apart. Take an exaggerated step directly forward with the left leg, planting the left foot flat on the floor pointing straight ahead. Allow the left hip and knee to slowly flex, keeping the left knee directly over the left foot. Slightly flex the right knee and lower it until it is 1 to 2 inches (3-5 cm) above the floor; the right foot should be pointed straight ahead. Balance the weight evenly between the ball of the right foot and the entire left foot. Keep the torso perpendicular to the floor by sitting back on the right leg. Forcefully push off of the floor by extending the left hip and knee. Pick up the right foot and place it next to the left foot; do not stutter-step forward. Stand erect, pause, and then step forward with the right leg, progressing forward with each step.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lateral_lunge
+type: Procedure
+canonical_name: Lateral Lunge
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 924
+  pdf_page: 924
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand with the feet hip-width apart and feet facing forward. Take a relatively large lateral step with the right foot while keeping the left foot in contact with the floor. Hinge at the hips, pushing the hips back, and flex the left hip and knee, lowering the body toward the ground until the left hip and knee are at approximately 90 degrees. The right knee remains fully extended as the left knee and hip flex. Keep the body aligned within the base of support, and do not lean forward. Return to the beginning position and then either repeat for the desired number of repetitions on the same leg or alternate legs for the desired number of repetitions.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lunge_walk_with_front_leg_extension
+type: Procedure
+canonical_name: Lunge Walk with Front Leg Extension
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 925
+  pdf_page: 925
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Take an exaggerated step directly forward with the right leg and assume a lunge stance, keeping the right knee directly over the right foot and the rear (left) knee about an inch or so off the floor (note: this preparatory position is not shown). Flex the torso forward with the hands reaching toward the right foot. From this position, lift the hips up and back, extending the right knee to a fully (or nearly so) extended position. This will cause the left knee to extend as well and result in a stretch of the hamstring muscles. After the stretch is held, extend the torso to an erect position, step the rear (left) foot forward, and repeat on the other side.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.speed_skater_lunge
+type: Procedure
+canonical_name: Speed Skater Lunge
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 926
+  pdf_page: 926
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Assume an upright stance with feet hip-width apart and arms to the side (note: this preparatory position is not shown). Shift the body weight to the left foot and at the same time drop the hips back and down, reaching the right leg behind the body and as far as possible to the opposite (right) side. The result is a fully extended rear (right) knee and a contralateral (opposite) lateral reach of the other (left) arm. Push back to the beginning position and repeat on the other side. For a more advanced exercise, the movement can be initiated by a lateral hop.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.lunge_with_overhead_side_reach
+type: Procedure
+canonical_name: Lunge with Overhead Side Reach
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 928
+  pdf_page: 928
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand erect with the feet parallel to each other and shoulder-width apart. Take an exaggerated step directly forward with the left leg, planting the left foot flat on the floor pointing straight ahead. Allow the left hip and knee to slowly flex, keeping the left knee directly over the left foot. Slightly flex the right knee and lower it until it is 1 to 2 inches (3-5 cm) above the floor; the right foot should be pointed straight ahead. Reach up high with the right arm and bend the torso laterally toward the left leg. Return to an erect torso position, and then forcefully push off the floor by extending the left hip and knee. Pick up the right foot and place it next to the left foot; do not stutter-step forward. Stand erect, pause, and then step forward with the right leg, progressing forward with each step.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.walking_knee_lift
+type: Procedure
+canonical_name: Walking Knee Lift
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 929
+  pdf_page: 929
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand erect with the feet parallel to each other and shoulder-width apart. Step forward with the left leg and flex the right hip and knee to move the right thigh upward toward the chest. Grasp the front of the right knee or upper shin and use the arms to pull the right knee up further and to squeeze the thigh against the chest. Dorsiflex the left foot as the right hip and knee are flexed. Keeping the torso erect, pause for a moment, then proceed to step down with the right leg. Shift the body weight to the right leg and repeat the motion with the left leg. Progress forward with each step, increasing the ROM and speed on subsequent steps.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.forward_lunge_with_elbow_to_instep
+type: Procedure
+canonical_name: Forward Lunge with Elbow to Instep
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 930
+  pdf_page: 930
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand erect with the feet parallel to each other and shoulder-width apart. Take an exaggerated step directly forward with the left leg, planting the left foot flat on the floor pointing straight ahead. Allow the left hip and knee to slowly flex, keeping the left knee directly over the left foot. Slightly flex the right knee and lower it until it is 1 to 2 inches (3-5 cm) above the floor; the right foot should be pointed straight ahead. Lean forward, bringing the left arm forward and touching the left elbow to the instep of the left foot; the right hand may be placed on the floor to maintain balance. Lean back to return to an erect torso position, and then forcefully push off the floor by extending the left hip and knee. Pick up the right foot and place it next to the left foot; do not stutter-step forward. Stand erect, pause, and then step forward with the right leg, progressing forward with each step.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.heel_to_toe_walk
+type: Procedure
+canonical_name: Heel-to-Toe Walk
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 931
+  pdf_page: 931
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand erect with the feet parallel to each other and shoulder-width apart. Take a small step forward with the right leg; place the heel of the right foot on the ground first and then continue to dorsiflex the foot. Immediately roll forward and rise up as high as possible onto the ball of the right foot. Swing the left leg forward in order to take another small step. Repeat with the left leg, progressing forward with each step.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.walking_over_and_under
+type: Procedure
+canonical_name: Walking Over and Under
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 932
+  pdf_page: 932
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand erect with the feet parallel to each other and shoulder-width apart. Flex the left hip and knee, and then abduct the left thigh until it is parallel to the floor. Step laterally to the left, stepping laterally over the first hurdle. Place the left foot firmly on the ground, shift the body weight to the left leg, and then proceed to lift the right leg over the first hurdle. After lifting the right leg over the hurdle and placing the right foot firmly on the ground, stand erect, pause, and then flex the hips and knees and dorsiflex the ankles to assume a full squat position. Extend the left leg laterally, as if performing a lateral lunge. Keeping the body weight low, move the body laterally, ducking under the second hurdle. Stand erect, pause, and repeat the motion in the opposite direction, ducking under the second hurdle and stepping over the first.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.inverted_hamstring_stretch
+type: Procedure
+canonical_name: Inverted Hamstring Stretch
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 934
+  pdf_page: 934
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Stand tall and take a small step forward with the left leg. Flex at the waist. Reach forward with the left arm and simultaneously reach back with the right leg. Try to keep the hips square. Reach a position in which you feel a stretch in the hamstrings but eventually aim to attain a position in which the body is parallel to the floor. Reach the right hand down toward the floor. Return to the start by actively using the hamstrings and gluteals of the planted leg. Take a step forward and repeat on the other side.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.straight_leg_march
+type: Procedure
+canonical_name: Straight-Leg March
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Program Design Considerations"
+  section: "15.4"
+  section_title: "Program Design Considerations"
+  book_page: 936
+  pdf_page: 936
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+

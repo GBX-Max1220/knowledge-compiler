@@ -1,0 +1,35 @@
+id: concept.myofibril
+type: Concept
+canonical_name: Myofibril
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.5
+  section_title: Sectional view of a muscle fiber
+  book_page: 47
+  pdf_page: 47
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.muscle_fiber
+definition: 'Hundreds of myofibrils (each about 1 μm in diameter, 1/100 the diameter
+  of a hair) exist in the sarcoplasm of one muscle fiber. Myofibrils are the contractile
+  machinery of muscle fibers.
+
+  '
+attributes:
+- contractile
+purpose:
+- contractile machinery of muscle fibers
+related_concepts:
+- concept.myosin_filament
+- concept.actin_filament
+- concept.sarcomere

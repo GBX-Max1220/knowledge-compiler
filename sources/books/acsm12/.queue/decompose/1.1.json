@@ -1,0 +1,12 @@
+{
+  "section": "1.1",
+  "file_id": "01_01",
+  "stage": "decompose",
+  "status": "pending",
+  "created": "2026-07-04T03:53:26.785213",
+  "updated": "2026-07-04T03:53:26.785213",
+  "retries": 0,
+  "max_retries": 3,
+  "error": null,
+  "output": null
+}

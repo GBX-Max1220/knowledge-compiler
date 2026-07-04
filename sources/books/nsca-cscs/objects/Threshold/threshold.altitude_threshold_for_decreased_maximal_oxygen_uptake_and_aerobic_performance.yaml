@@ -1,0 +1,28 @@
+id: threshold.altitude_threshold_for_decreased_maximal_oxygen_uptake_and_aerobic_performance
+type: Threshold
+canonical_name: Altitude Threshold for Decreased Maximal Oxygen Uptake and Aerobic
+  Performance
+semantic_type: Altitude
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Aerobic Endurance Training Adaptations
+  section: '6.2'
+  section_title: Aerobic Endurance Training Adaptations
+  book_page: 362
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'arterial oxygen saturation decreases and results in decreases in maximal
+  oxygen uptake and aerobic performance at altitudes above 3,900 feet (1,189 m).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,67 @@
+id: concept.skeletal_muscle_macrostructure_and_microstructure
+type: Concept
+canonical_name: Skeletal Muscle Macrostructure and Microstructure
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 42
+  pdf_page: 42
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.musculoskeletal_system
+definition: 'Each skeletal muscle contains muscle tissue made up of a variety of cell
+  types (with the most notable being muscle fibers), connective tissue, nerves, blood
+  vessels, and a plethora of cell types between muscle fibers that serve different
+  functions. Fibrous connective tissue, or epimysium, covers the body''s more than
+  430 skeletal muscles. The epimysium is contiguous with the tendons at the ends of
+  the muscle (figure 1.3). The tendon is attached to bone periosteum, a specialized
+  connective tissue covering all bones. Notably, muscle contractions pull on tendons,
+  and in turn, this moves bones that are attached to the associated tendons. Limb
+  muscles have two attachments to bone, including proximal (closer to the trunk) and
+  distal (farther from the trunk) attachments. The two attachments of trunk muscles
+  are termed superior (closer to the head) and inferior (closer to the feet). Muscle
+  cells, often called muscle fibers or myofibers, are long (sometimes running the
+  entire length of a muscle), cylindrical cells 50 to 100 μm in diameter (about the
+  diameter of a human hair). Muscle fibers have all their nuclei situated on the outer
+  periphery of the cell and have a striated appearance when viewed with a microscope
+  under low magnification. Under the epimysium the muscle fibers are grouped in bundles
+  (fasciculi) that may consist of up to 150 fibers, with the bundles surrounded by
+  connective tissue called perimysium. Each muscle fiber is surrounded by connective
+  tissue called endomysium, which is encircled by and is contiguous with the muscle
+  fiber membrane, or sarcolemma (41). All the connective tissue—epimysium, perimysium,
+  and endomysium—is contiguous with the tendon, so tension developed in a muscle cell
+  is transmitted to the tendon and the bone to which it is attached (figure 1.3).
+
+  '
+attributes:
+- muscle_tissue
+- connective_tissue
+- nerves
+- blood_vessels
+- cell_types
+purpose: []
+related_concepts:
+- concept.epimysium
+- concept.perimysium
+- concept.endomysium
+- concept.sarcolemma
+- concept.muscle_fibers
+- concept.myofibers
+- concept.fasciculi
+- concept.tendon
+- concept.periosteum
+- concept.proximal_attachment
+- concept.distal_attachment
+- concept.superior_attachment
+- concept.inferior_attachment

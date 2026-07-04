@@ -1,0 +1,42 @@
+id: formula.power
+type: Formula
+canonical_name: Power Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.27'
+  section_title: Muscular Power
+  book_page: 239
+  pdf_page: 239
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.muscular_power
+formula_text: power = (force × distance) / time
+variables:
+- name: power
+  symbol: P
+  unit: ''
+- name: force
+  symbol: F
+  unit: ''
+- name: distance
+  symbol: d
+  unit: ''
+- name: time
+  symbol: t
+  unit: ''
+description: 'The formula for calculating muscular power as the product of force and
+  velocity.
+
+  '
+applications:
+- calculating muscular power

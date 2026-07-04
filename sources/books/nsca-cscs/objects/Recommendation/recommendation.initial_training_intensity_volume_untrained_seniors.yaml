@@ -1,0 +1,32 @@
+id: recommendation.initial_training_intensity_volume_untrained_seniors
+type: Recommendation
+canonical_name: Initial Training Intensity and Volume for Untrained Seniors
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Exercise Prescription for Special Populations
+  section: '7.2'
+  section_title: Older Adults
+  book_page: 429
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Untrained seniors who begin resistance training should start at a relatively
+  low exercise intensity and volume, and the exercise prescription should be individualized.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_details:
+  population: untrained seniors
+  intensity: relatively low
+  volume: relatively low
+  individualization: true

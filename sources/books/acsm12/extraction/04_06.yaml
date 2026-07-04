@@ -1,0 +1,176 @@
+TYPE
+Threshold
+
+TITLE
+Absolute Indications for Terminating Exercise Testing
+
+PAGE
+285
+
+SECTION
+4.6 — Monitoring and Test Termination
+
+ORIGINAL TEXT
+Absolute Indications for Terminating Exercise Testing
+• Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood pressure despite an increase in workload, when accompanied by other evidence of ischemia
+• Moderate-to-severe angina (see Table 4.1)
+• Increasing nervous system symptoms (e.g., ataxia, dizziness, or near-syncope)
+• Signs of poor perfusion (cyanosis or pallor)
+• Technical difficulties monitoring the ECG or systolic blood pressure
+• Subject’s request to stop
+• Sustained ventricular tachycardia
+• ST elevation (≥1 mm) in leads without diagnostic Q waves (other than V1 or aVR)
+• ST or QRS changes such as marked ST depression (>2 mm of horizontal or downsloping ST-segment depression) or marked axis shift
+
+CHILDREN
+Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood pressure despite an increase in workload, when accompanied by other evidence of ischemia; Moderate-to-severe angina; Increasing nervous system symptoms; Signs of poor perfusion; Technical difficulties monitoring the ECG or systolic blood pressure; Subject’s request to stop; Sustained ventricular tachycardia; ST elevation (≥1 mm) in leads without diagnostic Q waves; ST or QRS changes such as marked ST depression (>2 mm of horizontal or downsloping ST-segment depression) or marked axis shift
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Relative Indications for Terminating Exercise Testing
+
+PAGE
+285
+
+SECTION
+4.6 — Monitoring and Test Termination
+
+ORIGINAL TEXT
+Relative Indications for Terminating Exercise Testing
+• Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood pressure despite an increase in workload, in the absence of other evidence of ischemia
+• ST or QRS changes such as excessive ST depression (>2 mm of horizontal or downsloping ST-segment depression) or marked axis shift
+• Arrhythmias other than sustained ventricular tachycardia, including multifocal PVCs, triplets of PVCs, supraventricular tachycardia, heart block, or bradyarrhythmias
+• Fatigue, shortness of breath, wheezing, leg cramps, or claudication
+• Development of bundle-branch block that cannot be distinguished from ventricular tachycardia
+• Increasing chest pain
+• Hypertensive response (systolic blood pressure >250 mm Hg; diastolic blood pressure >115 mm Hg)
+
+CHILDREN
+Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood pressure despite an increase in workload, in the absence of other evidence of ischemia; ST or QRS changes such as excessive ST depression (>2 mm of horizontal or downsloping ST-segment depression) or marked axis shift; Arrhythmias other than sustained ventricular tachycardia, including multifocal PVCs, triplets of PVCs, supraventricular tachycardia, heart block, or bradyarrhythmias; Fatigue, shortness of breath, wheezing, leg cramps, or claudication; Development of bundle-branch block that cannot be distinguished from ventricular tachycardia; Increasing chest pain; Hypertensive response (systolic blood pressure >250 mm Hg; diastolic blood pressure >115 mm Hg)
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Hypertensive Response Thresholds for Test Termination
+
+PAGE
+285
+
+SECTION
+4.6 — Monitoring and Test Termination
+
+ORIGINAL TEXT
+Hypertensive response (systolic blood pressure >250 mm Hg; diastolic blood pressure >115 mm Hg)
+
+PARENT
+Relative Indications for Terminating Exercise Testing
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+ST Elevation Threshold for Test Termination
+
+PAGE
+285
+
+SECTION
+4.6 — Monitoring and Test Termination
+
+ORIGINAL TEXT
+ST elevation (≥1 mm) in leads without diagnostic Q waves (other than V1 or aVR)
+
+PARENT
+Absolute Indications for Terminating Exercise Testing
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+ST Depression Threshold for Test Termination
+
+PAGE
+285
+
+SECTION
+4.6 — Monitoring and Test Termination
+
+ORIGINAL TEXT
+ST or QRS changes such as marked ST depression (>2 mm of horizontal or downsloping ST-segment depression) or marked axis shift
+
+PARENT
+Absolute Indications for Terminating Exercise Testing
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Systolic Blood Pressure Drop Threshold for Test Termination (with ischemia)
+
+PAGE
+285
+
+SECTION
+4.6 — Monitoring and Test Termination
+
+ORIGINAL TEXT
+Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood pressure despite an increase in workload, when accompanied by other evidence of ischemia
+
+PARENT
+Absolute Indications for Terminating Exercise Testing
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Systolic Blood Pressure Drop Threshold for Test Termination (without ischemia)
+
+PAGE
+285
+
+SECTION
+4.6 — Monitoring and Test Termination
+
+ORIGINAL TEXT
+Drop in systolic blood pressure of ≥10 mm Hg from baseline systolic blood pressure despite an increase in workload, in the absence of other evidence of ischemia
+
+PARENT
+Relative Indications for Terminating Exercise Testing
+
+RELATIONSHIPS
+NONE
+
+END

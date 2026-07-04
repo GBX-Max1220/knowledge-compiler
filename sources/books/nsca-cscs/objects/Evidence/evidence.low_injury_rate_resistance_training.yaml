@@ -1,0 +1,36 @@
+id: evidence.low_injury_rate_resistance_training
+type: Evidence
+canonical_name: Low Injury Rate of Resistance Training
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 161
+  pdf_page: 161
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+claim: Rates of injury are the highest for team sports; intermediate for running and
+  aerobics; and lowest for cycling, walking, and resistance training.
+evidence_text: 'Rates of injury are the highest for team sports; intermediate for
+  running and aerobics; and lowest for cycling, walking, and resistance training,
+  the latter of which has about 4 injuries per 1,000 hours of participation.
+
+  '
+statistics:
+- value: '4'
+  unit: injuries per 1,000 hours of participation
+  context: Resistance training injury rate
+citations:
+- reference_number: ''
+  page_number: 161
+related_concepts:
+- concept.resistance_training

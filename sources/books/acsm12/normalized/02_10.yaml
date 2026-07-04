@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.risk_stratification_for_individuals_with_clinical_conditions_and_medical_fitness_facilities
+type: Concept
+canonical_name: Risk Stratification for Individuals With Clinical Conditions and Medical Fitness Facilities
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Preparticipation Health Screening and Risk Stratification"
+  section: "2.10"
+  section_title: "Risk Stratification for Individuals With Clinical Conditions and Medical Fitness Facilities"
+  book_page: 147
+  pdf_page: 147
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Risk Stratification for Individuals With Clinical Conditions and Medical Fitness Facilities
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

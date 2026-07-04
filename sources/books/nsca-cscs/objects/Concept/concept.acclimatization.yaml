@@ -1,0 +1,27 @@
+id: concept.acclimatization
+type: Concept
+canonical_name: Acclimatization
+semantic_type: PhysiologicalAdaptation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Adaptations to Aerobic Endurance Training
+  section: '6'
+  section_title: Adaptations to Aerobic Endurance Training
+  book_page: 362
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The longer-term acclimatization response of increased red blood cell
+  production.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

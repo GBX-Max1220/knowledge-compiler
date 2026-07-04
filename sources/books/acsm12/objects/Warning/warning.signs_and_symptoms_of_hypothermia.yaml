@@ -1,0 +1,36 @@
+id: warning.signs_and_symptoms_of_hypothermia
+type: Warning
+canonical_name: Signs and Symptoms of Hypothermia
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Signs and symptoms of hypothermia include shivering, confusion, drowsiness,
+  slurred speech, loss of coordination, and eventually loss of consciousness.
+
+  '
+attributes:
+- signs_and_symptoms:
+  - shivering
+  - confusion
+  - drowsiness
+  - slurred speech
+  - loss of coordination
+  - loss of consciousness
+purpose: []
+related_concepts:
+- warning.hypothermia_risk_factors
+- threshold.hypothermia_core_temperature

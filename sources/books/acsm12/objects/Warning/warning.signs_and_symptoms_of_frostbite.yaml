@@ -1,0 +1,33 @@
+id: warning.signs_and_symptoms_of_frostbite
+type: Warning
+canonical_name: Signs and Symptoms of Frostbite
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Medical Considerations
+  section: '7.12'
+  section_title: 'Medical Considerations: Cold Injuries'
+  book_page: 540
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Signs and symptoms of frostbite include numbness, tingling, pale or waxy
+  skin, and blisters in severe cases.
+
+  '
+attributes:
+- signs_and_symptoms:
+  - numbness
+  - tingling
+  - pale or waxy skin
+  - blisters
+purpose: []
+related_concepts:
+- warning.frostbite_risk_factors

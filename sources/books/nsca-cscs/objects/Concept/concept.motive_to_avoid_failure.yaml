@@ -1,0 +1,30 @@
+id: concept.motive_to_avoid_failure
+type: Concept
+canonical_name: Motive to Avoid Failure
+semantic_type: PsychologicalConstruct
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.2'
+  section_title: Ideal Performance State
+  book_page: 483
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.achievement_motivation
+definition: 'Relates to the desire to protect one’s ego and self-esteem. Despite its
+  name, however, MAF is not really about avoiding failure itself. It is more about
+  avoiding the perception of shame that accompanies the failure.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

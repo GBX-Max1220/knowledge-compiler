@@ -1,0 +1,55 @@
+id: procedure.box_jump
+type: Procedure
+canonical_name: Box Jump
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1351
+  pdf_page: 1351
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An exercise drill involving a jump onto a plyometric box using both legs,
+  with low intensity and vertical and slightly horizontal direction.
+
+  '
+attributes:
+- intensity_level: Low
+- direction: Vertical and slightly horizontal
+- arm_action: Double arm
+- equipment: Plyometric box, 12 to 42 inches (30-107 cm) high
+purpose:
+- jump onto the top of the box
+related_concepts: []
+steps:
+- step_number: 1
+  description: Facing the plyometric box, get into a comfortable, upright stance with
+    feet hip-width apart.
+- step_number: 2
+  description: Begin with a countermovement.
+- step_number: 3
+  description: Forcefully triple extend to jump onto the top of the box using both
+    legs.
+- step_number: 4
+  description: Land on both feet in a half-squat position, step down from the box,
+    and repeat.
+common_errors:
+- Focusing on landing on the box and flexing hips and knees early, thus reducing vertical
+  power; the aim should be to land on the box because of powerful extension into the
+  ground, maximizing the forward and upward movement of the body
+- Not coordinating arm actions with the forward movement of the body; powerful shoulder
+  flexion should be simultaneous with the lower body jumping action
+notes:
+- The arm action contributes significantly to the upward momentum of this jump. By
+  having athletes perform the movement with their hands on their hips, or their fingers
+  interlocked behind the head and elbows pointing sideways, the lower body power required
+  to perform the jump can be significantly increased.

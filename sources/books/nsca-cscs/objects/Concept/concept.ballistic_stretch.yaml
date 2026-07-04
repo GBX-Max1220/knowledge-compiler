@@ -1,0 +1,31 @@
+id: concept.ballistic_stretch
+type: Concept
+canonical_name: Ballistic stretch
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Mobility Training
+  section: '15.2'
+  section_title: Mobility Training
+  book_page: 881
+  pdf_page: 881
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.dynamic_stretching
+definition: 'A ballistic stretch can be considered a special type of dynamic stretch.
+  Ballistic stretches similarly involve active muscular efforts, but rather than performing
+  these under control, they instead use intense bouncing-type movements to achieve
+  the required ROM (66).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,27 @@
+id: concept.neutral_spine
+type: Concept
+canonical_name: Neutral Spine
+semantic_type: Body Position
+aliases:
+- neutral spine
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16.1'
+  section_title: Exercise Technique for Free Weight and Machine Training
+  book_page: 953
+  pdf_page: 953
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A normal lordotic lumbar spine position (also called a neutral spine).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

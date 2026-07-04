@@ -1,0 +1,31 @@
+id: concept.intracrine_autocrine_paracrine_mechanisms
+type: Concept
+canonical_name: Intracrine, Autocrine, and Paracrine Mechanisms
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine Responses to Resistance Exercise and Training
+  section: 'Chapter 4: Endocrine Responses to Resistance Exercise and Training — Types
+    of Hormonal Release Mechanisms'
+  section_title: Types of Hormonal Release Mechanisms
+  book_page: 236
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Hormones can also operate through intracrine, autocrine, and paracrine
+  mechanisms, which do not rely on the bloodstream. Intracrine and autocrine actions
+  involve hormones either binding to internal receptors within their producing cell
+  or being released to bind to surface receptors on the same cell. Paracrine action
+  occurs when hormones affect adjacent cells, again bypassing the bloodstream.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

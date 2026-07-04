@@ -1,0 +1,32 @@
+id: concept.bodyweight_training_methods
+type: Concept
+canonical_name: Bodyweight Training Methods
+semantic_type: Training Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1091
+  pdf_page: 1091
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Bodyweight training methods are among the most basic methods for performing
+  resistance training. Specifically, with these types of exercises, the body weight
+  of the individual is used to provide resistance (56).
+
+  '
+attributes:
+- body_weight_as_resistance
+purpose:
+- perform resistance training
+related_concepts: []

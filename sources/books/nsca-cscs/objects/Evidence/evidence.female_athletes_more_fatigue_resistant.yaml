@@ -1,0 +1,28 @@
+id: evidence.female_athletes_more_fatigue_resistant
+type: Evidence
+canonical_name: Female Athletes More Fatigue Resistant During Prolonged Events
+semantic_type: Comparative
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.2'
+  section_title: Training Responses and Adaptations
+  book_page: 452
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Female endurance athletes have been shown to be more fatigue resistant
+  during prolonged events, despite having overall lower aerobic capacity (V̇O2max)
+  relative to body size and slower performance times than males (17, 48).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

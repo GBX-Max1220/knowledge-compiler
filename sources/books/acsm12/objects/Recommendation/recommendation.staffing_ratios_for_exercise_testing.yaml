@@ -1,0 +1,33 @@
+id: recommendation.staffing_ratios_for_exercise_testing
+type: Recommendation
+canonical_name: Staffing Ratios for Exercise Testing
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Stratification
+  section: '4.4'
+  section_title: Testing Staff
+  book_page: 279
+  pdf_page: 279
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The number of staff required for exercise testing depends on the complexity
+  of the test and the patient population. For routine exercise testing in low-risk
+  patients, one appropriately trained individual may be sufficient. For testing in
+  patients with known or suspected cardiovascular disease, at least two individuals
+  should be present: one to conduct the test and one to monitor the patient and respond
+  to emergencies.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.low_risk_patient
+- concept.cardiovascular_disease

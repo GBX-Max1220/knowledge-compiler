@@ -1,0 +1,271 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.chronic_kidney_disease_exercise_prescription
+type: TableRow
+canonical_name: Chronic Kidney Disease Exercise Prescription
+semantic_type: Exercise Prescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  section: "10.10"
+  section_title: "Exercise Prescription"
+  book_page: 803
+  pdf_page: 803
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+condition: "Chronic Kidney Disease"
+frequency: ""
+intensity: ""
+time: ""
+type: ""
+special_considerations: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cancer_exercise_prescription
+type: TableRow
+canonical_name: Cancer Exercise Prescription
+semantic_type: Exercise Prescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  section: "10.10"
+  section_title: "Exercise Prescription"
+  book_page: 803
+  pdf_page: 803
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+condition: "Cancer"
+frequency: ""
+intensity: ""
+time: ""
+type: ""
+special_considerations: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.fibromyalgia_exercise_prescription
+type: TableRow
+canonical_name: Fibromyalgia Exercise Prescription
+semantic_type: Exercise Prescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  section: "10.10"
+  section_title: "Exercise Prescription"
+  book_page: 803
+  pdf_page: 803
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+condition: "Fibromyalgia"
+frequency: ""
+intensity: ""
+time: ""
+type: ""
+special_considerations: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.chronic_fatigue_syndrome_exercise_prescription
+type: TableRow
+canonical_name: Chronic Fatigue Syndrome Exercise Prescription
+semantic_type: Exercise Prescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  section: "10.10"
+  section_title: "Exercise Prescription"
+  book_page: 803
+  pdf_page: 803
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+condition: "Chronic Fatigue Syndrome"
+frequency: ""
+intensity: ""
+time: ""
+type: ""
+special_considerations: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.osteoarthritis_exercise_prescription
+type: TableRow
+canonical_name: Osteoarthritis Exercise Prescription
+semantic_type: Exercise Prescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  section: "10.10"
+  section_title: "Exercise Prescription"
+  book_page: 803
+  pdf_page: 803
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+condition: "Osteoarthritis"
+frequency: ""
+intensity: ""
+time: ""
+type: ""
+special_considerations: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.rheumatoid_arthritis_exercise_prescription
+type: TableRow
+canonical_name: Rheumatoid Arthritis Exercise Prescription
+semantic_type: Exercise Prescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  section: "10.10"
+  section_title: "Exercise Prescription"
+  book_page: 803
+  pdf_page: 803
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+condition: "Rheumatoid Arthritis"
+frequency: ""
+intensity: ""
+time: ""
+type: ""
+special_considerations: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.human_immunodeficiency_virus_exercise_prescription
+type: TableRow
+canonical_name: Human Immunodeficiency Virus Exercise Prescription
+semantic_type: Exercise Prescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  section: "10.10"
+  section_title: "Exercise Prescription"
+  book_page: 803
+  pdf_page: 803
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+condition: "Human Immunodeficiency Virus (HIV)"
+frequency: ""
+intensity: ""
+time: ""
+type: ""
+special_considerations: ""
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.alzheimers_disease_exercise_prescription
+type: TableRow
+canonical_name: Alzheimer's Disease Exercise Prescription
+semantic_type: Exercise Prescription
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions"
+  section: "10.10"
+  section_title: "Exercise Prescription"
+  book_page: 803
+  pdf_page: 803
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+condition: "Alzheimer's Disease"
+frequency: ""
+intensity: ""
+time: ""
+type: ""
+special_considerations: ""

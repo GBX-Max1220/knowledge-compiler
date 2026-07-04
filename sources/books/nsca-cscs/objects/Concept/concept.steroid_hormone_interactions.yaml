@@ -1,0 +1,37 @@
+id: concept.steroid_hormone_interactions
+type: Concept
+canonical_name: Steroid Hormone Interactions
+semantic_type: BiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.2'
+  section_title: Signaling Concepts
+  book_page: 242
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.categories_of_hormones
+definition: 'Steroid hormones, including cortisol, testosterone, and estradiol produced
+  by the adrenal cortex and/or gonads, can diffuse across cell membranes due to their
+  lipophilic (fat-soluble) nature. They engage with specific receptors inside the
+  cell to form a hormone–receptor complex (H-RC). This complex undergoes a conformational
+  change, activates, and pairs with another H-RC. It then moves to the nucleus, interacts
+  with the DNA, and promotes the transcription process for specific proteins by "unzipping"
+  DNA and identifying regulatory elements of the targeted gene (18, 117). The resulting
+  mRNA is then translated by ribosomes in the sarcoplasm into the intended proteins.
+
+  '
+attributes:
+- lipophilic
+- fat-soluble
+purpose: []
+related_concepts: []

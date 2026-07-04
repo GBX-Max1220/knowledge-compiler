@@ -1,0 +1,28 @@
+id: recommendation.exercise_training_return_to_work_work_hardening_program
+type: Recommendation
+canonical_name: Exercise Training for Return to Work — Work Hardening Program
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.41'
+  section_title: Exercise Training for Return to Work
+  book_page: 626
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A work hardening program, which includes a multidisciplinary approach
+  to gradually increase the patient''s physical and psychological tolerance for work,
+  may be beneficial.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

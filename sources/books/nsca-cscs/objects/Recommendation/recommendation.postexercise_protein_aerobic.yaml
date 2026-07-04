@@ -1,0 +1,33 @@
+id: recommendation.postexercise_protein_aerobic
+type: Recommendation
+canonical_name: Postexercise protein intake for aerobic endurance
+semantic_type: Nutrition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Athletic Performance
+  section: '11.3'
+  section_title: Postcompetition Nutrition
+  book_page: 637
+  pdf_page: 637
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'As a general guideline, at least 20 to 40 grams of high-quality protein
+  should also be consumed within a 2-hour time period after aerobic endurance exercise
+  (sooner may be better, though the exact time period has yet to be elucidated in
+  the research).
+
+  '
+attributes:
+- protein
+- postexercise
+- aerobic_endurance
+purpose:
+- recovery after aerobic endurance exercise
+related_concepts: []

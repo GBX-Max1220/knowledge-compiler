@@ -1,0 +1,37 @@
+id: procedure.lying_barbell_triceps_extension_starting_position_athlete
+type: Procedure
+canonical_name: Lying Barbell Triceps Extension — Starting Position (Athlete)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Healthy Populations and Special Considerations
+  section: '16.4'
+  section_title: Spotting Techniques
+  book_page: 1056
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Lie in a supine position on a bench in the five-point body contact position.
+  Grasp the bar from the spotter with a closed, pronated grip about 12 inches (30
+  cm) wide. Position the bar over the chest with the elbows fully extended and the
+  arms parallel. Point the elbows toward the knees (not out to the sides). All repetitions
+  begin from this position.
+
+  '
+attributes:
+- supine position
+- five-point body contact position
+- closed pronated grip
+- grip width: 12 inches (30 cm)
+- elbows fully extended
+- arms parallel
+- elbows pointed toward knees
+purpose: []
+related_concepts: []

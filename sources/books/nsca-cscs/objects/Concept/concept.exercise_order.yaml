@@ -1,0 +1,27 @@
+id: concept.exercise_order
+type: Concept
+canonical_name: Exercise Order
+semantic_type: Variable
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1216
+  pdf_page: 1216
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Exercise order refers to a sequence of resistance exercises performed
+  during one training session.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

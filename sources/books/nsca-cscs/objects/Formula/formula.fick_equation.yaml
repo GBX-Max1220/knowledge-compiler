@@ -1,0 +1,33 @@
+id: formula.fick_equation
+type: Formula
+canonical_name: Fick Equation (Formula)
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 85
+  pdf_page: 85
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: V̇O2 = Q̇ × a-vO2 difference
+variables:
+- name: V̇O2
+  description: oxygen uptake
+  unit: mL/kg/min
+- name: Q̇
+  description: cardiac output
+  unit: L/min
+- name: a-vO2 difference
+  description: arteriovenous oxygen difference
+  unit: mL O2/dL blood
+equation: V̇O2 = Q̇ × a-vO2 difference
+reference_number: '1.2'

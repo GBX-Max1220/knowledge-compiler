@@ -1,0 +1,29 @@
+id: figure.figure_4_5_prognostic_variables
+type: Figure
+canonical_name: Figure 4.5 — Prognostic Variables from Clinical Exercise Test
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Clinical Exercise Test Data and Prognosis
+  section: '4.22'
+  section_title: Clinical Exercise Test Data and Prognosis
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: procedure.clinical_exercise_test_data_and_prognosis
+definition: 'Figure 4.5 provides a summary of the prognostic variables derived from
+  the clinical exercise test.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,29 @@
+id: recommendation.principles_of_supervision
+type: Recommendation
+canonical_name: Principles of Supervision
+semantic_type: Recommendation
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 26
+  chapter_title: Facility Policies, Procedures, and Legal Issues
+  section: '26'
+  section_title: Facility Policies, Procedures, and Legal Issues
+  book_page: 1806
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Principles of supervision include the following (5): Always
+  be there. Be active and hands on. Be prudent, careful, and prepared. Be qualified.
+  Be vigilant. Inform participants of safety and emergency procedures. Know participants’
+  health status. Monitor and enforce rules and regulations. Monitor and scrutinize
+  the environment.
+
+  '
+rationale: []
+supporting_evidence: []

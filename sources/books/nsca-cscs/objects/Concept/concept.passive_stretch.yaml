@@ -1,0 +1,27 @@
+id: concept.passive_stretch
+type: Concept
+canonical_name: Passive Stretch
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Performance Preparation, Mobility, and Flexibility
+  section: '15'
+  section_title: Performance Preparation, Mobility, and Flexibility
+  book_page: 879
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A passive stretch occurs when a partner or a stretching machine provides
+  external force to cause or enhance a stretch.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

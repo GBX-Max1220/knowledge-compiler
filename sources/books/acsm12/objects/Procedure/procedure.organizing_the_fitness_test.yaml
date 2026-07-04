@@ -1,0 +1,32 @@
+id: procedure.organizing_the_fitness_test
+type: Procedure
+canonical_name: Organizing the Fitness Test
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Organizing the Fitness Test
+  book_page: 169
+  pdf_page: 169
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The order of testing should be arranged to minimize the influence of
+  one test on another. The following sequence is recommended: (a) resting measurements
+  (e.g., HR, BP, ECG, blood/urine samples, body composition, flexibility), (b) submaximal
+  cardiorespiratory fitness tests, (c) maximal exercise tests, and (d) nonfatiguing
+  muscular fitness tests (e.g., muscular endurance, muscular strength, muscular power)
+  and maximal muscular fitness tests.
+
+  '
+attributes: []
+purpose:
+- minimize the influence of one test on another
+related_concepts: []

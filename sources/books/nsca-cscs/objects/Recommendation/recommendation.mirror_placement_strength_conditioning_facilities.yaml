@@ -1,0 +1,28 @@
+id: recommendation.mirror_placement_strength_conditioning_facilities
+type: Recommendation
+canonical_name: Recommended Mirror Placement in Strength and Conditioning Facilities
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1747
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Mirrors should be placed at least 6 inches (15 cm) away from
+  any equipment (e.g., behind a rack of dumbbells) and a minimum of 20 inches (51
+  cm) above the floor (4).
+
+  '
+context: []
+rationale: []
+citations:
+- '4'

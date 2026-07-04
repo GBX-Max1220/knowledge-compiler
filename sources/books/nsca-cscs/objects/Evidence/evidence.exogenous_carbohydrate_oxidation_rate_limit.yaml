@@ -1,0 +1,29 @@
+id: evidence.exogenous_carbohydrate_oxidation_rate_limit
+type: Evidence
+canonical_name: Exogenous Carbohydrate Oxidation Rate Limit
+semantic_type: PhysiologicalLimit
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 626
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Despite greater intakes per hour, as noted earlier, exogenous (external;
+  that which is consumed) carbohydrate oxidation rates do not exceed 1.0 to 1.1 gram
+  per minute, likely due to the rate of glucose absorption and possibly also the limited
+  delivery rate of 1 gram per minute of glucose into the bloodstream (65).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

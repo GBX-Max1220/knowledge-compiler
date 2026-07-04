@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: figure.exercise_prescription
+type: Figure
+canonical_name: Exercise Prescription
+semantic_type: Figure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: ""
+  section: "10.16"
+  section_title: "Exercise Prescription"
+  book_page: 824
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 10.16 — Exercise Prescription
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

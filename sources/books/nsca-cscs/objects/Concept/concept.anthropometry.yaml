@@ -1,0 +1,28 @@
+id: concept.anthropometry
+type: Concept
+canonical_name: Anthropometry
+semantic_type: Measurement Science
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Athletic Performance
+  section: '14.1'
+  section_title: Measuring Parameters of Athletic Performance
+  book_page: 773
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Anthropometry, which is the science of measurement applied to the human
+  body, generally includes measurements of height, weight, and selected body girths
+  (69).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

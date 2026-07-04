@@ -1,0 +1,28 @@
+id: concept.needs_analysis
+type: Concept
+canonical_name: Needs Analysis
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1194
+  pdf_page: 1194
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The strength and conditioning professional''s initial task is to perform
+  a needs analysis, a two-stage process that includes an evaluation of the requirements
+  and characteristics of the sport and an assessment of the athlete.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

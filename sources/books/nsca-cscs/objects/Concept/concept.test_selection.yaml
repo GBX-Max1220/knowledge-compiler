@@ -1,0 +1,31 @@
+id: concept.test_selection
+type: Concept
+canonical_name: Test Selection
+semantic_type: Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing and Prescription
+  section: '13.3'
+  section_title: Evaluation of Test Quality
+  book_page: 743
+  pdf_page: 743
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When evaluating tests for high levels of validity and reliability, the
+  strength and conditioning professional must rely on her or his knowledge and practical
+  experience with the sport. The strength and conditioning professional must consider
+  sport specificity (e.g., metabolic energy systems, biomechanical movement patterns),
+  athlete experience, training status, age, and environmental factors when selecting
+  tests.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

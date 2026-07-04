@@ -1,0 +1,31 @@
+id: recommendation.resistance_exercise_for_hypertension
+type: Recommendation
+canonical_name: Exercise Prescription for Hypertension — Resistance Exercise
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.13'
+  section_title: Hypertension
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.hypertension
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: 'Resistance exercise should be performed on 2–3 d·wk−1, with
+  at least 48 h between sessions. The recommended intensity is 60%–80% of 1-RM, with
+  8–12 repetitions and 2–3 sets per exercise.
+
+  '

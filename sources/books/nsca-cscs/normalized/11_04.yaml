@@ -1,0 +1,531 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.overweight_and_obesity
+type: Concept
+canonical_name: Overweight and Obesity
+semantic_type: Condition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Overweight and obesity, both of which reflect an accumulation of excess body fat, increase a person's risk of morbidity from hypertension; dyslipidemia; coronary artery disease; gallbladder disease; stroke; type 2 diabetes; sleep apnea; osteoarthritis; respiratory problems; and endometrial, breast, prostate, and colon cancers (92).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.bmi.overweight
+type: Threshold
+canonical_name: BMI Classification for Overweight
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.bmi.obesity
+definition: ""
+value: "25 to 29.9 kg/m2"
+unit: "kg/m2"
+condition: "overweight"
+context: "BMI classification"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.bmi.obesity
+type: Threshold
+canonical_name: BMI Classification for Obesity
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.bmi.overweight
+definition: ""
+value: "≥30 kg/m2"
+unit: "kg/m2"
+condition: "obesity"
+context: "BMI classification"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.bmi_limitations_in_athletes
+type: Warning
+canonical_name: BMI Limitations in Athletes
+semantic_type: Limitation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  BMI can overestimate body fat in athletes and others with muscular builds and underestimate body fat in older persons or those who have lost muscle mass (95).
+severity: moderate
+context: "BMI assessment in athletes and older persons"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.alternative_body_composition_measures_for_athletes
+type: Recommendation
+canonical_name: Alternative Body Composition Measures for Athletes
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Strength and conditioning professionals should use other more accurate measures of body composition such as skinfolds, air displacement plethysmography (ADP), multifrequency bioelectrical impedance analysis, or dual-energy X-ray absorptiometry (DXA) in athletes with more muscle than their age- and sex-matched counterparts (74).
+recommendation_type: clinical_practice
+target_audience: "strength and conditioning professionals"
+action: "use more accurate measures of body composition"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.initial_weight_loss_goal
+type: Recommendation
+canonical_name: Initial Weight Loss Goal for Overweight and Obese Individuals
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The initial goal for weight loss in overweight and obese individuals should be 10% of initial weight within six months (92).
+recommendation_type: clinical_practice
+target_audience: "overweight and obese individuals"
+action: "lose 10% of initial weight within six months"
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.target_body_weight
+type: Formula
+canonical_name: Target Body Weight Calculation
+semantic_type: Calculation
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 646
+  pdf_page: 646
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: ""
+formula_text: "target body weight = fat free mass / (100% - desired percent body fat)"
+variables:
+  - name: "target body weight"
+    description: "calculated target body weight"
+  - name: "fat free mass"
+    description: "FFM"
+  - name: "desired percent body fat"
+    description: "desired body fat percentage"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.rapid_weight_loss
+type: Concept
+canonical_name: Rapid Weight Loss
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 647
+  pdf_page: 647
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Though there is no uniform definition in the literature, rapid weight loss generally refers to quick weight loss, faster than can be achieved by lowering calorie intake and increasing exercise, in a short period of time (38).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.potentially_dangerous_weight_loss_techniques
+type: Warning
+canonical_name: Potentially Dangerous Weight Loss Techniques
+semantic_type: Risk
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 647
+  pdf_page: 647
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Potentially dangerous weight loss techniques may include fasting, fad diets, voluntary dehydration (diuretics, sauna, water and salt manipulation, wearing multiple layers of clothing), excessive spitting, self-induced vomiting, laxative abuse, and inappropriate or excessive use of thermogenic aids (38).
+severity: high
+context: "weight loss techniques"
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.side_effects_of_rapid_weight_loss
+type: Warning
+canonical_name: Side Effects of Rapid Weight Loss
+semantic_type: Risk
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 647
+  pdf_page: 647
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Athletes who attempt to lose too much weight too quickly may lose lean body mass, feel fatigued, experience headaches or mood swings, put their training and performance in jeopardy, and suffer from several potentially serious side effects. These include dehydration, heat illness, muscle cramping, fatigue, dizziness, suppressed immune system functioning, hormone imbalances, hyperthermia, reduced muscle strength, decreased plasma and blood volume, low blood pressure, electrolyte imbalances, kidney failure (diuretic abuse), fainting, and death (in extreme cases) (38).
+severity: critical
+context: "rapid weight loss in athletes"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.strength_and_conditioning_professional_role_in_rapid_weight_loss
+type: Recommendation
+canonical_name: Strength and Conditioning Professional Role in Rapid Weight Loss
+semantic_type: Professional Responsibility
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 648
+  pdf_page: 648
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The strength and conditioning professional should be able to recognize the signs and symptoms associated with rapid weight loss techniques and refer athletes to the appropriate professional while also communicating concerns to the rest of the coaching staff.
+recommendation_type: professional_responsibility
+target_audience: "strength and conditioning professional"
+action: "recognize signs and symptoms of rapid weight loss techniques, refer athletes, and communicate concerns"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.relative_energy_deficiency_in_sport
+type: Concept
+canonical_name: Relative Energy Deficiency in Sport
+semantic_type: Syndrome
+aliases:
+  - RED-S
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Relative energy deficiency in sport (RED-S) encompasses various physiological dysfunctions resulting from low energy availability (LEA), where an athlete's energy intake does not match the energy expended during exercise.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.low_energy_availability
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.low_energy_availability
+type: Concept
+canonical_name: Low Energy Availability
+semantic_type: Condition
+aliases:
+  - LEA
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.relative_energy_deficiency_in_sport
+definition: >
+  LEA is quantified by energy availability (EA), calculated as energy intake minus exercise energy expenditure, relative to fat-free mass (FFM).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.energy_availability.optimal
+type: Threshold
+canonical_name: Optimal Energy Availability Threshold
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.energy_availability.severe_lea
+definition: ""
+value: "around 45 kilocalories per kilogram FFM per day"
+unit: "kilocalories per kilogram FFM per day"
+condition: "optimal EA for healthy function"
+context: "energy availability"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.energy_availability.severe_lea
+type: Threshold
+canonical_name: Severe LEA Threshold
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.energy_availability.optimal
+definition: ""
+value: "below 30 kilocalories per kilogram FFM per day"
+unit: "kilocalories per kilogram FFM per day"
+condition: "severe perturbations"
+context: "energy availability"
+---
+# ontology: knowledge-compiler/v1
+
+id: risk_factor.lea_as_injury_risk_indicator
+type: RiskFactor
+canonical_name: LEA as Injury Risk Indicator
+semantic_type: Risk Factor
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  LEA may be one of the strongest indicators of injury risk for athletes (133), with oligomenorrheic and functional hypothalamic amenorrheic (FHA) athletes reporting higher percentages of severe musculoskeletal injuries resulting in greater durations of time lost from sport (134).
+risk_factor_for: "injury"
+population: "athletes"
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.anorexia_nervosa
+type: Concept
+canonical_name: Anorexia Nervosa
+semantic_type: Disorder
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 651
+  pdf_page: 651
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Anorexia nervosa is characterized by a distorted body image and an intense fear of gaining weight or becoming fat, leading those with this disease to excessive calorie restriction and severe weight loss (8).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.restricting_type_anorexia_nervosa
+  - concept.binge_eating_or_purging_type_anorexia_nervosa
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.restricting_type_anorexia_nervosa
+type: Concept
+canonical_name: Restricting Type Anorexia Nervosa
+semantic_type: Subtype
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: ""
+  section: "11.4"
+  section_title: "Body Composition Strategies"
+  book_page: 652
+  pdf_page: 652
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.anorexia_nervosa
+definition: >
+  The restricting type does not regularly binge eat or purge, while the binge-eating or purging type regularly engages in binge eating or purging.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.binge_eating_or_purging_type_anorexia_nervosa
+type: Concept
+canonical_name: Binge-Eating or Purging Type Anorexia Nervosa
+semantic_type: Subtype
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12

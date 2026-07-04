@@ -1,0 +1,34 @@
+id: concept.lever
+type: Concept
+canonical_name: Lever
+semantic_type: MechanicalSystem
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Exercise
+  section: Levers of the Musculoskeletal System
+  section_title: Levers of the Musculoskeletal System
+  book_page: 107
+  pdf_page: 107
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'lever— A rigid or semirigid body that, when subjected to a force whose
+  line of action does not pass through its pivot point, exerts force on any object
+  impeding its tendency to rotate (figure 2.2).
+
+  '
+attributes:
+- rigid_or_semirigid
+purpose:
+- exert force on object impeding rotation
+related_concepts:
+- concept.fulcrum
+- concept.first_class_lever
+- concept.second_class_lever
+- concept.third_class_lever

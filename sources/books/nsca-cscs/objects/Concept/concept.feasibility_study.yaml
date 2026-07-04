@@ -1,0 +1,35 @@
+id: concept.feasibility_study
+type: Concept
+canonical_name: Feasibility Study
+semantic_type: Process
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 25
+  chapter_title: Facility Design, Layout, and Organization
+  section: '25'
+  section_title: Facility Design, Layout, and Organization
+  book_page: 1730
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.predesign_phase
+definition: 'The second part of the predesign phase is called a feasibility study.
+  This process should analyze strengths, weaknesses, opportunities, and threats (known
+  as a SWOT analysis) (10).
+
+  '
+attributes:
+- analyzes strengths
+- analyzes weaknesses
+- analyzes opportunities
+- analyzes threats
+purpose: []
+related_concepts:
+- concept.swot_analysis

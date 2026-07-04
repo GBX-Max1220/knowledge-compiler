@@ -1,0 +1,11 @@
+id: concept.test_performance_metric
+type: Concept
+canonical_name: Test Performance Metric
+semantic_type: Entity
+source:
+  book: ACSM Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  section: '1.0'
+  book_page: 1
+definition: Test Performance Metric is a concept in exercise science.

@@ -1,0 +1,43 @@
+# ontology: knowledge-compiler/v1
+# Section: 3.28 — Flexibility
+# Pages: 241–244
+
+---
+id: procedure.sit_and_reach
+type: Procedure
+canonical_name: Sit-and-Reach Test
+semantic_type: Protocol
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "3.28"
+  section_title: "Flexibility"
+  book_page: 244
+  pdf_page: 244
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+goal: Assess low back and hamstring flexibility
+inputs:
+  - sit-and-reach box
+  - ruler
+outputs:
+  - reach distance (cm or in)
+steps:
+  - Individual sits with back flat against wall and legs extended
+  - Place feet against the sit-and-reach box
+  - Arms extended forward with hands placed on the ruler
+  - Slowly reach forward, pushing the ruler as far as possible
+  - Hold the position
+  - Record the distance reached
+exceptions: []

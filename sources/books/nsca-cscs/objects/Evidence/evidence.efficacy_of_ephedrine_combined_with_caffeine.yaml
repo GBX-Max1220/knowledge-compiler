@@ -1,0 +1,39 @@
+id: evidence.efficacy_of_ephedrine_combined_with_caffeine
+type: Evidence
+canonical_name: Efficacy of Ephedrine Combined with Caffeine
+semantic_type: Research Finding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Ergogenic Aids
+  section: '12.4'
+  section_title: Conclusion
+  book_page: 723
+  pdf_page: 723
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Studies examining the ergogenic effect of ephedrine have shown it to
+  be effective only when it is taken in combination with caffeine (21). These results
+  have been quite consistent with regard to improving aerobic endurance performance
+  (20). In terms of anaerobic exercise performance, the scientific literature investigating
+  the combination of ephedrine and caffeine is equivocal (224). However, side effects
+  (vomiting and nausea) following exercise have been reported in 25% of the subjects
+  ingesting a mixture of 5 milligrams per kilogram caffeine and 1 milligram per kilogram
+  ephedrine (19). A subsequent study performed by the same investigators showed that
+  at a lower dose (4 mg/kg caffeine and 0.8 mg/kg ephedrine), similar ergogenic benefits
+  were realized with no side effects (20).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.ephedrine
+- concept.caffeine
+- concept.aerobic_endurance_performance
+- concept.anaerobic_exercise_performance

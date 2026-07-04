@@ -1,0 +1,29 @@
+id: concept.stimulus_fatigue_recovery_adaptation_theory
+type: Concept
+canonical_name: Stimulus–Fatigue–Recovery–Adaptation Theory
+semantic_type: Theory
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1583
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The stimulus–fatigue–recovery–adaptation theory is an extension of the
+  GAS and suggests that training stimuli produce a general response (figure 22.3)
+  that is influenced by the overall magnitude of the training stressor (38, 92).
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.general_adaptation_syndrome

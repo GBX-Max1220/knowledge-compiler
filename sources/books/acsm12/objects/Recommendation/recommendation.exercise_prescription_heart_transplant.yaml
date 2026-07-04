@@ -1,0 +1,40 @@
+id: recommendation.exercise_prescription_heart_transplant
+type: Recommendation
+canonical_name: Exercise Prescription for Heart Transplant Recipients — General Guidelines
+semantic_type: ClinicalGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.30'
+  section_title: Special Considerations
+  book_page: 610
+  pdf_page: 610
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.heart_transplant_recipients
+definition: 'Exercise prescription for heart transplant recipients should follow the
+  general guidelines for apparently healthy individuals, with special considerations
+  for the unique physiological limitations of the denervated heart. Because of the
+  loss of parasympathetic and sympathetic innervation, the heart rate response to
+  exercise is blunted and delayed. Resting heart rate is typically elevated (95–115
+  bpm), and peak heart rate is lower than age-predicted. The heart rate reserve (HRR)
+  method may underestimate the appropriate exercise intensity; therefore, the rating
+  of perceived exertion (RPE) is often used to guide intensity. RPE of 11–14 on the
+  Borg 6–20 scale is recommended.
+
+  '
+attributes: []
+purpose:
+- guide exercise prescription for heart transplant recipients
+related_concepts:
+- threshold.resting_heart_rate_heart_transplant
+- recommendation.rpe_intensity_heart_transplant
+- warning.delayed_heart_rate_response_heart_transplant

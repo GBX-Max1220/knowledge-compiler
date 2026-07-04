@@ -1,0 +1,27 @@
+id: evidence.resistance_trained_athletes_higher_bmd
+type: Evidence
+canonical_name: Resistance-Trained Athletes Have Higher BMD
+semantic_type: Comparison
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.3'
+  section_title: Connective Tissue Adaptations
+  book_page: 312
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+claim: 'Researchers have reported that resistance-trained athletes have higher BMD
+  than age-matched sedentary control subjects (12, 29).
+
+  '
+supporting_studies:
+- citation: '12'
+- citation: '29'

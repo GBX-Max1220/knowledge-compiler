@@ -1,0 +1,36 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.neurologic_disease_exercise_prescription_1
+type: TableRow
+canonical_name: Neurologic Disease Exercise Prescription Row 1
+semantic_type: TableRow
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 11
+  chapter_title: "Exercise Prescription for Individuals With Neurologic Diseases"
+  section: "11.18"
+  section_title: "Exercise Prescription"
+  book_page: 985
+  pdf_page: 985
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 11.7 Exercise Prescription for Individuals With Neurologic Diseases
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---

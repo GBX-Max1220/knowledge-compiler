@@ -1,0 +1,33 @@
+id: formula.cardiac_output
+type: Formula
+canonical_name: Cardiac Output Formula
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '1'
+  section_title: Structure and Function of Body Systems
+  book_page: 82
+  pdf_page: 82
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: Q̇ = Stroke volume × Heart rate
+variables:
+- name: Q̇
+  description: cardiac output
+  unit: L/min
+- name: Stroke volume
+  description: quantity of blood ejected with each beat
+  unit: L/beat
+- name: Heart rate
+  description: heart's rate of pumping
+  unit: beats/min
+equation: Q̇ = Stroke volume × Heart rate
+reference_number: '1.1'

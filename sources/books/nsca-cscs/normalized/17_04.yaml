@@ -1,0 +1,431 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.stability_ball_jackknife
+type: Procedure
+canonical_name: Stability Ball Jackknife
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Nontraditional Implements"
+  section: "17.4"
+  section_title: "Nontraditional Implements"
+  book_page: 1146
+  pdf_page: 1146
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  An exercise performed on a stability ball that involves rolling the ball toward the chest by flexing the hips and knees while keeping the torso rigid.
+
+attributes:
+  - requires_stability_ball
+  - closed_kinetic_chain
+
+purpose:
+  - strengthen rectus abdominis
+  - strengthen iliopsoas
+
+related_concepts:
+  - concept.stability_ball
+  - concept.rectus_abdominis
+  - concept.iliopsoas
+
+steps:
+  - phase: "Starting Position"
+    description: >
+      Kneel down in front of a stability ball. Position the body facing away from the ball. In a quadruped position with the hands underneath the shoulders and the knees extended, place both feet on the stability ball. Isometrically hold the torso in a rigid position with the elbows fully extended and the head in a neutral position. All repetitions begin from this position.
+  - phase: "Forward Movement Phase"
+    description: >
+      Keeping the knees and elbows fully extended and the torso in a rigid position, begin the exercise by raising the hips slightly and flexing the hips and knees to roll the ball toward the chest. Continue rolling the ball forward until the hips and knees are fully flexed. Keep the shoulders over the hands and the head in a neutral position.
+  - phase: "Backward Movement Phase"
+    description: >
+      Return to the starting position by allowing the hips and knees to extend under control. Keep the elbows fully extended and the torso held rigid.
+
+muscles_involved:
+  - rectus abdominis
+  - iliopsoas
+
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.tire_flip
+type: Procedure
+canonical_name: Tire Flip
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Nontraditional Implements"
+  section: "17.4"
+  section_title: "Nontraditional Implements"
+  book_page: 1146
+  pdf_page: 1146
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  An exercise that involves flipping a tire from a squatting position by extending the knees and hips and pushing the tire forward.
+
+attributes:
+  - requires_tire
+  - explosive
+
+purpose:
+  - strengthen gluteus maximus
+  - strengthen hamstrings
+  - strengthen quadriceps
+  - strengthen calves
+  - strengthen deltoids
+  - strengthen triceps brachii
+  - strengthen trapezius
+
+related_concepts:
+  - concept.tire
+  - concept.gluteus_maximus
+  - concept.semimembranosus
+  - concept.semitendinosus
+  - concept.biceps_femoris
+  - concept.vastus_lateralis
+  - concept.vastus_intermedius
+  - concept.vastus_medialis
+  - concept.rectus_femoris
+  - concept.soleus
+  - concept.gastrocnemius
+  - concept.deltoids
+  - concept.triceps_brachii
+  - concept.trapezius
+
+steps:
+  - phase: "Starting Position"
+    description: >
+      Begin facing the tire with the feet hip- to shoulder-width apart. Squat down and lean into the tire so that the chin and the anterior deltoids are resting on the tire and the feet are positioned back far enough to maintain a neutral spine position. Keeping the arms outside the knees and the elbows fully extended, grasp the tire with a supinated grip. All repetitions begin from this position.
+  - phase: "Upward Movement Phase"
+    description: >
+      Begin by extending the knees and hips and plantar flexing the ankles while pushing the tire forward. Move forward explosively toward the tire by taking two or three steps. Continue this movement until the body is aligned in a 45-degree angle to the tire. Consider flexing the hip and knee of one leg fully to drive the knee upward and toward the tire. Immediately after striking the tire with the thigh (if done), reorient the hands into a pronated grip. Lean forward and take small steps as required while forcefully extending the arms to push the tire over in front of the body.
+
+muscles_involved:
+  - gluteus maximus
+  - semimembranosus
+  - semitendinosus
+  - biceps femoris
+  - vastus lateralis
+  - vastus intermedius
+  - vastus medialis
+  - rectus femoris
+  - soleus
+  - gastrocnemius
+  - deltoids
+  - triceps brachii
+  - trapezius
+
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.log_clean_and_press
+type: Procedure
+canonical_name: Log Clean and Press
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Nontraditional Implements"
+  section: "17.4"
+  section_title: "Nontraditional Implements"
+  book_page: 1148
+  pdf_page: 1148
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A strongman exercise that consists of quickly and forcefully picking a log up from the ground to the front of the shoulders and then pressing it overhead. The log clean consists of three phases but occurs in two motions, with a pause of the log at the shoulders. The log can either be cleaned and pressed each repetition or cleaned once and pressed for multiple repetitions.
+
+attributes:
+  - requires_log
+  - explosive
+  - strongman_training
+
+purpose:
+  - strengthen gluteus maximus
+  - strengthen hamstrings
+  - strengthen quadriceps
+  - strengthen deltoids
+  - strengthen triceps brachii
+  - strengthen trapezius
+
+related_concepts:
+  - concept.log
+  - concept.gluteus_maximus
+  - concept.semimembranosus
+  - concept.semitendinosus
+  - concept.biceps_femoris
+  - concept.vastus_lateralis
+  - concept.vastus_intermedius
+  - concept.vastus_medialis
+  - concept.rectus_femoris
+  - concept.deltoids
+  - concept.triceps_brachii
+  - concept.trapezius
+
+steps:
+  - phase: "Starting Position"
+    description: >
+      Stand with the feet placed between hip- and shoulder-width apart with the toes pointed forward or slightly outward. Squat down with the hips lower than the shoulders, and grasp the log with a closed, neutral grip. Place the hands on the log handles with the arms slightly outside of the knees and the elbows fully extended. Place the feet flat on the floor, and position the log in front of the shins and over the balls of the feet. All repetitions begin with the back in a neutral spine position, scapulae depressed and retracted, head in line with the vertebral column, and shoulders over or slightly in front of the log.
+  - phase: "Upward Movement Phase: First Pull"
+    description: >
+      Lift the log off the ground by extending the hips and knees. Keep the torso-to-floor angle constant; do not let the hips rise before the shoulders. Keep the elbows extended and the shoulders over or slightly ahead of the log.
+  - phase: "Upward Movement Phase: Transition"
+    description: >
+      As the log passes the knees, pull the log into the body by dropping into a full squat position while ensuring the elbows are about shoulder height and positioned slightly behind or above the hands. Briefly pause in this position with the log on the thighs.
+  - phase: "Upward Movement Phase: Second Pull"
+    description: >
+      Forcefully jump upward by extending the hips and knees and plantar flexing the ankles. Ensure the log is kept close to the body throughout this phase, whereby it essentially rolls up the upper body toward the shoulders.
+  - phase: "Upward Movement Phase: Catch"
+    description: >
+      After the lower body has fully extended, pull the body under the log and rotate the arms around under the log, similar to the catch in the power clean. Simultaneously flex the hips and knees to a quarter- or half-squat position. Rack the log across the front of the clavicles and anterior deltoids.
+  - phase: "Preparation Phase: Dip"
+    description: >
+      Flex the hips and knees at a slow to moderate speed to move the log in a straight path downward. Continue the dip to a depth not to exceed a quarter squat. Keep the feet flat on the floor, the torso erect, and the upper arms directly under the log.
+  - phase: "Upward Movement Phase: Drive"
+    description: >
+      Immediately on reaching the lowest position of the dip, reverse the movement by forcefully and quickly extending the hips and knees and then the elbows to move the log overhead.
+  - phase: "Downward Movement Phase"
+    description: >
+      Lower the log by gradually reducing the muscular tension of the arms to allow a controlled descent of the log to the shoulders. Simultaneously flex the hips and knees to cushion the impact of the log on the shoulders, and then return the log to the floor. If sufficient drop pads are available, it is possible to drop the log from overhead to the floor. In order to do this safely, push the bar slightly forward from the finished overhead position while retaining some grip on the handles for a part of the descent.
+
+muscles_involved:
+  - gluteus maximus
+  - semimembranosus
+  - semitendinosus
+  - biceps femoris
+  - vastus lateralis
+  - vastus intermedius
+  - vastus medialis
+  - rectus femoris
+  - deltoids
+  - triceps brachii
+  - trapezius
+
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.yoke_walk
+type: Procedure
+canonical_name: Yoke Walk
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Nontraditional Implements"
+  section: "17.4"
+  section_title: "Nontraditional Implements"
+  book_page: 1151
+  pdf_page: 1151
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A strongman exercise that involves walking while carrying a yoke frame on the upper trapezius muscles.
+
+attributes:
+  - requires_yoke
+  - loaded_carry
+  - strongman_training
+
+purpose:
+  - strengthen gastrocnemius
+  - strengthen soleus
+  - strengthen gluteus maximus
+  - strengthen rectus femoris
+  - strengthen gluteus medius
+  - strengthen erector spinae
+  - strengthen internal and external obliques
+
+related_concepts:
+  - concept.yoke
+  - concept.gastrocnemius
+  - concept.soleus
+  - concept.gluteus_maximus
+  - concept.rectus_femoris
+  - concept.gluteus_medius
+  - concept.erector_spinae
+  - concept.internal_and_external_obliques
+
+steps:
+  - phase: "Starting Position"
+    description: >
+      Adjust the yoke to a height that would provide sufficient clearance to walk safely without tripping over it (perhaps 4-6 in. [10-15 cm] of ground clearance). Assume a position under the yoke with the bar positioned on top of the upper trapezius muscles, with the feet positioned underneath the hips and the rest of the body symmetrically positioned under the frame. This should look something similar to the starting position of a partial barbell back squat, except that the hands are positioned on the vertical bars around lower chest height.
+  - phase: "Liftoff and Walking Phase"
+    description: >
+      After strongly bracing the spine, forcibly push the feet into the ground while pushing the elbows and hands forward into the vertical bars to better stabilize the yoke. While continuing to brace the spine and push the elbows and hands forward, adopt a walking movement pattern in which the spine remains vertical; initially focus on performing a series of short and relatively fast steps. While accelerating, increase the length of steps and further reduce ground contact times.
+  - phase: "Ending Position"
+    description: >
+      After completing the set distance, flex the hips, knees, and ankles to lower the frame carefully to the ground. Maintain a strong braced spinal position to minimize the risk of impact injury.
+
+muscles_involved:
+  - gastrocnemius
+  - soleus
+  - gluteus maximus
+  - rectus femoris
+  - gluteus medius
+  - erector spinae
+  - internal and external obliques
+
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.sandbag_carry
+type: Procedure
+canonical_name: Sandbag Carry
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Nontraditional Implements"
+  section: "17.4"
+  section_title: "Nontraditional Implements"
+  book_page: 1152
+  pdf_page: 1152
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  An exercise that involves carrying a sandbag from a starting position similar to a barbell deadlift, transitioning through a liftoff and full squat position, and then walking with the sandbag held against the chest.
+
+attributes:
+  - requires_sandbag
+  - loaded_carry
+
+purpose:
+  - strengthen gastrocnemius
+  - strengthen soleus
+  - strengthen gluteus maximus
+  - strengthen rectus femoris
+  - strengthen gluteus medius
+  - strengthen erector spinae
+  - strengthen internal and external obliques
+
+related_concepts:
+  - concept.sandbag
+  - concept.gastrocnemius
+  - concept.soleus
+  - concept.gluteus_maximus
+  - concept.rectus_femoris
+  - concept.gluteus_medius
+  - concept.erector_spinae
+  - concept.internal_and_external_obliques
+
+steps:
+  - phase: "Starting Position"
+    description: >
+      Adopt a position just behind the center of the sandbag, similar to the starting position of a barbell deadlift. The sandbag can be positioned length ways in the intended direction of the carry or positioned across the body. Due to the width of the sandbag, it may be necessary to rotate the hips outward, with the elbows inside the knees. Wedge the fingers under the sides of the sandbag so that the hands act as hooks under each side of the sandbag.
+  - phase: "Liftoff Position"
+    description: >
+      After strongly bracing the spine and ensuring a strong grip on the sandbag, forcibly push the feet into the ground and row the sandbag into your chest. If the sandbag is quite heavy, transition into a full squat position. However, if the sandbag is light to moderately heavy, it may be possible to bypass the full squat position and, via forceful hip extension, stand up from this position and initiate the carrying phase.
+  - phase: "Full Squat Position"
+    description: >
+      As the sandbag approaches the chest at the end of the liftoff phase, drop the hips rapidly into a deep squat position so that the sandbag is tightly held against the chest and resting on the upper thighs. Once secure and balanced in this position, initiate the concentric phase of the squat movement by vigorously extending the hip and knee joints while continuing to strongly pull the sandbag into the chest. Arms may be kept on the side of or above the sandbag, depending on personal preference.
+  - phase: "Carrying Phase"
+    description: >
+      From here, adopt a walking movement pattern, initially focusing on performing a series of short, fast steps, which will increase total body balance and stability. When building up speed, increase the length of the steps and further reduce ground contact times. Note: Lean back a little during the walking phase so as not to lose balance forward due to the sandbag positioned in front of the center of mass.
+  - phase: "Ending Position"
+    description: >
+      After completing the set distance, lean slightly forward and drop the sandbag to the floor.
+
+muscles_involved:
+  - gastrocnemius
+  - soleus
+  - gluteus maximus
+  - rectus femoris
+  - gluteus medius
+  - erector spinae
+  - internal and external obliques
+
+---
+# ontology: knowledge-compiler/v1
+
+id: procedure.zercher_carry
+type: Procedure
+canonical_name: Zercher Carry
+semantic_type: Exercise
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 17
+  chapter_title: "Nontraditional Implements"
+  section: "17.4"
+  section_title: "Nontraditional Implements"
+  book_page: 1154
+  pdf_page: 1154
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A loaded carry exercise where a barbell is held in the crooks of the elbows against the upper abdominal region while walking.
+
+attributes:
+  - requires_barbell
+  - loaded_carry
+
+purpose:
+  - strengthen gastrocnemius
+  - strengthen soleus

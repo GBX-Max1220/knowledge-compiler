@@ -1,0 +1,569 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.flexibility
+type: Concept
+canonical_name: Flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 873
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Flexibility is defined as the range of motion (ROM) that occurs about a joint.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.static_flexibility
+type: Concept
+canonical_name: Static Flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 873
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.flexibility
+definition: >
+  Static flexibility refers to the range of possible movement about a joint (28) and its surrounding muscles during a passive movement (40).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dynamic_flexibility
+type: Concept
+canonical_name: Dynamic Flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 873
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.flexibility
+definition: >
+  Dynamic flexibility, on the other hand, refers to the available ROM during active movements and therefore requires voluntary muscular actions.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mobility
+type: Concept
+canonical_name: Mobility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 862
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Mobility involves the capacity to move freely and effectively through movements (67) and is a dynamic quality requiring a combination of motor control, stability, and flexibility; it more closely relates to the movement requirements an athlete will face in his or her sport and in the general activities of life (51).
+attributes:
+  - motor control
+  - stability
+  - flexibility
+purpose: []
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.elasticity
+type: Concept
+canonical_name: Elasticity
+semantic_type: Physical_Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 876
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Elasticity refers to the ability to return to original resting length after a passive stretch, while plasticity refers to the tendency to assume a new and greater length after a passive stretch.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.plasticity
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.plasticity
+type: Concept
+canonical_name: Plasticity
+semantic_type: Physical_Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 876
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Elasticity refers to the ability to return to original resting length after a passive stretch, while plasticity refers to the tendency to assume a new and greater length after a passive stretch.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.elasticity
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stretch_tolerance
+type: Concept
+canonical_name: Stretch Tolerance
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 876
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An important factor in determining an athlete's flexibility is stretch tolerance, or the ability to tolerate the discomfort of stretching (84).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.active_stretch
+type: Concept
+canonical_name: Active Stretch
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 879
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  An active stretch occurs when the person stretching supplies the necessary forces to enable the end position to be reached.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.passive_stretch
+type: Concept
+canonical_name: Passive Stretch
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 879
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A passive stretch occurs when a partner or a stretching machine provides external force to cause or enhance a stretch.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.static_stretch
+type: Concept
+canonical_name: Static Stretch
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 879
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A static stretch involves a slow and constant movement toward the end position, which is then held for 10 to 30 seconds (66).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dynamic_stretching
+type: Concept
+canonical_name: Dynamic Stretching
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 880
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Dynamic stretching is a broad term used to describe actions that involve active motions where a performer moves actively in a controlled and moderate paced manner through a typically large ROM (66).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ballistic_stretch
+type: Concept
+canonical_name: Ballistic Stretch
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 881
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.dynamic_stretching
+definition: >
+  A ballistic stretch can be considered a special type of dynamic stretch. Ballistic stretches similarly involve active muscular efforts, but rather than performing these under control, they instead use intense bouncing-type movements to achieve the required ROM (66).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.proprioceptive_neuromuscular_facilitation
+type: Concept
+canonical_name: Proprioceptive Neuromuscular Facilitation
+semantic_type: Activity
+aliases:
+  - PNF
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 882
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Proprioceptive neuromuscular facilitation (PNF) is the most common precontraction stretching methodology.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.autogenic_inhibition
+type: Concept
+canonical_name: Autogenic Inhibition
+semantic_type: Physiological_Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 883
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Relaxation that occurs in the same muscle that is experiencing increased tension is called autogenic inhibition (18, 22).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.reciprocal_inhibition
+type: Concept
+canonical_name: Reciprocal Inhibition
+semantic_type: Physiological_Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 883
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Relaxation that occurs in the muscle opposing the muscle experiencing the increased tension is called reciprocal inhibition (18).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hold_relax
+type: Concept
+canonical_name: Hold-Relax
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 885
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.proprioceptive_neuromuscular_facilitation
+definition: >
+  The hold-relax technique begins with a passive prestretch that is held at the point of mild discomfort for 10 seconds (figure 15.3).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.contract_relax
+type: Concept
+canonical_name: Contract-Relax
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 887
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.proprioceptive_neuromuscular_facilitation
+definition: >
+  The contract-relax technique also begins with a passive prestretch of the hamstrings that is held at the point of mild discomfort for 10 seconds (figure 15.6).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hold_relax_with_agonist_contraction
+type: Concept
+canonical_name: Hold-Relax With Agonist Contraction
+semantic_type: Activity
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 887
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.proprioceptive_neuromuscular_facilitation
+definition: >
+  The hold-relax with agonist contraction technique is identical to hold-relax in the first two phases (figures 15.9 and 15.10).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.hold_relax
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.postactivation_performance_enhancement
+type: Concept
+canonical_name: Postactivation Performance Enhancement
+semantic_type: Physiological_Process
+aliases:
+  - PAPE
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title: "Performance Preparation, Mobility, and Flexibility"
+  book_page: 867
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Research suggests that an acute stimulus of low-volume exercise can acutely enhance neuromuscular performance, a concept known as postactivation performance enhancement (PAPE), and outlines the potential for residual force enhancement from prior activity (45).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.raise_activate_and_mobilize_and_potentiate_protocol
+type: Concept
+canonical_name: Raise, Activate and Mobilize, and Potentiate Protocol
+semantic_type: Protocol
+aliases:
+  - RAMP protocol
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 15
+  chapter_title: "Performance Preparation, Mobility, and Flexibility"
+  section: "15"
+  section_title:

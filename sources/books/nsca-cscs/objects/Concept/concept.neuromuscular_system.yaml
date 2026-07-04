@@ -1,0 +1,30 @@
+id: concept.neuromuscular_system
+type: Concept
+canonical_name: Neuromuscular System
+semantic_type: Anatomical System
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 56
+  pdf_page: 56
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Muscle fibers are innervated by motor neurons that transmit impulses
+  in the form of electrochemical signals from the spinal cord to the muscle.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.motor_unit
+- concept.muscle_fiber
+- concept.motor_neuron

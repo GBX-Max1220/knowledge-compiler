@@ -1,0 +1,33 @@
+id: concept.myalgic_encephalomyelitis_chronic_fatigue_syndrome
+type: Concept
+canonical_name: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+semantic_type: Disease
+aliases:
+- ME/CFS
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Clinical Considerations for Special Populations
+  section: '10.18'
+  section_title: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+  book_page: 831
+  pdf_page: 831
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A complex, debilitating chronic disease characterized by profound fatigue
+  that is not alleviated by rest, postexertional malaise (PEM), unrefreshing sleep,
+  cognitive impairment, and orthostatic intolerance.
+
+  '
+attributes:
+- complex
+- debilitating
+- chronic
+purpose: []
+related_concepts:
+- concept.postexertional_malaise

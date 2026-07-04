@@ -1,0 +1,549 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.anabolic_steroid
+type: Concept
+canonical_name: Anabolic Steroid
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 666
+  pdf_page: 666
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Anabolic steroids are the synthetic (human-made) derivatives of the male sex hormone testosterone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.androgenic_properties
+type: Concept
+canonical_name: Androgenic Properties
+semantic_type: Property
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 666
+  pdf_page: 666
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.anabolic_steroid
+definition: >
+  These androgenic properties include the full development of the primary sexual characteristics of the male.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ergogenic_aid
+type: Concept
+canonical_name: Ergogenic Aid
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 660
+  pdf_page: 660
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Although an ergogenic aid can be any substance, mechanical aid, or training method that improves sport performance, for the purposes of this chapter the term refers specifically to pharmacologic aids.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.dietary_supplement
+type: Concept
+canonical_name: Dietary Supplement
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 663
+  pdf_page: 663
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  A product (other than tobacco) intended to supplement the diet that contains one or more of the following dietary ingredients: A vitamin, A mineral, An herb or other botanical, An amino acid, A dietary substance for use by humans to supplement the diet by increasing the total dietary intake, A concentrate, metabolite, constituent, extract, or combination of any ingredient listed above. The product must also be labeled as a dietary supplement, such that the label must include the term dietary supplement or equivalent and therefore cannot also be advertised for use as a conventional food or as the sole item within a meal or diet.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.selective_androgen_receptor_modulator
+type: Concept
+canonical_name: Selective Androgen Receptor Modulator
+semantic_type: Substance
+aliases:
+  - SARMs
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 683
+  pdf_page: 683
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Selective androgen receptor modulators (SARMs) are tissue-selective agonists of androgen receptors in tissues such as muscle and bone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.peptide
+type: Concept
+canonical_name: Peptide
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 683
+  pdf_page: 683
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The development of novel peptides, or short chains of amino acids that regulate cellular functions and biochemical processes, has been an emerging frontier in pharmaceutical development alongside SARMs and, similar to SARMs, has potential for selective agonism and thus limited side effects.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.human_chorionic_gonadotropin
+type: Concept
+canonical_name: Human Chorionic Gonadotropin
+semantic_type: Substance
+aliases:
+  - HCG
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 688
+  pdf_page: 688
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Human chorionic gonadotropin (HCG) is a hormone obtained from the placenta of pregnant women and is very closely related in structure and function to luteinizing hormone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.insulin
+type: Concept
+canonical_name: Insulin
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 689
+  pdf_page: 689
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Insulin is a potent anabolic hormone.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.human_growth_hormone
+type: Concept
+canonical_name: Human Growth Hormone
+semantic_type: Substance
+aliases:
+  - HGH
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 690
+  pdf_page: 690
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Human growth hormone (HGH), a protein secreted from the anterior pituitary gland, has several important physiological functions that enhance its ergogenic effect.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.erythropoietin
+type: Concept
+canonical_name: Erythropoietin
+semantic_type: Substance
+aliases:
+  - EPO
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 693
+  pdf_page: 693
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Erythropoietin (EPO) is produced in the kidneys and stimulates the production of new red blood cells.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.beta_adrenergic_agonist
+type: Concept
+canonical_name: Beta-Adrenergic Agonist
+semantic_type: Substance
+aliases:
+  - Beta-Agonists
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 695
+  pdf_page: 695
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Synthetic β-adrenergic agonists, or β-agonists, are substances chemically related to epinephrine, a hormone produced in the adrenal medulla that regulates physiological effects, such as lipolysis (the breakdown of fat) and thermogenesis (increased energy expenditure resulting in the production of heat).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.beta_blocker
+type: Concept
+canonical_name: Beta-Blocker
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 696
+  pdf_page: 696
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  β-Blockers are a class of drugs that block the β-adrenergic receptors, preventing the catecholamines (i.e., norepinephrine and epinephrine) from binding.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.essential_amino_acid
+type: Concept
+canonical_name: Essential Amino Acid
+semantic_type: Substance
+aliases:
+  - EAAs
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 699
+  pdf_page: 699
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Essential amino acids (EAAs) are not produced in the body and must be obtained through the diet.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.branched_chain_amino_acid
+type: Concept
+canonical_name: Branched-Chain Amino Acid
+semantic_type: Substance
+aliases:
+  - BCAAs
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 700
+  pdf_page: 700
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.essential_amino_acid
+definition: >
+  Prior work in animal models further identified that of the eight EAAs, it is the branched-chain amino acids (BCAAs) —isoleucine, leucine, and valine—that are responsible for increasing muscle protein synthesis (83).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.beta_hydroxy_beta_methylbutyrate
+type: Concept
+canonical_name: Beta-Hydroxy-Beta-Methylbutyrate
+semantic_type: Substance
+aliases:
+  - HMB
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 703
+  pdf_page: 703
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  β-Hydroxy-β-methylbutyrate (HMB) is a derivative of the EAA leucine and its metabolite α-ketoisocaproic acid.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.muscle_buffering_capacity
+type: Concept
+canonical_name: Muscle Buffering Capacity
+semantic_type: Property
+aliases:
+  - MBC
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 706
+  pdf_page: 706
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The ability to regulate H+ concentration in skeletal muscle during high-intensity exercise has been termed muscle buffering capacity (MBC).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.creatine
+type: Concept
+canonical_name: Creatine
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 712
+  pdf_page: 712
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Creatine is a nitrogenous organic compound that is synthesized naturally in the body, primarily in the liver, and helps to supply energy to all cells in the body.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.caffeine
+type: Concept
+canonical_name: Caffeine
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 718
+  pdf_page: 718
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Caffeine is a multifaceted supplement used in athletics and is popular among both aerobic endurance and resistance training athletes.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.ephedrine
+type: Concept
+canonical_name: Ephedrine
+semantic_type: Substance
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 12
+  chapter_title: "Performance-Enhancing Substances and Methods"
+  section: "12.1"
+  section_title: "Performance-Enhancing Substances and Methods"
+  book_page: 723
+  pdf_page: 723
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Another stimulant, ephedrine, has been widely used throughout the world for temporary relief from the symptoms of bronchial asthma, bronchitis, allergies, shortness of breath, cold and flu symptoms, and other ailments.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.citrus_aurantium
+type: Concept

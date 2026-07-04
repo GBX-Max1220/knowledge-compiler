@@ -1,0 +1,11 @@
+id: concept.metabolic_rate
+type: Concept
+canonical_name: Metabolic Rate
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Metabolic Rate is a concept in strength and conditioning.

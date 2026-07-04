@@ -1,0 +1,36 @@
+id: procedure.informed_consent
+type: Procedure
+canonical_name: Informed Consent Process
+semantic_type: Protocol
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Evaluation
+  section: '2.2'
+  section_title: Informed Consent
+  book_page: 123
+  pdf_page: 123
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+goal: Obtain ethical and legal consent from participants before exercise testing or
+  programming
+inputs:
+- consent form
+outputs:
+- signed consent form
+steps:
+- Describe the purpose of the test to the participant
+- Explain test protocols and procedures
+- Describe potential risks and discomforts
+- Outline expected benefits
+- Explain confidentiality protections
+- Inform of the right to withdraw at any time
+- Obtain the participant's signature
+exceptions:
+- Research settings require IRB-approved consent forms

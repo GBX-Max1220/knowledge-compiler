@@ -1,0 +1,33 @@
+id: threshold.reduced_hdl_c_metabolic_syndrome
+type: Threshold
+canonical_name: Reduced HDL-C Threshold (Metabolic Syndrome)
+semantic_type: LaboratoryThreshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: ''
+  section: '9.24'
+  section_title: Metabolic Syndrome
+  book_page: 749
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.metabolic_syndrome
+definition: 'reduced HDL-C (<40 mg·dL−1 [1.0 mmol·L−1] in males; <50 mg·dL−1 [1.3
+  mmol·L−1] in females)
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: <40 mg·dL−1 [1.0 mmol·L−1] in males; <50 mg·dL−1 [1.3 mmol·L−1] in
+  females
+unit: mg·dL−1
+comparison_operator: <

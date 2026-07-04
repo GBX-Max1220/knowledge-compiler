@@ -1,0 +1,35 @@
+# ontology: knowledge-compiler/v1
+
+id: procedure.pretest_instructions_for_fitness_testing
+type: Procedure
+canonical_name: Pretest Instructions for Fitness Testing
+semantic_type: Procedure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.4"
+  section_title: "Pretest Instructions for Fitness Testing"
+  book_page: 169
+  pdf_page: 169
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Pretest instructions for fitness testing.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

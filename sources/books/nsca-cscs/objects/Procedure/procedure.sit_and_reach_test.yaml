@@ -1,0 +1,47 @@
+id: procedure.sit_and_reach_test
+type: Procedure
+canonical_name: Sit-and-Reach Test Procedure
+semantic_type: Assessment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing
+  section: '14.3'
+  section_title: Statistical Evaluation of Test Data
+  book_page: 812
+  pdf_page: 812
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Tape the measuring stick or tape measure to the floor. Place one piece
+  of tape about 24 inches (61 cm) long across the measuring stick and at a right angle
+  to it at the 15-inch (38 cm) mark. Have the athlete warm up with nonballistic exercises
+  involving the hamstrings and lower back (e.g., by walking rapidly for 3-5 min);
+  performing several repetitions of flexing forward from a standing, knees-extended
+  position, reaching toward the toes, then reaching upward toward the ceiling (all
+  without jerking); jogging in place while trying to kick the heels into the upper
+  thighs from behind; and finishing with standing toe-touching or similar stretching
+  on the floor. Have the athlete sit shoeless with the measuring stick between the
+  legs with its zero end toward the body, the feet 12 inches (30 cm) apart, the toes
+  pointed upward, and the heels nearly touching the edge of the taped line at the
+  15-inch (38 cm) mark (figure 14.28a). The athlete slowly reaches forward with both
+  hands as far as possible on the measuring stick, holding this position momentarily.
+  To get the best stretch, the athlete should exhale and drop the head between the
+  arms when reaching. Be sure the athlete keeps the hands adjacent to each other and
+  does not lead with one hand. The fingertips should remain in contact with the measuring
+  stick (figure 14.28b). The tester may hold the athlete''s knees down, if necessary,
+  to keep them straight. A score of less than 15 inches indicates that the athlete
+  could not reach the bottom of the feet. The best of three trials is recorded to
+  the nearest 0.25 inch or 1 centimeter.
+
+  '
+attributes: []
+purpose:
+- assess flexibility
+related_concepts:
+- concept.flexibility

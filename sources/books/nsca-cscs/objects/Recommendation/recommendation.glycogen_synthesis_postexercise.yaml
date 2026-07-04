@@ -1,0 +1,33 @@
+id: recommendation.glycogen_synthesis_postexercise
+type: Recommendation
+canonical_name: Glycogen synthesis after exercise
+semantic_type: Nutrition
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Athletic Performance
+  section: '11.3'
+  section_title: Postcompetition Nutrition
+  book_page: 637
+  pdf_page: 637
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For faster glycogen synthesis, athletes should eat or drink a high-carbohydrate
+  meal immediately after exercise and at regular intervals thereafter. This is especially
+  important for athletes who train again less than 24 hours after their initial training
+  session.
+
+  '
+attributes:
+- carbohydrate
+- glycogen_synthesis
+- postexercise
+purpose:
+- faster glycogen synthesis
+related_concepts: []

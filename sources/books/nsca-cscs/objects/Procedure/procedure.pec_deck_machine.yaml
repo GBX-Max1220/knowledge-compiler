@@ -1,0 +1,43 @@
+id: procedure.pec_deck_machine
+type: Procedure
+canonical_name: Pec Deck (Machine)
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Prescription for Special Populations
+  section: '16.2'
+  section_title: Machine Exercises
+  book_page: 999
+  pdf_page: 999
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Starting Position Sit down and lean back on the seat in the five-point
+  body contact position. (Note: Some back pads are not long enough to allow the back
+  of the head to be in contact with the bench.) Grasp the handles with a closed, neutral
+  grip. Align the handles with the midchest so that the arms are parallel to the floor.
+  If necessary, adjust the seat height to correctly position the handles. All repetitions
+  begin from this position. Forward Movement Phase Pull the handles toward each other
+  while maintaining a slight flex in the elbow, until the fingers touch in front of
+  the body. Do not arch the back or lock out the elbows. Maintain the five-point body
+  contact position. Backward Movement Phase Allow the handles to slowly move outward
+  back to the starting position. Maintain the five-point body contact position.
+
+  '
+attributes:
+- closed_neutral_grip
+- seated_position
+- five_point_body_contact_position
+- machine_exercise
+purpose:
+- strengthen chest muscles
+- strengthen shoulder muscles
+related_concepts:
+- concept.pec_deck_machine
+- concept.five_point_body_contact_position

@@ -1,0 +1,29 @@
+id: recommendation.pre_exercise_testing_considerations_intellectual_disability
+type: Recommendation
+canonical_name: Pre-Exercise Testing Considerations for Intellectual Disability
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Special Considerations for Individuals With Intellectual Disability
+  section: '11.25'
+  section_title: Special Considerations for Individuals With Intellectual Disability
+  book_page: 1002
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Individuals with intellectual disability (ID) may have difficulty understanding
+  instructions or performing exercise tests. Therefore, it is important to use simple
+  language, demonstrate the test procedures, and allow for practice trials before
+  the actual test.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

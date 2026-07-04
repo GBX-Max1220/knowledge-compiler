@@ -1,0 +1,38 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_capacity
+type: Concept
+canonical_name: Exercise Capacity
+semantic_type: Physiological_Measure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 4
+  chapter_title: "Health-Related Physical Fitness Testing and Interpretation"
+  section: "4.16"
+  section_title: "Exercise Capacity"
+  book_page: 302
+  pdf_page: 302
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A measure of the maximum amount of physical work an individual can perform,
+  often expressed in METs or as a percentile ranking.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.cardiorespiratory_fitness
+---

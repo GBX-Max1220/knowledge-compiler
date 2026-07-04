@@ -1,0 +1,32 @@
+id: concept.plyometric_exercise
+type: Concept
+canonical_name: Plyometric Exercise
+semantic_type: Activity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1260
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Plyometric exercise refers to those activities that enable a muscle to
+  reach maximal force in the shortest possible time. Plyometric is a combination of
+  Greek words that literally means to increase measurement (plio = more; metric =
+  measure) (67). Practically defined, plyometric exercise is a quick, powerful movement
+  using a prestretch, or countermovement, that involves the stretch-shortening cycle
+  (SSC) (64). Furthermore, plyometric exercises are typically classified as being
+  either ballistic or rebounding.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

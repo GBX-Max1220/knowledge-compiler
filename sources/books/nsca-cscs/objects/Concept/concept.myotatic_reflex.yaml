@@ -1,0 +1,31 @@
+id: concept.myotatic_reflex
+type: Concept
+canonical_name: Myotatic Reflex
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 294
+  pdf_page: 294
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'This myotatic reflex also harnesses the involuntary elastic properties
+  of the muscle and connective tissue (e.g., the series elastic component) and acts
+  to positively increase force production.
+
+  '
+attributes:
+- involuntary
+- elastic_properties
+purpose:
+- increase force production
+related_concepts: []

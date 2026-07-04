@@ -1,0 +1,36 @@
+id: concept.landmine
+type: Concept
+canonical_name: Landmine
+semantic_type: Equipment
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  section: '17.1'
+  section_title: Exercise Technique for Alternative Modes and Nontraditional Implement
+    Training
+  book_page: 1131
+  pdf_page: 1131
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The landmine resistance training device is a useful device for performing
+  loaded rotational resistance training exercises (4). The performance of this exercise
+  involves placing the end of a standard Olympic barbell (i.e., 20 kg [44 lb]) into
+  a metal cylinder that is attached to a standard squat rack or stand-alone base attachment
+  through a universal joint (4).
+
+  '
+attributes:
+- metal_cylinder
+- universal_joint
+- olympic_barbell
+purpose:
+- perform loaded rotational resistance training exercises
+related_concepts: []

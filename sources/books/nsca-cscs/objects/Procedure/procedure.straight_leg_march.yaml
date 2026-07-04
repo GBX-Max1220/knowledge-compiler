@@ -1,0 +1,18 @@
+id: procedure.straight_leg_march
+type: Procedure
+canonical_name: Straight-Leg March
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Program Design Considerations
+  section: '15.4'
+  section_title: Program Design Considerations
+  book_page: 936
+  pdf_page: 936
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto

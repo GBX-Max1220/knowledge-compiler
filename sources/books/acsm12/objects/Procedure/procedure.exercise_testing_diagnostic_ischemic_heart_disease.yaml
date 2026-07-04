@@ -1,0 +1,46 @@
+id: procedure.exercise_testing_diagnostic_ischemic_heart_disease
+type: Procedure
+canonical_name: Diagnostic Value of Exercise Testing for the Detection of Ischemic
+  Heart Disease
+semantic_type: Diagnostic Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '4.20'
+  section_title: Diagnostic Value of Exercise Testing for the Detection of Ischemic
+    Heart Disease
+  book_page: 311
+  pdf_page: 311
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The diagnostic value of exercise testing for the detection of ischemic
+  heart disease is determined by the sensitivity and specificity of the test. Sensitivity
+  is the percentage of patients with disease who have a positive test (true positive).
+  Specificity is the percentage of patients without disease who have a negative test
+  (true negative). The sensitivity and specificity of exercise testing vary depending
+  on the population studied and the criteria used for a positive test. The most commonly
+  used criterion for a positive test is ≥1 mm (0.1 mV) of horizontal or downsloping
+  ST-segment depression measured at 60–80 ms after the J point. The sensitivity of
+  exercise testing for the detection of ischemic heart disease is approximately 68%
+  and the specificity is approximately 77%. The positive predictive value of exercise
+  testing is influenced by the prevalence of disease in the population being tested.
+  In populations with a low prevalence of disease, a positive test is more likely
+  to be a false positive. In populations with a high prevalence of disease, a negative
+  test is more likely to be a false negative.
+
+  '
+attributes: []
+purpose:
+- detection of ischemic heart disease
+related_concepts:
+- concept.sensitivity
+- concept.specificity
+- concept.positive_predictive_value
+- concept.ischemic_heart_disease

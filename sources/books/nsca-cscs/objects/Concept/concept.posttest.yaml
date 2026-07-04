@@ -1,0 +1,29 @@
+id: concept.posttest
+type: Concept
+canonical_name: Posttest
+semantic_type: Test
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 13
+  chapter_title: Principles of Test Selection and Administration
+  section: '13.1'
+  section_title: Principles of Test Selection and Administration
+  book_page: 735
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.test
+definition: 'Test administered after the training period to determine the success
+  of the training program in achieving the training objectives.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

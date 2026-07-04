@@ -1,0 +1,520 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.blood_pressure.antihypertensive_initiation_ckd_diabetes
+type: Threshold
+canonical_name: Blood Pressure Threshold for Antihypertensive Medication Initiation in CKD or Diabetes
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 818
+  pdf_page: 818
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.blood_pressure.antihypertensive_initiation_older_adults
+
+definition: >
+  Antihypertensive medication should be initiated when blood pressure is ≥140/90 mm Hg in patients with chronic kidney disease or diabetes.
+
+attributes:
+  - systolic: "≥140"
+  - diastolic: "≥90"
+  - unit: "mm Hg"
+
+purpose:
+  - initiate antihypertensive medication
+
+related_concepts:
+  - concept.chronic_kidney_disease
+  - concept.diabetes
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.blood_pressure.antihypertensive_initiation_older_adults
+type: Threshold
+canonical_name: Blood Pressure Threshold for Antihypertensive Medication Initiation in Older Adults Without CKD or Diabetes
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 818
+  pdf_page: 818
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.blood_pressure.antihypertensive_initiation_ckd_diabetes
+
+definition: >
+  Antihypertensive medication should be initiated when blood pressure is ≥150/90 mm Hg in adults aged 60 years and older without diabetes or chronic kidney disease.
+
+attributes:
+  - systolic: "≥150"
+  - diastolic: "≥90"
+  - unit: "mm Hg"
+  - age: "≥60 years"
+
+purpose:
+  - initiate antihypertensive medication
+
+related_concepts:
+  - concept.older_adult
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.ldl_cholesterol.statin_therapy_initiation
+type: Threshold
+canonical_name: LDL Cholesterol Threshold for Statin Therapy Initiation
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.ldl_cholesterol.statin_therapy_diabetes
+
+definition: >
+  Statin therapy is recommended for patients with LDL cholesterol ≥190 mg/dL.
+
+attributes:
+  - ldl_cholesterol: "≥190"
+  - unit: "mg/dL"
+
+purpose:
+  - initiate statin therapy
+
+related_concepts:
+  - concept.statin_therapy
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.ldl_cholesterol.statin_therapy_diabetes
+type: Threshold
+canonical_name: LDL Cholesterol Threshold for Statin Therapy in Diabetes
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.ldl_cholesterol.statin_therapy_initiation
+
+definition: >
+  Statin therapy is recommended for patients with diabetes aged 40–75 years with LDL cholesterol 70–189 mg/dL.
+
+attributes:
+  - ldl_cholesterol: "70–189"
+  - unit: "mg/dL"
+  - age: "40–75 years"
+
+purpose:
+  - initiate statin therapy
+
+related_concepts:
+  - concept.diabetes
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hba1c.metformin_initiation
+type: Threshold
+canonical_name: HbA1c Threshold for Metformin Initiation
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Metformin should be initiated at the time of diagnosis of type 2 diabetes, regardless of HbA1c level, and is the preferred initial pharmacologic agent for type 2 diabetes.
+
+attributes:
+  - hba1c: "any"
+  - unit: "%"
+
+purpose:
+  - initiate metformin therapy
+
+related_concepts:
+  - concept.type_2_diabetes
+  - concept.metformin
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hba1c.additional_antihyperglycemic_therapy
+type: Threshold
+canonical_name: HbA1c Threshold for Additional Antihyperglycemic Therapy
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  If HbA1c remains ≥7.0% after 3 months of metformin monotherapy, consider adding a second agent such as a sulfonylurea, DPP-4 inhibitor, or SGLT2 inhibitor.
+
+attributes:
+  - hba1c: "≥7.0"
+  - unit: "%"
+  - duration: "3 months"
+
+purpose:
+  - add second antihyperglycemic agent
+
+related_concepts:
+  - concept.metformin
+  - concept.sulfonylurea
+  - concept.dpp4_inhibitor
+  - concept.sglt2_inhibitor
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.gfr.metformin_contraindication
+type: Threshold
+canonical_name: GFR Threshold for Metformin Contraindication
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.gfr.metformin_caution
+
+definition: >
+  Metformin is contraindicated when estimated glomerular filtration rate (eGFR) falls below 30 mL/min/1.73 m².
+
+attributes:
+  - egfr: "<30"
+  - unit: "mL/min/1.73 m²"
+
+purpose:
+  - contraindicate metformin
+
+related_concepts:
+  - concept.metformin
+  - contraindication.metformin_severe_renal_impairment
+---
+# ontology: knowledge-compiler/v1
+
+id: contraindication.metformin_severe_renal_impairment
+type: Contraindication
+canonical_name: Metformin Contraindication in Severe Renal Impairment
+semantic_type: DrugContraindication
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_threshold
+    target: threshold.gfr.metformin_contraindication
+
+definition: >
+  Metformin is contraindicated when estimated glomerular filtration rate (eGFR) falls below 30 mL/min/1.73 m².
+
+attributes:
+  - drug: metformin
+  - condition: severe_renal_impairment
+
+purpose:
+  - prevent metformin use
+
+related_concepts:
+  - concept.metformin
+  - concept.severe_renal_impairment
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.lactic_acidosis_metformin
+type: Warning
+canonical_name: Risk of Lactic Acidosis with Metformin
+semantic_type: DrugWarning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: associated_with
+    target: threshold.gfr.metformin_caution
+
+definition: >
+  Metformin should be used with caution in patients with eGFR 30–45 mL/min/1.73 m² due to increased risk of lactic acidosis.
+
+attributes:
+  - drug: metformin
+  - risk: lactic_acidosis
+  - egfr_range: "30–45 mL/min/1.73 m²"
+
+purpose:
+  - caution metformin use
+
+related_concepts:
+  - concept.metformin
+  - concept.lactic_acidosis
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.gfr.metformin_caution
+type: Threshold
+canonical_name: GFR Threshold for Caution with Metformin
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 819
+  pdf_page: 819
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.gfr.metformin_contraindication
+
+definition: >
+  Metformin should be used with caution in patients with eGFR 30–45 mL/min/1.73 m² due to increased risk of lactic acidosis.
+
+attributes:
+  - egfr: "30–45"
+  - unit: "mL/min/1.73 m²"
+
+purpose:
+  - caution metformin use
+
+related_concepts:
+  - concept.metformin
+  - concept.lactic_acidosis
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.fev1.inhaled_corticosteroid_initiation_copd
+type: Threshold
+canonical_name: FEV1 Threshold for Inhaled Corticosteroid Initiation in COPD
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 820
+  pdf_page: 820
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.fev1.long_acting_bronchodilator_initiation_copd
+
+definition: >
+  Inhaled corticosteroids are recommended for patients with COPD who have FEV1 <50% predicted and frequent exacerbations.
+
+attributes:
+  - fev1: "<50"
+  - unit: "% predicted"
+  - condition: "frequent exacerbations"
+
+purpose:
+  - initiate inhaled corticosteroid therapy
+
+related_concepts:
+  - concept.copd
+  - concept.inhaled_corticosteroid
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.fev1.long_acting_bronchodilator_initiation_copd
+type: Threshold
+canonical_name: FEV1 Threshold for Long-Acting Bronchodilator Initiation in COPD
+semantic_type: ClinicalThreshold
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 10
+  chapter_title: "Pharmacological Treatment Options"
+  section: "10.14"
+  section_title: "Pharmacological Treatment Options"
+  book_page: 820
+  pdf_page: 820
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.fev1.inhaled_corticosteroid_initiation_copd
+
+definition: >
+  Long-acting bronchodilators (LABA or LAMA) are recommended as first-line therapy for patients with COPD who have FEV1 <60% predicted and persistent symptoms.
+
+attributes:
+  - fev1: "<60"
+  - unit: "% predicted"
+  - condition: "persistent symptoms"
+
+purpose:
+  - initiate long-acting bronchodilator therapy
+
+related_concepts:
+  - concept.copd
+  - concept.laba
+  - concept.lama
+---

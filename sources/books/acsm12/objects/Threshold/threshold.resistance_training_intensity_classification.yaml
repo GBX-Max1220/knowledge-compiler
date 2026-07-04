@@ -1,0 +1,38 @@
+id: threshold.resistance_training_intensity_classification
+type: Threshold
+canonical_name: Resistance Training Intensity Classification by Repetition Maximum
+  (RM)
+semantic_type: Classification
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.20'
+  section_title: Intensity of Resistance Training Exercise
+  book_page: 367
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: classifies
+  target: concept.resistance_training_intensity
+definition: 'The RM continuum is a classification system that categorizes the intensity
+  of resistance exercise based on the number of repetitions that can be performed
+  before fatigue.
+
+  '
+attributes:
+- very_light
+- light
+- moderate
+- hard
+- very_hard
+- near_maximal
+purpose: []
+related_concepts:
+- concept.one_repetition_maximum

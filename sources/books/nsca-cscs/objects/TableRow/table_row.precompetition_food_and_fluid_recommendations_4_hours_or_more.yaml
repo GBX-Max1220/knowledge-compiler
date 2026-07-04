@@ -1,0 +1,22 @@
+id: table_row.precompetition_food_and_fluid_recommendations_4_hours_or_more
+type: TableRow
+canonical_name: Precompetition Food and Fluid Recommendations 4 Hours or More
+semantic_type: Nutritional_Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition and Performance
+  section: Aerobic Endurance Sports
+  section_title: Aerobic Endurance Sports
+  book_page: 618
+  pdf_page: 618
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_id: Table 11.1
+row_data: time

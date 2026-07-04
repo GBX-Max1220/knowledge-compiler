@@ -1,0 +1,31 @@
+id: concept.mental_health
+type: Concept
+canonical_name: Mental Health
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 505
+  pdf_page: 505
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Defining mental health encompasses emotional, psychological, and social
+  well-being (5, 47, 62). Also, mental health is not just the absence of a mental
+  illness.
+
+  '
+attributes:
+- emotional well-being
+- psychological well-being
+- social well-being
+purpose: []
+related_concepts: []

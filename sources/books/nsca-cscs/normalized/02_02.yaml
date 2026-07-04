@@ -1,0 +1,738 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.strength
+type: Concept
+canonical_name: Strength
+semantic_type: Physical_Ability
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 128
+  pdf_page: 128
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Though it is widely accepted that strength is the ability to exert force, there is considerable disagreement as to how strength should be measured.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.force
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.force
+type: Concept
+canonical_name: Force
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 128
+  pdf_page: 128
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For clarity, force can be thought of as how hard we push or pull something
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mass
+type: Concept
+canonical_name: Mass
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 128
+  pdf_page: 128
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  while mass refers to the stuff (e.g., bone, muscle, and organs) that we are made of.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.impulse_momentum_relationship
+type: Concept
+canonical_name: Impulse–Momentum Relationship
+semantic_type: Physical_Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 128
+  pdf_page: 128
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  the impulse–momentum relationship, an extension of equation 2.1, provides more context (equation 2.2).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - formula.newtons_second_law_of_motion
+  - formula.impulse_momentum_relationship
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.newtons_second_law_of_motion
+type: Formula
+canonical_name: Newton’s Second Law of Motion
+semantic_type: Physical_Law
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 128
+  pdf_page: 128
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: "F = m × a (2.1)"
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.force
+  - concept.mass
+  - concept.acceleration
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.impulse_momentum_relationship
+type: Formula
+canonical_name: Impulse–Momentum Relationship
+semantic_type: Physical_Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 128
+  pdf_page: 128
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: "F × Δt = m × Δv (2.2)"
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.impulse
+  - concept.momentum
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.impulse
+type: Concept
+canonical_name: Impulse
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 128
+  pdf_page: 128
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  everything to the left of the equal sign describes impulse
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - formula.impulse_momentum_relationship
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.momentum
+type: Concept
+canonical_name: Momentum
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 128
+  pdf_page: 128
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  everything to the right of the equal sign describes momentum (more specifically, a change in momentum)
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - formula.impulse_momentum_relationship
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.vector_quantities
+type: Concept
+canonical_name: Vector Quantities
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 129
+  pdf_page: 129
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  both impulse and momentum are vector quantities, which means that the athlete considers both magnitude (how much) and direction (which way)
+
+attributes:
+  - magnitude
+  - direction
+
+purpose: []
+
+related_concepts:
+  - concept.impulse
+  - concept.momentum
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.work
+type: Concept
+canonical_name: Work
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 130
+  pdf_page: 130
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  When we apply force to an object that is moving, we are performing work. In a biomechanical context, work can be understood in a simpler form as the product of force and displacement (how far the object moves).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.force
+  - concept.displacement
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.mechanical_energy
+type: Concept
+canonical_name: Mechanical Energy
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 130
+  pdf_page: 130
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Mechanical energy is the sum of potential energy and kinetic energy
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.potential_energy
+  - concept.kinetic_energy
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.potential_energy
+type: Formula
+canonical_name: Potential Energy
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 130
+  pdf_page: 130
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: "Potential energy = m × g × h (2.3)"
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.mass
+  - concept.gravity
+  - concept.height
+---
+# ontology: knowledge-compiler/v1
+
+id: formula.kinetic_energy
+type: Formula
+canonical_name: Kinetic Energy
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 130
+  pdf_page: 130
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: "Kinetic energy = ½ m × v² (2.4)"
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.mass
+  - concept.velocity
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.power
+type: Concept
+canonical_name: Power
+semantic_type: Physical_Quantity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 130
+  pdf_page: 130
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  power refers to how quickly work is performed. In its simplest form, power is the amount of work divided by the time over which the force is applied.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.work
+  - concept.time
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.units_of_measure_and_conversions
+type: TableRow
+canonical_name: Units of Measure and Conversions
+semantic_type: Reference_Table
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Human Strength and Power"
+  book_page: 131
+  pdf_page: 131
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: "TABLE 2.1  Units of Measure and Conversions"
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.anatomical_position
+type: Concept
+canonical_name: Anatomical Position
+semantic_type: Anatomical_Reference
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Anatomical Planes and Major Body Movements"
+  book_page: 120
+  pdf_page: 120
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Figure 2.9a illustrates a person standing in the standard anatomical position, standing upright, arms by the sides, and with the palms facing forward.
+
+attributes:
+  - standing upright
+  - arms by the sides
+  - palms facing forward
+
+purpose: []
+
+related_concepts:
+  - concept.sagittal_plane
+  - concept.frontal_plane
+  - concept.transverse_plane
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sagittal_plane
+type: Concept
+canonical_name: Sagittal Plane
+semantic_type: Anatomical_Plane
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Anatomical Planes and Major Body Movements"
+  book_page: 120
+  pdf_page: 120
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: has_attribute
+    target: concept.frontal_plane
+  - predicate: has_attribute
+    target: concept.transverse_plane
+
+definition: >
+  The sagittal, frontal, and transverse planes present the body as if sliced into left–right, front–back, and upper–lower sections, respectively, although not necessarily through the midpoint.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.frontal_plane
+  - concept.transverse_plane
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.frontal_plane
+type: Concept
+canonical_name: Frontal Plane
+semantic_type: Anatomical_Plane
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Anatomical Planes and Major Body Movements"
+  book_page: 120
+  pdf_page: 120
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.sagittal_plane
+
+definition: >
+  The sagittal, frontal, and transverse planes present the body as if sliced into left–right, front–back, and upper–lower sections, respectively, although not necessarily through the midpoint.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.sagittal_plane
+  - concept.transverse_plane
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.transverse_plane
+type: Concept
+canonical_name: Transverse Plane
+semantic_type: Anatomical_Plane
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"
+  section_title: "Anatomical Planes and Major Body Movements"
+  book_page: 120
+  pdf_page: 120
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.sagittal_plane
+
+definition: >
+  The sagittal, frontal, and transverse planes present the body as if sliced into left–right, front–back, and upper–lower sections, respectively, although not necessarily through the midpoint.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.sagittal_plane
+  - concept.frontal_plane
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.dynamic_correspondence_principle
+type: Recommendation
+canonical_name: Dynamic Correspondence Principle
+semantic_type: Training_Principle
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 2
+  chapter_title: "Human Strength and Power"
+  section: "2.2"

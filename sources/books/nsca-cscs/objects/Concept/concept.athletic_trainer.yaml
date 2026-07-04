@@ -1,0 +1,35 @@
+id: concept.athletic_trainer
+type: Concept
+canonical_name: Athletic Trainer
+semantic_type: Healthcare Role
+aliases:
+- Athletic Therapist
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 23
+  chapter_title: Rehabilitation, Reconditioning, and Medical Issues
+  section: '23'
+  section_title: Rehabilitation, Reconditioning, and Medical Issues
+  book_page: 1632
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.allied_health_team
+definition: 'The person typically responsible for the day-to-day physical health of
+  the athlete is the athletic trainer or athletic therapist. In the United States,
+  an athletic trainer is certified by the National Athletic Trainers'' Association
+  Board of Certification as a Certified Athletic Trainer (ATC). The athletic trainer
+  works under the supervision of the team physician and is employed primarily by secondary
+  schools, colleges, or professional teams but may also work in an outpatient physical
+  therapy clinic.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

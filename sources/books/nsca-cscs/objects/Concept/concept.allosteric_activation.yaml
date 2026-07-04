@@ -1,0 +1,27 @@
+id: concept.allosteric_activation
+type: Concept
+canonical_name: Allosteric Activation
+semantic_type: RegulatoryProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Biological Energy Systems
+  section: '3.2'
+  section_title: Biological Energy Systems
+  book_page: 191
+  pdf_page: 191
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In contrast, allosteric activation occurs when an "activator" binds with
+  the enzyme and increases its turnover rate.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,24 @@
+id: formula.cooper_12min_run
+type: Formula
+canonical_name: Cooper 12-Minute Run Test VO2max
+semantic_type: Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Health-Related Physical Fitness Testing and Interpretation
+  section: '3.19'
+  section_title: Modes of Testing
+  book_page: 215
+  pdf_page: 215
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+canonical_form: VO2max (mL·kg⁻¹·min⁻¹) = (distance in meters − 504.9) / 44.73
+variables:
+- '{''name'': ''distance'', ''description'': ''Distance covered in 12 minutes (meters)''}'
+limitations: Valid for healthy adults; requires maximal effort

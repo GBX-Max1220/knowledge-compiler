@@ -1,0 +1,303 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.hrr_method
+type: Threshold
+canonical_name: Heart Rate Reserve (HRR) Method for Exercise Prescription
+semantic_type: Method
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Testing"
+  section: "8.28"
+  section_title: "Exercise Testing"
+  book_page: 607
+  pdf_page: 607
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The HRR method is used to prescribe exercise intensity using the formula: THR = (HRmax − HRrest) × % intensity + HRrest.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hrr_intensity_range
+type: Threshold
+canonical_name: Heart Rate Reserve (HRR) Intensity Ranges
+semantic_type: Range
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Testing"
+  section: "8.28"
+  section_title: "Exercise Testing"
+  book_page: 607
+  pdf_page: 607
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  For most individuals, the recommended intensity range is 40%–80% of HRR.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.classification_exercise_intensity_hrr_vo2r
+type: TableRow
+canonical_name: Classification of Exercise Intensity Based on HRR and VO2R
+semantic_type: Table
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Testing"
+  section: "8.28"
+  section_title: "Exercise Testing"
+  book_page: 607
+  pdf_page: 607
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Table 8.1 Classification of Exercise Intensity Based on HRR and VO2R
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.exercise_intensity_very_light
+type: Threshold
+canonical_name: Classification of Exercise Intensity — Very Light
+semantic_type: Intensity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Testing"
+  section: "8.28"
+  section_title: "Exercise Testing"
+  book_page: 607
+  pdf_page: 607
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.exercise_intensity_light
+
+definition: >
+  Very light: <30% HRR/VO2R
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.exercise_intensity_light
+type: Threshold
+canonical_name: Classification of Exercise Intensity — Light
+semantic_type: Intensity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Testing"
+  section: "8.28"
+  section_title: "Exercise Testing"
+  book_page: 607
+  pdf_page: 607
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.exercise_intensity_very_light
+  - predicate: adjacent_to
+    target: threshold.exercise_intensity_moderate
+
+definition: >
+  Light: 30%–39% HRR/VO2R
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.exercise_intensity_moderate
+type: Threshold
+canonical_name: Classification of Exercise Intensity — Moderate
+semantic_type: Intensity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Testing"
+  section: "8.28"
+  section_title: "Exercise Testing"
+  book_page: 607
+  pdf_page: 607
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.exercise_intensity_light
+  - predicate: adjacent_to
+    target: threshold.exercise_intensity_vigorous
+
+definition: >
+  Moderate: 40%–59% HRR/VO2R
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.exercise_intensity_vigorous
+type: Threshold
+canonical_name: Classification of Exercise Intensity — Vigorous
+semantic_type: Intensity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Testing"
+  section: "8.28"
+  section_title: "Exercise Testing"
+  book_page: 607
+  pdf_page: 607
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.exercise_intensity_moderate
+  - predicate: adjacent_to
+    target: threshold.exercise_intensity_near_maximal_maximal
+
+definition: >
+  Vigorous: 60%–84% HRR/VO2R
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.exercise_intensity_near_maximal_maximal
+type: Threshold
+canonical_name: Classification of Exercise Intensity — Near-Maximal to Maximal
+semantic_type: Intensity
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: "Exercise Testing"
+  section: "8.28"
+  section_title: "Exercise Testing"
+  book_page: 607
+  pdf_page: 607
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: adjacent_to
+    target: threshold.exercise_intensity_vigorous
+
+definition: >
+  Near-maximal to maximal: ≥85% HRR/VO2R
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

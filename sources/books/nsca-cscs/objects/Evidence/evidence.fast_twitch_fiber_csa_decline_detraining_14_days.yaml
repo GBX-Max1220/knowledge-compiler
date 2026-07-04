@@ -1,0 +1,25 @@
+id: evidence.fast_twitch_fiber_csa_decline_detraining_14_days
+type: Evidence
+canonical_name: Fast-Twitch Fiber CSA Decline During Detraining (14 Days)
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Cardiovascular Adaptations
+  book_page: 334
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+evidence_text: 'In 12 trained weightlifters, Hortobagyi and colleagues (78) observed
+  a decline of 6.4% in fast-twitch fiber CSA in 14 days.
+
+  '
+citation: '78'

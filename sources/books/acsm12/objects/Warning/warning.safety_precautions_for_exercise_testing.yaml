@@ -1,0 +1,38 @@
+id: warning.safety_precautions_for_exercise_testing
+type: Warning
+canonical_name: Safety Precautions for Exercise Testing
+semantic_type: Safety
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: ''
+  section: '4.8'
+  section_title: Safety
+  book_page: 294
+  pdf_page: 294
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Safety is of paramount importance during exercise testing. The testing
+  area should be equipped with emergency equipment, including a defibrillator, oxygen,
+  and appropriate medications. Personnel conducting exercise tests must be trained
+  in cardiopulmonary resuscitation (CPR) and advanced cardiac life support (ACLS).
+  The test should be terminated immediately if any of the following occur: (1) onset
+  of angina or angina-like symptoms, (2) drop in systolic blood pressure of ≥10 mm
+  Hg from baseline despite an increase in workload, (3) excessive rise in blood pressure
+  (systolic >250 mm Hg or diastolic >115 mm Hg), (4) signs of poor perfusion (lightheadedness,
+  confusion, ataxia, pallor, cyanosis, nausea, or cold and clammy skin), (5) failure
+  of heart rate to increase with increased exercise intensity, (6) noticeable change
+  in heart rhythm, (7) subject requests to stop, (8) physical or verbal manifestations
+  of severe fatigue, (9) failure of the testing equipment, or (10) ST-segment elevation
+  (≥1.0 mm) in leads without diagnostic Q waves (other than V1 or aVR).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

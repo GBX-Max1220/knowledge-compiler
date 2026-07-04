@@ -1,0 +1,33 @@
+id: concept.figure_4.5_total_and_free_testosterone_responses_to_squats
+type: Concept
+canonical_name: Figure 4.5 — Total and Free Testosterone Responses to Squats
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine System in Resistance Training
+  section: '4.3'
+  section_title: Endocrine System in Resistance Training
+  book_page: 256
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'FIGURE 4.5 Responses of (a) total testosterone and (b) free testosterone
+  in response to six sets of squats at 80% of the 1RM with 2 minutes rest between
+  sets. The midpoint (Mid) sample is after three sets. * indicates a significant increase
+  from pre-exercise values. # indicates a significant difference from women at the
+  corresponding time point. Reprinted by permission from J.L. Vingren, W.J. Kraemer,
+  D.L. Hatfield, et al., "Effect of Resistance Exercise on Muscle Steroid Receptor
+  Protein Content in Strength Trained Men and Women," Steroids, 74 (2009): 1033-1039,
+  with permission from Elsevier.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

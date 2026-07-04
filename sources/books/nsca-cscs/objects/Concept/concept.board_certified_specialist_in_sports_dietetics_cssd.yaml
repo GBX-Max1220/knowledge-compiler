@@ -1,0 +1,32 @@
+id: concept.board_certified_specialist_in_sports_dietetics_cssd
+type: Concept
+canonical_name: Board Certified Specialist in Sports Dietetics (CSSD)
+semantic_type: Role
+aliases:
+- CSSD
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Basic Nutritional Factors Affecting Health
+  section: '10.1'
+  section_title: Basic Nutritional Factors Affecting Health
+  book_page: 538
+  pdf_page: 538
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'According to the Commission on Dietetic Registration, the credentialing
+  agency for the Academy of Nutrition and Dietetics, a CSSD "provides individual and
+  group/team counseling and education to enhance the performance of competitive and
+  recreational athletes."
+
+  '
+attributes: []
+purpose:
+- provide individual and group/team counseling and education to enhance the performance
+  of competitive and recreational athletes
+related_concepts: []

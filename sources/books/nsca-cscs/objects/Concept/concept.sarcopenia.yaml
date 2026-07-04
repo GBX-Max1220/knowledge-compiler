@@ -1,0 +1,30 @@
+id: concept.sarcopenia
+type: Concept
+canonical_name: Sarcopenia
+semantic_type: Disorder
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: ''
+  section: '7.3'
+  section_title: Conclusion
+  book_page: 436
+  pdf_page: 436
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Sarcopenia is the progressive and generalized skeletal muscle disorder
+  that is associated with an increased likelihood of adverse outcomes including falls,
+  fractures, physical disability, and mortality in older adults.
+
+  '
+attributes:
+- progressive
+- generalized
+purpose: []
+related_concepts: []

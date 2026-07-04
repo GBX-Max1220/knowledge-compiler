@@ -1,0 +1,30 @@
+id: concept.progressive_overload
+type: Concept
+canonical_name: Progressive Overload
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 314
+  pdf_page: 314
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Because bone responds favorably to mechanical forces, the principle of
+  progressive overload —progressively placing greater than normal demands on the exercising
+  musculature—applies when one is training to increase bone mass (66, 170).
+
+  '
+attributes:
+- progressively_placing_greater_than_normal_demands
+purpose:
+- increase bone mass
+related_concepts: []

@@ -1,0 +1,28 @@
+id: concept.oxygen_transport_in_blood
+type: Concept
+canonical_name: Oxygen Transport in Blood
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: null
+  section: Blood Transport of Gases and Metabolic By-Products
+  section_title: Blood Transport of Gases and Metabolic By-Products
+  book_page: 92
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Oxygen is carried in blood either dissolved in the plasma or combined
+  with hemoglobin. Because oxygen is not readily soluble in fluids, only about 3 mL
+  of oxygen can be carried per liter of plasma.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

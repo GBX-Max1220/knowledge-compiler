@@ -1,0 +1,30 @@
+id: concept.golgi_tendon_organ
+type: Concept
+canonical_name: Golgi Tendon Organ
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 19
+  chapter_title: Program Design and Technique for Plyometric Training
+  section: '19'
+  section_title: Program Design and Technique for Plyometric Training
+  book_page: 1268
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The Golgi tendon organ is encapsulated within the serial components of
+  the myotendinous junction. This is a proprioceptive mechanism that detects the rate
+  and magnitude of force being applied to the respective tendon and will cause an
+  inverse stretch reflex to occur past a tensile threshold, which immediately inhibits
+  the excitatory signal through the motor neuron to the motor unit.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

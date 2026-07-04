@@ -1,0 +1,29 @@
+id: concept.clinical_exercise_testing
+type: Concept
+canonical_name: Clinical Exercise Testing
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Clinical Exercise Testing
+  section: '4.1'
+  section_title: Introduction
+  book_page: 272
+  pdf_page: 272
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A valuable diagnostic and prognostic procedure that provides an assessment
+  of the integrated physiologic response to exercise.
+
+  '
+attributes: []
+purpose:
+- diagnostic
+- prognostic
+related_concepts: []

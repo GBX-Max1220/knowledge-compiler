@@ -1,0 +1,786 @@
+TYPE
+Definition
+
+TITLE
+Cardiac Output
+
+PAGE
+83
+
+SECTION
+Cardiovascular Responses — Cardiac Output
+
+ORIGINAL TEXT
+Cardiac output is the amount of blood pumped by the heart in liters per minute and is determined by the quantity of blood ejected with each beat (stroke volume) and the heart’s rate of pumping (heart rate):
+Q̇ = Stroke volume × Heart rate (1.1)
+where Q̇ is the cardiac output. Stroke volume is measured in milliliters of blood per beat, and heart rate is measured in beats (contractions) per minute (17).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Stroke Volume
+
+PAGE
+83-84
+
+SECTION
+Cardiovascular Responses — Stroke Volume
+
+ORIGINAL TEXT
+Two physiological mechanisms are responsible for the regulation of stroke volume. The first is a result of the end-diastolic volume, the volume of blood available to be pumped by the left ventricle at the end of the filling phase, or diastole. The second is due to the action of catecholamines, including epinephrine and norepinephrine, which are hormones of the sympathetic nervous system that produce a more forceful ventricular contraction and greater systolic emptying of the heart.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Frank-Starling Mechanism
+
+PAGE
+84
+
+SECTION
+Cardiovascular Responses — Stroke Volume
+
+ORIGINAL TEXT
+This principle, called the Frank-Starling mechanism, is related to the concept that the force of contraction is a function of the length of the fibers of the muscle wall.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Ejection Fraction
+
+PAGE
+84
+
+SECTION
+Cardiovascular Responses — Stroke Volume
+
+ORIGINAL TEXT
+This increase in cardiac emptying is characterized by an increase in the ejection fraction, or the fraction of the end-diastolic volume ejected from the heart (14, 17).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Oxygen Uptake
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Oxygen Uptake
+
+ORIGINAL TEXT
+Oxygen uptake is the amount of oxygen consumed by the body's tissues.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Maximal Oxygen Uptake
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Oxygen Uptake
+
+ORIGINAL TEXT
+Maximal oxygen uptake is the greatest amount of oxygen that can be used at the cellular level for the entire body.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Metabolic Equivalent (MET)
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Oxygen Uptake
+
+ORIGINAL TEXT
+Resting oxygen uptake is estimated at 3.5 mL of oxygen per kilogram of body weight per minute (mL · kg−1 · min−1) for an average person; this value is defined as 1 metabolic equivalent (MET).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Fick Equation
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Oxygen Uptake
+
+ORIGINAL TEXT
+Oxygen uptake (V̇O2) can be calculated with the Fick equation, which expresses the relationship of cardiac output, oxygen uptake, and arteriovenous oxygen difference:
+V̇O2 = Q̇ × a-vO2 difference    (1.2)
+where Q̇ is the cardiac output in milliliters per minute and a-vO2 difference is the arteriovenous oxygen difference (the difference in the oxygen content between arterial and venous blood) in milliliters of oxygen per 100 mL of blood.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Arteriovenous Oxygen Difference
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Oxygen Uptake
+
+ORIGINAL TEXT
+a-vO2 difference is the arteriovenous oxygen difference (the difference in the oxygen content between arterial and venous blood) in milliliters of oxygen per 100 mL of blood.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Systolic Blood Pressure
+
+PAGE
+86
+
+SECTION
+Cardiovascular Responses — Blood Pressure
+
+ORIGINAL TEXT
+Systolic blood pressure estimates the pressure exerted against the arterial walls as blood is forcefully ejected during ventricular contraction (systole) and, when combined with heart rate, can be used to describe the myocardial oxygen consumption (work) of the heart.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Rate-Pressure Product (Double Product)
+
+PAGE
+86
+
+SECTION
+Cardiovascular Responses — Blood Pressure
+
+ORIGINAL TEXT
+This estimate of the work of the heart is obtained according to the following equation and is referred to as the rate–pressure product, or double product:
+Rate–pressure product = Heart rate × Systolic blood pressure    (1.3)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Diastolic Blood Pressure
+
+PAGE
+86
+
+SECTION
+Cardiovascular Responses — Blood Pressure
+
+ORIGINAL TEXT
+Diastolic blood pressure is used to estimate the pressure exerted against the arterial walls when no blood is being forcefully ejected through the vessels (diastole).
+
+END
+
+TYPE
+Definition
+
+TITLE
+Mean Arterial Pressure
+
+PAGE
+86-87
+
+SECTION
+Cardiovascular Responses — Blood Pressure
+
+ORIGINAL TEXT
+The mean arterial pressure is the average blood pressure throughout the cardiac cycle (equation 1.4). Mean arterial pressure is not the average of systolic and diastolic pressures, because the arterial pressure usually remains nearer the diastolic level than the systolic level during a greater portion of the cardiac cycle.
+
+END
+
+TYPE
+Formula
+
+TITLE
+Mean Arterial Blood Pressure Equation
+
+PAGE
+87
+
+SECTION
+Cardiovascular Responses — Blood Pressure
+
+ORIGINAL TEXT
+Mean arterial blood pressure = [(Systolic blood pressure − Diastolic blood pressure) ÷ 3] + Diastolic blood pressure    (1.4)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Vasoconstriction
+
+PAGE
+87
+
+SECTION
+Cardiovascular Responses — Control of Local Circulation
+
+ORIGINAL TEXT
+vasoconstriction (reduction in vessel diameter)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Vasodilation
+
+PAGE
+87
+
+SECTION
+Cardiovascular Responses — Control of Local Circulation
+
+ORIGINAL TEXT
+vasodilation (increase in vessel diameter)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Minute Ventilation
+
+PAGE
+88
+
+SECTION
+Respiratory Responses
+
+ORIGINAL TEXT
+minute ventilation (the volume of air breathed per minute)
+
+END
+
+TYPE
+Definition
+
+TITLE
+Ventilatory Equivalent
+
+PAGE
+88
+
+SECTION
+Respiratory Responses
+
+ORIGINAL TEXT
+The ratio of minute ventilation to oxygen uptake is termed the ventilatory equivalent and ranges between 20 and 25 L of air per L of oxygen consumed.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Anatomical Dead Space
+
+PAGE
+88-89
+
+SECTION
+Respiratory Responses
+
+ORIGINAL TEXT
+This area is not functional for gas exchange and is called the anatomical dead space.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Physiological Dead Space
+
+PAGE
+89
+
+SECTION
+Respiratory Responses
+
+ORIGINAL TEXT
+Physiological dead space refers to alveoli in which poor blood flow, poor ventilation, or other problems with the alveolar surface impair gas exchange.
+
+END
+
+TYPE
+Definition
+
+TITLE
+Diffusion
+
+PAGE
+90
+
+SECTION
+Gas Responses
+
+ORIGINAL TEXT
+Diffusion is the movement of oxygen and carbon dioxide across a cell membrane and is a function of the concentration of each gas and the resulting partial pressure exerted by the molecular motion of each gas.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Stroke Volume Plateau Threshold
+
+PAGE
+83
+
+SECTION
+Cardiovascular Responses — Cardiac Output
+
+ORIGINAL TEXT
+Stroke volume begins to increase at the onset of exercise and continues to rise until the individual's oxygen consumption is at approximately 40% to 50% of maximal oxygen uptake (1).
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Maximal Stroke Volume Range for Sedentary College-Aged Men
+
+PAGE
+83
+
+SECTION
+Cardiovascular Responses — Cardiac Output
+
+ORIGINAL TEXT
+Sedentary college-aged men have maximal stroke volumes averaging between 100 and 120 mL of blood per beat
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Maximal Stroke Volume Range for College-Aged Women
+
+PAGE
+83
+
+SECTION
+Cardiovascular Responses — Cardiac Output
+
+ORIGINAL TEXT
+maximal stroke volumes for college-aged women are approximately 25% less, due to a smaller average body size as well as a smaller heart muscle (32).
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Maximal Stroke Volume Range for Trained College-Aged Men
+
+PAGE
+83
+
+SECTION
+Cardiovascular Responses — Cardiac Output
+
+ORIGINAL TEXT
+we see an increase in maximal stroke volume for college-aged men up to 150 to 160 mL per beat
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Maximal Stroke Volume Range for Trained College-Aged Women
+
+PAGE
+83
+
+SECTION
+Cardiovascular Responses — Cardiac Output
+
+ORIGINAL TEXT
+approximately 100 to 110 for college-aged women (32).
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Maximal Heart Rate Estimate Variance
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Heart Rate
+
+ORIGINAL TEXT
+The variance, or standard deviation, around this estimate is ±10 to 12 beats/min; thus the actual maximal heart rate for this individual could be expected to fall within the range of 161 to 185 beats/min.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Maximal Oxygen Uptake Range
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Oxygen Uptake
+
+ORIGINAL TEXT
+Maximal oxygen uptake values in normal, healthy individuals generally range from 25 to 80 mL · kg−1 · min−1, or 7.1 to 22.9 METs
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Normal Resting Blood Pressure Range
+
+PAGE
+87
+
+SECTION
+Cardiovascular Responses — Blood Pressure
+
+ORIGINAL TEXT
+Normal resting blood pressure generally ranges from 110 to 139 mmHg systolic and from 60 to 89 mmHg diastolic.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Maximal Exercise Systolic Blood Pressure Range
+
+PAGE
+87
+
+SECTION
+Cardiovascular Responses — Blood Pressure
+
+ORIGINAL TEXT
+With maximal aerobic exercise, systolic pressure can normally rise to as much as 220 to 260 mmHg
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Resting Cardiac Output Distribution to Skeletal Muscle
+
+PAGE
+87
+
+SECTION
+Cardiovascular Responses — Control of Local Circulation
+
+ORIGINAL TEXT
+At rest, 15% to 20% of cardiac output is distributed to skeletal muscle
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Vigorous Exercise Cardiac Output Distribution to Skeletal Muscle
+
+PAGE
+87
+
+SECTION
+Cardiovascular Responses — Control of Local Circulation
+
+ORIGINAL TEXT
+whereas with vigorous exercise this value may rise to 90% of cardiac output (14, 27).
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Ventilatory Equivalent Range
+
+PAGE
+88
+
+SECTION
+Respiratory Responses
+
+ORIGINAL TEXT
+The ratio of minute ventilation to oxygen uptake is termed the ventilatory equivalent and ranges between 20 and 25 L of air per L of oxygen consumed.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+High-Intensity Ventilatory Equivalent Range
+
+PAGE
+88
+
+SECTION
+Respiratory Responses
+
+ORIGINAL TEXT
+At this point, the ventilatory equivalent may increase to 35 or 40 L of air per L of oxygen consumed with this high-intensity activity (14, 27).
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Anatomical Dead Space Volume
+
+PAGE
+88-89
+
+SECTION
+Respiratory Responses
+
+ORIGINAL TEXT
+The normal volume of this air space is approximately 150 mL in young adults and increases with age.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Resting Partial Pressure of Oxygen in Interstitial Fluid
+
+PAGE
+90
+
+SECTION
+Gas Responses
+
+ORIGINAL TEXT
+At rest, the partial pressure of oxygen in the interstitial fluid (fluid between muscle fibers) rapidly drops from 100 mmHg in arterial blood to as low as 40 mmHg
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Resting Partial Pressure of Carbon Dioxide in Interstitial Fluid
+
+PAGE
+90
+
+SECTION
+Gas Responses
+
+ORIGINAL TEXT
+while the partial pressure of carbon dioxide is elevated above that of arterial blood to about 46 mmHg.
+
+END
+
+TYPE
+Threshold
+
+TITLE
+High-Intensity Exercise Partial Pressure of Oxygen in Interstitial Fluid
+
+PAGE
+90
+
+SECTION
+Gas Responses
+
+ORIGINAL TEXT
+During high-intensity aerobic exercise, the partial pressures of these gases are approximately 3 mmHg for oxygen
+
+END
+
+TYPE
+Threshold
+
+TITLE
+High-Intensity Exercise Partial Pressure of Carbon Dioxide in Interstitial Fluid
+
+PAGE
+90
+
+SECTION
+Gas Responses
+
+ORIGINAL TEXT
+and 90 mmHg for carbon dioxide.
+
+END
+
+TYPE
+Formula
+
+TITLE
+Cardiac Output Equation
+
+PAGE
+83
+
+SECTION
+Cardiovascular Responses — Cardiac Output
+
+ORIGINAL TEXT
+Q̇ = Stroke volume × Heart rate (1.1)
+
+END
+
+TYPE
+Formula
+
+TITLE
+Fick Equation
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Oxygen Uptake
+
+ORIGINAL TEXT
+V̇O2 = Q̇ × a-vO2 difference    (1.2)
+
+END
+
+TYPE
+Formula
+
+TITLE
+Rate-Pressure Product Equation
+
+PAGE
+86
+
+SECTION
+Cardiovascular Responses — Blood Pressure
+
+ORIGINAL TEXT
+Rate–pressure product = Heart rate × Systolic blood pressure    (1.3)
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 1.16
+
+PAGE
+90
+
+SECTION
+Respiratory Responses
+
+ORIGINAL TEXT
+FIGURE 1.16 Distribution of tidal volume in a healthy athlete at rest. The tidal volume comprises about 350 mL of room air that mixes with alveolar air, about 150 mL of air in the larger passages (anatomical dead space), and a small portion of air distributed to either poorly ventilated or incompletely filled alveoli (physiological dead space).
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 1.17
+
+PAGE
+90
+
+SECTION
+Gas Responses
+
+ORIGINAL TEXT
+(figure 1.17)
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+Maximal Heart Rate Estimation Formula
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Heart Rate — How Can Athletes Estimate Maximal Heart Rate?
+
+ORIGINAL TEXT
+A simple estimate of maximal heart rate is to subtract one's age from 220; for example, the estimated maximal heart rate for a 47-year-old person is 220 – 47 (age in years) = 173 beats/min.
+
+END
+
+TYPE
+Recommendation
+
+TITLE
+More Accurate Maximal Heart Rate Prediction Equation
+
+PAGE
+85
+
+SECTION
+Cardiovascular Responses — Heart Rate — How Can Athletes Estimate Maximal Heart Rate?
+
+ORIGINAL TEXT
+A meta-analysis determined that the equation 208 – 0.7 × age could be used in healthy adults to more accurately predict maximal heart rate (40).
+
+END

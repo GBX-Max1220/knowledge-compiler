@@ -1,0 +1,33 @@
+id: concept.growth_hormone_isoforms
+type: Concept
+canonical_name: Growth Hormone (GH) Isoforms
+semantic_type: Substance
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Endocrine Responses to Resistance Exercise and Training
+  section: 'Chapter 4: Endocrine Responses to Resistance Exercise and Training — Growth
+    Hormone'
+  section_title: Growth Hormone
+  book_page: 260
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Growth hormone (GH) is produced in the pituitary gland by somatotroph
+  cells, divided into two types based on their secretion patterns and the forms of
+  GH. Band 1 somatotrophs generate the smaller, newly synthesized 22 kD molecular
+  weight isoform of GH, a 191 amino acid polypeptide. Conversely, band 2 somatotrophs
+  produce aggregates of these smaller isoforms (e.g., two 22 kD units combining to
+  form a 44 kD molecule), which are considered older and are potential GH storage
+  forms (61).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

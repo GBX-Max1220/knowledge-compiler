@@ -1,0 +1,33 @@
+id: concept.agility
+type: Concept
+canonical_name: Agility
+semantic_type: Physical Fitness Component
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 14
+  chapter_title: Exercise Testing and Prescription for Athletic Performance
+  section: '14.1'
+  section_title: Measuring Parameters of Athletic Performance
+  book_page: 770
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Agility traditionally has been considered the ability to stop, start,
+  and change the direction of the whole body rapidly (134, 143). Agility consists
+  of two main components: speed in changing direction and cognitive factors (134).
+  The definition of agility has been revised to take into account the perceptual qualities,
+  and it is now considered "a rapid, whole-body, change of direction or speed in response
+  to a sports-specific stimulus" (134, 143).
+
+  '
+attributes:
+- speed in changing direction
+- cognitive factors
+purpose: []
+related_concepts: []

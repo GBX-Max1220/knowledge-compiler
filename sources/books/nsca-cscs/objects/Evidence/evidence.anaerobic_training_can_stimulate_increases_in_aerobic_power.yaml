@@ -1,0 +1,25 @@
+id: evidence.anaerobic_training_can_stimulate_increases_in_aerobic_power
+type: Evidence
+canonical_name: Anaerobic Training Can Stimulate Increases in Aerobic Power
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: ''
+  section: '3.5'
+  section_title: Oxygen Uptake and Aerobic/Anaerobic Contributions
+  book_page: 222
+  pdf_page: 222
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+evidence_text: 'In this context, it should be noted that specific anaerobic training
+  can stimulate increases in aerobic power and enhance markers of recovery (54).
+
+  '
+citations:
+- '54'

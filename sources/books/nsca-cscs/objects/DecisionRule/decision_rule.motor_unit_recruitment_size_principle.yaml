@@ -1,0 +1,22 @@
+id: decision_rule.motor_unit_recruitment_size_principle
+type: DecisionRule
+canonical_name: Motor Unit Recruitment According to the Size Principle
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 290
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+rule_text: Motor units are recruited in an ascending order according to their soma
+  size. Thus, motor units with small motor neurons have lower recruitment thresholds
+  than do motor units with large motor neurons.

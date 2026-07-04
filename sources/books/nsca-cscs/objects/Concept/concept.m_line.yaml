@@ -1,0 +1,30 @@
+id: concept.m_line
+type: Concept
+canonical_name: M-line
+semantic_type: AnatomicalStructure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Figure 1.6
+  section_title: General view of the myosin and actin filaments in muscle
+  book_page: 50
+  pdf_page: 50
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.sarcomere
+definition: 'Thick filaments are anchored to specialized proteins in the M-line, which
+  is in the center of the sarcomere (the center of the H-zone).
+
+  '
+attributes: []
+purpose:
+- anchor thick filaments
+related_concepts: []

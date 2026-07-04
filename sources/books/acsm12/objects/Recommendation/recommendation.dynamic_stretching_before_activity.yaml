@@ -1,0 +1,27 @@
+id: recommendation.dynamic_stretching_before_activity
+type: Recommendation
+canonical_name: Dynamic Stretching Before Activity Recommendation
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.25'
+  section_title: Flexibility
+  book_page: 387
+  pdf_page: 387
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Dynamic stretching (i.e., controlled movements through the full range
+  of motion) is recommended as part of a warm-up prior to athletic activities.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

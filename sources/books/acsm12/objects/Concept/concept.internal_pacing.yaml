@@ -1,0 +1,28 @@
+id: concept.internal_pacing
+type: Concept
+canonical_name: Internal Pacing
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.22'
+  section_title: Pacing
+  book_page: 838
+  pdf_page: 838
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: is_a
+  target: concept.pacing
+definition: 'Self-regulated pacing.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

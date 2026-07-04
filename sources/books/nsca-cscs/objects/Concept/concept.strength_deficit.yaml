@@ -1,0 +1,11 @@
+id: concept.strength_deficit
+type: Concept
+canonical_name: Strength Deficit
+semantic_type: Entity
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  section: '1.0'
+  book_page: 38
+definition: Strength Deficit is a concept in strength and conditioning.

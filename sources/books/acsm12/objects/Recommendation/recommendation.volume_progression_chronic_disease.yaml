@@ -1,0 +1,37 @@
+id: recommendation.volume_progression_chronic_disease
+type: Recommendation
+canonical_name: Volume and Progression of Exercise for Chronic Disease Populations
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Exercise Prescription for Individuals with Chronic Diseases and Health
+    Conditions
+  section: '10.34'
+  section_title: Exercise Prescription
+  book_page: 855
+  pdf_page: 855
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: recommendation.exercise_prescription_chronic_diseases
+definition: 'The total volume of exercise should be gradually increased over time,
+  with progression based on the individual''s tolerance and response. A general guideline
+  is to increase duration by 5–10 min every 1–2 weeks, or increase frequency or intensity
+  as tolerated. For resistance training, progression can be achieved by increasing
+  the load, number of sets, or frequency.
+
+  '
+attributes:
+- gradual_increase
+- based_on_tolerance
+- based_on_response
+purpose:
+- guide volume and progression of exercise for chronic disease populations
+related_concepts: []

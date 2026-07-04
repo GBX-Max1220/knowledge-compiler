@@ -1,0 +1,35 @@
+id: recommendation.exercise_prescription_individuals_cardiovascular_pulmonary_diseases_general_principles
+type: Recommendation
+canonical_name: Exercise Prescription for Individuals With Cardiovascular and Pulmonary
+  Diseases — General Principles
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: Exercise Prescription for Individuals With Cardiovascular and Pulmonary
+    Diseases
+  section: '8.29'
+  section_title: Exercise Prescription
+  book_page: 608
+  pdf_page: 608
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The exercise prescription for individuals with cardiovascular and pulmonary
+  diseases should be individualized and based on the results of the exercise test
+  and the patient''s clinical status. The FITT (Frequency, Intensity, Time, and Type)
+  principle is used to develop the exercise prescription.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.frequency
+- concept.intensity
+- concept.time
+- concept.type

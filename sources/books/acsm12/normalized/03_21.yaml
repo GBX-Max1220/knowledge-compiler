@@ -1,0 +1,577 @@
+# ontology: knowledge-compiler/v1
+
+id: threshold.cardiorespiratory_fitness_classification
+type: Threshold
+canonical_name: Cardiorespiratory Fitness Classification Categories
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Table 3.4 provides the fitness classification categories for cardiorespiratory fitness based on age and sex.
+attributes: []
+purpose: []
+related_concepts:
+  - table_row.cardiorespiratory_fitness_classification
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.cardiorespiratory_fitness_classification
+type: TableRow
+canonical_name: Cardiorespiratory Fitness Classification Categories
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Table 3.4 provides the fitness classification categories for cardiorespiratory fitness based on age and sex.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.percentile_based_fitness_classification
+type: Threshold
+canonical_name: Percentile-Based Fitness Classification Thresholds
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.very_poor_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.poor_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.fair_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.good_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.excellent_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.superior_fitness_classification
+definition: >
+  The classification categories are based on percentile rankings: Very Poor (< 20th percentile), Poor (20th–39th percentile), Fair (40th–59th percentile), Good (60th–79th percentile), Excellent (80th–94th percentile), and Superior (≥ 95th percentile).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.very_poor_fitness_classification
+type: Threshold
+canonical_name: Very Poor Fitness Classification
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.poor_fitness_classification
+definition: >
+  Very Poor (< 20th percentile)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.poor_fitness_classification
+type: Threshold
+canonical_name: Poor Fitness Classification
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.very_poor_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.fair_fitness_classification
+definition: >
+  Poor (20th–39th percentile)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.fair_fitness_classification
+type: Threshold
+canonical_name: Fair Fitness Classification
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.poor_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.good_fitness_classification
+definition: >
+  Fair (40th–59th percentile)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.good_fitness_classification
+type: Threshold
+canonical_name: Good Fitness Classification
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.fair_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.excellent_fitness_classification
+definition: >
+  Good (60th–79th percentile)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.excellent_fitness_classification
+type: Threshold
+canonical_name: Excellent Fitness Classification
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.good_fitness_classification
+  - predicate: adjacent_to
+    target: threshold.superior_fitness_classification
+definition: >
+  Excellent (80th–94th percentile)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.superior_fitness_classification
+type: Threshold
+canonical_name: Superior Fitness Classification
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.excellent_fitness_classification
+definition: >
+  Superior (≥ 95th percentile)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: figure.cardiorespiratory_fitness_classification_example
+type: Figure
+canonical_name: Example of Cardiorespiratory Fitness Classification
+semantic_type: Example
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Figure 3.1 provides an example of how to interpret cardiorespiratory fitness test results using the classification categories.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.body_composition_classification
+type: Threshold
+canonical_name: Body Composition Classification Thresholds
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.underfat_body_composition
+  - predicate: adjacent_to
+    target: threshold.healthy_body_composition
+  - predicate: adjacent_to
+    target: threshold.overfat_body_composition
+  - predicate: adjacent_to
+    target: threshold.obese_body_composition
+definition: >
+  Body composition is classified using percent body fat thresholds: Underfat (< 5% for men, < 8% for women), Healthy (5%–20% for men, 8%–30% for women), Overfat (20%–25% for men, 30%–35% for women), and Obese (> 25% for men, > 35% for women).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.underfat_body_composition
+type: Threshold
+canonical_name: Underfat Body Composition
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.healthy_body_composition
+definition: >
+  Underfat (< 5% for men, < 8% for women)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.healthy_body_composition
+type: Threshold
+canonical_name: Healthy Body Composition
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.underfat_body_composition
+  - predicate: adjacent_to
+    target: threshold.overfat_body_composition
+definition: >
+  Healthy (5%–20% for men, 8%–30% for women)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.overfat_body_composition
+type: Threshold
+canonical_name: Overfat Body Composition
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.healthy_body_composition
+  - predicate: adjacent_to
+    target: threshold.obese_body_composition
+definition: >
+  Overfat (20%–25% for men, 30%–35% for women)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.obese_body_composition
+type: Threshold
+canonical_name: Obese Body Composition
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.overfat_body_composition
+definition: >
+  Obese (> 25% for men, > 35% for women)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.body_composition_classification
+type: TableRow
+canonical_name: Body Composition Classification Categories
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Table 3.5 provides the body composition classification categories based on percent body fat.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.muscular_strength_classification
+type: Threshold
+canonical_name: Muscular Strength Classification Thresholds
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.poor_muscular_strength
+  - predicate: adjacent_to
+    target: threshold.fair_muscular_strength
+  - predicate: adjacent_to
+    target: threshold.average_muscular_strength
+  - predicate: adjacent_to
+    target: threshold.good_muscular_strength
+  - predicate: adjacent_to
+    target: threshold.excellent_muscular_strength
+definition: >
+  Muscular strength is classified using the following thresholds: Poor (< 30th percentile), Fair (30th–49th percentile), Average (50th–69th percentile), Good (70th–84th percentile), and Excellent (≥ 85th percentile).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.poor_muscular_strength
+type: Threshold
+canonical_name: Poor Muscular Strength
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Interpretation of Results"
+  section: "3.21"
+  section_title: "Interpretation of Results"
+  book_page: 221
+  pdf_page: 221
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.fair_muscular_strength
+definition: >
+  Poor (< 30th percentile)
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.fair_muscular_strength
+type: Threshold
+canonical_name: Fair Muscular Strength
+semantic_type: Classification
+aliases: []
+source:

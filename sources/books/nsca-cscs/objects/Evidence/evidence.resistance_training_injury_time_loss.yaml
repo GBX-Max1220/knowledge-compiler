@@ -1,0 +1,35 @@
+id: evidence.resistance_training_injury_time_loss
+type: Evidence
+canonical_name: Resistance Training Injury Time Loss
+semantic_type: Evidence
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Biomechanics of Resistance Training
+  section: '2.5'
+  section_title: Joint Biomechanics
+  book_page: 161
+  pdf_page: 161
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+claim: Injuries due to resistance training accounted for only 0.74% of the in-season
+  injury-related time loss of the players.
+evidence_text: 'Injuries due to resistance training accounted for only 0.74% of the
+  in-season injury-related time loss of the players (61).
+
+  '
+statistics:
+- value: '0.74'
+  unit: '%'
+  context: In-season injury-related time loss due to resistance training
+citations:
+- reference_number: '61'
+  page_number: 161
+related_concepts:
+- concept.resistance_training

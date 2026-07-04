@@ -1,0 +1,85 @@
+id: procedure.tire_flip
+type: Procedure
+canonical_name: Tire Flip
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Nontraditional Implements
+  section: '17.4'
+  section_title: Nontraditional Implements
+  book_page: 1146
+  pdf_page: 1146
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An exercise that involves flipping a tire from a squatting position by
+  extending the knees and hips and pushing the tire forward.
+
+  '
+attributes:
+- requires_tire
+- explosive
+purpose:
+- strengthen gluteus maximus
+- strengthen hamstrings
+- strengthen quadriceps
+- strengthen calves
+- strengthen deltoids
+- strengthen triceps brachii
+- strengthen trapezius
+related_concepts:
+- concept.tire
+- concept.gluteus_maximus
+- concept.semimembranosus
+- concept.semitendinosus
+- concept.biceps_femoris
+- concept.vastus_lateralis
+- concept.vastus_intermedius
+- concept.vastus_medialis
+- concept.rectus_femoris
+- concept.soleus
+- concept.gastrocnemius
+- concept.deltoids
+- concept.triceps_brachii
+- concept.trapezius
+steps:
+- phase: Starting Position
+  description: 'Begin facing the tire with the feet hip- to shoulder-width apart.
+    Squat down and lean into the tire so that the chin and the anterior deltoids are
+    resting on the tire and the feet are positioned back far enough to maintain a
+    neutral spine position. Keeping the arms outside the knees and the elbows fully
+    extended, grasp the tire with a supinated grip. All repetitions begin from this
+    position.
+
+    '
+- phase: Upward Movement Phase
+  description: 'Begin by extending the knees and hips and plantar flexing the ankles
+    while pushing the tire forward. Move forward explosively toward the tire by taking
+    two or three steps. Continue this movement until the body is aligned in a 45-degree
+    angle to the tire. Consider flexing the hip and knee of one leg fully to drive
+    the knee upward and toward the tire. Immediately after striking the tire with
+    the thigh (if done), reorient the hands into a pronated grip. Lean forward and
+    take small steps as required while forcefully extending the arms to push the tire
+    over in front of the body.
+
+    '
+muscles_involved:
+- gluteus maximus
+- semimembranosus
+- semitendinosus
+- biceps femoris
+- vastus lateralis
+- vastus intermedius
+- vastus medialis
+- rectus femoris
+- soleus
+- gastrocnemius
+- deltoids
+- triceps brachii
+- trapezius

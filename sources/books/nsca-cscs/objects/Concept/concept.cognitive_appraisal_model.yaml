@@ -1,0 +1,45 @@
+id: concept.cognitive_appraisal_model
+type: Concept
+canonical_name: Cognitive Appraisal Model
+semantic_type: Theoretical Framework
+aliases: []
+source:
+  book: NSCA's Essentials of Strength Training and Conditioning
+  edition: 4
+  chapter: 9
+  chapter_title: Psychology of Athletic Preparation and Performance
+  section: '9.5'
+  section_title: Attention and Focus
+  book_page: 516
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.personal_factors_cognitive_appraisal_model
+- predicate: has_attribute
+  target: concept.situational_factors_cognitive_appraisal_model
+- predicate: has_attribute
+  target: concept.behavioral_responses_cognitive_appraisal_model
+- predicate: has_attribute
+  target: concept.emotional_responses_cognitive_appraisal_model
+definition: 'The Cognitive Appraisal Model (66) proposes four key components that
+  may influence how athletes judge their injury and how it affects their emotional
+  and recovery response due to injury (figure 9.5).
+
+  '
+attributes:
+- personal factors
+- situational factors
+- behavioral responses
+- emotional responses
+purpose: []
+related_concepts:
+- concept.personal_factors_cognitive_appraisal_model
+- concept.situational_factors_cognitive_appraisal_model
+- concept.behavioral_responses_cognitive_appraisal_model
+- concept.emotional_responses_cognitive_appraisal_model
+- figure.figure_9.5_the_cognitive_appraisal_model

@@ -1,0 +1,29 @@
+id: concept.heat_acclimation
+type: Concept
+canonical_name: Heat Acclimation
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Aerobic Endurance Training Adaptations
+  section: '6.2'
+  section_title: Aerobic Endurance Training Adaptations
+  book_page: 365
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An athlete can undertake heat acclimation protocols (often referred to
+  as artificial exposure) to expose the body to such hot environments, thereby raising
+  core and skin temperatures and increase sweating to elicit the same adaptations
+  (124).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

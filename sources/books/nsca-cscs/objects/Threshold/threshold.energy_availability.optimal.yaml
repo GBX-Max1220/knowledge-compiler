@@ -1,0 +1,27 @@
+id: threshold.energy_availability.optimal
+type: Threshold
+canonical_name: Optimal Energy Availability Threshold
+semantic_type: Clinical Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.4'
+  section_title: Body Composition Strategies
+  book_page: 649
+  pdf_page: 649
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.energy_availability.severe_lea
+definition: ''
+value: around 45 kilocalories per kilogram FFM per day
+unit: kilocalories per kilogram FFM per day
+condition: optimal EA for healthy function
+context: energy availability

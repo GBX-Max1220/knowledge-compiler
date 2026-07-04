@@ -1,0 +1,30 @@
+id: concept.hmb_preserves_lean_body_mass_during_bed_rest_in_older_adults
+type: Concept
+canonical_name: HMB Preserves Lean Body Mass During Bed Rest in Older Adults
+semantic_type: Research Finding
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 12
+  chapter_title: Dietary Supplements
+  section: '12.3'
+  section_title: Dietary Supplements
+  book_page: 704
+  pdf_page: 704
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'When older adults were confined to complete bed rest (a catabolic state)
+  for 10 days, it was reported that the subjects who were supplemented with 3 grams
+  of HMB per day lost significantly less lean body mass (lost only 0.37 lb [0.17 kg])
+  as compared to those subjects who were supplemented with a placebo (lost 4.5 lb
+  [2.04 kg]) (55).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

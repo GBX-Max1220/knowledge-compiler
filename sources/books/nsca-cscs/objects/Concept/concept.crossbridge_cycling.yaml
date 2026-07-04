@@ -1,0 +1,15 @@
+id: concept.crossbridge_cycling
+type: Concept
+canonical_name: Crossbridge Cycling
+semantic_type: PhysiologicalProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Contraction Phase
+  section_title: Contraction Phase
+  book_page: 54
+  pdf_page: 54
+provenance: null

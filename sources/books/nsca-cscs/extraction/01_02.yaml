@@ -1,0 +1,2163 @@
+```TYPE
+Definition
+
+TITLE
+Motor Unit
+
+PAGE
+47
+
+SECTION
+Figure 1.4 — Motor unit
+
+ORIGINAL TEXT
+Motor unit, consisting of a motor neuron and the muscle fibers it innervates.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Myofibril
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Hundreds of myofibrils (each about 1 μm in diameter, 1/100 the diameter of a hair) exist in the sarcoplasm of one muscle fiber. Myofibrils are the contractile machinery of muscle fibers.
+
+PARENT
+NONE
+
+CHILDREN
+Myosin filament, Actin filament, Sarcomere
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Myosin Filament
+
+PAGE
+47-48
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The thicker myosin filaments (about 16 nm in diameter, or 1/10,000 the diameter of a hair) contain up to 200 myosin molecules. A single myosin molecule consists of two myosin heavy chain proteins and four myosin light chain proteins. This molecule also contains two head-like features (one being from each of the two heavy chains), two hinge points below each head, and two tail-like features that act to keep the two heavy chain proteins bound.
+
+PARENT
+Myofibril
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Actin Filament
+
+PAGE
+47-48
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The thin actin filaments (about 6 nm in diameter) consist of two strands arranged in a double helix.
+
+PARENT
+Myofibril
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Sarcomere
+
+PAGE
+47-48
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Myosin and actin filaments are organized longitudinally in the smallest contractile unit of skeletal muscle termed the sarcomere. Sarcomeres average about 2.5 μm in length in a relaxed fiber (approximately 4,500 per centimeter of muscle length) and are repeated through the entire length of myofibrils that span the muscle fiber (4).
+
+PARENT
+Myofibril
+
+CHILDREN
+A-band, I-band, Z-line, H-zone, M-line
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+A-band
+
+PAGE
+48-49
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The dark A-band corresponds with the alignment of the myosin filaments.
+
+PARENT
+Sarcomere
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+I-band
+
+PAGE
+48-49
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The light I-band corresponds with the areas in two adjacent sarcomeres that contain only actin filaments (41).
+
+PARENT
+Sarcomere
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Z-line
+
+PAGE
+48-49
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The Z-line is in the middle of the I-band and appears as a thin, dark line running longitudinally through the I-band.
+
+PARENT
+Sarcomere
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+H-zone
+
+PAGE
+48-49
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The H-zone is the area in the center of the sarcomere, where only myosin filaments are present.
+
+PARENT
+Sarcomere
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+M-line
+
+PAGE
+50
+
+SECTION
+Figure 1.6 — General view of the myosin and actin filaments in muscle
+
+ORIGINAL TEXT
+Thick filaments are anchored to specialized proteins in the M-line, which is in the center of the sarcomere (the center of the H-zone).
+
+PARENT
+Sarcomere
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Sarcoplasmic Reticulum
+
+PAGE
+50-51
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Each myofibril is encased by an intricate system of tubules, called the sarcoplasmic reticulum (figure 1.5, page 5), which terminates as vesicles in the vicinity of the Z-lines. Calcium ions are stored in the sarcoplasmic reticulum, and muscle activation leads to the release of these calcium stores to facilitate muscular contraction.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Action Potential
+
+PAGE
+51
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Discharge of an action potential (an electrical nerve impulse) arrives nearly simultaneously from the surface to all depths of the muscle fiber.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Sliding-Filament Theory of Muscular Contraction
+
+PAGE
+52-53
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+The sliding-filament theory was proposed by Huxley and Hanson in 1954 to mechanistically explain muscular contraction at the molecular level (22). In its simplest form, the sliding-filament theory indicates that actin filaments anchored to each end of the sarcomere slide inward on myosin filaments. This results in Z-lines being pulled toward the center of the sarcomere and in muscle fiber shortening (figure 1.7).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Power Stroke
+
+PAGE
+53
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+The energy-dependent inward movement of actin filaments over the myosin filaments through what is termed the power stroke, are the bases for muscle contraction.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Troponin
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+Secreted calcium ions bind with a high affinity to the troponin protein, which exists at regular intervals along the actin filament (figure 1.6).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Tropomyosin
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+This calcium-troponin interaction causes a shift in another protein termed tropomyosin, which is bound to troponin and spans the length of the actin filament.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Crossbridge Cycling
+
+PAGE
+54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+So long as calcium ions remain bound to troponin during muscle activation, contiguous rapid rounds of actin-myosin crossbridge formation, power strokes, and actin-myosin crossbridge dissociation will occur, and this is termed crossbridge cycling.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Procedure
+
+TITLE
+Phases of the Contraction Phase
+
+PAGE
+54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+1. The myosin head hydrolyzes ATP into ADP and Pi, both of which remain bound to the myosin head. The energy provided by this biochemical reaction results in a conformational change whereby the myosin head is cocked into a high-energy state.
+2. In its high-energy state, the myosin head binds to actin to form the actin-myosin crossbridge.
+3. The release of Pi from the myosin head catalyzes a confirmational change in the myosin molecule, leading to the power stroke, which is the pivoting of the myosin head that pulls the actin filament toward the center of the sarcomere.
+4. Following the first power stroke, ADP is released from the myosin head and another ATP molecule binds to the myosin head.
+5. The actin-myosin crossbridge is subsequently dissociated, the myosin head returns to its original low-energy state and conformation, and the process is repeated with the hydrolysis of the newly bound ATP molecule.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Resting Phase
+
+PAGE
+53
+
+SECTION
+Resting Phase
+
+ORIGINAL TEXT
+When a muscle is not active, low levels of calcium are present in the myofibrils of muscle fibers (most of it is stored in the sarcoplasmic reticulum), so very few actin-myosin crossbridges are formed.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Excitation–Contraction Coupling Phase
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+When a motor neuron activates a muscle fiber, a cascade of events occur that stimulate the sarcoplasmic reticulum to release calcium ions into the myofibrils of the muscle fiber.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Contraction Phase
+
+PAGE
+53-54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+The contraction phase involves the mechanical movement (or pivoting) of the myosin head from the resting phase when the actin-myosin crossbridge is formed, which leads to the pulling of the associated actin filament to the center of the sarcomere.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Relaxation Phase
+
+PAGE
+55
+
+SECTION
+Relaxation Phase
+
+ORIGINAL TEXT
+Relaxation occurs when the stimulation of the motor neuron ceases. Calcium is pumped back into the sarcoplasmic reticulum through specialized transporters that also require ATP, and the restoration of low calcium ion concentrations in myofibrils highly reduces the number of actin-myosin crossbridges.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 1.4
+
+PAGE
+47
+
+SECTION
+Figure 1.4 — Motor unit
+
+ORIGINAL TEXT
+FIGURE 1.4  Motor unit, consisting of a motor neuron and the muscle fibers it innervates.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 1.5
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+FIGURE 1.5  Sectional view of a muscle fiber.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 1.6
+
+PAGE
+49-50
+
+SECTION
+Figure 1.6 — General view of the myosin and actin filaments in muscle
+
+ORIGINAL TEXT
+FIGURE 1.6 General view of the myosin and actin filaments in muscle. The arrangement of myosin (thick) and actin (thin) filaments gives skeletal muscle its striated appearance.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Figure
+
+TITLE
+Figure 1.7
+
+PAGE
+51-52
+
+SECTION
+Figure 1.7 — Contraction at the sarcomere level
+
+ORIGINAL TEXT
+FIGURE 1.7 Contraction at the sarcomere level. (a) In stretched muscle the I-bands and H-zone are elongated and there is low force potential due to a reduction in actin and myosin overlap and, thus, actin-myosin cross-bridge formation potential. (b) When muscle contracts (here partially), the I-bands and H-zone are shortened. In this example, force potential is highest due to optimal actin and myosin overlap. (c) With contracted muscle, force potential is again low because actin and myosin overlap is not optimal.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Force Production Relationship
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+It is important to understand that the amount of force produced by any given muscle is directly related to the number of actin-myosin crossbridges formed within the muscle fibers of that muscle (4).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Force Production Dictated by Crossbridges
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+The number of actin-myosin crossbridges formed within the muscle fibers of a given muscle at any instant in time dictates the force production of the muscle.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Calcium and ATP Necessity for Crossbridge Cycling
+
+PAGE
+54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+Calcium and ATP are necessary for crossbridge cycling with actin and myosin filaments.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Myosin ATPase
+
+PAGE
+53
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+This mechanical movement is catalyzed from the biochemical energy provided by the hydrolysis (or breakdown) of adenosine triphosphate (ATP) by the myosin adenosine triphosphatase (ATPase) enzyme present on the myosin head.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Crossbridge
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The head-like structures form crossbridges with actin filaments during muscle contraction.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Sarcomere Length in Relaxed Fiber
+
+PAGE
+47-48
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Sarcomeres average about 2.5 μm in length in a relaxed fiber (approximately 4,500 per centimeter of muscle length).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Myosin Filament Diameter
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The thicker myosin filaments (about 16 nm in diameter, or 1/10,000 the diameter of a hair).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Actin Filament Diameter
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The thin actin filaments (about 6 nm in diameter).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Threshold
+
+TITLE
+Myofibril Diameter
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Hundreds of myofibrils (each about 1 μm in diameter, 1/100 the diameter of a hair).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Six Actin Filaments Surround Each Myosin Filament
+
+PAGE
+50
+
+SECTION
+Figure 1.6 — General view of the myosin and actin filaments in muscle
+
+ORIGINAL TEXT
+It is also notable that six actin filaments surround each myosin filament, and each actin filament is surrounded by three myosin filaments.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Sarcomere (as defined between two Z-lines)
+
+PAGE
+50
+
+SECTION
+Figure 1.6 — General view of the myosin and actin filaments in muscle
+
+ORIGINAL TEXT
+Individual sarcomeres are defined as the thick myosin and thin actin filaments as well as associated proteins found between two Z-lines.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+High Force Output Requires Maximal Motor Neuron Recruitment
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+Thus, activities that require a high force output necessitate the activation (or recruitment) of most motor neurons and the muscle fibers they innervate to achieve the maximal amount of actin-myosin crossbridge formation.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Definition
+
+TITLE
+Actin-Myosin Crossbridge
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+These events expose the myosin binding site on actin and enable the myosin head to attach to the actin filament to form an actin-myosin crossbridge (4).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Sliding-Filament Theory Origin
+
+PAGE
+52
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+The sliding-filament theory was proposed by Huxley and Hanson in 1954 to mechanistically explain muscular contraction at the molecular level (22).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+H-zone and I-band Shrink During Contraction
+
+PAGE
+53
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+As actin filaments slide over myosin filaments, both the H-zone and I-band shrink.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+H-zone Decreases During Contraction
+
+PAGE
+49
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+During muscle contraction, the H-zone decreases as the actin filaments slide over myosin filaments toward the center of the sarcomere. The I-band also decreases as the Z-lines are pulled toward the center of the sarcomere.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+ATP Hydrolysis Products
+
+PAGE
+53
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+The products of ATP hydrolysis include adenosine diphosphate (ADP) and inorganic phosphate (Pi), metabolites that also serve critical roles in the contraction process.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Relaxation Requires ATP
+
+PAGE
+55
+
+SECTION
+Relaxation Phase
+
+ORIGINAL TEXT
+Calcium is pumped back into the sarcoplasmic reticulum through specialized transporters that also require ATP.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Force Potential in Stretched Muscle
+
+PAGE
+51-52
+
+SECTION
+Figure 1.7 — Contraction at the sarcomere level
+
+ORIGINAL TEXT
+In stretched muscle the I-bands and H-zone are elongated and there is low force potential due to a reduction in actin and myosin overlap and, thus, actin-myosin cross-bridge formation potential.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Force Potential in Partially Contracted Muscle
+
+PAGE
+52
+
+SECTION
+Figure 1.7 — Contraction at the sarcomere level
+
+ORIGINAL TEXT
+When muscle contracts (here partially), the I-bands and H-zone are shortened. In this example, force potential is highest due to optimal actin and myosin overlap.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Force Potential in Contracted Muscle
+
+PAGE
+52
+
+SECTION
+Figure 1.7 — Contraction at the sarcomere level
+
+ORIGINAL TEXT
+With contracted muscle, force potential is again low because actin and myosin overlap is not optimal.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Action Potential Triggers Calcium Release
+
+PAGE
+52
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+The discharge of an action potential from a motor neuron signals the release of calcium from the sarcoplasmic reticulum into the myofibrils of a muscle fiber, leading to a cascade of events that result in the contraction of the muscle fiber.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Very Small Displacement per Power Stroke
+
+PAGE
+53
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+Although a very small displacement of an actin filament occurs with each power stroke, this action is rapidly repeated across all sarcomeres during voluntary muscle contractions leading to appreciable movement with prolonged contractions (41).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Low Calcium in Resting Muscle
+
+PAGE
+53
+
+SECTION
+Resting Phase
+
+ORIGINAL TEXT
+When a muscle is not active, low levels of calcium are present in the myofibrils of muscle fibers (most of it is stored in the sarcoplasmic reticulum), so very few actin-myosin crossbridges are formed.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Calcium Release Throughout Muscle Fiber
+
+PAGE
+51
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Calcium is thus released throughout the muscle fiber, producing a coordinated contraction of the entire cell.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Action Potential Arrives Simultaneously
+
+PAGE
+51
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Discharge of an action potential (an electrical nerve impulse) arrives nearly simultaneously from the surface to all depths of the muscle fiber.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Myosin Molecule Composition
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+A single myosin molecule consists of two myosin heavy chain proteins and four myosin light chain proteins.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Myosin Molecule Structure
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+This molecule also contains two head-like features (one being from each of the two heavy chains), two hinge points below each head, and two tail-like features that act to keep the two heavy chain proteins bound.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Globular Heads Protrude from Thick Filament
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+When examining a thick filament containing hundreds of myosin molecules, the globular heads protrude away from the thick filament at regular intervals.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Actin Filament Double Helix Structure
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The thin actin filaments (about 6 nm in diameter) consist of two strands arranged in a double helix.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Lattice-Like Arrangement of Filaments
+
+PAGE
+50
+
+SECTION
+Figure 1.6 — General view of the myosin and actin filaments in muscle
+
+ORIGINAL TEXT
+This lattice-like arrangement enables a highly organized and efficient structure for muscular contraction.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Myosin Heads Form Crossbridges
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The head-like structures form crossbridges with actin filaments during muscle contraction.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Calcium Ions Bind to Troponin
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+Secreted calcium ions bind with a high affinity to the troponin protein, which exists at regular intervals along the actin filament (figure 1.6).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Calcium-Troponin Interaction Shifts Tropomyosin
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+This calcium-troponin interaction causes a shift in another protein termed tropomyosin, which is bound to troponin and spans the length of the actin filament.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Myosin Head Hydrolyzes ATP
+
+PAGE
+54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+The myosin head hydrolyzes ATP into ADP and Pi, both of which remain bound to the myosin head. The energy provided by this biochemical reaction results in a conformational change whereby the myosin head is cocked into a high-energy state.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Myosin Head Binds to Actin in High-Energy State
+
+PAGE
+54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+In its high-energy state, the myosin head binds to actin to form the actin-myosin crossbridge.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Pi Release Catalyzes Power Stroke
+
+PAGE
+54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+The release of Pi from the myosin head catalyzes a confirmational change in the myosin molecule, leading to the power stroke, which is the pivoting of the myosin head that pulls the actin filament toward the center of the sarcomere.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+ADP Release and ATP Binding
+
+PAGE
+54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+Following the first power stroke, ADP is released from the myosin head and another ATP molecule binds to the myosin head.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Crossbridge Dissociation and Return to Low-Energy State
+
+PAGE
+54
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+The actin-myosin crossbridge is subsequently dissociated, the myosin head returns to its original low-energy state and conformation, and the process is repeated with the hydrolysis of the newly bound ATP molecule.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Low Calcium Reduces Crossbridges in Relaxation
+
+PAGE
+55
+
+SECTION
+Relaxation Phase
+
+ORIGINAL TEXT
+The restoration of low calcium ion concentrations in myofibrils highly reduces the number of actin-myosin crossbridges.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Myosin Filament Contains Up to 200 Myosin Molecules
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The thicker myosin filaments (about 16 nm in diameter, or 1/10,000 the diameter of a hair) contain up to 200 myosin molecules.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Sarcomere Length in Relaxed Fiber
+
+PAGE
+47-48
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Sarcomeres average about 2.5 μm in length in a relaxed fiber (approximately 4,500 per centimeter of muscle length).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Myofibril Diameter
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+Hundreds of myofibrils (each about 1 μm in diameter, 1/100 the diameter of a hair) exist in the sarcoplasm of one muscle fiber.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Myosin Filament Diameter
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The thicker myosin filaments (about 16 nm in diameter, or 1/10,000 the diameter of a hair).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Actin Filament Diameter
+
+PAGE
+47
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+The thin actin filaments (about 6 nm in diameter).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Six Actin Filaments Surround Each Myosin Filament
+
+PAGE
+50
+
+SECTION
+Figure 1.6 — General view of the myosin and actin filaments in muscle
+
+ORIGINAL TEXT
+It is also notable that six actin filaments surround each myosin filament, and each actin filament is surrounded by three myosin filaments.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Sarcomere Defined Between Two Z-lines
+
+PAGE
+50
+
+SECTION
+Figure 1.6 — General view of the myosin and actin filaments in muscle
+
+ORIGINAL TEXT
+Individual sarcomeres are defined as the thick myosin and thin actin filaments as well as associated proteins found between two Z-lines.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+High Force Output Requires Maximal Motor Neuron Recruitment
+
+PAGE
+53
+
+SECTION
+Excitation–Contraction Coupling Phase
+
+ORIGINAL TEXT
+Thus, activities that require a high force output necessitate the activation (or recruitment) of most motor neurons and the muscle fibers they innervate to achieve the maximal amount of actin-myosin crossbridge formation.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Sliding-Filament Theory Origin
+
+PAGE
+52
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+The sliding-filament theory was proposed by Huxley and Hanson in 1954 to mechanistically explain muscular contraction at the molecular level (22).
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+H-zone and I-band Shrink During Contraction
+
+PAGE
+53
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+As actin filaments slide over myosin filaments, both the H-zone and I-band shrink.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+H-zone Decreases During Contraction
+
+PAGE
+49
+
+SECTION
+Figure 1.5 — Sectional view of a muscle fiber
+
+ORIGINAL TEXT
+During muscle contraction, the H-zone decreases as the actin filaments slide over myosin filaments toward the center of the sarcomere. The I-band also decreases as the Z-lines are pulled toward the center of the sarcomere.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+ATP Hydrolysis Products
+
+PAGE
+53
+
+SECTION
+Contraction Phase
+
+ORIGINAL TEXT
+The products of ATP hydrolysis include adenosine diphosphate (ADP) and inorganic phosphate (Pi), metabolites that also serve critical roles in the contraction process.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Relaxation Requires ATP
+
+PAGE
+55
+
+SECTION
+Relaxation Phase
+
+ORIGINAL TEXT
+Calcium is pumped back into the sarcoplasmic reticulum through specialized transporters that also require ATP.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Force Potential in Stretched Muscle
+
+PAGE
+51-52
+
+SECTION
+Figure 1.7 — Contraction at the sarcomere level
+
+ORIGINAL TEXT
+In stretched muscle the I-bands and H-zone are elongated and there is low force potential due to a reduction in actin and myosin overlap and, thus, actin-myosin cross-bridge formation potential.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Force Potential in Partially Contracted Muscle
+
+PAGE
+52
+
+SECTION
+Figure 1.7 — Contraction at the sarcomere level
+
+ORIGINAL TEXT
+When muscle contracts (here partially), the I-bands and H-zone are shortened. In this example, force potential is highest due to optimal actin and myosin overlap.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Force Potential in Contracted Muscle
+
+PAGE
+52
+
+SECTION
+Figure 1.7 — Contraction at the sarcomere level
+
+ORIGINAL TEXT
+With contracted muscle, force potential is again low because actin and myosin overlap is not optimal.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE
+Evidence
+
+TITLE
+Action Potential Triggers Calcium Release
+
+PAGE
+52
+
+SECTION
+Sliding-Filament Theory of Muscular Contraction
+
+ORIGINAL TEXT
+The discharge of an action potential from a motor neuron signals the release of calcium from the sarcoplasmic reticulum into the myofibrils of a muscle fiber, leading to a cascade of events that result in the contraction of the muscle fiber.
+
+PARENT
+NONE
+
+CHILDREN
+NONE
+
+RELATIONSHIPS
+NONE
+
+END
+
+TYPE

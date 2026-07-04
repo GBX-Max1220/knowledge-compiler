@@ -1,0 +1,28 @@
+id: concept.critical_power
+type: Concept
+canonical_name: Critical Power
+semantic_type: PhysiologicalMeasure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Adaptations to Aerobic Endurance Training
+  section: '6'
+  section_title: Adaptations to Aerobic Endurance Training
+  book_page: 346
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The athlete''s critical power or, more simply, the athlete''s maximal
+  oxidative energy capacity, which also means that the exercising muscle''s rate of
+  lactate production matches the rate of clearance by muscles and other tissues (127a).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

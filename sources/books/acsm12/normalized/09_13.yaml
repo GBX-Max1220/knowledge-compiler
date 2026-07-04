@@ -1,0 +1,349 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.hypertension
+type: Concept
+canonical_name: Hypertension
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 729
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Hypertension is defined as a systolic blood pressure (SBP) ≥ 130 mm Hg or a diastolic blood pressure (DBP) ≥ 80 mm Hg, or the use of antihypertensive medication.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.stages_of_hypertension
+type: Concept
+canonical_name: Stages of Hypertension
+semantic_type: Classification
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 729
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.hypertension
+definition: >
+  Stages of hypertension are defined as follows: Stage 1: SBP 130–139 mm Hg or DBP 80–89 mm Hg; Stage 2: SBP ≥ 140 mm Hg or DBP ≥ 90 mm Hg.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.stage_1_hypertension
+type: Threshold
+canonical_name: Stage 1 Hypertension Threshold
+semantic_type: BloodPressure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 729
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.stages_of_hypertension
+  - predicate: adjacent_to
+    target: threshold.stage_2_hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: "SBP 130–139 mm Hg or DBP 80–89 mm Hg"
+condition: "Stage 1"
+unit: "mm Hg"
+operator: "range"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.stage_2_hypertension
+type: Threshold
+canonical_name: Stage 2 Hypertension Threshold
+semantic_type: BloodPressure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 729
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.stages_of_hypertension
+  - predicate: adjacent_to
+    target: threshold.stage_1_hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+threshold_value: "SBP ≥ 140 mm Hg or DBP ≥ 90 mm Hg"
+condition: "Stage 2"
+unit: "mm Hg"
+operator: "greater_than_or_equal"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.aerobic_exercise_for_hypertension
+type: Recommendation
+canonical_name: Exercise Prescription for Hypertension — Aerobic Exercise
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: used_for
+    target: concept.hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: >
+  Aerobic exercise is recommended as the primary modality for individuals with hypertension. The recommended frequency is most days, preferably daily, for a total of at least 30 min·d−1 of moderate-intensity exercise (e.g., 40%–60% of VO2R or HRR, RPE 11–13 on the 6–20 Borg scale). Accumulation of exercise in multiple bouts of at least 10 min is acceptable.
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.resistance_exercise_for_hypertension
+type: Recommendation
+canonical_name: Exercise Prescription for Hypertension — Resistance Exercise
+semantic_type: ExercisePrescription
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: used_for
+    target: concept.hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+recommendation_text: >
+  Resistance exercise should be performed on 2–3 d·wk−1, with at least 48 h between sessions. The recommended intensity is 60%–80% of 1-RM, with 8–12 repetitions and 2–3 sets per exercise.
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.exercise_caution_for_uncontrolled_hypertension
+type: Warning
+canonical_name: Exercise Caution for Uncontrolled Hypertension
+semantic_type: SafetyWarning
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+warning_text: >
+  In individuals with uncontrolled hypertension (SBP > 180 mm Hg or DBP > 110 mm Hg), exercise should be avoided until blood pressure is controlled with medication or other interventions.
+condition: "uncontrolled hypertension (SBP > 180 mm Hg or DBP > 110 mm Hg)"
+---
+# ontology: knowledge-compiler/v1
+
+id: contraindication.exercise_in_hypertensive_crisis
+type: Contraindication
+canonical_name: Contraindication to Exercise in Hypertensive Crisis
+semantic_type: MedicalContraindication
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+contraindication_text: >
+  Exercise is contraindicated in individuals with hypertensive crisis (SBP > 180 mm Hg and/or DBP > 120 mm Hg).
+condition: "hypertensive crisis (SBP > 180 mm Hg and/or DBP > 120 mm Hg)"
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.classification_and_management_of_blood_pressure_for_adults
+type: TableRow
+canonical_name: Table 9.6 — Classification and Management of Blood Pressure for Adults
+semantic_type: ReferenceTable
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 731
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: part_of
+    target: concept.hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+table_reference: "Table 9.6"
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.exercise_lowering_blood_pressure
+type: Evidence
+canonical_name: Evidence for Exercise Lowering Blood Pressure
+semantic_type: ClinicalEvidence
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 730
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: "A"
+relationships:
+  - predicate: supports
+    target: recommendation.aerobic_exercise_for_hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+evidence_text: >
+  Regular aerobic exercise lowers resting SBP and DBP by approximately 5–7 mm Hg and 4–6 mm Hg, respectively, in individuals with hypertension (Evidence Category A).
+---
+# ontology: knowledge-compiler/v1
+
+id: risk_factor.hypertension_as_cardiovascular_risk_factor
+type: RiskFactor
+canonical_name: Hypertension as a Cardiovascular Risk Factor
+semantic_type: CardiovascularRisk
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 9
+  chapter_title: ""
+  section: "9.13"
+  section_title: "Hypertension"
+  book_page: 729
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.hypertension
+definition: ""
+attributes: []
+purpose: []
+related_concepts: []
+risk_factor_text: >
+  Hypertension is a major risk factor for cardiovascular disease, stroke, and renal disease.
+associated_conditions:
+  - cardiovascular disease
+  - stroke
+  - renal disease

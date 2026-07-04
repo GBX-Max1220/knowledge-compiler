@@ -1,0 +1,49 @@
+id: concept.proprioception
+type: Concept
+canonical_name: Proprioception
+semantic_type: Physiological Process
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Proprioception
+  book_page: 65
+  pdf_page: 65
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: has_attribute
+  target: concept.muscle_spindles
+- predicate: has_attribute
+  target: concept.golgi_tendon_organs
+definition: 'Proprioceptors are specialized sensory receptors located within joints,
+  muscles, and tendons. Because these receptors are sensitive to pressure and tension,
+  they relay information concerning muscle dynamics to the conscious and subconscious
+  parts of the central nervous system. The brain is thus provided with information
+  concerning kinesthetic sense, or conscious appreciation of the position of body
+  parts with respect to gravity. Most of this proprioceptive information, however,
+  is processed at subconscious levels so we do not have to dedicate conscious activity
+  toward tasks such as maintaining posture or position of body parts. Proprioceptors
+  are specialized sensory receptors that provide the central nervous system with information
+  needed to maintain muscle tone and perform complex coordinated movements.
+
+  '
+attributes:
+- specialized sensory receptors
+- located within joints, muscles, and tendons
+- sensitive to pressure and tension
+- relays information concerning muscle dynamics
+- provides kinesthetic sense
+- processed at subconscious levels
+purpose:
+- maintain posture
+- maintain position of body parts
+- maintain muscle tone
+- perform complex coordinated movements
+related_concepts: []

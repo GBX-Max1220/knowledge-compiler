@@ -1,0 +1,565 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.articular_cartilage
+type: Concept
+canonical_name: Articular Cartilage
+semantic_type: AnatomicalStructure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 321
+  pdf_page: 321
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  tough form of cartilage found in the intervertebral disks of the spine and at the junctions where tendons attach to bone.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.chondrocytes
+type: Concept
+canonical_name: Chondrocytes
+semantic_type: Cell
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 321
+  pdf_page: 321
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships:
+  - predicate: part_of
+    target: concept.articular_cartilage
+
+definition: >
+  the healthy cells within cartilage, called chondrocytes
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.rate_pressure_product
+type: Concept
+canonical_name: Rate-Pressure Product
+semantic_type: PhysiologicalMeasure
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 324
+  pdf_page: 324
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  rate–pressure product (heart rate × systolic blood pressure; a measure of myocardial work)
+
+attributes:
+  - heart_rate
+  - systolic_blood_pressure
+
+purpose:
+  - measure myocardial work
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.chronic_changes_in_resting_hormonal_concentrations
+type: Evidence
+canonical_name: Chronic Changes in Resting Hormonal Concentrations
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 321
+  pdf_page: 321
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Chronic changes in resting hormone concentrations following anaerobic exercise are unlikely, with research providing inconclusive changes in testosterone, growth hormone, IGF-1, and cortisol over time (96).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.testosterone
+  - concept.growth_hormone
+  - concept.igf_1
+  - concept.cortisol
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.androgen_receptor_upregulation_after_resistance_training
+type: Evidence
+canonical_name: Androgen Receptor Upregulation After Resistance Training
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 322
+  pdf_page: 322
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Resistance training has been shown to upregulate AR content within 48 to 72 hours after the workout (73).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.androgen_receptor
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.androgen_receptor_downregulation_after_high_volume_protocol
+type: Evidence
+canonical_name: Androgen Receptor Downregulation After High-Volume Protocol
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 322
+  pdf_page: 322
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  the higher-volume protocol elicited significant downregulation of AR content 1 hour after the workout.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.androgen_receptor
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.protein_carbohydrate_supplement_attenuates_ar_downregulation
+type: Evidence
+canonical_name: Protein-Carbohydrate Supplement Attenuates AR Downregulation
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 323
+  pdf_page: 323
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Kraemer and colleagues (98) have shown that consumption of a protein–carbohydrate supplement before and after the workout attenuates this AR downregulation.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.androgen_receptor
+  - concept.protein_carbohydrate_supplement
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.resting_heart_rate_decrease_after_short_term_resistance_training
+type: Evidence
+canonical_name: Resting Heart Rate Decrease After Short-Term Resistance Training
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 324
+  pdf_page: 324
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Short-term resistance training has been shown to decrease resting heart rate between 5% and 12% (55).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.resting_heart_rate
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.resting_heart_rate_changes_in_chronically_resistance_trained_athletes
+type: Evidence
+canonical_name: Resting Heart Rate Changes in Chronically Resistance-Trained Athletes
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 324
+  pdf_page: 324
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In chronically resistance-trained athletes (e.g., bodybuilders, powerlifters, weightlifters), both average and lower-than-average resting heart rates (60-78 beats/min) have been reported compared to those in untrained individuals.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.resting_heart_rate
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.blood_pressure_decrease_after_resistance_training
+type: Evidence
+canonical_name: Blood Pressure Decrease After Resistance Training
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 324
+  pdf_page: 324
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A meta-analysis of resting blood pressure indicated that both systolic and diastolic blood pressure decreased by 2% to 4% as an adaptation to resistance training (85).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.systolic_blood_pressure
+  - concept.diastolic_blood_pressure
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.compatibility_of_aerobic_and_anaerobic_training_strength_gains
+type: Evidence
+canonical_name: Compatibility of Aerobic and Anaerobic Training — Strength Gains
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 327
+  pdf_page: 327
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Combining resistance and aerobic endurance training may interfere with strength and power gains, primarily if the aerobic endurance training is high in intensity, volume, or frequency and compromises resistance training quality (51, 76, 106).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.strength
+  - concept.power
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.compatibility_of_aerobic_and_anaerobic_training_aerobic_power
+type: Evidence
+canonical_name: Compatibility of Aerobic and Anaerobic Training — Aerobic Power
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 327
+  pdf_page: 327
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  most studies have shown no adverse effects on aerobic power resulting from heavy resistance exercise despite the expected cellular changes caused by this type of exercise (112).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.aerobic_power
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.muscle_fiber_type_iix_transformation_after_resistance_training
+type: Evidence
+canonical_name: Muscle Fiber Type IIx Transformation After Resistance Training
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 328
+  pdf_page: 328
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  the transformation of type IIx to type IIa fibers was almost complete in the S group (19.1%±7.9% type IIx before training to 1.9%±0.8% after training) and C group (14.11%±7.2% before to 1.6%±0.8% after).
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.muscle_fiber_type_iix
+  - concept.muscle_fiber_type_iia
+---
+# ontology: knowledge-compiler/v1
+
+id: evidence.simultaneous_strength_and_endurance_training_fiber_size_changes
+type: Evidence
+canonical_name: Simultaneous Strength and Endurance Training — Fiber Size Changes
+semantic_type: ResearchFinding
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 329
+  pdf_page: 329
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The C group increased muscle size only in type IIa fibers, while the S group demonstrated increases in type I, IIc, and IIa fibers.
+
+attributes: []
+
+purpose: []
+
+related_concepts:
+  - concept.muscle_fiber_type_i
+  - concept.muscle_fiber_type_iic
+  - concept.muscle_fiber_type_iia
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.recovery_period_between_concurrent_training_sessions
+type: Recommendation
+canonical_name: Recovery Period Between Concurrent Training Sessions
+semantic_type: TrainingGuideline
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 5
+  chapter_title: "Endocrine Responses to Anaerobic Training"
+  section: "5.4"
+  section_title: "Endocrine Responses to Anaerobic Training"
+  book_page: 329
+  pdf_page: 329
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  increasing the recovery period between workouts may decrease the incompatibility, a principle supported by the literature (173, 126).
+
+attributes: []
+
+purpose:
+  - decrease incompatibility between concurrent training
+
+related_concepts: []

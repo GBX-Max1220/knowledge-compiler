@@ -1,0 +1,31 @@
+id: threshold.cvd_risk_factors
+type: Threshold
+canonical_name: CVD Risk Factor Thresholds
+semantic_type: Range
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Preparticipation Evaluation
+  section: '2.11'
+  section_title: Medical History and CVD Risk Factor Assessment
+  book_page: 150
+  pdf_page: 150
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+metric: CVD Risk Factors
+range: null
+unit: null
+population: Adults
+condition: ACSM Risk Stratification
+numerical_value: []
+numerical_max: []
+comparison_operator: null
+extra: 'Age: Men ≥45, Women ≥55 | Smoking: current or quit <6mo | Physical inactivity:
+  not meeting PA guidelines | Obesity: BMI ≥30 or waist >102/88 cm | Hypertension:
+  SBP ≥130/DBP ≥80 | Dyslipidemia: LDL ≥130 or HDL <40 | Prediabetes: FBG ≥100'

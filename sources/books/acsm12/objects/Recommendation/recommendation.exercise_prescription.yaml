@@ -1,0 +1,11 @@
+id: recommendation.exercise_prescription
+type: Recommendation
+canonical_name: Exercise Prescription (Recommendation)
+semantic_type: Entity
+source:
+  book: ACSM Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  section: '1.0'
+  book_page: 1
+definition: Exercise Prescription is a concept in exercise science.

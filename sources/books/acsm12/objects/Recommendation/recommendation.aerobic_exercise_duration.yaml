@@ -1,0 +1,29 @@
+id: recommendation.aerobic_exercise_duration
+type: Recommendation
+canonical_name: Aerobic Exercise Duration Recommendation
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.14'
+  section_title: Time (Duration) of Aerobic Exercise
+  book_page: 357
+  pdf_page: 357
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A total of 30–60 min·d−1 of purposeful moderate aerobic exercise, or
+  20–60 min·d−1 of vigorous aerobic exercise, or a combination of moderate and vigorous
+  exercise performed on most days of the week is recommended for most adults.
+
+  '
+attributes: []
+purpose:
+- most adults
+related_concepts: []

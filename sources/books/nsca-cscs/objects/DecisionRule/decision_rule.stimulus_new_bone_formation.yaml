@@ -1,0 +1,13 @@
+id: decision_rule.stimulus_new_bone_formation
+type: DecisionRule
+canonical_name: Stimulus for New Bone Formation
+aliases: []
+source:
+  book: Essentials of Strength and Conditioning
+  edition: 4
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5.1'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 311
+  pdf_page: null

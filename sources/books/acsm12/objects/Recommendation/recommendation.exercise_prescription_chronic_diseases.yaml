@@ -1,0 +1,43 @@
+id: recommendation.exercise_prescription_chronic_diseases
+type: Recommendation
+canonical_name: Exercise Prescription for Individuals with Chronic Diseases and Health
+  Conditions
+semantic_type: Clinical Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Exercise Prescription for Individuals with Chronic Diseases and Health
+    Conditions
+  section: '10.34'
+  section_title: Exercise Prescription
+  book_page: 855
+  pdf_page: 855
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.chronic_disease
+- predicate: used_for
+  target: concept.health_condition
+definition: 'The exercise prescription for individuals with chronic diseases and health
+  conditions should follow the general principles outlined in Chapter 7 (see Table
+  7.1) and be individualized based on the patient''s health status, medications, and
+  response to exercise. The FITT-VP principle (Frequency, Intensity, Time, Type, Volume,
+  and Progression) should be used to guide the prescription.
+
+  '
+attributes:
+- individualized
+- based_on_health_status
+- based_on_medications
+- based_on_response_to_exercise
+purpose:
+- guide exercise prescription for chronic disease populations
+related_concepts:
+- concept.fitt_vp_principle
+- concept.chapter_7_principles

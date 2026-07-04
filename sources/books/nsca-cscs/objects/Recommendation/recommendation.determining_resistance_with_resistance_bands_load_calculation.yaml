@@ -1,0 +1,34 @@
+id: recommendation.determining_resistance_with_resistance_bands_load_calculation
+type: Recommendation
+canonical_name: Determining Resistance With Resistance Bands — Load Calculation
+semantic_type: Load Calculation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Core Stability and Balance Training
+  section: '17.2'
+  section_title: Core Stability and Balance Training
+  book_page: 1109
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'Based on the recommendations of Baker (8), an athlete who wants
+  to train at a 5RM load of 150 kilograms (331 lb) with bands would subtract the average
+  of the two band positions (i.e., top and bottom) and reduce the load on the bar
+  by that amount. So if the band exerts a zero resistance load at the bottom of the
+  movement and a load of 26.6 kilograms (58.6 lb) at the top position (i.e., lockout
+  in the bench press), based on the length of the band achieved as it is stretched,
+  the athlete would subtract 13.3 kilograms (29.3 lb) from the total weight on the
+  bar without the bands to get 136 to 137 kilograms (300-302 lb).
+
+  '
+conditions:
+- athlete wants to train at a 5RM load of 150 kilograms (331 lb) with bands
+citations:
+- Baker (8)

@@ -1,0 +1,29 @@
+id: concept.fitness_fatigue_paradigm
+type: Concept
+canonical_name: Fitness–Fatigue Paradigm
+semantic_type: Theory
+aliases:
+- two-factor model
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1585
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'In 1995, Zatsiorsky (106) presented the classic explanation of these
+  relationships as the two-factor model, more commonly referred to as the fitness–fatigue
+  paradigm (figure 22.4).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

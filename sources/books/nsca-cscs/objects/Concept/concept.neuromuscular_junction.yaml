@@ -1,0 +1,32 @@
+id: concept.neuromuscular_junction
+type: Concept
+canonical_name: Neuromuscular Junction
+semantic_type: AnatomicalStructure
+aliases:
+- NMJ
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Adaptations to Anaerobic Training
+  section: '5'
+  section_title: Adaptations to Anaerobic Training
+  book_page: 293
+  pdf_page: 293
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The neuromuscular junction (NMJ) is the interface between the nerve and
+  the skeletal muscle fibers, and it represents another potential site for neural
+  adaptation following anaerobic training (42, 43).
+
+  '
+attributes:
+- interface
+- nerve
+- skeletal_muscle_fiber
+purpose: []
+related_concepts: []

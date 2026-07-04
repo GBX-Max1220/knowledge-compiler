@@ -1,0 +1,36 @@
+id: threshold.osteopenia_bone_mineral_density
+type: Threshold
+canonical_name: Osteopenia Bone Mineral Density
+semantic_type: Diagnostic
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 7
+  chapter_title: Age-Related Differences and Their Implications for Resistance Training
+  section: '7.1'
+  section_title: Age-Related Differences and Their Implications for Resistance Training
+  book_page: 418
+  pdf_page: 418
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.osteoporosis_bone_mineral_density
+definition: 'Osteopenia is defined by a bone mineral density between −1 and −2.5 standard
+  deviations (SD) of the young adult mean
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.osteopenia
+value:
+  type: range
+  unit: standard deviations (SD) of the young adult mean
+  min: -2.5
+  max: -1
+  operator: between

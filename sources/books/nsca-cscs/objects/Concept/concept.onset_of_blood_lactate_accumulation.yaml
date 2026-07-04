@@ -1,0 +1,28 @@
+id: concept.onset_of_blood_lactate_accumulation
+type: Concept
+canonical_name: Onset of Blood Lactate Accumulation
+semantic_type: PhysiologicalMeasure
+aliases:
+- OBLA
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Adaptations to Aerobic Endurance Training
+  section: '6'
+  section_title: Adaptations to Aerobic Endurance Training
+  book_page: 346
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The onset of blood lactate accumulation (OBLA) (see chapter 3) occurs
+  at a higher percentage (up to 80%-90%) of the trained athlete''s aerobic capacity.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

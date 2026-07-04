@@ -1,0 +1,32 @@
+id: procedure.inverted_hamstring_stretch
+type: Procedure
+canonical_name: Inverted Hamstring Stretch
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 15
+  chapter_title: Program Design Considerations
+  section: '15.4'
+  section_title: Program Design Considerations
+  book_page: 934
+  pdf_page: 934
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Stand tall and take a small step forward with the left leg. Flex at the
+  waist. Reach forward with the left arm and simultaneously reach back with the right
+  leg. Try to keep the hips square. Reach a position in which you feel a stretch in
+  the hamstrings but eventually aim to attain a position in which the body is parallel
+  to the floor. Reach the right hand down toward the floor. Return to the start by
+  actively using the hamstrings and gluteals of the planted leg. Take a step forward
+  and repeat on the other side.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,33 @@
+id: formula.potential_energy
+type: Formula
+canonical_name: Potential Energy
+semantic_type: Formula
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Human Strength and Power
+  section: '2.3'
+  section_title: Human Strength and Power
+  book_page: 129
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+expression: Potential energy = m × g × h
+variables:
+- name: m
+  description: mass
+- name: g
+  description: acceleration due to gravity
+- name: h
+  description: height
+equation_number: '2.3'

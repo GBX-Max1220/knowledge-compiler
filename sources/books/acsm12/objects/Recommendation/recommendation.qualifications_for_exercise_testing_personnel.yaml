@@ -1,0 +1,34 @@
+id: recommendation.qualifications_for_exercise_testing_personnel
+type: Recommendation
+canonical_name: Qualifications for Exercise Testing Personnel
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 4
+  chapter_title: Health Screening and Risk Stratification
+  section: '4.4'
+  section_title: Testing Staff
+  book_page: 279
+  pdf_page: 279
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'The exercise test should be administered by a properly trained health
+  care professional. The American College of Sports Medicine (ACSM) recommends that
+  the individual who administers the exercise test be at a minimum certified as an
+  ACSM Certified Clinical Exercise Physiologist® (ACSM-CEP) or an ACSM Registered
+  Clinical Exercise Physiologist® (ACSM-RCEP). Physicians who administer exercise
+  tests should have training in exercise testing commensurate with the level of testing
+  being performed.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.acsm_certified_clinical_exercise_physiologist
+- concept.acsm_registered_clinical_exercise_physiologist

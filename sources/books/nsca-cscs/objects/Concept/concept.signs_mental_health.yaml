@@ -1,0 +1,26 @@
+id: concept.signs_mental_health
+type: Concept
+canonical_name: Signs (in Mental Health Context)
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 506
+  pdf_page: 506
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Signs are observable outcomes that can be readily assessed by the coach.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,26 @@
+id: concept.msi_prevalence
+type: Concept
+canonical_name: MSI Prevalence
+semantic_type: Entity
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.8'
+  section_title: Exercise-Related Musculoskeletal Injury
+  book_page: 89
+  pdf_page: 89
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: In 2014, over 6.3 million Americans received medical attention for sport-related
+  MSI, with the highest rates found in individuals 12–17 years (83 injury episodes
+  per 1,000 population) and 18–44 years (22 injury episodes per 1,000 population).
+attributes: []
+purpose: []
+related_concepts: []

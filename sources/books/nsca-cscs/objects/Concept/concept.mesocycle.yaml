@@ -1,0 +1,28 @@
+id: concept.mesocycle
+type: Concept
+canonical_name: Mesocycle
+semantic_type: TrainingCycle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 22
+  chapter_title: Periodization
+  section: Chapter 22
+  section_title: Periodization
+  book_page: 1591
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Within each macrocycle are mesocycles, each lasting several weeks to
+  months, typically two to six weeks, with four weeks being the most common duration.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.macrocycle

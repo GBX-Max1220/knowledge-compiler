@@ -1,0 +1,33 @@
+id: table_row.resistance_time
+type: TableRow
+canonical_name: Resistance Time
+semantic_type: Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 6
+  chapter_title: Exercise Prescription
+  section: '6.19'
+  section_title: Exercise Prescription
+  book_page: 477
+  pdf_page: 477
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'For resistance exercise training, the general recommendation for time
+  (rest intervals) is 2–3 minutes between sets for heavy loads (85% 1-RM or greater)
+  and 1–2 minutes for moderate loads (70–85% 1-RM).
+
+  '
+attributes:
+- time
+- resistance
+purpose:
+- guide exercise prescription
+related_concepts:
+- concept.muscular_strength
+- concept.muscular_endurance

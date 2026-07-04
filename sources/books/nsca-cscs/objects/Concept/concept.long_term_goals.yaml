@@ -1,0 +1,27 @@
+id: concept.long_term_goals
+type: Concept
+canonical_name: Long-Term Goals
+semantic_type: Concept
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 9
+  chapter_title: Motivation
+  section: '9.4'
+  section_title: Motivation
+  book_page: 501
+  pdf_page: 501
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Long-term goals are those that overarch the series of linked short-term
+  goals.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

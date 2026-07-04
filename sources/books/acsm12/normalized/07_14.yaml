@@ -1,0 +1,155 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.clothing_considerations_for_exercise_in_heat
+type: Recommendation
+canonical_name: Clothing Considerations for Exercise in Heat
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: ""
+  section: "7.14"
+  section_title: "Clothing Considerations"
+  book_page: 546
+  pdf_page: 546
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Clothing can significantly influence the ability to thermoregulate during exercise in the heat. Clothing that is lightweight, loose fitting, and light colored is recommended to facilitate heat loss during exercise in the heat.
+
+attributes:
+  - lightweight
+  - loose_fitting
+  - light_colored
+
+purpose:
+  - facilitate heat loss during exercise in the heat
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.clothing_considerations_for_exercise_in_cold
+type: Recommendation
+canonical_name: Clothing Considerations for Exercise in Cold
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: ""
+  section: "7.14"
+  section_title: "Clothing Considerations"
+  book_page: 546
+  pdf_page: 546
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In the cold, clothing should be worn in layers to trap warm air and provide insulation. The layer next to the skin should be made of a material that wicks moisture away from the skin (e.g., polypropylene) rather than cotton, which retains moisture and can increase heat loss.
+
+attributes:
+  - layered
+  - moisture_wicking_material_next_to_skin
+
+purpose:
+  - trap warm air
+  - provide insulation
+  - wick moisture away from the skin
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.clothing_considerations_for_exercise_in_rain_or_wind
+type: Recommendation
+canonical_name: Clothing Considerations for Exercise in Rain or Wind
+semantic_type: Recommendation
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: ""
+  section: "7.14"
+  section_title: "Clothing Considerations"
+  book_page: 546
+  pdf_page: 546
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  An outer layer that is wind and water resistant should be worn in rainy or windy conditions.
+
+attributes:
+  - wind_resistant_outer_layer
+  - water_resistant_outer_layer
+
+purpose:
+  - protection in rainy or windy conditions
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.risk_of_hypothermia_from_wet_clothing
+type: Warning
+canonical_name: Risk of Hypothermia from Wet Clothing
+semantic_type: Warning
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 7
+  chapter_title: ""
+  section: "7.14"
+  section_title: "Clothing Considerations"
+  book_page: 546
+  pdf_page: 546
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Wet clothing significantly increases heat loss and can increase the risk of hypothermia.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

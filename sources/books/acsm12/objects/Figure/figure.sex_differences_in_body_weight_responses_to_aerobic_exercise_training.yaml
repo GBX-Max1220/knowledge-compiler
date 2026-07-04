@@ -1,0 +1,26 @@
+id: figure.sex_differences_in_body_weight_responses_to_aerobic_exercise_training
+type: Figure
+canonical_name: Sex Differences in Body Weight Responses to Aerobic Exercise Training
+semantic_type: Figure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.9'
+  section_title: Sex Differences in Body Weight Responses to Aerobic Exercise Training
+  book_page: 342
+  pdf_page: 342
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Figure 5.9
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

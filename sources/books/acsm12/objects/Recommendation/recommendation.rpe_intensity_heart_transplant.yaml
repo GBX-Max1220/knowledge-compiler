@@ -1,0 +1,38 @@
+id: recommendation.rpe_intensity_heart_transplant
+type: Recommendation
+canonical_name: Exercise Intensity Guidance Using RPE for Heart Transplant Recipients
+semantic_type: ClinicalGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.30'
+  section_title: Special Considerations
+  book_page: 610
+  pdf_page: 610
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: used_for
+  target: concept.heart_transplant_recipients
+definition: 'RPE of 11–14 on the Borg 6–20 scale is recommended.
+
+  '
+attributes:
+- rating_of_perceived_exertion
+- borg_6_20_scale
+purpose:
+- guide exercise intensity for heart transplant recipients
+related_concepts:
+- threshold.resting_heart_rate_heart_transplant
+- recommendation.exercise_prescription_heart_transplant
+- warning.delayed_heart_rate_response_heart_transplant
+value:
+  numeric: 11-14
+  unit: Borg 6-20 scale
+  qualifier: range

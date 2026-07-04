@@ -1,0 +1,29 @@
+id: concept.fartlek_training
+type: Concept
+canonical_name: Fartlek Training
+semantic_type: Training_Method
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 21
+  chapter_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  section: '21'
+  section_title: Program Design and Technique for Aerobic Endurance and Metabolic
+    Training
+  book_page: 1541
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Fartlek training (the word Fartlek originates from the Swedish term for
+  speed play) is a combination of several of the previously mentioned types of training.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

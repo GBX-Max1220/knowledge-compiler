@@ -1,0 +1,54 @@
+id: procedure.drop_step_to_lateral_bound_and_return
+type: Procedure
+canonical_name: Drop Step to Lateral Bound and Return
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 20
+  chapter_title: Program Design and Technique for Speed and Agility Training
+  section: '20'
+  section_title: Program Design and Technique for Speed and Agility Training
+  book_page: 1342
+  pdf_page: 1342
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'An exercise drill involving a drop step from a plyometric box followed
+  by a lateral bound and return, with high intensity.
+
+  '
+attributes:
+- intensity_level: High
+- direction: Lateral and vertical
+- arm_action: None
+- equipment: Plyometric box, 6 to 18 inches (15-46 cm) high
+purpose:
+- perform a lateral bound and return
+related_concepts: []
+steps:
+- step_number: 1
+  description: Get into a comfortable, upright stance with feet hip-width apart on
+    the plyometric box; toes should be near the edge of the box.
+- step_number: 2
+  description: Step from the box with the right foot, ankles dorsiflexed.
+- step_number: 3
+  description: Land on the ground with active flat foot contact in the right foot.
+- step_number: 4
+  description: Immediately push up and sideways toward the left. Land on the left
+    foot and immediately push back toward the right.
+- step_number: 5
+  description: Land on the right foot in front of the box and immediately stabilize
+    the landing, with hips and knees aligned with toes.
+common_errors:
+- Not orienting the body in landing to facilitate optimal lateral takeoff
+- Absorbing the landing force through excessive hip and knee flexion, prolonging the
+  ground contact time
+- Crossing the foot of the non-landing leg behind the landing leg
+notes:
+- The trunk orientation should change in the flight so that the athlete is leaning
+  toward the intended direction of travel into the landing.

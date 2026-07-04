@@ -1,0 +1,25 @@
+id: table_row.major_characteristics_of_muscle_fiber_types_type_i_recruitment_threshold
+type: TableRow
+canonical_name: Major Characteristics of Muscle Fiber Types Type I Recruitment Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: Muscle Fiber Types
+  section_title: Muscle Fiber Types
+  book_page: 61
+  pdf_page: 61
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+table_name: Table 1.1 — Major Characteristics of Muscle Fiber Types
+row_data:
+  Characteristic: Recruitment threshold
+  Type I: Low
+  Type IIa: Intermediate/high
+  Type IIx: High

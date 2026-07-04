@@ -1,0 +1,27 @@
+id: threshold.mip.respiratory_muscle_weakness
+type: Threshold
+canonical_name: Maximal Inspiratory Pressure Threshold for Respiratory Muscle Weakness
+semantic_type: Threshold
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 8
+  chapter_title: ''
+  section: '8.46'
+  section_title: Respiratory Muscle Testing and Training
+  book_page: 660
+  pdf_page: 660
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A MIP less than −60 cm H2O is generally considered to indicate respiratory
+  muscle weakness.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

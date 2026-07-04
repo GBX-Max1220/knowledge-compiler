@@ -1,0 +1,26 @@
+id: concept.oxidative_system
+type: Concept
+canonical_name: Oxidative System
+semantic_type: EnergySystem
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Biological Energy Systems
+  section_title: Biological Energy Systems
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Oxidative
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

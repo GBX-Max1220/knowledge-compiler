@@ -1,0 +1,532 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.sickle_cell_trait
+type: Concept
+canonical_name: Sickle Cell Trait
+semantic_type: MedicalCondition
+aliases: [SCT]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1669
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The sickle cell trait (SCT) is an inherited condition characterized by one abnormal hemoglobin gene and one normal hemoglobin gene.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.heat_cramps
+type: Concept
+canonical_name: Heat Cramps
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1670
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Heat cramps are muscle spasms or involuntary sustained contractions of large muscle groups that may occur when the athlete is exposed to elevated environmental temperatures during exercise.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.heat_syncope
+type: Concept
+canonical_name: Heat Syncope
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1671
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Heat syncope occurs when an athlete experiences dizziness or lightheadedness and faints during or immediately after training (12).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.heat_exhaustion
+type: Concept
+canonical_name: Heat Exhaustion
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1671
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Heat exhaustion is the inability to effectively exercise in the heat.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.heatstroke
+type: Concept
+canonical_name: Heatstroke
+semantic_type: MedicalCondition
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1672
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.heat_exhaustion
+definition: >
+  Heatstroke, a progression of heat exhaustion, is considered a medical emergency (12, 58).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cold_exposure
+type: Concept
+canonical_name: Cold Exposure
+semantic_type: MedicalCondition
+aliases: [Hypothermia]
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1673
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cold exposure, or hypothermia, occurs when the body's temperature drops below 95 °F (35 °C), causing the physiological systems to reduce functions and eventually shut down (18, 50).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.hypothermia_core_temperature
+type: Threshold
+canonical_name: Hypothermia Core Temperature Threshold
+semantic_type: Temperature
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1673
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Cold exposure, or hypothermia, occurs when the body's temperature drops below 95 °F (35 °C), causing the physiological systems to reduce functions and eventually shut down (18, 50).
+attributes: []
+purpose: []
+related_concepts: []
+condition: "body temperature drops below 95 °F (35 °C)"
+value: "95 °F (35 °C)"
+operator: "<"
+unit: "°F (°C)"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.cardiovascular_failure_core_temperature
+type: Threshold
+canonical_name: Cardiovascular Failure Core Temperature Threshold
+semantic_type: Temperature
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1673
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  core temperature less than 89.6 °F (32 °C) may lead to cardiovascular failure (18).
+attributes: []
+purpose: []
+related_concepts: []
+condition: "core temperature less than 89.6 °F (32 °C)"
+value: "89.6 °F (32 °C)"
+operator: "<"
+unit: "°F (°C)"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.heatstroke_lethal_core_temperature
+type: Threshold
+canonical_name: Heatstroke Lethal Core Temperature Threshold
+semantic_type: Temperature
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1672
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  core body temperatures in excess of 109.4 °F (43 °C) have been associated with death.
+attributes: []
+purpose: []
+related_concepts: []
+condition: "core body temperatures in excess of 109.4 °F (43 °C)"
+value: "109.4 °F (43 °C)"
+operator: ">"
+unit: "°F (°C)"
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.heat_exhaustion_core_temperature
+type: Threshold
+canonical_name: Heat Exhaustion Core Temperature Threshold
+semantic_type: Temperature
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1671
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  elevated core temperature up to 104.9 °F (40.5 °C) (12, 58).
+attributes: []
+purpose: []
+related_concepts: []
+condition: "elevated core temperature up to 104.9 °F (40.5 °C)"
+value: "104.9 °F (40.5 °C)"
+operator: "<="
+unit: "°F (°C)"
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.prevention_of_rhabdomyolysis
+type: Recommendation
+canonical_name: Prevention of Rhabdomyolysis
+semantic_type: Prevention
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1669
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Prevention of rhabdomyolysis is best achieved by proper exercise prescription. Avoidance of excessive or unaccustomed exercise intensity, volume, and duration as well as consideration of baseline fitness levels before engaging in new exercise serves as a key preventative measure.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.management_of_sickle_cell_trait_symptoms
+type: Recommendation
+canonical_name: Management of Sickle Cell Trait Symptoms
+semantic_type: Management
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1669
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Should an individual develop symptoms of sickling, they should immediately discontinue physical activity and be removed from extreme temperature environments. Owing to potential dehydration, proper hydration protocols should be implemented immediately (95). Immediate referral to a medical professional is indicated if acute symptoms are present.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.key_prevention_strategies_for_sickle_cell_trait
+type: Recommendation
+canonical_name: Key Prevention Strategies for Sickle Cell Trait
+semantic_type: Prevention
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1670
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Key prevention strategies for SCT involve awareness of triggers for sickling, education, preventive measures, and regular medical follow-up. Testing for SCT is recommended among athletes and those engaged in intense training because SCT has been associated with sudden death in individuals during extreme exertion. Intense physical activity should be approached with caution, especially in extreme conditions or high altitudes, to reduce the potential for sickling (81). For individuals with the SCT who engage in exercise training, proper climate acclimatization, training intensity considerations to stay at or below the anaerobic threshold, and an active cool-down to promote lactate clearance will serve as a reasonable preventative strategy (68, 80).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.management_of_heat_cramps
+type: Recommendation
+canonical_name: Management of Heat Cramps
+semantic_type: Management
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1670
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  When heat cramps are suspected, immediate cessation of activity and moving the athlete to a cooler environment to lower body temperature is a necessity. Implementing proper rehydration is essential as are appropriate cooling measures. Passive gentle stretching or massage to affected muscle groups may be beneficial (58).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.prevention_of_heat_cramps
+type: Recommendation
+canonical_name: Prevention of Heat Cramps
+semantic_type: Prevention
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1670
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Heat cramps may be prevented by proper hydration protocols, use of light-weight clothing when exercising in hot environments, and appropriate progressive conditioning in the specific training environment to allow heat acclimation (58).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.management_of_heat_syncope
+type: Recommendation
+canonical_name: Management of Heat Syncope
+semantic_type: Management
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1671
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  When syncope is suspected or fainting occurs it is important to lay the athlete in a supine position and elevate the legs above the level of the heart. If fainting has occurred, monitoring of vital signs and shielding of the body from direct heat exposure is recommended. Once appropriate, proper oral rehydration is necessary.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.prevention_of_heat_syncope
+type: Recommendation
+canonical_name: Prevention of Heat Syncope
+semantic_type: Prevention
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1671
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Prevention strategies include proper acclimation to training in hot environments and ensuring proper hydration before, during, and after training. If low blood pressure or frequent syncope occurs despite preventative efforts, medical consultation is necessary.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.management_of_heat_exhaustion
+type: Recommendation
+canonical_name: Management of Heat Exhaustion
+semantic_type: Management
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 23
+  chapter_title: "Medical Conditions"
+  section: "23.5"
+  section_title: "Medical Conditions"
+  book_page: 1671
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  If heat exhaustion is recognized, immediately remove the athlete from the hot environment and, once appropriate, restore oral rehydration. If oral rehydration is not possible due to nausea, parenteral (non-oral method such as intravenous) rehydration may be considered (58). Aggressive cooling measures should be implemented such as forced air conduction or spraying of lukewarm water to cool the body (58). In cases where these measures are not effective, total body cooling in an ice bath may be indicated (12). It is important to immediately respond to symptoms of heat exhaustion to avoid progression to heatstroke.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: recommendation.prevention_of_heat_exhaustion
+type: Recommendation
+canonical_name: Prevention of Heat Exhaustion
+semantic_type: Prevention
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition:

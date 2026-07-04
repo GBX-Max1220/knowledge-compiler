@@ -1,0 +1,24 @@
+id: table_row.units_of_measure_and_conversions
+type: TableRow
+canonical_name: Units of Measure and Conversions
+semantic_type: Reference_Table
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 2
+  chapter_title: Human Strength and Power
+  section: '2.2'
+  section_title: Human Strength and Power
+  book_page: 131
+  pdf_page: 131
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: TABLE 2.1  Units of Measure and Conversions
+attributes: []
+purpose: []
+related_concepts: []

@@ -1,0 +1,34 @@
+id: concept.met
+type: Concept
+canonical_name: MET
+semantic_type: Entity
+aliases:
+- Metabolic Equivalent
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Physical Activity and Fitness Terminology
+  book_page: 71
+  pdf_page: 71
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'A practical, convenient, and standardized method for quantifying the
+  intensity of various behaviors and activities. One MET is equivalent to resting
+  metabolic rate (~3.5 mL · kg⁻¹ · min⁻¹) or the amount of oxygen consumed while sitting
+  at rest.
+
+  '
+attributes: []
+purpose:
+- quantify intensity of behaviors and activities
+related_concepts:
+- threshold.met.light
+- threshold.met.moderate
+- threshold.met.vigorous

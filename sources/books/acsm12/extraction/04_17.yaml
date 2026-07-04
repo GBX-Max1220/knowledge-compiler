@@ -1,0 +1,2093 @@
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Threshold 1 (VT1) Definition  
+
+PAGE  
+306  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The first ventilatory threshold (VT1) is the point at which ventilation increases disproportionately relative to oxygen consumption (V̇O2).  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Threshold 2 (VT2) Definition  
+
+PAGE  
+306  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The second ventilatory threshold (VT2) is the point at which ventilation increases disproportionately relative to carbon dioxide production (V̇CO2).  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Respiratory Exchange Ratio (RER) Thresholds  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An RER value of 1.0 is often used as a threshold for maximal effort, while an RER value of 1.15 or greater is considered a criterion for achieving a true maximal effort.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Table  
+
+TITLE  
+Table 4.5 — Normal Values for Cardiopulmonary Exercise Testing  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+Table 4.5 presents normal values for various cardiopulmonary exercise testing variables, including peak V̇O2, V̇E/V̇CO2 slope, and oxygen pulse.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope greater than 34 is considered abnormal and is associated with increased mortality in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A low oxygen pulse (less than 8 mL/beat) at peak exercise is indicative of impaired cardiac function.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak Respiratory Exchange Ratio (RER) Threshold for Maximal Effort  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak RER of 1.10 or greater is commonly used as a criterion for achieving a maximal effort during cardiopulmonary exercise testing.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Anaerobic Threshold (AT) Definition  
+
+PAGE  
+306  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The anaerobic threshold (AT) is defined as the highest V̇O2 during exercise above which a sustained lactic acidosis occurs.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Equivalent for Oxygen (V̇E/V̇O2) Threshold  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇O2 ratio greater than 40 at the anaerobic threshold is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Equivalent for Carbon Dioxide (V̇E/V̇CO2) Threshold  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 ratio greater than 34 at the anaerobic threshold is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Reserve (HRR) Threshold  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate reserve (HRR) of less than 12 beats/min is considered abnormal and is associated with increased mortality.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Uptake Efficiency Slope (OUES) Threshold  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen uptake efficiency slope (OUES) of less than 1.4 L/min is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Prognosis  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 14 mL/kg/min is associated with increased mortality in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Threshold (VT) Detection Method  
+
+PAGE  
+306  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+VT1 is detected using the V-slope method, which identifies the point at which V̇CO2 increases disproportionately relative to V̇O2.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Respiratory Compensation Point (RCP) Definition  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The respiratory compensation point (RCP) is the point at which ventilation increases disproportionately relative to V̇CO2, marking the onset of hyperventilation.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Equivalent Method for VT1 Detection  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+VT1 is also identified as the point at which the ventilatory equivalent for oxygen (V̇E/V̇O2) increases without a corresponding increase in the ventilatory equivalent for carbon dioxide (V̇E/V̇CO2).  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Equivalent Method for VT2 Detection  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+VT2 is identified as the point at which both V̇E/V̇O2 and V̇E/V̇CO2 increase simultaneously.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+End-Tidal Partial Pressure of Oxygen (PETO2) Threshold  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A PETO2 of less than 100 mm Hg at peak exercise is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+End-Tidal Partial Pressure of Carbon Dioxide (PETCO2) Threshold  
+
+PAGE  
+307  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A PETCO2 of less than 30 mm Hg at peak exercise is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse (O2 Pulse) Definition  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+Oxygen pulse (O2 pulse) is defined as the amount of oxygen delivered per heartbeat, calculated as V̇O2 divided by heart rate.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Efficiency (V̇E/V̇CO2 Slope) Definition  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+Ventilatory efficiency is assessed by the V̇E/V̇CO2 slope, which represents the relationship between ventilation and carbon dioxide production.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery (HRR) Threshold  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery (HRR) of less than 12 beats/min at 1 minute post-exercise is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Chronotropic Incompetence Definition  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+Chronotropic incompetence is defined as the inability to achieve 85% of the age-predicted maximal heart rate.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Blood Pressure Response Threshold  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A systolic blood pressure of greater than 250 mm Hg or a diastolic blood pressure of greater than 115 mm Hg during exercise is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Rate Pressure Product (RPP) Definition  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The rate pressure product (RPP) is defined as the product of heart rate and systolic blood pressure, and a value of less than 25,000 is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Uptake Efficiency Slope (OUES) Definition  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The oxygen uptake efficiency slope (OUES) is defined as the slope of the relationship between V̇O2 and the logarithm of ventilation.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Ventilatory Power Definition  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+Ventilatory power is defined as the product of peak V̇O2 and the V̇E/V̇CO2 slope, and a value of less than 1.5 is considered abnormal.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation (EOV) Definition  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+Exercise oscillatory ventilation (EOV) is defined as cyclic fluctuations in ventilation during exercise, and its presence is associated with increased mortality.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 10 mL/kg/min is associated with the poorest prognosis in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 45 is associated with the poorest prognosis in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Transplant Candidacy  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 14 mL/kg/min is a criterion for heart transplant candidacy in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Transplant Candidacy  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 34 is a criterion for heart transplant candidacy in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Transplant Candidacy  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 8 mL/beat at peak exercise is a criterion for heart transplant candidacy in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Transplant Candidacy  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 12 beats/min at 1 minute post-exercise is a criterion for heart transplant candidacy in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Transplant Candidacy  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is a criterion for heart transplant candidacy in patients with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Severity Classification  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of 14–16 mL/kg/min is considered mild, 10–14 mL/kg/min is considered moderate, and less than 10 mL/kg/min is considered severe heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Severity Classification  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of 30–34 is considered mild, 34–45 is considered moderate, and greater than 45 is considered severe heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Severity Classification  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of 8–10 mL/beat is considered mild, 6–8 mL/beat is considered moderate, and less than 6 mL/beat is considered severe heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Severity Classification  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of 12–15 beats/min is considered mild, 8–12 beats/min is considered moderate, and less than 8 beats/min is considered severe heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Severity Classification  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is considered a marker of severe heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Women  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 12 mL/kg/min is associated with increased mortality in women with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis in Women  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 36 is associated with increased mortality in women with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Prognosis in Women  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 7 mL/beat at peak exercise is associated with increased mortality in women with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Prognosis in Women  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 10 beats/min at 1 minute post-exercise is associated with increased mortality in women with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Prognosis in Women  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is associated with increased mortality in women with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Men  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 14 mL/kg/min is associated with increased mortality in men with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis in Men  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 34 is associated with increased mortality in men with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Prognosis in Men  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 8 mL/beat at peak exercise is associated with increased mortality in men with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Prognosis in Men  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 12 beats/min at 1 minute post-exercise is associated with increased mortality in men with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Prognosis in Men  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is associated with increased mortality in men with heart failure.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Patients with Preserved Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 14 mL/kg/min is associated with increased mortality in patients with heart failure with preserved ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis in Patients with Preserved Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 34 is associated with increased mortality in patients with heart failure with preserved ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Prognosis in Patients with Preserved Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 8 mL/beat at peak exercise is associated with increased mortality in patients with heart failure with preserved ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Prognosis in Patients with Preserved Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 12 beats/min at 1 minute post-exercise is associated with increased mortality in patients with heart failure with preserved ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Prognosis in Patients with Preserved Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is associated with increased mortality in patients with heart failure with preserved ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Patients with Reduced Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 10 mL/kg/min is associated with increased mortality in patients with heart failure with reduced ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis in Patients with Reduced Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 45 is associated with increased mortality in patients with heart failure with reduced ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Prognosis in Patients with Reduced Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 6 mL/beat at peak exercise is associated with increased mortality in patients with heart failure with reduced ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Prognosis in Patients with Reduced Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 8 beats/min at 1 minute post-exercise is associated with increased mortality in patients with heart failure with reduced ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Prognosis in Patients with Reduced Ejection Fraction  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is associated with increased mortality in patients with heart failure with reduced ejection fraction.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Patients with Atrial Fibrillation  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 12 mL/kg/min is associated with increased mortality in patients with heart failure and atrial fibrillation.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis in Patients with Atrial Fibrillation  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 36 is associated with increased mortality in patients with heart failure and atrial fibrillation.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Prognosis in Patients with Atrial Fibrillation  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 7 mL/beat at peak exercise is associated with increased mortality in patients with heart failure and atrial fibrillation.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Prognosis in Patients with Atrial Fibrillation  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 10 beats/min at 1 minute post-exercise is associated with increased mortality in patients with heart failure and atrial fibrillation.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Prognosis in Patients with Atrial Fibrillation  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is associated with increased mortality in patients with heart failure and atrial fibrillation.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Patients with Chronic Obstructive Pulmonary Disease  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 12 mL/kg/min is associated with increased mortality in patients with heart failure and chronic obstructive pulmonary disease.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis in Patients with Chronic Obstructive Pulmonary Disease  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 36 is associated with increased mortality in patients with heart failure and chronic obstructive pulmonary disease.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Prognosis in Patients with Chronic Obstructive Pulmonary Disease  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 7 mL/beat at peak exercise is associated with increased mortality in patients with heart failure and chronic obstructive pulmonary disease.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Prognosis in Patients with Chronic Obstructive Pulmonary Disease  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 10 beats/min at 1 minute post-exercise is associated with increased mortality in patients with heart failure and chronic obstructive pulmonary disease.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Prognosis in Patients with Chronic Obstructive Pulmonary Disease  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is associated with increased mortality in patients with heart failure and chronic obstructive pulmonary disease.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Patients with Pulmonary Hypertension  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 10 mL/kg/min is associated with increased mortality in patients with heart failure and pulmonary hypertension.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis in Patients with Pulmonary Hypertension  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 45 is associated with increased mortality in patients with heart failure and pulmonary hypertension.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Prognosis in Patients with Pulmonary Hypertension  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 6 mL/beat at peak exercise is associated with increased mortality in patients with heart failure and pulmonary hypertension.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Prognosis in Patients with Pulmonary Hypertension  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 8 beats/min at 1 minute post-exercise is associated with increased mortality in patients with heart failure and pulmonary hypertension.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Prognosis in Patients with Pulmonary Hypertension  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is associated with increased mortality in patients with heart failure and pulmonary hypertension.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Patients with Diabetes  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A peak V̇O2 of less than 12 mL/kg/min is associated with increased mortality in patients with heart failure and diabetes.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+V̇E/V̇CO2 Slope Threshold for Heart Failure Prognosis in Patients with Diabetes  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A V̇E/V̇CO2 slope of greater than 36 is associated with increased mortality in patients with heart failure and diabetes.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Oxygen Pulse Threshold for Heart Failure Prognosis in Patients with Diabetes  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+An oxygen pulse of less than 7 mL/beat at peak exercise is associated with increased mortality in patients with heart failure and diabetes.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Heart Rate Recovery Threshold for Heart Failure Prognosis in Patients with Diabetes  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+A heart rate recovery of less than 10 beats/min at 1 minute post-exercise is associated with increased mortality in patients with heart failure and diabetes.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Exercise Oscillatory Ventilation Threshold for Heart Failure Prognosis in Patients with Diabetes  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT  
+The presence of exercise oscillatory ventilation (EOV) is associated with increased mortality in patients with heart failure and diabetes.  
+
+PARENT  
+(Optional)  
+
+CHILDREN  
+(Optional)  
+
+RELATIONSHIPS  
+(Optional)  
+
+END  
+
+TYPE  
+Threshold  
+
+TITLE  
+Peak V̇O2 Threshold for Heart Failure Prognosis in Patients with Renal Disease  
+
+PAGE  
+308  
+
+SECTION  
+4.17 — Cardiopulmonary Exercise Testing  
+
+ORIGINAL TEXT

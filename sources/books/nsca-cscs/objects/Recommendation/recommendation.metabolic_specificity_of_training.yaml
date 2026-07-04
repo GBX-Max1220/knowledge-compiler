@@ -1,0 +1,29 @@
+id: recommendation.metabolic_specificity_of_training
+type: Recommendation
+canonical_name: Metabolic Specificity of Training — Energy System Selection
+semantic_type: TrainingPrinciple
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetic Limiting Factors
+  section: '3.4'
+  section_title: Bioenergetic Limiting Factors
+  book_page: 215
+  pdf_page: 215
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'The use of appropriate exercise intensities and rest intervals
+  (i.e., work-to-rest ratios) allows for the "selection" of specific primary energy
+  systems during training and, because this is more reflective of the actual metabolic
+  demands of the sport, results in more efficient and productive regimens for specific
+  athletic events with various metabolic demands.
+
+  '
+rationale: []
+application_context: []

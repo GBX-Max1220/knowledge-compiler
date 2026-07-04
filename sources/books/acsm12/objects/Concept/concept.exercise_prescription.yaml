@@ -1,0 +1,26 @@
+id: concept.exercise_prescription
+type: Concept
+canonical_name: Exercise Prescription
+semantic_type: Procedure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Exercise Prescription
+  section: '11.24'
+  section_title: Exercise Prescription
+  book_page: 999
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'No definition provided in the original text.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

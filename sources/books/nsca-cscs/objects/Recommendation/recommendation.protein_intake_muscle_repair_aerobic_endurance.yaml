@@ -1,0 +1,31 @@
+id: recommendation.protein_intake_muscle_repair_aerobic_endurance
+type: Recommendation
+canonical_name: Protein Intake for Muscle Repair After Aerobic Endurance Exercise
+semantic_type: NutritionGuideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: ''
+  section: '11.2'
+  section_title: During-Event Nutrition
+  book_page: 632
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Because prolonged aerobic endurance exercise breaks down muscle tissue,
+  protein should be included in the aerobic endurance athlete''s posttraining meal
+  to help start muscle building and repair, which may attenuate posttraining and postevent
+  muscle soreness (85).
+
+  '
+attributes: []
+purpose:
+- start muscle building and repair
+- attenuate posttraining and postevent muscle soreness
+related_concepts: []

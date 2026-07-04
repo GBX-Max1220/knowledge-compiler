@@ -1,0 +1,37 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.comprehensive_health_fitness_evaluation
+type: Concept
+canonical_name: Comprehensive Health Fitness Evaluation
+semantic_type: Process
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.7"
+  section_title: "A Comprehensive Health Fitness Evaluation"
+  book_page: 171
+  pdf_page: 171
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A systematic process that includes a medical history review, physical examination, and assessment of health-related physical fitness components.
+
+attributes:
+  - systematic
+
+purpose: []
+
+related_concepts: []
+---

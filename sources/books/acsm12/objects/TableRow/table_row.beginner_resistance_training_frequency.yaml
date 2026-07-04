@@ -1,0 +1,34 @@
+id: table_row.beginner_resistance_training_frequency
+type: TableRow
+canonical_name: Beginner Resistance Training Frequency
+semantic_type: Training Frequency
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: Exercise Prescription
+  section: '5.19'
+  section_title: Frequency of Resistance Training Exercise
+  book_page: 364
+  pdf_page: 364
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.resistance_training_frequency_guidelines
+definition: 'Recommended frequency of resistance training for beginners.
+
+  '
+attributes:
+- training_status: beginner
+- frequency: 2–3 days·wk⁻¹
+- examples: Full-body workouts, 2–3 days per week
+purpose:
+- provide frequency guidance for beginner resistance training
+related_concepts:
+- concept.beginner_training_status
+- concept.resistance_training

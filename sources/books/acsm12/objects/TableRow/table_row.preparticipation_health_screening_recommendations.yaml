@@ -1,0 +1,26 @@
+id: table_row.preparticipation_health_screening_recommendations
+type: TableRow
+canonical_name: Preparticipation Health Screening Recommendations
+semantic_type: Table
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Preparticipation Health Screening and Risk Stratification
+  section: '10.9'
+  section_title: Preparticipation Evaluation
+  book_page: 797
+  pdf_page: 797
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Table 10.1 — Preparticipation Health Screening Recommendations
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

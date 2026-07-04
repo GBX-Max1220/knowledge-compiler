@@ -1,0 +1,27 @@
+id: concept.progression
+type: Concept
+canonical_name: Progression
+semantic_type: Principle
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 18
+  chapter_title: Program Design for Resistance Training
+  section: '18.1'
+  section_title: Program Design for Resistance Training
+  book_page: 1189
+  pdf_page: 1189
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Progression, when applied properly, with loading or volume being sequential
+  and specific to the desired adaptive response, promotes long-term training benefits.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

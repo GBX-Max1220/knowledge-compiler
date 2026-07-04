@@ -1,0 +1,29 @@
+id: threshold.aerobic_exercise_intensity_moderate_cancer_survivors
+type: Threshold
+canonical_name: Moderate-Intensity Aerobic Exercise for Cancer Survivors
+semantic_type: Physiological
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: ''
+  section: '10.29'
+  section_title: Exercise Prescription
+  book_page: 846
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: adjacent_to
+  target: threshold.aerobic_exercise_intensity_vigorous_cancer_survivors
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+value: 40%–59% HRR or V̇O2R; 64%–76% HRmax; RPE 12–13 on the 6–20 scale
+unit: ''
+condition: moderate-intensity

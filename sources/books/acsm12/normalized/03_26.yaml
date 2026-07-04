@@ -1,0 +1,849 @@
+# ontology: knowledge-compiler/v1
+
+id: table_row.push_up_test
+type: TableRow
+canonical_name: Push-Up Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving push-ups.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.curl_up_test
+type: TableRow
+canonical_name: Curl-Up Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving curl-ups.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.plank_test
+type: TableRow
+canonical_name: Plank Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving a plank hold.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.squat_test
+type: TableRow
+canonical_name: Squat Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving squats.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.lunge_test
+type: TableRow
+canonical_name: Lunge Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving lunges.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.bridge_test
+type: TableRow
+canonical_name: Bridge Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving a bridge hold.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.side_plank_test
+type: TableRow
+canonical_name: Side Plank Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving a side plank hold.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.trunk_lift_test
+type: TableRow
+canonical_name: Trunk Lift Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving trunk lifts.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.leg_raise_test
+type: TableRow
+canonical_name: Leg Raise Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving leg raises.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.dip_test
+type: TableRow
+canonical_name: Dip Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving dips.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.pull_up_test
+type: TableRow
+canonical_name: Pull-Up Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving pull-ups.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.row_test
+type: TableRow
+canonical_name: Row Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving rows.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.shoulder_press_test
+type: TableRow
+canonical_name: Shoulder Press Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving shoulder presses.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.bicep_curl_test
+type: TableRow
+canonical_name: Bicep Curl Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving bicep curls.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.triceps_extension_test
+type: TableRow
+canonical_name: Triceps Extension Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving triceps extensions.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.leg_curl_test
+type: TableRow
+canonical_name: Leg Curl Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving leg curls.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.leg_extension_test
+type: TableRow
+canonical_name: Leg Extension Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving leg extensions.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.calf_raise_test
+type: TableRow
+canonical_name: Calf Raise Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving calf raises.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.heel_raise_test
+type: TableRow
+canonical_name: Heel Raise Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving heel raises.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.toe_raise_test
+type: TableRow
+canonical_name: Toe Raise Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving toe raises.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.hip_abduction_test
+type: TableRow
+canonical_name: Hip Abduction Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving hip abduction.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.hip_adduction_test
+type: TableRow
+canonical_name: Hip Adduction Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving hip adduction.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.hip_extension_test
+type: TableRow
+canonical_name: Hip Extension Test
+semantic_type: Assessment
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: ""
+  section: "3.26"
+  section_title: "Muscular Endurance"
+  book_page: 237
+  pdf_page: 237
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A test of muscular endurance involving hip extension.
+
+attributes: []
+
+purpose:
+  - assess muscular endurance
+

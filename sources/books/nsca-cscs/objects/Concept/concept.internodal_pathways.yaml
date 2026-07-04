@@ -1,0 +1,32 @@
+id: concept.internodal_pathways
+type: Concept
+canonical_name: Internodal Pathways
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 1
+  chapter_title: Benefits and Risks Associated With Physical Activity
+  section: '1.2'
+  section_title: Cardiovascular System — Heart — Conduction System
+  book_page: 68
+  pdf_page: 68
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.conduction_system
+definition: 'The internodal pathways conduct the impulse from the SA node to the atrioventricular
+  node.
+
+  '
+attributes: []
+purpose:
+- conduct impulse from SA node to AV node
+related_concepts:
+- concept.sinoatrial_sa_node
+- concept.atrioventricular_av_node

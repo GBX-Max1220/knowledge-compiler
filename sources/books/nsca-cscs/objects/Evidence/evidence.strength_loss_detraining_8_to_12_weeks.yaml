@@ -1,0 +1,27 @@
+id: evidence.strength_loss_detraining_8_to_12_weeks
+type: Evidence
+canonical_name: Strength Loss During Detraining (8 to 12 Weeks)
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 5
+  chapter_title: ''
+  section: '5.5'
+  section_title: Cardiovascular Adaptations
+  book_page: 333
+  pdf_page: null
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+evidence_text: 'Longer periods of training cessation are accompanied by significantly
+  pronounced declines in the strength performance of strength-trained athletes (124),
+  but this loss is still limited to 7% to 12% during periods of inactivity ranging
+  from 8 to 12 weeks.
+
+  '
+citation: '124'

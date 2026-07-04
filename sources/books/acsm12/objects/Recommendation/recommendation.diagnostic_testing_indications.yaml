@@ -1,0 +1,27 @@
+id: recommendation.diagnostic_testing_indications
+type: Recommendation
+canonical_name: Diagnostic Testing Indications
+semantic_type: Clinical Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 10
+  chapter_title: Preparticipation Health Screening and Risk Stratification
+  section: '10.9'
+  section_title: Preparticipation Evaluation
+  book_page: 797
+  pdf_page: 797
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Diagnostic testing, such as exercise electrocardiography, may be indicated
+  in individuals with signs or symptoms suggestive of cardiovascular disease.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

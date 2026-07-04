@@ -1,0 +1,37 @@
+id: formula.net_reaction_glycolysis_krebs
+type: Formula
+canonical_name: Net Reaction for Glycolysis (Pyruvate to Mitochondria)
+semantic_type: Chemical Equation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Bioenergetics
+  section: Glycolysis Leading to the Krebs Cycle
+  section_title: Glycolysis Leading to the Krebs Cycle
+  book_page: 189
+  pdf_page: 189
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: ''
+attributes: []
+purpose: []
+related_concepts: []
+equation: Glucose + 2Pi + 2ADP + 2NAD+ → 2Pyruvate + 2ATP + 2NADH + 2H2O
+equation_number: '3.5'
+variables:
+- name: Pi
+  description: Inorganic phosphate
+- name: ADP
+  description: Adenosine diphosphate
+- name: NAD+
+  description: Nicotinamide adenine dinucleotide
+- name: ATP
+  description: Adenosine triphosphate
+- name: NADH
+  description: Reduced nicotinamide adenine dinucleotide

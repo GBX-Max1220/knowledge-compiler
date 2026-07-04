@@ -1,0 +1,29 @@
+id: concept.t_tubule
+type: Concept
+canonical_name: T-tubule
+semantic_type: Anatomical Structure
+aliases: []
+source:
+  book: Essentials of Strength Training and Conditioning
+  edition: 5
+  chapter: 1
+  chapter_title: Structure and Function of Body Systems
+  section: '01.02'
+  section_title: Neuromuscular System
+  book_page: 56
+  pdf_page: 56
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Structures that action potentials continue down to eventually catalyze
+  the release of calcium from the sarcoplasmic reticulum.
+
+  '
+attributes: []
+purpose: []
+related_concepts:
+- concept.sarcoplasmic_reticulum
+- concept.action_potential

@@ -1,0 +1,457 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.mobility
+type: Concept
+canonical_name: Mobility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1431
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.physical_quality
+definition: >
+  Mobility is the freedom of an athlete’s limb to move through a desired range of motion.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.flexibility
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.flexibility
+type: Concept
+canonical_name: Flexibility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1431
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.physical_quality
+definition: >
+  Flexibility is a joint’s total range of motion.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.mobility
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.assistance_training
+type: TableRow
+canonical_name: Assistance Training
+semantic_type: Training_Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1432
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Assistance training (e.g., overspeed training) inclusive of modalities such as rope towing, bungee cord pulls, or downhill running with the intention of allowing the athlete to run at supramaximal speeds.
+attributes:
+  - type_of_training: "Assistance training (e.g., overspeed training)"
+  - example_exercise_modalities: "Inclusive of modalities such as rope towing, bungee cord pulls, or downhill running with the intention of allowing the athlete to run at supramaximal speeds"
+  - potential_benefits: "Theoretically, these training tools are used to potentially expose the athlete to higher velocities than one can achieve in unassisted sprinting by inducing an increased step or stride rate and exposing the athlete to higher hip angular velocities (46). This increased step rate is hypothesized to have potential for neuromuscular adaptations to increase maximal sprint velocity. Increases in overspeed should be limited to ≤10%."
+  - potential_disadvantages: "Assisted sprinting may prematurely rush an athlete’s stance phase, thus removing time needed to exert optimal forces, and has been shown to result in decreased muscle activation and propulsive force production in comparison to maximal running (66). Therefore, what can be described as chop steps may be observed. Undesirable techniques such as leaning back and overstriding may be present in a protective manner to brake, which is suboptimal. Exercises that rely on the towing of athletes may increase braking forces in comparison to maximal running (66) as athletes attempt to tolerate velocities they cannot naturally create or accommodate because of biomechanical efficiency, training state, or both. Downhill sprinting may expose the athlete to unnecessary eccentric forces through a modified stance leg that results from having to find the ground. This may also affect the SSC, which is optimized through the foot placement occurring just in front of the center of mass on ground contact in flat-surface upright sprinting (66). To date, very little research supports the implementation of overspeed training, because sprint success results from an athlete’s ability to produce large forces in a short ground contact time."
+  - practical_use_suggestions: "Top-speed sprinting should be developed through more natural and safer training tools that consider an athlete’s training status and support optimal biomechanics. Strength and conditioning professionals should carefully assess the implications of assistance modalities before implementation and these modalities may be best used when working with advanced or elite athletes."
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.resistance_sprinting
+type: TableRow
+canonical_name: Resistance Sprinting
+semantic_type: Training_Method
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1432
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Resistance sprinting inclusive of training modalities such as sled towing, sled pushing, wind resistance, incline sprinting, and sled pushing with the intention of improving an athlete’s accelerative abilities.
+attributes:
+  - type_of_training: "Resistance sprinting"
+  - example_exercise_modalities: "Inclusive of training modalities such as sled towing, sled pushing, wind resistance, incline sprinting, and sled pushing with the intention of improving an athlete’s accelerative abilities"
+  - potential_benefits: "Accentuates the biomechanics of the acceleration phase by placing the athlete in a position that promotes lowered torso (i.e., forward trunk lean), hips, and shin angles. Resisted sprinting may optimize an athlete’s ability to cover short distances quickly by overloading the acceleration phase, resulting in ground contact times that produce higher propulsive forces. Improving acceleration, which is a change in velocity, may lead to an increase in top speed through enhanced RFD. Resisted sprints and loads, and velocity decrements, can be manipulated to target technical, speed–strength, power, and strength–speed qualities (19, 20). It may offer specificity to sporting scenarios when athletes need to push (move) external mass such as in bobsled, rugby, and American football."
+  - potential_disadvantages: "Sprint efforts against a load that is too great may lead to longer ground contact times in addition to shorter step lengths that are not task specific (59). Slopes of incline that are too great may modify proper sprinting biomechanics, resulting in a rehearsal of improper technique and thus limiting transfer of training effect. Sled pushing may alter the natural sprinting gait cycle due to the removal of arm action that synchronizes and counterbalances the leg action occurring at the hip."
+  - practical_use_suggestions: "Strength and conditioning professionals and athletes attempting to improve the acceleration phase of a sprint may adopt resistance training modalities that maintain normal biomechanics involved in unresisted sprints. Loads should be chosen based on the sporting context while also considering the athlete’s physical status. For instance, track and field sprinters may use loads that do not decrease running velocity by more than 10% to 12% (2, 49, 52, 61). In contrast, field sport athletes who overcome external resistance while blocking, tackling, and scrimmaging can use loads 20% to 30% of body weight to improve the initial 5-10 m of movement (28, 52). Frictional properties will influence the amount of resistance experienced, thus prescribing sled pushes and pulls based on velocity decrements is suggested (19, 20)."
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.agility
+type: Concept
+canonical_name: Agility
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1438
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.physical_quality
+definition: >
+  Agility is the combination of physical factors (COD ability) and perceptual-cognitive aspects.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.change_of_direction_ability
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.change_of_direction_ability
+type: Concept
+canonical_name: Change-of-Direction Ability
+semantic_type: Physical_Quality
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1438
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.physical_quality
+definition: >
+  COD ability is the physical standpoint of agility performance.
+attributes: []
+purpose: []
+related_concepts:
+  - concept.agility
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.cutting_angle.shallow
+type: Threshold
+canonical_name: Shallow Cutting Angle
+semantic_type: Angle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1438
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.cutting_angle.aggressive
+definition: >
+  COD and agility movements performed at shallow cutting angles (less than 75 degrees) and associated with shorter ground contact times (less than 250 ms) (94) benefit from training similar to speed training with regard to the physical demands but still require additional perceptual-cognitive training.
+attributes:
+  - cutting_angle: "less than 75 degrees"
+  - ground_contact_time: "less than 250 ms"
+purpose: []
+related_concepts:
+  - concept.change_of_direction_ability
+  - concept.agility
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.cutting_angle.aggressive
+type: Threshold
+canonical_name: Aggressive Cutting Angle
+semantic_type: Angle
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1438
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.cutting_angle.shallow
+definition: >
+  When a COD involves a more aggressive cutting angle (equal to or greater than 75 degrees), the length of ground contact time can often exceed 250 milliseconds (8, 48, 64, 36) due to the greater braking requirements.
+attributes:
+  - cutting_angle: "equal to or greater than 75 degrees"
+  - ground_contact_time: "exceed 250 milliseconds"
+purpose: []
+related_concepts:
+  - concept.change_of_direction_ability
+  - concept.agility
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.ground_contact_time.shallow_cod
+type: Threshold
+canonical_name: Ground Contact Time for Shallow COD
+semantic_type: Time
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1438
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.ground_contact_time.aggressive_cod
+definition: >
+  Shorter ground contact times (less than 250 ms).
+attributes:
+  - ground_contact_time: "less than 250 ms"
+purpose: []
+related_concepts:
+  - concept.change_of_direction_ability
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.ground_contact_time.aggressive_cod
+type: Threshold
+canonical_name: Ground Contact Time for Aggressive COD
+semantic_type: Time
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1438
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: adjacent_to
+    target: threshold.ground_contact_time.shallow_cod
+definition: >
+  The length of ground contact time can often exceed 250 milliseconds.
+attributes:
+  - ground_contact_time: "exceed 250 milliseconds"
+purpose: []
+related_concepts:
+  - concept.change_of_direction_ability
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.cod_deficit
+type: Concept
+canonical_name: COD Deficit
+semantic_type: Metric
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1440
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The COD deficit (5-0-5 test time—10 m linear sprint time) could be determined (70, 71).
+attributes: []
+purpose: []
+related_concepts:
+  - concept.change_of_direction_ability
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.reactive_agility_tests
+type: TableRow
+canonical_name: Reactive Agility Tests
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1441
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Reactive agility tests.
+attributes:
+  - change_of_direction_speed: true
+  - maneuverability: true
+  - perceptual_cognitive_ability: true
+  - metabolic_requirement: "<3 s"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.5-0-5_test
+type: TableRow
+canonical_name: 5-0-5 Test
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1441
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  5-0-5 test.
+attributes:
+  - change_of_direction_speed: true
+  - maneuverability: false
+  - perceptual_cognitive_ability: false
+  - metabolic_requirement: "<3 s"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.5-10-5_test
+type: TableRow
+canonical_name: 5-10-5 Test
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 20
+  chapter_title: "Running Speed Development"
+  section: "20.3"
+  section_title: "Running Speed Development"
+  book_page: 1441
+  pdf_page: null
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  5-10-5 test.
+attributes:
+  - change_of_direction_speed: true
+  - maneuverability: false
+  - perceptual_cognitive_ability: false
+  - metabolic_requirement: "<5 s"
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: table_row.t_test
+type: TableRow
+canonical_name: T-test
+semantic_type: Test
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition:

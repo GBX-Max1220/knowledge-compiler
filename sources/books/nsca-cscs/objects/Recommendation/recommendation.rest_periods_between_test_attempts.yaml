@@ -1,0 +1,29 @@
+id: recommendation.rest_periods_between_test_attempts
+type: Recommendation
+canonical_name: Rest Periods Between Test Attempts
+semantic_type: Guideline
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 13
+  chapter_title: Exercise Testing
+  section: '13.4'
+  section_title: Test Selection
+  book_page: 756
+  pdf_page: 756
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'There should be at least 2 minutes of rest between attempts that are
+  not close to the athlete''s maximum and 3 minutes between attempts that are close
+  to the maximum, as judged by the relative difficulty of the previous trial or testing
+  set (21).
+
+  '
+attributes: []
+purpose: []
+related_concepts: []

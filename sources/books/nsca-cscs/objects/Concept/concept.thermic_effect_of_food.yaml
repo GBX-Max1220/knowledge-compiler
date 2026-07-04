@@ -1,0 +1,37 @@
+id: concept.thermic_effect_of_food
+type: Concept
+canonical_name: Thermic Effect of Food
+semantic_type: Metric
+aliases:
+- diet-induced thermogenesis
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 11
+  chapter_title: Nutrition Strategies for Maximizing Performance
+  section: '11.1'
+  section_title: Nutrition Strategies for Maximizing Performance
+  book_page: 643
+  pdf_page: 643
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships:
+- predicate: part_of
+  target: concept.total_energy_expenditure
+definition: 'The thermic effect of food, also known as diet-induced thermogenesis,
+  is the increase in energy expenditure above the RMR that can be measured for several
+  hours following a meal. The thermic effect of food includes the energy cost of digestion,
+  absorption, metabolism, and storage of food in the body.
+
+  '
+attributes:
+- digestion
+- absorption
+- metabolism
+- storage
+purpose: []
+related_concepts:
+- concept.resting_metabolic_rate

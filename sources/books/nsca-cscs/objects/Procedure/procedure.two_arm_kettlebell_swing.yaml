@@ -1,0 +1,58 @@
+id: procedure.two_arm_kettlebell_swing
+type: Procedure
+canonical_name: Two-Arm Kettlebell Swing
+semantic_type: Exercise
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 17
+  chapter_title: Unilateral Training
+  section: '17.5'
+  section_title: Unilateral Training
+  book_page: 1173-1175
+  pdf_page: 1173-1175
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Starting Position Stand with feet flat and placed between hip- and shoulder-width
+  apart with the toes pointed straight ahead, straddling a kettlebell. Squat down
+  with the hips lower than the shoulders and grasp the kettlebell with a closed, pronated
+  grip. Place the hands on the kettlebell with index fingers touching or close together,
+  inside of the legs, keeping the elbows fully extended. Position the body with the
+  back in a neutral spine position, shoulders retracted and depressed, feet flat on
+  the floor, and eyes focused straight ahead or slightly upward. Maintain a neutral
+  spine or normal lordotic position while flexing the hips and knees to approximately
+  a quarter-squat position, with the kettlebell hanging at arm''s length between the
+  thighs. All repetitions begin from this position. Backward Movement Phase Begin
+  the exercise by flexing at the hips to swing the kettlebell between the legs. Keep
+  the knees in a moderately flexed position with the back neutral and the elbows extended.
+  Keep swinging the kettlebell backward until the torso is nearly parallel to the
+  floor and the kettlebell is past the vertical line of the body. Forward and Upward
+  Movement Phase When the backward swing reaches its end point, reverse the movement
+  by extending the hips and knees to move the kettlebell in an upward arc. Allow momentum
+  to raise the kettlebell to eye level, keeping the elbows extended and the back in
+  a neutral spine position. Downward and Backward Movement Phase Allow the kettlebell
+  to drop into the downswing; flex the hips and knees to absorb the weight. Keep the
+  elbows fully extended and the back neutral. Continue the downward-then-backward
+  movement until the kettlebell passes under then behind the body, then begin the
+  upward movement phase for the next repetition. MAJOR MUSCLES INVOLVED gluteus maximus,
+  semimembranosus, semitendinosus, biceps femoris, vastus lateralis, vastus intermedius,
+  vastus medialis, rectus femoris
+
+  '
+attributes:
+- kettlebell
+purpose: []
+related_concepts:
+- concept.gluteus_maximus
+- concept.semimembranosus
+- concept.semitendinosus
+- concept.biceps_femoris
+- concept.vastus_lateralis
+- concept.vastus_intermedius
+- concept.vastus_medialis
+- concept.rectus_femoris

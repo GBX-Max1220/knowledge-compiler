@@ -1,0 +1,28 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.exercise_prescription_for_individuals_with_cardiovascular_and_pulmonary_diseases
+type: Concept
+canonical_name: Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases
+semantic_type: Procedure
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 8
+  chapter_title: ""
+  section: "8.22"
+  section_title: "Exercise Prescription"
+  book_page: 598
+  pdf_page: 598
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Exercise Prescription for Individuals With Cardiovascular and Pulmonary Diseases
+attributes: []
+purpose: []
+related_concepts: []
+---

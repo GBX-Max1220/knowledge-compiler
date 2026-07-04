@@ -1,0 +1,28 @@
+id: recommendation.breath_holding_duration
+type: Recommendation
+canonical_name: Breath-Holding Duration Recommendation
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 16
+  chapter_title: Exercise Technique for Free Weight and Machine Training
+  section: '16'
+  section_title: Breathing Considerations
+  book_page: 953
+  pdf_page: 953
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+recommendation_text: 'This is why the breath-holding phase is—and should be—quite
+  transient, only about 1 to 2 seconds (at most).
+
+  '
+target_audience: []
+action:
+- limit breath-holding phase to 1 to 2 seconds at most
+context: []
+rationale: []

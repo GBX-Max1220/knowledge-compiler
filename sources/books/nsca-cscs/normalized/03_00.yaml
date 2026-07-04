@@ -1,0 +1,601 @@
+# ontology: knowledge-compiler/v1
+
+id: concept.bioenergetics
+type: Concept
+canonical_name: Bioenergetics
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Bioenergetics, or the flow of energy in a biological system, concerns primarily the conversion of macronutrients—carbohydrate, protein, and fats, which contain chemical energy—into biologically usable forms of energy.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.catabolism
+type: Concept
+canonical_name: Catabolism
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The breakdown of large molecules into smaller molecules, associated with the release of energy, is termed catabolism.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.anabolism
+type: Concept
+canonical_name: Anabolism
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The synthesis of larger molecules from smaller molecules can be accomplished using the energy released from catabolic reactions; this building-up process is termed anabolism.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.exergonic_reactions
+type: Concept
+canonical_name: Exergonic Reactions
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.catabolic_reactions
+definition: >
+  Exergonic reactions are energy-releasing reactions and are generally catabolic.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.endergonic_reactions
+type: Concept
+canonical_name: Endergonic Reactions
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Endergonic reactions require energy and include anabolic processes and the contraction of muscle.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.metabolism
+type: Concept
+canonical_name: Metabolism
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Metabolism is the sum of all catabolic or exergonic and anabolic or endergonic reactions in a biological system.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adenosine_triphosphate
+type: Concept
+canonical_name: Adenosine Triphosphate
+semantic_type: Molecule
+aliases:
+  - ATP
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 176
+  pdf_page: 176
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Energy derived from catabolic or exergonic reactions is used to drive anabolic or endergonic reactions through an intermediate molecule, adenosine triphosphate (ATP).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hydrolysis
+type: Concept
+canonical_name: Hydrolysis
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 177
+  pdf_page: 177
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The breakdown of one molecule of ATP to yield energy is known as hydrolysis, because it requires one molecule of water.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adenosine_triphosphatase
+type: Concept
+canonical_name: Adenosine Triphosphatase
+semantic_type: Enzyme
+aliases:
+  - ATPase
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 177
+  pdf_page: 177
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  The hydrolysis of ATP is catalyzed by the presence of an enzyme called adenosine triphosphatase (ATPase).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.myosin_atpase
+type: Concept
+canonical_name: Myosin ATPase
+semantic_type: Enzyme
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 177
+  pdf_page: 177
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships:
+  - predicate: is_a
+    target: concept.adenosine_triphosphatase
+definition: >
+  Specifically, myosin ATPase is the enzyme that catalyzes ATP hydrolysis for crossbridge recycling.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.calcium_atpase
+type: Concept
+canonical_name: Calcium ATPase
+semantic_type: Enzyme
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 177
+  pdf_page: 177
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: "59"
+relationships:
+  - predicate: is_a
+    target: concept.adenosine_triphosphatase
+definition: >
+  Other specific enzymes hydrolyze ATP at other locations, such as calcium ATPase for pumping calcium into the sarcoplasmic reticulum (following muscle contraction) and sodium-potassium ATPase for maintaining the sarcolemmal concentration gradient after depolarization (59).
+attributes: []
+purpose:
+  - pumping calcium into the sarcoplasmic reticulum
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.sodium_potassium_atpase
+type: Concept
+canonical_name: Sodium-Potassium ATPase
+semantic_type: Enzyme
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 177
+  pdf_page: 177
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: "59"
+relationships:
+  - predicate: is_a
+    target: concept.adenosine_triphosphatase
+definition: >
+  Other specific enzymes hydrolyze ATP at other locations, such as calcium ATPase for pumping calcium into the sarcoplasmic reticulum (following muscle contraction) and sodium-potassium ATPase for maintaining the sarcolemmal concentration gradient after depolarization (59).
+attributes: []
+purpose:
+  - maintaining the sarcolemmal concentration gradient after depolarization
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adenosine_diphosphate
+type: Concept
+canonical_name: Adenosine Diphosphate
+semantic_type: Molecule
+aliases:
+  - ADP
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 177
+  pdf_page: 177
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  where ADP represents adenosine diphosphate (only two phosphate groups, figure 3.1), Pi is an inorganic phosphate molecule, and H+ is a hydrogen ion (proton).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.adenosine_monophosphate
+type: Concept
+canonical_name: Adenosine Monophosphate
+semantic_type: Molecule
+aliases:
+  - AMP
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Essential Terminology"
+  section_title: "Essential Terminology"
+  book_page: 177
+  pdf_page: 177
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Further hydrolysis of ADP cleaves the second phosphate group and yields adenosine monophosphate (AMP).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.phosphagen_system
+type: Concept
+canonical_name: Phosphagen System
+semantic_type: EnergySystem
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Biological Energy Systems"
+  section_title: "Biological Energy Systems"
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Phosphagen
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.glycolytic_system
+type: Concept
+canonical_name: Glycolytic System
+semantic_type: EnergySystem
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Biological Energy Systems"
+  section_title: "Biological Energy Systems"
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Glycolytic
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.oxidative_system
+type: Concept
+canonical_name: Oxidative System
+semantic_type: EnergySystem
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Biological Energy Systems"
+  section_title: "Biological Energy Systems"
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Oxidative
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.anaerobic_processes
+type: Concept
+canonical_name: Anaerobic Processes
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Biological Energy Systems"
+  section_title: "Biological Energy Systems"
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Anaerobic processes do not require the presence of oxygen, whereas aerobic mechanisms depend on oxygen.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.aerobic_mechanisms
+type: Concept
+canonical_name: Aerobic Mechanisms
+semantic_type: Process
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Biological Energy Systems"
+  section_title: "Biological Energy Systems"
+  book_page: 179
+  pdf_page: 179
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Anaerobic processes do not require the presence of oxygen, whereas aerobic mechanisms depend on oxygen.
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.creatine_phosphate
+type: Concept
+canonical_name: Creatine Phosphate
+semantic_type: Molecule
+aliases:
+  - CP
+  - Phosphocreatine
+  - PCr
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Phosphagen System"
+  section_title: "Phosphagen System"
+  book_page: 180
+  pdf_page: 180
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  This energy system relies on the hydrolysis of ATP (equation 3.1) and breakdown of another high-energy phosphate molecule called creatine phosphate (CP), also called phosphocreatine (PCr).
+attributes: []
+purpose: []
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.creatine_kinase
+type: Concept
+canonical_name: Creatine Kinase
+semantic_type: Enzyme
+aliases: []
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 3
+  chapter_title: "Bioenergetics"
+  section: "Phosphagen System"
+  section_title: "Phosphagen System"
+  book_page: 180
+  pdf_page: 180
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+evidence_level: ""
+relationships: []
+definition: >
+  Creatine kinase is the enzyme that catalyzes the synthesis of ATP

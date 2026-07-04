@@ -1,0 +1,539 @@
+# ontology: knowledge-compiler/v1
+
+id: recommendation.training_protocol_selection_based_on_competition_environment
+type: Recommendation
+canonical_name: Training Protocol Selection Based on Competition Environment
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 371
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In light of these research findings, which training protocol (altitude or heat) should an athlete complete? In answering this question, it is important to remember two points. First, nonhematological adaptations are directly related to the stresses of the training environment, and second, the nonhematological adaptations to both altitude and heat are specific to the environment in which the athlete will compete (118). Or put another way, what is going to have the biggest impact on the athlete’s performance on race day, altitude or heat? For example, if an athlete was preparing for a marathon to be held at an altitude of 2,500 to 3,000 meters (8,202-9,843 ft), the answer would be altitude, because the athlete would notice the change in atmospheric pressure at that altitude if he or she were from a sea-level environment. However, if the athlete was preparing for a marathon at sea level but in a warm to hot and humid environment and notably above his or her temperate, dry training environment, he or she would be best served by undertaking a heat acclimation protocol. Consequently, it is necessary to compare the training and competition environments and consider the athlete’s current level of adaptations to determine what adaptations should be optimized to improve performance on race day. Irrespective of the training method selected to prepare an athlete for competition, establishing how each athlete adapts and providing individualized programs to optimize adaptations is important, because not all athletes will respond to altitude and heat protocols the same (118).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.physiological_mechanisms_of_altitude_and_heat_acclimation_training
+type: Concept
+canonical_name: Physiological Mechanisms of Altitude and Heat Acclimation Training
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 372
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  A graphical representation of the proposed physiological mechanisms of altitude and heat acclimation training and their subsequent effect on aerobic endurance exercise performance. Erythropoietin = EPO; nitric oxide = NO; red cell volume = RCV; vascular endothelial growth factor = VEGF; hypoxia-inducible factor alpha = HIF-α; maximal aerobic capacity = V̇O2max; arteriovenous oxygen difference = a-vO2 diff. Solid lines indicate well-established relationship and dashed lines indicate limited evidence supporting the relationship.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.hyperoxic_breathing
+type: Concept
+canonical_name: Hyperoxic Breathing
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 373
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Breathing oxygen-enriched gas mixtures (hyperoxic breathing) during rest periods or following exercise can result in short-term improvements in oxygen transport, lactate metabolism, power output, and work tolerance when compared to normoxic breathing (21).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.contradictory_results_of_systematic_hyperoxic_breathing_during_training
+type: Concept
+canonical_name: Contradictory Results of Systematic Hyperoxic Breathing During Training
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 373
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In contrast, studies examining the systematic supplementation of hyperoxic breathing during aerobic endurance training over time show contradictory results and overall small benefits (21).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: threshold.arterial_hemoglobin_oxygen_saturation_at_sea_level
+type: Threshold
+canonical_name: Arterial Hemoglobin Oxygen Saturation at Sea Level
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 374
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  the breathing of ambient air at sea level by healthy people results in arterial hemoglobin oxygen saturation between 95% to 98%.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.vaping
+type: Concept
+canonical_name: Vaping
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 375
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Vaping refers to the act of inhaling an aerosol often containing nicotine and flavoring through a device, commonly known as an e-cigarette or vape pen, which heats a liquid to generate vapor without the combustion associated with traditional cigarette smoking.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.prevalence_of_vaping_in_us_high_school_students_2019
+type: Concept
+canonical_name: Prevalence of Vaping in US High School Students (2019)
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 375
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Vaping is currently the most common modality of nicotine consumption in young people, with 27.5% of high school students in 2019 in the United States reportedly vaping (133).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.blood_doping
+type: Concept
+canonical_name: Blood Doping
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The practice of artificially increasing red blood cell mass (blood doping) as a means to improve athletic performance has been criticized as unethical and as one that poses serious health risks to the athlete (120).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.health_risks_of_blood_doping
+type: Warning
+canonical_name: Health Risks of Blood Doping
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 377
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  The health risks associated with blood doping further complicate the controversy surrounding this practice. Theoretically, high hematocrit levels may increase risks for embolic events such as stroke, myocardial infarction, deep vein thrombosis, or pulmonary embolism. Increased arterial blood pressure, flu-like symptoms, and increased plasma potassium levels may present themselves with EPO use (139). Finally, there is risk associated with infusion or transfusion, although in most cases the risk is relatively small (139).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.maximal_oxygen_uptake_increase_with_blood_doping
+type: Concept
+canonical_name: Maximal Oxygen Uptake Increase with Blood Doping
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 377
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Maximal oxygen uptake has been demonstrated to increase by up to 11% with either red blood cell infusion or EPO administration (138, 139).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.effects_of_blood_doping_on_submaximal_workloads
+type: Concept
+canonical_name: Effects of Blood Doping on Submaximal Workloads
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 377
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  At standardized submaximal workloads, blood doping has also been associated with decreased heart rate and blood lactate as well as higher pH values (138).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.effects_of_smoking_on_exercise_performance
+type: Concept
+canonical_name: Effects of Smoking on Exercise Performance
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 374
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  based on the available evidence, it is clear that smokers experience lower oxygen uptake, impaired heart rate responses to exercise, and a decrease in muscular endurance compared with nonsmokers (9, 91).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: warning.health_risks_of_smoking
+type: Warning
+canonical_name: Health Risks of Smoking
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 374
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  Smokers experience impairments in lung function and are at increased risk for chronic obstructive pulmonary diseases (104, 148) including chronic bronchitis (79) and emphysema (101). Decrements in exercise tolerance and cardiopulmonary function have been observed in teenagers (100), demonstrating that the harmful effects of smoking occur in even young smokers within a relatively short period of time.
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.vaping_reduces_cardiorespiratory_fitness_in_young_adults
+type: Concept
+canonical_name: Vaping Reduces Cardiorespiratory Fitness in Young Adults
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  In young, healthy adults, regular vaping use significantly reduced cardiorespiratory fitness, measured by V̇O2peak when compared to nonvapers of the same demographic (142a).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []
+---
+# ontology: knowledge-compiler/v1
+
+id: concept.slower_run_times_in_vape_users
+type: Concept
+canonical_name: Slower Run Times in Vape Users
+semantic_type: null
+aliases: []
+
+source:
+  book: "ACSM's Guidelines for Exercise Testing and Prescription"
+  edition: 12
+  chapter: 6
+  chapter_title: "Factors Influencing Adaptations"
+  section: "6.3"
+  section_title: "Factors Influencing Adaptations"
+  book_page: 376
+  pdf_page: null
+
+provenance:
+  extraction: "reasonix-code-v1"
+  generation: "reasonix-code-v1"
+  reviewed: "auto"
+
+evidence_level: ""
+
+relationships: []
+
+definition: >
+  significantly slower 2-mile (3.1 km) run times have been reported in vape users compared to nonvapers, with times also being slower compared to traditional cigarette smokers (30).
+
+attributes: []
+
+purpose: []
+
+related_concepts: []

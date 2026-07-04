@@ -1,0 +1,27 @@
+id: concept.allosteric_inhibition
+type: Concept
+canonical_name: Allosteric Inhibition
+semantic_type: RegulatoryProcess
+aliases: []
+source:
+  book: ACSM's Guidelines for Exercise Testing and Prescription
+  edition: 12
+  chapter: 3
+  chapter_title: Biological Energy Systems
+  section: '3.2'
+  section_title: Biological Energy Systems
+  book_page: 191
+  pdf_page: 191
+provenance:
+  extraction: reasonix-code-v1
+  generation: reasonix-code-v1
+  reviewed: auto
+evidence_level: ''
+relationships: []
+definition: 'Allosteric inhibition occurs when an end product binds to the regulatory
+  enzyme and decreases its turnover rate and slows product formation.
+
+  '
+attributes: []
+purpose: []
+related_concepts: []
