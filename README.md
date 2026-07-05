@@ -77,21 +77,37 @@ Every query returns an **object** — typed, sourced, validated — not generate
 
 ---
 
-## Coverage (v0.1)
+## Coverage
 
 ```
-74 Objects · 23 Edges · 6 Types · 5 Validation Layers ✅
+2305 Objects · 837 Edges · 13 Types · 5 Validation Layers ✅
 ```
 
-| Type | Count | What it covers |
-|------|-------|---------------|
-| Concept | 38 | PA, Exercise, MET, VO₂max, fitness components, sedentary behavior, CVD risk factors |
-| Threshold | 11 | MET intensity, BMI, BP, cholesterol, waist circumference, body fat % |
-| Procedure | 9 | Screening algorithm, BP measurement, 1-RM testing, YMCA protocol, test termination |
-| Recommendation | 8 | PA guidelines, medical clearance, screening for young athletes, cardiac prevention |
-| Warning | 5 | CV signs/symptoms, cardiac prodromal symptoms, SCD/AMI risk, MSI risk |
-| Formula | 3 | Cooper 12-min run, body density (Jackson-Pollock), % body fat (Siri) |
-| **Total** | **74** | **ACSM 12th Ed., Chapters 1–3** |
+### By Book
+
+| Book | Objects | Types | Chapters | Status |
+|------|:-------:|:-----:|:--------:|:------:|
+| ACSM 12th Ed. | **707** | 13 | 12 | ✅ Released |
+| NSCA-CSCS 5th Ed. | **1598** | 13 | 26 | ✅ Released |
+| **Total** | **2305** | 13 | 38 | 0 structural errors |
+
+### By Type
+
+| Type | ACSM | NSCA | Total | Example |
+|------|:----:|:----:|:-----:|---------|
+| Concept | 141 | 918 | 1059 | Exercise, VO2max, Sarcomere |
+| Threshold | 206 | 114 | 320 | BMI, MET ranges, BP |
+| Recommendation | 139 | 174 | 313 | PA guidelines, training |
+| TableRow | 127 | 124 | 251 | Normative data, references |
+| Procedure | 29 | 98 | 127 | 1-RM testing, screening |
+| Warning | 34 | 46 | 80 | SCD risk, overtraining |
+| Evidence | 2 | 82 | 84 | Research findings |
+| Formula | 5 | 23 | 28 | Cooper, Siri equation |
+| Figure | 16 | 7 | 23 | Screening algorithms |
+| Contraindication | 4 | 1 | 5 | Exercise CI |
+| Table | 2 | 3 | 5 | Reference tables |
+| RiskFactor | 1 | 3 | 4 | CVD risk factors |
+| DecisionRule | 1 | 2 | 3 | Screening decisions |
 
 ### Benchmark Results
 
