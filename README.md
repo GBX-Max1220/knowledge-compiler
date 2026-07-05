@@ -248,15 +248,15 @@ The pipeline stages (chunk, extract, normalize) use an AI provider to generate o
 
 | Version | Coverage | Status |
 |---------|----------|--------|
-| v0.1 | Ch1–3: Benefits, Screening, Fitness Testing | ✅ Released |
-| v0.2 | Ch4–6: Clinical Testing, Exercise Prescription | 🔜 |
-| v0.3 | Ch7–9: Environment, Disease Populations | 🔜 |
-| v1.0 | Full ACSM 12th Edition | 🔜 |
+| v0.1 | ACSM 12th Ed. (Ch1-3 pilot) — schema, ontology, prompts | ✅ Released |
+| v0.2 | **ACSM Full Book** (707 objects) + **NSCA-CSCS Full Book** (1598 objects) | ✅ **Complete** |
+| v1.0 | Cross-source merge, multi-backend (Neo4j/RDF/MCP), CI/CD, external review | 🔜 |
+| v2.0 | New source types (clinical guidelines, papers), public API | 🔜 |
 
-**Future books (framework-agnostic):**
-- NSCA's Essentials of Strength Training and Conditioning
+**Future sources:**
 - WHO Physical Activity Guidelines
 - General medical / HCI handbooks
+- Research papers (PubMed extraction pipeline)
 
 ---
 
