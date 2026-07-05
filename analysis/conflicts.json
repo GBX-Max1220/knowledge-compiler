@@ -1,0 +1,101 @@
+[
+  {
+    "id": "concept.agility",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Agility",
+    "acsm_definition": "The ability to change the position of the body in space with speed and accuracy.",
+    "nsca_definition": "Agility traditionally has been considered the ability to stop, start, and change the direction of th",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.anxiety",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Anxiety",
+    "acsm_definition": "A normal emotional response to a real or perceived threat.",
+    "nsca_definition": "Anxiety is a subcategory of arousal in that it is a negatively perceived emotional state characteriz",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.balance",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Balance",
+    "acsm_definition": "Balance is the ability to maintain the body's center of gravity over its base of support.",
+    "nsca_definition": "Balance is the ability to maintain static and dynamic equilibrium or the ability to maintain the bod",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.body_composition",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Body Composition",
+    "acsm_definition": "The relative amounts of muscle, fat, bone, and other vital parts of the body.",
+    "nsca_definition": "Body composition usually refers to the relative proportions by weight of fat and lean tissue.",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.flexibility",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Flexibility",
+    "acsm_definition": "The range of motion available at a joint.",
+    "nsca_definition": "Flexibility is defined as the range of motion (ROM) that occurs about a joint. Flexibility can be ex",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.high_intensity_interval_training",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "High-Intensity Interval Training",
+    "acsm_definition": "",
+    "nsca_definition": "High-intensity interval training (HIIT) involves brief repeated bouts of high-intensity exercise wit",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.osteoporosis",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Osteoporosis",
+    "acsm_definition": "",
+    "nsca_definition": "Osteoporosis is defined by a bone mineral density below −2.5 SD of the young adult mean.",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.power",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Power",
+    "acsm_definition": "The ability or rate at which one can perform work.",
+    "nsca_definition": "Finally, power refers to how quickly work is performed. In its simplest form, power is the amount of",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.specificity",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Specificity",
+    "acsm_definition": "The ability of a test to correctly identify those individuals without the disease (i.e., true negati",
+    "nsca_definition": "One of the most basic concepts to incorporate in all training programs is specificity. The term, fir",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.speed",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Speed",
+    "acsm_definition": "The ability to perform a movement within a short period of time.",
+    "nsca_definition": "Speed is movement distance per unit of time and is typically quantified as the time taken to cover a",
+    "status": "conflict"
+  },
+  {
+    "id": "concept.warm_up",
+    "type_acsm": "Concept",
+    "type_nsca": "Concept",
+    "canonical_name": "Warm Up",
+    "acsm_definition": "Warm Up is a concept in exercise science.",
+    "nsca_definition": "A warm-up is designed to prepare an athlete for performance either in an upcoming training session o",
+    "status": "conflict"
+  }
+]

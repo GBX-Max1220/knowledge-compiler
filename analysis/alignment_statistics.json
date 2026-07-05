@@ -1,0 +1,11 @@
+{
+  "acsm_objects": 707,
+  "nsca_objects": 1595,
+  "total_objects": 2302,
+  "shared_ids": 11,
+  "merged": 0,
+  "conflicts": 11,
+  "conflict_rate": 100.0,
+  "only_acsm": 696,
+  "only_nsca": 1584
+}
